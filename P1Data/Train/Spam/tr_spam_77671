@@ -1,0 +1,1213 @@
+From @..  Sun Jan 25 11:40:53 2015
+Return-Path: <@..>
+X-Original-To: sophiewetton@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id E11BBDE; Sun, 25 Jan 2015 11:40:53 +0000 (UTC)
+Received: from rev2.news.barrattplc.co.uk (194.75.52.180 [194.75.52.180])
+    by .. with SMTP id nz4imrh3rr23prfss9m7mgja62;
+    for sophiewetton@fs.net;
+    Sun, 25 Jan 2015 11:40:53 +0000 (UTC)
+    (envelope-from bounce@news.barrattplc.co.uk)
+Received-SPF: TempError; receiver=..;
+    client-ip=194.75.52.180; envelope-from=<bounce@news.barrattplc.co.uk>;
+    helo=rev2.news.barrattplc.co.uk; mechanism=mx
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=194.75.52.180; client-port=49899; client-dnsfail=194.75.52.180:
+    name server failure; syn-fingerprint=8192:116:1:52:M1380,N,W8,N,N,S
+    Windows XP/2000 (RFC1323 no tstamp); network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.218
+    206.126.236.140 166.49.208.58 213.137.183.37 62.6.201.166 213.121.193.42
+    109.159.252.209 31.55.138.251; network-path-time=1422186053;
+    RBL-errors=dnsbl.sorbs.net (name server failure), zen..org (name
+    server failure), dul.dnsbl.sorbs.net (name server failure), bl..net
+    (name server failure)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=barratthomes.co.uk;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:content-type;
+	bh=vFWbaFVx1gMign5hFdBoQMVa9odx31SWBszQRRFde8I=;
+	b=IvMh/O12e5HnAgjN1YDWioFAW3TqQcPcHur2ktLKngyr0uAt21tH0qn2n84xXNfZdUPZ8GjW/MJcyiba5MYkNg==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=barratthomes.co.uk;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:Content-Type;
+	b=QmMunshqrbV9F5ser/W92j6AjK1teTiQk2zi5SpR6jiy8Ci7idt6x7+QytyKI5It49tdcHNeRIOdgJVyC01Qlg==
+From: "Barratt Homes News" <@..>
+Date: Sun, 25 Jan 2015 11:40:13 GMT
+Subject: =?utf-8?B?QSBiZWF1dGlmdWwgbmV3IGhvbWUgdGhhdCBpcyBidWlsdCBhcm8=?=
+ =?utf-8?B?dW5kIHlvdSBhdCBTdC4gTWFyZ2FyZXQncyBWaWV3LCBDcmljaw==?=
+To: <@..>
+Reply-To: "Barrat Homes Reply" <@..>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.11.5805
+Message-ID: <NM605590FB00257A306barrattprod@news.barrattplc.co.uk>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_062_1C8DAE0F.1C8DAE0F"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_062_1C8DAE0F.1C8DAE0F
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------=_NextPart_062_1C8DAE0F.1C8DAE0F
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- **********************************************************************=
+**********  BARRATT template  *********************************************=
+********************************************************* -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- Generic template-----------------------------------------------=
+------------------------------------------------------- -->
+<!-- These are generic templates -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- End Generic -------------------------- -->
+
+<!-- ----------------------------------------------------------------------=
+----------- Hitachi templates ---------------------------------------------=
+---------------------------------------------------------- -->
+<!-- These templates have a different markup from the others (they have bee=
+n created by a different agency) -->
+
+
+
+<!-- ----------------------------------------------------------------------=
+----- END HITACHI ---------------------------------------------------------=
+----------------------------------------------------------- -->
+
+<!-- ----------------------------------------------------------------------=
+----- INVESTOR TEMPLATE ---------------------------------------------------=
+----------------------------------------------------------------- -->
+
+
+
+<!-- ----------------------------------------------------------------------=
+----- END INVESTOR TEMPLATE -----------------------------------------------=
+--------------------------------------------------------------------- -->
+
+<!-- **********************************************************************=
+******** End BARRATT template *********************************************=
+********************************************************* -->
+
+<!-- **********************************************************************=
+**********  DWH template  *************************************************=
+********************************************************* -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- DWH Generic template-------------------------------------------=
+----------------------------------------------------------- -->
+<!-- These are generic templates -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- End Generic -------------------------- -->
+
+<!-- ----------------------------------------------------------------------=
+-----DWH HITACHI ----------------------------------------------------------=
+----------------------------------------------------------- -->
+
+
+<!-- ----------------------------------------------------------------------=
+- END HITACHI -------------------------------------------------------------=
+--------------------------------------- -->
+
+<!-- ----------------------------------------------------------------------=
+- START INVESTOR TEMPLATE -------------------------------------------------=
+--------------------------------------------------- -->
+
+
+
+<!-- ----------------------------------------------------------------------=
+- END INVESTOR TEMPLATE ---------------------------------------------------=
+------------------------------------------------- -->
+
+<!-- **********************************************************************=
+********* End DWH template ************************************************=
+********************************************************* -->
+
+<!-- **********************************************************************=
+**********  WARD template  ************************************************=
+********************************************************** -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- Generic template-----------------------------------------------=
+------------------------------------------------------- -->
+<!-- These are generic templates -->
+
+
+<!-- ----------------------------------------------------------------------=
+----------- End Generic -------------------------- -->
+
+<!-- **********************************************************************=
+******** End WARD template ************************************************=
+****************************************************** -->
+
+<!-- ----------------------------------------------------------------------=
+----------- Hitachi templates ---------------------------------------------=
+---------------------------------------------------------- -->
+<!-- These templates have a different markup from the others (they have bee=
+n created by a different agency) -->
+
+
+
+<!-- ----------------------------------------------------------------------=
+----- END HITACHI ---------------------------------------------------------=
+----------------------------------------------------------- -->
+
+
+
+<!-- **********************************************************************=
+**********  @Start Barratt Generic Template  ******************************=
+***************************************************************************=
+* -->
+
+
+
+
+<!-- **********************************************************************=
+**********  @End Barratt Generic Template  ********************************=
+************************************************************************** =
+-->
+
+<!-- **********************************************************************=
+**********  BARRATT Emergency template 08/10/12 ***************************=
+***************************************************************************=
+ -->
+
+
+<!-- **********************************************************************=
+******** End BARRATT Emergency template 08/10/12***************************=
+***************************************************************************=
+ -->
+
+<!-- **********************************************************************=
+**********  DWH Emergency template 09/10/12********************************=
+************************************************************************** =
+-->
+
+
+<!-- **********************************************************************=
+********* End DWH Emergency template 09/10/12******************************=
+***************************************************************************=
+ -->
+
+<!-- **********************************************************************=
+**********  Barratt Bespoke templates 19/11/12*****************************=
+***************************************************************************=
+** -->
+
+
+<!-- **********************************************************************=
+********* Barratt End Bespoke templates 019/11/12**************************=
+***************************************************************************=
+**** -->
+
+<!-- **********************************************************************=
+********* Barratt H2 templates 14/01/13************************************=
+********************************************************************* -->
+
+<!-- **********************************************************************=
+********* Barratt End H2 templates 14/01/13********************************=
+************************************************************************* -=
+->
+
+<!-- **********************************************************************=
+********* DWH H2 templates 14/01/13****************************************=
+***************************************************************** -->
+
+<!-- **********************************************************************=
+********* DWH End H2 templates 14/01/13************************************=
+********************************************************************* -->
+
+<!-- **********************************************************************=
+********* Barratt Trumpington Template Start ******************************=
+***************************************************************************=
+ -->
+
+
+
+<!-- **********************************************************************=
+********* Barratt Trumpington Template End ********************************=
+************************************************************************* -=
+->
+
+<!-- **********************************************************************=
+********* Barratt Additional H2 Templates Start 27/03/13 ******************=
+************************************************************************* -=
+->
+
+
+
+<!-- **********************************************************************=
+********* Barratt Additional H2 Templates End 27/03/13 ********************=
+************************************************************************ --=
+>
+
+<!-- **********************************************************************=
+********* DWH Additional H2 Templates Start 01/05/13 **********************=
+********************************************************************* -->
+
+
+
+<!-- **********************************************************************=
+********* DWH Additional H2 Templates End 01/05/13 ************************=
+******************************************************************** -->
+
+<!-- **********************************************************************=
+********* Ward Additional H2 Templates Start 07/05/13 *********************=
+********************************************************************** -->
+
+
+
+<!-- **********************************************************************=
+********* Ward Additional H2 Templates End 01/05/13 ***********************=
+********************************************************************* -->
+
+<!-- **********************************************************************=
+********* Barratt Selling in the Summer Start *****************************=
+*************************************************************** -->
+
+
+
+<!-- **********************************************************************=
+********* Barratt Selling in the Summer End *******************************=
+************************************************************* -->
+
+<!-- **********************************************************************=
+********* DWH and Ward Selling in the Summer Start ************************=
+******************************************************************** -->
+
+
+
+
+<!-- **********************************************************************=
+********* DWH and Ward Selling in the Summer End **************************=
+****************************************************************** -->
+
+<!-- **********************************************************************=
+********* DWH and Ward Newbury Racecourse Templates Start 08/07/13 ********=
+***************************************************************************=
+******** -->
+
+
+
+
+<!-- **********************************************************************=
+********* DWH Newbury Racecourse Templates End 08/07/13 *******************=
+************************************************************************* -=
+->
+
+<!-- **********************************************************************=
+********* Barratt Lotherington and Seebohm Template Start *****************=
+***************************************************************************=
+************* -->
+
+
+
+<!-- **********************************************************************=
+********* Barratt Lotherington and Seebohm Template End *******************=
+***************************************************************************=
+*********** -->
+
+<!-- **********************************************************************=
+********* Barratt/DWH APR Templates Start 05/08/2013 **********************=
+***************************************************************************=
+******** -->
+
+
+<!-- **********************************************************************=
+********* Barratt/DWH APR Templates End 05/08/2013 ************************=
+***************************************************************************=
+****** -->
+
+<!-- **********************************************************************=
+********* Barratt/DWH Tail End Templates Start 14/08/2013 *****************=
+***************************************************************************=
+************* -->
+
+
+
+<!-- **********************************************************************=
+********* Barratt/DWH Tail End Templates End 14/08/2013 *******************=
+***************************************************************************=
+*********** -->
+
+<!-- **********************************************************************=
+********* Brunel Gardens Start 23/09/2013 *********************************=
+************************************************************************ --=
+>
+
+<!-- **********************************************************************=
+********* Brunel Gardens End 23/09/2013 ***********************************=
+********************************************************************** -->
+
+<!-- **********************************************************************=
+********* Barratt APR Templates Start 20/11/2013 **************************=
+***************************************************************************=
+**** -->
+
+<!-- **********************************************************************=
+********* Barratt APR Templates End 20/11/2013 ****************************=
+***************************************************************************=
+** -->
+
+<!-- ****************** Barratt Announcement Template START 28/11/2013 ****=
+************** -->
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>Barratt</title>
+<link href=3D"http://dev-celerity-is.co.uk/barrattresponsive.css" rel=3D"st=
+ylesheet" type=3D"text/css" />
+</head>
+<body>
+<table width=3D"600" border=3D"0" class=3D"mobile600" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  <tr>
+    <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:10px; =
+line-height:14px; color:#000000;"><p align=3Dcenter>
+  <font style=3D"font-family: Verdana, Arial; font-size: 10px">
+  If you are unable to view this message correctly, 
+  <a href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,258bb54
+&WT.mc_id=3D000000000000039297798&p1=3DvoQGvKwv75Ptk9OMNSFtKg=3D"Mirror Page" _type=3D"mirrorPage">click here</a>
+  </font>
+</p></td>
+  </tr>
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  <tr>
+    <td><table width=3D"600" class=3D"mobile600" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+        <tr>
+          <td bgcolor=3D"#4F555D"><table width=3D"246" class=3D"mobile600" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td bgcolor=3D"#4F555D"><a href=3D"http://p.barratthomes.co=
+=2Euk/r/=3Fid=3Dh5590fb0,257a306,258bb55
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><img style=3D"border:0=
+;" src=3D"http://p.barrattplc.co.uk/res/barrattprod/barratt_rb_Logo.png" ti=
+tle=3D"Barratt Homes" alt=3D"Barratt Homes" width=3D"246" class=3D"mobile60=
+0" /></a></td>
+                <td class=3D"remove" width=3D"94"></td>
+              </tr>
+            </table></td>
+          <td class=3D"remove" valign=3D"top" bgcolor=3D"#4F555D"><table bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td height=3D"4"></td>
+              </tr>
+              <tr>
+                <td class=3D"remove" height=3D"46"></td>
+              </tr>
+              <tr>
+                <td style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:14px; line-height:17px; text-align:left !important; font-weight:bold;=
+ color:#FFFFFF;">0844 811 33 99 | <a href=3D"http://p.barratthomes.co.uk/r/=
+=3Fid=3Dh5590fb0,257a306,258bb56
+&WT.mc_id=3D000000000000039297798" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; line-height:17px; text-align:left !important; fo=
+nt-weight:bold; color:#FFFFFF; text-decoration:none;" target=3D"_blank">bar=
+ratthomes.co.uk</a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  <!-- HERO BACK START -->
+  <tr>
+    <td valign=3D"top" align=3D"center" width=3D"600" height=3D"316" class=
+=3D"mobile600" background=3D"http://p.barratthomes.co.uk/res/barrattprod//d=
+77f46183e1f6d6ee84a5d5f9a80830e.jpg"><!--[if gte mso 9]> <v:image xmlns:v=
+=3D"urn:schemas-microsoft-com:vml" id=3D"theImage" style=3D'behavior: url(#=
+default#VML); display:inline-block; position:absolute; height:316px; width:=
+600px;top:0;left:0;border:0;z-index:1;' src=3D"http://p.barratthomes.co.uk/=
+res/barrattprod//d77f46183e1f6d6ee84a5d5f9a80830e.jpg"/> <v:shape xmlns:v=
+=3D"urn:schemas-microsoft-com:vml" id=3D"theText" style=3D'behavior: url(#d=
+efault#VML); display:inline-block;position:absolute; height:316px; width:60=
+0px;top:-5;left:0;border:0;z-index:2;'> <div> <![endif]-->
+      
+      <table width=3D"600" border=3D"0" class=3D"mobile600" cellspacing=3D"=
+0" cellpadding=3D"0">
+        <tr>
+          <td width=3D"1"></td>
+          <td width=3D"19"></td>
+          <td width=3D"560px" valign=3D"top" align=3D"left"><table width=3D=
+"260" class=3D"mobile30" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td colspan=3D"3">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan=3D"3" bgcolor=3D"#A3C935" height=3D"10"></td>
+              </tr>
+              <tr>
+                <td width=3D"10" bgcolor=3D"#A3C935"></td>
+                <td bgcolor=3D"#A3C935"><span style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:18px; line-height:21px; text-align:left !im=
+portant; font-weight:bold; color:#4F565E;">A beautiful new home that is bui=
+lt around</span> <span style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:18px; line-height:21px; text-align:left !important; font-weight:bo=
+ld; color:#FFFFFF;"></span> <span style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:18px; line-height:21px; text-align:left !important; fon=
+t-weight:bold; color:#4F565E;">you at St. Margaret's View, Crick</span></td=
+>
+                <td width=3D"10" bgcolor=3D"#A3C935"></td>
+              </tr>
+              <tr>
+                <td colspan=3D"3" bgcolor=3D"#A3C935">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width=3D"10" bgcolor=3D"#A3C935"></td>
+                <td bgcolor=3D"#A3C935" style=3D"font-family:Arial, Helveti=
+ca, sans-serif; font-size:13px; line-height:16px; text-align:left !importan=
+t; font-weight:normal; color:#4F565E;">St. Margaret's View is our brand new=
+ development in the village of Crick offering a beautiful selection of thre=
+e, four and five bedroom homes, ideal for growing families and couples alik=
+e.</td>
+                <td width=3D"10" bgcolor=3D"#A3C935"></td>
+              </tr>
+              <tr>
+                <td colspan=3D"3" bgcolor=3D"#A3C935">&nbsp;</td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#A3C935" width=3D"10"></td>
+                <td align=3D"center"bgcolor=3D"#A3C935"><table class=3D"mob=
+ile600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td bgcolor=3D"#CD2F17" width=3D"10"></td>
+                      <td class=3D"mobile600" bgcolor=3D"#CD2F17" height=3D=
+"40" style=3D"font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font=
+-size:15px; line-height:15px;" align=3D"center"><a target=3D"_blank" href=
+=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,258bb57
+&WT.mc_id=3D000000000000039297798" style=3D"text-decoration:none; font-fami=
+ly:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:15px; line-height=
+:15px; font-weight:bold;">Get moving</a></td>
+                      <td bgcolor=3D"#CD2F17" width=3D"10"></td>
+                      <td width=3D"24" align=3D"center" bgcolor=3D"#CD2F17"=
+ class=3D"remove"><a href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0=
+,257a306,258bb58
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><img src=3D"http://p.b=
+arrattplc.co.uk/res/barrattprod/barratt_rb_arrowgo.png" title=3D"Barratt Ho=
+mes" alt=3D"Barratt Homes" width=3D"14" height=3D"24" style=3D"border:0;" b=
+order=3D"0" /></a></td>
+                    </tr>
+                  </table></td>
+                <td bgcolor=3D"#A3C935" width=3D"10"></td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#A3C935" height=3D"10"></td>
+                <td bgcolor=3D"#A3C935" height=3D"10"></td>
+                <td bgcolor=3D"#A3C935" height=3D"10"></td>
+              </tr>
+            </table></td>
+          <td width=3D"19"></td>
+          <td width=3D"1"></td>
+        </tr>
+      </table>
+      
+      <!--[if gte mso 9]> </div></v:shape><![endif]--></td>
+  </tr>
+  <!-- HERO BACK END -->
+  <tr>
+    <td><table border=3D"0" class=3D"mobile600" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+        <tr>
+          <td width=3D"1" height=3D"20" bgcolor=3D"#CCCCCC"></td>
+          <td width=3D"598"></td>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+        </tr>
+      </table>
+  </tr>
+  <!-- IMG START FULL -->
+  <tr>
+    <td><table width=3D"600" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+          <td width=3D"19"></td>
+          <td><a href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257=
+a306,258bb59
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><img src=3D"http://p.b=
+arratthomes.co.uk/res/barrattprod//ac7052a3b5b622267fe0adc8cacae7ea.jpg" ti=
+tle=3D"A beautiful new home that is built around" alt=3D"A beautiful new ho=
+me that is built around " width=3D"560" class=3D"mobile600" style=3D"displa=
+y:block; margin:0;" border=3D"0" /></a></td>
+          <td width=3D"19"></td>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <!-- IMG END FULL --> <!-- 2 ITEM START -->
+  <tr>
+    <td><table width=3D"600" border=3D"0" class=3D"mobile600" cellspacing=
+=3D"0" cellpadding=3D"0">
+        <tr>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+          <td width=3D"19"></td>
+          <td><table width=3D"560" border=3D"0" class=3D"mobile600" cellspa=
+cing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td height=3D"20"></td>
+              </tr>
+              <tr>
+                <td><table class=3D"mobile600" width=3D"560" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                    <tr>
+                      
+                      
+                      
+                      <td width=3D"270" valign=3D"top" style=3D"vertical-al=
+ign:top !important;" class=3D"fulltopblue"><table class=3D"mobile600" width=
+=3D"270" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td><a href=3D"http://p.barratthomes.co.uk/r/=
+=3Fid=3Dh5590fb0,257a306,258bb5a
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><img src=3D"http://p.b=
+arratthomes.co.uk/res/barrattprod//67cd4ad09f3dc84a42319d90f4da9138.jpg" al=
+t=3D"Make the move to the stunning four bed Lincoln in the delightful villa=
+ge of Crick" title=3D"Make the move to the stunning four bed Lincoln in the=
+ delightful village of Crick" class=3D"mobile600" width=3D"270" style=3D"bo=
+rder:0;" border=3D"0" /></a></td>
+                          </tr>
+                          <tr>
+                            <td height=3D"14"></td>
+                          </tr>
+                          <tr>
+                            <td height=3D"6" class=3D"remove"></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:18px; line-height:21px; text-align:left !important; font-=
+weight:bold; color:#A3c935;">Make the move to the stunning four bed Lincoln=
+ in the delightful village of Crick</td>
+                          </tr>
+                          <tr>
+                            <td height=3D"15"></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:13px; line-height:17px; text-align:left !important; font-=
+weight:normal; color:#757575;"><p>The <a title=3D"Click here for more infor=
+mation" href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,258b=
+b5b
+&WT.mc_id=3D000000000000039297798">Lincoln, No.2</a> is a beautifully prese=
+nted four bedroom home featuring an open-plan kitchen with breakfast and fa=
+mily areas and a separate dual aspect dining room and lounge with french do=
+ors to the rear garden. The first floor boasts the master bedroom with en s=
+uite shower room, two further double bedrooms, one single bedroom and a fam=
+ily bathroom. The Lincoln also includes a single garage with two parking sp=
+aces.<br /><strong><br />Our sales advisers are with you every step of the =
+way...</strong><br />Our sales adviser Jody is happy to help you with any q=
+ueries that you may have regarding the Lincoln and the Sales and Leaseback =
+scheme we have available.</p></td>
+                          </tr>
+                        </table></td>
+                      
+                      <td width=3D"20" class=3D"remove"></td>
+                      
+                      
+                      
+                      
+                      
+                      
+                      <td width=3D"270" valign=3D"top" style=3D"vertical-al=
+ign:top !important;" class=3D"fullbottomblue"><table class=3D"mobile600" wi=
+dth=3D"270" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td><a href=3D"http://p.barratthomes.co.uk/r/=
+=3Fid=3Dh5590fb0,257a306,258bb5c
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><img src=3D"http://p.b=
+arratthomes.co.uk/res/barrattprod//fe2afb347208f8867cdbc2441345c491.jpg" al=
+t=3D"A 6Leaseback scheme" title=3D"A 6coln and our Sale and Leaseback scheme" class=3D"mobile600" width=3D"270" s=
+tyle=3D"border:0;" border=3D"0" /></a></td>
+                          </tr>
+                          <tr>
+                            <td height=3D"14"></td>
+                          </tr>
+                          <tr>
+                            <td height=3D"6" class=3D"remove"></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:18px; line-height:21px; text-align:left !important; font-=
+weight:bold; color:#A3c935;">A 6incoln and our Sale and Leaseback scheme</td>
+                          </tr>
+                          <tr>
+                            <td height=3D"15"></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:13px; line-height:17px; text-align:left !important; font-=
+weight:normal; color:#757575;"><p>Take advantage of a great opportunity in =
+the buy-to-let market and earn a high rental yield with a Barratt home &amp=
+; our sale &amp; lease back scheme. Our professional teams will help you th=
+rough the whole process making it as simple as possible. All of this comes =
+with the added peace of mind with our exclusive 5 year fixtures and fitting=
+s warranty. With sale &amp; lease back you could buy our beautiful Lincoln =
+show home and then lease it back to us. You get a guaranteed tenant for the=
+ duration of the lease, making for a fantastic investment: Up to 6rental yield (paid monthly) for the duration of the lease - guaranteed, you=
+r investment may include free fixtures and fittings.<br /><br /><strong>Why=
+ not visit our sales centre...</strong><br />Our sales centre is open Sunda=
+y, Monday, Thursday and Friday 11am-6pm and Saturday 10am-5pm.<br />St. Mar=
+garet's View, Main Road, Crick, Northampton NN6 7SL</p></td>
+                          </tr>
+                        </table></td>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+          <td width=3D"19"></td>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <!-- 2 ITEM END -->
+  <tr>
+    <td><table border=3D"0" class=3D"mobile600" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+        <tr>
+          <td width=3D"1" height=3D"20" bgcolor=3D"#CCCCCC"></td>
+          <td width=3D"598"></td>
+          <td width=3D"1" bgcolor=3D"#CCCCCC"></td>
+        </tr>
+      </table>
+  </tr>
+  <tr>
+    <td><table width=3D"600" class=3D"mobile600" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+        <tr>
+          <td valign=3D"Middle" bgcolor=3D"#4F555D" width=3D"354"><table wi=
+dth=3D"354" class=3D"mobile600" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+              <tr>
+                <td></td>
+                <td height=3D"12"></td>
+              </tr>
+              <tr>
+                <td width=3D"20"></td>
+                <td style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:18px; line-height:21px; text-align:left !important; font-weight:norma=
+l; color:#FFFFFF;">Get more at <a style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:18px; line-height:21px; text-align:left !important; fon=
+t-weight:normal; color:#FFFFFF; text-decoration:none;" href=3D"http://p.bar=
+ratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,258bb5d
+&WT.mc_id=3D000000000000039297798" target=3D"_blank"><strong>barratthomes.c=
+o.uk</strong></a><br />
+                  or call <strong>0844 811 33 99</strong></td>
+              </tr>
+            </table></td>
+          <td width=3D"246" class=3D"remove"><img src=3D"http://p.barrattpl=
+c.co.uk/res/barrattprod/barratt_rb_Logo.png" style=3D"margin:0px; padding:0=
+px; display:block;" title=3D"Barratt Homes" alt=3D"Barratt Homes" width=3D"=
+246" class=3D"mobile600" height=3D"80" /></td>
+        </tr>
+      </table></td>
+  </tr>
+<tr><td height=3D"10"></td></tr>
+  <tr>
+    <td class=3D"remove"><table width=3D"600" cellspacing=3D"0" cellpadding=
+=3D"0">
+        <tr><!-- Help to buy-->
+          
+          <td width=3D"0"></td>
+          
+          
+          
+          
+          <!-- Help to buy  end -->
+          <td width=3D"15"></td>
+          <!-- warranty logo Start Amended-->
+          
+          
+          
+          <td width=3D"103" align=3D"left"><img src=3D"http://p.barratthome=
+s.co.uk/res/barrattprod/a7fdc3c30bb9424b24629db1ffd00c84.gif"/></td>
+          
+          
+          <!-- warranty logo end Amended -->
+          <td width=3D"15"></td>
+          
+          <td width=3D"62" align=3D"left"><img src=3D"http://p.barratthomes=
+=2Eco.uk/res/barrattprod/logo-5star-2014-4047.jpg" /></td>
+          
+          
+          <td width=3D"403"align=3D"left"></td>
+          
+          
+          <td width=3D"25"></td>
+          
+          
+          <td width=3D"15"></td>
+          
+          
+          <td width=3D"340" align=3D"left"></td>
+          
+          
+          <td width=3D"15"></td>
+          
+          
+          <td width=3D"15"></td>
+          
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  
+
+ 
+ 
+  <tr>
+    <td><table width=3D"600" class=3D"mobile600" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+        
+        <tr>
+          <td></td>
+          <td class=3D"mobile98" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:11px; line-height:14px; text-align:left !important; font=
+-weight:bold; color:#757575;">&nbsp;</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td class=3D"mobile98" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:11px; line-height:14px; text-align:left !important; font=
+-weight:bold; color:#757575;">
+            Please note that all images (where used) are for illustrative p=
+urposes only. Image[s] includes optional upgrades at additional cost.</br> =
+Please see our <a href=3D'http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,25=
+7a306,258bb5e
+&WT.mc_id=3D000000000000039297798' style=3D'color: #005a9a; text-decoration=
+:none;' target=3D'_blank'>Image Disclaimer</a> for further details.
+            
+            
+            </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td height=3D"10" colspan=3D"3"></td>
+        </tr>
+    
+    <tr><td></td>
+    <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; =
+line-height:14px; text-align:left !important; font-weight:bold; color:#7575=
+75;">
+ 
+
+    
+                <a href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,2=
+57a306,258bb5f
+&WT.mc_id=3D000000000000039297798" target=3D"_blank">Click here</a> for ful=
+l Show Home Sale and Leaseback  terms and conditions
+                  </td>
+<td></td></tr>
+
+
+<tr><td></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line=
+-height:14px; text-align:left !important; font-weight:bold; color:#757575;"=
+>
+    
+    
+                  
+               </td><td></td></tr>   
+
+
+<tr><td></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line=
+-height:14px; text-align:left !important; font-weight:bold; color:#757575;"=
+>
+    
+                  
+                  
+</td><td></td></tr>
+
+   
+<tr><td></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line=
+-height:14px; text-align:left !important; font-weight:bold; color:#757575;"=
+>
+ 
+                  
+                  
+</td><td></td>
+</tr>
+<tr>
+          <td height=3D"10" colspan=3D"3"></td>
+        </tr>
+        <tr>
+          <td width=3D"20"></td>
+          <td class=3D"mobile98" style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:11px; line-height:14px; text-align:left !important; font=
+-weight:bold; color:#757575;"><font style=3D"font-family: Verdana, Arial; f=
+ont-size: 10px"><p>
+You are receiving this message because you have been in contact with BARRAT=
+T or an affiliate. To no longer receive messages from BARRATT
+<a href=3D"http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,258bb60
+&WT.mc_id=3D000000000000039297798&p1=3DH2JPKOs13IRnF7JLFw3501fyAXK595TLe39P=
+Qd7xZzOW1YqUEkJUIAIA" _label=3D"Opt-out link" _type=3D"optout" class=3D"bla=
+ckunsub">click here</a>.
+</p> 
+</font></td>
+          <td width=3D"20"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"10"></td>
+  </tr>
+  <tr>
+    <td class=3D"remove" height=3D"20"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+<!-- ****************** Barratt Announcement Template FINISH 28/11/2013 ***=
+*************** -->
+
+<!-- ****************** Barratt Standard Template START 29/11/2013 ********=
+********** -->
+
+
+<!-- ****************** Barratt Standard Template FINISH 29/11/2013 *******=
+*********** -->
+
+<!-- ****************** Barratt Boxes Template START 29/11/2013 ***********=
+******* -->
+
+
+
+<!-- ****************** Barratt Boxes Template FINISH 29/11/2013 **********=
+******** -->
+
+<!-- *********** DWH H2 *********** -->
+
+
+
+<!-- ******************Rebrand DWH Announcement Template FINISH 28/11/2013 =
+****************** -->
+
+
+<!-- ****************** DWH Announcement Template START 28/11/2013 ********=
+********** -->
+
+
+<!-- ****************** DWH Announcement Template FINISH 28/11/2013 *******=
+*********** -->
+
+<!-- ****************** DWH Standard Template START 29/11/2013 ************=
+****** -->
+
+
+
+<!-- ****************** DWH Standard Template FINISH 29/11/2013 ***********=
+******* -->
+
+<!-- ****************** DWH Boxes Template START 29/11/2013 ***************=
+*** -->
+
+
+
+
+<!-- ****************** DWH Boxes Template START 29/11/2013 ***************=
+*** -->
+
+
+
+
+
+
+<!-- *********** Ward H2 *********** -->
+
+<!-- ****************** Ward Announcement Template START 28/11/2013 *******=
+*********** -->
+
+
+
+<!-- ****************** Ward Announcement Template FINISH 28/11/2013 ******=
+************ -->
+
+<!-- ****************** Ward Standard Template START 29/11/2013 ***********=
+******* -->
+
+
+
+<!-- ****************** Ward Standard Template FINISH 29/11/2013 **********=
+******** -->
+
+<!-- ****************** Ward Boxes Template START 29/11/2013 **************=
+**** -->
+
+
+
+<!-- ****************** Ward Boxes Template FINISH 29/11/2013 *************=
+***** -->
+
+<!-- ****************** Bentley Priory Template START 30/12/2013 **********=
+******** -->
+
+
+
+
+
+
+<!-- ****************** H2 Barratt CRM Eblast Template START 09/04/2014  **=
+**************** -->
+
+
+<!-- ****************** H2 Barratt CRM Service Template START 09/04/2014  *=
+***************** -->
+
+<!-- ****************** Barratt CRM Services Template END 10/04/2014 ******=
+************ -->
+
+
+
+<!-- ****************** START Barratt Standard and Boxes Mix Template START=
+ 10/04/2014 ****************** -->
+
+
+<!-- ****************** Barratt Standard and Boxes Mix Template END 10/04/2=
+014 ****************** -->
+
+
+<!-- DWH Rebrand New Templates -->
+<!-- ****************** START DWH Eblast START 24/06/2014 *****************=
+* -->
+
+
+<!-- ****************** END DWH Eblast END 24/06/2014 ****************** --=
+>
+
+
+
+
+<!-- ****************** H2 DWH CRM Service Template START 27/06/2014  *****=
+************* -->
+
+
+<!-- ****************** START DWH 1Plot START 24/06/2014 ******************=
+ -->
+
+
+
+<!-- ****************** START DWH Standard with boxes START 01/07/2014 ****=
+************** -->
+
+
+
+<!-- DWH Rebrand New Templates -->
+<!-- ****************** START DWH Worked Example START 24/06/2014 *********=
+********* -->
+
+
+
+
+
+
+
+<!-- Ward Homes Services -->
+
+
+
+<!-- Ward Homes Plot 1 -->
+
+
+
+
+<!-- Ward Homes standard with boxes -->
+
+
+
+<!-- Ward Homes worked Example A -->
+
+
+
+<!-- Ward Homes worked Example B -->
+
+
+
+<!-- ****************** START WARD Standard with boxes START 24/07/2014 ***=
+*************** -->
+
+
+
+<!-- ****************** Rebranded Ward Announcement Template START 23/07/20=
+14 ****************** -->
+
+
+
+
+
+
+
+
+<!-- ****************** H2 Barratt Standard v2 Template START 20/10/2014 **=
+**************** -->
+
+
+
+
+
+<!-- ****************** START Barratt Standard and Boxes Mix coming soon Te=
+mplate START 21/10/2014 ****************** -->
+
+
+
+<!-- ****************** START DWH Eblast Value of Property A 11/12/2014 ***=
+*************** -->
+
+
+
+<!-- *** END ***** -->
+
+<!-- ****************** START DWH Eblast Value of Property B 11/12/2014 ***=
+*************** -->
+
+
+
+<!-- *** END ***** -->
+
+
+<!-- ****************** START DWH Eblast Value of Property C 11/12/2014 ***=
+*************** -->
+
+
+
+<!-- *** END ***** -->
+
+
+<!-- ****************** START DWH Eblast 1 Plot 11/12/2014 ****************=
+** -->
+
+
+
+<!-- *** END ***** -->
+
+<!-- ****************** START DWH Eblast Multiple Boxes 11/12/2014 ********=
+********** -->
+
+
+
+<!-- *** END ***** -->
+
+<!-- ****************** START DWH Eblast Standard with boxes 11/12/2014 ***=
+*************** -->
+
+
+
+<!-- *** END ***** -->
+
+
+
+<!-- start DWH One Plot New 09/01/2015 --> 
+
+
+
+
+<!-- start DWH announcements New 09/01/2015 --><img height=3D'0' width=3D'0=
+' alt=3D'' src=3D'http://p.barratthomes.co.uk/r/=3Fid=3Dh5590fb0,257a306,1'=
+/>
+
+------=_NextPart_062_1C8DAE0F.1C8DAE0F--
+

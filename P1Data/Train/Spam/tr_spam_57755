@@ -1,0 +1,905 @@
+From @..  Sun Jan  4 23:49:47 2015
+Return-Path: <@..>
+X-Original-To: j.kingston@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 3253DDE; Sun,  4 Jan 2015 23:49:47 +0000 (UTC)
+Received: from mail-182-32.mailgun.info (mail-182-32.mailgun.info [23.253.182.32])
+    by .. with SMTP id eq9rrcscrqvm9t7k4sfqdq7kgn;
+    for j.kingston@fs.net;
+    Sun, 04 Jan 2015 23:49:47 +0000 (UTC)
+    (envelope-from bounce+e79daa.0d138-j.kingston=fs.net@all-green.info)
+Received-SPF: Pass; receiver=..;
+    client-ip=23.253.182.32;
+    envelope-from=<bounce+e79daa.0d138-j.kingston=fs.net@all-green.info>;
+    helo=mail-182-32.mailgun.info; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:23.253.182.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=23.253.182.32; client-port=36230;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.110
+    64.125.31.69 64.125.24.110 64.125.24.94 208.185.125.6 0.0.0.0
+    173.203.0.131 50.56.6.131 162.209.19.163; network-path-time=1420415387
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=all-green.info; q=dns/txt;
+ s=k1; t=1420415371; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=yiqhm46dDnt5jp+CrjcU7FWuCPCQGypo0yW3wZQPEdk=; b=aQVjb1FdY/4XQaRw3q8Gf8DGfKnc7hKnkZejQvzod1uarujuPhmpEm0CtjZtTjbJeBQGh6AX
+ q3wv0QYY3IkRC5CUup6r5xuePwIo9GqqkLIlYpx72LIqSy/k6OfOEMQKeh6Z18RTmc0wB+oo
+ lFl/8jd/zXvFMRhGYv251rtOWP8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=all-green.info; s=k1;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=kEq//c6N0XdRvIYWdaj4rjkjvjYTbPXIZ2/tl4ruKNeaZ7bDsPTbR7vtldGHMGKA2s/PIv
+ 2Q5OmLCOTs2mbxtV/+BhudjuhqAxQ7prD0ip7EnU7auidovfcwnh7ZAR1rTnw5Kpbc41dr54
+ yf98g2QKg03wBxwWDsztlyQFgGkqo=
+Received: from mail.all-green.info (all-green.info [78.47.101.11]) by
+ mxa.mailgun.org with ESMTP id 54a9d15e.7ff360c106f8-in6; Sun, 04 Jan 2015
+ 23:48:46 -0000 (UTC)
+Received: from mail.all-green.info (localhost [127.0.0.1])	by
+ mail.all-green.info (Postfix) with ESMTP id 144AE30DB3	for
+ <j.kingston@fs.net>; Mon, 5 Jan 2015 01:48:45 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=all-green.info;	s=dkim;
+ t=1420415325;	bh=yiqhm46dDnt5jp+CrjcU7FWuCPCQGypo0yW3wZQPEdk=;	h=Date:From:To:Subject:From;	b=nt06qJurf+vB5j4YbI3iUUQxGYbpu9PE4kCDzh6WALQZRr9Vh81D0Ku/q4m6UZXIs	
+ 3PBYX/iwyFF58KdmThKyJtgymaaEM+OQkdns476pqiV3QdWwkzaIA+Qc7dFLm75VO5	
+ O3lAoO3mbxhI7Xws/iZss4YgPw0bdaL4KNlLWL1g=
+Date: Mon, 5 Jan 2015 01:48:45 +0200 (EET)
+From: "Offersource and The UK's No.1 Laser Eye Surgery Pr" <@..>
+To: "j.kingston@fs.net" <@..>
+Message-Id: <2001355453.802370.1420415325078.JavaMail.root@mail.all-green.info>
+Subject: Dreaming of a life without glasses? Enter the Optical Express
+ competition
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_802368_589879074.1420415325073"
+X-Mailgun-Sid: WyIyNDBmZSIsICJqLmtpbmdzdG9uQGZzLm5ldCIsICIwZDEzOCJd
+Sender: @..
+
+------=_Part_802368_589879074.1420415325073
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_802369_1313082166.1420415325073"
+
+------=_Part_802369_1313082166.1420415325073
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+Optical Express MyVoucherCodes This message contains useful information. If=
+ your e-mail provider blocks the images, please enable them for a complete =
+preview. View in browser ? ? ? ? Are you the January winner? ? ENTER ? Make=
+ laser eye surgery one of your New Year's resolutions for 2015. More than 9=
+9on a survey of 252,179 patient responses, over 99commend Optical Express to their friends and family.** Many treated patient=
+s said it was one of the best decisions that they have made in their life. =
+Why not make it yours! ? ? ? ? UK's Number 1 ? The UK's No.1 Provider of La=
+ser Eye Surgery with over 2 million prores worldwide. ? ? ? 20 / 20 Vis=
+ion ? More than 99g their treatment* ? ? ? Over 99d Optical Express laser eye surgery to their friends and family** ? ? ? ? A=
+ctive Lifestyle Enjoy outdoor pursuits with family and friends... whatever =
+the weather. Remove the inconvenience of wearing glasses or contact lenses.=
+ Wellbeing Improve your self-esteem and confidence. Peace of mind with our =
+fully comprehensive aftercare program. ? ? ? Why not enter our prize draw t=
+o win life-changing treatment this month! ? ? ? *99.1atients achieve 20/20 vision or better following laser eye surgery. Based o=
+n a study of 336,381 patients, September 2014. **Based on a study of 252,17=
+9 patients, September 2014 Click here to Unsubscribe We hope you enjoyed re=
+ceiving this email. If you no longer wish to receive emails from this sende=
+r on behalf of this advertiser, visit this link to unsubscribe. The adverti=
+ser does not manage your subscription. If you prefer not to receive further=
+ communication, here is the way to stop receiving emails. P.O. Box 13629, 1=
+0310 Athens - Greece at?" I replied in the negative. "Then, sir," says the =
+boy, "I willtell you. Please, sir, you have made a blunder." I, thinking I =
+hadnot, proceeded to defend myself, when the children replied, "Please,sir,=
+ you convict yourself." I replied, "How so?" "Why," says thechildren, "you =
+said a right-angled triangle had one right angle, andthat all its angles ar=
+e acute. If it has one right angle, how can allits angles be acute?" I soon=
+ perceived the children were right, andthat I was wrong. Here, then, the re=
+ader may perceive the fruits ofteaching the children to think, inasmuch as =
+it is shewn that childrenof six years of age and under were able to refute =
+their tutor. Ifchildren had been taught to think many years ago, error woul=
+d havebeen much more easily detected, and its baneful influence would notha=
+ve had that effect upon society which at this day unfortunately weare oblig=
+ed to witness.At another time I was lecturing the children in the gallery o=
+n thesubject of cruelty to animals; when one of the little childrenobserved=
+, "Please, sir, my big brother catches the poor flies, andthen sticks a pin=
+ through them, and makes them draw the pin along thetable." This afforded m=
+e an excellent opportunity of appealing totheir feelings on the enormity of=
+ this offence, and, among otherthings, I observed, that if the poor fly had=
+ been gifted with thepowers of speech like their own, it probably would hav=
+e exclaimed,_while dead_, as follows:--"You naughty child, how can you thin=
+k oftorturing me so? Is there not room in the world for you and me? Did Iev=
+er do you any harm? Does it do you any good to put me in such pain?Why do y=
+ou do it, you are big enough to know better? How would youlike a man to run=
+ a piece of wire through your body, and make you drawthings about? Would yo=
+u not cry at the pain? Go, then, you wicked boy,and learn to leave off such=
+ cruel actions." Having finished, one ofthe children replied, "How can any =
+thing speak if it is dead?" "Why,"said I, "supposing it could speak." "You =
+meant to say, sir," was therejoinder, "_dying_ instead of _dead_."It will, =
+of course be understood that in this case I purposely misuseda word, and th=
+e children being taught to think, easily detected it.6. WATCH AGAINST THE E=
+NTRANCE OF DISEASE.It may, probably, be considered presumption in me, to sp=
+eak of the
+------=_Part_802369_1313082166.1420415325073
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<title>Optical Express MyVoucherCodes</title>
+
+</head>
+<body>
+
+<p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+This message contains useful information. If your e-mail provider blocks th=
+e images, <br> please enable them for a complete preview.
+</p> =20
+
+<style type=3D"text/css">
+/* Client-specific Styles */
+#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" men=
+u link. */
+body{width:100just:100/* Prevent Webkit and Windows Mobile platforms from changing default font s=
+izes, while not breaking desktop design. */
+.ExternalClass {width:100th */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100l to display normal line spacing.*/
+#backgroundTable {margin:0; padding:0; width:100100img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode=
+: bicubic;}
+a img {border:none;}
+.image_fix {display:block; margin:0px; padding:0px;}
+p {margin: 0px 0px !important;}
+table td {border-collapse: collapse;}
+table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0p=
+t; }
+a {color: #CD233E;text-decoration: none;text-decoration:none!important;}
+/*STYLES*/
+table[class=3Dfull] { width: 100/*IPAD STYLES*/
+@media only screen and (max-width: 640px) {
+a[href^=3D"tel"], a[href^=3D"sms"] {
+text-decoration: none;
+color: #CD233E; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+text-decoration: default;
+color: #CD233E !important;
+pointer-events: auto;
+cursor: default;
+}
+table[class=3Ddevicewidth] {width: 440px!important;text-align:center!import=
+ant;}
+table[class=3Ddevicewidthinner] {width: 420px!important;text-align:center!i=
+mportant;}
+img[class=3Dbanner] {width: 440px!important;height:153px!important;}
+img[class=3Dcolimg2] {width: 116px!important;height:102px!important;}
+}
+/*IPHONE STYLES*/
+@media only screen and (max-width: 480px) {
+a[href^=3D"tel"], a[href^=3D"sms"] {
+text-decoration: none;
+color: #CD233E; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+text-decoration: default;
+color: #CD233E !important;
+pointer-events: auto;
+cursor: default;
+}
+table[class=3Ddevicewidth] {width: 280px!important;text-align:center!import=
+ant;}
+table[class=3Ddevicewidthinner] {width: 260px!important;text-align:center!i=
+mportant;}
+img[class=3Dbanner] {width: 280px!important;height:97px!important;}
+img[class=3Dcolimg2] {width: 116px!important;height:102px!important;}
+td[class=3Dmobile-hide]{display:none!important;}
+td[class=3D"padding-bottom25"]{padding-bottom:25px!important;}
+}
+</style>
+
+
+
+<div align=3D"center">
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"100" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">
+<tr>
+<td align=3D"left" valign=3D"middle" style=3D"font-family: Helvetica, arial=
+, sans-serif; font-size: 14px;color: #666666" class=3D"mobile-hide">
+<a target=3D"_blank" href=3D"http://all-green.info/?a=3D488&c=3D96163&s1=3D=
+431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700" style=3D"text-d=
+ecoration: none; color: #666666">View in browser</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"140" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidth">
+<tr>
+<td width=3D"169" height=3D"45" align=3D"center">
+<div class=3D"imgpop">
+<a target=3D"_blank"  href=3D"http://all-green.info/?a=3D488&c=3D96163&s1=
+=3D431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700">
+<img src=3D"http://all-green.info/z000177_096349_006" alt=3D"Optical Expres=
+s" border=3D"0" width=3D"235" height=3D"46" style=3D"display:block; margin:=
+0px; padding:0px; border:none; outline:none; text-decoration:none;" /></a><=
+/div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<div class=3D"imgpop">
+<a target=3D"_blank"  href=3D"http://all-green.info/?a=3D488&c=3D96163&s1=
+=3D431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700">
+<img width=3D"600" height=3D"208" alt=3D"Win Laser Eye Surgery" border=3D"0=
+" style=3D"display:block; margin:0px; padding:0px; outline:none; text-decor=
+ation:none;" src=3D"http://all-green.info/z000177_096349_007" class=3D"bann=
+er" /></a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"20" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 30px; color: #44B5F1; text-align:center; line-height: 30px;">
+Are you the <a target=3D"_blank"  href=3D"http://all-green.info/?a=3D488&c=
+=3D96163&s1=3D431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700" s=
+tyle=3D"font-weight:bold">January</a> winner?</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"mso-line-height-rule: exactly;" align=3D"center"=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:16px; color:#FFFFFF;">
+<table width=3D"240" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcol=
+or=3D"#00661A" align=3D"center">
+<tr>
+<td height=3D"53" valign=3D"middle" align=3D"center" style=3D"border:1px; c=
+olor:#FFFFFF; border-style:solid;">
+<a target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:28px; color:#FFFFFF;" href=3D"http://all-green.info/?a=3D488&c=3D961=
+63&s1=3D431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700"><strong=
+>ENTER</strong></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #666666; text-align:center; line-height: 30px;" >
+<p><strong>Make laser eye surgery one of your New Year's resolutions for 20=
+15.</strong>
+<br>
+<br>
+More than 99 and based on a survey of 252,179 patient responses, over 99ts would recommend Optical Express to their friends and family.**
+<br>
+<br>
+Many treated patients said it was one of the best decisions that they have =
+made in their life. Why not make it yours!</p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"186" align=3D"left" border=3D"0" bordercolor=3D"#47B0EF" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"devicewidth">
+<img src=3D"http://all-green.info/z000177_096349_002" alt=3D"" border=3D"0"=
+ width=3D"37" height=3D"53" style=3D"display:block; margin:0px; padding:0px=
+; border:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #47B0EF; text-align:center; line-height: 24px;">UK's =
+Number 1</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;">
+The UK's No.1 Provider of Laser Eye Surgery with over 2 million prores =
+worldwide.
+<br></td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"20" align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"removeMobile">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+<table width=3D"186" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://all-green.info/z000177_096349_005" alt=3D"" border=3D"0"=
+ width=3D"52" height=3D"53" style=3D"display:block; margin:0px; padding:0px=
+; border:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #E65120; text-align:center; line-height: 24px;">20 / =
+20 Vision</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;" >
+More than 99r treatment*</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"removeMobile">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+<table width=3D"186" align=3D"right" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://all-green.info/z000177_096349_001" alt=3D"" border=3D"0"=
+ width=3D"53" height=3D"53" style=3D"display:block; margin:0px; padding:0px=
+; border:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #260AA2; text-align:center; line-height: 24px;">
+Over 99</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;">
+Over 99to their friends and family**
+</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table bgcolor=3D"#F0F0F0" width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" width=3D"290" height=3D"102" align=3D"center" class=3D"d=
+evicewidth">
+<img src=3D"http://all-green.info/z000177_096349_003" alt=3D"" border=3D"0"=
+ width=3D"116" height=3D"102" style=3D"display:block; margin:0px; padding:0=
+px; border:none; outline:none; text-decoration:none;" class=3D"colimg2" /><=
+/td>
+</tr>
+<tr>
+<td>
+<table width=3D"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #333333; line-height:24px;text-align:center;">Active =
+Lifestyle </td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; line-height:24px; color: #666666; text-align:center;">Enjoy =
+outdoor pursuits with family and friends... whatever the weather.
+<br>
+Remove the inconvenience of wearing glasses or contact lenses.</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"290" align=3D"right" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"devicewidth">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td width=3D"290" height=3D"102" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://all-green.info/z000177_096349_004" alt=3D"" border=3D"0"=
+ width=3D"116" height=3D"102" style=3D"display:block; margin:0px; padding:0=
+px; border:none; outline:none; text-decoration:none;" class=3D"colimg2">
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td style=3D"font-family: Helvetica, arial, sans-serif; font-size: 18px; co=
+lor: #333333;line-height:24px; text-align:center;" st-title=3D"2coltitle2">=
+Wellbeing</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; line-height:24px; color: #666666; text-align:center;" st-con=
+tent=3D"2colcontent2">
+Improve your self-esteem and confidence.
+<br>
+Peace of mind with our fully comprehensive aftercare program.</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #666666; text-align:center; line-height: 30px;" ><p>
+<a target=3D"_blank"  href=3D"http://all-green.info/?a=3D488&c=3D96163&s1=
+=3D431016&s2=3DO000000501189_1986&s3=3D1501050148&S4=3D211700" style=3D"fon=
+t-weight:bold">
+Why  not enter our prize draw to win life-changing treatment this month!</a=
+></p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable" >
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-family: Helvetica, ari=
+al, sans-serif; font-size: 12px;color: #999999" st-content=3D"postfooter">
+*99.1 laser eye surgery. Based on a study of 336,381 patients, September 2014.
+<br>
+**Based on a study of 252,179 patients, September 2014
+<br>
+<br>
+Click here to <a target=3D"_blank" href=3D"http://all-green.info/unsub?s1=
+=3D431016&newunsub=3D1" style=3D"text-decoration:underline; color: #999999"=
+>Unsubscribe</a></td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<div style=3D"font-family: arial, 'trebuchet ms', Helvetica, sans-serif; fo=
+nt-size: 10px; color: #333333; text-align: center;">=20
+We hope you enjoyed receiving this email. If you no longer wish to receive =
+emails from this sender on behalf of this advertiser,=20
+<a href=3D"http://all-green.info/unsub?s1=3D431016&newunsub=3D1" target=3D"=
+_blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size=3D"2" face=3D"Arial">
+The advertiser does not manage your subscription. If you prefer not to rece=
+ive further communication,<br>
+<a href=3D"http://all-green.info/unsub?s1=3D431016&newunsub=3D1"  target=3D=
+"_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 1031=
+0 Athens - Greece<br>
+</font>
+<img src=3D"http://all-green.info/adv" border=3D"0" alt=3D"" style=3D"max-w=
+idth:100</center>
+
+<div style=3D"color:white; background-color:white; font-size:8px;">
+at?" I replied in the negative. "Then, sir," says the boy, "I willtell you.=
+ Please, sir, you have made a blunder." I, thinking I hadnot, proceeded to =
+defend myself, when the children replied, "Please,sir, you convict yourself=
+." I replied, "How so?" "Why," says thechildren, "you said a right-angled t=
+riangle had one right angle, andthat all its angles are acute. If it has on=
+e right angle, how can allits angles be acute?" I soon perceived the childr=
+en were right, andthat I was wrong. Here, then, the reader may perceive the=
+ fruits ofteaching the children to think, inasmuch as it is shewn that chil=
+drenof six years of age and under were able to refute their tutor. Ifchildr=
+en had been taught to think many years ago, error would havebeen much more =
+easily detected, and its baneful influence would nothave had that effect up=
+on society which at this day unfortunately weare obliged to witness.At anot=
+her time I was lecturing the children in the gallery on thesubject of cruel=
+ty to animals; when one of the little childrenobserved, "Please, sir, my bi=
+g brother catches the poor flies, andthen sticks a pin through them, and ma=
+kes them draw the pin along thetable." This afforded me an excellent opport=
+unity of appealing totheir feelings on the enormity of this offence, and, a=
+mong otherthings, I observed, that if the poor fly had been gifted with the=
+powers of speech like their own, it probably would have exclaimed,_while de=
+ad_, as follows:--"You naughty child, how can you think oftorturing me so? =
+Is there not room in the world for you and me? Did Iever do you any harm? D=
+oes it do you any good to put me in such pain?Why do you do it, you are big=
+ enough to know better? How would youlike a man to run a piece of wire thro=
+ugh your body, and make you drawthings about? Would you not cry at the pain=
+? Go, then, you wicked boy,and learn to leave off such cruel actions." Havi=
+ng finished, one ofthe children replied, "How can any thing speak if it is =
+dead?" "Why,"said I, "supposing it could speak." "You meant to say, sir," w=
+as therejoinder, "_dying_ instead of _dead_."It will, of course be understo=
+od that in this case I purposely misuseda word, and the children being taug=
+ht to think, easily detected it.6. WATCH AGAINST THE ENTRANCE OF DISEASE.It=
+ may, probably, be considered presumption in me, to speak of the
+</div>
+
+<img alt=3D"" src=3D"http://all-green.info/record.php?s1=3D431016&s2=3DO000=
+000501189_1986&s3=3D1501050148&S4=3D211700" width=3D"1" height=3D"1" border=
+=3D"0" />
+
+</body>
+</html>
+------=_Part_802369_1313082166.1420415325073--
+
+------=_Part_802368_589879074.1420415325073--
+

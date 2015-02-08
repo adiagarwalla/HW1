@@ -1,0 +1,28 @@
+From @..  Sat Jan  3 13:10:28 2015
+Return-Path: <@..>
+X-Original-To: tamf@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4FC36DA; Sat,  3 Jan 2015 13:10:28 +0000 (UTC)
+Received: from 143.215.250.87 (59.93.232.43 [59.93.232.43])
+    by .. with SMTP id fjus8ahg44ik4jipyd99wt9fae;
+    Sat, 03 Jan 2015 13:10:26 +0000 (UTC)
+    (envelope-from ycjkptwy@bolerolabs.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=59.93.232.43; envelope-from=<ycjkptwy@bolerolabs.com>;
+    helo=143.215.250.87; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=59.93.232.43; client-port=55556;
+    syn-fingerprint=8192:51:1:48:M1380,N,N,S; colon-space;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.168 64.57.20.222 198.32.176.50 203.208.173.21
+    203.208.171.105 203.208.151.233 203.208.182.226 203.208.175.102
+    203.208.151.158 61.95.240.234 203.101.100.213 61.95.240.234
+    218.248.169.137; network-path-time=1420290527; RBL=cbl.abuseat.org
+    (127.0.0.2), dnsbl.sorbs.net (127.0.0.10), bl..net (127.0.0.2),
+    dul.dnsbl.sorbs.net (127.0.0.10), zen..org (127.0.0.4 127.0.0.10)
+Received: from 104.28.187.95 by 59.93.232.43; Sat, 03 Jan 2015 07:05:14 -0600
+Message-ID: <P[20
+Date: Sat,  3 Jan 2015 13:10:28 +0000 (UTC)
+From: @.. (root)
+

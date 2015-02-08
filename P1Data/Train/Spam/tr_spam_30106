@@ -1,0 +1,437 @@
+From @..  Sun Jan  4 14:58:40 2015
+Return-Path: <@..>
+X-Original-To: jilles@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 60A4ADE; Sun,  4 Jan 2015 14:58:40 +0000 (UTC)
+Received: from mail-182-34.weekly-saver.com (mail-182-34.weekly-saver.com [23.253.182.34])
+    by .. with SMTP id twpbiqcvq3p6gm3b8rre73m2de;
+    for jilles@fs.net;
+    Sun, 04 Jan 2015 14:58:40 +0000 (UTC)
+    (envelope-from bounce+330e4f.0eb75-jilles=fs.net@weekly-saver.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=23.253.182.34;
+    envelope-from=<bounce+330e4f.0eb75-jilles=fs.net@weekly-saver.com>;
+    helo=mail-182-34.weekly-saver.com; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:23.253.182.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=23.253.182.34; client-port=35997;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.110
+    64.125.31.69 64.125.24.110 64.125.24.94 208.185.125.6 0.0.0.0
+    173.203.0.131 50.56.6.131 162.209.19.163; network-path-time=1420383520
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=weekly-saver.com; q=dns/txt;
+ s=pic; t=1420383504; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=reVetGxcs3cb8ucakeo0RHKh4/hui4/YohqV0q8qE0I=; b=HOex4zzJJXuH1j7coYfxDQIPhI8OcOf2r9XFYvoT0yLf1adMdPPosoLE2QhXJvduMq1JyEkc
+ YF1vB6VOeMOEzWgznbO4xXDGl01Yyw/vML6aXaH7/6Mu302nmO5fxltGEt5rcK1edZtQDDNx
+ xdJKiBCGbNodwRGcIIVwLndb5WY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=weekly-saver.com; s=pic;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=VoYEoOg2BxdAAIetbFgGUdUSNYII0B8bcFTPVirXkBSs+mv1BHSzVpfwyrtntvBW5n5NZw
+ MLdFvd1Hm8i/+Vsmh8d/wVLa9LIXAkD4gEVMRjO03/fQThtK+JFd4Oin+0WwmeQNJ38idQaL
+ tjyIkJ7yILSVZR6EwqAICiLITgu7Y=
+Received: from mail.weekly-saver.com (weekly-saver.com [78.47.70.60]) by
+ mxa.mailgun.org with ESMTP id 54a9550b.4f3aef0-in6; Sun, 04 Jan 2015
+ 14:58:19 -0000 (UTC)
+Received: from mail.weekly-saver.com (localhost [127.0.0.1])	by
+ mail.weekly-saver.com (Postfix) with ESMTP id C00F9246D3D	for
+ <jilles@fs.net>; Sun, 4 Jan 2015 16:58:17 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=weekly-saver.com;	s=dkim;
+ t=1420383497;	bh=reVetGxcs3cb8ucakeo0RHKh4/hui4/YohqV0q8qE0I=;	h=Date:From:To:Subject:From;	b=W0wOFv7RDml2DwiaFiq6/PL2dkapiX9qAeHmFU4XdqWblIwxGknjmdbfvNH8j9X1M	
+ g+7BatBfkTQUH4Ip/2BFKGe2FNugq1lunvMXjRyDK5iSmCwKjnbNjCUV0VRZ4Labtu	
+ TcNXqSVnO/PS/rtpcBhuiBb0A98sm1vVTwehflkY=
+Date: Sun, 4 Jan 2015 16:58:17 +0200 (EET)
+From: Trades Training Courses <@..>
+To: "jilles@fs.net" <@..>
+Message-Id: <1972639607.580619.1420383497784.JavaMail.root@mail.weekly-saver.com>
+Subject: Be a Real Handy Man with Trade Career UK
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_580617_756876208.1420383497782"
+X-Mailgun-Sid: WyI0NjIxNiIsICJqaWxsZXNAZnMubmV0IiwgIjBlYjc1Il0=
+Sender: @..
+
+------=_Part_580617_756876208.1420383497782
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_580618_641038958.1420383497782"
+
+------=_Part_580618_641038958.1420383497782
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+TradeCareer. This message contains useful information. If your e-mail provi=
+der blocks the images, please enable them for a complete preview. See where=
+ becoming a trades professional can take you?? Enrol in trades courses and =
+become your own boss Request Career Info?? *Not available in Scotland. Mini=
+mum age requirement is 17 years. See where becoming a trades professional c=
+an take you?? Career options: Enrol in trades courses and become your own b=
+oss Request Career Info?? *Not available in Scotland. Minimum age requireme=
+nt is 17 years. We hope you enjoyed receiving this email. Should you no lon=
+ger wish to receive emails from this company, visit this link to unsubscrib=
+e. The advertiser does not manage your subscription. If you prefer not to r=
+eceive further communication, here is the way to stop receiving emails. P.O=
+. Box 13629, 10310 Athens - Greece power of mind which is brought into acti=
+on, and the one made useof with most ease and pleasure. For this reason obj=
+ect lessons areindispensable in an infant school, consisting both of real s=
+ubstancesand of pictures. The first lesson in Paradise was of this kind, an=
+d weought therefore to draw instruction from it. "And out of the groundthe =
+Lord God formed every beast of the field, and every fowl of theair; and bro=
+ught them to Adam to see what he would call them: andwhatsoever Adam called=
+ every living creature, that was the name ofit."CHAPTER XVIIPHYSICAL EDUCAT=
+ION._Exercise--Various positions--Exercise blended withinstruction--Arithme=
+tical and geometrical amusements_. * * * * *"Would you make infants happy, =
+give them variety, for novelty hascharms that our minds can hardly withstan=
+d." * * * * *As an Infant School may be regarded in the light of a combinat=
+ion ofthe school and nursery, the _art of pleasing_, forms a prominent part=
+in the system; and as little children are very apt to be fretful, itbecomes=
+ expedient to divert as well as teach there. If children oftwo years old an=
+d under are not diverted, they will naturally cryfor their mothers: and to =
+have ten or twelve children crying in theschool, it is very obvious would p=
+ut every thing into confusion. Butit is possible to have two hundred, or ev=
+en three hundred childrenassembled together, the eldest not more than six y=
+ears of age, and yetnot to hear one of them crying for a whole day. Indeed =
+I may appeal tothe numerous and respectable persons who have visited Infant=
+ Schools,for the truth of this assertion; many of whom have declared, in my
+------=_Part_580618_641038958.1420383497782
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>TradeCareer. </title>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+</head>
+
+<body>
+
+<p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+This message contains useful information. If your e-mail provider blocks th=
+e images, <br> please enable them for a complete preview.
+</p> =20
+
+<style type=3D"text/css">
+
+@media only screen and (max-width:320px),
+only screen and (max-device-width:320px)
+{
+/* - - - - - HOTMAIL FIXES*/
+.ReadMsgBody
+{
+=09width: 100}
+ExternalClass
+{
+=09width: 100}
+a[href^=3D"tel"], a[href^=3D"sms"]
+{
+=09text-decoration:none;
+=09color:#9ec459; /* or whatever your want */
+=09pointer-events:none;
+=09cursor:default;
+}
+table[id=3Dcontainer]
+{
+=09-webkit-text-size-adjust:100}
+
+div[id=3Dmobile]
+{
+=09display:block !important; width:100 max-height:inherit !important; overflow:visible !important;
+}
+
+div[id=3Ddesktop]
+{
+=09display:none !important; width:0px !important; max-height:0px !important=
+; overflow:hidden !important; padding:2px !important; margin:0px !important=
+;
+}
+}=09
+</style>
+
+<table id=3D"container" style=3D"font-family:Arial;" align=3D"center" width=
+=3D"98<tr>
+<td align=3D"center">=09
+<!-- DESKTOP -->
+<div id=3D"desktop" style=3D"display:block; width:100erflow:visible; padding:2px; ">
+
+<table width=3D"100pacing=3D"0">
+
+<tr>
+<td align=3D"center">
+<table width=3D"650">
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002f0001" width=3D"257" height=
+=3D"98" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping t=
+o Craft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+<td align=3D"center" width=3D"443">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank" style=3D"text-d=
+ecoration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+See where becoming a trades professional<br/> can take you&nbsp;&raquo;
+</span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0002" width=3D"650" height=
+=3D"315" border=3D"0" alt=3D"Work For Yourself" title=3D"Work For Yourself"=
+ style=3D" display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0003" width=3D"650" height=
+=3D"182" border=3D"0" alt=3D"Learn More" title=3D"Learn More" style=3D"disp=
+lay:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0004" width=3D"650" height=
+=3D"256" border=3D"0" alt=3D"Career Options" title=3D"Career Options" style=
+=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:normal; font-size:25px;">
+Enrol in trades courses and become your own boss
+</span>
+</td>
+</tr>
+
+<tr>
+</td>
+<td align=3D"center">
+<br/>
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank" style=3D"text-d=
+ecoration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold; width:300px;">
+Request Career Info&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#dddddd" style=3D"font: norm=
+al 12px Arial, Helvetica, sans-serif; color:#888888; line-height:12px; padd=
+ing-top:20px; text-align:center;">
+&#42;Not available in Scotland&#46;  Minimum age requirement is &#49;&#55; =
+years&#46;<br /><br />
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- MOBILE -->=09=09=09=09=09=09=09=09=09=09
+<!--div id=3D"mobile" style=3D"display:block !important; width:100ant; height:auto !important; max-height:inherit !important; overflow:visibl=
+e !important;"-->
+<div id=3D"mobile" style=3D"display:none; width:0px; max-height:0px; overfl=
+ow:hidden; padding:2px; ">
+
+<table align=3D"center" width=3D"300" cellpadding=3D"0" cellspacing=3D"0">=
+=09
+
+<tr>
+</td>
+<td align=3D"center">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank" style=3D"text-d=
+ecoration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+See where becoming<br/> a trades professional<br/> can take you&nbsp;&raquo=
+;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002f0001" width=3D"257" height=
+=3D"98" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping t=
+o Craft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0051" width=3D"300" height=
+=3D"252" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping =
+to Craft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:bold; font-size:30px; color:#ff8311;">
+Career options:
+</span>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0052" width=3D"240" height=
+=3D"159" border=3D"0" alt=3D"Electrician - Plumber" title=3D"Helping to Cra=
+ft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0053" width=3D"240" height=
+=3D"159" border=3D"0" alt=3D"Green Energy and Gas Engineer" title=3D"Helpin=
+g to Craft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank">
+<img src=3D"http://weekly-saver.com/c0001_0002c0054" width=3D"118" height=
+=3D"144" border=3D"0" alt=3D"Welder" title=3D"Helping to Craft Your Trade" =
+style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:normal; font-size:22px;">
+Enrol in trades courses and become your own boss
+</span>
+</td>
+</tr>
+
+<tr>
+</td>
+<td align=3D"center">
+<br/>
+<a href=3D"http://weekly-saver.com/?a=3D488&c=3D213&s1=3D439001&s2=3DO00001=
+9102249_1973&s3=3D1501041658&S4=3D211838" target=3D"_blank" style=3D"text-d=
+ecoration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+Request Career Info&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#dddddd" style=3D"font: norm=
+al 12px Arial, Helvetica, sans-serif; color:#888888; padding:20px; text-ali=
+gn:center;">
+&#42;Not available in Scotland&#46;  Minimum age requirement is &#49;&#55; =
+years&#46;
+</td>
+</tr>
+
+</table>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 10px; c=
+olor: #333333; text-align: center;">
+We hope you enjoyed receiving this email. Should you no longer wish to rece=
+ive emails from this company,=20
+<a href=3D"http://weekly-saver.com/unsub?s1=3D439001&newunsub=3D1" target=
+=3D"_blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size=3D"2" face=3D"Arial">
+The advertiser does not manage your subscription. If you prefer not to rece=
+ive further communication,<br>
+<a href=3D"http://weekly-saver.com/unsub?s1=3D439001&newunsub=3D1"  target=
+=3D"_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 1=
+0310 Athens - Greece<br>
+</font>
+<img src=3D"http://weekly-saver.com/adv" border=3D"0" alt=3D"" style=3D"max=
+-width:100<img alt=3D"" src=3D"http://weekly-saver.com/record.php?s1=3D439001&s2=3DO0=
+00019102249_1973&s3=3D1501041658&S4=3D211838" width=3D"1" height=3D"1" bord=
+er=3D"0" />
+</center>
+
+<div style=3D"color:white; background-color:white; font-size:8px;">
+power of mind which is brought into action, and the one made useof with mos=
+t ease and pleasure. For this reason object lessons areindispensable in an =
+infant school, consisting both of real substancesand of pictures. The first=
+ lesson in Paradise was of this kind, and weought therefore to draw instruc=
+tion from it. "And out of the groundthe Lord God formed every beast of the =
+field, and every fowl of theair; and brought them to Adam to see what he wo=
+uld call them: andwhatsoever Adam called every living creature, that was th=
+e name ofit."CHAPTER XVIIPHYSICAL EDUCATION._Exercise--Various positions--E=
+xercise blended withinstruction--Arithmetical and geometrical amusements_. =
+      *       *       *       *       *"Would you make infants happy, give =
+them variety, for novelty hascharms that our minds can hardly withstand."  =
+     *       *       *       *       *As an Infant School may be regarded i=
+n the light of a combination ofthe school and nursery, the _art of pleasing=
+_, forms a prominent partin the system; and as little children are very apt=
+ to be fretful, itbecomes expedient to divert as well as teach there. If ch=
+ildren oftwo years old and under are not diverted, they will naturally cryf=
+or their mothers: and to have ten or twelve children crying in theschool, i=
+t is very obvious would put every thing into confusion. Butit is possible t=
+o have two hundred, or even three hundred childrenassembled together, the e=
+ldest not more than six years of age, and yetnot to hear one of them crying=
+ for a whole day. Indeed I may appeal tothe numerous and respectable person=
+s who have visited Infant Schools,for the truth of this assertion; many of =
+whom have declared, in my
+</div>
+
+</body>
+</html>
+------=_Part_580618_641038958.1420383497782--
+
+------=_Part_580617_756876208.1420383497782--
+

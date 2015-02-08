@@ -1,0 +1,93 @@
+From @..  Wed Jan 14 01:33:59 2015
+Return-Path: <@..>
+X-Original-To: tzfvs@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A51C1DE; Wed, 14 Jan 2015 01:33:59 +0000 (UTC)
+Received: from smtpbg301.qq.com (smtpbg301.qq.com [184.105.206.28])
+    by .. with SMTP id qnye5qnqaa9qnvpy86tjyxx8en;
+    for tzfvs@fs.net;
+    Wed, 14 Jan 2015 01:33:59 +0000 (UTC)
+    (envelope-from 10000@qq.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=184.105.206.28; envelope-from=<10000@qq.com>;
+    helo=smtpbg301.qq.com; mechanism=include:spf.mail.qq.com
+    (include:spf-b.mail.qq.com (ip4:184.105.206.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=184.105.206.28; client-port=33954;
+    syn-fingerprint=5840:55:1:60:M1380,S,T,N,W2 Linux 2.4/2.6 <= 2.6.7;
+    colon-space; network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.105 143.215.193.74 198.32.132.75 184.105.213.113 72.52.92.153
+    184.105.222.6 64.71.176.106; network-path-time=1421199239
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201307;
+	t=1421199223; bh=9LvU20lCKTlOR5WQB3N7dDFeqA/aIVqxvlNRiamtRJ8=;
+	h=X-QQ-mid:Message-Id:From:To:Date:Subject:Content-type:Auto-Submitted:
+	 X-QQ-MAIL-TYPE:X-QQ-STYLE;
+	b=IZdEH4WZXE8DlI5LrouXXsPabuBAlxo6YKADU+SujNMNhIywW+EjxmEHVrKqgRQ5a
+	 Q1KWsVVY/HLfA8/TGJrrw/tpeOaA7mKUu2HhNmPsvAtGNA0T8Ytdb2yb2I+P0Gy6tN
+	 8A21o3Hnp45jDmvKdIR11ihK+NoMWxziFCMXKqoc=
+X-QQ-mid: @usamxproxy11t1421199219t7pden6
+Message-Id: <report.1421199222>
+From: "PostMaster" <@..>
+To: @..
+Date: Wed, 14 Jan 2015 09:33:42 +0800
+Subject: ��qq.com����Content-type: multipart/report; report-type=delivery-status; boundary=QQ_MAIL_RETURN
+Auto-Submitted: auto-generated
+X-QQ-MAIL-TYPE: bulletin
+X-QQ-STYLE: 5
+
+--QQ_MAIL_RETURN
+Content-type: text/html; charset="gbk"
+
+<html>
+<head>
+<title>QQ����</title>
+</head>
+<body>
+<p style="font-size:14px; font-family:verdana; margin:0 0 10px; line-height:22px; text-align:left">�ܱ�Ǹ������ʼ�����أ������ʼ�����Ϣ��</p>
+
+<table style="width:90<tr> <td style="width:120px; font-family:verdana; font-size:14px; font-weight:bold; text-align:center; background:#E0ECF9; border:1px solid #C1D9F3">�����ʼ�</td>
+<td style="border:1px solid #C1D9F3; font-family:verdana; padding:5px 15px; line-height:20px; font-size:14px;">� ���rxzb3w5�����������ǡ���������������ټ�ֲ��ʼ���� <br/>ʱ �䣺Wed, 14 Jan 2015 01:34:34 +0800 </td> </tr> </table>
+
+<table style="width:90</tr><tr><td style="width:120px;  font-size:14px;text-align:center; background:#EFF5FB; border:1px solid #C1D9F3">��ԭ�</td>
+<td style="border:1px solid #C1D9F3; font-family:verdana; padding:5px 15px; line-height:20px; font-size:14px;">
+δ֪ԭ�   (host unknown[172.22.147.57] said: 550 Mail content denied. http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=20022&&no=1000726 (in reply to end of DATA command)) <br /> $ORG_REASON$ </td></tr>
+<tr><td style="width:120px;font-size:14px;text-align:center; background:#EFF5FB; border:1px solid #C1D9F3">������</td>
+<td style="border:1px solid #C1D9F3; font-family:verdana; padding:5px 15px; line-height:20px; font-size:14px;">
+ �Ҳ���a href="http://$BIZPREFIX$mail.qq.com/cgi-bin/help_feedback_person?sender=$TOADDR$&receiver=57197872@qq.com&sendtime=$SENTDATE$&reason=$ORG_REASON_FEEDBACK$&subject=$URL_SUBJECT$" style="background:#bfda9c; color:#000000;" target="_blank">�����������</a>��</td></tr></table>
+
+
+<p style="font-size:14px; font-family:verdana; margin:0 0 10px; line-height:22px; text-align:left">��⣬������<a href="http://service.$BIZPREFIX$mail.qq.com/cgi-bin/help?subtype=1&&id=29&&no=188" target="_blank">����</a> ���������ŵİ������</p>
+</body>
+</html>
+
+--QQ_MAIL_RETURN
+Content-type: message/rfc822; name="mail.eml";
+	charset="gbk"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment; filename="mail.eml"
+
+Received: from 104.203.116.202 (fs.net [172.22.147.57])
+	by usamxproxy11 (qq.com) with SMTP id MBjPCRRK; Wed, 14 Jan 2015 09:33:39 +0800
+	(envelope-from tzfvs@fs.net)
+X-QQ-mid:usamxproxy11t1421199219t7pden6
+Received: from cmwljrzoa (unknown [128.208.66.220])
+	by fs with SMTP id sxei6s03q2ktzoFh.1
+	for <57197872@qq.com>; Wed, 14 Jan 2015 01:34:39 +0800
+Message-ID: <C91A289CE5EDA652E1A965407F76E46B@cmwljrzoa>
+From: "glbl" <tzfvs@fs.net>
+To: <57197872@qq.com>
+Subject: =?utf-8?B?cnh6YjN3NeOAiuaWsOmHkeaymeWbvemZheWoseS5kOWfjuOAi+iuqeaCqOi2sw==?=
+	=?utf-8?B?5LiN5Ye65oi35L2T6aqM5r6z6Zeo546w5Zy655m+5a625LmQ5Y2a5b2p5r+A5oOF44CC?=
+Date: Wed, 14 Jan 2015 01:34:34 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+
+(û����������ĺ͸���)
+
+--QQ_MAIL_RETURN--
+

@@ -1,0 +1,51 @@
+From @..  Thu Jan 22 23:49:08 2015
+Return-Path: <@..>
+X-Original-To: jyoung@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 3F6B7DE; Thu, 22 Jan 2015 23:49:08 +0000 (UTC)
+Received: from mail4.jca-tech.com (mail4.jca-tech.com [107.20.183.224])
+    by .. with SMTP id en3vjvcav2uc9uk9qsx3rqcm4n;
+    for jyoung@fs.net;
+    Thu, 22 Jan 2015 23:49:08 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=107.20.183.224; envelope-from=<>; helo=mail4.jca-tech.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=107.20.183.224; client-port=4116;
+    syn-fingerprint=65535:110:1:48:M1380,N,N,S Windows 2000 SP4, XP SP1;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    143.215.193.2 198.71.45.7 198.71.46.11 72.21.220.39 0.0.0.0 0.0.0.0
+    0.0.0.0 0.0.0.0 216.182.224.221; network-path-time=1421970548
+From: "Delivery Subsystem" <@..>
+To: <@..>
+Subject: Message Delivery Delay
+Date: Thu, 22 Jan 2015 17:48:52 -0600
+Message-ID: <8B56007DE789461DA06E00A76B737D36.MAI@jca-tech.com>
+X-MEFilter: 1
+Precedence: bulk
+
+
+MailEnable: Message delivery has been delayed.
+
+Message is waiting at jca-tech.com for delivery to cdptpa-pub-iedge-vip.email.rr.com.
+
+The message will be retried for another 30 hours.
+
+Reason: Mail Server for satx.rr.com could not accept your email at this time. MailEnable will keep trying to deliver this message and will notify you of any progress.
+
+
+Message headers follow:
+	
+Received: from [187.189.109.68] ([187.189.109.68]) by jca-tech.com with MailEnable ESMTP; Thu, 22 Jan 2015 17:38:47 -0600
+Message-ID: <54C13592.6090309@fs.net>
+Date: Thu, 22 Jan 2015 10:38:26 -0700
+From: "chinfo@kofc7613.org" <jyoung@fs.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.8) Gecko/20100408 Thunderbird/3.0.3
+MIME-Version: 1.0
+To: <chinfo@kofc7613.org>
+Subject: Pharmacy Online
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-ME-Bayesian: 97.455109
+

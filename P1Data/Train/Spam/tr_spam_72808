@@ -1,0 +1,115 @@
+From @..  Tue Jan 13 08:41:31 2015
+Return-Path: <@..>
+X-Original-To: darqstar@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6850BDF; Tue, 13 Jan 2015 08:41:31 +0000 (UTC)
+Received: from proxy-smtp-alma01.activeweb.fr (proxy-smtp-alma01.activeweb.fr [213.218.154.56])
+    by .. with SMTP id 6ww64t5ris2uxf3e7h8q57m9di;
+    for darqstar@fs.net;
+    Tue, 13 Jan 2015 08:41:31 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=213.218.154.56; envelope-from=<>;
+    helo=proxy-smtp-alma01.activeweb.fr
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=213.218.154.56; client-port=35356;
+    syn-fingerprint=14600:52:1:60:M1380,S,T,N,W6; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.138 154.54.10.61
+    154.54.0.165 154.54.31.110 154.54.31.118 154.54.28.106 130.117.51.145
+    154.25.4.178 149.6.160.118 213.218.129.253 154.25.4.178 213.218.154.56;
+    network-path-time=1421138491
+Received: by proxy-smtp-alma01.activeweb.fr (proxy-smtp-alma01.activeweb.fr)
+	id CC9482A7B; Tue, 13 Jan 2015 09:41:06 +0100 (CET)
+Date: Tue, 13 Jan 2015 09:41:06 +0100 (CET)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="428DA2A2B.1421138466/proxy-smtp-alma01.activeweb.fr"
+Message-Id: <20150113084106.CC9482A7B@proxy-smtp-alma01.activeweb.fr>
+Content-Transfer-Encoding: 7bit
+
+This is a MIME-encapsulated message.
+
+--428DA2A2B.1421138466/proxy-smtp-alma01.activeweb.fr
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host proxy-smtp-alma01.activeweb.fr.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<barash@almacg.com>: host 10.10.154.24[10.10.154.24] said: 550
+    barash@almacg.com... No such user (in reply to RCPT TO command)
+
+--428DA2A2B.1421138466/proxy-smtp-alma01.activeweb.fr
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; proxy-smtp-alma01.activeweb.fr
+X-proxy-smtp-alma01-activeweb-fr-Queue-ID: 428DA2A2B
+X-proxy-smtp-alma01-activeweb-fr-Sender: rfc822; darqstar@fs.net
+Arrival-Date: Tue, 13 Jan 2015 09:41:01 +0100 (CET)
+
+Final-Recipient: rfc822; barash@almacg.com
+Original-Recipient: rfc822;barash@almacg.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; 10.10.154.24
+Diagnostic-Code: smtp; 550 barash@almacg.com... No such user
+
+--428DA2A2B.1421138466/proxy-smtp-alma01.activeweb.fr
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Return-Path: <darqstar@fs.net>
+Received: from static.vdc.vn (unknown [113.160.244.110])
+	by proxy-smtp-alma01.activeweb.fr (proxy-smtp-alma01.activeweb.fr) with ESMTP id 428DA2A2B
+	for <barash@almacg.com>; Tue, 13 Jan 2015 09:41:01 +0100 (CET)
+Message-ID: <004b01d02f47$04bea0d1$6167a6ae@rnmuy>
+From: <darqstar@fs.net>
+To: <barash@almacg.com>
+Subject: Employment invitation
+Date: 13 Jan 2015 22:07:49 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: quoted-printable
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant=
+ position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients =
+in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registratio=
+n on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+--428DA2A2B.1421138466/proxy-smtp-alma01.activeweb.fr--
+

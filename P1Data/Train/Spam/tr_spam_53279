@@ -1,0 +1,201 @@
+From @..  Tue Jan 13 07:26:12 2015
+Return-Path: <@..>
+X-Original-To: darqstar@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6E1F1DF; Tue, 13 Jan 2015 07:26:12 +0000 (UTC)
+Received: from remote.imsqld.com.au (ind1341212.lnk.telstra.net [139.130.201.80])
+    by .. with SMTP id e5qtpmn72kvtswfmyxqft3ezpi;
+    for darqstar@fs.net;
+    Tue, 13 Jan 2015 07:26:11 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=139.130.201.80; envelope-from=<>; helo=remote.imsqld.com.au
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=139.130.201.80; client-port=24331;
+    syn-fingerprint=8192:112:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 64.57.20.168 64.57.20.222 198.32.176.64
+    202.84.251.105 202.84.140.217 202.84.221.221 203.50.13.21 203.50.13.73
+    203.50.11.71 203.50.50.59; network-path-time=1421133971
+MIME-Version: 1.0
+From: <@..>
+To: <@..>
+Date: Tue, 13 Jan 2015 17:25:54 +1000
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0cc8aef1-d3c3-4545-901b-65481e29e1b6"
+Content-Language: en-US
+Message-ID: <b2b0dc52-0fe4-4c1d-9d18-01f562690712@ims.local>
+In-Reply-To: <399F2299938424288E3388829535399F@B8R60VVI59>
+References: <399F2299938424288E3388829535399F@B8R60VVI59>
+Subject: Undeliverable: Employment invitation
+X-TM-AS-Product-Ver: SMEX-10.1.0.2244-7.000.1014-21246.002
+X-TM-AS-Result: No--11.955800-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+
+--0cc8aef1-d3c3-4545-901b-65481e29e1b6
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="d5c46ad4-36a1-4e1c-8fab-097316c351ce"
+
+--d5c46ad4-36a1-4e1c-8fab-097316c351ce
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Delivery has failed to these recipients or groups:
+
+aae97a814@imsqld.com.au<mailto:aae97a814@imsqld.com.au>
+The e-mail address you entered couldn't be found. Please check the recipien=
+t's e-mail address and try to resend the message. If the problem continues,=
+ please contact your helpdesk.
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: ims.local
+
+aae97a814@imsqld.com.au
+#550 5.1.1 RESOLVER.ADR.RecipNotFound; not found ##
+
+Original message headers:
+
+Received: from ams1-mh584.smtproutes.com (5.10.67.98) by remote.imsqld.com.=
+au
+ (172.16.40.10) with Microsoft SMTP Server id 14.1.438.0; Tue, 13 Jan 2015
+ 17:25:52 +1000
+X-Katharion-ID: 1421133911.32441.ams1-mh584 (unfiltered-unk)
+Return-Path: <darqstar@fs.net>
+Received: from [197.5.4.13] ([197.5.4.13]) by ams1-mh584.smtproutes.com
+   [(5.10.67.98)] with ESMTP via TCP; 13 Jan 2015 07:25:11 +0000
+Message-ID: <399F2299938424288E3388829535399F@B8R60VVI59>
+From: <darqstar@fs.net>
+To: <aae97a814@imsqld.com.au>
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 08:19:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3D"cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Received-SPF: None (IMSSVR01.ims.local: darqstar@fs.net does not designate
+ permitted sender hosts)
+
+
+--d5c46ad4-36a1-4e1c-8fab-097316c351ce
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Delivery has failed=
+ to these recipients or groups:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:aae=
+97a814@imsqld.com.au">aae97a814@imsqld.com.au</a><br>
+The e-mail address you entered couldn't be found. Please check the recipien=
+t's e-mail address and try to resend the message. If the problem continues,=
+ please contact your helpdesk.<br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnostic informa=
+tion for administrators:</b></p>
+<p>Generating server: ims.local</p>
+<p>aae97a814@imsqld.com.au<br>
+ #550 5.1.1 RESOLVER.ADR.RecipNotFound; not found ##</p>
+<p>Original message headers:</p>
+<pre>Received: from ams1-mh584.smtproutes.com (5.10.67.98) by remote.imsqld=
+.com.au
+ (172.16.40.10) with Microsoft SMTP Server id 14.1.438.0; Tue, 13 Jan 2015
+ 17:25:52 +1000
+X-Katharion-ID: 1421133911.32441.ams1-mh584 (unfiltered-unk)
+Return-Path: &lt;darqstar@fs.net&gt;
+Received: from [197.5.4.13] ([197.5.4.13]) by ams1-mh584.smtproutes.com
+   [(5.10.67.98)] with ESMTP via TCP; 13 Jan 2015 07:25:11 +0000
+Message-ID: &lt;399F2299938424288E3388829535399F@B8R60VVI59&gt;
+From: &lt;darqstar@fs.net&gt;
+To: &lt;aae97a814@imsqld.com.au&gt;
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 08:19:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3D&quot;cp-850&quot;
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Received-SPF: None (IMSSVR01.ims.local: darqstar@fs.net does not designate
+ permitted sender hosts)
+</pre>
+</font>
+</body>
+</html>=
+
+--d5c46ad4-36a1-4e1c-8fab-097316c351ce--
+
+--0cc8aef1-d3c3-4545-901b-65481e29e1b6
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;ims.local
+Received-From-MTA: dns;ams1-mh584.smtproutes.com
+Arrival-Date: Tue, 13 Jan 2015 07:25:52 +0000
+
+Final-Recipient: rfc822;aae97a814@imsqld.com.au
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+
+
+--0cc8aef1-d3c3-4545-901b-65481e29e1b6
+Content-Type: message/rfc822
+
+Received: from ams1-mh584.smtproutes.com (5.10.67.98) by remote.imsqld.com.au
+ (172.16.40.10) with Microsoft SMTP Server id 14.1.438.0; Tue, 13 Jan 2015
+ 17:25:52 +1000
+X-Katharion-ID: 1421133911.32441.ams1-mh584 (unfiltered-unk)
+Return-Path: <darqstar@fs.net>
+Received: from [197.5.4.13] ([197.5.4.13]) by ams1-mh584.smtproutes.com
+   [(5.10.67.98)] with ESMTP via TCP; 13 Jan 2015 07:25:11 +0000
+Message-ID: <399F2299938424288E3388829535399F@B8R60VVI59>
+From: <darqstar@fs.net>
+To: <aae97a814@imsqld.com.au>
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 08:19:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Received-SPF: None (IMSSVR01.ims.local: darqstar@fs.net does not designate
+ permitted sender hosts)
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant p=
+osition in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in=
+ the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration =
+on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+
+--0cc8aef1-d3c3-4545-901b-65481e29e1b6--
+

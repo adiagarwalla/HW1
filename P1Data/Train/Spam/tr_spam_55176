@@ -1,0 +1,786 @@
+From @..  Sun Jan 25 23:41:22 2015
+Return-Path: <@..>
+X-Original-To: wayne@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 45D30DE; Sun, 25 Jan 2015 23:41:22 +0000 (UTC)
+Received: from so254-63.mailgun.net (so254-63.mailgun.net [198.61.254.63])
+    by .. with SMTP id h9jkjjedag7q9hqs7kpa4vqqne;
+    for wayne@fs.net;
+    Sun, 25 Jan 2015 23:41:22 +0000 (UTC)
+    (envelope-from bounce+c7835c.c75a6-wayne=fs.net@daily-saver.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.63;
+    envelope-from=<bounce+c7835c.c75a6-wayne=fs.net@daily-saver.co.uk>;
+    helo=so254-63.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.63; client-port=50869;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.131 162.209.19.165;
+    network-path-time=1422229282
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=daily-saver.co.uk; q=dns/txt;
+ s=mailo; t=1422229266; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=doiUMPszeXxjXfszbAbsMuobJwGvEzN0wX/ml+7HoRQ=; b=X16GRzc4cd1jvpQU5+mnu5smFN/q1sJhGvRY0fVko364t12eXFelAx4K4T9xje+YHtx0DNG2
+ xxPGUEqSE1OBBS8Z79qZ7JuaaXQKVQD+nHk990gTVbgSfbI6aQ/FICj7qbDUyPocz9eGZaJC
+ n9uHxFOSJl3kXzit+GMN9r5e0NU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=daily-saver.co.uk; s=mailo;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=ou66uya4rMNnZXCQcXBK9kBpw/F/rbdKF7voWy1GSxZkmurq11Zg4SYPRDWvSP3rTLYhEH
+ 9nNeTwgp0yLzPUs9wPO7ZuKZIkd3UnXwfhAJMkkw5TQ4aMl0ONeHC716iTulK3rCAb1V6Ep4
+ vuFOK0tRuEtGEHbor6QozqRhwYih0=
+Received: from mail.daily-saver.co.uk (daily-saver.co.uk [78.47.70.219]) by
+ mxa.mailgun.org with ESMTP id 54c57f0f.96c9970-in6; Sun, 25 Jan 2015
+ 23:41:03 -0000 (UTC)
+Received: from mail.daily-saver.co.uk (localhost [127.0.0.1])	by
+ mail.daily-saver.co.uk (Postfix) with ESMTP id 2A76680D3E	for
+ <wayne@fs.net>; Mon, 26 Jan 2015 01:41:02 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=daily-saver.co.uk;	s=dkim;
+ t=1422229262;	bh=doiUMPszeXxjXfszbAbsMuobJwGvEzN0wX/ml+7HoRQ=;	h=Date:From:To:Subject:From;	b=dpvjfvICtbLLXJfHiRgDqnFewoshDCg/ixI3gvOT8/CYBPZiG4SlXx6NVFsjmHjew	
+ J1qS+arJNCrWQrvVVCHC5v14BC9Hdl3roGR68/OHGpBk6t76jKGCls9+w/o42XzXrr	
+ PtToB/SCNq2VUEXvmlVfYtxdKHx2fi8agRnkiTrQ=
+Date: Mon, 26 Jan 2015 01:41:02 +0200 (EET)
+From: AccidentCompensationAlliance <@..>
+To: "wayne@fs.net" <@..>
+Message-Id: <469043539.1509701.1422229262172.JavaMail.root@mail.daily-saver.co.uk>
+Subject: No Matter the Injury, Get the Compensation You Deserve
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1509699_1321034335.1422229262169"
+X-Mailgun-Sid: WyI2MDM3NSIsICJ3YXluZUBmcy5uZXQiLCAiYzc1YTYiXQ==
+Sender: @..
+
+------=_Part_1509699_1321034335.1422229262169
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1509700_1938125659.1422229262169"
+
+------=_Part_1509700_1938125659.1422229262169
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+AccidentCompensationAlliance This message contains useful information. If y=
+our e-mail provider blocks the images, please enable them for a complete pr=
+eview. ADVERTISEMENT Injured? Calculate how much you could claim - click he=
+re ? ACCIDENT COMPENSATION ALLIANCE 100N AN ACCIDENT? ? ? ? ? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACCIDENTS ? ? =
+Find out how much you can claim in 30 seconds > ? ? ? *Subject to insurance=
+ costs. Fee payable if case not pursued at client's request. All cases and =
+awards are judged individually based on the circumstances. Testimonials fro=
+m customers using our panel of solicitors. If you are unable to click throu=
+gh from this email, please copy and paste the link below into your internet=
+ browser's address bar (or just click):? Accident Compensation Alliance (AC=
+A) is regulated by the Claims Management Regulator in respect of regulated =
+claims management activities; its registration is recorded on the website c=
+laimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 F=
+arm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? You have =
+received this email because you gave the sender permission to send you adve=
+rtisements by email. To change your preferences please contact the sender o=
+r use their unsubscribe link. ADVERTISEMENT Injured? Calculate how much you=
+ could claim - click here ACCIDENT COMPENSATION ALLIANCE 100* HURT OR INJURED IN AN ACCIDENT? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACC=
+IDENTS ? Find out how much you can claim in 30 seconds > ? ? *Subject to in=
+surance costs. Fee payable if case not pursued at client's request. All cas=
+es and awards are judged individually based on the circumstances. Testimoni=
+als from customers using our panel of solicitors. If you are unable to clic=
+k through from this email, please copy and paste the link below into your i=
+nternet browser's address bar (or just click):? Accident Compensation Allia=
+nce (ACA) is regulated by the Claims Management Regulator in respect of reg=
+ulated claims management activities; its registration is recorded on the we=
+bsite claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (AC=
+A), 7 Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? Yo=
+u have received this email because you gave the sender permission to send y=
+ou advertisements by email. To change your preferences please contact the s=
+ender or use their unsubscribe link. The advertiser does not manage your su=
+bscription. If you prefer not to receive further communication, here is the=
+ way to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece calcul=
+ated from their simplicity and beauty, to deeply impress theminds of childr=
+en, can be selected from both Testaments; but themiracles and parables of o=
+ur Saviour constitute the richest store.MORAL TRAINING.One of the grand aim=
+s of the infant system was intended to improvethe system of moral training.=
+ The great deficiency in our systems ocation, with respect to moral tra=
+ining, is truly lamentable, fromthe highest down to the lowest schools in t=
+he land. There is room forimmense improvement in this matter, it is hardly =
+possible to visit aschool and witness proper efforts made on this important=
+ subject; andnever willcation produce the glorious effects anticipated =
+fromit, until this subject is legislated for and well understood by thepubl=
+ic; and I pray to God that he will enable me to use arguments inthis chapte=
+r to prove effective in the minds of my readers, so as toinduce them to co-=
+operate with me to produce another state of things.In these days there is m=
+uch said aboutcation; it has at lastarrested the attention of parliamen=
+t; and through them, thegovernment, and, as it should be, through the gover=
+nment, thesovereign. Thus is truly encouraging and will act as a stimulus t=
+opractical men to develop a system workable in all its parts, and thuscarry=
+ out the views and benevolent intentions of the legislature.Infantcatio=
+n, however, must be the basis, this is beginning atthe right end; if errors=
+ are committed here the superstructure isof little avail. The foundation of=
+ moral training must be laid ininfancy, it cannot be begun too soon, and is=
+ almost always commencedtoo late. Mere infants can understand the doing as =
+they would be doneby; no child likes to be deprived of its play-things, his=
+ little toys,or any thing which he considers his property; he will always p=
+unishthe aggressor if he can, and if he cannot he will cry, or put himselfi=
+n a passion, or seek aid from his parents, or any other sourcewhere he thin=
+ks he may get justice done to him. Little children havebeautiful ideas on t=
+his subject, and would have, if properly trained,correct notions as to the =
+rights of property; to teach them to respectthe property of others, and eve=
+n to respect themselves, is farpreferable to cramming their memories with g=
+ood rules in theory; thiswas the old plan; we have proof that it has not wo=
+rked well. The newplan must operate upon the will, it must influence the he=
+art of thechild; this is the Scripture plan, which continually refers to th=
+e
+------=_Part_1509700_1938125659.1422229262169
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+    <title>AccidentCompensationAlliance </title>
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+</head>
+<body>
+    <p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+        This message contains useful information. If your e-mail provider b=
+locks the images, <br> please enable them for a complete preview.
+    </p>
+    <style type=3D"text/css">
+        @media only screen and (max-width:320px), only screen and (max-devi=
+ce-width:320px) {
+            /* - - - - - HOTMAIL FIXES*/
+            .ReadMsgBody {
+                width: 100            }
+
+            ExternalClass {
+                width: 100            }
+
+            a[href^=3D"tel"], a[href^=3D"sms"] {
+                text-decoration: none;
+                color: #9ec459; /* or whatever your want */
+                pointer-events: none;
+                cursor: default;
+            }
+
+            table[id=3Dcontainer] {
+                -webkit-text-size-adjust: 100            }
+
+            div[id=3Dmobile] {
+                display: block !important;
+                width: 100                height: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+            }
+
+            div[id=3Ddesktop] {
+                display: none !important;
+                width: 0px !important;
+                max-height: 0px !important;
+                overflow: hidden !important;
+                padding: 2px !important;
+                margin: 0px !important;
+            }
+        }
+    </style>
+
+    <table id=3D"container" style=3D"font-family:Arial;" align=3D"center" w=
+idth=3D"98        <tr>
+            <td align=3D"center">
+                <!-- DESKTOP -->
+                <div id=3D"desktop" style=3D"display:block; width:100-height:auto; overflow:visible; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"600" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ont-family: Arial, sans-serif; text-align: center; font-size: 14px; line-he=
+ight: 16px; color: #000000; background-color:#E7E7E7">ADVERTISEMENT</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-family: Arial, sa=
+ns-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); tex=
+t-align: center; font-size: 11px; line-height: 14px; background-color: rgb(=
+255, 255, 255);" width=3D"600" height=3D"21"><a target=3D"_blank" href=3D"h=
+ttp://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_19=
+86&s3=3D1501260141&S4=3D220361">Injured? Calculate how much you could claim=
+ - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #505=
+863;" width=3D"600" height=3D"318"><a target=3D"_blank" href=3D"http://dail=
+y-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1986&s3=3D15=
+01260141&S4=3D220361" title=3D"-"><img style=3D"display:block; margin:0px; =
+padding:0px;" alt=3D"-" src=3D"http://daily-saver.co.uk/qpxrew5eom7da" widt=
+h=3D"600" height=3D"318" border=3D"0" /></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"63">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"30" height=3D"=
+63">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #ffffff;" width=3D"63" height=3D"63"><a target=3D"_blank" href=3D"h=
+ttp://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_19=
+86&s3=3D1501260141&S4=3D220361" title=3D"ACA"><img style=3D"display:block; =
+margin:0px; padding:0px;" alt=3D"ACA" src=3D"http://daily-saver.co.uk/pj3gn=
+p" width=3D"63" height=3D"63" border=3D"0" /></a></td>
+                                                    <td style=3D"font-style=
+: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Blac=
+k', Gadget, sans-serif; text-align: center; font-size: 22px; line-height: 2=
+7px; background-color: #ffffff;" width=3D"482" height=3D"63">
+                                                        ACCIDENT <font styl=
+e=3D"color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100"color:#151515">NO WIN NO FEE*</font>
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"25" height=3D"=
+63">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-style: normal; co=
+lor: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, =
+sans-serif; text-align: center; font-size: 45px; line-height: 50px; backgro=
+und-color: rgb(255, 255, 255);" width=3D"600" height=3D"114">
+                                            HURT <font style=3D"color:#1515=
+15">OR</font> INJURED
+                                            <br>
+                                            <font style=3D"color:#151515">I=
+N AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"54">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"67" height=3D"=
+54">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"467" height=3D"54"><a target=3D"_blank" href=3D"=
+http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1=
+986&s3=3D1501260141&S4=3D220361" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://daily-saver.co.uk/q1ysdbvfqojp" width=3D"467" height=3D"54" b=
+order=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"66" height=3D"=
+54">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"21">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"93">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"9" height=3D"9=
+3">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"583" height=3D"93"><a target=3D"_blank" href=3D"=
+http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1=
+986&s3=3D1501260141&S4=3D220361" title=3D"-"><img style=3D"display:block; m=
+argin:0px; padding:0px;" alt=3D"-" src=3D"http://daily-saver.co.uk/yxmefv6e=
+wxraz" width=3D"583" height=3D"93" border=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"8" height=3D"9=
+3">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"38">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"202" height=3D"38">ROAD ACCID=
+ENTS</td>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"199" height=3D"38">WORK ACCID=
+ENTS</td>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"199" height=3D"38">OTHER ACCI=
+DENTS</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"11">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"52">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"19" height=3D"=
+52">&nbsp;</td>
+                                                    <td style=3D"font-style=
+: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; f=
+ont-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height=
+: 21px; background-color: rgb(255, 255, 255);" width=3D"256" height=3D"52">
+                                                        <a target=3D"_blank=
+" href=3D"http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO0000=
+02106497_1986&s3=3D1501260141&S4=3D220361" style=3D"color:#888888">
+                                                            Find out how mu=
+ch you
+                                                            <br>
+                                                            can claim in 30=
+ seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FEFFFF;" width=3D"313" height=3D"52"><a target=3D"_blank" href=3D"=
+http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1=
+986&s3=3D1501260141&S4=3D220361" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://daily-saver.co.uk/prvoqkllyf" width=3D"313" height=3D"52" bor=
+der=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"12" height=3D"=
+52">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"9">&nbsp;</=
+td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"126">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"20" height=3D"=
+126">&nbsp;</td>
+                                                    <td style=3D"font-famil=
+y: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: =
+left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; backgr=
+ound-color: rgb(233, 233, 233);" width=3D"547" height=3D"126">
+                                                        *Subject to insuran=
+ce costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and award=
+s are judged individually based on the circumstances. Testimonials from cus=
+tomers using our panel of solicitors. If you are unable to click through fr=
+om this email, please copy and paste the link below into your internet brow=
+ser's address bar (or just click):&copy; Accident Compensation Alliance (AC=
+A) is regulated by the  Claims Management Regulator in respect of regulated=
+ claims management activities; its registration is recorded on the website =
+claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 =
+Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"33" height=3D"=
+126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ial, sans-serif; text-align: center; font-size: 11px; line-height: 16px; co=
+lor: #000000; background-color:#E7E7E7; padding-bottom:10px; padding-top:10=
+px;">
+                                                        You have received t=
+his email because you gave the sender
+                                                        <br>
+                                                        permission to send =
+you advertisements by email. To change
+                                                        <br>
+                                                        your preferences pl=
+ease contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>  <!-- DESKTOP -->
+                <!-- MOBILE -->
+                <!-- <div id=3D"mobile" style=3D"display:block !important; =
+width:100t; overflow:visible !important;">-->
+                     <div id=3D"mobile" style=3D"display:none; width:0px; m=
+ax-height:0px; overflow:hidden; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"300" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ont-family: Arial, sans-serif; text-align: center; font-size: 14px; line-he=
+ight: 16px; color: #000000; background-color:#E7E7E7">ADVERTISEMENT</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-family: Arial, sa=
+ns-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); tex=
+t-align: center; font-size: 11px; line-height: 14px; background-color: rgb(=
+255, 255, 255);" width=3D"300" height=3D"21"><a target=3D"_blank" href=3D"h=
+ttp://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_19=
+86&s3=3D1501260141&S4=3D220361">Injured? Calculate how much you could claim=
+ - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #505=
+863;" width=3D"300" height=3D"159">
+                                            <a target=3D"_blank" href=3D"ht=
+tp://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_198=
+6&s3=3D1501260141&S4=3D220361" title=3D"-">
+                                                <img style=3D"display:block=
+; margin:0px; padding:0px;" alt=3D"-" src=3D"http://daily-saver.co.uk/qpxre=
+w5eom7da_2" width=3D"300" height=3D"159" border=3D"0" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"63">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                   =20
+                                                    <td style=3D"background=
+-color: #ffffff;" width=3D"63" height=3D"63"><a target=3D"_blank" href=3D"h=
+ttp://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_19=
+86&s3=3D1501260141&S4=3D220361" title=3D"ACA">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"ACA" src=3D"http://daily-saver.c=
+o.uk/pj3gnp" width=3D"63" height=3D"63" border=3D"0" /></a></td>
+                                                    <td style=3D"font-style=
+: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Blac=
+k', Gadget, sans-serif; text-align: center; font-size: 15px; line-height: 2=
+0px; background-color: #ffffff;" width=3D"226" height=3D"23">
+                                                        ACCIDENT <font styl=
+e=3D"color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100"color:#151515">NO WIN NO FEE*</font>
+                                                    </td>
+                                                  =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-style: normal; co=
+lor: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, =
+sans-serif; text-align: center; font-size: 25px; line-height: 30px; backgro=
+und-color: rgb(255, 255, 255);" width=3D"300" height=3D"74">
+                                            HURT <font style=3D"color:#1515=
+15">OR</font> INJURED
+                                            <br>
+                                            <font style=3D"color:#151515">I=
+N AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"54">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                   =20
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"467" height=3D"35"><a target=3D"_blank" href=3D"=
+http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1=
+986&s3=3D1501260141&S4=3D220361" title=3D"Start your claim &gt;">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" src=3D"ht=
+tp://daily-saver.co.uk/q1ysdbvfqojp_2" width=3D"300" height=3D"35" border=
+=3D"0" /></a></td>
+                                                  =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"21">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"48">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                  =20
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"583" height=3D"48">
+                                                    <a target=3D"_blank" hr=
+ef=3D"http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO00000210=
+6497_1986&s3=3D1501260141&S4=3D220361" title=3D"-">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"-" src=3D"http://daily-saver.co.=
+uk/yxmefv6ewxraz_2" width=3D"300" height=3D"48" border=3D"0" /></a></td>
+                                                  =20
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"center" wi=
+dth=3D"300" height=3D"5">
+                                                        <table align=3D"cen=
+ter" width=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">ROAD ACCIDENTS</td>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">WORK ACCIDENTS</td>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">OTHER ACCIDENTS</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                  =20
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"11">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"52">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                  =20
+                                                    <td style=3D"font-style=
+: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; f=
+ont-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height=
+: 21px; background-color: rgb(255, 255, 255);" width=3D"256" height=3D"52">
+                                                        <a target=3D"_blank=
+" href=3D"http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO0000=
+02106497_1986&s3=3D1501260141&S4=3D220361" style=3D"color:#888888">
+                                                            Find out how mu=
+ch you
+                                                            <br>
+                                                            can claim in 30=
+ seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FEFFFF;" width=3D"313" height=3D"52"><a target=3D"_blank" href=3D"=
+http://daily-saver.co.uk/?a=3D488&c=3D4993&s1=3D480009&s2=3DO000002106497_1=
+986&s3=3D1501260141&S4=3D220361" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://daily-saver.co.uk/prvoqkllyf_2" width=3D"300" height=3D"50" b=
+order=3D"0" /></a></td>
+                                                   =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"9">&nbsp;</=
+td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"126">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"20" height=3D"=
+126">&nbsp;</td>
+                                                    <td style=3D"font-famil=
+y: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: =
+left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; backgr=
+ound-color: rgb(233, 233, 233);" width=3D"300" height=3D"126">
+                                                        *Subject to insuran=
+ce costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and award=
+s are judged individually based on the circumstances. Testimonials from cus=
+tomers using our panel of solicitors. If you are unable to click through fr=
+om this email, please copy and paste the link below into your internet brow=
+ser's address bar (or just click):&copy; Accident Compensation Alliance (AC=
+A) is regulated by the  Claims Management Regulator in respect of regulated=
+ claims management activities; its registration is recorded on the website =
+claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 =
+Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"33" height=3D"=
+126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ial, sans-serif; text-align: center; font-size: 11px; line-height: 16px; co=
+lor: #000000; background-color:#E7E7E7; padding-bottom:10px; padding-top:10=
+px;">
+                                                        You have received t=
+his email because you gave the sender
+                                                        <br>
+                                                        permission to send =
+you advertisements by email. To change
+                                                        <br>
+                                                        your preferences pl=
+ease contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <br />
+    <center>
+        <font size=3D"2" face=3D"Arial">
+            The advertiser does not manage your subscription. If you prefer=
+ not to receive further communication,<br>
+            <a href=3D"http://daily-saver.co.uk/unsub?s1=3D480009&newunsub=
+=3D1" target=3D"_blank">here is the way</a> to stop receiving emails. P.O. =
+Box 13629, 10310 Athens - Greece<br>
+        </font>
+        <img src=3D "http://daily-saver.co.uk/adv" border=3D"0" alt=3D"" st=
+yle=3D"max-width:100">
+=09=09<img alt=3D"" src=3D"http://daily-saver.co.uk/record.php?s1=3D480009&=
+s2=3DO000002106497_1986&s3=3D1501260141&S4=3D220361" width=3D"1" height=3D"=
+1" border=3D"0" />
+    </center>
+    <div style=3D"color:white; background-color:white; font-size:8px;">
+        calculated from their simplicity and beauty, to deeply impress them=
+inds of children, can be selected from both Testaments; but themiracles and=
+ parables of our Saviour constitute the richest store.MORAL TRAINING.One of=
+ the grand aims of the infant system was intended to improvethe system of m=
+oral training. The great deficiency in our systems ocation, with respec=
+t to moral training, is truly lamentable, fromthe highest down to the lowes=
+t schools in the land. There is room forimmense improvement in this matter,=
+ it is hardly possible to visit aschool and witness proper efforts made on =
+this important subject; andnever willcation produce the glorious effect=
+s anticipated fromit, until this subject is legislated for and well underst=
+ood by thepublic; and I pray to God that he will enable me to use arguments=
+ inthis chapter to prove effective in the minds of my readers, so as toindu=
+ce them to co-operate with me to produce another state of things.In these d=
+ays there is much said aboutcation; it has at lastarrested the attentio=
+n of parliament; and through them, thegovernment, and, as it should be, thr=
+ough the government, thesovereign. Thus is truly encouraging and will act a=
+s a stimulus topractical men to develop a system workable in all its parts,=
+ and thuscarry out the views and benevolent intentions of the legislature.I=
+nfantcation, however, must be the basis, this is beginning atthe right =
+end; if errors are committed here the superstructure isof little avail. The=
+ foundation of moral training must be laid ininfancy, it cannot be begun to=
+o soon, and is almost always commencedtoo late. Mere infants can understand=
+ the doing as they would be doneby; no child likes to be deprived of its pl=
+ay-things, his little toys,or any thing which he considers his property; he=
+ will always punishthe aggressor if he can, and if he cannot he will cry, o=
+r put himselfin a passion, or seek aid from his parents, or any other sourc=
+ewhere he thinks he may get justice done to him. Little children havebeauti=
+ful ideas on this subject, and would have, if properly trained,correct noti=
+ons as to the rights of property; to teach them to respectthe property of o=
+thers, and even to respect themselves, is farpreferable to cramming their m=
+emories with good rules in theory; thiswas the old plan; we have proof that=
+ it has not worked well. The newplan must operate upon the will, it must in=
+fluence the heart of thechild; this is the Scripture plan, which continuall=
+y refers to the
+    </div>
+<img alt=3D"" src=3D"http://daily-saver.co.uk/record.php?s1=3D480009&s2=3DO=
+000002106497_1986&s3=3D1501260141&S4=3D220361" width=3D"1" height=3D"1" bor=
+der=3D"0" /></body>
+</html>
+------=_Part_1509700_1938125659.1422229262169--
+
+------=_Part_1509699_1321034335.1422229262169--
+

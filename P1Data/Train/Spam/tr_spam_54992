@@ -1,0 +1,122 @@
+From @..  Sun Jan  4 16:30:47 2015
+Return-Path: <@..>
+X-Original-To: sjones72@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2CC4ADE; Sun,  4 Jan 2015 16:30:47 +0000 (UTC)
+Received: from mta14.tagelmark.com (mta14.tagelmark.com [199.182.175.53])
+    by .. with SMTP id xe4kzafk8y2ttku46uirn4c3rw;
+    for sjones72@fs.net;
+    Sun, 04 Jan 2015 16:30:47 +0000 (UTC)
+    (envelope-from fs.net.1321010.sjones72@mta14.tagelmark.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.182.175.53;
+    envelope-from=<fs.net.1321010.sjones72@mta14.tagelmark.com>;
+    helo=mta14.tagelmark.com; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.182.175.53; client-port=37123;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=17; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.134 154.54.10.61 154.54.0.165
+    154.54.29.18 154.54.25.106 154.54.42.150 154.54.42.166 38.123.240.10
+    192.69.160.210 192.69.162.18 192.80.112.133 98.188.122.162 199.182.175.53;
+    network-path-time=1420389046; RBL=zen..org (127.0.0.3)
+DKIM-Signature: a=rsa-sha1; c=relaxed/relaxed; d=tagelmark.com;
+	s=s512; l=1488; x=1420993846; h=From:To:Subject:Content-Type:
+	Date:Message-ID:List-Unsubscribe; b=AbMc3gtAEfcFK7k322699dLlLTWw
+	lfolm9IrYRasaSo5TV+o0PBlenjQnlM7QAj17mDCRrM6f4Rz3Ry0m3rOOA==
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=tagelmark.com; s=s512; l=1488; x=1420993846; h=From:To:Subject:
+	Content-Type:Date:Message-ID:List-Unsubscribe; bh=I6SzzsMZL3czoI
+	UyCNTU4GZ1GoI=; b=jz0TM128shC0uMgd5OuJ7Gu8atWciekKlqc8L+gkcnYzVB
+	OtLMFhC+wZNyw7bAWeEGhR/+Jafmh93+PIIV9Kdg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s512; d=tagelmark.com;
+  b=N7EAVcWRC8NLLrjp0EQhpD1mhiQi3o/GQat/BDvOhau7IFiSmtiy//8M+o4ljm0Vm2lBDbVUswU/anwC/TTM/g==;
+Received: from mta14.tagelmark.com [199.182.175.53] by mta14.tagelmark.com [199.182.175.53];
+  Sun, 4 Jan 2015 11:30:33 -0500
+MIME-Version: 1.0
+From: Tanya <@..>
+To: @..
+Subject:  sjones72 What do you want more than $1,000 a day?
+Content-Type: multipart/alternative; 
+  boundary="-=3b9b9de0a74ca7fc4d5117aded8748f0";
+Date: Sun, 4 Jan 2015 11:30:33 -0500
+Message-ID: <5-1321010-0VmbuMnZAJzNzVmbvp2cK@mta14.tagelmark.com>
+List-Unsubscribe: http://tagelmark.com/5/cvc.do?e=sjones72@fs.net&m=1321010
+Precedence: bulk
+Auto-Submitted: auto-generated
+X-Admin: postmaster@tagelmark.com
+Abuse-Reports-To: abuse@tagelmark.com
+X-Complaints-To: abuse@tagelmark.com
+X-Report-Abuse-To: abuse@tagelmark.com 
+X-Mailer: 4.2.8-134 [Aug 22 2012, 22:57:59]
+
+---=3b9b9de0a74ca7fc4d5117aded8748f0
+Content-Type: text/plain; charset="UTF-8"
+
+ sjones72, 
+ 
+ 
+ 
+Trust me, you have to go watch this video! People are going nuts over
+this! 
+ 
+ 
+ 
+http://tagelmark.com/soihc?e=0VmbuMnZAJzNzVmbvp2cK&m=1321010&l=0. 
+ 
+ 
+I won't spoil it for you, but you'll never be the same after this! I'm
+not! 
+ 
+ 
+ 
+Regards, 
+ 
+ 
+ 
+Tanya 
+ 
+ 
+ 
+P.S. I swear, you'll hate yourself if you don't see this! 
+ 
+
+
+Leave "http://tagelmark.com/5/cvc.do?e=sjones72@fs.net&m=1321010" from
+future messages     
+
+<5;0VmbuMnZAJzNzVmbvp2cK;1321010;QbvNmLrJXYtxWZnFGduQTMhRXbK>
+---=3b9b9de0a74ca7fc4d5117aded8748f0
+Content-Type: text/html; charset="UTF-8"
+
+<p><br />
+ sjones72,Trust me, you have to go watch this video! People are going nuts over this!</p>
+
+<p>&nbsp;</p>
+
+<p>http://tagelmark.com/soihc?e=0VmbuMnZAJzNzVmbvp2cK&m=1321010&l=0.</p>
+
+<p><br />
+I won&#39;t spoil it for you, but you&#39;ll never be the same after this! I&#39;m not!</p>
+
+<p>&nbsp;</p>
+
+<p>Regards,</p>
+
+<p>&nbsp;</p>
+
+<p>Tanya</p>
+
+<p>&nbsp;</p>
+
+<p>P.S. I swear, you&#39;ll hate yourself if you don&#39;t see this!</p>
+
+<p>&nbsp;</p>
+<br><br>Leave <a href="http://tagelmark.com/5/cvc.do?e=sjones72@fs.net&m=1321010">here</a> from future messages
+
+	<br class='5_0VmbuMnZAJzNzVmbvp2cK_1321010_QbvNmLrJXYtxWZnFGduQTMhRXbK'/>
+<img src="http://tagelmark.com/clickopen?msgid=1321010&email=0VmbuMnZAJzNzVmbvp2cK" width="1" height="1">
+---=3b9b9de0a74ca7fc4d5117aded8748f0--
+

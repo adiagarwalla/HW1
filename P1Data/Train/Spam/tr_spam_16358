@@ -1,0 +1,1769 @@
+From @..  Fri Jan 23 16:13:27 2015
+Return-Path: <@..>
+X-Original-To: sds@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 88A01E0; Fri, 23 Jan 2015 16:13:27 +0000 (UTC)
+Received: from ruelala.outbound.ed10.com (ruelala.outbound.ed10.com [208.94.23.120])
+    by .. with SMTP id f69g2yieh2xxea2f5qts24i5wn;
+    for sds@fs.net;
+    Fri, 23 Jan 2015 16:13:27 +0000 (UTC)
+    (envelope-from RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e@ruelala.bounce.ed10.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=208.94.23.120;
+    envelope-from=<RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e@ruelala.bounce.ed10.net>;
+    helo=ruelala.outbound.ed10.com; mechanism=a:ruelala.outbound.ed10.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=208.94.23.120; client-port=33522;
+    syn-fingerprint=5840:53:1:52:M1380,N,N,S,N,W10 Linux 2.4 w/o timestamps;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.225
+    64.124.161.50; network-path-time=1422029607
+DKIM-Signature: v=1; a=rsa-sha1; d=mail.ruelala.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@mail.ruelala.com; t=1422029591;
+	h=From;
+	bh=of+vYGZXi4mWzIktJps6q1TdY5c=;
+	b=vz9MDO405pxg3iwNqCIUwH8Vbxh+REvq2xBwmPArhVasWH2Oz6R0sLGo0SzLehSQ
+	p4nIn8J+LfL6aFDI5E2EJ4nbZH+Yu6p9dWxf2ECgMHwUBCZPRq7dz3mfMp7f6gn/
+	mULAwmABLY0Y4OaX25Z7QC62jrA+CtQgn8JpNTHH+9g=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2008-02; d=mail.ruelala.com;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer:List-Unsubscribe;
+	b=p2jsW3FVewYvEkkcf8BXWMHbY0FlLDNOxbkoRF1HMuJNKVIXZv3ycLSyhJ580RpX
+	9tULj2GSbBKxtcKs1ySfTXaBcwI66IPJjD6mDOyt4wSM5RPSjwHGvErdQ9tM/M9v
+Received: from [127.0.0.1] ([127.0.0.1:46136])
+	by bm1-00.bo3.e-dialog.com (envelope-from <RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e@ruelala.bounce.ed10.net>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 64/31-14003-61372C45; Fri, 23 Jan 2015 11:13:10 -0500
+Date: Fri, 23 Jan 2015 11:13:10 -0500
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "Rue La La" <@..>
+Reply-To: "Rue La La" <@..>
+To: @..
+Subject: =?UTF-8?B?T2ZmLUR1dHkgU3R5bGUgZm9yIE1lbiDigKIgQ2xhcmtzIOKAoiBSQVlNT05E?=
+ =?UTF-8?B?IFdFSUwgV2F0Y2hlcyDigKIgMTAwcyBvZiBGYXNoaW9uIFN0ZWFscyDigKI=?=
+ =?UTF-8?B?IFN1ZSBXb25nIOKAoiBBbGV4YW5kZXIgTWNRdWVlbiDigKIgSE9OT1JBIA==?=
+Message-Id: <22265-759-RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e@e-dialog.com>
+X-Mail-From: RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e@ruelala.bounce.ed10.net
+X-Match: ruelala.bounce.ed10.net
+X-RCPT-To: sds@fs.net
+X-Mailer: EDMAIL R6.00.02
+List-Unsubscribe: 
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+[[RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="viewport" content="width=device-width, user-scalable=false;">
+<style type="text/css">
+.ReadMsgBody { width: 100.ExternalClass {width: 100* {-webkit-text-size-adjust:none;-ms-text-size-adjust:none;}
+.applelinksWhite a {color:#FFF!important; text-decoration:none!important;}
+
+@media only screen and (max-width: 480px){
+	
+*[class=noMobile] {
+	display: none !important;
+}
+*[class=resizeTo320] {
+	display: block !important;
+	width: 325px !important;
+	height: auto !important;
+	padding: 0;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+
+*[class=imageResize320] {
+	width: 325px !important;
+	height: auto !important;
+}
+
+*[class=footerSpacer1] {
+	width:16px !important;
+	height:auto !important;	
+}
+*[class=footerSpacer2] {
+	width:10px !important;
+	height:auto !important;	
+}
+*[class=footerSpacer3] {
+	width:10px !important;
+	height:auto !important;	
+}
+*[class=footerSpacer4] {
+	width:10px !important;
+	height:auto !important;	
+}
+	
+*[class=nomob]{display:none!important;}
+*[class=showmobile]{display:block!important; width:320px !important; height:auto!important; padding:0!important; max-height:inherit!important; overflow:visible!important;}
+
+*[class=resize320]{width:320px!important; height:auto!important;}
+*[class=resize189]{width:189px!important; height:auto!important;}
+*[class=resize150]{width:150px!important;}
+*[class=resize1img]{width:100*[class=resize100width]{width:100
+*[class=padding5left]{padding-left:5px!important;}
+*[class=padding10left]{padding-left:10px!important;}
+
+*[class=padding0top]{padding-top:0px!important;}
+*[class=padding8top]{padding-top:8px!important;}
+
+*[class=paddingsmallright] {padding-right:10px!important;}
+
+*[class=noborder]{border:none!important; height:auto!important;}
+
+*[class=headerDivide]{width:320px!important; height:2px!important;}
+
+*[class=headerHappening]{background-image:url('http://img.ed4.net/ruelala/images/2013refresh/hdr-hap-now.gif')!important; background-position:center!important; background-repeat:no-repeat!important; height:35px!important;}
+
+*[class=font14]{font-size:14px!important; line-height:normal!important;}
+*[class=calendarDiv]{height:3px!important; background-image:url('http://img.ed4.net/spacer1.gif')!important; background-color:#000!important;}
+*[class=footerText]{font-family:Arial, Helvetica, sans-serif!important; font-size:11px!important; padding-left:8px!important; padding-right:8px!important;}
+/*FOR THIS EMAIL ONLY*/
+*[class=bgWht]{
+	background-color:#FFFFFF;
+}
+}
+</style>
+</head>
+<body>
+<table class="resize320" border="0" cellspacing="0" cellpadding="0" width="640" align="center">
+   <tr>
+<td><table class="resize320" border="0" cellspacing="0" cellpadding="0" width="640" align="center">
+<tr class="nomob"><tr>
+<td align="center" bgcolor="#f5f5f5" style="padding:6px;"><font style="FONT-SIZE:11px; COLOR:#666666; FONT-FAMILY:Helvetica;">New Boutiques have taken over. Grab your picks &ndash; it&rsquo;s time to rack up style.</font></td>
+</tr>
+<tr><td bgcolor="#cccccc"><img style="display:block;" src="http://img.ed4.net/ruelala/images/invite-st/s.gif" width="100</table></td>
+</tr>
+
+<!--TOP NAV-->
+<tr class="nomob"><td align="center">
+ <table class="nomob" border="0" cellspacing="0" cellpadding="0" width="640">
+  <tr>
+    <td><img style="display:block;" src="http://img.ed4.net/ruelala/images/ruelala/s.gif" border="0" alt="" width="1" height="10" /></td>
+    <td><img style="display:block;" src="http://img.ed4.net/ruelala/images/ruelala/s.gif" border="0" alt="" width="1" height="10" /></td>
+  </tr>
+  <tr>
+    <td align="left" style="text-transform:uppercase; padding-left:10px; FONT-SIZE:11px; COLOR:#666666; FONT-FAMILY:Arial, Helvetica, sans-serif;">Hello <b>Member</b>!</td>
+    <td align="right" style="text-transform:uppercase; padding-right:10px; FONT-SIZE:11px; COLOR:#666666; FONT-FAMILY:Arial, Helvetica, sans-serif; font-weight:bold;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/FYDD1B/HD/h?a=1023&b=0&c=cm>At Your Service</a> &nbsp;&nbsp;&nbsp; <a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/J9QQB0/HD/h?a=1023&b=0&c=cm>My Account</a></td>
+  </tr>
+</table>
+</td></tr>
+
+<tr><td align="center">
+<!--mobile only header-->
+<div class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;">
+<table class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;" border="0" cellpadding="0" cellspacing="0" width="320" align="center">
+<tr>
+<td width="90" align="left" valign="top" style="text-transform:uppercase; padding-left:5px; padding-top:8px; FONT-SIZE:11px; COLOR:#666666; FONT-FAMILY:Arial, Helvetica, sans-serif;">Hello<br /><b>Member</b>!</td>
+<td width="160" align="center" valign="top" style="padding-top:8px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/42VVEF/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/images/living/rll-logo.gif" border="0" alt="Rue La La" title="Rue La La" width="100" /></a></td>
+<td width="90" align="right" valign="top" style="text-transform:uppercase; padding-right:5px; padding-top:8px; FONT-SIZE:11px; COLOR:#666666; FONT-FAMILY:Arial, Helvetica, sans-serif;"><b>Your Credit:</b><br /><span style="color:#ef164b;">$0</span></td>
+</tr>
+</table>
+</div>
+<div class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;">
+<table class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;" border="0" cellpadding="0" cellspacing="0" width="320" align="center">
+<tr><td height="8"><img src="http://img.ed4.net/spacer1.gif" style="display:block;" height="8" width="1" /></td></tr>
+</table>
+</div>
+<!--mobile only header-->
+ <table class="nomob" border="0" cellspacing="0" cellpadding="0" width="640" bgcolor="#ffffff">
+ <tr>
+  <td width="220" align="left" valign="bottom" style="padding-left:10px; padding-bottom:19px; FONT-SIZE:12px; COLOR:#000001; FONT-FAMILY:Helvetica;"><b>Your Credit:</b> $0</td>
+  <td align="center"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/HEIIT0/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/images/living/rll-logo.gif" border="0" alt="Rue La La" title="Rue La La" width="180" height="97" /></a></td>
+  <td valign="bottom" align="right" width="220" style="padding-bottom:24px;">
+
+
+
+  
+<table border="0" cellspacing="0" cellpadding="0" width="154">
+ <tr><td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/8M77JB/HD/h" target="rllwindow"
+><img style="display:block;" src="http://img.ed4.net/ruelala/images/living/rue30.gif" border="0" alt="The Rue 30. Ship Free For 30 Days" width="154" height="50" /></a></td></tr>
+</table>
+ 
+
+</td>
+ </tr>
+
+<!-- UPDATE TOP NAV 11-2014 -->
+<tr>
+<td width="640" align="center" colspan="3"><table border="0" cellspacing="0" cellpadding="0" width="640" bgcolor="#FFFFFF">
+	<tr>
+    <td width="640" height="4" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size:0; line-height:0;"><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_bar_top.jpg" border="0" alt="All" title="All" width="640" height="4"/></td>
+    </tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="640" bgcolor="#FFFFFF">
+  <tr>
+   <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXXPC/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_01.jpg" border="0" alt="All" title="All" width="50" height="31"/></a></td>
+   <td width="83"><img src="http://img.ed4.net/spacer50.gif" border="0" style="display:block;" alt="All" title="All" width="83" height="1"/></td>
+   <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/J9QQB5/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_02.jpg" border="0" alt="Women" title="Women" width="77" height="31" /></a></td>
+   <td width="84"><img src="http://img.ed4.net/spacer50.gif" border="0" style="display:block;" alt="All" title="All" width="84" height="1"/></td>
+   <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/6ZAA9G/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_03.jpg" border="0" alt="Men" title="Men" width="53" height="31" /></a></td>
+   <td width="86"><img src="http://img.ed4.net/spacer50.gif" border="0" style="display:block;" alt="All" title="All" width="86" height="1"/></td>
+   <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS8K/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_04.jpg" border="0" alt="Living" title="Living" width="66" height="31" /></a></td>
+   <td width="84"><img src="http://img.ed4.net/spacer50.gif" border="0" style="display:block;" alt="All" title="All" width="84" height="1"/></td>
+   <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/IQEEHW/HD/h?a=1023&b=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_05.jpg" border="0" alt="Kids" title="Kids" width="56" height="31" /></a></td>
+  </tr>
+ </table>
+<table border="0" cellspacing="0" cellpadding="0" width="640" bgcolor="#FFFFFF">
+	<tr>
+    <td width="640" height="4" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size:0; line-height:0;"><img style="display:block;" src="http://img.ed4.net/ruelala/template/nav_bar_bttm.jpg" border="0" alt="All" title="All" width="640" height="4"/></td>
+    </tr>
+</table></td>
+</tr>
+<!-- //UPDATE TOP NAV -->
+
+</table>
+</td></tr>
+<!--//TOP NAV-->
+
+<tr>
+      <td align="center">
+         <!--CONTENT SECTION-->
+         <table class="resize320" border="0" cellspacing="0" cellpadding="0" width="640" align="center">
+            
+
+
+<tr>
+<td align="center">
+<table class="resize320" border="0" cellspacing="0" cellpadding="0" align="center" width="640">  
+<tr>
+<td class="nomob" width="10" height="1"><img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="10" style="display:block;" border="0">
+              </td>    
+              <td>
+ <table class="resize320" border="0" cellspacing="0" cellpadding="0" align="center" width="620">  
+ <tr>
+ <td>              
+
+<table border="0" cellspacing="0" cellpadding="0" width="540" align="center" class="resize320">
+ <tr><td style="padding-top:15px; padding-bottom:12px;" align="center" class="happeningNowFont"><font class="happeningNowFont" style="FONT-SIZE:15px; COLOR:#000000; FONT-FAMILY:Helvetica;"><b>HAPPENING NOW:</b> JANUARY 23, 2015</font></td></tr>
+ 
+ 
+ 
+<!--[if !mso]><!-->
+<tr>
+<td>
+<div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile"> 
+<table border="0" cellspacing="0" cellpadding="0" width="320" align="center" style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobile">
+ <tr>
+ <td width="320" style="padding-bottom:6px;"">
+ <img src="http://img.ed4.net/ruelala/2014/141231_happening_now//line-retina.jpg" border="0" style="display:block;" width="320" height="10" alt=""/>
+ </td>
+ </tr>
+ </table>
+  </div>
+ </td>
+ </tr>
+<!--<![endif]-->
+</table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+
+
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/S1UUZC/HD/h" target="rllwindow"
+><img class="resize320" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/326097/326097_W_1.jpg" border="0" alt="Go Off Duty"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+        
+    
+    <td class="noborder" align="center" width="616" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/S1UUZC/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Go Off Duty<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/S1UUZC/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Men&#039;s Jeans, Button-Fronts, & More</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+
+
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/GIYYUG/HD/h" target="rllwindow"
+><img class="resize320" style="display:block;" src="http://img.ed4.net/ruelala/2014/Advertising_Zone/324013serenalilyemailribbon_W_1.jpg" border="0" alt=""></a>
+
+
+
+
+
+</td>
+    </tr>
+
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/3VCCE6/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/326220/326220_H_1.jpg" border="0" alt="Clarks"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/3VCCE6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Clarks<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/3VCCE6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Women & Men</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT50/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/323265/323265_H_1.jpg" border="0" alt="RAYMOND WEIL"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT50/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>RAYMOND WEIL<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT50/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Women&#039;s & Men&#039;s Watches</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5H/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/329296/329296_H_1.jpg" border="0" alt="The Fashion Rush"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5H/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>The Fashion Rush<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5H/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>So. Many. Steals.</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS69/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/323357/323357_H_1.jpg" border="0" alt="SPANX&reg;"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS69/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>SPANX&reg;<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS69/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+></a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/2C00YB/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/321656/321656_H_1.jpg" border="0" alt="Sue Wong"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/2C00YB/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Sue Wong<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/2C00YB/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+></a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/CXWWP5/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/324841/324841_H_1.jpg" border="0" alt="Alexander McQueen"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/CXWWP5/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Alexander McQueen<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/CXWWP5/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Accessories & Shoes</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW4434/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/323164/323164_H_1.jpg" border="0" alt="HONORA"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW4434/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>HONORA<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW4434/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+></a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXXUE/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/326330/326330_H_1.jpg" border="0" alt="Bright & Airy Scarves"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXXUE/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Bright & Airy Scarves<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXXUE/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Featuring Elizabeth Gillett</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5B/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/321416/321416_H_1.jpg" border="0" alt="Cover-Ups for Your Getaway"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5B/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Cover-Ups for Your Getaway<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/VHTT5B/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Tunics, Caftans, & More</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/Y8GGXA/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/324930/324930_H_1.jpg" border="0" alt="The Button-Front Top"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/Y8GGXA/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>The Button-Front Top<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/Y8GGXA/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Borrowed from the Boys</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW443K/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/325957/325957_H_1.jpg" border="0" alt="The Flannel Sheet Clear-Out"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW443K/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>The Flannel Sheet Clear-Out<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/BW443K/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>All $49.99</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/MRJJO3/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/325877/325877_H_1.jpg" border="0" alt="Dining Essentials Under $50"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/MRJJO3/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Dining Essentials Under $50<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/MRJJO3/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>For Everyday Meals</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/42VVE6/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/326444/326444_H_1.jpg" border="0" alt="Sneakers with Style"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/42VVE6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Sneakers with Style<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/42VVE6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Ash & More</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS6T/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/325479/325479_H_1.jpg" border="0" alt="Friday Night Feast"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS6T/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Friday Night Feast<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS6T/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Pizza & Wine</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/UTLLM6/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/326167/326167_H_1.jpg" border="0" alt="For Your Little Prepster"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/UTLLM6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>For Your Little Prepster<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/UTLLM6/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Classic Kids&rsquo; Looks</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/QP3320/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/328267/328267_H_1.jpg" border="0" alt="Scentbird"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    
+    <td class="noborder" align="center" width="280" height="" valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/QP3320/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Scentbird<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/QP3320/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Try a new perfume every month.</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+<table class="resize320" width="620" border="0" cellspacing="0" cellpadding="0" valign="top"><tr>
+
+
+
+
+
+
+<td valign="top">
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/HEIIH3/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/RLL_Boutiques/329447/329447_H_1.jpg" border="0" alt="The Coachella Weekend"></a>
+
+
+
+
+
+</td>
+    </tr>
+    <tr>
+    
+    
+    
+    <td class="noborder" align="center" width="280"height=""  valign="top" style="border-style:solid; border-width:1px; border-color:#e7e7e7; padding-left:8px; padding-right:2px;">
+    
+        
+    
+
+    
+    
+           <table class="resize100width" cellspacing=0 cellpadding=0 border=0 align="center" width="100<tr><td align="left" valign="top" height="15"><img src="http://img.ed4.net/spacer50.gif" alt="" height="15" width="1" style="display:block;" border="0"></td></tr>
+      <tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/HEIIH3/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>The Coachella Weekend<img align="absmiddle" src="http://img.ed4.net/ruelala/2013/responsiveElements/shortarrowpink2X.png" width="12" height="12" border="0"></a>
+</td></tr>
+
+
+<tr><td class="font14" align="left" valign="top" height="19" style="font-family:Georgia; font-size:17px; letter-spacing:0.5px; line-height:20px;"><span style="padding-top:4px; font-family:Georgia; font-size:13px; line-height:18px; letter-spacing:0.5px; color:#000001;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/HEIIH3/HD/h" style="color:#000001; text-decoration:none;" target="rllwindow"
+>Go rock out in Indio, CA.</a></span></td></tr>
+<tr><td align="left" valign="top" height="13"><img src="http://img.ed4.net/spacer50.gif" alt="" height="13" width="1" style="display:block;" border="0"></td></tr>
+
+
+
+     </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    
+    
+    
+  
+
+
+
+<td valign="top">
+<img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="20" style="display:block;" border="0">
+</td>
+
+
+
+
+
+<td valign="top">
+
+
+
+
+<table class="resize150" width="300" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+
+
+
+<tr>
+<td valign="top" class="padding8top" style="padding-top:15px;">
+
+
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/WBTRT2/HD/h" target="rllwindow"
+><img class="resize150" style="display:block;" src="http://img.ed4.net/ruelala/2014/Advertising_Zone/baddayadzone_H_1.jpg"  border="0" alt=""></a>
+
+
+
+
+
+</td>
+    </tr>
+
+    </table>
+    </td>
+    
+    
+    
+  </tr></table>
+
+
+</td>
+</tr>
+</table>
+</td>
+<td width="10" class="nomob" height="1"><img src="http://img.ed4.net/spacer50.gif" alt="" height="1" width="10" style="display:block;" border="0">
+              </td>
+              </tr>
+</table>
+</td>
+</tr>
+
+		<!-- CALENDAR -->
+            <tr>
+               <td class="padding8top" style="padding-top:35px;" colspan="2">
+<!--mobile only nav-->
+
+<!--mobile only nav-->               
+<div class="resizeTo320" width="320" style="display:none;width:0;overflow:hidden;float:left;max-height:0;mso-hide:all;">
+		<table width="320" border="0" cellspacing="0" cellpadding="0" align="center" class="resizeTo320" style="max-height: 0; overflow: hidden; display: none; mso-hide: all;">
+            <tr>
+            	<td class="resizeTo320" style="display:none;width:0;overflow:hidden;float:left;max-height:0;mso-hide:all;"><table class="resizeTo320" width="320" cellpadding="0" cellspacing="0" border="0" align="center" style="display:none;width:0;overflow:hidden;float:left;max-height:0;mso-hide:all;">
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#fff; background:#ef164b; text-align:center; vertical-align:middle; padding:10px;"><a
+ href="http://hastrk3.com/serve?action=click&amp;publisher_id=27800&amp;site_id=31134&amp;offer_id=256852&amp;sub_publisher=3PM>GET OUR FREE APP</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#ef164b; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/A455RG/HD/h?a=1023&b=cm>GIFTS</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXX30/HD/h?a=1023&b=cm>ALL</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/Z688WN/HD/h?a=1023&b=cm>WOMEN</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/GIYY1Z/HD/h?a=1023&b=cm>MEN</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/ONFFOY/HD/h?a=1023&b=cm>LIVING</a></td>
+  </tr>
+  <tr>
+    <td height="42" width="320" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#000; background:#fff; text-align:center; vertical-align:middle; padding:10px; border-bottom: 1px solid #000;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/WBHHMN/HD/h?a=1023&b=cm>KIDS</a></td>
+  </tr>
+  <tr>
+    <td height="21" width="320" align="center" valign="middle">&nbsp;</td>
+  </tr>
+</table></td>
+            </tr>
+        </table>
+        </div>                
+           </td>
+            </tr>
+            <!-- /CALENDAR -->
+         </table>
+         <!--/CONTENT SECTION-->
+      </td>
+   </tr>
+
+   
+   <tr><td align="center" style="padding-top:13px;">
+
+<!--mobile only app section-->
+<table class="resizeTo320" border="0" cellspacing="0" cellpadding="0" width="637" align="center" bgcolor="#ffffff">
+  <tr>
+    <td align="center"><img class="imageResize320" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_01.jpg" width="637" height="10" alt="" border="0" style="display:block;"></td>
+  </tr>
+  <tr>
+        <td align="center" class="noMobile"><img class="noMobile" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_02.jpg" width="637" height="4" alt="" border="0" style="display:block;"></td>
+
+  </tr>
+  <tr>
+    <td align="center"><img class="imageResize320" src="http://img.ed4.net/ruelala/2013/responsiveElements/styleonthego.gif" width="637" alt="" border="0" style="display:block;"></td>
+  </tr>
+  <tr>
+    <td><table class="resizeTo320" border="0" cellspacing="0" cellpadding="0" width="637" align="center" bgcolor="#ffffff">
+        <tr>
+          <td><img class="footerSpacer1" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_05.jpg" width="57" height="122" alt="" border="0" style="display:block;"></td>
+          <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/UTLLZF/HD/h"
+><img src="http://img.ed4.net/ruelala/2013/responsiveElements/GetApp2x.jpg"  alt="" height="122" border="0" style="display:block;"></a></td>
+          <td><img class="footerSpacer2" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_07.jpg" width="127" height="122" alt="" border="0" style="display:block;"></td>
+          <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/HEIILW/HD/h"
+><img src="http://img.ed4.net/ruelala/2013/responsiveElements/GetApp2xIPAD.jpg" height="122" alt="" border="0" style="display:block;"></a></td>
+          <td><img class="footerSpacer3" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_09.jpg" width="115" height="122" alt="" border="0" style="display:block;"></td>
+          <td><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/EDKKP5/HD/h"
+><img src="http://img.ed4.net/ruelala/2013/responsiveElements/GetApp2xAND.jpg" height="122" alt="" border="0" style="display:block;"></a></td>
+          <td><img class="footerSpacer4" src="http://img.ed4.net/ruelala/2013/responsiveElements/mobileFooter/images/img_11.jpg" width="64" height="122" alt="" border="0" style="display:block;"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table><!-- mobile line divider -->
+<table border="0" cellspacing="0" cellpadding="0" align="center" class="resizeTo320" style="max-height: 0; overflow: hidden; display: none; mso-hide: all;">  <tr>
+    <td align="center" style="padding-bottom:15px;"><img class="imageResize320" src="http://img.ed4.net/ruelala/2013/responsiveElements/2pxblackline.gif" width="637" height="2" alt="" border="0" style="display:block;"></td>
+    
+    
+  </tr></table>
+<!--mobile only app section-->
+
+
+
+</td></tr>
+   <!--FOOTER-->
+   <tr>
+      <td align="center">
+      
+<!--mobile only text footer links-->
+<div class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;">
+<table class="showmobile" style="display: none; width: 0px; max-height: 0px; overflow: hidden;" width="320" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr><td height="20"><img src="http://img.ed4.net/spacer1.gif" style="display:block;" height="20" width="320" /></td></tr>
+
+<tr><td align="center" valign="top" style="font-weight:bold; FONT-FAMILY:Arial, Helvetica, sans-serif; font-size:13px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/LJSS8E/HD/h?a=1023&b=0&c=cm>AT YOUR SERVICE</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/3VCCIO/HD/h?a=1023&b=0&c=cm>MY ACCOUNT</a></td></tr>
+<tr><td height="12"><img src="http://img.ed4.net/spacer1.gif" style="display:block;" height="12" width="320" /></td></tr>
+<tr><td align="center" valign="top" style="font-weight:bold; FONT-FAMILY:Arial, Helvetica, sans-serif; font-size:13px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/DKXXPW/HD/h?a=1023&b=0&c=cm>ABOUT RUE LA LA</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a
+ href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qL79VfwG&amp;cs=9sI9VfwY" style="COLOR:#000000; text-decoration:none;" target="rllwindow"
+>CAREERS</a></td></tr>
+<tr><td height="12"><img src="http://img.ed4.net/spacer1.gif" style="display:block;" height="12" width="320" /></td></tr>
+<tr><td align="center" valign="top" style="font-weight:bold; FONT-FAMILY:Arial, Helvetica, sans-serif; font-size:13px;"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/P3NNCN/HD/h?a=1023&b=0&c=cm>PRIVACY POLICY</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/5A22QA/HD/h?a=1023&b=0&c=cm>TERMS OF USE</a></td></tr>
+</table>
+</div>
+<!--mobile only text footer links-->      
+      
+<table class="resize320" align="center" border="0" cellspacing="0" cellpadding="0" width="640">
+<tr>
+<td width="13" class="nomob"><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_left.jpg" border="0" alt="" width="13" height="150" /></td>
+<!-- NEW FOOTER CENTER --><td class="bgWht" bgcolor="#efefef" valign="top">
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" width="614">
+  <tr>
+  <td valign="top" width="614" height="1" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size:0; line-height:0;" bgcolor="#e5e5e5"><img style="display:block;" src="http://img.ed4.net/spacer50.gif" border="0" alt="" width="614" height="1" /></td>
+  </tr>
+  <tr>
+  <td width="614"><img src="http://img.ed4.net/spacer50.gif" alt="" width="1" height="25" border="0" style="display:block;" /></td>
+  </tr>
+</table>
+<!-- FOOTER NAV -->
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" width="614">
+  <tr>
+  <td width="45"><img src="http://img.ed4.net/spacer50.gif" alt="" width="45" height="1" border="0" style="display:block;" /></td>
+  <td width="147"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/MRJJ6F/HD/h?a=1023&b=0&c=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_nav_01.jpg" border="0" alt="About Rue La La" width="147" height="24" /></a></td>
+  <td width="9"><img src="http://img.ed4.net/spacer50.gif" alt="" width="9" height="1" border="0" style="display:block;" /></td>
+  <td width="74"><a
+ href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qL79VfwG&amp;cs=9sI9VfwY" style="COLOR:#FFFFFF; text-decoration:none;" target="rllwindow"
+><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_nav_02.jpg" border="0" alt="Career" width="74" height="24" /></a></td>
+  <td width="19"><img src="http://img.ed4.net/spacer50.gif" alt="" width="19" height="1" border="0" style="display:block;" /></td>
+  <td width="135"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/CXWW3D/HD/h?a=1023&b=0&c=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_nav_03.jpg" border="0" alt="Privacy Policy" width="135" height="24" /></a></td>
+  <td width="9"><img src="http://img.ed4.net/spacer50.gif" alt="" width="9" height="1" border="0" style="display:block;" /></td>
+  <td width="123"><a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/WBHH56/HD/h?a=1023&b=0&c=cm><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_nav_04.jpg" border="0" alt="Terms of Use" width="123" height="24" /></a></td>
+  <td width="53"><img src="http://img.ed4.net/spacer50.gif" alt="" width="53" height="1" border="0" style="display:block;" /></td>
+  </tr>
+  </table>
+  <!-- //FOOTER NAV -->
+  <table class="resize320" align="center" border="0" cellspacing="0" cellpadding="0" width="614">
+  <tr>
+  <td class="resize320" width="614"><img src="http://img.ed4.net/spacer50.gif" alt="" width="1" height="25" border="0" style="display:block;" /></td>
+  </tr>
+  <tr>
+  <td class="resize320" align="center" style="padding-left:15px; padding-right:15px; FONT-FAMILY:Trebuchet MS, sans-serif; FONT-SIZE:10px; line-height:14px; color:#666666;">To adjust your email-subscription preferences or unsubscribe, please <a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/A455FD/HD/h?a=PHLCP3&b=sds@fs.net&c=770935443&d=95MMJH&e=16099058" style="COLOR: #666666; text-decoration: underline;"
+>use this link</a>. If you'd like to change your email address, go to <a
+ href="http://click1.ruelala.com/r/RQLMSJ/UN7MV/KPNGJS/JVE4S7/Z688X2/HD/h?a=1023&b=0&c=cm><span style="color:#666666">My Account</span></a>.
+ Mailing address: 20 Channel Center, 3rd Floor, Boston, MA 02210. This is an email advertisement.<br />
+Rue La La is a division of Retail Convergence . com, LP. &copy;2015 Rue La La all rights reserved.<br /><br /></td>
+  </tr>
+  </table>
+</td><!-- //NEW FOOTER CENTER -->
+<td width="13" class="nomob"><img style="display:block;" src="http://img.ed4.net/ruelala/template/footer_right.jpg" border="0" alt="" width="13" height="150" /></td>
+</tr>
+</table>
+
+<!--/END-->
+</body>
+</html><img height="1" width="1" src="http://click1.ruelala.com/o/RQLMSJ/UN7MV/KPNGJS/JVE4S7/IEK1/MS"><img height="1" width="1" src="http://click1.ruelala.com/o/RQLMSJ/UN7MV/KPNGJS/JVE4S7/IEK1/52"><!-- [[RQLMSJ-95MMJH-UN7MV-KPNGJS-JVE4S7-M-M2-20150123-0bd90335ed7b9a0e]] -->
+
+---_-_-_-_-_1234567890--
+

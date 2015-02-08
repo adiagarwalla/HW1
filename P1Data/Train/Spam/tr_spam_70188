@@ -1,0 +1,689 @@
+From @..  Thu Jan 22 13:48:14 2015
+Return-Path: <@..>
+X-Original-To: susan.cox@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 15189DE; Thu, 22 Jan 2015 13:48:14 +0000 (UTC)
+Received: from cluster-a.mailcontrol.com (cluster-a.mailcontrol.com [85.115.52.190])
+    by .. with SMTP id sma2mihqwa2ne93azhyddfdy2n;
+    for susan.cox@fs.net;
+    Thu, 22 Jan 2015 13:48:12 +0000 (UTC)
+    (envelope-from peacehaven-3180SNHA-EASY@cubittandwest.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=85.115.52.190;
+    envelope-from=<peacehaven-3180SNHA-EASY@cubittandwest.co.uk>;
+    helo=cluster-a.mailcontrol.com; mechanism=include:mailcontrol.com
+    (a:cluster-abcdefghjkms.mailcontrol.com -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=85.115.52.190; client-port=39400;
+    syn-fingerprint=14600:49:1:48:M1380,N,N,S; network-hops=10;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.202.178 4.69.202.178 195.50.125.78
+    85.115.52.190; network-path-time=1421934491
+Received: from arunestates-internal.co.uk ([81.144.218.178])
+	by rly10a.srv.mailcontrol.com (MailControl) with ESMTP id t0MDm3Ix028722
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <susan.cox@fs.net>; Thu, 22 Jan 2015 13:48:04 GMT
+Received: from arun318.f9.co.uk ([192.168.91.101]) by
+ arunestates-internal.co.uk ([192.168.0.9] running VPOP3) with ESMTP
+ for <susan.cox@fs.net>; Thu, 22 Jan 2015 13:47:58 -0000
+Received: from 318-Station-03 ([192.168.91.103]) by arun318.f9.co.uk
+ ([192.168.91.101] running VPOP3) with ESMTP for <susan.cox@fs.net>;
+ Thu, 22 Jan 2015 13:46:29 -0000
+MIME-Version: 1.0
+Date: Thu, 22 Jan 2015 13:46:27 +0000
+X-Mailer: Chilkat Software Inc (http://www.chilkatsoft.com)
+X-Priority: 3 (Normal)
+Message-ID: EASY-3180SNHA-103433@cubittandwest.arunestates.co.uk
+To: "Susan Cox (31837022)" <@..>
+From: "Cubitt & West Peacehaven" <@..>
+Subject: Confirmation of appointment to view 9 Mayfield Avenue
+Content-Type: multipart/mixed;
+ boundary="-----_chilkat_b61_a30f_9a7f4be3.177dc534_.MIX"
+X-Authenticated-Sender: easy
+X-Server: VPOP3 V4.0.0e - Registered
+X-Scanned-By: MailControl 37812.332 (www.mailcontrol.com) on 10.65.0.120
+
+This is a multi-part message in MIME format.
+
+-------_chilkat_b61_a30f_9a7f4be3.177dc534_.MIX
+Content-Type: multipart/alternative;
+	boundary="-----_chilkat_09a_17d9_b7164c31.bd72ffa0_.ALT"
+
+This is a multi-part message in MIME format.
+
+-------_chilkat_09a_17d9_b7164c31.bd72ffa0_.ALT
+Content-Type: text/calendar;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Arun Estates EASY4
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:(GMT) Greenwich Mean Time
+X-MICROSOFT-CDO-TZID:1
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=3DYEARLY;WKST=3DMO;INTERVAL=3D1;BYMONTH=3D10;BYDAY=3D-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=3DYEARLY;WKST=3DMO;INTERVAL=3D1;BYMONTH=3D3;BYDAY=3D-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150122T134627Z
+DTSTART;TZID=3D"(GMT) Greenwich Mean Time":20150124T110000
+SUMMARY:Viewing 9 Mayfield Avenue
+CATEGORIES:APPOINTMENT
+STATUS:CONFIRMED
+UID:EASY4Viewing-31800PDE
+ATTENDEE;ROLE=3DATTENDEE;STATUS=3DCONFIRMED;EXPECT=3DREQUIRE;CN=3D"Mrs S=
+usan Cox":MAILTO:susan.cox@fs.net
+ATTENDEE;ROLE=3DATTENDEE;STATUS=3DCONFIRMED;EXPECT=3DREQUIRE;CN=3D"Conor=
+ O'Neill":MAILTO:peacehaven.sales@cubittandwest.co.uk
+ORGANIZER;ROLE=3DOWNER;STATUS=3DCONFIRMED;CN=3D"Conor O'Neill":MAILTO:pe=
+acehaven.sales@cubittandwest.co.uk
+LOCATION:9 Mayfield AvenueGEO:0.00773000;50.78875000
+DTEND;TZID=3D"(GMT) Greenwich Mean Time":20150124T111500
+DESCRIPTION:Appointment to view 9 Mayfield Avenuebungalow which is currently being marketed by Cubitt & West office for =A3315,000.
+
+Office contact number: 01273 584511
+SEQUENCE:0
+PRIORITY:5
+CLASS:
+CREATED:20121121T130046Z
+LAST-MODIFIED:20121121T130046Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=3DSTART:-PT00H30M00S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+-------_chilkat_09a_17d9_b7164c31.bd72ffa0_.ALT
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	 charset="iso-8859-1"
+
+=A0=A0=A0 Here's some further information about your forthcoming viewing o=
+f 9 Mayfield Avenue. Viewing Confirmation for Saturday 24th January 2015 =
+=09 Visit Website
+=09 My Account
+
+=09
+
+Viewing Confirmation
+
+=09
+
+=09
+Peacehaven=A0office:
+01273 584511 =A0=A0
+=09
+We are pleased to confirm your viewing of 9 Mayfield Avenue as follows:
+
+Appointment Date
+11am, Saturday 24th January 2015
+
+Property Owner
+Mr Baker
+
+Viewing Accompanied By
+Myself,=A0Conor O'Neill =09
+
+=A0 View property details
+
+=A0Download brochure
+
+=09=09
+
+=09 Directions to 9 Mayfield Avenue, Peacehaven, East Sussex, BN10 8PB fro=
+m:
+=A0Peacehaven office =A0=A0=A0=A0=A0Your home =09
+
+=09 We are still making arrangements for an appointment at=A09 Mayfield Av=
+enue and will be in touch shortly.
+
+If you will be delayed or unable to attend, please call my office on=A0012=
+73 584511 so that we can notify the owner and re-scle the appointment =
+for another time if necessary.
+
+We look forward to receiving your feedback of the property soon.
+
+Regards,
+Conor O'Neill
+Trainee Sales Advisor =09
+=09
+
+=09 Peacehaven=A0office:
+01273 584511 =09
+
+=09
+=09
+
+YOUR HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON YOUR MORT=
+GAGE
+
+This email was sent to you because you've recently arranged to view one of=
+ our properties in branch.
+
+Cubitt & West is a trading name of Arun Estate Agencies Ltd. Registered of=
+fice: St. Leonard's House, North Street, Horsham, West Sussex, RH12 1RJ. R=
+egistered in England No. 2597969.
+
+1.4.8
+
+
+Our mission is to be No. 1 in every town. =A0How? =A0By always out-passion=
+ing other agents to help our customers achieve their dream move.
+
+***** Email Confidentiality Notice *****
+
+This message is private and confidential. If you have received this messag=
+e in error, please notify us and remove it from your system.
+
+Cubitt & West, Douglas Allen, Pittis, Rooney & Co, Ward & Partners and Mor=
+tgage Matters Direct are trading names of: Arun Estate Agencies Ltd. Regis=
+tered in England & Wales. =A0Registered Number: 2597969 Registered Office:=
+ St Leonard's House, North Street, Horsham, West Sussex. RH12 1RJ. =A0Arun=
+ Estate Agencies Ltd is an appointed representative of Home In One Financi=
+al Services Ltd which is authorised and regulated by the Financial Conduct=
+ Authority
+
+Anderson & Associates Ltd. Registered in England & Wales. =A0Registered Nu=
+mber: 2975536 Registered Office: St Leonard's House, North Street, Horsham=
+, West Sussex. RH12 1RJ
+
+Home In One Financial Services Ltd. Registered in England & Wales. Registe=
+red Number: 3927915 Registered Office: St Leonard's House, North Street, H=
+orsham, West Sussex. RH12 1RJ.
+
+-------_chilkat_09a_17d9_b7164c31.bd72ffa0_.ALT
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<?xml version=3D"1.0" encoding=3D"UTF-16"?><!DOCTYPE html PUBLIC "-//W3C//=
+DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-tr=
+ansitional.dtd"><html xml:lang=3D"en" lang=3D"en" xmlns=3D"http://www.w3.o=
+rg/1999/xhtml"><head><title>Viewing Confirmation</title><style>
+.ReadMsgBody {
+=09width: 100}
+.ExternalClass {
+=09width: 100}
+a {
+=09color: #E6115C;
+=09text-decoration: none;
+}
+.date a {
+=09color: #FFFFFF;
+}
+html {
+    width: 100}
+table {
+    border-collapse: collapse;
+}
+@media only screen and (max-width: 640px) {
+table[class=3Dtable], td[class=3Dcell] {
+=09width: 325px !important;
+}
+table[class=3Dtable100] {
+    width: 100}
+table[class=3Dpromotable], td[class=3Dpromocell] {
+=09width: 325px !important;
+}
+table[class=3Dmobiletitle] {
+=09display: block !important;
+=09width: 325px !important;
+}
+*[class=3Dhide] {
+=09display: none !important;
+}
+td[class=3Dlogocell], td[class=3Dendcell] {
+=09padding-top: 15px !important;
+=09padding-bottom: 15px !important;
+=09width: 325px !important;
+}
+td[class=3Dlogocell] {
+=09text-align: center !important;
+}
+img[class=3Dpropimage] {
+=09width: 283px !important;
+=09height: auto !important;
+=09float: right;
+=09margin-top: 20px;
+}
+a[class=3Dpropimgbutton] {
+=09display: block;
+=09background-color: #E6115C;
+=09background-image: url(http://www.cubittandwest.co.uk/_images/cubittwest=
+/emailtmpl/now-online/button-slice.jpg);
+=09background-repeat: repeat-x;
+=09padding: 10px;
+=09color: #FFFFFF !important;
+}
+img[class=3Dpropimagespcr] {
+=09width: 99px !important;
+}
+table[class=3Dfootershow] {
+=09width: 325px !important;
+=09padding-left: 5px !important;
+=09padding-right: 5px !important;
+}
+p[class=3Dreminder] {
+=09font-size: 11px !important;
+}
+*[class=3Dtextcenter] {
+=09text-align: center;
+}
+}
+</style><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+iso-8859-1" /></head><body bgcolor=3D"#E9E9E9" topmargin=3D"0" leftmargin=
+=3D"0" marginheight=3D"0" marginwidth=3D"0" style=3D"-webkit-font-smoothin=
+g: antialiased; width:100e-adjust:none;"><table width=3D"100border=3D"0" bgcolor=3D"#E9E9E9"><tr><td bgcolor=3D"#E9E9E9" width=3D"100"><table width=3D"100lass=3D"hide"><tr><td bgcolor=3D"#4D524D" width=3D"100;<span style=3D"font-size:0px; color:#4D524D; display:none;">Here's some f=
+urther information about your forthcoming viewing of 9 Mayfield Avenue.</s=
+pan><span style=3D"font-weight:bold; color:#FFFFFF; font-size:13px; font-f=
+amily:Arial,Verdana,'Helvetica Neue',Helvetica,sans-serif;" width=3D"100 class=3D"date">Viewing Confirmation for Saturday 24th January 2015</span>=
+</td><td bgcolor=3D"#4D524D" width=3D"89"><table width=3D"85" border=3D"0"=
+ cellpadding=3D"4" cellspacing=3D"0"><tr><td align=3D"center" bgcolor=3D"#=
+C0D627"><span style=3D"font-weight:bold; color:#FFFFFF; font-size:11px; fo=
+nt-family:Arial,Verdana,'Helvetica Neue',Helvetica,sans-serif;"><a href=3D=
+"http://www.cubittandwest.co.uk/?utm_source=3Dtransemail&amp;utm_medium=3D=
+email&amp;utm_content=3Dtoolbarlink&amp;utm_term=3DPropID_31808136-AppID_&=
+amp;utm_campaign=3Dviewing_acknowledgement" target=3D"_blank" style=3D"col=
+or:#FFFFFF; text-decoration:none;">Visit Website</a></span></td></tr></tab=
+le></td><td bgcolor=3D"#4D524D" width=3D"89"><table width=3D"85" border=3D=
+"0" cellpadding=3D"4" cellspacing=3D"0"><tr><td align=3D"center" bgcolor=
+=3D"#E6115C"><span style=3D"font-weight:bold; color:#FFFFFF; font-size:11p=
+x; font-family:Arial, Verdana, 'Helvetica Neue', Helvetica, sans-serif;"><=
+a href=3D"http://www.cubittandwest.co.uk/my-account/?utm_source=3Dtransema=
+il&amp;utm_medium=3Demail&amp;utm_content=3Dtoolbarlink&amp;utm_term=3DPro=
+pID_31808136-AppID_&amp;utm_campaign=3Dviewing_acknowledgement" target=3D"=
+_blank" style=3D"color:#FFFFFF; text-decoration:none;">My Account</a></spa=
+n></td></tr></table></td></tr></table><table width=3D"600" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" align=3D"center" class=3D"table"><tr><td=
+><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/s=
+pacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0" class=3D"hide" =
+/><table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"table"><tr><td width=3D"10" valign=3D"top" bgcolor=
+=3D"#E9E9E9"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest=
+/emailtmpl/shad-left-1201.jpg" alt=3D"" width=3D"10" height=3D"290" class=
+=3D"hide" /></td><td width=3D"580" class=3D"cell"><table width=3D"100llpadding=3D"3" cellspacing=3D"0" border=3D"0" style=3D"display:none;" cla=
+ss=3D"mobiletitle"><tr><td align=3D"center" valign=3D"middle" bgcolor=3D"#=
+4D524D" class=3D"promocell"><p style=3D"color:#FFFFFF; font-size:13px; fon=
+t-family:Arial,Verdana,'Helvetica Neue',Helvetica,sans-serif; margin-top:0=
+; margin-bottom:0; padding-top:0; padding-bottom:0; font-weight:bold;" cla=
+ss=3D"date">Viewing Confirmation</p></td></tr></table><table width=3D"580"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table"><tr><td =
+width=3D"20" bgcolor=3D"#FFFFFF"><img src=3D"http://www.cubittandwest.co.u=
+k/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"20" height=3D=
+"1" border=3D"0" class=3D"hide" /></td><td bgcolor=3D"#FFFFFF" class=3D"lo=
+gocell"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emai=
+ltmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0" class=3D=
+"hide" /><br class=3D"hide" /><a href=3D"http://www.cubittandwest.co.uk/?u=
+tm_source=3Dtransemail&amp;utm_medium=3Demail&amp;utm_content=3Dtoplogolin=
+k&amp;utm_term=3DPropID_31808136-AppID_&amp;utm_campaign=3Dviewing_acknowl=
+edgement" target=3D"_blank"><img src=3D"http://www.cubittandwest.co.uk/_im=
+ages/cubittwest/emailtmpl/logo-1201.gif" alt=3D"Cubitt &amp; West" title=
+=3D"Cubitt &amp; West" width=3D"255" height=3D"79" border=3D"0" /></a><br =
+class=3D"hide" /><img src=3D"http://www.cubittandwest.co.uk/_images/cubitt=
+west/emailtmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0"=
+ class=3D"hide" /></td><td align=3D"right" valign=3D"bottom" bgcolor=3D"#F=
+FFFFF" class=3D"hide"><img src=3D"http://www.cubittandwest.co.uk/_images/c=
+ubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=
+=3D"0" /><br /><span style=3D"color:#4D524D; font-size:14px; line-height:1=
+9px; font-family:Arial,Verdana,'Helvetica Neue',Helvetica,sans-serif;"><st=
+rong>Peacehaven&#160;office:
+      </strong><br /><span style=3D"font-size:28px; line-height:32px; colo=
+r:#C0D627;" class=3D"linktel"><strong>01273 584511</strong></span></span><=
+table width=3D"100<td height=3D"34" align=3D"right" valign=3D"bottom"><img src=3D"http://www=
+.cubittandwest.co.uk/_images/cubittwest/emailtmpl/join-us.gif" alt=3D"Join=
+ us on" width=3D"52" height=3D"24" border=3D"0" class=3D"hide" />&#160;<a =
+href=3D"http://www.facebook.com/cubittandwest" target=3D"_blank"><img src=
+=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/facebook-i=
+con.png" alt=3D"Facebook" width=3D"24" height=3D"24" border=3D"0" /></a>&#=
+160;<a href=3D"http://twitter.com/cubittandwest" target=3D"_blank"><img sr=
+c=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/twitter-i=
+con.png" alt=3D"Twitter" width=3D"24" height=3D"24" border=3D"0" /></a></t=
+d></tr></table><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwe=
+st/emailtmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0" /=
+></td><td width=3D"20" bgcolor=3D"#FFFFFF"><img src=3D"http://www.cubittan=
+dwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"20"=
+ height=3D"1" border=3D"0" class=3D"hide" /></td></tr></table><table width=
+=3D"580" cellpadding=3D"20" cellspacing=3D"0" border=3D"0" class=3D"promot=
+able"><tr><td valign=3D"top" bgcolor=3D"#4D524D" class=3D"promocell"><span=
+ style=3D"color:#FFFFFF; font-size:16px; line-height:22px; font-family:Ari=
+al,Verdana,'Helvetica Neue',Helvetica,sans-serif; margin-top:0; margin-bot=
+tom:0; padding-top:0; padding-bottom:0;"><strong>We are pleased to confirm=
+ your viewing of <a href=3D"http://www.cubittandwest.co.uk/31808136/?utm_s=
+ource=3Dtransemail&amp;utm_medium=3Demail&amp;utm_content=3Dpropertytitle&=
+amp;utm_term=3DPropID_31808136-AppID_&amp;utm_campaign=3Dviewing_acknowled=
+gement" target=3D"_blank" style=3D"color:#C0D627; text-decoration:none;">9=
+ Mayfield Avenue</a> as follows:<br /><br /></strong></span><table width=
+=3D"10000"><tr><td valign=3D"top"><table width=3D"345" border=3D"0" align=3D"left=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"table100"><tr><td><span sty=
+le=3D"color:#FFFFFF; font-size:13px; line-height:19px; font-family:Arial,V=
+erdana,'Helvetica Neue',Helvetica,sans-serif; padding-top:0; padding-botto=
+m:0; font-weight:normal; mso-table-lspace:0;mso-table-rspace:0; margin:0">=
+Appointment Date<strong><br /></strong><span style=3D"color:#C0D627; font-=
+size:16px; line-height:22px;"><strong>11am, Saturday 24th January 2015</st=
+rong></span><br /><br />
+                                    Property Owner<br /><strong xmlns=3D""=
+><span style=3D"color:#C0D627; font-size:16px; line-height:22px;">Mr Baker=
+</span></strong><br /><br />
+                                    Viewing Accompanied By<br /><strong xm=
+lns=3D""><span style=3D"color:#C0D627; font-size:16px; line-height:22px;">
+        Myself,&#160;Conor O'Neill</span></strong></span></td><td width=3D=
+"10" class=3D"hide"><img class=3D"hide" border=3D"0" alt=3D"" src=3D"http:=
+//www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" width=
+=3D"10" height=3D"1" /></td></tr></table><table border=3D"0" align=3D"left=
+" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"promocell"><a href=
+=3D"http://www.cubittandwest.co.uk/31808136/?utm_source=3Dtransemail&amp;u=
+tm_medium=3Demail&amp;utm_content=3Dpropertyimage&amp;utm_term=3DPropID_31=
+808136-AppID_&amp;utm_campaign=3Dviewing_acknowledgement" target=3D"_blank=
+" style=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0"><img src=3D"ht=
+tp://www.cubittandwest.co.uk/resize/?width=3D325&amp;height=3D215&amp;file=
+name=3D9012LTS8.JPG" alt=3D"Click here to view full details of this proper=
+ty on the Cubitt &amp; West website" width=3D"190" height=3D"126" border=
+=3D"0" style=3D"border: solid 1px #dadbdc; display:block;" class=3D"propim=
+age" xmlns=3D"" /></a></td></tr><tr><td class=3D"hide"><img src=3D"http://=
+www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"" =
+width=3D"1" height=3D"10" border=3D"0" style=3D"display:block" /></td></tr=
+><tr><td class=3D"promocell"><span style=3D"color:#E6115C; font-size:13px;=
+ line-height:19px; font-family:Arial,Verdana,'Helvetica Neue',Helvetica,sa=
+ns-serif; margin-top:0; margin-bottom:0; padding-top:0; padding-bottom:0; =
+text-decoration:none; font-weight:bold;"><a href=3D"http://www.cubittandwe=
+st.co.uk/31808136/?utm_source=3Dtransemail&amp;utm_medium=3Demail&amp;utm_=
+content=3Dviewdetailslink&amp;utm_term=3DPropID_31808136-AppID_&amp;utm_ca=
+mpaign=3Dviewing_acknowledgement" target=3D"_blank" style=3D"color:#C0D627=
+; text-decoration:none;" class=3D"propimgbutton"><img src=3D"http://www.cu=
+bittandwest.co.uk/_images/cubittwest/emailtmpl/arrow-introbg.gif" alt=3D""=
+ width=3D"16" height=3D"16" border=3D"0" align=3D"texttop" class=3D"hide" =
+/><strong><span class=3D"hide">&#160;</span>View property details</strong>=
+</a></span></td></tr><tr class=3D"hide"><td class=3D"promocell"><img src=
+=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif=
+" alt=3D"" width=3D"1" height=3D"5" border=3D"0" style=3D"display:block" /=
+></td></tr><tr class=3D"hide"><td class=3D"promocell"><span style=3D"color=
+:#E6115C; font-size:13px; line-height:19px; font-family:Arial,Verdana,'Hel=
+vetica Neue',Helvetica,sans-serif; margin-top:0; margin-bottom:0; padding-=
+top:0; padding-bottom:0; text-decoration:none; font-weight:bold;"><span cl=
+ass=3D"hide"><a href=3D"http://www.cubittandwest.co.uk/31808136/?utm_sourc=
+e=3Dtransemail&amp;utm_medium=3Demail&amp;utm_content=3Dviewdetailslink&am=
+p;utm_term=3DPropID_31808136-AppID_&amp;utm_campaign=3Dviewing_acknowledge=
+ment#brochure" target=3D"_blank" style=3D"color:#C0D627; text-decoration:n=
+one;"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailt=
+mpl/arrow-introbg.gif" alt=3D"" width=3D"16" height=3D"16" border=3D"0" al=
+ign=3D"texttop" /><strong>&#160;Download brochure</strong></a></span></spa=
+n></td></tr></table></td></tr></table></td></tr></table><table class=3D"hi=
+de" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100d bgcolor=3D"#D2D2D2" colspan=3D"3"><img border=3D"0" alt=3D"" src=3D"http=
+://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" width=
+=3D"1" height=3D"20" /></td></tr><tr><td bgcolor=3D"#D2D2D2"><img class=3D=
+"hide" border=3D"0" alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images=
+/cubittwest/emailtmpl/spacer.gif" width=3D"20" height=3D"1" /></td><td bgc=
+olor=3D"#D2D2D2" valign=3D"top" align=3D"middle"><a href=3D"http://www.cub=
+ittandwest.co.uk/31808136/?utm_medium=3Demail&amp;utm_content=3Dlargemapli=
+nk&amp;utm_term=3DPropID_31808136-AppID_&amp;utm_campaign=3Dviewing_acknow=
+ledgement#map" title=3D"Map of 9 Mayfield Avenue" target=3D"_blank"><img s=
+rc=3D"http://maps.google.com/maps/api/staticmap?center=3D50.78875000,0.007=
+73000&amp;zoom=3D14&amp;markers=3D50.78875000,0.00773000&amp;size=3D538x30=
+0&amp;sensor=3Dfalse" alt=3D"Map of 9 Mayfield Avenue" width=3D"538" heigh=
+t=3D"300" class=3D"map" border=3D"0" style=3D"border: solid 1px #FFFFFF; d=
+isplay:block;" /></a></td><td bgcolor=3D"#D2D2D2"><img class=3D"hide" bord=
+er=3D"0" alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images/cubittwest=
+/emailtmpl/spacer.gif" width=3D"20" height=3D"1" /></td></tr><tr><td bgcol=
+or=3D"#D2D2D2" colspan=3D"3"><img border=3D"0" alt=3D"" src=3D"http://www.=
+cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" width=3D"1" h=
+eight=3D"10" /></td></tr><tr><td bgcolor=3D"#D2D2D2"><img class=3D"hide" b=
+order=3D"0" alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images/cubittw=
+est/emailtmpl/spacer.gif" width=3D"20" height=3D"1" /></td><td class=3D"ma=
+pcell" bgcolor=3D"#D2D2D2"><span style=3D"padding-bottom: 0px; line-height=
+: 19px; margin-top: 0px; font-family: arial,verdana,'helvetica neue',helve=
+tica,sans-serif; margin-bottom: 0px; color: #4D524D; font-size: 13px; font=
+-weight: normal; padding-top: 0px;"><strong>Directions to 9 Mayfield Avenu=
+e, Peacehaven, East Sussex, BN10 8PB from:</strong><br /><img border=3D"0"=
+ alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtm=
+pl/spacer.gif" width=3D"538" height=3D"5" style=3D"display:block" /><a sty=
+le=3D"color: #E6115C; text-decoration: none" href=3D"http://maps.google.co=
+.uk/maps?saddr=3DBN10 border=3D"0" alt=3D"&gt;" align=3D"texttop" src=3D"http://www.cubittandwe=
+st.co.uk/_images/cubittwest/emailtmpl/arrow-greybg.gif" width=3D"16" heigh=
+t=3D"16" /><strong>&#160;Peacehaven office</strong></a>
+
+                           =20
+                           =20
+                           =20
+                             &#160;&#160;&#160;&#160;<a style=3D"color: #E=
+6115C; text-decoration: none" href=3D"http://maps.google.co.uk/maps?saddr=
+=3DUB8lt=3D"&gt;" align=3D"texttop" src=3D"http://www.cubittandwest.co.uk/_image=
+s/cubittwest/emailtmpl/arrow-greybg.gif" width=3D"16" height=3D"16" /><str=
+ong>&#160;Your home</strong></a></span></td><td bgcolor=3D"#D2D2D2"><img c=
+lass=3D"hide" border=3D"0" alt=3D"" src=3D"http://www.cubittandwest.co.uk/=
+_images/cubittwest/emailtmpl/spacer.gif" width=3D"20" height=3D"1" /></td>=
+</tr><tr bgcolor=3D"#D2D2D2"><td colspan=3D"3" bgcolor=3D"#D2D2D2"><img bo=
+rder=3D"0" alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images/cubittwe=
+st/emailtmpl/spacer.gif" width=3D"1" height=3D"20" /></td></tr></table><ta=
+ble width=3D"100color=3D"#FFFFFF"><td colspan=3D"3" bgcolor=3D"#FFFFFF"><img border=3D"0" =
+alt=3D"" src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmp=
+l/spacer.gif" width=3D"1" height=3D"20" style=3D"display:block" /></td></t=
+r><tr><td bgcolor=3D"#FFFFFF"><img src=3D"http://www.cubittandwest.co.uk/_=
+images/cubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"20" height=3D"1"=
+ border=3D"0" /></td><td valign=3D"top" bgcolor=3D"#FFFFFF"><span style=3D=
+"color:#444444; font-size:13px; line-height:19px; font-family:Arial,Verdan=
+a,'Helvetica Neue',Helvetica,sans-serif; padding-top:0; padding-bottom:0; =
+font-weight:normal;"><strong>We are still making arrangements for
+                             =20
+        an appointment at&#160;9 Mayfield Avenue
+                             =20
+                              and will be in touch shortly.</strong><br />=
+<br />
+                            If you will be delayed or unable to attend, pl=
+ease call
+                           =20
+        my office on&#160;01273 584511
+                           =20
+                            so that we can notify the owner and re-scl=
+e the appointment for another time if necessary.<br /><br />
+                            We look forward to receiving your feedback of =
+the property soon.<br /><br />
+                            Regards,<br />Conor O'Neill<br />Trainee Sales=
+ Advisor</span></td><td bgcolor=3D"#FFFFFF"><img src=3D"http://www.cubitta=
+ndwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"20=
+" height=3D"1" border=3D"0" /></td></tr><tr><td colspan=3D"2" bgcolor=3D"#=
+FFFFFF"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emai=
+ltmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0" /></td><=
+td bgcolor=3D"#FFFFFF"><img border=3D"0" alt=3D"" src=3D"http://www.cubitt=
+andwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" width=3D"20" height=
+=3D"1" /></td></tr></table><table width=3D"100acing=3D"0" border=3D"0" class=3D"promotable"><tr><td align=3D"center" bgc=
+olor=3D"#FFFFFF"><a href=3D"http://www.cubittandwest.co.uk/mortgages/all-t=
+ime-low-rates/?utm_source=3Dtransemail&amp;utm_medium=3Demail&amp;utm_cont=
+ent=3Dpromobox_all_time_low&amp;utm_term=3DPropID_31808136-AppID_&amp;utm_=
+campaign=3Dviewing_acknowledgement" title=3D"Mortgage Rates are at an all-=
+time low!" target=3D"_blank"><img src=3D"http://www.cubittandwest.co.uk/_i=
+mages/cubittwest/emailtmpl/promos/promo-mortgage-low-L.png" alt=3D"Mortgag=
+e Rates are at an all-time low!" width=3D"270" height=3D"103" border=3D"0"=
+ /><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl=
+/promos/promo-mortgage-low-R.png" alt=3D"Can you be sure you have the best=
+ deal?" width=3D"270" height=3D"103" border=3D"0" class=3D"hide" /></a></t=
+d></tr></table><table width=3D"100order=3D"0" class=3D"table"><tr><td width=3D"20" bgcolor=3D"#FFFFFF"><img =
+src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.=
+gif" alt=3D"" width=3D"20" height=3D"1" border=3D"0" class=3D"hide" /></td=
+><td valign=3D"middle" bgcolor=3D"#FFFFFF" class=3D"endcell"><span style=
+=3D"color:#4D524D; font-size:14px; line-height:19px; font-family:Arial,Ver=
+dana,'Helvetica Neue',Helvetica,sans-serif;"><strong>Peacehaven&#160;offic=
+e:
+      </strong><br /><span style=3D"font-size:28px; line-height: 32px; col=
+or:#C0D627;" class=3D"linktel"><strong>01273 584511</strong></span></span>=
+</td><td align=3D"right" valign=3D"bottom" bgcolor=3D"#FFFFFF"><img src=3D=
+"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" a=
+lt=3D"" width=3D"1" height=3D"20" border=3D"0" /><br /><a href=3D"http://w=
+ww.cubittandwest.co.uk/?utm_source=3Dtransemail&amp;utm_medium=3Demail&amp=
+;utm_content=3Dfooterlogolink&amp;utm_term=3DPropID_31808136-AppID_&amp;ut=
+m_campaign=3Dviewing_acknowledgement" title=3D"Cubitt &amp; West" target=
+=3D"_blank"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/=
+emailtmpl/logo-1201.gif" alt=3D"Cubitt &amp; West" width=3D"255" height=3D=
+"79" border=3D"0" class=3D"hide" /></a><br /><img src=3D"http://www.cubitt=
+andwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"" width=3D"1=
+" height=3D"20" border=3D"0" /><br /></td><td width=3D"20" bgcolor=3D"#FFF=
+FFF"><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtm=
+pl/spacer.gif" alt=3D"" width=3D"20" height=3D"1" border=3D"0" /></td></tr=
+></table></td><td width=3D"10" valign=3D"top" bgcolor=3D"#E9E9E9"><img src=
+=3D"http://www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/shad-right=
+-1201.jpg" alt=3D"" width=3D"10" height=3D"290" class=3D"hide" /></td></tr=
+></table><img src=3D"http://www.cubittandwest.co.uk/_images/cubittwest/ema=
+iltmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"20" border=3D"0" class=
+=3D"hide" /></td></tr></table></td></tr></table><table width=3D"100padding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#f3f3f3"><tr><td><=
+table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"10" cells=
+pacing=3D"0" class=3D"footershow"><tr><td valign=3D"top"><img src=3D"http:=
+//www.cubittandwest.co.uk/_images/cubittwest/emailtmpl/spacer.gif" alt=3D"=
+" width=3D"1" height=3D"20" border=3D"0" /><br /><p style=3D"color:#a6a6a6=
+; font-size:12px; font-family:Arial,Verdana,'Helvetica Neue',Helvetica,san=
+s-serif; margin-top:0; margin-bottom:15px; padding-top:0; padding-bottom:0=
+; line-height:18px;" class=3D"reminder">YOUR HOME MAY BE REPOSSESSED IF YO=
+U DO NOT KEEP UP REPAYMENTS ON YOUR MORTGAGE</p><p style=3D"color:#a6a6a6;=
+ font-size:12px; font-family:Arial,Verdana,'Helvetica Neue',Helvetica,sans=
+-serif; margin-top:0; margin-bottom:15px; padding-top:0; padding-bottom:0;=
+ line-height:18px;" class=3D"reminder">This email was sent to you because =
+you've recently arranged to view one of our properties <a href=3D"http://w=
+ww.cubittandwest.co.uk/branch-directory?utm_source=3Dtransemail&amp;utm_me=
+dium=3Demail&amp;utm_content=3Dfootertextlink&amp;utm_term=3DPropID_318081=
+36-AppID_&amp;utm_campaign=3Dviewing_acknowledgement" target=3D"_blank" st=
+yle=3D"color:#a6a6a6; text-decoration:underline;">in branch</a>.</p><p sty=
+le=3D"color:#a6a6a6; font-size:12px; font-family:Arial,Verdana,'Helvetica =
+Neue',Helvetica,sans-serif; margin-bottom:15px; padding-top:0; padding-bot=
+tom:0; line-height:18px;" class=3D"reminder">Cubitt &amp; West is a tradin=
+g name of Arun Estate Agencies Ltd. Registered office: St. Leonard's House=
+, North Street, Horsham, West Sussex, RH12 1RJ. Registered in England No. =
+2597969.</p><p style=3D"color:#a6a6a6; font-size:8px; font-family:Arial, V=
+erdana, 'Helvetica Neue', Helvetica, sans-serif; margin-bottom:0; padding-=
+top:0; padding-bottom:0; line-height:18px; text-align: right;">1.4.8</p></=
+td></tr></table><img src=3D"http://www.cubittandwest.co.uk/_images/cubittw=
+est/emailtmpl/spacer.gif" alt=3D"" width=3D"1" height=3D"15" border=3D"0" =
+/><br /></td></tr></table><DIV><SPAN style=3D"FONT-FAMILY: Trebuchet MS; F=
+ONT-SIZE: 12pt"><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 12pt"=
+>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-FAM=
+ILY: Trebuchet MS; FONT-SIZE: 12pt">Our mission is to be No. 1 in every to=
+wn.&nbsp; How?&nbsp; By always out-passioning other agents to help our cus=
+tomers achieve their dream move.</SPAN></P></SPAN></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt"><SPAN style=
+=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt"><SPAN style=
+=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">***** Email Confidentiality=
+ Notice *****</SPAN></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt"><SPAN style=
+=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN></SPAN></DIV>
+<DIV><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt"><SPAN style=
+=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">This message is private and=
+ confidential. If you have received this message in error, please notify u=
+s and remove it from your system.</SPAN> <?xml:namespace prefix =3D o /><o=
+:p><SPAN style=3D"FONT-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN>=
+</o:p> </DIV>
+<DIV style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-F=
+AMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN></DIV>
+<DIV style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-F=
+AMILY: Trebuchet MS; FONT-SIZE: 8pt">Cubitt &amp; West, Douglas Allen, Pit=
+tis, Rooney &amp; Co, Ward &amp; Partners and Mortgage Matters Direct are =
+trading names of: Arun Estate Agencies Ltd. Registered in England &amp; Wa=
+les.&nbsp; Registered Number: 2597969 Registered Office: St Leonard's Hous=
+e, North Street, Horsham, West Sussex. RH12 1RJ.&nbsp; Arun Estate Agencie=
+s Ltd is an appointed representative of Home In One Financial Services Ltd=
+ which is authorised and regulated by the Financial Conduct Authority.</SP=
+AN></DIV>
+<DIV style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-F=
+AMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN></DIV>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-FAM=
+ILY: Trebuchet MS; FONT-SIZE: 8pt">Anderson &amp; Associates Ltd. Register=
+ed in England &amp; Wales.&nbsp; Registered Number: 2975536 Registered Off=
+ice: St Leonard's House, North Street, Horsham, West Sussex. RH12 1RJ <o:p=
+></o:p></SPAN></P>
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><o:p><SPAN style=3D"FON=
+T-FAMILY: Trebuchet MS; FONT-SIZE: 8pt">&nbsp;</SPAN></o:p>=20
+<P style=3D"MARGIN: 0cm 0cm 0pt" class=3DMsoNormal><SPAN style=3D"FONT-FAM=
+ILY: Trebuchet MS; FONT-SIZE: 8pt">Home In One Financial Services Ltd. Reg=
+istered in England &amp; Wales. Registered Number: 3927915 Registered Offi=
+ce: St Leonard's House, North Street, Horsham, West Sussex. RH12 1RJ.</SPA=
+N></P></SPAN></body></html>
+
+-------_chilkat_09a_17d9_b7164c31.bd72ffa0_.ALT--
+
+-------_chilkat_b61_a30f_9a7f4be3.177dc534_.MIX
+Content-Type: text/calendar;
+	name="9 Mayfield Avenue - 31800PDE.ics"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	 filename="9 Mayfield Avenue - 31800PDE.ics"
+
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Arun Estates EASY4
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:(GMT) Greenwich Mean Time
+X-MICROSOFT-CDO-TZID:1
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=3DYEARLY;WKST=3DMO;INTERVAL=3D1;BYMONTH=3D10;BYDAY=3D-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=3DYEARLY;WKST=3DMO;INTERVAL=3D1;BYMONTH=3D3;BYDAY=3D-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20150122T134627Z
+DTSTART;TZID=3D"(GMT) Greenwich Mean Time":20150124T110000
+SUMMARY:Viewing 9 Mayfield Avenue
+CATEGORIES:APPOINTMENT
+STATUS:CONFIRMED
+UID:EASY4Viewing-31800PDE
+ATTENDEE;ROLE=3DATTENDEE;STATUS=3DCONFIRMED;EXPECT=3DREQUIRE;CN=3D"Mrs S=
+usan Cox":MAILTO:susan.cox@fs.net
+ATTENDEE;ROLE=3DATTENDEE;STATUS=3DCONFIRMED;EXPECT=3DREQUIRE;CN=3D"Conor=
+ O'Neill":MAILTO:peacehaven.sales@cubittandwest.co.uk
+ORGANIZER;ROLE=3DOWNER;STATUS=3DCONFIRMED;CN=3D"Conor O'Neill":MAILTO:pe=
+acehaven.sales@cubittandwest.co.uk
+LOCATION:9 Mayfield AvenueGEO:0.00773000;50.78875000
+DTEND;TZID=3D"(GMT) Greenwich Mean Time":20150124T111500
+DESCRIPTION:Appointment to view 9 Mayfield Avenuebungalow which is currently being marketed by Cubitt & West office for =A3315,000.
+
+Office contact number: 01273 584511
+SEQUENCE:0
+PRIORITY:5
+CLASS:
+CREATED:20121121T130046Z
+LAST-MODIFIED:20121121T130046Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=3DSTART:-PT00H30M00S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+-------_chilkat_b61_a30f_9a7f4be3.177dc534_.MIX--
+

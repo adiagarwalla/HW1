@@ -1,0 +1,114 @@
+From @..  Tue Jan 13 22:10:45 2015
+Return-Path: <@..>
+X-Original-To: bzncp@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id CBE8EDE; Tue, 13 Jan 2015 22:10:45 +0000 (UTC)
+Received: from mail-we0-f195.google.com (mail-we0-f195.google.com [74.125.82.195])
+    by .. with SMTP id 5m23jicyc8sbwkyacicz49zwhi;
+    for bzncp@fs.net;
+    Tue, 13 Jan 2015 22:10:45 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=74.125.82.195; envelope-from=<>; helo=mail-we0-f195.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=74.125.82.195; client-port=36205;
+    syn-fingerprint=42900:46:0:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 72.14.239.100 64.233.175.32 209.85.142.59 66.249.95.196
+    216.239.50.225 209.85.249.211 66.249.95.248 74.125.82.195;
+    network-path-time=1421187045
+Received: by mail-we0-f195.google.com with SMTP id q59so1357635wes.2
+        for <bzncp@fs.net>; Tue, 13 Jan 2015 14:10:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type;
+        bh=/3+TISkLyvSIfIakkTIV56fBmB1mLsz+ssfGvDjBLt0=;
+        b=A9iEtoLSXNFsTu5Pqt3CBIsi5WDK8oZS5ZHEkL/KTZfjnb/zU9+67HMRfP4SsU268W
+         IMMiVRwQw8DTP5d+eIibj67JbhPH/mnE0LMEWJs9GzmZwINrrZQLt9XaK1gk1uTIb35H
+         NZKHOds5Tj2ON5iJWIQ1bsy6sIOoHWDCXIyEBVyahfVPWkr0uExZTpbCJiWuAoXSO/Ku
+         ubgfBEoSMyvAd/7gEwmAUtmno0Zqac/VK2pk+nXaZ/u67w3l8K9JpiL1UIXcBTww8ddN
+         LqZEq+bfxzLH8ksLU1xiKunDZv+aCdHgF4u3ulsA7VB9Uai1oonOEKhohJn8FKhWlMf4
+         TkSg==
+X-Received: by 10.194.205.138 with SMTP id lg10mr1109280wjc.130.1421187030126;
+        Tue, 13 Jan 2015 14:10:30 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.205.138 with SMTP id lg10mr622497wjc.130; Tue, 13 Jan 2015
+ 14:10:30 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: cc6e5f25@dcitech.com
+Subject: Delivery Status Notification (Failure)
+Message-ID: <047d7bb70a1e17100b050c8fe430@google.com>
+Date: Tue, 13 Jan 2015 22:10:30 +0000
+Content-Type: text/plain; charset=UTF-8
+
+Delivery to the following recipient failed permanently:
+
+     cc6e5f25@dcitech.com
+
+Technical details of permanent failure: 
+Google tried to deliver your message, but it was rejected by the server for the recipient domain mail.dcitech.com by mail.dcitech.com. [72.51.24.224].
+
+The error that the other server returned was:
+511 Sorry, no mailbox here by that name (#5.1.1)
+
+
+----- Original message -----
+
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:x-gm-message-state:message-id
+         :from:to:subject:date:mime-version:content-type
+         :content-transfer-encoding:importance;
+        bh=AqCjp2m6lcfqdAMEv3IcegvvCl7ytebIG22ewq+xdxI=;
+        b=JwP08VL8PFIPkT052M6ZejVfkjLtwGx7u+ZewQVEkM8qS3Dn1+nwK0nGdAMDH6/aGs
+         JDJ7de4VCpD9vnkN1rExaaf6vkUeNCyKvrcgqTomPKJAKeItN/nXT2FDCtqGtEQbA+bF
+         TnfLoy9WDjDKEcUA+pUhNcQ5bW08V+oGOYK/RnKJG/0LoOvikFNYdU87IICqp4Roeqkz
+         /0oIcCUEQzfoio91kXOBroqwkcE+xzU9sCIxMnTQRz7Qq/zrG2sJxnAGhE9P05JjSyHC
+         jr2qz1a9GIB+yo5BQFZRGlOvu2TNCZuQVFcqx8/2wEZXVBYNiq+oaOr7nYyI0YvIkYy2
+         qiCg==
+X-Original-Authentication-Results: mx.google.com;       spf=none (google.com: bzncp@fs.net does not designate permitted sender hosts) smtp.mail=bzncp@fs.net
+X-Gm-Message-State: ALoCoQk7LIX9erkSl9sCxhnwxzPIGtpOkPMDi3FxrBXhu5R3naKMJoAG4O8RUrhd4YSsvM3EtNXkB9kcfoQPV/vNMqJ3ekCgy/5lNCRieRwo9bbEYAQnIFRRCcg3ghC15QtBeESNEYWn0zWQ523KlEP/Q3qaQo5hQmtng/7wvFwi4u8elaux7RQBsSCxLOHco06UYC3I9fw7
+X-Received: by 10.194.205.138 with SMTP id lg10mr1109084wjc.130.1421187028254;
+        Tue, 13 Jan 2015 14:10:28 -0800 (PST)
+X-Received: by 10.194.205.138 with SMTP id lg10mr1109078wjc.130.1421187028195;
+        Tue, 13 Jan 2015 14:10:28 -0800 (PST)
+Return-Path: <bzncp@fs.net>
+Received: from bl16-188-27.dsl.telepac.pt (bl16-188-27.dsl.telepac.pt. [188.81.188.27])
+        by mx.google.com with ESMTP id el10si22684438wid.58.2015.01.13.14.10.26
+        for <cc6e5f25@dcitech.com>;
+        Tue, 13 Jan 2015 14:10:27 -0800 (PST)
+Received-SPF: none (google.com: bzncp@fs.net does not designate permitted sender hosts) client-ip=188.81.188.27;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: bzncp@fs.net does not designate permitted sender hosts) smtp.mail=bzncp@fs.net
+Message-ID: <25C24B1DC8AC949E79F0A673172F25C2@Q66YLL9>
+From: <bzncp@fs.net>
+To: <cc6e5f25@dcitech.com>
+Subject: Employment invitation
+Date: 13 Jan 2015 21:02:04 -0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration on the our site: www.webscareer.com
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+

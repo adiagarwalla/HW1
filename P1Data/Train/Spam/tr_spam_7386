@@ -1,0 +1,1138 @@
+From @..  Fri Jan 16 08:57:39 2015
+Return-Path: <@..>
+X-Original-To: trudieandfrankie@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C3BC4DE; Fri, 16 Jan 2015 08:57:39 +0000 (UTC)
+Received: from so254-62.mailgun.net (so254-62.mailgun.net [198.61.254.62])
+    by .. with SMTP id p3ag8xs3y3szi9gzmxfgyy5rtw;
+    for trudieandfrankie@fs.net;
+    Fri, 16 Jan 2015 08:57:39 +0000 (UTC)
+    (envelope-from bounce+fe1689.9fa4a-trudieandfrankie=fs.net@protectedpersons.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.62;
+    envelope-from=<bounce+fe1689.9fa4a-trudieandfrankie=fs.net@protectedpersons.com>;
+    helo=so254-62.mailgun.net; mechanism=+include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.62; client-port=48449;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 173.203.0.131 50.56.6.131 162.209.19.165;
+    network-path-time=1421398659
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=protectedpersons.com;
+ q=dns/txt; s=krs; t=1421398643; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=7j7E7cH9ngOLatfzwOo1y8KtLYZUcIxG33vbpdQWWJs=; b=kSpwVxjUbARswiuK+oZEWak9OFnBLgx71JKfhz8TUw9fmvtD3wshmt478t9obT0ToG1qKkR8
+ yHSF3sYqskiLtdA7KiWukzjRwlfoAqqVTmrJu7L2HloUShYQPU4Z7483xGKVifnKsc6TFmxj
+ qN7at/DbnuDCa+6ZriDahVkn0pg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=protectedpersons.com;
+ s=krs; q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=gZXVRm2JD0lR028gp2wIeCnHZH2ql7/w95JLsQGIsrqKUNgfxLbfX7d79no/X7UvMEWloM
+ Xg2ZQ5M1QGoDitWQ12SILmbk8TUyPSSeZGIw3Ey4oWYCIufluwMPtAZNNaHuJqLN5cX0xEWM
+ RZQ6i1fkm9VFhiv6uWcvfPI/BefSE=
+Received: from mail.protectedpersons.com (protectedpersons.com
+ [78.47.203.238]) by mxa.mailgun.org with ESMTP id
+ 54b8d271.7fc050713670-in7; Fri, 16 Jan 2015 08:57:21 -0000 (UTC)
+Received: from mail.protectedpersons.com (localhost [127.0.0.1])	by
+ mail.protectedpersons.com (Postfix) with ESMTP id 74C56142D24	for
+ <trudieandfrankie@fs.net>; Fri, 16 Jan 2015 10:57:19 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256;
+ c=relaxed/relaxed;	d=protectedpersons.com; s=dkim;
+ t=1421398639;	bh=7j7E7cH9ngOLatfzwOo1y8KtLYZUcIxG33vbpdQWWJs=;	h=Date:From:To:Subject:From;	b=Z4ywkZwPYMhDRRINRuiqCOkx3ltgbBSLRv7qzuQ8MchsTB620bQI5nWoOAOzXe7JN	
+ j6CKdgDDDEbqHIXPn/5iX3vZ2ooocJ/uj5+lwi2ITeHoicKj+AC8kNjz/MxKiekQnn	
+ WQxq6D4FrYcTj4aDN7s4lH5Mk+py4v1O1hhgsuik=
+Date: Fri, 16 Jan 2015 10:57:19 +0200 (EET)
+From: Life Coverage <@..>
+To: "trudieandfrankie@fs.net" <@..>
+Message-Id: <254588218.2919293.1421398639477.JavaMail.root@mail.protectedpersons.com>
+Subject: Today is the perfect day to find your life coverage
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2919291_1523082478.1421398639474"
+X-Mailgun-Sid: WyJkODVmNSIsICJ0cnVkaWVhbmRmcmFua2llQGZzLm5ldCIsICI5ZmE0YSJd
+Sender: @..
+
+------=_Part_2919291_1523082478.1421398639474
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2919292_442135506.1421398639474"
+
+------=_Part_2919292_442135506.1421398639474
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+Dependable Life Cover ? Can't read this email? Click here to view an online=
+ version. ? ? ? ? ? ? Life Cover from just GBP 5 per month ? ? ? ? ? ? ? ? =
+? Compare Life Insurance Quotes from the UK's Top Insurers Nobody can predi=
+ct the future - but you can plan ahead should the worst happen. Protect you=
+r family today with a Life Insurance policy from DependableLifeCover.co.uk =
+Life insurance will pay out a lump sum of money if the policy holder dies, =
+ensuring that your loved ones are not left financially vulnerable. GET FREE=
+ QUOTES NOW ? ? ? ? ? Get Life Cover Today! ? Simple 30 secs online applica=
+tion! ? FREE Life Insurance quotes ? Compare quotes from Top Insurers ? Cho=
+ose the cheapest Policy! ? Cover starts from just GBP 5 per month ? Absolut=
+ley NO obligation! GET FREE QUOTES NOW ? ? ? ? ? The UK's Top Insurers Depe=
+ndableLifeCover.co.uk only deals with the UK's top insurers. This enables u=
+s to provide you with the most suitable quotes and best service available -=
+ giving you the peace of mind that you are financially covered should the w=
+orst happen. GET FREE QUOTES NOW ? ? ? ? Critical Illness Cover Many polici=
+es also include critical illness cover, so in the event that you become too=
+ ill to work, the policy will pay out a sum to cover your commitments. GET =
+FREE QUOTES NOW ? ? ? ? ? 30 Second Online Application! ? ? Insurance detai=
+ls published on this site are for informational purposes only and do not co=
+nstitute financial advice nor financial promotions under the Financial Serv=
+ices and Markets Act 2009 or The (Financial Promotions) Order 2005. By Subm=
+itting the enquiry form you agree that: The information provided is true an=
+d accurate and that DependableLifeCover.co.uk may send the details of this =
+enquiry to an appropriate and authorised advisor for the purpose of providi=
+ng life insurance quotes and advice and that the advisor may contact you fo=
+r further information as required. Quoted rates based on GBP 50,000 of leve=
+l term cover for a 27 year old non-smoker in good health. Prices correct as=
+ of October 2015. Actual prices will vary depending on individual circumsta=
+nces. The advertiser does not manage your subscription. If you prefer not t=
+o receive further communication, here is the way to stop receiving emails. =
+P.O. Box 13629, 10310 Athens - Greece
+------=_Part_2919292_442135506.1421398639474
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>Dependable Life Cover</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css' />
+    <style type="text/css">
+        html {
+            width: 100        }
+
+        .Appromote ::-moz-selection {
+            background: #0099FF;
+            color: #ffffff;
+        }
+
+        .Appromote ::selection {
+            background: #0099FF;
+            color: #ffffff;
+        }
+
+        .Appromote body {
+            background-color: #e9eaed;
+            margin: 0;
+            padding: 0;
+        }
+
+        .Appromote .ReadMsgBody {
+            width: 100            background-color: #e9eaed;
+        }
+
+        .Appromote .ExternalClass {
+            width: 100            background-color: #e9eaed;
+        }
+
+        .Appromote a {
+            color: #0099FF;
+            text-decoration: none;
+            font-weight: normal;
+            font-style: normal;
+        }
+
+            .Appromote a:hover {
+                color: #adb2bb;
+                text-decoration: underline;
+                font-weight: normal;
+                font-style: normal;
+            }
+
+        .Appromote p,
+        .Appromote div {
+            margin: 0 !important;
+        }
+
+        .Appromote table {
+            border-collapse: collapse;
+        }
+
+        @media only screen and (max-width: 640px) {
+            .Appromote table table {
+                width: 100            }
+
+            .Appromote td[class="full_width"] {
+                width: 100            }
+
+            .Appromote div[class="div_scale"] {
+                width: 440px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote table[class="table_scale"] {
+                width: 440px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote td[class="td_scale"] {
+                width: 440px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote img[class="img_scale"] {
+                width: 100                height: auto !important;
+            }
+
+            .Appromote img[class="divider"] {
+                width: 440px !important;
+                height: 2px !important;
+            }
+
+            .Appromote table[class="spacer"] {
+                display: none !important;
+            }
+
+            .Appromote td[class="spacer"] {
+                display: none !important;
+            }
+
+            .Appromote td[class="center"] {
+                text-align: center !important;
+            }
+
+            .Appromote table[class="full"] {
+                width: 400px !important;
+                margin-left: 20px !important;
+                margin-right: 20px !important;
+            }
+
+            .Appromote img[class="divider"] {
+                width: 400px !important;
+                height: 1px !important;
+            }
+
+            .Appromote td[class="no_padding"] {
+                padding-left: 0px !important;
+            }
+        }
+
+        @media only screen and (max-width: 479px) {
+            .Appromote table table {
+                width: 100            }
+
+            .Appromote td[class="full_width"] {
+                width: 100            }
+
+            .Appromote div[class="div_scale"] {
+                width: 280px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote table[class="table_scale"] {
+                width: 280px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote td[class="td_scale"] {
+                width: 280px !important;
+                margin: 0 auto !important;
+            }
+
+            .Appromote img[class="img_scale"] {
+                width: 100                height: auto !important;
+            }
+
+            .Appromote img[class="divider"] {
+                width: 280px !important;
+                height: 2px !important;
+            }
+
+            .Appromote table[class="spacer"] {
+                display: none !important;
+            }
+
+            .Appromote td[class="spacer"] {
+                display: none !important;
+            }
+
+            .Appromote td[class="center"] {
+                text-align: center !important;
+            }
+
+            .Appromote table[class="full"] {
+                width: 240px !important;
+                margin-left: 20px !important;
+                margin-right: 20px !important;
+            }
+
+            .Appromote img[class="divider"] {
+                width: 240px !important;
+                height: 1px !important;
+            }
+
+            .Appromote td[class="no_padding"] {
+                padding-left: 0px !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td align="center" valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="540">
+                                                                    <table style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="600">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td style="padding: 0px;" align="center" valign="top">
+                                                                                    <table style="margin: 0;" align="center" border="0" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="padding: 0px; font-size:13px ; font-style:normal; color:#898f9c; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px; mso-line-height-rule: exactly;" align="center" valign="middle">
+                                                                                                    <span>Can't read this email? <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#0077c1; text-decoration:underline">Click here</a> to view an online version.</span>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </td>
+
+            </tr>
+        </tbody>
+    </table>
+    <table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30">&nbsp;</td>
+                                                                <td width="540">
+                                                                    <table class="full" align="left" width="540" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                                        <tr>
+                                                                            <td class="center" align="center" style="padding: 0px;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#444444; font-size:18px; line-height:100                                                                                <span>
+                                                                                    <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#FD6700;">
+                                                                                        <img src="http://protectedpersons.com/uznkv28ela.png" alt="Dependable Life Cover" width="240" height="28" border="0" style="display: inline-block;" />
+                                                                                    </a>
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30">&nbsp;</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td height="30" width="100                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" bgcolor="#2b303f" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td align="center" width="100                                                    <table style="height:300px;" align="center" background="s1ir8prbqpxijl" border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td valign="middle" width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="350">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td height="10">&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="no_padding" style="padding-bottom: 5px; padding-left: 38px; font-weight: normal; font-family: 'Arial', Helvetica, Arial, sans-serif; color:#ffffff; font-size:51px; letter-spacing:-1px; line-height:46px; mso-line-height-rule: exactly;" align="left">
+                                                                                    <span>Life Cover</span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="no_padding" style="margin: 0; padding-left: 10px; font-weight: normal; font-size:20px ; color:#ffffff; font-family: 'Arial', Helvetica, Arial, sans-serif; line-height: 29px;mso-line-height-rule: exactly;" align="center">
+                                                                                    <span>
+                                                                                        from just <font size="6">GBP 5</font> per month
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="no_padding" style="padding-top: 50px; padding-left: 38px; " align="left" valign="top">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color: rgb(255, 107, 0);">
+                                                                                            <img src="http://protectedpersons.com/xblupvg.png" alt="Apply For Life Cover Insurance" style="background-color: rgb(255, 107, 0); border-radius: 8px; display: inline-block; color: rgb(255, 107, 0);" border="0" height="46" width="238" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td height="40">&nbsp;</td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="10" width="100                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding:30px 0px;" width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="540">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td>&nbsp;</td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30">&nbsp;</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="center">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#0079ff;">
+                                                                                            <img src="http://protectedpersons.com/l8s3jo3o5en.png" alt="Apply for Life Insurance" style="display: inline-block;" border="0" height="110" width="160" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="30">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td height="40" width="100                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="center">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#0079ff;">
+                                                                                            <img src="http://protectedpersons.com/tqdqk1c5to.png" alt="Search for Insurers" style="display: inline-block;" border="0" height="110" width="160" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="20">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td height="40" width="100                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="right" border="0" cellpadding="0" cellspacing="0" width="160">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="center">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#0079ff;">
+                                                                                            <img src="http://protectedpersons.com/e0mjxbt2.png" alt="Get Life Cover Quotes" style="display: inline-block;" border="0" height="110" width="160" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30">&nbsp;</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height: 0;" height="10" width="100                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="540">
+                                                                        <tr>
+                                                                            <td class="center" style="padding-bottom: 20px; font-weight: normal;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#757f83; font-size:27px; line-height:36px; mso-line-height-rule: exactly;" align="center">
+                                                                                <span>
+                                                                                    <a class="heading_link" href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#355; text-decoration: none; font-style: normal; font-weight: normal;">
+                                                                                        Compare <b><font size="6">Life Insurance</font></b> Quotes from the UK's <b>Top Insurers</b>
+                                                                                    </a>
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td class="center" style="margin: 0; font-weight:normal; font-size:13px ; color:#666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 20px;mso-line-height-rule: exactly;" align="center">
+                                                                                <span>
+                                                                                    Nobody can predict the future  - but you can plan ahead should the worst happen. Protect your family today with a <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank">Life Insurance policy</a> from DependableLifeCover.co.uk<br /><br /> Life insurance will pay out a lump sum of money if the policy holder dies, ensuring that your loved ones are not left financially vulnerable.<br /><br />
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="padding-top: 20px;" align="center" bgcolor="#ffffff" valign="top">
+                                                                                <table style="margin: 0px; border-radius: 5px; background-color: rgb(255, 107, 0);" align="center" bgcolor="#0099FF" border="0" cellpadding="0" cellspacing="0">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td style="border-radius: 5px; padding: 7px 20px; font-size: 13px; line-height: 18px; font-family: &quot;Open Sans&quot;,Helvetica,Arial,sans-serif; color: rgb(255, 255, 255); margin: 0px ! important; background-color: rgb(255, 107, 0);" align="center" bgcolor="#0099FF" valign="middle">
+                                                                                                <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="font-weight: normal; font-style: normal; color:#ffffff;">
+                                                                                                    GET <b>FREE</b> QUOTES NOW &raquo;
+                                                                                                </a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30"></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="255">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="left">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color: rgb(255, 107, 0);">
+                                                                                            <img class="img_scale" src="http://protectedpersons.com/s5jv9gqss.png" alt="Life insurance Help" style="display: block; margin:0px; padding:0px; color: rgb(255, 107, 0);" border="0" height="240" width="255" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="25">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td height="40" width="100                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="right" border="0" cellpadding="0" cellspacing="0" width="255">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="padding-bottom: 20px; font-weight: normal;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#757f83; font-size:23px; line-height:34px; mso-line-height-rule: exactly;" align="left">
+                                                                                    <span><a class="heading_link" href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#355; text-decoration: none; font-style: normal; font-weight: normal;">Get Life Cover Today!</a></span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-weight:normal; font-weight:normal; font-size:13px ; color:#666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;mso-line-height-rule: exactly;" align="left">
+                                                                                    <span>
+                                                                                        &bull; Simple <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" />30 secs online application!</a><br />
+                                                                                        &bull; <b>FREE</b> Life Insurance quotes<br />
+                                                                                        &bull; Compare quotes from Top Insurers<br />
+                                                                                        &bull; Choose the cheapest Policy!<br />
+                                                                                        &bull; Cover starts from just <b>GBP 5 per month</b><br />
+                                                                                        &bull; Absolutley <b>NO obligation!</b><br />
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td style="padding-top: 20px;" align="left" bgcolor="#ffffff" valign="top">
+                                                                                    <table style="margin: 0px; border-radius: 5px; background-color: rgb(255, 107, 0);" align="left" bgcolor="#0099FF" border="0" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-radius: 5px; padding: 7px 20px; font-size: 13px; line-height: 18px; font-family: &quot;Open Sans&quot;,Helvetica,Arial,sans-serif; color: rgb(255, 255, 255); margin: 0px ! important; background-color: rgb(255, 107, 0);" align="center" bgcolor="#0099FF" valign="middle">
+                                                                                                    <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="font-weight: normal; font-style: normal; color:#ffffff;">
+                                                                                                        GET <b>FREE</b> QUOTES NOW &raquo;
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30">&nbsp;</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" align="left" width="255" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" align="left" style="padding-bottom: 10px; font-weight: normal;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#757f83; font-size:24px; line-height:34px; mso-line-height-rule: exactly;">
+                                                                                    <span>
+                                                                                        <a class="heading_link" href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#355; text-decoration: none; font-style: normal; font-weight: normal;">
+                                                                                            The UK's Top Insurers
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="center" align="left" style="margin: 0; font-weight:normal; font-size:13px ; color:#666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 20px;mso-line-height-rule: exactly;">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank">DependableLifeCover.co.uk</a> only deals with the UK's top insurers. This enables us to provide you with the most suitable quotes and best service available - giving you the peace of mind that you are financially covered should the worst happen.
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td bgcolor="#ffffff" align="left" valign="top" style="padding-top: 20px;">
+                                                                                    <table border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#0099FF" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-left-radius: 5px 5px; border-top-right-radius: 5px 5px; border-bottom-right-radius: 5px 5px; border-bottom-left-radius: 5px 5px; background-color: rgb(255, 102, 0); ">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" valign="middle" bgcolor="#0099FF" style="border-top-left-radius: 5px 5px; border-top-right-radius: 5px 5px; border-bottom-right-radius: 5px 5px; border-bottom-left-radius: 5px 5px; padding-top: 7px; padding-right: 20px; padding-bottom: 7px; padding-left: 20px; font-size: 13px; line-height: 18px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); margin-top: 0px !important; margin-right: 0px !important; margin-bottom: 0px !important; margin-left: 0px !important; background-color: rgb(255, 102, 0); ">
+                                                                                                    <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="font-weight: normal; font-style: normal; color:#ffffff;">
+                                                                                                        GET <b>FREE</b> QUOTES NOW &raquo;
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table width="25" align="left" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td width="100                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table class="full" align="right" width="255" cellpadding="0" cellspacing="0" border="0" valign="bottom" style="vertical-align: bottom; border-collapse:collapse; ">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" align="left" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color: rgb(255, 102, 0); ">
+                                                                                            <img class="img_scale" src="http://protectedpersons.com/4gkvbxglbtkc.png" alt="img-255-256" width="255" height="256" border="0" style="display: block;margin:0px; padding:0px; color: rgb(255, 102, 0); " />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30"></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" width="600" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="255">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="padding-bottom: 20px; font-weight: normal;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#757f83; font-size:26px; line-height:34px; mso-line-height-rule: exactly;" align="left">
+                                                                                    <span>
+                                                                                        <a class="heading_link" href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color:#355; text-decoration: none; font-style: normal; font-weight: normal;">
+                                                                                            Critical Illness Cover
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-weight:normal; font-size:13px ; color:#666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 20px;mso-line-height-rule: exactly;" align="left">
+                                                                                    <span>
+                                                                                        Many policies also include critical illness cover, so in the event that you become too ill to work, the policy will pay out a sum to cover your commitments.
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td style="padding-top: 20px;" align="left" bgcolor="#ffffff" valign="top">
+                                                                                    <table style="margin: 0px; border-radius: 5px; background-color: rgb(255, 107, 0);" align="left" bgcolor="#0099FF" border="0" cellpadding="0" cellspacing="0">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="border-radius: 5px; padding: 7px 20px; font-size: 13px; line-height: 18px; font-family: &quot;Open Sans&quot;,Helvetica,Arial,sans-serif; color: rgb(255, 255, 255); margin: 0px ! important; background-color: rgb(255, 107, 0);" align="center" bgcolor="#0099FF" valign="middle">
+                                                                                                    <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="font-weight: normal; font-style: normal; color:#ffffff;">
+                                                                                                        GET <b>FREE</b> QUOTES NOW &raquo;
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table width="25" align="left" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td width="100                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    <table class="full" valign="bottom" style="vertical-align: bottom; border-collapse:collapse; " align="right" border="0" cellpadding="0" cellspacing="0" width="255">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="left">
+                                                                                    <span>
+                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color: rgb(255, 107, 0);">
+                                                                                            <img class="img_scale" src="http://protectedpersons.com/i4tvcqwzn9d.png" alt="Critical Illness Cover" style="display: block; color: rgb(255, 107, 0);margin:0px; padding:0px;" border="0" height="203" width="255" />
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30"></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table bgcolor="#ffffff" class="table_scale" width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="10" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="spacer" width="30"></td>
+                                                                <td width="540">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="540">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="padding-bottom: 20px; font-weight: normal;font-family: 'Open Sans', Helvetica, Arial, sans-serif; color:#355; font-size:24px; line-height:34px; mso-line-height-rule: exactly;" align="center">
+                                                                                    <span>
+                                                                                        30 Second Online Application!
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="center" style="padding-bottom: 0px; margin: 0; font-size:13px ; color:#adb2bb; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 23px;" align="center">
+                                                                                    <table style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="center" border="0" cellpadding="0" cellspacing="0" width="260">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td class="center" style="" align="center">
+                                                                                                    <span>
+                                                                                                        <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank" style="color: rgb(255, 107, 0);">
+                                                                                                            <img src="http://protectedpersons.com/xblupvg.png" alt="Apply for Life Insurance" style="background-color: rgb(255, 107, 0); border-radius: 8px; display: inline-block;margin:0px; padding:0px; color: rgb(255, 107, 0);" border="0" height="44" width="220" />
+                                                                                                        </a>
+                                                                                                    </span>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="spacer" width="30"></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="30" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table_scale" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td style="line-height:0;" height="10" width="100                                                    &nbsp;
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table><table align="center" bgcolor="#e9eaed" border="0" cellpadding="0" cellspacing="0" width="100        <tbody>
+            <tr>
+                <td valign="top" width="100                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td width="100                                    <table class="table_scale" border="0" cellpadding="0" cellspacing="0" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td width="100                                                    <table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="600">
+                                                                    <table class="full" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="center" border="0" cellpadding="0" cellspacing="0" width="540">
+                                                                        <!-- START OF TEXT CONTENT-->
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="center" style="margin: 0; padding: 20px 0px 20px 0px; font-weight:normal; font-size:10px ; color:#788; font-family: 'Arial', Helvetica, Arial, sans-serif; line-height: 14px;" align="center">
+                                                                                    <span style="color: rgb(255, 107, 0);"></span>
+                                                                                    <span>
+                                                                                        Insurance details published on this site are for informational purposes only and do not constitute financial advice nor financial promotions under the Financial Services and Markets Act 2009 or The (Financial Promotions) Order 2005.<br />
+                                                                                        <br />
+                                                                                        <b>By Submitting the enquiry form you agree that:</b><br />
+                                                                                        <br />
+                                                                                        The information provided is true and accurate and that <a href="http://protectedpersons.com/?a=488&c=96161&s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" target="_blank">DependableLifeCover.co.uk</a> may send the details of this enquiry to an appropriate and authorised advisor for the purpose of providing life insurance quotes and advice and that the advisor may contact you for further information as required.<br />
+                                                                                        <br />
+                                                                                        Quoted rates based on GBP 50,000 of level term cover for a 27 year old non-smoker in good health.
+                                                                                        Prices correct as of October 2015. Actual prices will vary depending on individual circumstances.
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <!-- END OF TEXT CONTENT-->
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <center>
+        <br />
+        <center>
+            <font size="2" face="Arial">
+                The advertiser does not manage your subscription. If you prefer not to receive further communication,<br />
+                <a href="http://protectedpersons.com/unsub?s1=434139&newunsub=1" target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br />
+            </font>
+            <img src= "http://protectedpersons.com/adv" border="0" alt="" style="max-width:100        </center>
+        <div style="color:white; background-color:white; font-size:8px;">
+            
+        </div>
+
+        <img alt="" src= "http://protectedpersons.com/record.php?s1=434139&s2=O000009171513_1965&s3=1501161057&S4=217766" width="1" height="1" border="0" />
+    </center>
+</body>
+</html>
+
+------=_Part_2919292_442135506.1421398639474--
+
+------=_Part_2919291_1523082478.1421398639474--
+

@@ -1,0 +1,218 @@
+From @..  Sat Jan 17 01:53:35 2015
+Return-Path: <@..>
+X-Original-To: daz.nufc@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A5AFEDE; Sat, 17 Jan 2015 01:53:35 +0000 (UTC)
+Received: from so254-62.mailgun.net (so254-62.mailgun.net [198.61.254.62])
+    by .. with SMTP id jv53xckdvw5nqv8n2qu2zcnf3e;
+    for daz.nufc@fs.net;
+    Sat, 17 Jan 2015 01:53:35 +0000 (UTC)
+    (envelope-from bounce+c1fc50.9fa4a-daz.nufc=fs.net@protectedpersons.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.62;
+    envelope-from=<bounce+c1fc50.9fa4a-daz.nufc=fs.net@protectedpersons.com>;
+    helo=so254-62.mailgun.net; mechanism=+include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.62; client-port=49965;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 173.203.0.131 50.56.6.131 162.209.19.165;
+    network-path-time=1421459615
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=protectedpersons.com;
+ q=dns/txt; s=krs; t=1421459599; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=PwoY2suR4fJwvdzelUzqg5S2SQBNec8Mt44F8ukd0KI=; b=fZ3/XbrUIWjAy95sEvqne0xRx439u/T1u4QNzQofohKL2SLmDM3vfRaa9GBWimSFpSrY3HBC
+ 6VffLE/kDvx12SgdQ0NXEN8X0o0aJwqU5L47ME4SLV59C5LVGWT7LwuVZALdEyQwEcb2KfaB
+ qBq7n2dox1sDs9yvL/Vr4MhNmLE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=protectedpersons.com;
+ s=krs; q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=EFr41Z0hIxDXi9LrFG7xflXeDSxw7DUGTkVfeCdQ4M1mJoWRL8SeDt/zkaXwj++CHWWSho
+ dRIHEIdKnToChUq08JEzv8ss0804iyVRwQaRSS61wovRSyBSsuZbnK1T2bdNOteQSCUB4grp
+ dUdJ1CyUq6aaunErmKO/InpmQEAok=
+Received: from mail.protectedpersons.com (protectedpersons.com
+ [78.47.203.238]) by mxa.mailgun.org with ESMTP id 54b9c08e.5c26330-in1;
+ Sat, 17 Jan 2015 01:53:18 -0000 (UTC)
+Received: from mail.protectedpersons.com (localhost [127.0.0.1])	by
+ mail.protectedpersons.com (Postfix) with ESMTP id 54CFE142D10	for
+ <daz.nufc@fs.net>; Sat, 17 Jan 2015 03:53:16 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256;
+ c=relaxed/relaxed;	d=protectedpersons.com; s=dkim;
+ t=1421459596;	bh=PwoY2suR4fJwvdzelUzqg5S2SQBNec8Mt44F8ukd0KI=;	h=Date:From:To:Subject:From;	b=F0a7V+axiQ5hCszP1nOPDHP13jENaHIv9PY8s+pS2L961LD6etGFLgNcWLtDgstSA	
+ RxwQixVG1rmc8qxVuSxu4JXGTu66JV9WwFR0UymMWg1cR91hfGIfbbp7RHcWDCXbA+	
+ O96RxDJnax9SN5UROTHX3g6m7jIE37ldm4rM38+8=
+Date: Sat, 17 Jan 2015 03:53:16 +0200 (EET)
+From: Exclusive Invitation <@..>
+To: "daz.nufc@fs.net" <@..>
+Message-Id: <1349701518.3003929.1421459596346.JavaMail.root@mail.protectedpersons.com>
+Subject: What Will You Buy with 2500 GBP Worth of Vouchers at ASDA?
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_3003927_1023724116.1421459596344"
+X-Mailgun-Sid: WyI2ZDVkMyIsICJkYXoubnVmY0Bmcy5uZXQiLCAiOWZhNGEiXQ==
+Sender: @..
+
+------=_Part_3003927_1023724116.1421459596344
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3003928_92237848.1421459596344"
+
+------=_Part_3003928_92237848.1421459596344
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+
+This message contains useful information. If your e-mail provider blocks the images, please enable them for a complete preview. Having trouble viewing this email? Click here for a web version Unsubscribe Savings Deals Offers ? WIN ?2500 to Spend at ASDA! ? ? We're giving away a MASSIVE ?2500 to spend at ASDA!! Feed the family, buy new clothes or treat someone special to the last gadget or games console. With money to spend online or in store what would you buy?! Enter today for your chance to win - GOOD LUCK! ? ENTER NOW ? ? ? Privacy Policy?? ??Terms and Conditions ? To unsubscribe from all future email communications, click here. We hope you enjoyed receiving this email. Should you no longer wish to receive emails from this company, visit this link to unsubscribe. The advertiser does not manage your subscription. If you prefer not to receive further communication, here is the way to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece
+------=_Part_3003928_92237848.1421459596344
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+
+<p style="font-weight:bold; font-family:Arial;" align="center">
+This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.
+</p>  
+
+<div align="center">
+<table width="601" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle" height="40">
+<table width="100<tr>
+<td align="left" style="font-size:9px; color:#454545; line-height:200Having trouble viewing this email? 
+<a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank" style="font-size:9px;color:#454545;line-height:200for a web version</td>
+<td align="right" valign="middle" style="font-size:9px;color:#454545;line-height:200<a href="http://protectedpersons.com/unsub?s1=434137&newunsub=1" target="_blank" style="color:#454545; text-decoration:none;">Unsubscribe</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center"><table width="90<tr>
+<td width="250" align="left">
+<a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank">
+<img alt="" src="http://protectedpersons.com/z018926_089802_005" width="218" height="50" border="0" style="display:block; margin:0px; padding:0px;"></a></td>
+<td align="left" style="text-align:left; font-weight:normal; font-family:tahoma,arial,sans-serif; font-size:14px; text-transform:uppercase;" valign="bottom">
+<a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" style="color:#8d8d8d; text-decoration:none;">Savings Deals Offers</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="border:1px solid #cecece;">
+<table width="100<tr>
+<td align="center" valign="middle" height="60" style="text-align:center; font-weight:normal; font-family:tahoma,arial,sans-serif; font-size:22px; color:#7ec84d;">
+<strong>WIN &pound;2500 to Spend at ASDA!</strong></td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<img src="http://protectedpersons.com/z019826_089802_002" alt="" width="599" height="1" border="0"></td>
+</tr>
+<tr>
+<td><table width="100<tr>
+<td align="left" valign="top" style="border-right: 1px solid #fca620" width="380">
+<a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank">
+<img alt="" src="http://protectedpersons.com/z018926_089802_006" border="0" width="380" height="315" style="display:block; margin:0px; padding:0px;"></a></td>
+<td align="center" valign="top"><table width="100<tr>
+<td style="border-bottom:2px solid #fca620;"><a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank">
+<img alt="" src="http://protectedpersons.com/z018926_089802_004" width="218" height="103" border="0" style="display:block; margin:0px; padding:0px;"></a></td>
+</tr>
+<tr>
+<td style="border-bottom:2px solid #fca620;"><a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank">
+<img alt="" src="http://protectedpersons.com/z018926_089802_003" width="218" height="103" border="0" style="display:block; margin:0px; padding:0px;"></a></td>
+</tr>
+<tr>
+<td style="border-bottom:2px solid #fca620;"><a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank">
+<img alt="" src="http://protectedpersons.com/z019826_089802_001" width="218" height="103" border="0" style="display:block; margin:0px; padding:0px;"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="center"><table width="90
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td align="left" style="font-family:tahoma,arial,sans-serif; font-size:11px; color:#6c6c6c; line-height:18px;">
+We're giving away a MASSIVE &pound;2500 to spend at ASDA!! Feed the family, buy new clothes or treat someone special to the last gadget 
+or games console. With money to spend online or in store what would you buy?! Enter today for your chance to win - GOOD LUCK!</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="center"><table width="203" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#7ec84d" style="border:1px solid #1e3650;border-radius:4px;color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;">
+<a href="http://protectedpersons.com/?a=488&c=89638&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank" style="color:#ffffff; text-decoration:none;">ENTER NOW</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<img src="http://protectedpersons.com/z019826_089802_007" alt="" width="599" height="1" border="0"></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left" style="font-family:tahoma,arial,sans-serif;font-size:10px;color:#6c6c6c; padding-left:15px;">
+<a href="http://protectedpersons.com/?a=488&c=89639&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank" style="font-weight:normal;color:#6c6c6c;">Privacy Policy</a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="http://protectedpersons.com/?a=488&c=89640&s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" target="_blank" style="font-weight:normal;color:#6c6c6c;">Terms and Conditions</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="40" style="font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#333333;">
+To unsubscribe from all future  email communications, 
+<a href="http://protectedpersons.com/unsub?s1=434137&newunsub=1" target="_blank" style="color:#fca620; text-decoration:none;">click here.</a></td>
+</tr>
+</table>
+</div>
+
+<div style="font-family: arial, 'trebuchet ms', Helvetica, sans-serif; font-size: 10px; color: #333333; text-align: center;"> 
+We hope you enjoyed receiving this email. Should you no longer wish to receive emails from this company, 
+<a href="http://protectedpersons.com/unsub?s1=434137&newunsub=1" target="_blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size="2" face="Arial">
+The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+<a href="http://protectedpersons.com/unsub?s1=434137&newunsub=1"  target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br>
+</font>
+<img src="http://protectedpersons.com/adv" border="0" alt="" style="max-width:100</center>
+
+<div style="color:white; background-color:white; font-size:8px;">
+
+</div>
+
+<img alt="" src="http://protectedpersons.com/record.php?s1=434137&s2=O000005229787_2025&s3=1501170353&S4=218167" width="1" height="1" border="0" />
+
+</body>
+</html>
+------=_Part_3003928_92237848.1421459596344--
+
+------=_Part_3003927_1023724116.1421459596344--
+

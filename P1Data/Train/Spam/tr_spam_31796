@@ -1,0 +1,195 @@
+From @..  Wed Jan  7 22:30:59 2015
+Return-Path: <@..>
+X-Original-To: Sugarspice@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id CD289DF; Wed,  7 Jan 2015 22:30:59 +0000 (UTC)
+Received: from dactyl.cwtonline.co.uk (84.45.36.38 [84.45.36.38])
+    by .. with SMTP id zv2mhv4snsskqypwme5iz4t6yw;
+    for Sugarspice@fs.net;
+    Wed, 07 Jan 2015 22:30:59 +0000 (UTC)
+    (envelope-from cruise-returns@cruise.co.uk)
+Received-SPF: None; receiver=..;
+    client-ip=84.45.36.38; envelope-from=<cruise-returns@cruise.co.uk>;
+    helo=dactyl.cwtonline.co.uk
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=84.45.36.38; client-port=53959;
+    syn-fingerprint=5840:47:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.44 129.250.4.165 129.250.3.85
+    129.250.6.177 129.250.4.125 129.250.5.197 129.250.5.41 83.231.146.230
+    84.45.27.138 84.45.21.187 84.45.23.27 84.45.23.21 84.45.90.201
+    84.45.90.113 0.0.0.0 109.104.114.97 84.45.90.117 0.0.0.0 0.0.0.0
+    84.45.90.145; network-path-time=1420669859; RBL=dnsbl.sorbs.net (127.0.0.6)
+Received: by dactyl.cwtonline.co.uk (Postfix, from userid 1000)
+	id 588B81F009D; Wed,  7 Jan 2015 22:30:33 +0000 (GMT)
+To: @..
+Subject: Prices ced on 2015 Cruise Holidays
+X-DKIM: php-dkim.sourceforge.net
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=24892; s=mailer;
+	t=1420669833; c=relaxed/simple;
+	h=From:To:Subject;
+	d=cruise.co.uk;
+	z=From:=20Weekly=20Cruise=20Deals=20<weeklycruisedeals@cruise.co.uk>
+	|To:=20Sugarspice@fs.net
+	|Subject:=20Prices=20ced=20on=202015=20Cruise=20Holidays;
+	bh=iNEQXPME0bAKhl/mFXDOSuT9nRM=;
+	b=Yl8d6yOZxMsKe0+9IhPrkAnmRajox7Uj2Gaip/AVMhai2rQoEWn6tYRm1o04aCkP
+From: Weekly Cruise Deals <@..>
+Reply-To: @..
+Errors-To: @..
+List-Unsubscribe: <http://www.cruise.co.uk/unsubscribe.php?id=3734631&match=Apr 20 2014 10:07PM&eblastid=3071&type=> 
+X-Mailer: PHP/5.2.17-pl0-gentoo
+X-Cruise-Eblast: eid3071:uid3734631 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----id:boundary.cruise.co.uk/eblast3071/"
+Message-Id: <20150107223033.588B81F009D@dactyl.cwtonline.co.uk>
+Date: Wed,  7 Jan 2015 22:30:33 +0000 (GMT)
+
+This is a multipart message in mime format.
+
+------id:boundary.cruise.co.uk/eblast3071/
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head>
+  <style type="text/css">
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #CD071e;
+	text-decoration: none;
+}
+a:hover {
+	color: #660000;
+	font-family: Verdana, Geneva, sans-serif;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: #D82126;
+	text-align: center;
+}
+DATE {
+	font-family: Verdana, Verdana, Geneva, sans-serif;
+	font-size: 15px; }
+
+</style>
+ </head>
+ <body>
+  <div style="width:500px; text-align: center; font-family: Verdana, Geneva, sans-serif; font-weight: normal; font-size: 36px; color: #003882; padding: 10px 0 10px 0;">
+<img src="http://www.cruise.co.uk/images/Cruise//cruise_gallery/1/EBLAST-HALFPRICE-HEADER-TEMPLATE_0.jpg" width="500" height="70">
+  <p><span style="font-size: 32px; color: #003882; font-weight: bold;">www.CRUISE.co.uk</span><br />
+    <span style="font-size: 22px">0330 303 8111</span><br />
+  <span style="font-size: 16px">-------------------------------------------------------------</span></p>
+</div>
+  <div style="color: #003882; font-family: Verdana, Geneva, sans-serif; font-size: 36px; font-weight: normal; padding: 10px 0 10px 0; text-align: center; width: 500px;">
+   <p><em style="color: #333333; font-size: 10px;">Book now for even lower prices on your 2015 cruise holiday, plus free drinks and spending money.</em></p>
+  </div>
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Tenerife, Gran Canaria &amp; Lanzarote</strong></span><br /><strong>6 Feb 2015 </strong>- 7nts - Thomson Cruises - Thomson Majesty</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Santa Cruz (Tenerife), Las Palmas (Gran Canaria), San Sebastian, Funchal (Madeira), Arrecife (Lanzarote), Puerto Del Rosario, Santa Cruz (Tenerife)</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-majesty/06-feb-15/89738fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;459pp</span></a> </span></strong></span><br /><strong style="color: #003882; font-size: 12px; font-style
+ : italic;">&gt;&gt; Includes Return Flights <br /> &gt;&gt; All Tips &amp; Service Charges Included <br /> &gt;&gt; Regional Flights Available at a Supplement</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-majesty/06-feb-15/89738fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal </a>OR<a href="http://www.cruise.co.uk/quote/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank"> Click <span style="font-weight: bold;">here</span> for a personalised quote</a>&gt;&gt;<br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Aegean Holy Land</strong></span><br /><strong>11 May 2015 </strong>- 7nts &ndash; Thomson Cruises &ndash; Thomson Spirit</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Marmaris, Ashdod, Larnaca, Alanya, Rhodes Town, Marmaris</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-spirit/11-may-15/89491fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;585pp</span></a> </span></strong></span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; Includes Return Flights<br /> &gt;&gt; All Tips &amp; Service Charges Included<br 
+ /> &gt;&gt; Regional Flights Available at a Supplement</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-spirit/11-may-15/89491fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal </a>OR<a href="http://www.cruise.co.uk/quote/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank"> Click <span style="font-weight: bold;">here</span> for a personalised quote</a>&gt;&gt;<br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Spain &amp; Portugal Explorer</strong></span><br /><strong>4 May 2015 </strong>- 11nts &ndash; Royal Caribbean &ndash; Explorer of the Seas</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Southampton, Bilbao, Lisbon, Seville (Cadiz), Malaga, Gibraltar, Vigo, Southampton</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/royal-caribbean-cruises/explorer-of-the-seas/04-may-15/84109/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;899pp</span></a></span></strong></span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; Upgrade to All Inclusive f
+ rom Only &pound;99pp!<br /> &gt;&gt; Up to $400 FREE Onboard Spending Money</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/royal-caribbean-cruises/explorer-of-the-seas/04-may-15/84109/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>JUST RELEASED - Naples &amp; Barcelona</strong></span><br /><strong>26 Apr 2015 </strong>- 7nts &ndash; MSC Cruises &ndash; MSC Fantasia</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Genoa, Naples, Messina, La Goulette, Barcelona, Marseille, Genoa</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise-guides/info-msc-cheapest-med-7jan15/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;599pp</span></a> </span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;1149pp</span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; In
+ cludes return flights and transfers<br /> &gt;&gt; FREE Drinks Package*</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise-guides/info-msc-cheapest-med-7jan15/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal </a>OR<a href="http://www.cruise.co.uk/quote/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank"> Click <span style="font-weight: bold;">here</span> for a personalised quote</a>&gt;&gt;<br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Norwegian Fjords</strong></span><br /><strong>13 Jun 2015 </strong>- 7nts &ndash; Holland America Line &ndash; MS Ryndam</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Harwich, Oslo, Kristiansand, Stavanger, Ulvik, Scenic Cruising Hardangerfjord, Harwich</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/holland-america-line/ms-ryndam/13-jun-15/89341/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;599pp</span></a></span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;1139pp</span><br /><strong style="color: #003882; font-size: 12px; font-style: ital
+ ic;">&gt;&gt; Kids Sail from &pound;1!<br /> &gt;&gt; FREE Upgrade to Ocean View Cabin<br /> &gt;&gt; FREE Parking in Harwich<br /> &gt;&gt; Up to $50 FREE Onboard Spending Money</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/holland-america-line/ms-ryndam/13-jun-15/89341/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Adriatic Affair</strong></span><br /><strong>7 May 2015 </strong>- 7nts &ndash; Thomson Cruises &ndash; Thomson Celebration</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Dubrovnik, Koper, Venice, Sibenek, Korcula, Bari, Dubrovnik</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-celebration/07-may-15/89432fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;685pp</span></a></span></strong></span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; Includes Return Flights<br /> &gt;&gt; All Tips &amp; Service Charges In
+ cluded<br /> &gt;&gt; Regional Flights Available at a Supplement</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-celebration/07-may-15/89432fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Seville, Barcelona &amp; Cannes</strong></span><br /><strong>22 Mar 2015 </strong>- 10nts &ndash; P&amp;O Cruises &ndash; Oceana</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Southampton, Lisbon, Seville (Cadiz), Gibraltar, Barcelona, Cannes, Florence/Pisa (Livorno), Genoa</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/pando-cruises/oceana/22-mar-15/85024fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;599pp</span></a></span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;819pp</span><br /><strong style="color: #003882; font-size: 12px; font-
+ style: italic;">&gt;&gt;Includes Return Flight<br /> &gt;&gt; FREE WiFi*</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/pando-cruises/oceana/22-mar-15/85024fc/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Florence, Rome &amp; Marseille</strong></span><br /><strong>8 Mar 2015 </strong>- 7nts &ndash; MSC Cruises &ndash; MSC Splendida</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Genoa, Rome (Civitavecchia), Palermo (Florence/Pisa), La Goulette, Barcelona, Marseille, Genoa</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/quote/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;449pp</span></a></span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;699pp</span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; Includes return fli
+ ghts and transfers<br /> &gt;&gt; FREE Drinks Package*</strong></p>
+   <p><a href="http://www.cruise.co.uk/quote/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> for a personalised quote&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Venice, Greece &amp; Turkey</strong></span><br /><strong>21 Nov 2015 </strong>- 7nts &ndash; Royal Caribbean &ndash; Splendour of the Seas</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Venice, Dubrovnik, Rhodes, Ephesus, Split, Venice</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/royal-caribbean-cruises/splendour-of-the-seas/21-nov-15/83033/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;845pp</span></a></span></strong></span><br /><strong style="color: #003882; font-size: 12px; font-style: italic;">&gt;&gt; All Inclusive - FREE Drinks &amp; Tips<br /> &gt;&gt; Up to
+  $400 FREE Onboard Spending Money<br /></strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/royal-caribbean-cruises/splendour-of-the-seas/21-nov-15/83033/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Barcelona, Canary Islands &amp; Morocco</strong></span><br /><strong>4 Feb 2015 </strong>- 10nts &ndash; Norwegian Cruise Line &ndash; Norwegian Spirit</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Barcelona, Casablanca, Madeira (Funchal), Santa Cruz De Tenerife, Arrecife (Lanzarote), Malaga, Barcelona</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/ncl-cruises/norwegian-spirit/04-feb-15/78724/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;699pp</span></a></span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;1099pp</span><br /><strong style="c
+ olor: #003882; font-size: 12px; font-style: italic;">&gt;&gt; Includes Return Flights<br /> &gt;&gt; Book an Ocean View Cabin or Above for FREE Drinks PLUS up to $200 FREE Spending Money or FREE Speciality Dining</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/ncl-cruises/norwegian-spirit/04-feb-15/78724/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <p><span class="DATE"><span style="color: #003882;"><strong>Gibraltar, Lisbon &amp; Seville</strong></span><br /><strong>12 Apr 2015 </strong>- 13nts &ndash; P&amp;O Cruises &ndash; Ventura</span><br /><span style="color: #003882; font-size: 12px; font-style: italic;">Southampton, La Coruna, Gibraltar, Valencia, Alicante, Malaga, Seville (Cadiz), Lisbon, Southampton</span><br /><span style="color: #CD071E; font-family: Verdana, Geneva, sans-serif; font-size: 28px;"> <span style="color: #666666; colour: #999; font-size: 12px;">FROM</span><strong><span style="color: #CD071e; font-size: 20px;"> <a href="http://www.cruise.co.uk/cruise/pando-cruises/ventura/12-apr-15/88809/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><span style="color: #CD071e; font-size: 20px;">&pound;599pp</span></a></span></strong></span> <span style="color: #666; font-size: 12px;">Was &pound;929pp</span><br /><strong style="color: #003882; font-size: 12px; font
+ -style: italic;">&gt;&gt; FREE Wi-Fi*</strong></p>
+   <p><a href="http://www.cruise.co.uk/cruise/pando-cruises/ventura/12-apr-15/88809/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Click <span style="font-weight: bold;">here</span> to view deal&gt;&gt;</a><br /><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <!-- START DEAL -->
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; width: 500px;">
+   <table border="0" cellpadding="5" width="100    <tbody>
+     <tr>
+      <td width="33      <td width="33      <td width="33     </tr>
+    </tbody>
+   </table>
+   <p><span style="font-size: 10px;"> ---------------------------------------------------------------------------------------------------</span></p>
+  </div>
+  <!-- END DEAL -->
+  <div style="font-family: Arial, Helvetica, sans-serif; width: 500px;"> Connect with us on:<br /><span style="font: Arial, Helvetica, sans-serif;"><a href="https://www.facebook.com/www.Cruise.co?fref=ts/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><strong>FACEBOOK </strong></a> - - <a href="https://twitter.com/Cruisedotco/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><strong>TWITTER</strong></a> - - <a href="https://plus.google.com/u/0/b/113732859109750622157/113732859109750622157/posts"><strong>GOOGLE+</strong></a> - - <a href="http://instagram.com/cruisedotco/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><strong>INSTAGRAM</strong></a> - - <a href="http://www.youtube.com/channel/UCr_5wS_hhTvUR0cd_tKn47g/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><strong>YOUTUBE</strong></a> - - <a href="http:/
+ /www.pinterest.com/cruiseco/boards/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net"><strong>PINTEREST</strong></a></span></div>
+  <div style="font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-align: center; width: 500px;">
+   <p style="font-size: 8px;">*Port Parking and Executive Airport Lounge passes are available on balcony cabins and above</p>
+   <br /><span style="font-size: 20px;"><a href="http://www.cruise.co.uk/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" style="font-size: 24px; font-weight: bold;" target="_blank">Click here for more <br /> Cruise Deals!</a></span><br />
+   <br /><span style="font-size: 12px;"><a href="http://www.cruise.co.uk/cruise-reviews/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Cruise Reviews</a> - <a href="http://www.cruise.co.uk/cruise-answers/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Cruise Answers</a> - <a href="http://www.cruise.co.uk/cruise-photos/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Cruise Photos</a> - <a href="http://www.cruise.co.uk/cruise-videos/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">Cruise Videos</a></span><br />
+   <br /> Join the forum discussions at <a href="http://www.cruises.co.uk/?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" target="_blank">www.cruises.co.uk</a> - To unsubscribe <a href="http://www.cruise.co.uk/unsubscribe.php?id=3734631&amp;match=20-Apr-2014 22:07&amp;eblastid=3071">click here</a><p><span class="style8 style8"><span style="color: #000000;">Company Reg No. 01827977. VAT Reg No. 916 23</span>76 24 <br /> Registered Office: Grosvenor House, Prospect Hill, Redditch B97 4DL</span><br />
+    <br />
+   </p>
+  </div>
+ </body>
+</html>
+<img src="http://www.cruise.co.uk/pixel.gif?utm_campaign=HALFP070115&utm_medium=email&utm_source=HALFP070115&email=Sugarspice@fs.net" >
+
+------id:boundary.cruise.co.uk/eblast3071/--
+

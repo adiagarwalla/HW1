@@ -1,0 +1,633 @@
+From @..  Wed Jan  7 08:35:43 2015
+Return-Path: <@..>
+X-Original-To: emma.preston@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 56724DF; Wed,  7 Jan 2015 08:35:43 +0000 (UTC)
+Received: from mta741.mail.dorothyperkins.com (mta741.mail.dorothyperkins.com [38.107.100.145])
+    by .. with SMTP id 4ux7yjyynu2u5hbw24czjnzzye;
+    for emma.preston@fs.net;
+    Wed, 07 Jan 2015 08:35:43 +0000 (UTC)
+    (envelope-from dorothyperkins@mail.dorothyperkins.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=38.107.100.145;
+    envelope-from=<dorothyperkins@mail.dorothyperkins.com>;
+    helo=mta741.mail.dorothyperkins.com; mechanism=ip4:38.107.100.144/31
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=38.107.100.145; client-port=34853;
+    syn-fingerprint=14600:52:1:44:M1380; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.138 154.54.10.61
+    154.54.0.161 154.54.29.18 154.54.5.66 154.54.28.146 154.24.34.230;
+    network-path-time=1420619743
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=0; d=mail.dorothyperkins.com;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type; i=dorothyperkins@mail.dorothyperkins.com;
+ bh=siSPvxNVwRoXfkSjE6f3tjYRRNo=;
+ b=UDMRVcFYh/EN3fZPkEo18B5GdMUnoPwLnhsGgCQu8zwYqr8ob0f5fEeJPagcnpBGcBc7YguFXqG6
+   vX1iuPLuQg2gthGgJsQwV5NeXNX+XdCCMJfCzXr/Q/k4IuICahHZ4S04X3UdXCf92edTQQTHeIw3
+   TSuOlVqMnE0WQ1g5o1U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=0; d=mail.dorothyperkins.com;
+ b=c+5GcFjoPXIC7+jSkwQFmcgkfaf2nVUxCBHRqH3NyfSt0plsA7BJvfJ77TQgLuH5b9yBoSAE6Jsv
+   lIF04xkc/0f4ch4fWDgSloj8xNHt7kF5zAr5bdADR92BV6iyMDNkxSgKTlGphKx54t8NF8Tg7EJ2
+   mFY2paM5YtGwn+hhFCk=;
+Received: from la3pmer05 (10.24.24.85) by mta741.mail.dorothyperkins.com id hljntu1rhe06 for <emma.preston@fs.net>; Wed, 7 Jan 2015 03:35:41 -0500 (envelope-from <dorothyperkins@mail.dorothyperkins.com>)
+Errors-to: @..
+Message-ID: <100136.1000690324.201501070835413434084.0000000000@mail.dorothyperkins.com>
+List-Unsubscribe: <mailto:unsubscribe-d86f42653c6efb0f2e3d069912f67bce@mail.dorothyperkins.com?subject=Unsubscribe>
+X-Mailer: XyzMailer
+X-Xyz-cr: 100136
+X-Xyz-cn: 41996
+X-Xyz-bcn: 41896
+X-Xyz-md: 100
+X-Xyz-mg: 1000690324
+X-Xyz-et: 100
+X-Xyz-pk: 16063064
+X-Xyz-ct: 69766
+X-Xyz-bct: 69593
+MIME-Version: 1.0
+From: "Dorothy Perkins " <@..>
+To: "Emma Preston" <@..>
+Date: 7 Jan 2015 08:35:41 +0000
+Subject: Psssst .... 50Content-Type: multipart/alternative;
+ boundary=--boundary_143250418_5b547c08-3811-44f0-bb25-385a86d6881f
+
+
+----boundary_143250418_5b547c08-3811-44f0-bb25-385a86d6881f
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+To ensure you receive our Dorothy Perkins emails, please add feed=
+back@mail.dorothyperkins.com to your address book now. =0A=0AIf y=
+ou are having trouble viewing this email, please click below:=0Ah=
+ttp://x.mail.dorothyperkins.com/ats/msg.aspx?sg1=3Dd86f42653c6efb=
+0f2e3d069912f67bce=0A=0A=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=0A=0ARead now >=0Ahttp://x.mail.dorothyperkins.com/ats/msg=
+.aspx?sg1=3Dd86f42653c6efb0f2e3d069912f67bce=0A=0A=0AThe Dorothy =
+Perkins Team=0Ahttp://l.mail.dorothyperkins.com/rts/go2.aspx?t=3D=
+665686&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-=
+H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG=0A=0A=0A=0A=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=0A=0A>>> SHARE THIS WITH =
+YOUR FRIENDS <<<=0AWe won't share their details or sign them up t=
+o the weekly newsletter. =0Ahttp://l.mail.dorothyperkins.com/rts/=
+go2.aspx?t=3D665687&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-=
+2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG=0A=0A=0A=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=0A=0A=0AIf you w=
+ant to unsubscribe just click on the following link:=0Ahttp://x.m=
+ail.dorothyperkins.com/ats/show.aspx?cr=3D100136&fm=3D121&tp=3Di-=
+H55-Q36-AvM-15inGW-1c-15Ojg-1c-I9H-15hHkg-2K5qID=0A =0A =0A=0A=0A=
+Arcadia Group Brands Limited (Co No: 1016191) trading as Dorothy =
+Perkins is a company incorporated in England and Wales.=0AIts reg=
+istered office is at Colegrave House, 70 Berners Street, London W=
+1T 3NL=0A=0A
+----boundary_143250418_5b547c08-3811-44f0-bb25-385a86d6881f
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A=0A<ht=
+ml xmlns=3D"http://www.w3.org/1999/xhtml">=0A  <head>=0A    <titl=
+e></title>=0A    <meta http-equiv=3D"content-type" content=3D"tex=
+t/html; charset=3D iso-8859-1" />=0A  </head><!-- Subject: UK -->=
+=0A  <!--email-0000016852 .page: v524 - 0 published: 2015-01-06 1=
+6:18:21.000135 -->=0A=0A  <body bgcolor=3D"#ffffff" style=3D"padd=
+ing: 0; margin: 0;"><img src=3D"http://l.mail.dorothyperkins.com/=
+rts/open.aspx?tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG=
+" height=3D"1" width=3D"1" style=3D"display:none">=0A    <a name=3D=
+"top" id=3D"top"></a> =0A=0A    <table width=3D"100" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color: =
+#ffffff;">=0A      <tr>=0A        <td align=3D"center">=0A       =
+   <table width=3D"700" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A            <!-- =
+Start of content from zone Subject/Header -->=0A=0A            <t=
+r>=0A              <td>=0A                <table width=3D"700" bo=
+rder=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+gcolor=3D"#ffffff">=0A                  <tr>=0A                  =
+  <!-- Start of content from zone Subject/Header, component 1 -->=
+=0A=0A                    <td align=3D"centre" style=3D" backgrou=
+nd: #ffffff; -webkit-text-size-adjust: none;">=0A                =
+      <p style=3D"text-align: center; padding-left: 30px;"><span =
+style=3D"font-family: arial, helvetica, sans-serif;"><span style=3D=
+"font-size: xx-small;">Plus Free Delivery when you spend over &po=
+und;50 | Shop Now<br />=0A                      </span></span><sp=
+an style=3D"font-size: x-small; font-family: arial, helvetica, sa=
+ns-serif;">Please</span> <a style=3D"font-size: x-small; font-fam=
+ily: arial, helvetica, sans-serif;" href=3D"http://x.mail.dorothy=
+perkins.com/ats/msg.aspx?sg1=3Dd86f42653c6efb0f2e3d069912f67bce">=
+click here</a> <span style=3D"font-size: x-small; font-family: ar=
+ial, helvetica, sans-serif;">to view this email online.</span></p=
+>=0A                    </td><!-- End of content from zone Subjec=
+t/Header, component 1 -->=0A                  </tr>=0A           =
+     </table>=0A              </td>=0A            </tr><!-- End o=
+f content from zone Subject/Header -->=0A            <!-- Start o=
+f content from zone Section 2 -->=0A=0A            <tr>=0A       =
+       <td>=0A                <table width=3D"700" border=3D"0" a=
+lign=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#f=
+fffff">=0A                  <tr>=0A                    <!-- Start=
+ of content from zone Section 2, component 1 -->=0A=0A           =
+         <td align=3D"center" width=3D"700" height=3D"73"><a href=
+=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665688&tp=3D=
+i-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-=
+15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Dorothy Perkins" style=
+=3D"display: block;"><img src=3D"http://media.dorothyperkins.com/=
+wcsstore/ConsumerDirectStorefrontAssetStore/images/colors/color3/=
+cms/pages/email/email-0000016852/images/EU_nl_top_nav_wk38_1.jpg"=
+ width=3D"700" height=3D"73" alt=3D"Dorothy Perkins" style=3D"dis=
+play:block" border=3D"0" /></a></td>=0A                    <!-- E=
+nd of content from zone Section 2, component 1 -->=0A            =
+      </tr>=0A                </table>=0A              </td>=0A  =
+          </tr><!-- End of content from zone Section 2 -->=0A    =
+        <!-- Start of content from zone Section 3 -->=0A=0A      =
+      <tr>=0A              <td>=0A                <table width=3D=
+"700" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" bgcolor=3D"#ffffff">=0A                  <tr>=0A          =
+          <!-- Start of content from zone Section 3, component 1 =
+-->=0A=0A                    <td align=3D"center" width=3D"117" h=
+eight=3D"36"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2.=
+aspx?h=3D665689&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7o=
+OG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"W=
+hat's New" style=3D"display: block;"><img src=3D"http://media.dor=
+othyperkins.com/wcsstore/ConsumerDirectStorefrontAssetStore/image=
+s/colors/color3/cms/pages/email/email-0000016852/images/UK-nl-nav=
+-wk25-1.jpg" width=3D"117" height=3D"36" alt=3D"What's New" style=
+=3D"display:block" border=3D"0" /></a></td>=0A                   =
+ <!-- End of content from zone Section 3, component 1 -->=0A     =
+               <!-- Start of content from zone Section 3, compone=
+nt 2 -->=0A=0A                    <td align=3D"center" width=3D"1=
+16" height=3D"36"><a href=3D"http://l.mail.dorothyperkins.com/rts=
+/go2.aspx?h=3D665690&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=
+=3D"Clothing" style=3D"display: block;"><img src=3D"http://media.=
+dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetStore/im=
+ages/colors/color3/cms/pages/email/email-0000016852/images/UK-nl-=
+nav-wk25-2.jpg" width=3D"116" height=3D"36" alt=3D"Clothing" styl=
+e=3D"display:block" border=3D"0" /></a></td>=0A                  =
+  <!-- End of content from zone Section 3, component 2 -->=0A    =
+                <!-- Start of content from zone Section 3, compon=
+ent 3 -->=0A=0A                    <td align=3D"center" width=3D"=
+117" height=3D"36"><a href=3D"http://l.mail.dorothyperkins.com/rt=
+s/go2.aspx?h=3D665691&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHk=
+g-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" titl=
+e=3D"Dresses" style=3D"display: block;"><img src=3D"http://media.=
+dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetStore/im=
+ages/colors/color3/cms/pages/email/email-0000016852/images/UK-nl-=
+nav-wk25-3.jpg" width=3D"117" height=3D"36" alt=3D"Dresses" style=
+=3D"display:block" border=3D"0" /></a></td>=0A                   =
+ <!-- End of content from zone Section 3, component 3 -->=0A     =
+               <!-- Start of content from zone Section 3, compone=
+nt 4 -->=0A=0A                    <td align=3D"center" width=3D"1=
+17" height=3D"36"><a href=3D"http://l.mail.dorothyperkins.com/rts=
+/go2.aspx?h=3D665692&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=
+=3D"Shoes & Boots" style=3D"display: block;"><img src=3D"http://m=
+edia.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetSto=
+re/images/colors/color3/cms/pages/email/email-0000016852/images/U=
+K-nl-nav-wk25-4.jpg" width=3D"117" height=3D"36" alt=3D"Shoes & B=
+oots" style=3D"display:block" border=3D"0" /></a></td>=0A        =
+            <!-- End of content from zone Section 3, component 4 =
+-->=0A                    <!-- Start of content from zone Section=
+ 3, component 5 -->=0A=0A                    <td align=3D"center"=
+ width=3D"116" height=3D"36"><a href=3D"http://l.mail.dorothyperk=
+ins.com/rts/go2.aspx?h=3D665693&tp=3Di-H43-Q36-AvM-15inGW-1c-15Oj=
+g-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L=
+7oOG" title=3D"Accessories" style=3D"display: block;"><img src=3D=
+"http://media.dorothyperkins.com/wcsstore/ConsumerDirectStorefron=
+tAssetStore/images/colors/color3/cms/pages/email/email-0000016852=
+/images/UK-nl-nav-wk25-5.jpg" width=3D"116" height=3D"36" alt=3D"=
+Accessories" style=3D"display:block" border=3D"0" /></a></td>=0A =
+                   <!-- End of content from zone Section 3, compo=
+nent 5 -->=0A                    <!-- Start of content from zone =
+Section 3, component 6 -->=0A=0A                    <td align=3D"=
+center" width=3D"117" height=3D"36"><a href=3D"http://l.mail.doro=
+thyperkins.com/rts/go2.aspx?h=3D665694&tp=3Di-H43-Q36-AvM-15inGW-=
+1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15=
+hHkg-2L7oOG" title=3D"Sale and Offers " style=3D"display: block;"=
+><img src=3D"http://media.dorothyperkins.com/wcsstore/ConsumerDir=
+ectStorefrontAssetStore/images/colors/color3/cms/pages/email/emai=
+l-0000016852/images/UK-nl-nav-wk25-6re.jpg" width=3D"117" height=3D=
+"36" alt=3D"Sale and Offers " style=3D"display:block" border=3D"0=
+" /></a></td>=0A                    <!-- End of content from zone=
+ Section 3, component 6 -->=0A                  </tr>=0A         =
+       </table>=0A              </td>=0A            </tr><!-- End=
+ of content from zone Section 3 -->=0A            <!-- Start of c=
+ontent from zone Section 5 -->=0A=0A            <tr>=0A          =
+    <td>=0A                <table width=3D"700" border=3D"0" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffff=
+ff">=0A                  <tr>=0A                    <!-- Start of=
+ content from zone Section 5, component 1 -->=0A=0A              =
+      <td align=3D"center" width=3D"700" height=3D"306"><a href=3D=
+"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665695&tp=3Di-=
+H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15=
+inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Sale &gt; All sale items=
+ half price or less" style=3D"display: block;"><img src=3D"http:/=
+/media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetS=
+tore/images/colors/color3/cms/pages/email/email-0000016852/images=
+/UK-NL-2015.01.07-WK19-WEDS-1.jpg" width=3D"700" height=3D"306" a=
+lt=3D"Sale &gt; All sale items half price or less" style=3D"displ=
+ay:block" border=3D"0" /></a></td>=0A                    <!-- End=
+ of content from zone Section 5, component 1 -->=0A              =
+    </tr>=0A                </table>=0A              </td>=0A    =
+        </tr><!-- End of content from zone Section 5 -->=0A      =
+      <!-- Start of content from zone Section 7 -->=0A=0A        =
+    <tr>=0A              <td>=0A                <table width=3D"7=
+00" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0" bgcolor=3D"#ffffff">=0A                  <tr>=0A             =
+       <!-- Start of content from zone Section 7, component 1 -->=
+=0A=0A                    <td align=3D"center" width=3D"233" heig=
+ht=3D"408"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2.as=
+px?h=3D665696&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG=
+&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Blu=
+sh Double Breasted Coat" style=3D"display: block;"><img src=3D"ht=
+tp://media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAs=
+setStore/images/colors/color3/cms/pages/email/email-0000016852/im=
+ages/UK-NL-2015.01.07-WK19-WEDS-2.jpg" width=3D"233" height=3D"40=
+8" alt=3D"Blush Double Breasted Coat" style=3D"display:block" bor=
+der=3D"0" /></a></td>=0A                    <!-- End of content f=
+rom zone Section 7, component 1 -->=0A                    <!-- St=
+art of content from zone Section 7, component 2 -->=0A=0A        =
+            <td align=3D"center" width=3D"234" height=3D"408"><a =
+href=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665697&=
+tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36=
+-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Ultimate Faux Lea=
+ther Biker Jacket" style=3D"display: block;"><img src=3D"http://m=
+edia.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetSto=
+re/images/colors/color3/cms/pages/email/email-0000016852/images/U=
+K-NL-2015.01.07-WK19-WEDS-3.jpg" width=3D"234" height=3D"408" alt=
+=3D"Ultimate Faux Leather Biker Jacket" style=3D"display:block" b=
+order=3D"0" /></a></td>=0A                    <!-- End of content=
+ from zone Section 7, component 2 -->=0A                    <!-- =
+Start of content from zone Section 7, component 3 -->=0A=0A      =
+              <td align=3D"center" width=3D"233" height=3D"408"><=
+a href=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D66569=
+8&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q=
+36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Khaki Faur Fur =
+Hood Parka Jacket" style=3D"display: block;"><img src=3D"http://m=
+edia.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetSto=
+re/images/colors/color3/cms/pages/email/email-0000016852/images/U=
+K-NL-2015.01.07-WK19-WEDS-4.jpg" width=3D"233" height=3D"408" alt=
+=3D"Khaki Faur Fur Hood Parka Jacket" style=3D"display:block" bor=
+der=3D"0" /></a></td>=0A                    <!-- End of content f=
+rom zone Section 7, component 3 -->=0A                  </tr>=0A =
+               </table>=0A              </td>=0A            </tr>=
+<!-- End of content from zone Section 7 -->=0A            <!-- St=
+art of content from zone Section 8 -->=0A=0A            <tr>=0A  =
+            <td>=0A                <table width=3D"700" border=3D=
+"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#ffffff">=0A                  <tr>=0A                    <!-- St=
+art of content from zone Section 8, component 1 -->=0A=0A        =
+            <td align=3D"center" width=3D"700" height=3D"53"><a h=
+ref=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665699&t=
+p=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-=
+AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"View All Sale &gt;=
+ Coats & Jackets " style=3D"display: block;"><img src=3D"http://m=
+edia.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetSto=
+re/images/colors/color3/cms/pages/email/email-0000016852/images/U=
+K-NL-2015.01.07-WK19-WEDS-5-v2.jpg" width=3D"700" height=3D"53" a=
+lt=3D"View All Sale &gt; Coats & Jackets " style=3D"display:block=
+" border=3D"0" /></a></td>=0A                    <!-- End of cont=
+ent from zone Section 8, component 1 -->=0A                  </tr=
+>=0A                </table>=0A              </td>=0A            =
+</tr><!-- End of content from zone Section 8 -->=0A            <!=
+-- Start of content from zone Section 9 -->=0A=0A            <tr>=
+=0A              <td>=0A                <table width=3D"700" bord=
+er=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgc=
+olor=3D"#ffffff">=0A                  <tr>=0A                    =
+<!-- Start of content from zone Section 9, component 1 -->=0A=0A =
+                   <td align=3D"center" width=3D"700" height=3D"4=
+7"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D6=
+65700&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H=
+43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"View All Sa=
+le &gt; Shoes & Boots " style=3D"display: block;"><img src=3D"htt=
+p://media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAss=
+etStore/images/colors/color3/cms/pages/email/email-0000016852/ima=
+ges/UK-NL-2015.01.07-WK19-WEDS-6-v3.jpg" width=3D"700" height=3D"=
+47" alt=3D"View All Sale &gt; Shoes & Boots " style=3D"display:bl=
+ock" border=3D"0" /></a></td>=0A                    <!-- End of c=
+ontent from zone Section 9, component 1 -->=0A                  <=
+/tr>=0A                </table>=0A              </td>=0A         =
+   </tr><!-- End of content from zone Section 9 -->=0A           =
+ <!-- Start of content from zone Section 10 -->=0A=0A            =
+<tr>=0A              <td>=0A                <table width=3D"700" =
+border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"=
+ bgcolor=3D"#ffffff">=0A                  <tr>=0A                =
+    <!-- Start of content from zone Section 10, component 1 -->=0A=
+=0A                    <td align=3D"center" width=3D"233" height=3D=
+"356"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D=
+665701&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-=
+H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Violet Mid=
+ Pointed Court Shoes" style=3D"display: block;"><img src=3D"http:=
+//media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAsset=
+Store/images/colors/color3/cms/pages/email/email-0000016852/image=
+s/UK-NL-2015.01.07-WK19-WEDS-7-v2.jpg" width=3D"233" height=3D"35=
+6" alt=3D"Violet Mid Pointed Court Shoes" style=3D"display:block"=
+ border=3D"0" /></a></td>=0A                    <!-- End of conte=
+nt from zone Section 10, component 1 -->=0A                    <!=
+-- Start of content from zone Section 10, component 2 -->=0A=0A  =
+                  <td align=3D"center" width=3D"234" height=3D"35=
+6"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D6=
+65702&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H=
+43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Black Knee-=
+High Boots" style=3D"display: block;"><img src=3D"http://media.do=
+rothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetStore/imag=
+es/colors/color3/cms/pages/email/email-0000016852/images/UK-NL-20=
+15.01.07-WK19-WEDS-8-v2.jpg" width=3D"234" height=3D"356" alt=3D"=
+Black Knee-High Boots" style=3D"display:block" border=3D"0" /></a=
+></td>=0A                    <!-- End of content from zone Sectio=
+n 10, component 2 -->=0A                    <!-- Start of content=
+ from zone Section 10, component 3 -->=0A=0A                    <=
+td align=3D"center" width=3D"233" height=3D"356"><a href=3D"http:=
+//l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665703&tp=3Di-H43-Q3=
+6-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1=
+c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Black Point Zip Boots" style=3D=
+"display: block;"><img src=3D"http://media.dorothyperkins.com/wcs=
+store/ConsumerDirectStorefrontAssetStore/images/colors/color3/cms=
+/pages/email/email-0000016852/images/UK-NL-2015.01.07-WK19-WEDS-9=
+-v2.jpg" width=3D"233" height=3D"356" alt=3D"Black Point Zip Boot=
+s" style=3D"display:block" border=3D"0" /></a></td>=0A           =
+         <!-- End of content from zone Section 10, component 3 --=
+>=0A                  </tr>=0A                </table>=0A        =
+      </td>=0A            </tr><!-- End of content from zone Sect=
+ion 10 -->=0A            <!-- Start of content from zone Section =
+11 -->=0A=0A            <tr>=0A              <td>=0A             =
+   <table width=3D"700" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A                 =
+ <tr>=0A                    <!-- Start of content from zone Secti=
+on 11, component 1 -->=0A=0A                    <td align=3D"cent=
+er" width=3D"700" height=3D"46"><a href=3D"http://l.mail.dorothyp=
+erkins.com/rts/go2.aspx?h=3D665700&tp=3Di-H43-Q36-AvM-15inGW-1c-1=
+5Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG" title=3D"View All Sale &gt; Shoes & Boots" style=3D"disp=
+lay: block;"><img src=3D"http://media.dorothyperkins.com/wcsstore=
+/ConsumerDirectStorefrontAssetStore/images/colors/color3/cms/page=
+s/email/email-0000016852/images/UK-NL-2015.01.07-WK19-WEDS-10-v3.=
+jpg" width=3D"700" height=3D"46" alt=3D"View All Sale &gt; Shoes =
+& Boots" style=3D"display:block" border=3D"0" /></a></td>=0A     =
+               <!-- End of content from zone Section 11, componen=
+t 1 -->=0A                  </tr>=0A                </table>=0A  =
+            </td>=0A            </tr><!-- End of content from zon=
+e Section 11 -->=0A            <!-- Start of content from zone Se=
+ction 12 -->=0A=0A            <tr>=0A              <td>=0A       =
+         <table width=3D"700" border=3D"0" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A           =
+       <tr>=0A                    <!-- Start of content from zone=
+ Section 12, component 1 -->=0A=0A                    <td align=3D=
+"center" width=3D"700" height=3D"53"><a href=3D"http://l.mail.dor=
+othyperkins.com/rts/go2.aspx?h=3D665704&tp=3Di-H43-Q36-AvM-15inGW=
+-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-1=
+5hHkg-2L7oOG" title=3D"View All Sale &gt; Dresses " style=3D"disp=
+lay: block;"><img src=3D"http://media.dorothyperkins.com/wcsstore=
+/ConsumerDirectStorefrontAssetStore/images/colors/color3/cms/page=
+s/email/email-0000016852/images/UK-NL-2015.01.07-WK19-WEDS-11-v2.=
+jpg" width=3D"700" height=3D"53" alt=3D"View All Sale &gt; Dresse=
+s " style=3D"display:block" border=3D"0" /></a></td>=0A          =
+          <!-- End of content from zone Section 12, component 1 -=
+->=0A                  </tr>=0A                </table>=0A       =
+       </td>=0A            </tr><!-- End of content from zone Sec=
+tion 12 -->=0A            <!-- Start of content from zone Section=
+ 14 -->=0A=0A            <tr>=0A              <td>=0A            =
+    <table width=3D"700" border=3D"0" align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A                =
+  <tr>=0A                    <!-- Start of content from zone Sect=
+ion 14, component 1 -->=0A=0A                    <td align=3D"cen=
+ter" width=3D"233" height=3D"402"><a href=3D"http://l.mail.doroth=
+yperkins.com/rts/go2.aspx?h=3D665705&tp=3Di-H43-Q36-AvM-15inGW-1c=
+-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hH=
+kg-2L7oOG" title=3D"Red Rose Jacquard Dress" style=3D"display: bl=
+ock;"><img src=3D"http://media.dorothyperkins.com/wcsstore/Consum=
+erDirectStorefrontAssetStore/images/colors/color3/cms/pages/email=
+/email-0000016852/images/UK-NL-2015.01.07-WK19-WEDS-12-v2.jpg" wi=
+dth=3D"233" height=3D"402" alt=3D"Red Rose Jacquard Dress" style=3D=
+"display:block" border=3D"0" /></a></td>=0A                    <!=
+-- End of content from zone Section 14, component 1 -->=0A       =
+             <!-- Start of content from zone Section 14, componen=
+t 2 -->=0A=0A                    <td align=3D"center" width=3D"23=
+4" height=3D"402"><a href=3D"http://l.mail.dorothyperkins.com/rts=
+/go2.aspx?h=3D665706&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=
+=3D"Lola Skye Lime Jacquard Skater" style=3D"display: block;"><im=
+g src=3D"http://media.dorothyperkins.com/wcsstore/ConsumerDirectS=
+torefrontAssetStore/images/colors/color3/cms/pages/email/email-00=
+00016852/images/UK-NL-2015.01.07-WK19-WEDS-13-v2.jpg" width=3D"23=
+4" height=3D"402" alt=3D"Lola Skye Lime Jacquard Skater" style=3D=
+"display:block" border=3D"0" /></a></td>=0A                    <!=
+-- End of content from zone Section 14, component 2 -->=0A       =
+             <!-- Start of content from zone Section 14, componen=
+t 3 -->=0A=0A                    <td align=3D"center" width=3D"23=
+3" height=3D"402"><a href=3D"http://l.mail.dorothyperkins.com/rts=
+/go2.aspx?h=3D665707&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=
+=3D"Billie & Blossom Purple Floral Button Dress" style=3D"display=
+: block;"><img src=3D"http://media.dorothyperkins.com/wcsstore/Co=
+nsumerDirectStorefrontAssetStore/images/colors/color3/cms/pages/e=
+mail/email-0000016852/images/UK-NL-2015.01.07-WK19-WEDS-14-v2.jpg=
+" width=3D"233" height=3D"402" alt=3D"Billie & Blossom Purple Flo=
+ral Button Dress" style=3D"display:block" border=3D"0" /></a></td=
+>=0A                    <!-- End of content from zone Section 14,=
+ component 3 -->=0A                  </tr>=0A                </ta=
+ble>=0A              </td>=0A            </tr><!-- End of content=
+ from zone Section 14 -->=0A            <!-- Start of content fro=
+m zone Section 15 -->=0A=0A            <tr>=0A              <td>=0A=
+                <table width=3D"700" border=3D"0" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A    =
+              <tr>=0A                    <!-- Start of content fr=
+om zone Section 15, component 1 -->=0A=0A                    <td =
+align=3D"center" width=3D"700" height=3D"38"><a href=3D"http://l.=
+mail.dorothyperkins.com/rts/go2.aspx?h=3D665704&tp=3Di-H43-Q36-Av=
+M-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15=
+Ojg-1c-15hHkg-2L7oOG" title=3D"View All Sale &gt; Dresses " style=
+=3D"display: block;"><img src=3D"http://media.dorothyperkins.com/=
+wcsstore/ConsumerDirectStorefrontAssetStore/images/colors/color3/=
+cms/pages/email/email-0000016852/images/UK-NL-2015.01.07-WK19-WED=
+S-15-v2.jpg" width=3D"700" height=3D"38" alt=3D"View All Sale &gt=
+; Dresses " style=3D"display:block" border=3D"0" /></a></td>=0A  =
+                  <!-- End of content from zone Section 15, compo=
+nent 1 -->=0A                  </tr>=0A                </table>=0A=
+              </td>=0A            </tr><!-- End of content from z=
+one Section 15 -->=0A            <!-- Start of content from zone =
+Section 16 -->=0A=0A            <tr>=0A              <td>=0A     =
+           <table width=3D"700" border=3D"0" align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">=0A         =
+         <tr>=0A                    <!-- Start of content from zo=
+ne Section 16, component 1 -->=0A=0A                    <td align=
+=3D"center" width=3D"700" height=3D"27"><a href=3D"http://l.mail.=
+dorothyperkins.com/rts/go2.aspx?h=3D665708&tp=3Di-H43-Q36-AvM-15i=
+nGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1=
+c-15hHkg-2L7oOG" title=3D"T&Cs" style=3D"display: block;"><img sr=
+c=3D"http://media.dorothyperkins.com/wcsstore/ConsumerDirectStore=
+frontAssetStore/images/colors/color3/cms/pages/email/email-000001=
+6852/images/UK-NL-2015.01.07-WK19-WEDS-16-v2.jpg" width=3D"700" h=
+eight=3D"27" alt=3D"T&Cs" style=3D"display:block" border=3D"0" />=
+</a></td>=0A                    <!-- End of content from zone Sec=
+tion 16, component 1 -->=0A                  </tr>=0A            =
+    </table>=0A              </td>=0A            </tr><!-- End of=
+ content from zone Section 16 -->=0A            <!-- Start of con=
+tent from zone Section 36 -->=0A=0A            <tr>=0A           =
+   <td>=0A                <table width=3D"700" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#fffff=
+f">=0A                  <tr>=0A                    <!-- Start of =
+content from zone Section 36, component 1 -->=0A=0A              =
+      <td align=3D"center" width=3D"225" height=3D"80"><a href=3D=
+"http://l.mail.dorothyperkins.com/rts/go2.aspx?h=3D665709&tp=3Di-=
+H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15=
+inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"Click and Collect " styl=
+e=3D"display: block;"><img src=3D"http://media.dorothyperkins.com=
+/wcsstore/ConsumerDirectStorefrontAssetStore/images/colors/color3=
+/cms/pages/email/email-0000016852/images/UK_nl_footer_wk1_1.jpg" =
+width=3D"225" height=3D"80" alt=3D"Click and Collect " style=3D"d=
+isplay:block" border=3D"0" /></a></td>=0A                    <!--=
+ End of content from zone Section 36, component 1 -->=0A         =
+           <!-- Start of content from zone Section 36, component =
+2 -->=0A=0A                    <td align=3D"center" width=3D"32" =
+height=3D"80"><a href=3D"http://l.mail.dorothyperkins.com/rts/go2=
+.aspx?h=3D665710&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7=
+oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" title=3D"=
+Mobile App " style=3D"display: block;"><img src=3D"http://media.d=
+orothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetStore/ima=
+ges/colors/color3/cms/pages/email/email-0000016852/images/UK_nl_f=
+ooter_wk1_2.jpg" width=3D"32" height=3D"80" alt=3D"Mobile App " s=
+tyle=3D"display:block" border=3D"0" /></a></td>=0A               =
+     <!-- End of content from zone Section 36, component 2 -->=0A=
+                    <!-- Start of content from zone Section 36, c=
+omponent 3 -->=0A=0A                    <td align=3D"center" widt=
+h=3D"36" height=3D"80"><a href=3D"http://l.mail.dorothyperkins.co=
+m/rts/go2.aspx?h=3D665711&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-1=
+5hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG" =
+title=3D"Facebook" style=3D"display: block;"><img src=3D"http://m=
+edia.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetSto=
+re/images/colors/color3/cms/pages/email/email-0000016852/images/U=
+K_nl_footer_wk1_3.jpg" width=3D"36" height=3D"80" alt=3D"Facebook=
+" style=3D"display:block" border=3D"0" /></a></td>=0A            =
+        <!-- End of content from zone Section 36, component 3 -->=
+=0A                    <!-- Start of content from zone Section 36=
+, component 4 -->=0A=0A                    <td align=3D"center" w=
+idth=3D"41" height=3D"80"><a href=3D"http://l.mail.dorothyperkins=
+.com/rts/go2.aspx?h=3D665712&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1=
+c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7oO=
+G" title=3D"Twitter" style=3D"display: block;"><img src=3D"http:/=
+/media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAssetS=
+tore/images/colors/color3/cms/pages/email/email-0000016852/images=
+/UK_nl_footer_wk1_4.jpg" width=3D"41" height=3D"80" alt=3D"Twitte=
+r" style=3D"display:block" border=3D"0" /></a></td>=0A           =
+         <!-- End of content from zone Section 36, component 4 --=
+>=0A                    <!-- Start of content from zone Section 3=
+6, component 5 -->=0A=0A                    <td align=3D"center" =
+width=3D"35" height=3D"80"><a href=3D"http://l.mail.dorothyperkin=
+s.com/rts/go2.aspx?h=3D665713&tp=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-=
+1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg-2L7o=
+OG" title=3D"Pinterest" style=3D"display: block;"><img src=3D"htt=
+p://media.dorothyperkins.com/wcsstore/ConsumerDirectStorefrontAss=
+etStore/images/colors/color3/cms/pages/email/email-0000016852/ima=
+ges/UK_nl_footer_wk1_5.jpg" width=3D"35" height=3D"80" alt=3D"Pin=
+terest" style=3D"display:block" border=3D"0" /></a></td>=0A      =
+              <!-- End of content from zone Section 36, component=
+ 5 -->=0A                    <!-- Start of content from zone Sect=
+ion 36, component 6 -->=0A=0A                    <td align=3D"cen=
+ter" width=3D"35" height=3D"80"><a href=3D"http://l.mail.dorothyp=
+erkins.com/rts/go2.aspx?h=3D665714&tp=3Di-H43-Q36-AvM-15inGW-1c-1=
+5Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15hHkg=
+-2L7oOG" title=3D"Instagram" style=3D"display: block;"><img src=3D=
+"http://media.dorothyperkins.com/wcsstore/ConsumerDirectStorefron=
+tAssetStore/images/colors/color3/cms/pages/email/email-0000016852=
+/images/UK_nl_footer_wk1_6.jpg" width=3D"35" height=3D"80" alt=3D=
+"Instagram" style=3D"display:block" border=3D"0" /></a></td>=0A  =
+                  <!-- End of content from zone Section 36, compo=
+nent 6 -->=0A                    <!-- Start of content from zone =
+Section 36, component 7 -->=0A=0A                    <td align=3D=
+"center" width=3D"38" height=3D"80"><a href=3D"http://l.mail.doro=
+thyperkins.com/rts/go2.aspx?h=3D665715&tp=3Di-H43-Q36-AvM-15inGW-=
+1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15=
+hHkg-2L7oOG" title=3D"You Tube" style=3D"display: block;"><img sr=
+c=3D"http://media.dorothyperkins.com/wcsstore/ConsumerDirectStore=
+frontAssetStore/images/colors/color3/cms/pages/email/email-000001=
+6852/images/UK_nl_footer_wk1_7.jpg" width=3D"38" height=3D"80" al=
+t=3D"You Tube" style=3D"display:block" border=3D"0" /></a></td>=0A=
+                    <!-- End of content from zone Section 36, com=
+ponent 7 -->=0A                    <!-- Start of content from zon=
+e Section 36, component 8 -->=0A=0A                    <td align=3D=
+"center" width=3D"33" height=3D"80"><a href=3D"http://l.mail.doro=
+thyperkins.com/rts/go2.aspx?h=3D665716&tp=3Di-H43-Q36-AvM-15inGW-=
+1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-15Ojg-1c-15=
+hHkg-2L7oOG" title=3D"Google Plus" style=3D"display: block;"><img=
+ src=3D"http://media.dorothyperkins.com/wcsstore/ConsumerDirectSt=
+orefrontAssetStore/images/colors/color3/cms/pages/email/email-000=
+0016852/images/UK_nl_footer_wk1_8.jpg" width=3D"33" height=3D"80"=
+ alt=3D"Google Plus" style=3D"display:block" border=3D"0" /></a><=
+/td>=0A                    <!-- End of content from zone Section =
+36, component 8 -->=0A                    <!-- Start of content f=
+rom zone Section 36, component 9 -->=0A=0A                    <td=
+ align=3D"center" width=3D"225" height=3D"80"><a href=3D"http://l=
+.mail.dorothyperkins.com/rts/go2.aspx?h=3D665717&tp=3Di-H43-Q36-A=
+vM-15inGW-1c-15Ojg-1c-15hHkg-2L7oOG&x=3Di-H43-Q36-AvM-15inGW-1c-1=
+5Ojg-1c-15hHkg-2L7oOG" title=3D"Style HQ" style=3D"display: block=
+;"><img src=3D"http://media.dorothyperkins.com/wcsstore/ConsumerD=
+irectStorefrontAssetStore/images/colors/color3/cms/pages/email/em=
+ail-0000016852/images/UK_nl_footer_wk1_9.jpg" width=3D"225" heigh=
+t=3D"80" alt=3D"Style HQ" style=3D"display:block" border=3D"0" />=
+</a></td>=0A                    <!-- End of content from zone Sec=
+tion 36, component 9 -->=0A                  </tr>=0A            =
+    </table>=0A              </td>=0A            </tr><!-- End of=
+ content from zone Section 36 -->=0A            <!-- Start of con=
+tent from zone Section 38 -->=0A=0A            <tr>=0A           =
+   <td>=0A                <table width=3D"700" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#fffff=
+f">=0A                  <tr>=0A                    <!-- Start of =
+content from zone Section 38, component 1 -->=0A=0A              =
+      <td align=3D"center">=0A                    </td><!-- End o=
+f content from zone Section 38, component 1 -->=0A               =
+   </tr>=0A                </table>=0A              </td>=0A     =
+       </tr><!-- End of content from zone Section 38 -->=0A      =
+      <!-- Start of content from zone Footer -->=0A=0A           =
+ <tr>=0A              <td>=0A                <table width=3D"700"=
+ border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+" bgcolor=3D"#ffffff">=0A                  <tr>=0A               =
+     <!-- Start of content from zone Footer, component 1 -->=0A=0A=
+                    <td align=3D"center" style=3D" background: #f=
+fffff; -webkit-text-size-adjust: none;">=0A                      =
+<p style=3D"text-align: center;"><span style=3D"font-size: 9px; f=
+ont-family: Arial, Helvetica, sans-serif;">All sale items half pr=
+ice or less. 60ly. 70imited time only. Excludes shipping charges. All product featured=
+ will be available to purchase subject to stock availability. Fre=
+e standard delivery automatically applied at checkout when spendi=
+ng &pound;50 or more in one transaction.</span></p>=0A=0A        =
+              <p style=3D"text-align: center;"><span style=3D"fon=
+t-family: Arial, Helvetica, sans-serif; font-size: 9px;">To unsub=
+scribe, just click on the following link:&nbsp;</span><a style=3D=
+"font-family: mceinline;" href=3D"http://x.mail.dorothyperkins.co=
+m/ats/show.aspx?cr=3D100136&fm=3D121&tp=3Di-H55-Q36-AvM-15inGW-1c=
+-15Ojg-1c-I9H-15hHkg-2K5qID">UNSUBSCRIBE</a><span style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 9px;">&nbsp;&nbsp=
+;</span></p>=0A=0A                      <p style=3D"text-align: c=
+enter;"><span style=3D"font-family: Arial, Helvetica, sans-serif;=
+ font-size: 9px;">Arcadia Group Brands Limited (Co No: 1016191) t=
+rading as Dorothy Perkins is a company incorporated in England an=
+d Wales.<br />=0A                      Its registered office is a=
+t Colegrave House, 70 Berners Street, London W1T 3NL</span></p>=0A=
+=0A                      <p><span style=3D"font-family: Arial, He=
+lvetica, sans-serif; font-size: 9px;">&nbsp;</span></p>=0A=0A    =
+                  <p><span style=3D"font-size: 9px; font-family: =
+Arial, Helvetica, sans-serif;">&nbsp;</span></p>=0A=0A           =
+           <p>&nbsp;</p>=0A=0A                      <p>&nbsp;</p>=
+=0A=0A                      <p>&nbsp;</p>=0A=0A                  =
+    <p>&nbsp;</p>=0A=0A                      <p>&nbsp;</p>=0A=0A =
+                     <p>&nbsp;</p>=0A=0A                      <p>=
+&nbsp;</p>=0A=0A                      <p>&nbsp;</p>=0A=0A        =
+              <p><span style=3D"font-size: xx-small;"><span style=
+=3D"font-family: arial,helvetica,sans-serif;"><span style=3D"font=
+-size: xx-small;">&nbsp;</span></span></span></p>=0A=0A          =
+            <p>&nbsp;</p>=0A=0A                      <p>&nbsp;</p=
+>=0A                    </td><!-- End of content from zone Footer=
+, component 1 -->=0A                  </tr>=0A                </t=
+able>=0A              </td>=0A            </tr><!-- End of conten=
+t from zone Footer -->=0A          </table>=0A        </td>=0A   =
+   </tr>=0A=0A      <tr>=0A        <td height=3D"100" style=3D"ba=
+ckground-color: #ffffff;">=0A        </td>=0A      </tr>=0A    </=
+table><!--  =0A=0A    Always keep the following paths in:=0A    /=
+files/text_version.txt  =0A    /files/cms_preview_subs.txt=0A    =
+/files/cms_publish_subs.txt=0A=0A    -->=0A    <!--Using Master T=
+emplate: /email/template-0000004395 -->=0A  </body>=0A</html>=0A
+----boundary_143250418_5b547c08-3811-44f0-bb25-385a86d6881f--
+
+

@@ -1,0 +1,736 @@
+From @..  Mon Jan 19 08:29:18 2015
+Return-Path: <@..>
+X-Original-To: reamer@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 8624FDF; Mon, 19 Jan 2015 08:29:18 +0000 (UTC)
+Received: from mta.notification.oovoo.com (mta.notification.oovoo.com [66.231.87.235])
+    by .. with SMTP id zu8z2amgtkm3himrnavj7n7ure;
+    for reamer@fs.net;
+    Mon, 19 Jan 2015 08:29:18 +0000 (UTC)
+    (envelope-from bounce-2446597_HTML-1298377510-18137946-56648-52654@bounce.notification.oovoo.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.231.87.235;
+    envelope-from=<bounce-2446597_HTML-1298377510-18137946-56648-52654@bounce.notification.oovoo.com>;
+    helo=mta.notification.oovoo.com;
+    mechanism=include:cust-spf.exacttarget.com (ip4:66.231.80.0/20 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.231.87.235; client-port=40401;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.20.146 64.125.170.50;
+    network-path-time=1421656158
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=notification.oovoo.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:Message-ID:Content-Type:Content-Transfer-Encoding; i=no-reply@notification.oovoo.com;
+ bh=A2J2dTwbjIuLy3cmjhe9F6Lqhm0=;
+ b=JoLq0swPTYl6/aD38Xrj3RwWjh9JD+eZCwi/4Ut2FrRQzRhTiAUdreL8wjkF3doHLb4Kpu9Ow9Vk
+   5xRNc6/c8q+qKQ/33IOGlsPoSgNag4u8FyC6odA72SKEUBzsKTHS2+o/im9iPOu7gH+GzdEicEQT
+   35J5dVDNTh4BEFn2W/A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=notification.oovoo.com;
+ b=KZdsJ1uoYdyQQdOHrZzXoRBZX3vfeaaIIbUA3q862cDwZyD8SnuyGYZQNArN5z+iqLBoDVLYdPDQ
+   bz5e6McmAbu6usAvingsrvoYMYus2+0q6eIVgy3RC0BKykFSANpNAkpXvsu47jqdHogYo1/uE8Xn
+   +oOZUAkHNkMBBS9bbAc=;
+Received: by mta.notification.oovoo.com id hnj05s163hs5 for <reamer@fs.net>; Mon, 19 Jan 2015 02:29:02 -0600 (envelope-from <bounce-2446597_HTML-1298377510-18137946-56648-52654@bounce.notification.oovoo.com>)
+From: "ooVoo" <@..>
+To: <@..>
+Subject: It Takes Two to ooVoo
+Date: Mon, 19 Jan 2015 02:29:01 -0600
+List-Unsubscribe: <mailto:leave-fc76167471620174727b28313958-fdf415727c6c077a72117175-fe581578746703747112-fef2117673600c-fef91172736100@leave.notification.oovoo.com>
+MIME-Version: 1.0
+Reply-To: "ooVoo" <@..>
+x-job: 56648_18137946
+Message-ID: <74bfc048-6fc3-41dd-bd14-f8bdc86cf7e8@xtinmta1105.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>It Takes Two To ooVoo</title>
+	
+	<style type="text/css">
+		p { margin: 1em 0;} /*Yahoo paragraph fix*/
+		.ExternalClass { width: 600px; }  /*Outlook.com, Hotmail fix*/
+		.ExternalClass * { line-height: 110		table td { border-collapse: collapse;}  /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+		img {outline:none;} /* Remove the borders that appear when linking images with "border:none" and "outline:none" */
+		a img {border:none;} 
+		@-ms-viewport{  width: device-width;} /*outlook.com responsive bug fix */
+		a:link, a:visited, a:active, a:hover { color: #eeaf00; }  /*Set default link color*/
+		.appleLinks a { color: #1e1e1e; text-decoration: none; }
+		.appleLinks_gray a { color: #1e1e1e; text-decoration: none; }  /*set dates, times, phone numbers, etc... to normal text color*/
+		body[yahoo] .content {max-width:600px;}
+		.content {max-width: 600px;}
+		body[yahoo] a {text-decoration: none;}
+		
+		body[yahoo] .footer a {color:#fff; text-decoration:none; font-weight:bold;}
+		body[yahoo] .footer a:hover {color:#fff; text-decoration:none; font-weight:bold;}
+		body[yahoo] .footer a:visited {color:#fff; text-decoration:none; font-weight:bold;}
+		body[yahoo] .footer a:active {color:#fff; text-decoration:none; font-weight:bold;}
+		/* 
+			!!! YOU MUST UN-COMMENT THE STYLE BELOW BEFORE SENDING OUT !!!  (Apple mail fix)
+		*/
+		@media only screen and (min-device-width: 601px) { .content { width: 600px !important;}}
+	</style>
+</head>
+<body yahoo="" bgcolor="#dadada" style="margin:0; padding:0; min-width:100	<table bgcolor="#dadada" border="0" cellpadding="0" cellspacing="0" width="100		<tbody>
+		<tr ><td align="center" style="font: normal 16px/25px Verdana, sans-serif;font-size: 11px;">If you have trouble viewing this email,  <a href="http://click.notification.oovoo.com/?ju=fe211671716d017d7d1c79&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" style="color:#005aff; text-decoration:none"> read the online version</a>.</td></tr>
+			<tr>
+				<td align="center">
+				<!--[if (gte mso 9)|(IE)]>
+				<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				<td width="600">
+				<![endif]-->
+					<table class="content" align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="width:100						<tbody>
+
+
+
+
+
+
+
+
+
+
+<!-- =================================================================================================
+******************************************* START CONTENT ******************************************** 
+================================================================================================== -->
+
+
+
+
+
+
+
+<!--
+
+/////// ===========  Helpful HTML for copywriting  =========== ///////
+
+A non-breaking space    = &nbsp;
+
+An em dash:             = &mdash;
+
+A line break            = <br>
+
+Bold text               = <span style="font-weight:900;">I'm now bold, therefore important!</span>
+
+Italic text             = <em>I'm being stern!</em>
+
+Orange hyperlink        = <a href="http://www.oovoo.com/" style="text-decoration: none; color:#eeaf00;" target="_blank">Orange link!</a>
+
+White hyperlink         = <a href="http://www.oovoo.com/" style="text-decoration: none; color:#fff;" target="_blank">Orange link!</a>
+
+Add a bullet            = <li style="padding:0 0 5px 0;">I'm a new bullet!</li>
+
+Hyperlink to "forward"  = http://view.notification.oovoo.com/ftaf.aspx?j=fe581578746703747112&m=fef2117673600c&ls=fdb915727d630774711673736d
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                       LOGO
+==================================================== -->
+<tr>
+	<td style="max-width:600px" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" padding="0">
+	<tr>
+	<td width="600px">
+	<![endif]-->
+		<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100			<tr>
+				<td height="90" align="center" valign="middle">
+					<a href="http://click.notification.oovoo.com/?ju=fe291671716d017d7d1d70&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank"><img src="http://oovoo-dev.herokuapp.com/emails/03-it-takes-two/img/logo.png" width="130" height="40" border="0" style="display:block;" alt="Click to visit ooVoo" /></a>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+                     END LOGO
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                    FULL WIDTH IMAGE
+==================================================== -->
+<tr>
+	<td>
+		<table border="0" cellpadding="0" cellspacing="0" width="100			<tr>
+				<td style="max-width:600px; padding:0 0 45px 0;">
+					<img src="http://oovoo-dev.herokuapp.com/emails/03-it-takes-two/img/hero.jpg" width="100				</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<!-- ===================================================
+                    END FULL WIDTH IMAGE
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                    HEADLINE + COPY
+==================================================== -->
+<tr>
+	<td style="max-width:600px;">
+		<!--[if (gte mso 9)|(IE)]>
+		<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" padding="0">
+		<tr>
+		<td width="600px">
+		<![endif]-->
+			<table border="0" cellpadding="0" cellspacing="0" width="100				<tr>
+					<td align="center" style="padding: 0 4						<font face="Verdana, sans-serif" color="#1e1e1e" style="font: bold 27px/30px Verdana, sans-serif; color: #1e1e1e; letter-spacing:0.05em; text-transform:uppercase;">To Stock Up On ooVoo Friends</font>
+					</td>
+				</tr>
+			</table>
+		<!--[if (gte mso 9)|(IE)]>
+		</td>
+		</tr>
+		</table>
+		<![endif]-->
+	</td>
+</tr>
+<tr>
+	<td style="max-width:600px;">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+	<td width="600px">
+	<![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100			<tr>
+				<td align="center" style="padding: 5px 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:normal 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0em;">We&rsquo;ve done our research and found some people you may know.</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+                  END HEADLINE + COPY
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+            BODY HEADLINE AND BODY COPY
+==================================================== -->
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600px" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100			<tr>
+				<td>
+					<table bgcolor="#fff" align="center" border="0" cellpadding="0" cellspacing="0" width="100						<tr>
+							<td height="10"></td>
+						</tr>
+						<!-- Begin Add Friends List -->
+						
+						<tr>
+							<td>
+								<table bgcolor="#fff" align="center" border="0" cellpadding="0" cellspacing="0" width="92									<tr>
+    <td height="110" width="80" align="left" valign="middle" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">
+        <img src="https://img.oovoo.com/shrektasticadam69/m.jpeg?noimg=true" width="80" height="80" style="border-radius: 48px;" border="0" alt="Friend's photo">
+    </td>
+    <td height="110" width="20" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">&nbsp;</td>
+    <td height="110" width="81        <font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">Adam Gaskin</font>
+        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px; padding-top:5px;">
+            <tbody>
+                <tr>
+                    <td>
+                        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px;">
+                            <tbody>
+                                <tr>
+                                    <td align="right" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td bgcolor="#eeaf00" align="center" valign="middle" style="width:45px;" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td align="left" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr><tr>
+    <td height="110" width="80" align="left" valign="middle" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">
+        <img src="https://img.oovoo.com/claudia.eliza101/m.jpeg?noimg=true" width="80" height="80" style="border-radius: 48px;" border="0" alt="Friend's photo">
+    </td>
+    <td height="110" width="20" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">&nbsp;</td>
+    <td height="110" width="81        <font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">Claudia Anderson</font>
+        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px; padding-top:5px;">
+            <tbody>
+                <tr>
+                    <td>
+                        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px;">
+                            <tbody>
+                                <tr>
+                                    <td align="right" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6ImNsYXVkaWEuZWxpemExMDF                                    </td>
+                                    <td bgcolor="#eeaf00" align="center" valign="middle" style="width:45px;" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6ImNsYXVkaWEuZWxpemExMDF                                    </td>
+                                    <td align="left" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6ImNsYXVkaWEuZWxpemExMDF                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr><tr>
+    <td height="110" width="80" align="left" valign="middle" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">
+        <img src="https://img.oovoo.com/magster_123/m.jpeg?noimg=true" width="80" height="80" style="border-radius: 48px;" border="0" alt="Friend's photo">
+    </td>
+    <td height="110" width="20" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">&nbsp;</td>
+    <td height="110" width="81        <font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">Maggie Block</font>
+        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px; padding-top:5px;">
+            <tbody>
+                <tr>
+                    <td>
+                        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px;">
+                            <tbody>
+                                <tr>
+                                    <td align="right" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td bgcolor="#eeaf00" align="center" valign="middle" style="width:45px;" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td align="left" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr><tr>
+    <td height="110" width="80" align="left" valign="middle" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">
+        <img src="https://img.oovoo.com/kateheil/m.jpeg?noimg=true" width="80" height="80" style="border-radius: 48px;" border="0" alt="Friend's photo">
+    </td>
+    <td height="110" width="20" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">&nbsp;</td>
+    <td height="110" width="81        <font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">Kate Heil</font>
+        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px; padding-top:5px;">
+            <tbody>
+                <tr>
+                    <td>
+                        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px;">
+                            <tbody>
+                                <tr>
+                                    <td align="right" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td bgcolor="#eeaf00" align="center" valign="middle" style="width:45px;" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td align="left" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr><tr>
+    <td height="110" width="80" align="left" valign="middle" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">
+        <img src="https://img.oovoo.com/michael_e69/m.jpeg?noimg=true" width="80" height="80" style="border-radius: 48px;" border="0" alt="Friend's photo">
+    </td>
+    <td height="110" width="20" style="border-bottom:1px solid #d4d4d4; border-top:1px solid #d4d4d4;">&nbsp;</td>
+    <td height="110" width="81        <font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">Michael Espinosa </font>
+        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px; padding-top:5px;">
+            <tbody>
+                <tr>
+                    <td>
+                        <table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="79" style="background-color:#fff; height:36px;">
+                            <tbody>
+                                <tr>
+                                    <td align="right" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td bgcolor="#eeaf00" align="center" valign="middle" style="width:45px;" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                    <td align="left" height="36">
+                                        <a href="http://social.oovoo.com/ooVooLauncher/Friends/Add/eyJVc2VySWQiOiJqYWtleTE2MDAxIiwiR3JvdXBJZCI6Impha2V5MTYwMDF                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+              END BODY HEADLINE  AND BODY COPY
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                PRE-FOOTER #1
+==================================================== -->
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:45px 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 15px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0.15em; text-transform:uppercase;">
+						Don&rsquo;t Know These People?
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:0 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:normal 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">
+						We can give you more people you may know, just&nbsp;<a href="http://click.notification.oovoo.com/?ju=fe281671716d017d7d1d71&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" style="text-decoration:none; color:#eeaf00;" target="_blank">click here</a>.
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+                  END PRE-FOOTER #1
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                  PRE-FOOTER #2
+==================================================== -->
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:30px 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 15px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0.15em; text-transform:uppercase;">
+						Need Help?
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:0 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:normal 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">
+						Calling your friends on ooVoo is super easy. Visit the&nbsp;<a href="http://click.notification.oovoo.com/?ju=fe271671716d017d7d1d72&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" style="text-decoration:none; color:#eeaf00;" target="_blank">Help Center</a> to get started.
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+                  END PRE-FOOTER #2
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ===================================================
+                  PRE-FOOTER #3
+==================================================== -->
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:30px 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:bold 15px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0.15em; text-transform:uppercase;">
+						Go Mobile
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<tr>
+	<td style="max-width:600px;" bgcolor="#fff">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff">
+	<tr>
+	<td>
+	<![endif]-->
+		<table bgcolor="#fff" width="100			<tr>
+				<td align="center" style="padding:0 8					<font face="Verdana, sans-serif" color="#1e1e1e" style="font:normal 16px/25px Verdana, sans-serif; color:#1e1e1e; letter-spacing:0;">
+						Talk to your friends wherever you go. <a href="http://click.notification.oovoo.com/?ju=fe261671716d017d7d1d73&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" style="text-decoration:none; color:#eeaf00;" target="_blank">Download ooVoo&rsquo;s mobile app</a> to video chat on the go.
+					</font>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<tr>
+	<td colspan="3" height="50"></td>
+</tr>
+<!-- ===================================================
+                END PRE-FOOTER #3
+==================================================== -->
+
+
+
+
+
+<!-- ===================================================
+                     SOCIAL MEDIA
+==================================================== -->
+<tr>
+	<td>
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+	<td width="600px;">
+	<![endif]-->
+		<table align="center" bgcolor="#f7403a" width="100			<tr>
+				<td style="padding:30px 0 0;" width="100					<table align="center" width="156" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td valign="middle" width="28" style="padding-left:8px; width:28px;">
+								<a href="http://click.notification.oovoo.com/?ju=fe251671716d017d7d1d74&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="display:block; width:28px; height:24px;"><img src="http://oovoo-dev.herokuapp.com/emails/00-welcome/img/social-twitter.png" width="28" height="24" border="0" style="width:28px; height:24px;" alt="Click to visit ooVoo on Twitter" /></a>
+							</td>
+							<td width="24" style="width:24px;"></td>
+							<td valign="middle" width="13" style="width:13px;">
+								<a href="http://click.notification.oovoo.com/?ju=fe241671716d017d7d1d75&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="display:block; width:13px; height:27px;"><img src="http://oovoo-dev.herokuapp.com/emails/00-welcome/img/social-facebook.png" width="13" height="27" border="0" style="width:13px; height:27px;" alt="Click to visit ooVoo on Facebook" /></a>
+							</td>
+							<td width="24" style="width:24px;"></td>
+							<td valign="middle" width="26" style="width:26px;">
+								<a href="http://click.notification.oovoo.com/?ju=fe231671716d017d7d1d76&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="display:block; width:26px; height:26px;"><img src="http://oovoo-dev.herokuapp.com/emails/00-welcome/img/social-instagram.png" width="26" height="26" border="0" style="width:26px; height:26px;" alt="Click to visit ooVoo on Instagram" /></a>
+							</td>
+							<td width="24" style="width:24px;"></td>
+							<td valign="middle" width="17" style="padding-right:8px; width:17px;">
+								<a href="http://click.notification.oovoo.com/?ju=fe221671716d017d7d1d77&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="display:block; width:17px; height:28px;"><img src="http://oovoo-dev.herokuapp.com/emails/00-welcome/img/social-tumblr.png" width="17" height="28" border="0" style="width:17px; height:28px;" alt="Click to visit ooVoo on Tumblr" /></a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ===================================================
+                  END SOCIAL MEDIA
+==================================================== -->
+
+
+
+
+
+
+
+
+
+
+<!-- ==================================================
+                        FOOTER
+=================================================== -->
+<tr>
+	<td class="footer" style="padding:0; max-width:600px;" bgcolor="#f7403a">
+	<!--[if (gte mso 9)|(IE)]>
+	<table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+	<td width="600">
+	<![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#f7403a" width="100			<tr>
+				<td align="center" style="padding:15px 5					<font face="Verdana, sans-serif" color="#1d0807" style="font:normal 11px/15px Verdana, sans-serif; color:#1d0807; letter-spacing:0;">
+						This email was sent by: ooVoo 44 East 30th Street New York, NY, 10016, USA
+						<br />
+						<br />
+					</font>
+<!--					<a href="http://click.notification.oovoo.com/profile_center.aspx?s=fdf415727c6c077a72117175&mid=fef2117673600c&j=fe581578746703747112&l=fe8a16747162017472&jb=fef91172736100" style="text-decoration: none;"><font face="Verdana, sans-serif" color="#fff" style="font:bold 11px/15px Verdana, sans-serif; color:#fff; letter-spacing:0;">Update Profile</font></a>-->
+<!--					<font face="Verdana, sans-serif" color="#1d0807" style="font:normal 11px/15px Verdana, sans-serif; color:#1d0807; letter-spacing:0;"> | </font>-->
+					<a href="http://click.notification.oovoo.com/?ju=fe211671716d017d7d1d78&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" style="text-decoration: none;"><font face="Verdana, sans-serif" color="#fff" style="font:bold 11px/15px Verdana, sans-serif; color:#fff; letter-spacing:0;">Unsubscribe</font></a>
+					<font face="Verdana, sans-serif" color="#1d0807" style="font:normal 11px/15px Verdana, sans-serif; color:#1d0807; letter-spacing:0;"> | </font>
+					<a href="http://click.notification.oovoo.com/?ju=fe201671716d017d7d1d79&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="text-decoration: none;"><font face="Verdana, sans-serif" color="#fff" style="font:bold 11px/15px Verdana, sans-serif; color:#fff; letter-spacing:0;">Help</font></a>
+					<font face="Verdana, sans-serif" color="#1d0807" style="font:normal 11px/15px Verdana, sans-serif; color:#1d0807; letter-spacing:0;"> | </font>
+					<a href="http://click.notification.oovoo.com/?ju=fe311671716d017d7c1470&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="text-decoration: none;"><font face="Verdana, sans-serif" color="#fff" style="font:bold 11px/15px Verdana, sans-serif; color:#fff; letter-spacing:0;">Add us to your address book</font></a> 
+					<br />
+				</td>
+			</tr>
+			<tr>
+				<td height="35"></td>
+			</tr>
+			<tr>
+				<td align="center" height="69">
+					<a href="http://click.notification.oovoo.com/?ju=fe291671716d017d7d1d70&ls=fdb915727d630774711673736d&m=fef2117673600c&l=fe8a16747162017472&s=fdf415727c6c077a72117175&jb=fef91172736100&t=" target="_blank" style="display:block; padding:0; margin:0; width:187px; height:69;"><img src="http://oovoo-dev.herokuapp.com/emails/00-welcome/img/footer-logo.png" width="187" height="69" border="0" alt="Click to visit ooVoo" /></a>
+				</td>
+			</tr>
+		</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]-->
+	</td>
+</tr>
+<!-- ==================================================
+                  END FOOTER
+=================================================== -->
+
+
+
+
+
+
+
+
+
+<!-- =================================================================================================
+******************************************* END OF CONTENT ******************************************* 
+================================================================================================== -->
+							</tbody>
+						</table>
+					<!--[if (gte mso 9)|(IE)]>
+					</td>
+					</tr>
+					</table>
+					<![endif]-->
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<img src="http://click.notification.oovoo.com/open.aspx?ffcb10-fe581578746703747112-fdb915727d630774711673736d-fef2117673600c-fe8a16747162017472-fdf415727c6c077a72117175-fef91172736100" width="1" height="1">
+	</body>
+</html>
+

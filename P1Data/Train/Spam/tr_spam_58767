@@ -1,0 +1,72 @@
+From @..  Thu Jan  8 16:40:04 2015
+Return-Path: <@..>
+X-Original-To: marie.nash@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A74A7E0; Thu,  8 Jan 2015 16:40:04 +0000 (UTC)
+Received: from idsecure.us (1.idsecure.us [213.136.78.67])
+    by .. with SMTP id h32dhk6jyaq2se48ubc65zzirs;
+    for marie.nash@fs.net;
+    Thu, 08 Jan 2015 16:40:04 +0000 (UTC)
+    (envelope-from bounce@idsecure.us)
+Received-SPF: None; receiver=..;
+    client-ip=213.136.78.67; envelope-from=<bounce@idsecure.us>;
+    helo=idsecure.us
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=213.136.78.67; client-port=55116;
+    syn-fingerprint=14600:54:1:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 63.146.27.198 62.115.137.70 213.155.131.248 213.155.135.81
+    62.115.139.165 62.115.36.238 213.136.78.67; network-path-time=1420735204
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=idsecure.us;
+ h=To:Subject:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID; i=barclays@idsecure.us;
+ bh=hLlP4xlutnD5J09hyfylTyGH0OM=;
+ b=qdm2SUFjLuJR3upjpIEY8SV2vjVswQD4yFgHZa+FaHWURC8xSnSmY1noLs2nfD53QvLIPfSbnnEP
+   UWZ6qOcQpyMGCK5PL8eTB/23IjyW0s41eNMHfAIN8/tXjPDvufoZiVfj4G9FaV59eakfWFa3i+CS
+   w3zPGY0VoYIkV4m7upw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=idsecure.us;
+ b=jq9oZxuTy+ytyIurfNbN94H8Gtko6OyZ8q4NUlTCF6WnFbjxBNBu10EUjPca8ebsJUK/WBO8C5tp
+   ms1MS9XRIBsk8CtXkq6z37rVjPIaPMkbljmpvHuOU7IfCwOYonF+6kLnUUpPg9fJTuxXzsHsPBWb
+   LsOXlF99uu4qGX2yXUE=;
+To: @..
+Subject: Marie - Barclays Account Account Restriction
+Date: Thu, 08 Jan 2015 16:29:37 +0000
+From: "Your Barclays Help" <@..>
+Reply-To: @..
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Message-ID: <0.0.13.7AA.1D02B603837F844.0@idsecure.us>
+
+<html><head></head><body>
+<table>
+<tbody>
+<tr>
+<td align="left"><img
+src="http://www.fortuneo.fr/datas/images/barclays-logo-140x47.png" alt=""
+height="47" width="140" /></td>
+</tr>
+<tr>
+<td><font size="2" face="arial"><br /><br /><b>This is an outbound service
+message only. Please do not reply.</b> <br /><br />Dear
+Marie&nbsp;Nash&nbsp;(marie.nash@fs.net),<br /><br />08 - January - 2015
+Support ID# Z2783565 <br /><br />This automatic e-mail sent to the provided
+email account. You are receiving this e-mail because registered to the
+myBarclays Secure. A postal letter has been dispatched to your registered
+address. <br /><br />Your Barclays account has been restricted due to
+multiple incorrect login activity. For your security we have restricted
+access to your myBarclays account temporarily. <br /><br /><u>Alert
+Details</u><br /> Invalid Login Date: 7/1/2015<br /> IP Location: South
+Africa <br /><br /> To enable your Barclays Account you need to check if
+the login attempts were authorized or unauthorized. Please proceed to the
+myBarclays notice by clicking the link below. You can see the security
+warning and take an appropriate action.<br /><br /> <b><a
+href="http://barclayidsafe.com/profile/?email=marie.nash@fs.net">&gt;&gt;
+Review Security Warning</a></b><br /> <br /> If you have any questions,
+please refer to our Frequently Asked Questions (FAQ),<br /> or contact us.
+<br /><br /> Sincerely, <br /> Online Protection Team </font></td>
+</tr>
+</tbody>
+</table>
+</body></html>
+

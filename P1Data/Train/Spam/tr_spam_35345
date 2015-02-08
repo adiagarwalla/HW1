@@ -1,0 +1,476 @@
+From @..  Mon Jan 12 16:28:22 2015
+Return-Path: <@..>
+X-Original-To: junecunderwood@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 3BA55DE; Mon, 12 Jan 2015 16:28:22 +0000 (UTC)
+Received: from pmta43209.emarsys.net (pmta43209.emarsys.net [91.211.243.209])
+    by .. with SMTP id mmaka283qvuhsv8wn7qmidcqki;
+    for junecunderwood@fs.net;
+    Mon, 12 Jan 2015 16:28:21 +0000 (UTC)
+    (envelope-from SEMA-CR-24A60-1DE29D8C@mail.superdrug.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=91.211.243.209;
+    envelope-from=<SEMA-CR-24A60-1DE29D8C@mail.superdrug.com>;
+    helo=pmta43209.emarsys.net; mechanism=include:emarsys.net
+    (ip4:91.211.243.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=91.211.243.209; client-port=47220;
+    syn-fingerprint=14600:49:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 198.71.47.165
+    206.126.236.177 83.167.63.134 83.167.55.46 83.167.63.151 83.167.55.51
+    83.167.56.169 212.69.160.78 81.223.20.26; network-path-time=1421080101
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key2; d=mail.superdrug.com;
+ h=Date:To:Reply-To:From:Subject:Sender:Message-ID:Content-Type:Content-Transfer-Encoding; i=Offers@mail.superdrug.com;
+ bh=xWN+II+b+EPk7/FvW+RtugBKDtA=;
+ b=VfPubDSZig6tVS40Cc3RT7vexaDVXy7MJom4hZpTg1TDwwG96A3CPa2TJI+6JXXiOa3oPbjFQK/z
+   7f3WR7nrfm/WCQA78fBAr5F8/n7RUyyAr1MPnuEMZLlCrrodFFNewoiLiy2q4CR3Rtwt3nEts9D5
+   RYNMc7sxCMDjNYKJhO8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key2; d=mail.superdrug.com;
+ b=aF8AN65amwi3RCsM45F6P+Qgf41XuJbqHnL1adJUle3hgPW3hzNSgTXS+wW2/VTva/8IMCkm8Eqp
+   sMxk1x08CBCic0GRf6najdWwvG1ao35tlrJNgK0FBwnCDnBDp49IYGjaJ7K5QxixoGh3/zE4yjW0
+   +e3vfoaZFAgB74I4N6k=;
+Received: from ukcrmsdapp1 (207.218.29.248) by pmta43209.emarsys.net id hmfqra1ev24l for <junecunderwood@fs.net>; Mon, 12 Jan 2015 17:26:24 +0100 (envelope-from <SEMA-CR-24A60-1DE29D8C@mail.superdrug.com>)
+Date: Mon, 12 Jan 2015 16:58:13 +0100
+To: <@..>
+X-Mailer: Siebel -1
+Reply-To: Superdrug <@..>
+From: Superdrug <@..>
+Subject: Guess who came by today!
+Sender: Superdrug <@..>
+Message-ID: <SEMA-CR-24A60-1DE29D8C@mail.superdrug.com>
+Content-Type: text/html;	charset="UTF-8"
+Content-Transfer-Encoding: Quoted-Printable
+
+<html><head><title>{subject}</title><meta http-equiv=3D"Content-Type" conten=
+t=3D"text/html; charset=3Diso-8859-1" /><style type=3D"text/css">
+
+.ExternalClass {width:100.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, =
+.ExternalClass td, .ExternalClass div {
+line-height: 100
+body {-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}=20
+body {margin:0; padding:0;}=20
+table td {border-collapse:collapse;}=20
+
+p {margin:0; padding:0; margin-bottom:0;}=20
+
+h1, h2, h3, h4, h5, h6 {
+color: black;=20
+line-height: 100}=20
+
+a, a:link {
+color:#ee0088;
+text-decoration: none;
+}=20
+
+body, #body_style {
+background:#ffffff;
+min-height:1000px;
+color:#000000;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}=20
+
+span.yshortcuts { color:#000; background-color:none; border:none;}
+span.yshortcuts:hover,
+span.yshortcuts:active,
+span.yshortcuts:focus {color:#000; background-color:none; border:none;}
+
+a:visited { color: #aa0055; text-decoration: none}=20
+a:focus { color: #aa0055; text-decoration: underline}=20
+a:hover { color: #aa0055; text-decoration: underline}=20
+
+@media only screen and (max-device-width: 480px) {
+
+}=20
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024=
+px) {=20
+
+}=20
+
+</style></head><body style=3D"padding-right: 0px; padding-left: 0px; padding=
+-bottom: 0px; margin: 0px; padding-top: 0px" bgcolor=3D"#ffffff"><table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600" align=3D"center">=
+<tbody><tr><td style=3D"TEXT-ALIGN: center; FONT-FAMILY: arial; COLOR: #0000=
+00; FONT-SIZE: 12px; -webkit-text-size-adjust: none; -ms-text-size-adjust: n=
+one" bgcolor=3D"#ffffff" height=3D"25" valign=3D"middle" width=3D"600" align=
+=3D"center">Your current <span style=3D"COLOR: #ec008c"><strong>Beauty</stro=
+ng>card</span> balance is <strong><span style=3D"COLOR: #ec008c">=
+156=
+ points</span></strong><strong><span style=3D"COLOR: #ec008c">=
+</span></strong>, you have <strong><span style=3D"COLOR: #ec008c">=C2=A3=
+1=
+</span></strong> to spend! =
+</td></tr></tbody></table>
+
+<img src=3D"http://ctr.superdrug.com/ctd/tmo?RID=3D=
+24A60-1DE29D8C=
+" width=3D1 height=3D1>=20
+
+<table style=3D"TEXT-ALIGN: center; FONT-FAMILY: Arial, Helvetica, sans-seri=
+f; COLOR: #333333; FONT-SIZE: 12px" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"600" bgcolor=3D"#ffffff" align=3D"center"><tbody><tr><td v=
+align=3D"top" align=3D"center"><table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"600"><tbody><tr><td><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"600" background=3D"http://ukcrmsdapp1.uk.aswats=
+on.net:8100/loyalty_enu/webeditor/#121111" align=3D"left"><tbody><tr><td hei=
+ght=3D"75" valign=3D"middle" width=3D"226" align=3D"left"><a style=3D"TEXT-A=
+LIGN: left" title=3D"Visit Superdrug.com" href=3D"http://www.superdrug.com/?=
+utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaign=3DSD_12_03_15_Heal=
+th-Logo"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Visit Superdrug.c=
+om" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_01=
+.jpg" width=3D"226" height=3D"75" /></a></td><td style=3D"TEXT-ALIGN: center=
+; FONT-FAMILY: arial, sans-serif; COLOR: #ee1696; FONT-SIZE: 15px; -webkit-t=
+ext-size-adjust: none; -ms-text-size-adjust: none" bgcolor=3D"#121111" heigh=
+t=3D"75" valign=3D"middle" width=3D"202" align=3D"center"><strong><span styl=
+e=3D"COLOR: #ffffff">Free Delivery</span> still on for <span style=3D"COLOR:=
+ #ffffff">=
+June=
+! ^</span></strong>=C2=A0</td><td height=3D"75" valign=3D"middle" width=3D"1=
+72" align=3D"left"><a style=3D"TEXT-ALIGN: left" title=3D"Beautycard" href=
+=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.combutm_campaignf85955&TN=3Dsuperdrug.commOn+URL"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Beautycard" src=3D=
+"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_03.jpg" widt=
+h=3D"172" height=3D"75" /></a></td></tr></tbody></table></td></tr></tbody></=
+table><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600">=
+<tbody><tr><td valign=3D"middle" align=3D"left"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0"><tbody><tr><td bgcolor=3D"#000000" height=3D"39"=
+ valign=3D"top" width=3D"79" align=3D"left"><a href=3D"http://www.superdrug.=
+com/?utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaign=3DSD_12_03_15=
+_Health-shopnow"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Shop Now"=
+ src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_04.jp=
+g" width=3D"79" height=3D"39" /></a></td><td bgcolor=3D"#000000" height=3D"3=
+9" valign=3D"top" width=3D"73" align=3D"left"><a href=3D"http://ctr.superdru=
+g.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comil387aa697fe&TN=3Dsuperdrug.commp=3DClicked+On+URL"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Make Up=
+" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_05.j=
+pg" width=3D"73" height=3D"39" /></a></td><td bgcolor=3D"#000000" height=3D"=
+39" valign=3D"top" width=3D"48" align=3D"left"><a href=3D"http://ctr.superdr=
+ug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comm_campaignsuperdrug.comdemailimg style=3D"DISPLAY: block" border=3D"0" alt=3D"Skin" src=3D"http://img.sup=
+erdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_06.jpg" width=3D"48" height=
+=3D"39" /></a></td><td bgcolor=3D"#000000" height=3D"39" valign=3D"top" widt=
+h=3D"82" align=3D"left"><a href=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.com3demail0f36df9373cef299076&TN=3Dsuperdrug.comrcelth-fragrance&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block" border=3D"0=
+" alt=3D"Fragrance" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12=
+_03_15_Health_07.jpg" width=3D"82" height=3D"39" /></a></td><td bgcolor=3D"#=
+000000" height=3D"39" valign=3D"top" width=3D"45" align=3D"left"><a href=3D"=
+http://www.superdrug.com/Hair/c/hair?utm_source=3DSDnl&amp;utm_medium=3Demai=
+l&amp;utm_campaign=3DSD_12_03_15_Health-hair"><img style=3D"DISPLAY: block" =
+border=3D"0" alt=3D"Hair" src=3D"http://img.superdrug.com/SD_12_03_15_Health=
+/SD_12_03_15_Health_08.jpg" width=3D"45" height=3D"39" /></a></td><td bgcolo=
+r=3D"#000000" height=3D"39" valign=3D"top" width=3D"78" align=3D"left"><a hr=
+ef=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.commf01467f96a79b7e5c0f86a&TN=3Dsuperdrug.comm_source5_Health-toiletries&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block" borde=
+r=3D"0" alt=3D"Toiletries" src=3D"http://img.superdrug.com/SD_12_03_15_Healt=
+h/SD_12_03_15_Health_09.jpg" width=3D"78" height=3D"39" /></a></td><td bgcol=
+or=3D"#000000" height=3D"39" valign=3D"top" width=3D"52" align=3D"left"><a h=
+ref=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comampee5ce&TN=3Dsuperdrug.comedium+URL"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Mens" src=3D"http://=
+img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_10.jpg" width=3D"52"=
+ height=3D"39" /></a></td><td bgcolor=3D"#000000" height=3D"39" valign=3D"to=
+p" width=3D"83" align=3D"left"><a href=3D"http://ctr.superdrug.com/ctd/lu?RI=
+D=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comium44d47ab9e6908f239151cb83f&TN=3Dsuperdrug.com_03_15_Health-electricals&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block"=
+ border=3D"0" alt=3D"Electricals" src=3D"http://img.superdrug.com/SD_12_03_1=
+5_Health/SD_12_03_15_Health_11.jpg" width=3D"83" height=3D"39" /></a></td><t=
+d bgcolor=3D"#000000" height=3D"39" valign=3D"top" width=3D"60" align=3D"lef=
+t"><a href=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.coml781521de6f&TN=3Dsuperdrug.comp=3DClicked+On+URL"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Health"=
+ src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_12.jp=
+g" width=3D"60" height=3D"39" /></a></td></tr></tbody></table></td></tr></tb=
+ody></table><!--ADD NEW BODY CONTENT HERE--><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"600"><tbody><tr><td bgcolor=3D"#000000" he=
+ight=3D"517" valign=3D"top" width=3D"600" align=3D"left"><img style=3D"DISPL=
+AY: block" title=3D"Doctor Pixie Introduction" border=3D"0" alt=3D"Doctor Pi=
+xie Introduction" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_0=
+3_15_Health_13.jpg" width=3D"600" height=3D"517" /></td></tr></tbody></table=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tbod=
+y><tr><td bgcolor=3D"#000000" height=3D"301" valign=3D"top" width=3D"301" al=
+ign=3D"left"><a title=3D"Vitimins Starting From =C2=A31" href=3D"http://www.=
+superdrug.com/Health/Vitamins-asclider=3D0.0&amp;maxSlider=3D50.0&amp;resultsForPage=3D20&amp;brand418065=3Do=
+n#&amp;utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaign=3DSD_12_03_=
+15_Health-VitiminsStartingFrom=C2=A31"><img style=3D"DISPLAY: block" title=
+=3D"Vitimins Starting From =C2=A31" border=3D"0" alt=3D"Vitimins Starting Fr=
+om =C2=A31" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_H=
+ealth_14.jpg" width=3D"301" height=3D"301" /></a></td><td bgcolor=3D"#000000=
+" height=3D"301" valign=3D"top" width=3D"299" align=3D"left"><a title=3D"Hea=
+lthy Lifestyle" href=3D"http://www.superdrug.com/Health/Diet-ealth-dietfitness?q=3Dmp;utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaign=3DSD_12_03_15_H=
+ealth-HealthyLifestyle"><img style=3D"DISPLAY: block" title=3D"Healthy Lifes=
+tyle" border=3D"0" alt=3D"Healthy Lifestyle" src=3D"http://img.superdrug.com=
+/SD_12_03_15_Health/SD_12_03_15_Health_15.jpg" width=3D"299" height=3D"301" =
+/></a></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"600"><tbody><tr><td bgcolor=3D"#000000" height=3D"299" =
+valign=3D"top" width=3D"301" align=3D"left"><a title=3D"Lighter Life" href=
+=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comm7796837ad346fcb4ab71e4de&TN=3Dsuperdrug.comutm_source_15_Health-LighterLife&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block" ti=
+tle=3D"Lighter Life" border=3D"0" alt=3D"Lighter Life" src=3D"http://img.sup=
+erdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_16.jpg" width=3D"301" heigh=
+t=3D"299" /></a></td><td bgcolor=3D"#000000" height=3D"299" valign=3D"top" w=
+idth=3D"299" align=3D"left"><a title=3D"XLS" href=3D"http://ctr.superdrug.co=
+m/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comaila156873a83&TN=3Dsuperdrug.comampClicked+On+URL"><img style=3D"DISPLAY: block" title=3D"XLS" border=3D"0" alt=
+=3D"XLS" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Heal=
+th_17.jpg" width=3D"299" height=3D"299" /></a></td></tr></tbody></table><tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tbody><tr=
+><td bgcolor=3D"#000000" height=3D"360" valign=3D"top" width=3D"600" align=
+=3D"left"><a title=3D"British Military Fitness" href=3D"http://www.superdrug=
+.com/beautycard/bmf?utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaig=
+n=3DSD_12_03_15_Health-BritishMilitaryFitness"><img style=3D"DISPLAY: block"=
+ title=3D"British Military Fitness" border=3D"0" alt=3D"British Military Fit=
+ness" src=3D"http://img.superdrug.com/SD_12_03_15_Health/SD_12_03_15_Health_=
+18.jpg" width=3D"600" height=3D"360" /></a></td></tr></tbody></table><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"><tbody><tr><t=
+d bgcolor=3D"#000000" height=3D"95" valign=3D"top" width=3D"600" align=3D"le=
+ft"><a title=3D"With Love Beautycard Team" href=3D"http://ctr.superdrug.com/=
+ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comignb6179148&TN=3Dsuperdrug.comlked+On+URL"><img style=3D"DISPLAY: block" title=3D"With Love Beautycard Team=
+" border=3D"0" alt=3D"With Love Beautycard Team" src=3D"http://img.superdrug=
+.com/SD_12_03_15_Health/SD_12_03_15_Health_18-19.jpg" width=3D"600" height=
+=3D"95" /></a></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" width=3D"600" bgcolor=3D"#ec008c"><tbody><tr><td height=
+=3D"29" valign=3D"top" width=3D"431" align=3D"left"><img style=3D"DISPLAY: b=
+lock" border=3D"0" alt=3D"Talk to us" src=3D"http://img.superdrug.com/global=
+/talk-to-us.jpg" width=3D"324" height=3D"29" /></td><td height=3D"29" valign=
+=3D"top" width=3D"107" align=3D"left"><a href=3D"http://ctr.superdrug.com/ct=
+d/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.coml6dc3f2dea7718150&TN=3Dsuperdrug.comltition&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block" border=3D"0" alt=
+=3D"Competitions" src=3D"http://img.superdrug.com/global/competitions.jpg" w=
+idth=3D"107" height=3D"29" /></a></td><td height=3D"29" valign=3D"top" width=
+=3D"78" align=3D"left"><a href=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comiumf94fc5ed95e6c&TN=3Dsuperdrug.com_source_Health-dare&RT=3DClicked+On+URL"><img style=3D"DISPLAY: block" border=3D"0"=
+ alt=3D"DARE" src=3D"http://img.superdrug.com/global/dare.jpg" width=3D"78" =
+height=3D"29" /></a></td></tr></tbody></table><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"600" bgcolor=3D"#f0f0f0"><tbody><tr><td h=
+eight=3D"47" valign=3D"top" width=3D"88" align=3D"left"><a href=3D"http://ct=
+r.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpscomampaign=3Dtwitter.comampyle=3D"DISPLAY: block" border=3D"0" alt=3D"Twitter" src=3D"http://img.superd=
+rug.com/global/twitter.jpg" width=3D"88" height=3D"47" /></a></td><td height=
+=3D"47" valign=3D"top" width=3D"85" align=3D"left"><a href=3D"https://www.fa=
+cebook.com/Superdrug?utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campai=
+gn=3DSD_12_03_15_Health-facebook"><img style=3D"DISPLAY: block" border=3D"0"=
+ alt=3D"Facebook" src=3D"http://img.superdrug.com/global/facebook.jpg" width=
+=3D"85" height=3D"47" /></a></td><td height=3D"47" valign=3D"top" width=3D"8=
+5" align=3D"left"><a href=3D"http://www.youtube.com/user/superdrugloves?utm_=
+source=3DSDnl&amp;utm_medium=3Demail&amp;utm_campaign=3DSD_12_03_15_Health-y=
+outube"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"YouTube" src=3D"ht=
+tp://img.superdrug.com/global/youtube.jpg" width=3D"85" height=3D"47" /></a>=
+</td><td height=3D"47" valign=3D"top" width=3D"85" align=3D"left"><a href=3D=
+"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttp.comntagram.com6amp style=3D"DISPLAY: block" border=3D"0" alt=3D"Instagram" src=3D"http://img.s=
+uperdrug.com/global/instagram.jpg" width=3D"85" height=3D"47" /></a></td><td=
+ height=3D"47" valign=3D"top" width=3D"85" align=3D"left"><a href=3D"https:/=
+/plus.google.com/+superdrug?utm_source=3DSDnl&amp;utm_medium=3Demail&amp;utm=
+_campaign=3DSD_12_03_15_Health-googleplus"><img style=3D"DISPLAY: block" bor=
+der=3D"0" alt=3D"Google Plus" src=3D"http://img.superdrug.com/global/google-=
+plus.jpg" width=3D"85" height=3D"47" /></a></td><td height=3D"47" valign=3D"=
+top" width=3D"85" align=3D"left"><a href=3D"http://ctr.superdrug.com/ctd/lu?=
+RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdruglookatme.comtm_campaignN=3Dsuperdruglookatme.com26ample=3D"DISPLAY: block" border=3D"0" alt=3D"Beauty Blog" src=3D"http://img.sup=
+erdrug.com/global/blog.jpg" width=3D"85" height=3D"47" /></a></td><td height=
+=3D"47" valign=3D"top" width=3D"87" align=3D"left"><a href=3D"http://ctr.sup=
+erdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpserest.comampaignTN=3Dpinterest.com3demailURL"><img style=3D"DISPLAY: block" border=3D"0" alt=3D"Pinterest" src=3D"htt=
+p://img.superdrug.com/global/pinterest.jpg" width=3D"87" height=3D"47" /></a=
+></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"10" width=3D"600" align=3D"center"><tbody><tr><td bgcolor=3D"#dfdfdf" va=
+lign=3D"top" align=3D"left"><span style=3D"FONT-FAMILY: Arial, Helvetica, sa=
+ns-serif; COLOR: #d91e63; FONT-SIZE: 12px">Copyright =C2=A9 2015 Superdrug S=
+tores plc.</span>=C2=A0</td></tr><tr><td bgcolor=3D"#f7f7f7"><p style=3D"TEX=
+T-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5; MARGIN: 0px 0px 10px; =
+PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-s=
+erif; COLOR: #666666; FONT-SIZE: 10px; FONT-WEIGHT: normal; PADDING-TOP: 0px=
+; -webkit-text-size-adjust: none">We respect your privacy and limit the use =
+of your information. Please read our full <a style=3D"COLOR: #ec008c" href=
+=3D"http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comil26021a831394d229dc0&TN=3Dsuperdrug.comdSDnlrivacypolicy&RT=3DClicked+On+URL">privacy policy</a> for more information.</=
+p><p style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5; MARGI=
+N: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #666666; FONT-SIZE: 10px; FONT-WEIGHT: normal;=
+ PADDING-TOP: 0px; -webkit-text-size-adjust: none">Add Superdrug (<a style=
+=3D"COLOR: #ec008c" href=3D"mailto:offers@mail.superdrug.com">offers@mail.su=
+perdrug.com</a>) to your address book to make sure we reach your inbox.</p><=
+p style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5; MARGIN: =
+0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Hel=
+vetica, sans-serif; COLOR: #666666; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADD=
+ING-TOP: 0px">Terms and conditions</p><p style=3D"TEXT-ALIGN: left; PADDING-=
+BOTTOM: 0px; LINE-HEIGHT: 1.5; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADD=
+ING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #666666; F=
+ONT-SIZE: 10px; FONT-WEIGHT: normal; PADDING-TOP: 0px; -webkit-text-size-adj=
+ust: none">^ FREE Standard Delivery for registered Beautycard customers will=
+ be added at the last stage of check out. No minimum spend required. Exclude=
+s next day delivery. Offer ends 31/01/15.<br /><br />
+* Vitamins from =C2=A31, Save up to half price on healthy lifestyle and save=
+ 1/3 on selected LighterLife offers end 20/01/2015. Subject to availability.=
+<br /><br />
+** XLS Bundle Deal ends 20/01/2015. Each individual product is =C2=A359.99, =
+if bought separately would be =C2=A3179.97. Bundle price =C2=A399, saving =
+=C2=A380.97. Subject to availability.<br /><br />
++ This offer entitles the promotion code holder to an unlimited amount of Br=
+itish Military Fitness (BMF) classes for fourteen (14) consecutive days for =
+free at a venue of the promotion code holders choice. For venues visit https=
+://www.britmilfit.com/where-we-train/. Two-week complimentary BMF membership=
+s can only be redeemed by completing an online sign-up form prior to attendi=
+ng a class and entering the promotion code 2SD15. To redeem this offer, visi=
+t the registration form https://www.britmilfit.com/try-bmf-for-free/. Promot=
+ion code holders must print the confirmation email provided by BMF and bring=
+ it to their first class. If the promotion code holder wishes to visit multi=
+ple venues during the 14 day period then the promotion code holder must re-p=
+rint the confirmation email and bring this to their first class at the new t=
+raining location. Promotion code holders must complete the health questionna=
+ire prior to the class. The health questionnaire can be found in the BMF con=
+firmation email. Promotion code holders must arrive 10-15 minutes before the=
+ start of their first class and make themselves known to the BMF instructors=
+. This offer expires on February 11th 2015, after which the promotion code h=
+older will be unable to apply for the offer. The offer is valid to promotion=
+ code holders who are aged 16 years and over and who are residents of Great =
+Britain. This offer is only available to registered Beautycard members. This=
+ offer is limited to one promotional code per person. Promotion codes cannot=
+ be refunded or exchanged for cash. Promotion codes cannot be used in conjun=
+ction with any other offer. This offer is not available to current BMF membe=
+rs or individuals that have previously attended BMF.<br /><br />
+~ Points balance correct as of 10/01/15 for card number: =
+2661055314986=
+.</p><p style=3D"TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5; MA=
+RGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Aria=
+l, Helvetica, sans-serif; COLOR: #666666; FONT-SIZE: 10px; FONT-WEIGHT: norm=
+al; PADDING-TOP: 0px; -webkit-text-size-adjust: none">You must be a UK resid=
+ent and at least 14 years old to register and use a Superdrug Beautycard. Be=
+autycard points cannot be earned or spent on purchases of stamps, mobile top=
+-up, prescription medicines, infant milk formula, or purchase of gift cards.=
+ You must have registered your Beautycard before you will be able to spend a=
+ny of your points. Full <a style=3D"COLOR: #ec008c" href=3D"http://ctr.super=
+drug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comm_campaign4043eedc7d&TN=3Dsuperdrug.comum=3DClicked+On+URL">terms and conditions</a> of the Superdrug Beautycard will=
+ apply, please see our website.</p><p style=3D"TEXT-ALIGN: left; PADDING-BOT=
+TOM: 0px; LINE-HEIGHT: 1.5; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING=
+-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #666666; FONT=
+-SIZE: 10px; FONT-WEIGHT: normal; PADDING-TOP: 0px; -webkit-text-size-adjust=
+: none">This email has been sent to =
+junecunderwood@fs.net=
+. It's never our intention to send unwanted mail. If you're receiving duplic=
+ates or would prefer not to receive Superdrug news, simply <a style=3D"TEXT-=
+ALIGN: left; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ec008c; FONT=
+-SIZE: 10px; FONT-WEIGHT: normal" href=3D"http://ctr.superdrug.com/ctd/unsub=
+?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&RT=3DOne+Click+Unsub&LC=3D=
+SD">click this link</a>. Please see our <a style=3D"COLOR: #ec008c" href=3D"=
+http://ctr.superdrug.com/ctd/lu?RID=3D=
+24A60-1DE29D8C=
+&CON=3D=
+1-3U4-2254=
+&PRO=3D=
+&AID=3D=
+&OID=3D1-2FCIHKN&CID=3D1-2FCIHJT&COID=3D1-2FKB4ZI&T=3Dhttpdrug.comm_campaign26c5e0&TN=3Dsuperdrug.comutm_mediumT=3DClicked+On+URL">privacy policy</a> for more information.</p><p style=3D"=
+TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5; MARGIN: 0px 0px 10p=
+x; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, san=
+s-serif; COLOR: #666666; FONT-SIZE: 10px; FONT-WEIGHT: normal; PADDING-TOP: =
+0px; -webkit-text-size-adjust: none">This email has been sent from Superdrug=
+ Stores plc. Company Registration Number: 807043. Place of Registration: Eng=
+land and Wales. Registered Office: 118 Beddington Lane, Croydon, Surrey CR0 =
+4TB.</p></td></tr></tbody></table></td></tr></tbody></table><!--</td>
+        </tr>
+      </tbody>
+    </table>--></body></html>
+

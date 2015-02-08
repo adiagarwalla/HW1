@@ -1,0 +1,205 @@
+From @..  Sun Jan 18 02:57:42 2015
+Return-Path: <@..>
+X-Original-To: lizdow@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4D0AFDF; Sun, 18 Jan 2015 02:57:42 +0000 (UTC)
+Received: from mail-183-178.fortozo.net (mail-183-178.fortozo.net [23.253.183.178])
+    by .. with SMTP id rvjk49cmanbgdheyhfwyfyncdn;
+    for lizdow@fs.net;
+    Sun, 18 Jan 2015 02:57:42 +0000 (UTC)
+    (envelope-from bounce+6980c1.e94f91-lizdow=fs.net@fortozo.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=23.253.183.178;
+    envelope-from=<bounce+6980c1.e94f91-lizdow=fs.net@fortozo.net>;
+    helo=mail-183-178.fortozo.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:23.253.183.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=23.253.183.178; client-port=59525;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 0.0.0.0
+    64.125.31.69 64.125.24.110 64.125.24.94 208.185.125.6 0.0.0.0
+    173.203.0.131 50.56.6.131 162.209.19.163; network-path-time=1421549861
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=fortozo.net; q=dns/txt; s=mx;
+ t=1421549845; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=Ow7kWkS74w31B5dhg46LhbXcXnQBMFjrApEScEDN1D8=; b=du2+zjotIU5eEiaubhoBp9f/qcOS0JGuu7uKn6zwKX7LXOGHf3ir8z1TGHB/xrPf6NKq657W
+ Qt89+ABx2gcy49LWlwi+FgZSl/+G3C3L0pRoS//YDGdLfbpOonZUPQl0/+s7B3ttlUO10iEJ
+ GXE6MDFdEPKsfazID2ejJcVkuAs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=fortozo.net; s=mx; q=dns;
+ h=Date: From: To: Message-Id: Subject: Mime-Version: Content-Type:
+ Sender;
+ b=mYikzmo0wqgyoUuBIDyLN/ONzO0Tv/OG3qPbsBRs9iu0BbecDDZlG2l5J01uNya+FA++SC
+ E+GX/IqalLixUvlZJJDhHwSIY/ijZkHRzla/Qxwo3afAl6dZcGQuffSj8v451+oYEL/OB+46
+ FH4Kz/lHMQZJfGwti8lxly4xWqexw=
+Received: from mail.fortozo.net (fortozo.net [78.47.177.87]) by
+ mxa.mailgun.org with ESMTP id 54bb2114.7f7528932ab0-in3; Sun, 18 Jan 2015
+ 02:57:24 -0000 (UTC)
+Received: from mail.fortozo.net (localhost [127.0.0.1])	by mail.fortozo.net
+ (Postfix) with ESMTP id E3F4C92D27	for <lizdow@fs.net>; Sun, 18 Jan 2015
+ 04:57:22 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fortozo.net;
+ s=dkim;	t=1421549842;
+ bh=Ow7kWkS74w31B5dhg46LhbXcXnQBMFjrApEScEDN1D8=;	h=Date:From:To:Subject:From;	b=ikv2z04Otva2s7/nsLvGbSgbI4ZPAMvKDHzvv++2fDeoG9/5JX1/J678mQRDFNslz	
+ 3uU+J1t7EORyNAoi5WoPktnLi3JK2fe35bUhqOpF3FkDi/MjRz02JTc/HsPEsLFMV2	
+ bA+z7xWBjl5vGvE03x7IYDedo2eIHtgkbbWpPWd4=
+Date: Sun, 18 Jan 2015 04:57:22 +0200 (EET)
+From: Game Design Courses <@..>
+To: "lizdow@fs.net" <@..>
+Message-Id: <1790653406.1558742.1421549842932.JavaMail.root@mail.fortozo.net>
+Subject: Train to join the dynamic world of Games Development
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1558740_2052137223.1421549842930"
+X-Mailgun-Sid: WyJjNzJhYSIsICJsaXpkb3dAZnMubmV0IiwgImU5NGY5MSJd
+Sender: @..
+
+------=_Part_1558740_2052137223.1421549842930
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1558741_1682936141.1421549842930"
+
+------=_Part_1558741_1682936141.1421549842930
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+Become a Game Designer This message contains useful information. If your e-=
+mail provider blocks the images, please enable them for a complete preview.=
+ Have you ever considered becoming a Video Games Developer? *Minimum age re=
+quirements is 17 years *Courses from ?15/week Have you ever considered beco=
+ming a Video Games Developer? *Minimum age requirements is 17 years *Course=
+s from ?15/week The advertiser does not manage your subscription. If you pr=
+efer not to receive further communication, here is the way to stop receivin=
+g emails. P.O. Box 13629, 10310 Athens - Greece 2 pottles 1 gallon2 gallons=
+ 1 peck4 pecks 1 bushel2 bushels 1 strike5 bushels 1 sack flour8 bushels 1 =
+quarter5 quarters 1 wey or load5 pecks 1 bushl. water measure4 bushels 1 co=
+om10 cooms 1 wey2 weys 1 last corn * * * * *_Solid or Cubic Measure_.1728 i=
+nches 1 foot27 feet 1 yard or load * * * * *_Long Measure_.3 barleycorns 1 =
+inch12 inches 1 foot3 feet 1 yard6 feet 1 fathom5?? yards 1 pole or rod40 p=
+oles 1 furlong8 furlongs 1 mile3 miles 1 league20 leagues 1 degree * * * * =
+*_Cloth Measure_.24 inches 1 nail4 nails 1 quarter4 quarters 1 yard
+------=_Part_1558741_1682936141.1421549842930
+Content-Type: text/html; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+    <title>Become a Game Designer </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+</head>
+<body>
+    <p style="font-weight:bold; font-family:Arial;" align="center">
+        This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.
+    </p>
+    <style type="text/css">
+        @media only screen and (max-width:320px), only screen and (max-device-width:320px) {
+            /* - - - - - HOTMAIL FIXES*/
+            .ReadMsgBody {
+                width: 100            }
+
+            ExternalClass {
+                width: 100            }
+
+            a[href^="tel"], a[href^="sms"] {
+                text-decoration: none;
+                color: #9ec459; /* or whatever your want */
+                pointer-events: none;
+                cursor: default;
+            }
+
+            table[id=container] {
+                -webkit-text-size-adjust: 100            }
+
+            div[id=mobile] {
+                display: block !important;
+                width: 100                height: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+            }
+
+            div[id=desktop] {
+                display: none !important;
+                width: 0px !important;
+                max-height: 0px !important;
+                overflow: hidden !important;
+                padding: 2px !important;
+                margin: 0px !important;
+            }
+        }
+    </style>
+
+    <table id="container" style="font-family:Arial;" align="center" width="98        <tr>
+            <td align="center">
+                <!-- DESKTOP -->
+                <div id="desktop" style="display:block; width:100
+
+                    <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td align="right" valign="top" bgcolor="#121212" style="font: normal 11.5px Arial, Helvetica, sans-serif; color:#ffffff; line-height:15px; padding-top:10px; padding-bottom:10px; padding-right:10px;"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank" style="color:#ffffff;">Have you ever considered becoming a Video Games Developer&#63;</a></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/tyu8lgc3h2b41" border="0" alt="Get in the Game" title="Get in the Game" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/dswuya5v2h1" border="0" alt="Start Now" title="Start Now" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/kh4aeyyd1" border="0" alt="Benefits of Learning Video Games Development" title="Benefits of Learning Video Games Development" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/2jmb9v1" border="0" alt="Get Course Info " title="Get Course Info " style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px; max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top" bgcolor="#121212" style="font: normal 12px Arial, Helvetica, sans-serif; color:#989696; line-height:16px; padding-top:20px; padding-left:196px;">
+                                &#42;Minimum age requirements is &#49;&#55; years
+                                <br>
+                                &#42;Courses from &#163;&#49;&#53;&#47;week
+                                <br>
+                                <br>
+                            </td>
+                        </tr>
+                    </table>
+                </div><!-- DESKTOP -->
+                <!-- MOBILE -->
+               <!--  <div id="mobile" style="display:block !important; width:100
+               <div id="mobile" style="display:none; width:0px; max-height:0px; overflow:hidden; padding:2px; ">
+
+                    <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td align="right" valign="top" bgcolor="#121212" style="font: normal 11.5px Arial, Helvetica, sans-serif; color:#ffffff; line-height:15px; padding-top:10px; padding-bottom:10px; padding-right:10px;"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank" style="color:#ffffff;">Have you ever considered becoming a Video Games Developer&#63;</a></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/tyu8lgc3h2b41_2" border="0" alt="Get in the Game" title="Get in the Game" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/dswuya5v2h1_2" border="0" alt="Start Now" title="Start Now" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/kh4aeyyd1_2" border="0" alt="Benefits of Learning Video Games Development" title="Benefits of Learning Video Games Development" style=" font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px;  max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top"><a href="http://fortozo.net/?a=488&c=5463&s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" target="_blank"><img src="http://fortozo.net/2jmb9v1_2" border="0" alt="Get Course Info " title="Get Course Info " style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000000;display:block;margin:0px; padding:0px; max-width:100                        </tr>
+                        <tr>
+                            <td align="left" valign="top" bgcolor="#121212" style="font: normal 12px Arial, Helvetica, sans-serif; color:#989696; line-height:16px; padding-top:20px; padding-left:2px;">
+                                &#42;Minimum age requirements is &#49;&#55; years
+                                <br>
+                                &#42;Courses from &#163;&#49;&#53;&#47;week
+                                <br>
+                                <br>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <br />
+    <center>
+        <font size="2" face="Arial">
+            The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+            <a href="http://fortozo.net/unsub?s1=437005&newunsub=1" target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br>
+        </font>
+        <img src= "http://fortozo.net/adv" border="0" alt="" style="max-width:100		<img alt="" src="http://fortozo.net/record.php?s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" width="1" height="1" border="0" />
+    </center>
+    <div style="color:white; background-color:white; font-size:8px;">
+        2 pottles      1 gallon2 gallons      1 peck4 pecks        1 bushel2 bushels      1 strike5 bushels      1 sack flour8 bushels      1 quarter5 quarters     1 wey or load5 pecks        1 bushl. water measure4 bushels      1 coom10 cooms       1 wey2 weys         1 last corn       *       *       *       *       *_Solid or Cubic Measure_.1728 inches     1 foot27 feet         1 yard or load       *       *       *       *       *_Long Measure_.3 barleycorns     1 inch12 inches         1 foot3 feet            1 yard6 feet            1 fathom5?? yards          1 pole or rod40 poles          1 furlong8 furlongs        1 mile3 miles           1 league20 leagues        1 degree       *       *       *       *       *_Cloth Measure_.24 inches      1 nail4 nails        1 quarter4 quarters     1 yard
+    </div>
+
+<img alt="" src="http://fortozo.net/record.php?s1=437005&s2=O000005230343_1965&s3=1501180457&S4=218609" width="1" height="1" border="0" /></body>
+</html>
+------=_Part_1558741_1682936141.1421549842930--
+
+------=_Part_1558740_2052137223.1421549842930--
+

@@ -1,0 +1,1361 @@
+From @..  Fri Jan  2 17:33:17 2015
+Return-Path: <@..>
+X-Original-To: mtop@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 77BDFDF; Fri,  2 Jan 2015 17:33:17 +0000 (UTC)
+Received: from omp.lists.westfield.com (omp.lists.westfield.com [12.130.137.170])
+    by .. with SMTP id xdcsz3476ytd3vn5dimn482f4n;
+    for mtop@fs.net;
+    Fri, 02 Jan 2015 17:33:16 +0000 (UTC)
+    (envelope-from westfielduk.4724@envfrm.rsys2.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=12.130.137.170;
+    envelope-from=<westfielduk.4724@envfrm.rsys2.com>;
+    helo=omp.lists.westfield.com; mechanism=ip4:12.130.136.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=12.130.137.170; client-port=48272;
+    syn-fingerprint=14600:49:1:60:M1380,S,T,N,W7; network-hops=16;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 192.205.37.165 12.122.141.190 12.122.28.174 12.122.2.82
+    12.122.2.165 12.122.1.146 12.122.104.49 12.122.251.142 12.130.128.170
+    12.130.152.102 12.130.137.170; network-path-time=1420219996
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=westfield-uk; d=news.westfield-uk.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=westfield@news.westfield-uk.com;
+ bh=DHKlJEgDIHGI6gZ0YWA6n4bXYA0=;
+ b=pcy9mskV120wOyt8EXOiyQ+YLdAoPy0C2EB1hO+7bzbHfgrwJ+cTn99qr9y53naSR+OMITWurTXk
+   JZJG2RvMOTsZnuwh4tMnBEONsVypLmuqTc225B1Ld0RhJZeOPCywOVDCJEogFMsiMZ0LmmwxmlxY
+   LK1WxEdPUzGWNNeILuU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=westfield-uk; d=news.westfield-uk.com;
+ b=odBm184A/mJlYdry9LgEAF8OKk/xJ7wbqZ8y7coK9zPaQ3CWx0mx55o8Ke9xcwHW1Hrve35iukZU
+   NAgRpZbjdaq9pdHf51095RW2vlzp1byac0FT5XEuTptGbzwzfTL5GP9O0D5sztCW0X5oWjjFJdx1
+   L5yUQYm7eU8DtMdzFUw=;
+Received: by omp.lists.westfield.com id hkrb5o162f46 for <mtop@fs.net>; Fri, 2 Jan 2015 09:33:15 -0800 (envelope-from <westfielduk.4724@envfrm.rsys2.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 2 Jan 2015 09:33:15 -0800
+To: @..
+From: "Westfield London" <@..>
+Reply-To: "Westfield London" <@..>
+Subject: Work off the Christmas feast with half price tickets from YPlan
+List-Unsubscribe: <https://news.westfield-uk.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2XX-sgxh1: ulhixMkQgLl
+X-rext: 4.interact2.EojuGKPPmWFxYKqJTW4hPexiyOwAzNaZX0
+X-cid: westfielduk.15282
+Message-ID: <0.1.B.8D1.1D026B23098AF14.0@omp.lists.westfield.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Dutf=
+-8=22/>
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-scal=
+e=3D1=2E0, maximum-scale=3D1=2E0, user-scalable=3D0;=22/>
+<title>Westfield</title>
+<style type=3D=22text/css=22>
+body =7B-webkit-text-size-adjust:none;=7D
+=2EReadMsgBody =7Bwidth:100=2EExternalClass =7Bwidth:100=40media only screen and (max-width:580px) =7B
+*=5Bclass=5D=2Eyahoo_fix =7Bdisplay:block;=7D
+*=5Bclass=5D=2Efl =7Bfloat:left =21important;=7D
+*=5Bclass=5D=2Ewr =7Bdisplay:block =21important;=7D
+*=5Bclass=5D=2Eh =7Bdisplay:none =21important;=7D
+*=5Bclass=5D=2Ealignleft =7Btext-align: left =21important;=7D
+*=5Bclass=5D=2Eautoh =7Bheight:auto =21important;=7D
+*=5Bclass=5D=2Ebgnone =7Bbackground-image: none =21important;=7D
+*=5Bclass=5D=2Eh8 =7Bheight:8px =21important;=7D
+*=5Bclass=5D=2Eh10 =7Bheight:10px =21important;=7D
+*=5Bclass=5D=2Eh15 =7Bheight:15px =21important;=7D
+*=5Bclass=5D=2Eh20 =7Bheight:20px =21important;=7D
+*=5Bclass=5D=2Eh163 =7Bheight:163px =21important;=7D
+*=5Bclass=5D=2Ew10 =7Bwidth:10px =21important;=7D
+*=5Bclass=5D=2Ew12 =7Bwidth:12px =21important;=7D
+*=5Bclass=5D=2Ew13 =7Bwidth:13px =21important;=7D
+*=5Bclass=5D=2Ew15 =7Bwidth:15px =21important;=7D
+*=5Bclass=5D=2Ew175 =7Bwidth:175px =21important;=7D
+*=5Bclass=5D=2Ew295 =7Bwidth:295px =21important;=7D
+*=5Bclass=5D=2Ew300 =7Bwidth:300px =21important;=7D
+*=5Bclass=5D=2Ew320 =7Bwidth:320px =21important;=7D
+*=5Bclass=5D=2Efont13 =7Bfont-size: 13px =21important; line-height: 16px =
+=21important;=7D
+*=5Bclass=5D=2Efont20 =7Bfont-size:20px =21important; line-height: 23px =21=
+important;=7D
+*=5Bclass=5D=2Eheromob =7Bbackground: url(https://static=2Ecdn=2Eresponsys=
+=2Enet/i2/responsysimages/content/westfielduk/wl-ice-rink2days-295x163-=2Ej=
+pg) no-repeat =21important;=7D
+=7D</style>
+</head>
+<body topmargin=3D=220=22 bottommargin=3D=220=22 leftmargin=3D=220=22 right=
+margin=3D=220=22 bgcolor=3D=22=231d1c21=22 style=3D=22padding: 0px; margin:=
+ 0px;=22>
+<table width=3D=22100g=3D=220=22 align=3D=22center=22>
+<tr>
+<td bgcolor=3D=22=231d1c21=22>
+<table class=3D=22bgnone=22 align=3D=22center=22 width=3D=22100=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 background=3D=22http=
+s://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/15=
+0101-London_FRAMEWORK/dark_bg=2Ejpg=22 style=3D=22background-image: url(htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/1=
+50101-London_FRAMEWORK/dark_bg=2Ejpg); background-position: center top; bac=
+kground-repeat: no-repeat; max-width: 930px;=22>
+<tr>
+<td>
+
+<table bgcolor=3D=22=231d1c21=22 height=3D=2233=22 width=3D=22100r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=
+=22>
+<tr>
+<td width=3D=22640=22 class=3D=22w320=22 style=3D=22font-family: Arial, Hel=
+vetica, sans-serif; font-size: 10px; color: =23666666;=22>
+<table width=3D=22640=22 class=3D=22w320=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22 align=3D=22center=22>
+<tr>
+<td colspan=3D=224=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=2210=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22310=22 style=3D=22font-family: Arial, Helvetica, sans-serif;=
+ font-size: 10px; color: =231d1c21; line-height: 13px;=22 class=3D=22h=22>
+Only 2 days left - don't miss out=21
+<br/>
+</td>
+<td width=3D=22310=22 style=3D=22font-family: Arial, Helvetica, sans-serif;=
+ font-size: 10px; color: =23666666; text-align: right; line-height: 13px;=
+=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxrNkl_uBWfXlVHjmn=
+x2YDzua6cOoamyi8I8C3urMVUSq6XNmRbM7GqJs9Ub8eXHy=2E=22 target=3D=22_blank=22=
+ style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 10px; col=
+or: =23666666; text-align: right; line-height: 13px; text-decoration: under=
+line;=22>View with images</a>
+</td>
+<td width=3D=2210=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22 alt=3D=22=22 border=3D=220=22/>
+</td>
+</tr>
+<tr>
+<td colspan=3D=224=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr class=3D=22wr=22>
+<td width=3D=2215=22 class=3D=22w10=22>
+<img class=3D=22w10=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/r=
+esponsysimages/westfielduk/London/150101-London_HEADER/spacer=2Egif=22 widt=
+h=3D=2215=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22265=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_HEADER/logo_london_header_light=2Epng=22 width=3D=22265=22 height=3D=
+=2266=22 style=3D=22display: block;=22 alt=3D=22Lorum Ipsum=22 title=3D=22L=
+orum Ipsum=22 border=3D=220=22 class=3D=22w175 autoh=22/></a>
+</td>
+<td width=3D=2220=22 class=3D=22wr fl w15=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=2220=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22 class=3D=22w15=22/>
+</td>
+<td width=3D=22330=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td align=3D=22right=22 width=3D=22100<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=2272=22 class=
+=3D=22h10=22 height=3D=2250=22 />
+</td>
+</tr>
+<tr>
+<td valign=3D=22bottom=22 style=3D=22font-family: Arial, Helvetica, sans-se=
+rif; font-size: 13px; color: =23cfcfcf; text-align: right; line-height: 16p=
+x;=22 class=3D=22alignleft=22>
+<span class=3D=22h=22><a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2XX1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 st=
+yle=3D=22color: =23cfcfcf; text-decoration: none;=22>Home</a>&nbsp;&nbsp;&n=
+bsp;=7C&nbsp;&nbsp;&nbsp;</span><a href=3D=22https://news=2Ewestfield-uk=2E=
+com/pub/cc?_ri_=3DX0Gzc2XzdzcRVXtpKXccant5zquN1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_b=
+lank=22 style=3D=22color: =23cfcfcf; text-decoration: none;=22>Stores</a>&n=
+bsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=22https://news=2Ewestfield-=
+uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XO6FvHzdzcRVXtpKXvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=
+=22_blank=22 style=3D=22color: =23cfcfcf; text-decoration: none;=22>Fashion=
+</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=22https://news=2Ewest=
+field-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XLzfpPwO6FvHzdzcRVXtpKXcTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 tar=
+get=3D=22_blank=22 style=3D=22color: =23cfcfcf; text-decoration: none;=22>N=
+ews</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=22https://news=2Ew=
+estfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XWoyLzfpPwO6FvHzdzcRVXtpKXyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 =
+target=3D=22_blank=22 style=3D=22color: =23cfcfcf; text-decoration: none;=
+=22>Offers</a>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+<table align=3D=22center=22 width=3D=22640=22 class=3D=22w320=22 border=3D=
+=220=22 cellpadding=3D=22=22 cellspacing=3D=220=22>
+<tr>
+<td class=3D=22w320=22 width=3D=22640=22 style=3D=22font-size: 1px; line-he=
+ight: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HEADER/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2214=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 width=3D=22640=22 class=3D=22h=22 border=3D=220=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_TRANSPARENT_10/spacer=2Egif=22=
+ width=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table class=3D=22w320=22 width=3D=22640=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22 align=3D=22center=22>
+<tr>
+<td style=3D=22background-image: url(https://static=2Ecdn=2Eresponsys=2Enet=
+/i2/responsysimages/content/westfielduk/wl-ice-rink2days-640x308=2Ejpg); ba=
+ckground-position: top right; background-repeat: no-repeat;=22 background=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/wes=
+tfielduk/wl-ice-rink2days-640x308=2Ejpg=22 class=3D=22bgnone=22 height=3D=
+=22308=22 width=3D=22640=22 valign=3D=22top=22 bgcolor=3D=22=23F80A0A=22>
+<=21--=5Bif gte mso 9=5D>
+<v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 str=
+oke=3D=22false=22 style=3D=22width:640px;height:309px;=22>
+<v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i2/responsysimages/content/westfielduk/wl-ice-rink2days-640x308=2Ejpg=22 co=
+lor=3D=22=23F80A0A=22 />
+<v:textbox inset=3D=220,0,0,0=22>
+<=21=5Bendif=5D-->
+<table class=3D=22w320=22 width=3D=22640=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22>
+<tr class=3D=22wr=22>
+<td valign=3D=22top=22>
+<table width=3D=22300=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=
+=3D=220=22>
+<tr>
+<td width=3D=2228=22 class=3D=22w13=22>&nbsp;
+
+</td>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td height=3D=2230=22 class=3D=22h10=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 height=3D=2230=22 width=
+=3D=221=22 style=3D=22display:block;=22 class=3D=22h10=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22font-family: Georgia, 'Times New Roman', Times, serif; font-=
+size: 35px; color: =23ffffff; line-height: 38px;=22 align=3D=22left=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 style=3D=22display: bloc=
+k; color: =23ffffff; text-decoration: none; line-height: 38px;=22>Calling a=
+ll<br/>ice skaters=21</a>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22 height=3D=2215=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2215=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+line-height: 16px; color: =23ffffff;=22 align=3D=22left=22>
+<span style=3D=22font-size: 14px;=22>Dear Shopper,</span><br/>
+<br>
+This Sunday is the last day for ice skating until next time=2E Don=E2=80=99=
+t miss out =E2=80=93 book your tickets today & get 50</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22 class=3D=22h15=22 heigh=
+t=3D=2220=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2220=22 style=3D=22display: block;=22 class=3D=22h15=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table bgcolor=3D=22=23ffffff=22 width=3D=221=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td style=3D=22white-space: nowrap; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 13px; line-height: 16px; color: =231d1c21;=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 style=3D=22white-space: =
+nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-he=
+ight: 16px; color: =231d1c21; text-decoration: none;=22>BOOK TICKETS NOW</a>
+</td>
+<td width=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=225=22 height=
+=3D=221=22/>
+</td>
+<td width=3D=226=22 style=3D=22font-size: 1px; line-height: 1px;=22 valign=
+=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_HERO/CTA_Arrow_Grey=2Epng=22 style=3D=22display: block=22 border=3D=
+=220=22 width=3D=226=22 height=3D=2215=22/></a>
+</td>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22 class=3D=22h10=22 heigh=
+t=3D=2220=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 class=3D=
+=22h10=22 height=3D=2220=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=22339=22 class=3D=22w320 wr fl=22 align=3D=22center=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_HERO/spacer308=2Egif=22 width=3D=22339=22 height=3D=22308=22 style=3D=
+=22display: block;=22 alt=3D=22=22 border=3D=220=22 class=3D=22w295 h163 he=
+romob=22/></a>
+</td>
+<td width=3D=221=22 class=3D=22wr fl=22 height=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_HERO/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+<=21--=5Bif gte mso 9=5D>
+</v:textbox>
+</v:rect>
+<=21=5Bendif=5D-->
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 width=3D=22640=22 class=3D=22h=22 border=3D=220=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_TRANSPARENT_10/spacer=2Egif=22=
+ width=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22630=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px;=
+ font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_BANNER/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22100=22=23f2f2f2=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/westfielduk/w-sale-=
+620x184-new=2Ejpg=22 class=3D=22w295 autoh=22 width=3D=22620=22 height=3D=
+=22184=22 style=3D=22display: block;=22 alt=3D=22Sale Now On=22 title=3D=22=
+Sale Now On=22 border=3D=220=22/></a>
+</td>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px;=
+ font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_BANNER/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td bgcolor=3D=22=23ffffff=22 width=3D=22100<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2210=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<table width=3D=22100g=3D=220=22>
+<tr class=3D=22wr=22>
+<td width=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22295=22 valign=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/westfielduk/wl-sale=
+-offers=2Egif =22 width=3D=22295=22 height=3D=22179=22 style=3D=22display: =
+block;=22 alt=3D=22Sale Offers=22 title=3D=22Sale Offers=22 border=3D=220=
+=22/></a>
+</td>
+<td class=3D=22wr fl=22 valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=224=22 class=3D=22h8=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Georgia, 'Times New Roman', Times, serif; font-=
+size: 22px; color: =23000000; line-height: 25px;=22 align=3D=22left=22>
+Our top 5 sale offers
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px; border-top: 1px dotted =23=
+aaaaaa;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 class=
+=3D=22w320=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=227=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: =2348484d; line-height: 15px;=22 align=3D=22left=22>
+Enjoy incredible savings in the sale=21<br/><br/>From 60adidas=2E
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td valign=3D=22bottom=22>
+<table bgcolor=3D=22=23707075=22 width=3D=221=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2212=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td style=3D=22white-space: nowrap; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 13px; line-height: 16px; color: =23fffffe;=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 style=3D=22white-space: =
+nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-he=
+ight: 16px; color: =23fffffe; text-decoration: none;=22>SEE ALL OFFERS</a>
+</td>
+<td width=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=225=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=226=22 style=3D=22font-size: 1px; line-height: 1px;=22 valign=
+=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_5050B2/CTA_Arrow_White=2Epng=22 style=3D=22display: block=22 border=
+=3D=220=22 width=3D=226=22 height=3D=2215=22/></a>
+</td>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2212=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B2/spacer=2Egif=22 width=3D=2210=22 heigh=
+t=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td bgcolor=3D=22=23ffffff=22 width=3D=22620=22 class=3D=22w320=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr class=3D=22wr=22>
+<td class=3D=22wr fl=22 valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=224=22 class=3D=22h8=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2210=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Georgia, 'Times New Roman', Times, serif; font-=
+size: 22px; color: =23000000; line-height: 25px;=22 align=3D=22left=22>
+Champagne sale=21
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px; border-top: 1px dotted =23=
+aaaaaa;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 class=
+=3D=22w320=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2210=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: =2348484d; line-height: 16px;=22 align=3D=22left=22>
+Still in the festive spirit?<br/>
+<br/>
+Enjoy 30out January=21
+</td>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2212=22 style=
+=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22 border=3D=220=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2210=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td>
+<table bgcolor=3D=22=23707075=22 width=3D=221=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td style=3D=22white-space: nowrap; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 13px; line-height: 16px; color: =23fffffe;=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 style=3D=22white-space: =
+nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-he=
+ight: 16px; color: =23fffffe; text-decoration: none;=22>BUY NOW</a>
+</td>
+<td width=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=225=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=226=22 style=3D=22font-size: 1px; line-height: 1px;=22 valign=
+=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_5050B/CTA_Arrow_White=2Epng=22 style=3D=22display: block=22 border=3D=
+=220=22 width=3D=226=22 height=3D=2215=22/></a>
+</td>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=221=22 style=3D=22display: block;=22 class=3D=22h8=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=221=22 class=3D=22wr fl w13=22 style=3D=22line-height: 1px; fo=
+nt-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22295=22 align=3D=22center=22 valign=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/westfielduk/wsc-sea=
+rcys-sale-295x179=2Ejpg=22 width=3D=22295=22 height=3D=22179=22 style=3D=22=
+display: block;=22 alt=3D=22Searcys Champagne Bar=22 title=3D=22Searcys Cha=
+mpagne Bar=22 border=3D=220=22/></a>
+</td>
+<td width=3D=2210=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050B/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td bgcolor=3D=22=23ffffff=22 width=3D=22100<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2210=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<table width=3D=22100g=3D=220=22>
+<tr class=3D=22wr=22>
+<td width=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=22295=22 valign=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/content/westfielduk/wl-shor=
+e-projects=2Ejpg=22 width=3D=22295=22 height=3D=22179=22 style=3D=22display=
+: block;=22 alt=3D=22Shore Projects=22 title=3D=22Shore Projects=22 border=
+=3D=220=22/></a>
+</td>
+<td class=3D=22wr fl=22 valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=224=22 class=3D=22h8=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Georgia, 'Times New Roman', Times, serif; font-=
+size: 22px; color: =23000000; line-height: 25px;=22 align=3D=22left=22>
+Shore Projects is here=21
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px; border-top: 1px dotted =23=
+aaaaaa;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 class=
+=3D=22w320=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=227=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: =2348484d; line-height: 15px;=22 align=3D=22left=22>
+To celebrate the new store launch, purchase any Shore Projects watch plus o=
+ne additional strap and receive two extra straps absolutely free=2E*<br/><b=
+r/>Take advantage of this offer until 31 January=21
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D=22top=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=2215=22 class=3D=22w13=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w13=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+<td valign=3D=22bottom=22>
+<table bgcolor=3D=22=23707075=22 width=3D=221=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td style=3D=22white-space: nowrap; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 13px; line-height: 16px; color: =23fffffe;=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22 style=3D=22white-space: =
+nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-he=
+ight: 16px; color: =23fffffe; text-decoration: none;=22>DISCOVER THE BRAND<=
+/a>
+</td>
+<td width=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=225=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=226=22 style=3D=22font-size: 1px; line-height: 1px;=22 valign=
+=3D=22top=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/London/150101-L=
+ondon_5050A/CTA_Arrow_White=2Epng=22 style=3D=22display: block=22 border=3D=
+=220=22 width=3D=226=22 height=3D=2215=22/></a>
+</td>
+<td width=3D=2212=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2212=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td colspan=3D=225=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2215=22 class=3D=22w12=22 style=3D=22line-height: 1px; font-si=
+ze: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2215=22 class=
+=3D=22w12=22 style=3D=22display: block;=22 height=3D=221=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=221=22 height=
+=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2210=22 bgcolor=3D=22=23f2f2f2=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/London/150101-London_5050A/spacer=2Egif=22 width=3D=2210=22 height=
+=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 width=3D=22640=22 class=3D=22w320=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 width=3D=2210=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=2210=
+=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td bgcolor=3D=22=23ffffff=22 width=3D=22620=22>
+<table align=3D=22center=22 width=3D=22100=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23ffffff=22 width=3D=22100<table width=3D=22100=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td height=3D=228=22 colspan=3D=223=22 style=3D=22line-height:1px; font-siz=
+e:1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=221=
+=22 height=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=228=22 style=3D=22line-height:1px; font-size:1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=228=
+=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: =2348484d; line-height: 16px;=22 align=3D=22left=22>
+*Terms & Conditions apply=2E Please see relevant competition or promotion p=
+age for more information=2E
+</td>
+<td width=3D=228=22 style=3D=22line-height:1px; font-size:1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=228=
+=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td width=3D=22100eight:1px; font-size:1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=221=
+=22 height=3D=228=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td bgcolor=3D=22=23f2f2f2=22 width=3D=2210=22 class=3D=22h=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardTerms/spacer=2Egif=22 width=3D=2210=
+=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table align=3D=22center=22 class=3D=22w320=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td bgcolor=3D=22=23f2f2f2=22 style=3D=22line-height: 1px; font-size: 1px;=
+=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/=21Master_Modular_Template/z_SPACER_GREY_10/spacer=2Egif=22 width=
+=3D=221=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+
+<table width=3D=22640=22 class=3D=22w320=22 align=3D=22center=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<tr>
+<td width=3D=2210=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+0=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+=22 class=3D=22h20=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D=22100g=3D=220=22>
+<tr>
+<td width=3D=22100=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/StandardGeneric=
+Modules/StandardFooter/logo_footer=2Epng=22 width=3D=22100=22 height=3D=223=
+6=22 style=3D=22display: block;=22 alt=3D=22Logo=22 title=3D=22Logo=22 bord=
+er=3D=220=22/></a>
+</td>
+<td>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=2236=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/StandardGeneric=
+Modules/StandardFooter/fb_icon=2Ejpg=22 width=3D=2236=22 height=3D=2236=22 =
+style=3D=22display: block;=22 alt=3D=22Facebook=22 title=3D=22Facebook=22 b=
+order=3D=220=22/></a>
+</td>
+<td width=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+0=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+<td width=3D=2236=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/StandardGeneric=
+Modules/StandardFooter/twitter_icon=2Ejpg=22 width=3D=2236=22 height=3D=223=
+6=22 style=3D=22display: block;=22 alt=3D=22Twitter=22 title=3D=22Twitter=
+=22 border=3D=220=22/></a>
+</td>
+<td width=3D=2210=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+0=22 height=3D=221=22 style=3D=22display: block;=22 alt=3D=22=22 border=3D=
+=220=22/>
+</td>
+<td width=3D=2236=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO=
+8s0hP6Yl5vTFuz-RuqQRBU=2E=22 target=3D=22_blank=22><img src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/westfielduk/StandardGeneric=
+Modules/StandardFooter/youtube_icon=2Ejpg=22 width=3D=2236=22 height=3D=223=
+6=22 style=3D=22display: block;=22 alt=3D=22YouTube=22 title=3D=22YouTube=
+=22 border=3D=220=22/></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+=22 height=3D=2218=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+<tr>
+<td style=3D=22font-family: Arial, Helvetica, sans-serif; font-size: 10px; =
+color: =23666666; line-height: 13px;=22 align=3D=22left=22>
+<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XlLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxrNkl_uBWfXlVHjmn=
+x2YDztvu0xu4yQQYIrjxmHIaslOgOUJ5TeM4m99=2E=22 style=3D=22text-decoration: u=
+nderline; color: =23666666;=22 target=3D=22_blank=22 class=3D=22font13=22>U=
+nsubscribe</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<a href=3D=22https://news=2Ewestfield-uk=2Ecom/pub/cc?_ri_=3DX0Gzc2XpglLjHJlTQGhrmEdyyu4zgzf5dzbc24WoyLzfpPwO6FvHzdzcRVXtpKX-M-UBZg3Ymx2_lxFHZMPM8qSmh5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2=
+bO8s0hP6Yl5vTFuz-RuqQRBU=2E=22 style=3D=22text-decoration: underline; color=
+: =23666666;=22 target=3D=22_blank=22>Visit Website</a><br/>
+<br/>
+Westfield Europe Ltd - Registered Number 3912122=2E Registered office addre=
+ss: 6th Floor, Mid City Place, 71 High Holborn, London, United Kingdom, WC1=
+V 6EA=2E<br/>
+</td>
+</tr>
+<tr>
+<td style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+=22 height=3D=2210=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D=2210=22 style=3D=22line-height: 1px; font-size: 1px;=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/wes=
+tfielduk/StandardGenericModules/StandardFooter/spacer=2Egif=22 width=3D=221=
+0=22 height=3D=221=22 style=3D=22display: block;=22/>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+</td>
+</tr>
+</table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+news=2Ewestfield-uk=2Ecom/pub/as?_ri_=3DX0Gzc2Xf5dzbc24WoyLzfpPwO6FvHzdzcRVXHkMX5IkjQyMicTQsDlvZS0Tccant5zquN1RtfZxuVY0FMZakCcOr2bO8s0hP6Yl5vTFuz-RuqQRBU=
+=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E1MHAIsG18bZP0c6-nd=
+1kARz88YtU7wYt0U4qJmIJLRjvYolt3MKgYq4pNDyU81U_pf9JLqUA_i2YDv-7jLama0/=22>
+
+
+</body>
+</html>
+
+

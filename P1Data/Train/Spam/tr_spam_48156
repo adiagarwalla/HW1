@@ -1,0 +1,1025 @@
+From @..  Tue Jan 13 18:05:17 2015
+Return-Path: <@..>
+X-Original-To: bob@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9A235DE; Tue, 13 Jan 2015 18:05:17 +0000 (UTC)
+Received: from mail-s3.lse.co.uk (217.158.94.225 [217.158.94.225])
+    by .. with SMTP id x9y9jvj2uby86vjgr3t3vtg99e;
+    for bob@fs.net;
+    Tue, 13 Jan 2015 18:05:17 +0000 (UTC)
+    (envelope-from marketreport@lse.co.uk)
+Received-SPF: None; receiver=..;
+    client-ip=217.158.94.225; envelope-from=<marketreport@lse.co.uk>;
+    helo=mail-s3.lse.co.uk
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=217.158.94.225; client-port=54710;
+    syn-fingerprint=8192:116:1:52:M1380,N,W8,N,N,N,N;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.166.89 4.69.166.81 212.113.9.106
+    195.157.3.46 195.157.6.230; network-path-time=1421172316
+Received: from lse.co.uk ([127.0.0.1]) by mail-s3.lse.co.uk with Microsoft SMTPSVC(7.5.7601.17514);
+	 Tue, 13 Jan 2015 18:04:57 +0000
+MIME-Version: 1.0
+From: @..
+To: @..
+Subject: Daily Market Report
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: MailBee 5.2
+Date: Tue, 13 Jan 2015 18:04:57 +0000
+Message-ID: <LSEFIVEYUmE8mGbGxMY00052571@mail-s3.lse.co.uk>
+X-OriginalArrivalTime: 13 Jan 2015 18:04:57.0418 (UTC) FILETIME=[70C432A0:01D02F5B]
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>London South East Daily Summary - Tue, 13th Jan 2015</title>
+
+<style type=3D"text/css">
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.infoTable {
+	border:1px solid #CCCCCC;
+	border-right:0;
+	line-height:1.8;
+	margin-left: 0px;
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.infoTable th.infoRow {
+	text-align: left;
+	border-bottom:1px solid #CCCCCC;
+	border-right:1px solid #CCCCCC;
+	background-color:#EDEDED;
+	vertical-align:top;
+	color:#3366CC;
+	text-indent: 2px;
+}
+
+.infoTable td.infoRow {
+	text-align: left;
+	border-right:1px solid #CCCCCC;
+	border-bottom:1px dotted #CCCCCC;
+	vertical-align:top;
+	text-indent: 2px;
+}
+
+.infoTable th.infoRowBottom {
+	text-align: left;
+	border-bottom: 0px;
+	border-right: 1px solid #CCCCCC;
+	background-color:#EDEDED;
+	vertical-align:top;
+	color:#3366CC;
+	text-indent: 2px;
+}
+
+.infoTable td.infoRowBottom {
+	text-align: left;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 0px;
+	vertical-align:top;
+	text-indent: 2px;
+}
+
+.infoTable a {
+	color: #3366CC;
+	text-decoration: underline;
+}
+
+.infoTable a:hover {
+	color: #3366CC;
+	text-decoration: none;
+}
+
+.marketBar {
+	display:inline;
+	float:left;
+	height:12px;
+	width:80px;
+	margin-top:4px;
+	margin-left:2px;
+	border:1px solid #666666;
+	font-size:9px;
+}
+
+.marketBarBlue {
+	display:inline;
+	float:left;
+	height:12px;
+	background-image:url(http://www.lse.co.uk/images/blueBar.gif);
+	background-position:top;
+	background-repeat:repeat-x;
+	background-color:#00008E;
+	font-size:9px;
+}
+
+.marketBarGreen {
+	display:inline;
+	float:left;
+	height:12px;
+	background-image:url(http://www.lse.co.uk/images/greenBar.gif);
+	background-position:top;
+	background-repeat:repeat-x;
+	background-color:#008E00;
+	font-size:9px;
+}
+
+.marketBarRed {
+	display:inline;
+	float:left;
+	height:12px;
+	background-image:url(http://www.lse.co.uk/images/redBar.gif);
+	background-position:top;
+	background-repeat:repeat-x;
+	background-color:#8E0000;
+	font-size:9px;
+}
+
+.linkSubNav {
+	color:#666666;
+	text-decoration:none;
+	font-size:90}
+	=09
+	.linkSubNav a:hover {
+		color:#cccccc;
+		text-decoration:none;
+	}
+=09
+.risersHeader {
+	width:200px;
+	color:#000099;
+	font-weight:bold;
+	border-bottom:1px solid #999999;
+}
+	.risersHeader a {
+		color:#000099;
+		text-decoration:none;
+	}
+	.risersHeader a:hover {
+		color:#0000FF;
+		text-decoration:none;
+	}
+
+.fallersHeader {
+	width:200px;
+	color:#990000;
+	font-weight:bold;
+	border-bottom:1px solid #999999;
+}
+	.fallersHeader a {
+		color:#990000;
+		text-decoration:none;
+	}
+	.fallersHeader a:hover {
+		color:#DD0000;
+		text-decoration:none;
+	}
+
+.pricesHeader {
+	color:#999999;
+	font-weight:bold;
+	border-bottom:1px solid #999999;
+}
+
+.changeHeader {
+	color:#999999;
+	font-weight:bold;
+	border-bottom:1px solid #999999;
+}
+
+.risersFallersBg {
+	color:#666666;
+	padding:3px;
+	background-color:#E6E6E6;
+}
+
+.risersFallers {
+	color:#666666;
+	padding:3px;
+}
+
+.risersFallersMore {
+	display:inline;
+	float:left;
+	width:200px;
+	padding:0px 5px;
+	padding-top:2px;
+}
+
+.risersFallersEBg {
+	color:#666666;
+	padding:3px;
+	background-color:#E6E6E6;
+}
+
+.linkTabs:link {
+	color:#3366CC;
+	text-decoration:none;
+}
+.linkTabs:active {
+	color:#3366CC;
+	text-decoration:none;
+}
+.linkTabs:visited {
+	color:#3366CC;
+	text-decoration:none;
+}
+.linkTabs:hover {
+	color:#3366cc;
+	text-decoration:underline;
+}
+
+.linkUnderline {
+	color: #3366CC;
+	text-decoration: underline;
+}
+
+.linkUnderline:hover {
+	color: #3366CC;
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body bgcolor=3D"#FFFFFF" style=3D"padding:0px;margin:0px;font-family:Arial=
+, Helvetica, sans-serif;	font-size:12px;">
+
+<table width=3D"100pacing=3D"0" bgcolor=3D"#FFFFFF">
+	<tr align=3D"center">
+		<td align=3D"center">
+		=09
+			<table width=3D"700" border=3D"0" cellpadding=3D"4" cellspacing=3D"0" bg=
+color=3D"#FFFFFF">
+				<tr>
+					<td style=3D"font-size:11px;color:#666666;" align=3D"center">
+						If this email is not displayed correctly, please <a href=3D"http://ww=
+w.lse.co.uk/newsletter/marketreport.html" style=3D"color:#3366CC;text-decor=
+ation:underline;">click here</a>
+					</td>
+				</tr>
+				<tr height=3D"70" valign=3D"top" align=3D"left">
+					<td style=3D"padding-left:2px;" height=3D"70" valign=3D"middle" align=
+=3D"left">
+						<a target=3D"_blank" title=3D"London South East" href=3D"http://www.l=
+se.co.uk/">
+						<img src=3D"http://static.lse.co.uk/images/email/lseLogo14-email.jpg"=
+ width=3D"200" height=3D"45" border=3D"0" alt=3D"London South East" /></a><=
+/td>
+				</tr>
+				<tr bgcolor=3D"#990000" height=3D"22">
+					<td height=3D"22">&nbsp;</td>
+				</tr>
+			=09
+			=09
+               =20
+				<tr height=3D"6">
+					<td height=3D"6"></td>
+				</tr>
+               =20
+				<tr height=3D"36" align=3D"left" valign=3D"top">
+					<td height=3D"36" align=3D"left" valign=3D"top" style=3D"font-size: 18=
+px; font-weight:100;  font-family:Verdana, Arial, Helvetica, sans-serif; co=
+lor:#3366CC; padding-top:6px;">
+						Market Report - Tue, 13th Jan 2015</td>
+			=09
+				</tr>
+               =20
+               =20
+				<tr align=3D"left">
+					<td align=3D"left">
+						<table width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+						=09
+							<tr valign=3D"top">
+								<td colspan=3D"2">
+								=09
+									<tr valign=3D"top"><td style=3D"color:#3366CC; font-weight:bold;fo=
+nt-size:13px;">Top Performing Supersector</td></tr><tr valign=3D"top"><td c=
+olspan=3D"2"><table width=3D"420" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif;font-size:12px;"><tr><td class=3D"risersHeader" style=3D"color:#00=
+0099;font-weight:bold;	border-bottom:1px solid #999999;">Retail (2.48><td align=3D"right" class=3D"changeHeader" style=3D"color:#999999;font-wei=
+ght:bold;border-bottom:1px solid #999999;text-align:right;">Price</td><td a=
+lign=3D"right" class=3D"changeHeader" style=3D"color:#999999;font-weight:bo=
+ld;border-bottom:1px solid #999999;text-align:right;">Change</td></tr><tr><=
+td width=3D"240" class=3D"risersFallersBg" style=3D"color:#666666;padding:3=
+px;background-color:#E6E6E6;"><a style=3D"color:#0066CC;text-decoration:non=
+e;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fsharep=
+rice=3DGRG&share=3Dgreggs" title=3D"Greggs share price">Greggs (GRG)</a><td=
+ align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666=
+666;padding:3px;background-color:#E6E6E6;text-align:right;">820.50p</td><td=
+ align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666=
+666;padding:3px;background-color:#E6E6E6;text-align:right;">9.47<tr><td width=3D"240" class=3D"risersFallers" style=3D"color:#666666;paddin=
+g:3px;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs"=
+ href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DASC&share=3Daso=
+s" title=3D"Asos share price">Asos (ASC)</a><td align=3D"right" width=3D"80=
+" class=3D"risersFallers" style=3D"color:#666666;padding:3px;text-align:rig=
+ht;">2,635.00p</td><td align=3D"right" width=3D"80" class=3D"risersFallers"=
+ style=3D"color:#666666;padding:3px;text-align:right;">8.57td width=3D"240" class=3D"risersFallersBg" style=3D"color:#666666;padding:3=
+px;background-color:#E6E6E6;"><a style=3D"color:#0066CC;text-decoration:non=
+e;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fsharep=
+rice=3DCRAW&share=3Dcrawshaw" title=3D"Crawshaw share price">Crawshaw (CRAW=
+)</a><td align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"co=
+lor:#666666;padding:3px;background-color:#E6E6E6;text-align:right;">47.00p<=
+/td><td align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"col=
+or:#666666;padding:3px;background-color:#E6E6E6;text-align:right;">8.05d></tr><tr><td width=3D"240" class=3D"risersFallers" style=3D"color:#666666=
+;padding:3px;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"li=
+nkTabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DSFE&shar=
+e=3Dsafestyle_uk" title=3D"Safestyle Uk share price">Safestyle Uk (SFE)</a>=
+<td align=3D"right" width=3D"80" class=3D"risersFallers" style=3D"color:#66=
+6666;padding:3px;text-align:right;">172.00p</td><td align=3D"right" width=
+=3D"80" class=3D"risersFallers" style=3D"color:#666666;padding:3px;text-ali=
+gn:right;">7.50tyle=3D"color:#666666;padding:3px;background-color:#E6E6E6;"><a style=3D"co=
+lor:#0066CC;text-decoration:none;" class=3D"linkTabs" href=3D"http://www.ls=
+e.co.uk/SharePrice.asp=3Fshareprice=3DLNTA&share=3Dlenta_s" title=3D"Lenta =
+S share price">Lenta S (LNTA)</a><td align=3D"right" width=3D"80" class=3D"=
+risersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E=
+6;text-align:right;">6.98p</td><td align=3D"right" width=3D"80" class=3D"ri=
+sersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;=
+text-align:right;">7.38								</td>
+								<td valign=3D"top">
+									<table class=3D"infoTable" style=3D"border:1px solid #CCCCCC;borde=
+r-right:0;line-height:1.8;margin-left: 0px;color:#333333;font-family:Arial,=
+ Helvetica, sans-serif;	font-size:12px;" width=3D"255" border=3D"0" cellpad=
+ding=3D"1" cellspacing=3D"0"><tr><th class=3D"infoRow" style=3D"text-align:=
+left;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC;backgro=
+und-color:#EDEDED;vertical-align:top;color:#3366CC;text-indent: 2px;">Indic=
+es</th><th class=3D"infoRow" style=3D"text-align:center;border-bottom:1px s=
+olid #CCCCCC;border-right:1px solid #CCCCCC;background-color:#EDEDED;vertic=
+al-align:top;color:#3366CC;">Value</th><th class=3D"infoRow" style=3D"text-=
+align:center;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC=
+;background-color:#EDEDED;vertical-align:top;color:#3366CC;">Chg</th><th cl=
+ass=3D"infoRow" style=3D"text-align:center;border-bottom:1px solid #CCCCCC;=
+border-right:1px solid #CCCCCC;background-color:#EDEDED;vertical-align:top;=
+color:#3366CC;">eft;border-right:1px solid #CCCCCC;border-bottom:1px dotted #CCCCCC;vertica=
+l-align:top;color:#000099;"><a title=3D"FTSE 100 information" href=3D"http:=
+//www.lse.co.uk/indices.asp=3Findex=3Didx:ukx&indexname=3Dftse_100">FTSE 10=
+0</a></td><td align=3D"right" class=3D"infoRow" style=3D"text-align:right;p=
+adding-right:3px;border-right:1px solid #CCCCCC;border-bottom:1px dotted #C=
+CCCCC;vertical-align:top;color:#000099;">6,542.20</td><td align=3D"right" c=
+lass=3D"infoRow" style=3D"text-align:right;padding-right:3px;border-right:1=
+px solid #CCCCCC;border-bottom:1px dotted #CCCCCC;vertical-align:top;color:=
+#000099;">40.78</td><td align=3D"right" class=3D"infoRow" style=3D"text-ali=
+gn:right;padding-right:3px;border-right:1px solid #CCCCCC;border-bottom:1px=
+ dotted #CCCCCC;vertical-align:top;color:#000099;">0.62</td></tr><tr><td cl=
+ass=3D"infoRow" style=3D"text-align: left;border-right:1px solid #CCCCCC;bo=
+rder-bottom:1px dotted #CCCCCC;vertical-align:top;color:#000099;"><a title=
+=3D"FTSE 250 information" href=3D"http://www.lse.co.uk/indices.asp=3Findex=
+=3Didx:mcx&indexname=3Dftse_250">FTSE 250</a></td><td align=3D"right" class=
+=3D"infoRow" style=3D"text-align:right;padding-right:3px;border-right:1px s=
+olid #CCCCCC;border-bottom:1px dotted #CCCCCC;vertical-align:top;color:#000=
+099;">16,084.97</td><td align=3D"right" class=3D"infoRow" style=3D"text-ali=
+gn:right;padding-right:3px;border-right:1px solid #CCCCCC;border-bottom:1px=
+ dotted #CCCCCC;vertical-align:top;color:#000099;">141.28</td><td align=3D"=
+right" class=3D"infoRow" style=3D"text-align:right;padding-right:3px;border=
+-right:1px solid #CCCCCC;border-bottom:1px dotted #CCCCCC;vertical-align:to=
+p;color:#000099;">0.88</td></tr><tr><td class=3D"infoRow" style=3D"text-ali=
+gn: left;border-right:1px solid #CCCCCC;border-bottom:1px dotted #CCCCCC;ve=
+rtical-align:top;color:#000099;"><a title=3D"FTSE All-Share information" hr=
+ef=3D"http://www.lse.co.uk/indices.asp=3Findex=3Didx:asx&indexname=3Dftse_a=
+ll-share">FTSE All-Share</a></td><td align=3D"right" class=3D"infoRow" styl=
+e=3D"text-align:right;padding-right:3px;border-right:1px solid #CCCCCC;bord=
+er-bottom:1px dotted #CCCCCC;vertical-align:top;color:#000099;">3,523.04</t=
+d><td align=3D"right" class=3D"infoRow" style=3D"text-align:right;padding-r=
+ight:3px;border-right:1px solid #CCCCCC;border-bottom:1px dotted #CCCCCC;ve=
+rtical-align:top;color:#000099;">22.96</td><td align=3D"right" class=3D"inf=
+oRow" style=3D"text-align:right;padding-right:3px;border-right:1px solid #C=
+CCCCC;border-bottom:1px dotted #CCCCCC;vertical-align:top;color:#000099;">0=
+.65</td></tr><tr><td class=3D"infoRowBottom" style=3D"text-align: left;bord=
+er-bottom: 0px;border-right: 1px solid #CCCCCC;vertical-align:top;color:#33=
+66CC;color:#000099;"><a title=3D"FTSE Small Cap information" href=3D"http:/=
+/www.lse.co.uk/indices.asp=3Findex=3Didx:smx&indexname=3Dftse_small_cap">FT=
+SE Small Cap</a></td><td align=3D"right" class=3D"infoRowBottom" style=3D"t=
+ext-align:right;padding-right:3px;border-bottom: 0px;border-right: 1px soli=
+d #CCCCCC;vertical-align:top;color:#3366CC;color:#000099;">4,393.96</td><td=
+ align=3D"right" class=3D"infoRowBottom" style=3D"text-align:right;padding-=
+right:3px;border-bottom: 0px;border-right: 1px solid #CCCCCC;vertical-align=
+:top;color:#3366CC;color:#000099;">13.30</td><td align=3D"right" class=3D"i=
+nfoRowBottom" style=3D"text-align:right;padding-right:3px;border-bottom: 0p=
+x;border-right: 1px solid #CCCCCC;vertical-align:top;color:#3366CC;color:#0=
+00099;">0.30</td></tr></table>
+								</td>
+							</tr>
+							<tr valign=3D"top">
+								<td>&nbsp;
+								=09
+								</td>
+							</tr>				=09
+							<tr>
+								<td colspan=3D"2">
+									<tr valign=3D"top"><td style=3D"color:#3366CC; font-weight:bold;fo=
+nt-size:13px;">Worst Performing Supersector</td></tr><tr valign=3D"top"><td=
+ colspan=3D"2"><table width=3D"420" style=3D"font-family:Arial, Helvetica, =
+sans-serif;font-size:12px;"><tr><td class=3D"fallersHeader" style=3D"color:=
+#990000;font-weight:bold;	border-bottom:1px solid #999999;text-align:left;"=
+>Basic Resources (-0.84yle=3D"color:#999999;font-weight:bold;border-bottom:1px solid #999999;">Pri=
+ce</td><td align=3D"right" class=3D"changeHeader" style=3D"color:#999999;fo=
+nt-weight:bold;border-bottom:1px solid #999999;text-align:right;">Change</t=
+d></tr><tr><td width=3D"240" class=3D"risersFallersBg" style=3D"color:#6666=
+66;padding:3px;background-color:#E6E6E6;"><a style=3D"color:#0066CC;text-de=
+coration:none;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.=
+asp=3Fshareprice=3DAXM&share=3Dalexander_min" title=3D"Alexander Min share =
+price">Alexander Min (AXM)</a><td align=3D"right" width=3D"80" class=3D"ris=
+ersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;t=
+ext-align:right;">0.53p</td><td align=3D"right" width=3D"80" class=3D"riser=
+sFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;tex=
+t-align:right;">-32.26rs" style=3D"color:#666666;padding:3px;"><a style=3D"color:#0066CC;text-dec=
+oration:none;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.a=
+sp=3Fshareprice=3DORE&share=3Dorogen_gold" title=3D"Orogen Gold share price=
+">Orogen Gold (ORE)</a><td align=3D"right" width=3D"80" class=3D"risersFall=
+ers" style=3D"color:#666666;padding:3px;text-align:right;">0.07p</td><td al=
+ign=3D"right" width=3D"80" class=3D"risersFallers" style=3D"color:#666666;p=
+adding:3px;text-align:right;">-13.33=3D"risersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E=
+6E6E6;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs"=
+ href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DKEM&share=3Dkem=
+in_resources" title=3D"Kemin Resources share price">Kemin Resources (KEM)</=
+a><td align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color=
+:#666666;padding:3px;background-color:#E6E6E6;text-align:right;">6.25p</td>=
+<td align=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color:#=
+666666;padding:3px;background-color:#E6E6E6;text-align:right;">-12.28</tr><tr><td width=3D"240" class=3D"risersFallers" style=3D"color:#666666;p=
+adding:3px;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"link=
+Tabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DFQM&share=
+=3Dfirst_quantum" title=3D"First Quantum share price">First Quantum (FQM)</=
+a><td align=3D"right" width=3D"80" class=3D"risersFallers" style=3D"color:#=
+666666;padding:3px;text-align:right;">785.00p</td><td align=3D"right" width=
+=3D"80" class=3D"risersFallers" style=3D"color:#666666;padding:3px;text-ali=
+gn:right;">-12.04 style=3D"color:#666666;padding:3px;background-color:#E6E6E6;"><a style=3D"=
+color:#0066CC;text-decoration:none;" class=3D"linkTabs" href=3D"http://www.=
+lse.co.uk/SharePrice.asp=3Fshareprice=3DJLP&share=3Djubilee_plat" title=3D"=
+Jubilee Plat. share price">Jubilee Plat. (JLP)</a><td align=3D"right" width=
+=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;backgr=
+ound-color:#E6E6E6;text-align:right;">1.50p</td><td align=3D"right" width=
+=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;backgr=
+ound-color:#E6E6E6;text-align:right;">-10.45								</td>
+								<td>
+								=09
+<table style=3D"border:1px solid #CCCCCC;border-right:0;line-height:1.8;mar=
+gin-left:0px;color:#333333;" class=3D"infoTable" width=3D"255" cellpadding=
+=3D"2" cellspacing=3D"0" border=3D"0">
+	<tr><th class=3D"infoRow" style=3D"text-align:left;border-bottom:1px solid=
+ #CCCCCC;border-right:1px solid #CCCCCC;background-color:#EDEDED;vertical-a=
+lign:top;color:#3366CC;text-indent: 2px;" colspan=3D"4">Market Movement</th=
+></tr>
+	<tr>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+ width=3D"130" align=3D"left">Rising</td>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+ width=3D"50">638</td>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+ width=3D"40">33		<td style=3D"text-align:left;border-right:1px solid #CCCCCC;border-bottom=
+:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow" =
+width=3D"95" >
+		=09
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"80" style=3D"border:=
+1px solid #666666;margin-top:4px;">
+				<tr>
+					<td bgcolor=3D"#0000CC" style=3D"font-size:6px;" width=3D"26" height=
+=3D"11">&nbsp;</td>
+					<td style=3D"font-size:6px;" width=3D"54" height=3D"11">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+ width=3D"130" align=3D"left">Non-movers</td>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+>824</td>
+		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+>43		<td style=3D"text-align: left;border-right:1px solid #CCCCCC;border-botto=
+m:1px dotted #CCCCCC;vertical-align:top;text-indent:2px;" class=3D"infoRow"=
+ width=3D"95">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"80" style=3D"border:=
+1px solid #666666;margin-top:4px;">
+				<tr>
+					<td bgcolor=3D"#00CC00" style=3D"font-size:6px;" width=3D"34" height=
+=3D"11">&nbsp;</td>
+					<td style=3D"font-size:6px;" width=3D"46" height=3D"11">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"text-align:left;border-right: 1px solid #CCCCCC;border-botto=
+m:0px;vertical-align:top;text-indent:2px;" class=3D"infoRowBottom" width=3D=
+"130" align=3D"left">Falling</td>
+		<td style=3D"text-align:left;border-right: 1px solid #CCCCCC;border-botto=
+m:0px;vertical-align:top;text-indent:2px;" class=3D"infoRowBottom">467</td>
+		<td style=3D"text-align:left;border-right: 1px solid #CCCCCC;border-botto=
+m:0px;vertical-align:top;text-indent:2px;" class=3D"infoRowBottom">24		<td style=3D"text-align:left;border-right: 1px solid #CCCCCC;border-botto=
+m:0px;vertical-align:top;text-indent:2px;" class=3D"infoRowBottom" width=3D=
+"95">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"80" style=3D"border:=
+1px solid #666666;margin-top:4px;">
+				<tr>
+					<td bgcolor=3D"#CC0000" style=3D"font-size:6px;" width=3D"19" height=
+=3D"11">&nbsp;</td>
+					<td style=3D"font-size:6px;" width=3D"61" height=3D"11">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+								</td>
+							</tr>
+                            <tr height=3D"20"><td height=3D"20"></td></tr>
+							<tr>
+								<td valign=3D"top" colspan=3D"2">
+									<img src=3D"http://www.lse.co.uk/images/share-trading-brochure.gif=
+" width=3D"22" height=3D"24" alt=3D"Share Trading Brochure" align=3D"left" =
+hspace=3D"5" vspace=3D"0" />
+									<a style=3D"font-size:120t-family:Arial;font-weight: normal;" href=3D"http://www.lse.co.uk/links/gha=
+npc8qhn" target=3D"_blank" rel=3D"nofollow">Request your Free brochures on =
+share dealing</a><br clear=3D"all" />
+								</td>
+							</tr>				=09
+							<tr height=3D"6"><td height=3D"6"></td></tr>
+						=09
+							<tr>
+								<td colspan=3D"2">
+									<table width=3D"440px">
+	<tr>
+		<td align=3D"left" style=3D"font-size: 18px; font-weight:100;  font-famil=
+y:Verdana, Arial, Helvetica, sans-serif; color:#3366CC; padding:6px 0px; pa=
+dding-left:4px;">
+			Most Popular News Articles
+		</td>
+	</tr>
+=09
+			<tr>
+				<td>
+					<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hsp=
+ace=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"She=
+ll restarts Singapore ethylene cracker - trade" title=3D"Shell restarts Sin=
+gapore ethylene cracker - trade" />
+					<a title=3D"Shell restarts Singapore ethylene cracker - trade" href=3D=
+"http://www.lse.co.uk/FinanceNews.asp=3Fcode=3D1d6nis41&amp;headline=3Dshel=
+l_restarts_singapore_ethylene_cracker_-_trade" class=3D"linkSubNav">Shell r=
+estarts Singapore ethylene cracker - trade</a>
+				</td>
+			</tr>
+=09
+			<tr>
+				<td>
+					<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hsp=
+ace=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"BUZ=
+Z-European energy sector continues slide, drags miners along" title=3D"BUZZ=
+-European energy sector continues slide, drags miners along" />
+					<a title=3D"BUZZ-European energy sector continues slide, drags miners =
+along" href=3D"http://www.lse.co.uk/FinanceNews.asp=3Fcode=3Dbta1megg&amp;h=
+eadline=3Dbuzz-european_energy_sector_continues_slide_drags_miners_along" c=
+lass=3D"linkSubNav">BUZZ-European energy sector continues slide, drags mine=
+rs...</a>
+				</td>
+			</tr>
+=09
+			<tr>
+				<td>
+					<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hsp=
+ace=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"BUZ=
+Z-Centrica: biggest one-day rise for 5.5 yrs on Morgan Stanley upgrade" tit=
+le=3D"BUZZ-Centrica: biggest one-day rise for 5.5 yrs on Morgan Stanley upg=
+rade" />
+					<a title=3D"BUZZ-Centrica: biggest one-day rise for 5.5 yrs on Morgan =
+Stanley upgrade" href=3D"http://www.lse.co.uk/FinanceNews.asp=3Fcode=3Dwiwd=
+di5q&amp;headline=3Dbuzz-centrica:_biggest_one-day_rise_for_55_yrs_on_morga=
+n_stanley_upgrade" class=3D"linkSubNav">BUZZ-Centrica: biggest one-day rise=
+ for 5.5 yrs on Morgan...</a>
+				</td>
+			</tr>
+=09
+			<tr>
+				<td>
+					<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hsp=
+ace=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"Med=
+ical device maker Smith & Nephew CEO: Big not always beautiful" title=3D"Me=
+dical device maker Smith & Nephew CEO: Big not always beautiful" />
+					<a title=3D"Medical device maker Smith & Nephew CEO: Big not always be=
+autiful" href=3D"http://www.lse.co.uk/FinanceNews.asp=3Fcode=3D1bmbb397&amp=
+;headline=3Dmedical_device_maker_smith_&_nephew_ceo:_big_not_always_beautif=
+ul" class=3D"linkSubNav">Medical device maker Smith & Nephew CEO: Big not a=
+lways b...</a>
+				</td>
+			</tr>
+=09
+			<tr>
+				<td>
+					<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hsp=
+ace=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"BUZ=
+Z-Morrisons: Xmas reassures, CEO to go" title=3D"BUZZ-Morrisons: Xmas reass=
+ures, CEO to go" />
+					<a title=3D"BUZZ-Morrisons: Xmas reassures, CEO to go" href=3D"http://=
+www.lse.co.uk/FinanceNews.asp=3Fcode=3Dwvgsi6tb&amp;headline=3Dbuzz-morriso=
+ns:_xmas_reassures_ceo_to_go" class=3D"linkSubNav">BUZZ-Morrisons: Xmas rea=
+ssures, CEO to go</a>
+				</td>
+			</tr>
+=09
+
+</table>
+								</td>
+								<td>
+								=09
+
+<table width=3D"260px">
+	<tr>
+		<td align=3D"left" style=3D"font-size: 18px; font-weight:100;  font-famil=
+y:Verdana, Arial, Helvetica, sans-serif; color:#3366CC; padding:6px 0px; pa=
+dding-left:4px;">
+			Shares in the News
+		</td>
+	</tr>
+=09
+		<tr>
+			<td>
+				<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hspa=
+ce=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"Wm M=
+orrison Supermarkets PLC Stock Market News" />
+				<a title=3D"Wm Morrison Supermarkets PLC Stock Market News" href=3D"htt=
+p://www.lse.co.uk/ShareNews.asp=3Fshareprice=3DMRW" class=3D"linkSubNav">Wm=
+ Morrison Supermarkets (5)</a>
+			</td>
+		</tr>
+=09
+		<tr>
+			<td>
+				<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hspa=
+ce=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"TESC=
+O Plc Stock Market News" />
+				<a title=3D"TESCO Plc Stock Market News" href=3D"http://www.lse.co.uk/S=
+hareNews.asp=3Fshareprice=3DTSCO" class=3D"linkSubNav">TESCO Plc (4)</a>
+			</td>
+		</tr>
+=09
+		<tr>
+			<td>
+				<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hspa=
+ce=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"BP P=
+LC Stock Market News" />
+				<a title=3D"BP PLC Stock Market News" href=3D"http://www.lse.co.uk/Shar=
+eNews.asp=3Fshareprice=3DBP" class=3D"linkSubNav">BP (4)</a>
+			</td>
+		</tr>
+=09
+		<tr>
+			<td>
+				<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hspa=
+ce=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"ASOS=
+ PLC Stock Market News" />
+				<a title=3D"ASOS PLC Stock Market News" href=3D"http://www.lse.co.uk/Sh=
+areNews.asp=3Fshareprice=3DASOS" class=3D"linkSubNav">ASOS (3)</a>
+			</td>
+		</tr>
+=09
+		<tr>
+			<td>
+				<img src=3D"http://www.lse.co.uk/images/redArrow.jpg" border=3D"0" hspa=
+ce=3D"0" width=3D"20" height=3D"14" vspace=3D"0" align=3D"left" alt=3D"Ashm=
+ore Group PLC Stock Market News" />
+				<a title=3D"Ashmore Group PLC Stock Market News" href=3D"http://www.lse=
+.co.uk/ShareNews.asp=3Fshareprice=3DASHM" class=3D"linkSubNav">Ashmore Grou=
+p (3)</a>
+			</td>
+		</tr>
+=09
+	=09
+</table>
+								</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+						=09
+							<tr>
+								<td colspan=3D"2" style=3D"padding-right:0px;">
+								=09
+									<table><tr><td class=3D"risersHeader" style=3D"color:#000099;font-=
+weight:bold;	border-bottom:1px solid #999999;"><a title=3D"Today's Share Ri=
+sers" href=3D"http://www.lse.co.uk/share-risers.asp" style=3D"color:#000099=
+;text-decoration:none;">Share Risers</a></td><td align=3D"right" class=3D"p=
+ricesHeader" style=3D"color:#999999;font-weight:bold;border-bottom:1px soli=
+d #999999;text-align:right;">Price</td><td align=3D"right" class=3D"changeH=
+eader" style=3D"color:#999999;font-weight:bold;border-bottom:1px solid #999=
+999;text-align:right;">Change</td></tr><tr><td width=3D"240" class=3D"riser=
+sFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;"><=
+a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" href=3D"=
+http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DRCI&share=3Drapidcloud" =
+title=3D"Rapidcloud share price">Rapidcloud (RCI)</a><td align=3D"right" wi=
+dth=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;bac=
+kground-color:#E6E6E6;text-align:right;">42.00p</td><td align=3D"right" wid=
+th=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;back=
+ground-color:#E6E6E6;text-align:right;">10.530" class=3D"risersFallers" style=3D"color:#666666;padding:3px;"><a style=3D=
+"color:#0066CC;text-decoration:none;" class=3D"linkTabs" href=3D"http://www=
+.lse.co.uk/SharePrice.asp=3Fshareprice=3DSYQ&share=3Dsyqic_plc" title=3D"Sy=
+qic Plc share price">Syqic Plc (SYQ)</a><td align=3D"right" width=3D"80" cl=
+ass=3D"risersFallers" style=3D"color:#666666;padding:3px;text-align:right;"=
+>53.50p</td><td align=3D"right" width=3D"80" class=3D"risersFallers" style=
+=3D"color:#666666;padding:3px;text-align:right;">10.31dth=3D"240" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;ba=
+ckground-color:#E6E6E6;"><a style=3D"color:#0066CC;text-decoration:none;" c=
+lass=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=
+=3DGRG&share=3Dgreggs" title=3D"Greggs share price">Greggs (GRG)</a><td ali=
+gn=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;=
+padding:3px;background-color:#E6E6E6;text-align:right;">820.50p</td><td ali=
+gn=3D"right" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;=
+padding:3px;background-color:#E6E6E6;text-align:right;">9.47<td width=3D"240" class=3D"risersFallers" style=3D"color:#666666;padding:3p=
+x;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DASC&share=3Dasos" t=
+itle=3D"Asos share price">Asos (ASC)</a><td align=3D"right" width=3D"80" cl=
+ass=3D"risersFallers" style=3D"color:#666666;padding:3px;text-align:right;"=
+>2635.00p</td><td align=3D"right" width=3D"80" class=3D"risersFallers" styl=
+e=3D"color:#666666;padding:3px;text-align:right;">8.57dth=3D"240" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;ba=
+ckground-color:#E6E6E6;"><a style=3D"color:#0066CC;text-decoration:none;" c=
+lass=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=
+=3DTLPR&share=3Dtullett_prebon" title=3D"Tullett Prebon share price">Tullet=
+t Prebon (TLPR)</a><td align=3D"right" width=3D"80" class=3D"risersFallersB=
+g" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;text-align:r=
+ight;">311.20p</td><td align=3D"right" width=3D"80" class=3D"risersFallersB=
+g" style=3D"color:#666666;padding:3px;background-color:#E6E6E6;text-align:r=
+ight;">8.06								</td>
+								<td style=3D"padding-top:25px;" valign=3D"top">
+									<table width=3D"255" cellpadding=3D"1" cellspacing=3D"0" style=3D"=
+padding:2px; border:1px solid #CCCCCC; background-color:#EDEDED;color:#6666=
+66;">
+								=09
+	<tr>
+		<td bgcolor=3D"#e0e0e0" colspan=3D"2">
+			<strong>Share topics with posts in the last week</strong>
+		</td>
+	</tr>
+=09
+		<tr>
+			<td bgcolor=3D"">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DQPP&share=3Dquindel=
+l">
+					Quindell (QPP)
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				5923
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DWRN&share=3Dworthin=
+gton">
+					Worthington (WRN)
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				2170
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DLGO&share=3Dlgo_ene=
+rgy">
+					Lgo Energy (LGO)
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				1822
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DKIBO&share=3Dkibo_m=
+ining">
+					Kibo Mining (KIBO)
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				1275
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DFTE&share=3Dforte_e=
+nergy">
+					Forte Energy (FTE)
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				1112
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/ShareChat.asp=3Fshareticker=3DPTV&share=3Dpeertv">
+					Peertv (PTV)
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				922
+			</td>
+		</tr>
+
+</table>
+								</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<td colspan=3D"2" style=3D"padding-right:0px;">
+								=09
+									<table><tr><td class=3D"fallersHeader" style=3D"color:#990000;font=
+-weight:bold;	border-bottom:1px solid #999999;"><a title=3D"Today's Share F=
+allers" href=3D"http://www.lse.co.uk/share-fallers.asp" style=3D"color:#990=
+000;text-decoration:none;">Share Fallers</a></td><td align=3D"right" class=
+=3D"pricesHeader" style=3D"color:#999999;font-weight:bold;border-bottom:1px=
+ solid #999999;text-align:right;">Price</td><td align=3D"right" class=3D"ch=
+angeHeader" style=3D"color:#999999;font-weight:bold;border-bottom:1px solid=
+ #999999;text-align:right;">Change</td></tr><tr><td width=3D"240" class=3D"=
+risersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E=
+6;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DQPP&share=3Dquindel=
+l" title=3D"Quindell share price">Quindell (QPP)</a><td align=3D"right" wid=
+th=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;back=
+ground-color:#E6E6E6;text-align:right;">86.25p</td><td align=3D"right" widt=
+h=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3px;backg=
+round-color:#E6E6E6;text-align:right;">-19.390" class=3D"risersFallers" style=3D"color:#666666;padding:3px;"><a style=3D=
+"color:#0066CC;text-decoration:none;" class=3D"linkTabs" href=3D"http://www=
+.lse.co.uk/SharePrice.asp=3Fshareprice=3DNLG&share=3Darria_nlg_ords" title=
+=3D"Arria Nlg Ords share price">Arria Nlg Ords (NLG)</a><td align=3D"right"=
+ width=3D"80" class=3D"risersFallers" style=3D"color:#666666;padding:3px;te=
+xt-align:right;">21.00p</td><td align=3D"right" width=3D"80" class=3D"riser=
+sFallers" style=3D"color:#666666;padding:3px;text-align:right;">-17.65></tr><tr><td width=3D"240" class=3D"risersFallersBg" style=3D"color:#66666=
+6;padding:3px;background-color:#E6E6E6;"><a style=3D"color:#0066CC;text-dec=
+oration:none;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePrice.a=
+sp=3Fshareprice=3DCTEK&share=3Dchina_chaintek" title=3D"China Chaintek shar=
+e price">China Chaintek (CTEK)</a><td align=3D"right" width=3D"80" class=3D=
+"risersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6=
+E6;text-align:right;">52.50p</td><td align=3D"right" width=3D"80" class=3D"=
+risersFallersBg" style=3D"color:#666666;padding:3px;background-color:#E6E6E=
+6;text-align:right;">-17.32Fallers" style=3D"color:#666666;padding:3px;"><a style=3D"color:#0066CC;tex=
+t-decoration:none;" class=3D"linkTabs" href=3D"http://www.lse.co.uk/SharePr=
+ice.asp=3Fshareprice=3DINDI&share=3Dindus_gas" title=3D"Indus Gas share pri=
+ce">Indus Gas (INDI)</a><td align=3D"right" width=3D"80" class=3D"risersFal=
+lers" style=3D"color:#666666;padding:3px;text-align:right;">162.50p</td><td=
+ align=3D"right" width=3D"80" class=3D"risersFallers" style=3D"color:#66666=
+6;padding:3px;text-align:right;">-15.09ss=3D"risersFallersBg" style=3D"color:#666666;padding:3px;background-color:=
+#E6E6E6;"><a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTab=
+s" href=3D"http://www.lse.co.uk/SharePrice.asp=3Fshareprice=3DMONI&share=3D=
+monitise" title=3D"Monitise share price">Monitise (MONI)</a><td align=3D"ri=
+ght" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:=
+3px;background-color:#E6E6E6;text-align:right;">21.50p</td><td align=3D"rig=
+ht" width=3D"80" class=3D"risersFallersBg" style=3D"color:#666666;padding:3=
+px;background-color:#E6E6E6;text-align:right;">-13.13								</td>
+								<td style=3D"padding-top:25px;" valign=3D"top">
+									<table width=3D"255" cellpadding=3D"1" cellspacing=3D"0" style=3D"=
+padding:2px; border:1px solid #CCCCCC; background-color:#EDEDED;color:#6666=
+66;">
+								=09
+	<tr>
+		<td bgcolor=3D"#e0e0e0" colspan=3D"2">
+			<strong>Tuesday's most recommended Posters</strong>
+		</td>
+	</tr>
+=09
+		<tr>
+			<td bgcolor=3D"" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3DBrotherhumble">
+					Brotherhumble
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				638
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3Donceatrader">
+					onceatrader
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				633
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3DK3VMC">
+					K3VMC
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				467
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3Dokenia">
+					okenia
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				455
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3DGrumpyScouser">
+					GrumpyScouser
+				</a>
+			</td>
+			<td bgcolor=3D"" width=3D"40">
+				444
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor=3D"#e0e0e0" width=3D"215">
+				<a style=3D"color:#0066CC;text-decoration:none;" class=3D"linkTabs" hre=
+f=3D"http://www.lse.co.uk/member-info.asp=3Fnick=3Dnomoney1">
+					nomoney1
+				</a>
+			</td>
+			<td bgcolor=3D"#e0e0e0" width=3D"40">
+				424
+			</td>
+		</tr>
+
+</table>
+								</td>
+							</tr>
+						</table><br clear=3D"all" /></td>
+				</tr>
+			=09
+               =20
+                <tr>
+                    <td valign=3D"top">
+                        <img src=3D"http://www.lse.co.uk/images/share-tradi=
+ng-brochure.gif" width=3D"22" height=3D"24" alt=3D"Share Trading Brochure" =
+align=3D"left" hspace=3D"5" vspace=3D"0" />
+                        <a style=3D"font-size:120ation:none; font-family:Arial;font-weight: normal;" href=3D"http://www.lse.=
+co.uk/links/ghanpc8qhn" target=3D"_blank" rel=3D"nofollow">Request your Fre=
+e brochures on share dealing</a><br clear=3D"all" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+				<tr bgcolor=3D"#990000" height=3D"22">
+					<td height=3D"22" style=3D"font-size: 11px; font-family:Arial; color:#=
+FFFFFF; padding-left:5px;">
+						Please do not reply to this email, as it is automatically generated.<=
+/td>
+				</tr>
+				<tr height=3D"80" align=3D"center">
+					<td style=3D"font-size:11px;color:#666666;" align=3D"center"><br />
+						You were sent this email because you subscribed to the London South E=
+ast Daily Market Report Newsletter.<br />
+						To unsubscribe from this newsletter <a style=3D"color:#3366CC;text-de=
+coration:none;" href=3D"http://www.lse.co.uk/newsletter-unsubscribe.asp=3Fu=
+nsub=3Doh5e0dyzzbif2wh" class=3D"linkTabs">click here</a>.<br />
+						<br />
+						While London South East do their best to maintain the high quality of=
+ the information displayed in this email, we cannot be held
+responsible for any loss due to incorrect information found here. All infor=
+mation is provided free of charge, 'as-is', and you use it at your own risk=
+!</td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+<img alt=3D"London South East" border=3D"0" hspace=3D"0" vspace=3D"0" src=
+=3D"http://www.lse.co.uk/newsletter/readCount.asp=3Fcode=3Doh5e0dyzzbif2wh&=
+date=3D13-JAN-2015" />
+</body>
+</html>
+

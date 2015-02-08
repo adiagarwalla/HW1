@@ -1,0 +1,101 @@
+From @..  Mon Jan 26 05:42:41 2015
+Return-Path: <@..>
+X-Original-To: hally78@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id AB4F5DE; Mon, 26 Jan 2015 05:42:41 +0000 (UTC)
+Received: from mail.hexglu.bboot.info (70.98.205.112 [70.98.205.112])
+    by .. with SMTP id iamvish2d83p2aj94jq2aphg2i;
+    for hally78@fs.net;
+    Mon, 26 Jan 2015 05:42:41 +0000 (UTC)
+    (envelope-from armandakulpa@hexglu.bboot.info)
+Received-SPF: TempError; receiver=..;
+    client-ip=70.98.205.112; envelope-from=<armandakulpa@hexglu.bboot.info>;
+    helo=mail.hexglu.bboot.info
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=70.98.205.112; client-port=49239;
+    syn-fingerprint=14600:55:1:60:M1380,S,T,N,W7; network-hops=10;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.101 209.63.100.146 209.63.100.146 70.98.98.66
+    70.98.205.112; network-path-time=1422250951; RBL=zen..org
+    (127.0.0.3)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=a1v76pm; d=hexglu.bboot.info;
+ h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID; i=armandakulpa@hexglu.bboot.info;
+ bh=fLRc/fNM+saJ6Bp/s5hTaI1IxBkjHJOY0o3zUoLOSaY=;
+ b=OCK797KDOtmlE1G8fZvPlj0Sce3Owe+/55wURXYujIkM9I8QKKTywGqBr16JKuwcyaNLlOrYdXPh
+   ZHyHlpptbuVTiOIJn+o48L3hK5Bz6wIbWPX+KHIlnz71RXtGCrnqygL+XXNMHRPjnI/F9UQXDSDJ
+   F9j68jxo7qb4yZcIhk8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=a1v76pm; d=hexglu.bboot.info;
+ b=NzZ3ko29QH8mivtRu2XX6986ONVABvjdKlSHZGcuoABaGxB1r3pHfSNteiM+49Cifkve55EiwFuc
+   gYbrOK8cO7KU01kEZkgCbd9naucFc1pT3QN9oO8ypsE0dZYsjDqcmBnBAwGf/0xSs+UedRHf+iK/
+   md/2rJPRYhEIR8mijR4=;
+Content-Type: multipart/alternative;
+	boundary="===============7642710775627734417=="
+MIME-Version: 1.0
+Subject: Help Poor Children
+From: "Coreen" <@..>
+To: @..
+Date: Mon, 26 Jan 2015 06:08:25 +0000
+Message-ID: <1422252505.063335.8866.15565@hexglu.bboot.info>
+
+--===============7642710775627734417==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+IyMjIEhlbGxvCgojIyMgKipXZSBhcmUgdmVyeSBidXN5IHdpdGggb3VyIGRhaWx5IHdvcmssIEJ1
+c3kgUm91dGluZSBsaWZlLCBIYW5naW5nIGFyb3VuZCwgUGxheWluZywgUGFydGllcyBhbmQgbXVj
+aCBtb3JlLi4uICAgCkJ1dCB0aGVyZSBhcmUgY2hpbGRyZW4gb3V0IHRoZXJlIHdobyBjYW4gbm90
+IGdldCBiYXNpYyBlZHVjYXRpb24sIENhbiBub3QgUGxheSAsIENhbiBub3QgZWF0ICwgTm90IGhh
+dmUgYmFzaWMgbmVjZXNzdGllcyBvZiBsaWZlLiAgIAogIApUaGV5IE5FRUQgWU9VUiBIRUxQISAg
+CiAgCkRvbmF0ZSBmb3IgdGhlbSB0byBoZWxwIHRoZW0gZ2V0IGVkdWNhdGlvbiwgVG8gbGl2ZSBh
+IGJhc2ljIGxpZmUuIFlvdXIgZmV3IGRvbGxhcnMgd29uJ3QgZGVjcmVhc2UgeW91ciB3b3J0aC4g
+QnV0IGNhbiBoZWxwIG90aGVycy4gIAogIApTbyBkb25hdGUgdG8gZGlmZmVyZW50IENoYXJpdGll
+cyBhbmQgdG8gQ2hpbGRyZW4gQXJvdW5kIFlvdS4gIAogIApBIG1lc3NhZ2UgYnkgV29ybGQgQ2hp
+bGRyZW4gT3JnYW5pemF0aW9uLioqCgogCgpHb29kIEx1Y2sKCiMjIyAgCgojIyMgW1dhbnQgTm8g
+TW9yZSBNYWlscyBmcm9tIHVzID8gQ2xpY2sgSGVyZSB0byBVbnN1YnNjcmliZV0oaHR0cDovL2hl
+eGdsdS5iYm9vdC5pbmZvLzUyODkvMjAxNS85MTQwLzI2Lz9pbmZvPWV5SmhJam9nTWl3Z0luVWlP
+aUFpYVcxaGFXeGxjaUlzSUNKMElqb2dJbWx0WVdsc1pYSmZYelZmTWpBeE5UQXhNalV5TWpBNU5U
+WWlMQ0FpZGlJNklDSm9aWGhuYkhVdVltSnZiM1F1YVc1bWJ5SXNJQ0psSWpvZ0ltaGhiR3g1Tnpo
+QVpuTXVibVYwSWl3Z0luUmxkbVZ1ZENJNklDSjFibk4xWW5OamNtbGlaU0o5JnVybD1hSFIwY0Rv
+dkwyRndjQzVwYldGcGJIVnViR2x0YVhSbFpDNWpiMjB2WW5Wc2F5OTFibk4xWW5OamNtbGlaUzg9
+KQoKIyMjICAK
+
+--===============7642710775627734417==
+Content-Type: multipart/related;
+	boundary="===============4527747481238395412=="
+MIME-Version: 1.0
+
+--===============4527747481238395412==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+PGgzPkhlbGxvPC9oMz4KCjxoMz48Zm9udCBmYWNlPSJtb25vc3BhY2UiPjxi
+PldlIGFyZSB2ZXJ5IGJ1c3kgd2l0aCBvdXIgZGFpbHkgd29yaywgQnVzeSBSb3V0aW5lIGxpZmUs
+IEhhbmdpbmcgYXJvdW5kLCBQbGF5aW5nLCBQYXJ0aWVzIGFuZCBtdWNoIG1vcmUuLi4mbmJzcDs8
+YnIgLz4KQnV0IHRoZXJlIGFyZSBjaGlsZHJlbiBvdXQgdGhlcmUgd2hvIGNhbiBub3QgZ2V0IGJh
+c2ljIGVkdWNhdGlvbiwgQ2FuIG5vdCBQbGF5ICwgQ2FuIG5vdCBlYXQgLCBOb3QgaGF2ZSBiYXNp
+YyBuZWNlc3N0aWVzIG9mIGxpZmUuJm5ic3A7PGJyIC8+CjxiciAvPgpUaGV5IE5FRUQgWU9VUiBI
+RUxQITxiciAvPgo8YnIgLz4KRG9uYXRlIGZvciB0aGVtIHRvIGhlbHAgdGhlbSBnZXQgZWR1Y2F0
+aW9uLCBUbyBsaXZlIGEgYmFzaWMgbGlmZS4gWW91ciBmZXcgZG9sbGFycyB3b24mIzM5O3QgZGVj
+cmVhc2UgeW91ciB3b3J0aC4gQnV0IGNhbiBoZWxwIG90aGVycy48YnIgLz4KPGJyIC8+ClNvIGRv
+bmF0ZSB0byBkaWZmZXJlbnQgQ2hhcml0aWVzIGFuZCB0byBDaGlsZHJlbiBBcm91bmQgWW91Ljxi
+ciAvPgo8YnIgLz4KQSBtZXNzYWdlIGJ5IFdvcmxkIENoaWxkcmVuIE9yZ2FuaXphdGlvbi48L2I+
+PC9mb250PjwvaDM+Cgo8cD4mbmJzcDs8L3A+Cgo8cD5Hb29kIEx1Y2s8L3A+Cgo8aDM+Jm5ic3A7
+PC9oMz4KCjxoMz48YSBocmVmPSJodHRwOi8vaGV4Z2x1LmJib290LmluZm8vNTI4OS8yMDE1Lzkx
+NDAvMjYvP2luZm89ZXlKaElqb2dNaXdnSW5VaU9pQWlhVzFoYVd4bGNpSXNJQ0owSWpvZ0ltbHRZ
+V2xzWlhKZlh6VmZNakF4TlRBeE1qVXlNakE1TlRZaUxDQWlkaUk2SUNKb1pYaG5iSFV1WW1KdmIz
+UXVhVzVtYnlJc0lDSmxJam9nSW1oaGJHeDVOemhBWm5NdWJtVjBJaXdnSW5SbGRtVnVkQ0k2SUNK
+MWJuTjFZbk5qY21saVpTSjkmdXJsPWFIUjBjRG92TDJGd2NDNXBiV0ZwYkhWdWJHbHRhWFJsWkM1
+amIyMHZZblZzYXk5MWJuTjFZbk5qY21saVpTOD0iPldhbnQgTm8gTW9yZSBNYWlscyBmcm9tIHVz
+ID8gQ2xpY2sgSGVyZSB0byBVbnN1YnNjcmliZTwvYT48L2gzPgoKPGgzPiZuYnNwOzwvaDM+Cjxp
+bWcgc3JjPSJodHRwOi8vaGV4Z2x1LmJib290LmluZm8vODI3Mi8yMDE1LzA5NDEvMjYvP2luZm89
+ZXlKaElqb2dNQ3dnSW5VaU9pQWlhVzFoYVd4bGNpSXNJQ0owSWpvZ0ltbHRZV2xzWlhKZlh6VmZN
+akF4TlRBeE1qVXlNakE1TlRZaUxDQWlkaUk2SUNKb1pYaG5iSFV1WW1KdmIzUXVhVzVtYnlJc0lD
+SmxJam9nSW1oaGJHeDVOemhBWm5NdWJtVjBJaXdnSW5SbGRtVnVkQ0k2SUNKdmNHVnVJbjA9IiB3
+aXRoPSIwcHgiIGhlaWdodD0iMHB4Ii8+PC9ib2R5PjxodG1sPg==
+
+--===============4527747481238395412==--
+--===============7642710775627734417==--
+

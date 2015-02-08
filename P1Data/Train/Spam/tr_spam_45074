@@ -1,0 +1,1412 @@
+From @..  Fri Jan  2 14:14:56 2015
+Return-Path: <@..>
+X-Original-To: cathandgraham@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6E8D2DE; Fri,  2 Jan 2015 14:14:56 +0000 (UTC)
+Received: from unusseptemquinque.phi.ec-cluster.com (unusseptemquinque.phi.ec-cluster.com [195.140.184.175])
+    by .. with SMTP id du2qqqecjvvmzwtdu7day23mps;
+    for cathandgraham@fs.net;
+    Fri, 02 Jan 2015 14:14:55 +0000 (UTC)
+    (envelope-from g-7668879331-7196-750854097-1420207557851@bounce.homebaselife.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.140.184.175;
+    envelope-from=<g-7668879331-7196-750854097-1420207557851@bounce.homebaselife.com>;
+    helo=unusseptemquinque.phi.ec-cluster.com; mechanism=ip4:195.140.184.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.140.184.175; client-port=46274;
+    syn-fingerprint=14600:46:1:52:M1380,N,N,S,N,W7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.134.1 4.69.134.1 62.140.24.62
+    217.64.171.114; network-path-time=1420208095
+Received: from app30.muc.ec-messenger.com (app30.muc.domeus.com [172.16.8.60])
+	by mta023.muc.domeus.com (READY) with ESMTP id D0C481204F16E
+	for <cathandgraham@fs.net>; Fri,  2 Jan 2015 15:05:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=homebaselife.com;
+	s=ecm1; t=1420207557;
+	bh=w21zNlCk2e6qFUdmJHP3SwMCCQTgzNkyaFW9TbZpKEk=;
+	h=Date:From:Reply-To:To:Subject:List-Id:List-Unsubscribe:List-Help;
+	b=dB6gfDBbppLoABmgy7hlMpsXtNR8Zlgbed9bUl7AytGxhZeD5B4v3Vz261Ho8hizE
+	 wasp1Ygbq8mEBJ891CiSfJpFLZxLR98ClyCM+Hv3c6RJEVtNysiPWK3hnPxmtnJd8v
+	 0wWbouI72e4Y8+h+Twbc93SCTF1z8ul78HfBxejE=
+Date: Fri, 2 Jan 2015 15:05:57 +0100 (CET)
+From: Homebase <@..>
+Reply-To: @..
+To: @..
+Message-ID: <nicdx.i4fmwt0bg3vdgfl@homebaselife.com>
+Subject: New Year, New Look - Sale now on Plus an extra 20MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-eC-messenger-mid: 750854097
+List-Id: <700006685.homebaselife.com>
+X-eC-messenger-cid: 7196
+X-eC-messenger-token: cf1eq9I3itup5v
+List-Unsubscribe: <http://homebaselife.com/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=700006685&uid=7668879331&mid=750854097&siglistunsub=LFCGBOMDPNMPMHOD&errorPage=/public/list_unsubscribe.jsp>, <mailto:listunsubscribe-700006685-750854097-7668879331@homebaselife.com>
+X-eC-messenger-sender-domain: bounce.homebaselife.com
+X-eC-messenger-sendouttypeid: 0
+X-eC-messenger-addresseeroleid: 1
+X-eC-messenger-recipienttypeid: 2
+List-Help: complaint@intl.teradatadmc.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-Mailer: eC-Messenger Build 6.90.871.3
+X-eC-messenger-email: cathandgraham@fs.net
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8" />
+        <title></title>
+    </head>
+    <style type=3D"text/css">
+        .ReadMsgBody{width:100        .ExternalClass{width:100        body{-webkit-text-size-adjust:none;-ms-text-size-adjust:none}
+        body{
+        margin:0;
+        padding:0;
+        background-color: #f8f7f7;
+        font-family:Arial, Helvetica, sans-serif;
+        text-decoration:none;
+        }
+=09=09.appleLinks a {color:#666666;}
+        .appleLinksWhite a {color:#ffffff;}
+        a:link {
+        color: #666666;
+        }
+        a:visited {
+        color: #666666;
+        }
+        a:active {
+        color: #666666;
+        }
+        a {
+        text-decoration: none;
+        }
+        img {
+        border:none;
+        }
+        p, span {
+        font-family:Arial, Helvetica, sans-serif;
+        color:#666666;
+        font-size:12px;
+        }
+        table td {
+        border-collapse:collapse;
+        font-family:Arial, Helvetica, sans-serif;
+        color:#ffffff;
+        text-decoration:none;
+        }
+        p {
+        margin:0;
+        padding:0;
+        margin-bottom:0;
+        }
+        @media screen and (max-width: 480px){
+        body {
+        margin: 0;
+        padding: 0;
+        }
+        *[class=3Dmobhide] {
+        display:none !important;
+        }
+        *[class=3DDB] {
+        display:block !important;
+        }
+        *[class=3Dstorelocator] {
+        height: 30px;
+        width: 30px;
+        }
+        *[class=3Dnavcatw] {
+        width: 45px !important;
+        }
+        *[class=3Dbutton] {
+=09=09=09line-height:20px  !important;
+=09=09=09font-size:18px !important;
+        }
+        *[class=3D"320width"] {
+        width: 320px !important;
+        }
+        *[class=3Dbreak] {
+        height: 10px !important;
+        }
+        *[class=3DHeaderdesktop] {
+        display:none !important;
+        }
+        *[class=3DHeadermobile] {
+        display: block !important;
+        height: 420px;
+        width: 320px;
+        }
+        *[class=3Dnavmobpadding_first] {
+        padding:10px 10px 10px 15px !important;
+        }
+        *[class=3Dnavmobpadding] {
+        padding:10px 5px 10px 5px !important;
+        }
+        *[class=3Dnavmobpadding_last] {
+        padding:10px 10px 10px 10px !important;
+        }
+        *[class=3Dhmob] {
+        width: 80px !important;
+        }
+        *[class=3Dheaderpromoimage] {
+        display:block;
+        height: 210px;
+        width: 320px;
+        }
+        *[class=3Dheaderpromoblock] {
+        display:block;
+        }
+        *[class=3Dpromogap] {
+        font-size:38px !important;
+        padding:10px 15px 0px 15px !important;
+        }
+        *[class=3Dpromolinegap] {
+        width:15px !important;
+        }
+        *[class=3Dpromomobile] {
+        width:320px;
+        height:80px;
+        }
+        *[class=3Dcategorydesktop] {
+        display:none !important;
+        }
+        *[class=3Dcategorymobile] {
+        display: block !important;
+        height: 200px;
+        width: 100px;
+        }
+        *[class=3Dcategoryw] {
+        width: 1px !important;
+        }
+        *[class=3Dcategoryws] {
+        width: 9px !important;
+        }
+        *[class=3Dcategoryswap] {
+        width: 100px !important;
+        }
+        *[class=3Dcategorytext] {
+        width: 80px !important;
+        }
+=09=09*[class=3Dcategorytext_2] {
+        width: 80px !important;
+=09=09font-size:14px !important;
+        }
+        *[class=3DPreheader_width] {
+        width: 130px !important;=20
+        }
+        *[class=3DPreheader_height] {
+        height: 31px !important;=20
+        }
+        *[class=3DH1MOB] {
+        font-size: 21px !important;
+        }
+        *[class=3DH2MOB] {
+        font-size: 17px !important;
+        }
+        *[class=3Dline] {
+        width: 300px !important;
+        height: 1px !important;
+        }
+        td[class=3Dpattern] {
+        max-width: 640px !important;
+        }
+        td[class=3Dpattern] .block {
+        width: 320px;
+        display: block;
+        }
+        td[class=3Dpattern] .block1 {
+        margin-bottom: 15px
+        }
+        td[class=3Dpattern] .blocktext {
+        text-align:center;
+        }
+        *[class=3Ddoublecat] {
+        width:300px;
+        display:block;
+        }
+        *[class=3Ddoubleinspire] {
+        width:300px;
+        height:145px;
+        }
+        *[class=3Ddoublecatimage] {
+        width:300px;
+        height:197px;
+        }
+        *[class=3Ddoublecatbreak] {
+        height:10px;
+        width:300px;
+        display:block;
+        }
+        *[class=3Dheader] {
+        display:block;
+        height: 125px;
+        width: 320px;
+        }
+=09=09*[class=3Dbanner] {
+        display:block;
+        height: 71px;
+        width: 300px;
+        }
+        *[class=3Dsubtitle] {
+        width:300px;
+=09=09font-size:15px !important;
+        }
+        *[class=3Dsubtitle_line] {
+        width:270px;
+        }
+        *[class=3Dsubtitle_Title1] {
+        font-size:35px;
+        }
+        *[class=3DPVcode2] {
+        width:320px;
+        display:block;  =20
+        }
+=09=09*[class=3DPVcode320] {
+        width:320px;
+        height:40px;
+        display:block;
+        text-align:left;   =20
+        }
+        *[class=3DPVcode] {
+        width:300px;
+        height:40px;
+        display:block;
+        text-align:left;   =20
+        }
+        *[class=3DPVcodeText] {
+        padding-left:15px;   =20
+        }
+        *[class=3Dblock8] {
+        display: block !important;
+        height: 242px;
+        width: 300px;
+=09=09}
+        *[class=3Dblock9] {
+        display: block !important;
+        height: 420px;
+        width: 320px;
+        }
+        *[class=3Dblock10] {
+        display: block !important;
+        height: 394px;
+        width: 300
+=09=09px;
+        }
+=09=09*[class=3Dbuttonfix] {
+=09=09=09=09   min-width:280px !important;
+=09=09=09=09    width:300px !important;
+=09=09=09=09=09line-height:22px  !important;
+=09=09=09font-size:16px !important;
+=09=09=09height:45px !important;
+=09=09=09padding: 10px 0px !important;
+=09=09=09 }
+    </style>
+    <!--[if gte mso 15]>
+    <style type=3D"text/css" media=3D"all">
+        .msoline { font-size:1px; mso-line-height-alt:0; mso-margin-top-alt=
+:1px; }
+    </style>
+    <![endif]-->
+    <body>
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"32=
+0width" width=3D"640" align=3D"center" style=3D"border:none; mso-table-lspa=
+ce:0pt; mso-table-rspace:0pt; border-collapse:collapse;">
+            <tr>
+                <td>
+                    <table width=3D"100llpadding=3D"0" height=3D"36" class=3D"Preheader_height" style=3D"font-size=
+:12px;color:#999999;" align=3D"right">
+                        <tr>
+                            <td colspan=3D"5" height=3D"10" style=3D"font-s=
+ize: 10px; line-height: 10px;"></td>
+                        </tr>
+                        <tr>
+                            <td align=3D"left" width=3D"450" class=3D"Prehe=
+ader_width" height=3D"15"><span style=3D"display:none;font-size: 0px;line-h=
+eight: 0px;color:#f8f7f7;">Offers on kitchens, furniture, flooring and much=
+ more - <br /></span></td>
+                            <td align=3D"right" height=3D"15" width=3D"70" =
+style=3D"font-size:12px; line-height: 15px;"><a href=3D"http://homebaselife=
+.com/public/read_message.jsp?tsp=3D1420207534101&custid=3D7196&uid=3D766887=
+9331&sig=3DEDFJBEFBHMFJMFNI&mid=3D750854097" title=3D"Click to view online"=
+ style=3D"color:#999999;text-decoration:none;text-align:right;font-size:12p=
+x;font-family:Arial, Helvetica, sans-serif;">View online</a></td>
+                            <td align=3D"right" width=3D"13" height=3D"15" =
+style=3D"font-size: 12px; line-height: 15px;">&nbsp;</td>
+                            <td align=3D"right" height=3D"15" width=3D"110"=
+ style=3D"font-size:12px; line-height: 15px;"><a href=3D"http://homebaselif=
+e.com/re?l=3DD0Icf1eq9I3itup5vI0Icej3rtI9x835mI9x835nIcej3qj&req=3Duid68879331e=3D"Click to share with a friend" style=3D"color:#999999;text-decoration:n=
+one;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Share with a =
+friend</a></td>
+                            <td align=3D"right" width=3D"13" height=3D"15" =
+style=3D"font-size: 12px; line-height: 15px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td colspan=3D"5" height=3D"10" style=3D"font-s=
+ize: 10px; line-height: 10px;"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align=3D"center">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ height=3D"60">
+                        <tr>
+                            <td bgcolor=3D"#58bc5f">
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" height=3D"60">
+                                    <tr>
+                                        <td width=3D"200" align=3D"left">
+                                            <table width=3D"100"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"60">
+                                                <tr>
+                                                    <td rowspan=3D"3" width=
+=3D"20"></td>
+                                                    <td height=3D"20"></td>
+                                                    <td rowspan=3D"3" width=
+=3D"20"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href=3D"http://h=
+omebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1Icej3rtI9x835mI9x835nIcej3qj" tit=
+le=3D"Click to visit Homebase.co.uk"><img src=3D"http://homebaselife.com/im=
+gproxy/img/652432431/hblogo.png" width=3D"152" height=3D"20" alt=3D"Homebas=
+e" style=3D" font-family:Arial, Helvetica, sans-serif;font-size:16px;color:=
+#ffffff;"  border=3D"0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td height=3D"20"></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"365" class=3D"hmob"></=
+td>
+                                        <td width=3D"75" align=3D"right">
+                                            <table width=3D"100"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"60">
+                                                <tr>
+                                                    <td rowspan=3D"3" width=
+=3D"20"></td>
+                                                    <td></td>
+                                                    <td rowspan=3D"3" width=
+=3D"20"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><a href=3D"http://h=
+omebaselife.com/re?l=3DD0Icf1eq9I3itup5vI2Icej3rtI9x835mI9x835nIcej3qj" tit=
+le=3D"Click to find your closest Homebase store"><img src=3D"http://homebas=
+elife.com/imgproxy/img/652432432/storelocator.png" width=3D"35" height=3D"3=
+5" class=3D"storelocator" border=3D"0"/></a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <table height=3D"35" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" bgcolor=3D"#4ca252" width=3D"100er">
+                                  <tr>
+                                    <td class=3D"navmobpadding_first" style=
+=3D"padding:10px 10px 10px 25px;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:13px; min-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0=
+Icf1eq9I3itup5vI3Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Gard=
+en" style=3D"color:#ffffff;text-decoration:none;"><strong style=3D"font-wei=
+ght:normal">Garden</strong></a></td>
+                                    <td class=3D"navmobpadding" style=3D"pa=
+dding:8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:1=
+3px;min-width:30px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI4Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to DIY" style=3D"=
+color:#ffffff;text-decoration:none;"><strong style=3D"font-weight:normal">D=
+IY</strong></a></td>
+                                    <td class=3D"navmobpadding" style=3D"pa=
+dding:8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:1=
+3px;min-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI5Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Decorating" st=
+yle=3D"color:#ffffff;text-decoration:none;"><strong style=3D"font-weight:no=
+rmal">Decorating</strong></a></td>
+                                    <td class=3D"mobhide" style=3D"padding:=
+8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:13px;mi=
+n-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+6Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Homewares" style=3D"=
+color:#ffffff;text-decoration:none;"><strong style=3D"font-weight:normal">H=
+omeware</strong></a></td>
+                                    <td class=3D"mobhide" style=3D"padding:=
+8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:13px;mi=
+n-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+7Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Lighting" style=3D"c=
+olor:#ffffff;text-decoration:none;"><strong style=3D"font-weight:normal">Li=
+ghting</strong></a></td>
+                                    <td class=3D"mobhide" style=3D"padding:=
+8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:13px;mi=
+n-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+8Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Furniture" style=3D"=
+color:#ffffff;text-decoration:none;"><strong style=3D"font-weight:normal">F=
+urniture</strong></a></td>
+                                    <td class=3D"mobhide" style=3D"padding:=
+8px 5px 8px 10px;font-family:Arial, Helvetica, sans-serif;font-size:13px;mi=
+n-width:35px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+9Icej3rtI9x835mI9x835nIcej3qj" title=3D"Click to go to Bathroom" style=3D"c=
+olor:#ffffff;text-decoration:none;"><strong style=3D"font-weight:normal">Ba=
+throom</strong></a></td>
+                                    <td class=3D"mobhide" style=3D"padding:=
+10px;font-family:Arial, Helvetica, sans-serif;font-size:13px;min-width:35px=
+;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIaIcej3rtI9x8=
+35mI9x835nIcej3qj" title=3D"Click to go to Kitchen" style=3D"color:#ffffff;=
+text-decoration:none;"><strong style=3D"font-weight:normal">Kitchen</strong=
+></a></td>
+                                    <td class=3D"navmobpadding_last" style=
+=3D"padding:10px 11px 10px 15px;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:13px;min-width:35px; background-color:#BF0036;"><a href=3D"http://h=
+omebaselife.com/re?l=3DD0Icf1eq9I3itup5vIbIcej3rtI9x835mI9x835nIcej3qj" tit=
+le=3D"Click to go to SALE" style=3D"color:#ffffff;text-decoration:none;"><s=
+trong style=3D"font-weight:normal">SALE</strong></a></td>
+                                  </tr>
+                                </table></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ height=3D"60" width=3D"100                       =20
+                        <!--BLOCK START-->
+                      <tr>
+                            <td>
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td bgcolor=3D"bf0036"><a href=3D"h=
+ttp://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIcIcej3rtI9x835mI9x835nIcej3=
+qj" title=3D"" style=3D"text-decoration:none; color:#ffffff;"><img src=3D"h=
+ttp://homebaselife.com/imgproxy/img/669486443/header.png" width=3D"640" hei=
+ght=3D"250" border=3D"0" style=3D"display:block;" class=3D"header" alt=3D"S=
+ALE" /></a></td>
+                                       =20
+                                    </tr>
+                                </table>
+                          </td>
+                        </tr>
+                        <!--BLOCK END-->
+                       =20
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"10" sty=
+le=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       =20
+                          <!--BLOCK START-->
+                        <tr>
+                            <td style=3D"border-collapse:collapse;">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                        <td width=3D"100" class=3D"category=
+mobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; m=
+so-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vId=
+Icej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.co=
+m/imgproxy/img/670596559/1m.jpg" width=3D"0" height=3D"1" border=3D"0" clas=
+s=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td width=3D"100"  class=3D"categor=
+ymobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; =
+mso-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+eIcej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.c=
+om/imgproxy/img/670596560/2m.jpg" width=3D"0" height=3D"1" border=3D"0" cla=
+ss=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td width=3D"100"  class=3D"categor=
+ymobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; =
+mso-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+fIcej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.c=
+om/imgproxy/img/670596561/3m.jpg" width=3D"0" height=3D"1" border=3D"0" cla=
+ss=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIgIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670596=
+562/1.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIhIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670596=
+563/2.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIiIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670596=
+564/3.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                    </tr>
+                                </table>
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0" bgcolor=3D"#bf0036">
+                                    <tr>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryws"></td>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryw"></td>
+                                        <td colspan=3D"3" height=3D"10" cla=
+ss=3D"categoryw" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff"class=3D"categoryw"></td>
+                                        <td colspan=3D"3" height=3D"10" cla=
+ss=3D"categoryw" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryws"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIjIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none; font-famil=
+y:Arial, Helvetica, sans-serif;">60                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIkIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none;font-family=
+:Arial, Helvetica, sans-serif;">60                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIlIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none;font-family=
+:Arial, Helvetica, sans-serif;">60                                        <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan=3D"3" height=3D"5" styl=
+e=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"5" styl=
+e=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"5" styl=
+e=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;max-width:=
+180px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vImIcej3r=
+tI9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:n=
+one;font-family:Arial, Helvetica, sans-serif;">ALL Kitchen units*</a></span=
+></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text_2" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;max-widt=
+h:180px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vInIcej=
+3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration=
+:none;font-family:Arial, Helvetica, sans-serif; font-size:16px;" class=3D"c=
+ategorytext_2">Bathrooms**</a></span></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text_2" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;max-widt=
+h:180px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIoIcej=
+3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration=
+:none;font-family:Arial, Helvetica, sans-serif;" class=3D"categorytext_2">A=
+LL Fitted bedrooms***</a></span></td>
+                                        <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       =20
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"10" sty=
+le=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK START-->
+                        <tr>
+                            <td align=3D"center" width=3D"100                                <table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" class=3D"pattern">
+                                    <tr>
+                                        <td width=3D"10" height=3D"1" style=
+=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                        <td align=3D"center" bgcolor=3D"#DE=
+5F0A" height=3D"30" class=3D"subtitle" width=3D"620" style=3D"color:#FFFFFF=
+;padding:10px; font-size:16px; font-family:Arial, Helvetica, sans-serif;">P=
+LUS an extra 20/td>
+                                        <td width=3D"10" height=3D"1" style=
+=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK END-->
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"10" sty=
+le=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                         <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+    <td align=3D"center"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"button" style=3D"background-color: #58bc5f;">
+                                            <tr>
+                                                <!--<td align=3D"center" cl=
+ass=3D"link-bump" style=3D"font-size:16px; color:#FFFFFF; font-family:Arial=
+, Helvetica, sans-serif;">
+                                                Arrange your FREE design ap=
+pointment in store<span style=3D"color:#ad2f70; font-weight:bold;"></span><=
+/td>-->
+                                                <td>
+                                                <div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-=
+microsoft-com:office:word" href=3D"https://homebaselife.com/appointment/ind=
+ex.jsp" style=3D"height:40px;v-text-anchor:middle;width:620px;" stroke=3D"f=
+" fillcolor=3D"#58bc5f">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a class=3D"buttonfix" href=3D"http://homebaselife.com/re?l=3DD0Icf1e=
+q9I3itup5vIpIcej3rtI9x835mI9x835nIcej3qj"
+style=3D"background-color:#58bc57;color:#ffffff;display:inline-block;font-f=
+amily:Arial, Helvetica, sans-serif;font-size:14px;font-weight:100;line-heig=
+ht:40px;text-align:center;text-decoration:none;width:100webkit-text-size-adjust:none;">Arrange your FREE design appointment in stor=
+e</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+
+                                                </td>
+                                            </tr>
+                                        </table></td>
+    </tr>
+      <!--BLOCK START-->
+                        <tr>
+                            <td align=3D"center" class=3D"pattern" width=3D=
+"100                                <table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">
+                                    <tr>
+                                        <td colspan=3D"3" height=3D"20" cla=
+ss=3D"break"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"10" height=3D"1" style=
+=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                        <td bgcolor=3D"#cccccc" height=3D"1=
+" class=3D"line" width=3D"620" style=3D"font-size: 1px;line-height:0;">&nbs=
+p;</td>
+                                        <td width=3D"10" height=3D"1" style=
+=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan=3D"3" height=3D"20" cla=
+ss=3D"break"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                         <!--BLOCK START-->
+                        <tr>
+                            <td style=3D"border-collapse:collapse;">
+                              <table width=3D"100g=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                        <td width=3D"100" class=3D"category=
+mobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; m=
+so-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIq=
+Icej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.co=
+m/imgproxy/img/670771672/4m.jpg" width=3D"0" height=3D"1" border=3D"0" clas=
+s=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td width=3D"100"  class=3D"categor=
+ymobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; =
+mso-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+rIcej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.c=
+om/imgproxy/img/670771673/5m.jpg" width=3D"0" height=3D"1" border=3D"0" cla=
+ss=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td width=3D"100"  class=3D"categor=
+ymobile" style=3D"display:none; font-size: 0;  line-height: 0; padding: 0; =
+mso-hide: all"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI=
+sIcej3rtI9x835mI9x835nIcej3qj" title=3D""><img src=3D"http://homebaselife.c=
+om/imgproxy/img/670771674/6m.jpg" width=3D"0" height=3D"1" border=3D"0" cla=
+ss=3D"categorymobile" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vItIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670771=
+675/4.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIuIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670771=
+676/5.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+"></td>
+                                        <td class=3D"categoryswap"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIvIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D""><img src=3D"http://homebaselife.com/imgproxy/img/670771=
+677/6.jpg" width=3D"200" height=3D"200" border=3D"0" class=3D"categorydeskt=
+op" alt=3D"" style=3D"display:block;" /></a></td>
+                                        <td width=3D"10" class=3D"categoryw=
+s"></td>
+                                    </tr>
+                                </table>
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0" bgcolor=3D"#bf0036">
+                                    <tr>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryws"></td>
+                                        <td height=3D"10" colspan=3D"3" cla=
+ss=3D"categoryw" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryw"></td>
+                                        <td height=3D"10" colspan=3D"3" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff"class=3D"categoryw"></td>
+                                        <td colspan=3D"3" height=3D"10" cla=
+ss=3D"categoryw" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"5" width=3D"10" bgco=
+lor=3D"#ffffff" class=3D"categoryws"></td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D"10"></td>
+                                      <td width=3D"180" valign=3D"top" clas=
+s=3D"categorytext"><span style=3D"color:#ffffff;font-size:16px;"><a href=3D=
+"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIwIcej3rtI9x835mI9x835nIce=
+j3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none;font-family:Ar=
+ial, Helvetica, sans-serif;">20                                      <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" valign=3D"top" cl=
+ass=3D"categorytext"><span style=3D"color:#ffffff;font-size:16px;"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIxIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none; font-famil=
+y:Arial, Helvetica, sans-serif;">20                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;"><a href=
+=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIyIcej3rtI9x835mI9x835n=
+Icej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:none;font-family=
+:Arial, Helvetica, sans-serif;">20                                        <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                      <td height=3D"5" colspan=3D"3" style=
+=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                        <td height=3D"5" colspan=3D"3" styl=
+e=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"5" styl=
+e=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D"10"></td>
+                                      <td width=3D"180" valign=3D"top" clas=
+s=3D"categorytext"><span style=3D"color:#ffffff;font-size:15px;max-width:18=
+0px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vIzIcej3rtI=
+9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:non=
+e;font-family:Arial, Helvetica, sans-serif;">ALL Large kitchen appliances^^=
+</a></span></td>
+                                      <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" valign=3D"top" cl=
+ass=3D"categorytext"><span style=3D"color:#ffffff;font-size:15px;max-width:=
+180px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI10Icej3=
+rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:=
+none;font-family:Arial, Helvetica, sans-serif;">ALL Indoor furniture***</a>=
+</span></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"10"></td>
+                                        <td width=3D"180" class=3D"category=
+text" valign=3D"top"><span style=3D"color:#ffffff;font-size:16px;max-width:=
+180px;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI11Icej3=
+rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"color:#ffffff;text-decoration:=
+none;font-family:Arial, Helvetica, sans-serif;">ALL Sliding doors***</a></s=
+pan></td>
+                                        <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                      <td height=3D"10" colspan=3D"3" style=
+=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td height=3D"10" colspan=3D"3" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK END-->
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"20" sty=
+le=3D"font-size: 1px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       =20
+                        <!--BLOCK START-->
+                        <tr>
+                            <td align=3D"left">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"10"></td>
+                                        <td align=3D"left">
+                                            <table width=3D"100"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"doublecat">
+                                                <tr>
+                                                    <td width=3D"305" class=
+=3D"doublecat">
+                                                        <table width=3D"100=
+yle=3D"color:#ffffff; font-size:16px;">
+                                                            <tr>
+                                                                <td>
+                                                                    <table =
+width=3D"100#bf0036" style=3D"color:#ffffff; font-size:16px;">
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itu=
+p5vI1pIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:non=
+e; color:#ffffff;"><img src=3D"http://homebaselife.com/imgproxy/img/6707716=
+78/7.jpg" width=3D"305" height=3D"200" border=3D"0" style=3D"display:block;=
+" class=3D"doublecatimage" alt=3D"" /></a></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&=
+nbsp;</td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                           =
+ <td width=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-d=
+ecoration:none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0=
+Icf1eq9I3itup5vI1qIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-de=
+coration:none; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">60 off</a></td>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"5" style=3D"font-size: 5px;line-height:0;">&nb=
+sp;</td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                           =
+ <td width=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-d=
+ecoration:none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0=
+Icf1eq9I3itup5vI1rIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D" font-s=
+ize:15px;text-decoration:none; color:#ffffff;font-family:Arial, Helvetica, =
+sans-serif;">ALL
+Home of Style, Hygena &amp; Schreiber flooring</a></td>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&=
+nbsp;</td>
+                                                                        </t=
+r>
+                                                                    </table=
+>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                    <td width=3D"10" class=
+=3D"doublecatbreak"></td>
+                                                    <td width=3D"305" class=
+=3D"doublecat">
+                                                        <table width=3D"100=
+le=3D"color:#ffffff; font-size:16px;">
+                                                            <tr>
+                                                                <td colspan=
+=3D"3"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI15Icej3r=
+tI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:none; color:#ff=
+ffff;"><img src=3D"http://homebaselife.com/imgproxy/img/670771679/8.jpg" wi=
+dth=3D"305" height=3D"200" border=3D"0" style=3D"display:block;" class=3D"d=
+oublecatimage" alt=3D"" /></a></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width=
+=3D"10"></td>
+                                                                <td width=
+=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-decoration:=
+none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI16Icej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:n=
+one; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">Up to 60</a></td>
+                                                                <td width=
+=3D"10"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"5" style=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width=
+=3D"10"></td>
+                                                                <td width=
+=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-decoration:=
+none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI17Icej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:n=
+one; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">ALL Tiling<br=
+ />&nbsp;</a></td>
+                                                                <td width=
+=3D"10"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"10" class=3D"mobhide">=
+</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK END-->
+                         <!--BLOCK END-->
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"15" sty=
+le=3D"font-size: 15px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK END-->
+                        <!--BLOCK START-->
+                        <tr>
+                            <td align=3D"left">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"10"></td>
+                                        <td align=3D"left">
+                                            <table width=3D"100"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"doublecat">
+                                                <tr>
+                                                    <td width=3D"305" class=
+=3D"doublecat">
+                                                        <table width=3D"100=
+yle=3D"color:#ffffff; font-size:16px;">
+                                                            <tr>
+                                                                <td>
+                                                                    <table =
+width=3D"100#bf0036" style=3D"color:#ffffff; font-size:16px;">
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itu=
+p5vI1sIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:non=
+e; color:#ffffff;"><img src=3D"http://homebaselife.com/imgproxy/img/6707716=
+80/9.jpg" width=3D"305" height=3D"200" border=3D"0" style=3D"display:block;=
+" class=3D"doublecatimage" alt=3D"" /></a></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&=
+nbsp;</td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                           =
+ <td width=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-d=
+ecoration:none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0=
+Icf1eq9I3itup5vI1tIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-de=
+coration:none; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">20 off</a></td>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"5" style=3D"font-size: 5px;line-height:0;">&nb=
+sp;</td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                           =
+ <td width=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-d=
+ecoration:none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0=
+Icf1eq9I3itup5vI1uIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D" font-s=
+ize:15px;text-decoration:none; color:#ffffff;font-family:Arial, Helvetica, =
+sans-serif;">ALL Single internal doors</a></td>
+                                                                           =
+ <td width=3D"10"></td>
+                                                                        </t=
+r>
+                                                                        <tr=
+>
+                                                                           =
+ <td colspan=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&=
+nbsp;</td>
+                                                                        </t=
+r>
+                                                                    </table=
+>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                    <td width=3D"10" class=
+=3D"doublecatbreak"></td>
+                                                    <td width=3D"305" class=
+=3D"doublecat">
+                                                        <table width=3D"100=
+le=3D"color:#ffffff; font-size:16px;">
+                                                            <tr>
+                                                                <td colspan=
+=3D"3"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1bIcej3r=
+tI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:none; color:#ff=
+ffff;"><img src=3D"http://homebaselife.com/imgproxy/img/670771681/10.jpg" w=
+idth=3D"305" height=3D"200" border=3D"0" style=3D"display:block;" class=3D"=
+doublecatimage" alt=3D"" /></a></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width=
+=3D"10"></td>
+                                                                <td width=
+=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-decoration:=
+none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI1cIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:n=
+one; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">25td>
+                                                                <td width=
+=3D"10"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"5" style=3D"font-size: 5px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width=
+=3D"10"></td>
+                                                                <td width=
+=3D"285" style=3D"font-family:Arial, Helvetica, sans-serif;text-decoration:=
+none;color:#ffffff;"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3i=
+tup5vI1dIcej3rtI9x835mI9x835nIcej3qj" title=3D"" style=3D"text-decoration:n=
+one; color:#ffffff;font-family:Arial, Helvetica, sans-serif;">Fireplaces &a=
+mp; stoves&dagger;</a></td>
+                                                                <td width=
+=3D"10"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan=
+=3D"3" height=3D"10" style=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"10" class=3D"mobhide">=
+</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100                                    <tr>
+                                        <td colspan=3D"7" height=3D"15" sty=
+le=3D"font-size: 15px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!--BLOCK END-->
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ width=3D"100                       =20
+                         <tr>
+                            <td class=3D"categorydesktop">
+                                <table width=3D"620" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td><a href=3D"http://homebaselife.=
+com/re?l=3DD0Icf1eq9I3itup5vI1eIcej3rtI9x835mI9x835nIcej3qj" title=3D""><im=
+g src=3D"http://homebaselife.com/imgproxy/img/660411436/banner_nectar.png" =
+width=3D"640" height=3D"29" border=3D"0" class=3D"categorydesktop" alt=3D"C=
+ollect and spend your Nectar points at Homebase - Find out more" style=3D"d=
+isplay:block;" /></a></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                         <tr>
+                            <td align=3D"left">
+                                <table bgcolor=3D"#F9F9F0" width=3D"100eight=3D"41" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td rowspan=3D"3" width=3D"20"></td=
+>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                        <td rowspan=3D"3" width=3D"20"></td=
+>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"21" width=3D"35" alig=
+n=3D"left"><img src=3D"http://homebaselife.com/imgproxy/img/656608840/store=
+_icon.png" width=3D"35" height=3D"21" border=3D"0" style=3D"display:block;"=
+/></td>
+                                        <td width=3D"12"></td>
+                                        <td align=3D"left"><span style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:14px; color:#666666;">Re=
+serve online and collect from your local store in just 3 hours</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan=3D"3" height=3D"10" sty=
+le=3D"font-size: 10px;line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"left">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td rowspan=3D"7" width=3D"20"></td=
+>
+                                        <td height=3D"20"></td>
+                                        <td rowspan=3D"7" width=3D"20"></td=
+>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"middle">
+                                            <table height=3D"40" width=3D"2=
+60" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left">
+                                                <tr>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#3f67c0"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+fIcej3rtI9x835mI9x835nIcej3qj" title=3D"Like us for advice and inspiration"=
+><img src=3D"http://homebaselife.com/imgproxy/img/652432445/facebook.png" w=
+idth=3D"40" height=3D"40" border=3D"0" alt=3D"Facebook" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif;font-size:16;text-align:center;color:#ffffff=
+;" /></a></td>
+                                                    <td width=3D"4"></td>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#35b5eb"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+gIcej3rtI9x835mI9x835nIcej3qj" title=3D"Follow us for the latest rewards, h=
+ints and tips"><img src=3D"http://homebaselife.com/imgproxy/img/652432446/t=
+witter.png" width=3D"40" height=3D"40" border=3D"0" alt=3D"Twitter" style=
+=3D"font-family:Arial, Helvetica, sans-serif;font-size:16;text-align:center=
+;color:#ffffff;" /></a></td>
+                                                    <td width=3D"4"></td>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#dd4a38"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+hIcej3rtI9x835mI9x835nIcej3qj" title=3D"Visit us on Google+"><img src=3D"ht=
+tp://homebaselife.com/imgproxy/img/652432447/googleplus.png" width=3D"40" h=
+eight=3D"40" border=3D"0" alt=3D"Google+" style=3D"font-family:Arial, Helve=
+tica, sans-serif;font-size:16;text-align:center;color:#ffffff;" /></a></td>
+                                                    <td width=3D"4"></td>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#cf1717"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+iIcej3rtI9x835mI9x835nIcej3qj" title=3D"Check out our Pinterest boards"><im=
+g src=3D"http://homebaselife.com/imgproxy/img/652432448/pinterest.png" widt=
+h=3D"40" height=3D"40" border=3D"0" alt=3D"Pinterest" style=3D"font-family:=
+Arial, Helvetica, sans-serif;font-size:16;text-align:center;color:#ffffff;"=
+ /></a></td>
+                                                    <td width=3D"4"></td>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#cf1717"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+jIcej3rtI9x835mI9x835nIcej3qj" title=3D"Visit us on YouTube.com for How to =
+guides"><img src=3D"http://homebaselife.com/imgproxy/img/652432449/youtube.=
+png" width=3D"40" height=3D"40" border=3D"0" alt=3D"Youtube" style=3D"font-=
+family:Arial, Helvetica, sans-serif;font-size:16;text-align:center;color:#f=
+fffff;" /></a></td>
+                                                    <td width=3D"4"></td>
+                                                    <td width=3D"40" bgcolo=
+r=3D"#4E7BA0"><a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1=
+kIcej3rtI9x835mI9x835nIcej3qj" title=3D"Visit us on Instagram"><img src=3D"=
+http://homebaselife.com/imgproxy/img/652432450/instagram.png" width=3D"40" =
+height=3D"40" border=3D"0" alt=3D"Instagram" style=3D"font-family:Arial, He=
+lvetica, sans-serif;font-size:16;text-align:center;color:#ffffff;" /></a></=
+td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"1" bgcolor=3D"#b1ad83=
+" class=3D"line msoline" style=3D"font-size: 1px;line-height:0;">&nbsp;</td=
+>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"color:#666666;font-siz=
+e:11px;" class=3D"H2MOB">
+                                         =20
+*Excluding end panels and trims.  Even on existing offers.  All discounts a=
+pplied when you pay.<br /><br />
+**Offer excludes all Stormwall, taps, heated towel rails, WOW products also=
+ when bought as part of WOW package deal, electric showers & mixers, lighti=
+ng, Bartley, Bristan and Halo take away. In store take away shower screens,=
+ bath panels, wall mounted cabinets & freestanding storage.  Even on existi=
+ng offers. All discounts applied when you pay.<br /><br />
+***Discount applied when you pay.<br /><br />
+^All discounts applied when you pay.<br /><br />
+^^Even on existing offers. Discount applied when you pay. <br /><br />
+&dagger;Excluding fuel &amp; accessories. Discount applied when you pay.<br=
+ /><br />
+                                            For delivery information, pleas=
+e <a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1lIcej3rtI9x8=
+35mI9x835nIcej3qj" style=3D"color:#666666;text-decoration:underline;">click=
+ here</a>
+                                            <br>
+                                            <br>
+                                            Let us know if you'd like to <a=
+ href=3D"http://homebaselife.com/public/unsubscribe.jsp?gid=3D700006685&uid=
+=3D7668879331&mid=3D750854097&sig=3DKLJNOOGLKJMJNNAO&l=3DD0Icf1eq9I3itup5vI=
+&slt=3D4" style=3D"color:#666666;text-decoration:underline;">unsubscribe</a=
+> from the Homebase email newsletter, but you will miss out on all the late=
+st products, offers and competitions.
+                                            <br>
+                                            <br>
+                                            We never send out unsolicited e=
+mails and want you to feel confident about the privacy of your personal inf=
+ormation. <a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1mIce=
+j3rtI9x835mI9x835nIcej3qj" style=3D"color:#666666"><u>Click here</u></a> to=
+ view our Privacy Policy or to view details of how we make online shopping =
+secure, <a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1nIcej3=
+rtI9x835mI9x835nIcej3qj" style=3D"color:#666666;text-decoration:underline;"=
+>click here</a>
+                                            <br>
+                                            <br>
+                                            Please do not reply to this ema=
+il. If you wish to contact us about this email or any other matter please <=
+a href=3D"http://homebaselife.com/re?l=3DD0Icf1eq9I3itup5vI1oIcej3rtI9x835m=
+I9x835nIcej3qj" style=3D"color:#666666;text-decoration:underline;">click he=
+re</a> to contact customer services
+                                            <br>
+                                            <br>
+                                            Registered Office: Avebury, 489=
+-499 Avebury Boulevard, Milton Keynes, Buckinghamshire MK9 2NW
+                                            <br>
+                                            VAT Registration Number: GB 145=
+ 899 025
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20"></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                      =20
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td height=3D"20" class=3D"mobhide"></td>
+            </tr>
+        </table>
+    <img src=3D"http://homebaselife.com/tr/p.gif?uid=3D7668879331&mid=3D750=
+854097&msd=3D1420205502039&st=3D0" width=3D"1" height=3D"1" alt=3D"" /></bo=
+dy>
+    <img src=3D"http://homebaselife.com/ev/co/homebase?eventid=3D750000043&=
+mid=3D750854097&uid=3D7668879331" width=3D"1" height=3D"1" alt=3D"" />
+<img src=3D"http://homebaselife.com/ev/co/homebase?eventid=3D750000089&mid=
+=3D750854097&uid=3D7668879331" width=3D"1" height=3D"1" alt=3D"" />
+<img src=3D"http://homebaselife.com/ev/co/homebase?eventid=3D600000251&mid=
+=3D750854097&uid=3D7668879331" width=3D"1" height=3D"1" alt=3D"" />
+<img src=3D"http://homebaselife.com/ev/co/homebase?eventid=3D600000250&mid=
+=3D750854097&uid=3D7668879331" width=3D"1" height=3D"1" alt=3D"" />
+</html>
+

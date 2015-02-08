@@ -1,0 +1,710 @@
+From @..  Sun Jan 18 16:22:14 2015
+Return-Path: <@..>
+X-Original-To: sam@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id E807EDE; Sun, 18 Jan 2015 16:22:14 +0000 (UTC)
+Received: from mta3.communication.weather-wherever.com (mta3.communication.weather-wherever.com [81.92.112.189])
+    by .. with SMTP id k67x6eyb6taic3qexsxrqs65js;
+    for sam@fs.net;
+    Sun, 18 Jan 2015 16:22:13 +0000 (UTC)
+    (envelope-from abi@com.deal-compare.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.92.112.189; envelope-from=<abi@com.deal-compare.co.uk>;
+    helo=mta3.communication.weather-wherever.com;
+    mechanism=include:spf-a.emailvision.net (ip4:81.92.112.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.92.112.189; client-port=48905;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=18; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 154.54.10.61 154.54.0.165
+    154.54.31.110 154.54.31.118 154.54.28.106 130.117.51.82 130.117.1.230
+    154.25.0.193 149.11.0.66 130.117.1.230 193.25.198.101 149.11.0.66
+    81.92.112.189; network-path-time=1421598133
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=com.deal-compare.co.uk;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=abi@com.deal-compare.co.uk;
+ bh=bzn0JCUAz6ZuP8QimCDv6okCWMI=;
+ b=VA32OpYq0wb2ua3HJJflu+DTTLZMrCQ0mdR05KvXEOIK5BEUYaDPIYSE8HAmZqKBVN+mgpke4ckL
+   yh9c3wlEnUDhYbkyT3+sUYEcijlq0uyyKsDUgNJmup+BHmBlzHeqkve/sBeuapfdyxUsxCl2zPcm
+   GKiPcpu6c5PQQNEKXVo=
+Received: by mta3.communication.weather-wherever.com id hnferc16758t for <sam@fs.net>; Sun, 18 Jan 2015 17:22:12 +0100 (envelope-from <abi@com.deal-compare.co.uk>)
+Date: Sun, 18 Jan 2015 17:22:12 +0100 (CET)
+From: BT with Deal Alert <@..>
+Reply-To: Deal Alert <@..>
+To: <@..>
+Message-ID: <2.1.11.1101027519.4980933.23493567233@com.deal-compare.co.uk>
+Subject: =?iso-8859-15?Q?Biggest_ever_BT_sale_-_plus_up?=
+ =?iso-8859-15?Q?_to_=A350_Sainsbury's_Gift_Cards?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=498093323493567233
+X-EMV-Platform: p5ccc.campaigncommander.com$
+X-EMV-CampagneId: 4980933$
+X-EMV-MemberId: 23493567233$
+List-Unsubscribe: <http://com.deal-compare.co.uk/HD?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjP2m_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFHL>, <mailto:unsubscribe@com.deal-compare.co.uk?subject=unsubscribe-11-ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjP2m_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFHL>
+X-CSA-Complaints: whitelist-complaints@eco.de
+
+--498093323493567233
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+ To properly view this, visit our online version : http://com.deal-compare.co.uk/HM?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsaPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFEw
+
+ To make sure our messages get to your inbox, please add this email to 
+your address book. 
+ Unsubscribe : http://com.deal-compare.co.uk/HD?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsafcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFEx
+ |  Email Preference.: http://com.deal-compare.co.uk/HLP?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE2
+daily communication
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE0
+broadbandchoices - We compare broadband
+Biggest ever BT sale - plus up to �50 Sainsbury's Gift Cards 
+
+Broadband: �25 Vouchers
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE1
+
+
+ �4.75 a month: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE6
+ for 12 months, 
+ + line rental at �16.99 a month1 Essentials
+�25 Sainsbury's Gift Card - 
+ends soon1 Essentials
+FREE BT Sport app and online player Essentials
+Up to 17Mb speeds Essentials
+10GB download limit Essentials
+Latest WirelessTM BT Home Hub 4 Essentials
+ 5GB storage on the BT Cloud Essentials
+FREE1 weekend UK landline calls Essentials
+ Online exclusive offer Essentials
+12 month contract - Offer only available online to new BT customers 
+
+View offer
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsY_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE7
+
+
+
+
+Infinity 1 - �50 vouchers
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE4
+
+
+ �7.50 a month: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE5
+ for 12 months,
++ line rental at �16.99 a month2 Essentials
+�50 Sainsbury's Gift Card - 
+ends soon2 Essentials
+ FREE BT Sport app and online player Essentials
+ Up to 38Mb broadband speeds Essentials
+20GB download limit Essentials
+Latest WirelessTM BT Home Hub 5 Essentials
+5GB storage on the BT Cloud Essentials
+FREE2 weekend UK landline calls Essentials
+ Online exclusive offer Essentials
+ 12 month contract - Offer only available online to new BT customers 
+
+View offer
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE-
+
+
+ Other top BT offers Monthly cost (from) Details Go BT
+
+�7.50 a month: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZ_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE_
+
+for 12 months,
++ line rental at �16.99 a month3 
+BT
+Unlimited Broadband + Weekend Calls Tick
+�25 Sainsbury's Gift Card - ends soon3 Tick
+Free BT Sport via app and online player Tick
+ Up to 17Mb speeds, totally unlimited usage Tick
+FREE3  weekend calls to UK landlines Tick
+Visit www.bt.com: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE8
+Tick
+Online exclusive offer Tick
+12 month contract - Offer only available online to new BT customers Go
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE9
+BT
+
+ �10 a month: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsevcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFC
+
+ for 12 months, 
++ line rental at �16.99 a month4
+BT
+Unlimited BT Infinity 1 + Weekend Calls4 Tick
+�50 Sainsbury's Gift Card - ends soon4 Tick
+Free BT Sport via app and online player Tick
+Up to 38Mb speeds, totally unlimited usage Tick
+FREE4  weekend calls to UK landlines Tick
+Visit www.bt.com: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHse_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFD
+Tick
+Online exclusive offer - Hurry! ends 19th Jan Tick
+12 month contract - Offer only available online to new BT customers Go
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsePcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFA
+BT
+
+�12.50 a month: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsefcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFB
+
+for 12 months
+ + line rental at �16.99 a month5 
+BT
+TV Essential, Unlimited Broadband + Weekend Calls Tick
+�25 Sainsbury's Gift Card - ends soon5 Tick
+Up to 17Mb broadband speeds, totally unlimited usage Tick
+FREE5  weekend calls to UK landlines Tick
+Up to 70 Freeview TV and radio channels + a YouView box Tick
+Free BT Sport via app and online player Tick
+Visit www.bt.com: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsfvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFG
+Tick
+Online exclusive offer Tick
+12 month contract - Offer only available online to new BT customers Go
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsf_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFH
+broadbandchoices - Compare iPhone 6 deals
+: http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsfPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFE
+1 Price will be �13 a month from month 13. You must switch your line 
+rental to BT (�14.16 a month equivalent when you pay �169.90 for 12 
+months in advance; otherwise �16.99 a month). A �6.95 delivery charge 
+applies for BT Home Hub. Free weekend calls for calls of up to one hour 
+(you may hang up and redial to avoid charges). ced price offer is 
+an online exclusive and ends 25/02/15. Sainsbury's gift card offer is 
+an online exclusive and ends soon. Terms and conditions apply. 
+2 Price will be �18 a month from month 13. You must switch your line 
+rental to BT (�14.16 a month equivalent when you pay �169.90 for 12 
+months in advance; otherwise �16.99 a month). A �6.95 delivery charge 
+applies for BT Home Hub. A �30 one off activation fee applies for BT 
+Infinity. Free weekend calls for calls of up to one hour (you may hang 
+up and redial to avoid charges). ced price offer is an online 
+exclusive and ends 25/02/15. Sainsbury's gift card offer is an online 
+exclusive and ends soon. Terms and conditions apply. 
+3 Price will be �18 a month from month 13. You must switch your line 
+rental to BT (�14.16 a month equivalent when you pay �169.90 for 12 
+months in advance; otherwise �16.99 a month). A �6.95 delivery charge 
+applies for BT Home Hub. Free weekend calls for calls of up to one hour 
+(you may hang up and redial to avoid charges). ced price offer is 
+an online exclusive and ends 28/01/15. Sainsbury's gift card offer is 
+an online exclusive and ends soon. Terms and conditions apply. 
+4 Price will be �23 a month from month 13. You must switch your line 
+rental to BT (�14.16 a month equivalent when you pay �169.90 for 12 
+months in advance; otherwise �16.99 a month). A �6.95 delivery charge 
+applies for BT Home Hub. A �30 one off activation fee applies for BT 
+Infinity. Free weekend calls for calls of up to one hour (you may hang 
+up and redial to avoid charges. ced price offer is an online 
+exclusive and ends 19/01/2015. Sainsbury's gift card is an online 
+exclusive and ends soon. Terms and conditions apply. 
+5 Price will be �23 a month from month 13. You must switch your line 
+rental to BT (�14.16 a month equivalent when you pay �169.90 for 12 
+months in advance; otherwise �16.99 a month). A �6.95 delivery charge 
+applies for BT Home Hub. �35 upfront activation fee applies for BT TV. 
+ced price offer is an online exclusive and ends 28/01/14. 
+Sainsbury's gift card is an online exclusive and ends soon. Terms and 
+conditions apply. 
+
+Prices correct as of 14 January 2015. 
+
+broadbandchoices.co.uk is a trading name of Decision Technologies Limited. Registered in 
+England and Wales number 05341159 whose registered address is: High 
+Holborn House, 52-54 High Holborn, London, WC1V 6RL. 
+
+ This message was selected by us at Deal Alert and sent to you on 
+behalf of broadbandchoices as you have signed up to receive our emails 
+from one of our partners. We apologise if you believe this email has 
+been sent to you in error. If links have been disabled, please ensure 
+this email is not in your junk folder.
+Privacy Policy : http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsffcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFF
+ |  Unsubscribe: http://com.deal-compare.co.uk/HD?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsb_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE3
+. 
+ Sent to you by Deal Alert, PO Box 70921, London, SW19 9FP. Thank you. 
+--498093323493567233
+Content-Type: text/html; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title></title>
+</head>
+    <body>
+<table width="600" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="text-align:center; padding:10px 0;">
+				
+					<font color="#666666" face="Verdana" size="1"><a href="http://com.deal-compare.co.uk/HM?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsaPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFEw" style="color:#000;"> To properly view this, visit our online version </a><br>
+
+					To make sure our messages get to your inbox, please add this email to your address book. 
+					<br>
+					<a href="http://com.deal-compare.co.uk/HD?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsafcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFEx" style="color:#000;"> Unsubscribe </a> &#124;  <a href="http://com.deal-compare.co.uk/HLP?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE2" style="color:#000;"> Email Preference.</a></font>
+			</td>
+		</tr>
+	</tbody>
+
+</table>
+<table width="600" align="center">
+	<tbody>
+		<tr>
+			<td align="center" valign="top" style="width:100				<a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE0"><img alt="daily communication" border="0" src="http://webr.emv2.com/finestactif/images/DAHEADFOOT.jpg" style="width:100		</tr>
+	</tbody>
+</table>	
+        <table width="598" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td width="598" height="30"></td>
+            </tr>
+            <tr>
+                <td bgcolor="#CBCBCB">
+                    <table width="100                        <tbody><tr>
+                            <td bgcolor="#FFFFFF" style="width: 604px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/bc_logo_with_header-v2.png" alt="broadbandchoices - We compare broadband" width="598" height="113"></td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#ffffff" style="padding-left: 10px; height: 32px; width: 604px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 18px;"><b>Biggest ever BT sale</b> - plus up to &pound;50 Sainsbury's Gift Cards</span></td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#FFFFFF" style="padding: 5px; width: 604px;">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td colspan="3" style="width: 598">
+                                            <table width="0" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody><tr>
+                                                    <td style="height: 486px">
+                                                        <table width="0" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody><tr>
+                                                                <td height="5" style="line-height: 5px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/email-temp-05-top.gif" alt="" width="285" height="5"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table width="285" border="0" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="height: 88px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="88"></td>
+                                                                            <td style="height: 88px"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsbfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE1"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/BT_new_email_box_left-v183.png" alt="Broadband: &pound;25 Vouchers" width="283" height="88" border="0"></a></td>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="height: 88px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="height: 335px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                            <td bgcolor="#ffffff" style="height: 335px">
+                                                                                <table width="265" border="0" align="center" cellpadding="0" cellspacing="9">
+                                                                                    <tbody><tr>
+                                                                                        <td colspan="2" valign="top" style="height: 38px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"><b><a style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE6">
+                                                                                            &pound;4.75 a month</a></b> for 12 months, 
+                                                                                            <br></span>
+                                                                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px">
+                                                                                            +</span><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;"> 
+                                                                                            line rental at &pound;16.99 a month<sup>1</sup><span style="font-family: Arial, Helvetica, sans-serif"></span></span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            <b>&pound;25 Sainsbury's Gift Card - <br>ends soon</b><sup>1</sup></span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE BT Sport app and online player 
+                                                                                            </span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Up to 
+                                                                                            17Mb speeds</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">10GB download limit</span></td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Latest Wireless<sup>TM</sup> BT Home Hub 4</span></td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            5GB storage on the BT Cloud</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE<sup>1</sup> 
+                                                                                            weekend UK landline calls</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 28px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td style="height: 28px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            Online exclusive offer</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top">
+                                                                                            <img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17">
+                                                                                        </td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">12 month contract - Offer only available online to new BT customers</span></td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="line-height: 335px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td width="1" bgcolor="#E4E4E4" height="38" style="line-height: 38px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="38"></td>
+                                                                            <td width="283" height="38" bgcolor="#ffffff" style="padding-right: 10px; line-height: 38px;">
+                                                                                <div align="right"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsY_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE7"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/view_offer_btn_orange.png" alt="View offer" width="105" height="38" border="0"></a></div>
+                                                                            </td>
+                                                                            <td width="1" height="38" bgcolor="#E4E4E4" style="line-height: 38px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="38"></td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="4" style="line-height: 4px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/email-temp-05-bottom.gif" alt="" width="285" height="4"></td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                    <td width="10" style="height: 486px"></td>
+                                                    <td style="
+    vertical-align: top; height: 486px;">
+                                                        <table width="0" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody><tr>
+                                                                <td height="5" style="line-height: 5px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/email-temp-05-top.gif" alt="" width="285" height="5"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table width="285" border="0" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="height: 88px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                            <td style="height: 88px"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE4"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/BT_new_email_box_left-v182.png" alt="Infinity 1 - &pound;50 vouchers" width="283" height="88" border="0"></a></td>
+                                                                            <td width="1" bgcolor="#E4E4E4" style="height: 88px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td width="1" bgcolor="#E4E4E4"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                            <td bgcolor="#ffffff" height="325">
+                                                                                <table width="265" border="0" align="center" cellpadding="0" cellspacing="9" class="auto-style1" style="height: 336px">
+                                                                                    <tbody><tr>
+                                                                                        <td colspan="2" valign="top">
+                                                                                            <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;">
+                                                                                            <b>
+                                                                                            <a style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsYfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE5">
+                                                                                            &pound;7.50 a month</a></b> for 12 months,</span><br>
+                                                                                            <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">+ line rental at &pound;16.99 a month<sup>2</sup><span style="font-family: Arial, Helvetica, sans-serif"></span></span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            <b>&pound;50 Sainsbury's Gift Card - <br>ends soon</b><sup>2</sup></span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            FREE BT Sport app and online player</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            Up to 38Mb broadband speeds</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">20GB download limit</span></td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Latest Wireless<sup>TM</sup> BT Home Hub 5</span></td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top" style="height: 20px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top" style="height: 20px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">5GB storage on the BT Cloud 
+                                                                                            </span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE<sup>2</sup> weekend UK landline calls 
+                                                                                            </span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17"></td>
+                                                                                        <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            Online exclusive offer</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td valign="top">
+                                                                                            <img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Essentials" width="17" height="17">
+                                                                                        </td>
+                                                                                        <td valign="top"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                            12 month contract - Offer only available online to new BT customers</span>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+
+                                                                            </td>
+                                                                            <td width="1" bgcolor="#E4E4E4"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="1"></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td width="1" height="38" bgcolor="#E4E4E4" style="line-height: 38px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="38"></td>
+                                                                            <td width="283" height="38" bgcolor="#ffffff" style="padding-right: 10px; line-height: 38px">
+                                                                                <div align="right">
+                                                                                    <a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE-"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/view_offer_btn_orange.png" alt="View offer" width="105" height="38" border="0"></a>
+                                                                                </div>
+                                                                            </td>
+                                                                            <td width="1" height="38" bgcolor="#E4E4E4" style="line-height: 38px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/gap.gif" alt="" width="1" height="38"></td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="4" style="line-height: 4px"><img src="http://www1.cdndtl.co.uk/v-5.00/2/General/email-temp-05-bottom.gif" alt="" width="285" height="4"></td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="28" bgcolor="#efefef" style="padding-left: 10px; width: 604px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px;">
+                                Other top BT offers </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#ffffff" style="width: 604px">
+                                <table width="100                                    <tbody><tr>
+                                        <td bgcolor="#ffffff" style="padding: 10 0 10 0px; height: 593px;">
+                                            <table width="100                                                <tbody><tr>
+                                                    <td colspan="2" valign="top">
+                                                        <table align="center" width="96                                                            <tbody><tr>
+                                                                <td width="25                                                                <td width="50                                                                <td width="5                                                            </tr>
+                                                            <tr>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZ_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE_" style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"><img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/bt_logo_100x51.png" alt="BT" height="51" width="100"><br>
+                                                                    <b>&pound;7.50 a month</b></a><br><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 11px;">for 12 months,<br>+ line rental at &pound;16.99 a month<sup>3
+                                                                    </sup><br>
+                                                                    <img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/BT-icons-ts.gif" alt="BT" height="25" width="45"></span>
+                                                                </td>
+                                                                <td style="border: solid 1px #e0e0e0; padding: 5px;" align="left">
+                                                                    <table width="100                                                                        <tbody><tr>
+                                                                            <td colspan="2" style="height: 17px">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;"><b>Unlimited Broadband + Weekend Calls</b></span></span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top" style="padding-top: 3px" width="17px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td>
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px">
+                                                                                <b>&pound;25 Sainsbury's Gift Card - ends soon</b><sup>3</sup></span><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Free BT Sport via app and online player </span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="padding-top: 3px; height: 22px;" valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 22px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                Up to 
+                                                                                17Mb speeds, totally unlimited usage</span>
+                                                                            </td>
+                                                                        </tr>
+
+                                                                        <tr>
+                                                                            <td style="padding-top: 3px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE<sup>3
+                                                                                </sup> weekend calls to UK landlines</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Visit <a style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE8">www.bt.com</a></span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="height: 19px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 19px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Online exclusive offer</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">12 month contract - Offer only available online to new BT customers</span></td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;">
+                                                                    <a style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsZfcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE9"> <img src="http://www.deal-alert.co.uk/mail/BT19Jan15/go_btn_orange.png" alt="Go" width="58" height="42" border="0"></a>
+                                                                </td>
+                                                            </tr>
+
+                                                            
+                                                            <tr>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsevcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFC" style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"><img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/bt_logo_100x51.png" alt="BT" height="51" width="100"><br>
+                                                                    <b>
+                                                                    <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;">
+                                                                    &pound;10 a month</span></b></a><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"></span><br><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 11px;">
+                                                                    for 12 months, <br>+ line rental at &pound;16.99 a month<sup>4</sup><br>
+                                                                    <img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/BT-icons-ts.gif" alt="BT" height="25" width="45">
+                                                                    </span>
+                                                                </td>
+                                                                <td style="border: solid 1px #e0e0e0; padding: 5px;" align="left">
+                                                                    <table width="100                                                                        <tbody><tr>
+                                                                            <td colspan="2" style="height: 19px">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                <b>Unlimited BT Infinity 1 + Weekend Calls</b><sup>4</sup></span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top" style="padding-top: 3px; height: 21px;" width="17px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 21px">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px">
+                                                                                <b>&pound;50 Sainsbury's Gift Card - ends soon</b><sup>4</sup></span><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="height: 19px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 19px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Free BT Sport via app and online player </span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Up to 
+                                                                                38Mb speeds, totally unlimited usage</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="padding-top: 3px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE<sup>4
+                                                                                </sup> weekend calls to UK landlines</span>
+                                                                            </td>
+                                                                        </tr>
+
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Visit <a style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHse_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFD">www.bt.com</a></span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Online exclusive offer - <b>Hurry!</b> ends 19th Jan</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">12 month contract - Offer only 
+                                                                                available online to new BT customers</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;">
+                                                                    <a style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsePcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFA"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/go_btn_orange.png" alt="Go" width="58" height="42" border="0"></a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsefcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFB" style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"><img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/bt_logo_100x51.png" alt="BT" height="51" width="100"><br>
+                                                                    <b>&pound;12.50 a month</b></a><br><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 11px;">for 12 months<br>
+                                                                    + line rental at &pound;16.99 a month<sup>5</sup></span>
+                                                                    <br>
+                                                                    <img border="0" src="http://www1.cdndtl.co.uk/v-5.00/2/General/BT-icons-ts.gif" alt="BT" height="25" width="45">										
+                                                                </td>
+                                                                <td style="border: solid 1px #e0e0e0; padding: 5px;" align="left">
+                                                                    <table width="100                                                                        <tbody><tr>
+                                                                            <td colspan="2">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                <span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;"><b>TV Essential, Unlimited Broadband + Weekend Calls</b></span></span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top" style="padding-top: 3px" width="17px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">
+                                                                                <b>&pound;25 Sainsbury's Gift Card - ends soon</b><sup>5</sup></span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="height: 19px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 19px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Up to 17Mb broadband speeds, totally unlimited usage</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="height: 19px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 19px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">FREE<sup>5
+                                                                                </sup> weekend calls to UK landlines</span></td>
+                                                                        </tr>
+   <tr>
+                                                                            <td style="height: 19px"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td style="height: 19px"><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Up to 70 Freeview TV and radio channels + a YouView box</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Free BT Sport via app and online player</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Visit <a style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;" href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsfvcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFG">www.bt.com</a></span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">Online exclusive offer</span></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/tick.png" alt="Tick" width="17" height="17"></td>
+                                                                            <td><span style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 12px;">12 month contract - Offer only 
+                                                                                available online to new BT customers</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                                <td align="center" style="border: solid 1px #e0e0e0; padding: 5px;"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsf_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFH" style="text-decoration: underline; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;"> <img src="http://www.deal-alert.co.uk/mail/BT19Jan15/go_btn_orange.png" alt="Go" width="58" height="42" border="0"></a></td>
+                                                            </tr>
+
+                                                       </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td height="28" style="padding-left: 10px;"></td>
+            </tr>
+            <tr>
+                <td height="28" style="border:solid 1px #c0c0c0"><a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsfPcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFE"><img src="http://www.deal-alert.co.uk/mail/BT19Jan15/iPhone6-600x77.png" alt="broadbandchoices - Compare iPhone 6 deals"></a></td>
+            </tr>
+            <tr>
+                <td height="28" style="padding-left: 10px;"></td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; color: #666666; font-size: 11px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px;" align="left">
+                    <span style="font-family: Arial, Helvetica, sans-serif; color:#333; font-size:11px;">
+                    <sup>1</sup>  Price will be &pound;13 a month from month 13. You must switch your line rental to BT (&pound;14.16 a month equivalent when you pay &pound;169.90 for 12 months in advance; otherwise &pound;16.99 a month). A &pound;6.95 delivery charge applies for BT Home Hub. Free weekend calls for calls of up to one hour (you may hang up and redial to avoid charges). ced price offer is an online exclusive and ends 25/02/15. Sainsbury's gift card offer is an online exclusive and ends soon. Terms and conditions apply. 
+                    </span><br>
+                    <span style="font-family: Arial, Helvetica, sans-serif; color:#333; font-size:11px;">
+                    <sup>2</sup>  Price will be &pound;18 a month from month 13. You must switch your line rental to BT (&pound;14.16 a month equivalent when you pay &pound;169.90 for 12 months in advance; otherwise &pound;16.99 a month). A &pound;6.95 delivery charge applies for BT Home Hub. A &pound;30 one off activation fee applies for BT Infinity. Free weekend calls for calls of up to one hour (you may hang up and redial to avoid charges). ced price offer is an online exclusive and ends 25/02/15. Sainsbury's gift card offer is an online exclusive and ends soon.  Terms and conditions apply. 
+                    <br>
+                    <sup>3</sup> Price will be &pound;18 a month from month 13. You must switch your line rental to BT (&pound;14.16 a month equivalent when you pay &pound;169.90 for 12 months in advance; otherwise &pound;16.99 a month). A &pound;6.95 delivery charge applies for BT Home Hub. Free weekend calls for calls of up to one hour (you may hang up and redial to avoid charges). ced price offer is an online exclusive and ends 28/01/15. Sainsbury's gift card offer is an online exclusive and ends soon. Terms and conditions apply.	
+                    <br>
+                    <sup>4</sup> Price will be &pound;23 a month from month 13. You must switch your line rental to BT (&pound;14.16 a month equivalent when you pay &pound;169.90 for 12 months in advance; otherwise &pound;16.99 a month). A &pound;6.95 delivery charge applies for BT Home Hub. A &pound;30 one off activation fee applies for BT Infinity. Free weekend calls for calls of up to one hour (you may hang up and redial to avoid charges. ced price offer is an online exclusive and ends 19/01/2015. Sainsbury's gift card is an online exclusive and ends soon. Terms and conditions apply.  
+                    <br>
+                    <sup>5</sup> Price will be &pound;23 a month from month 13. You must switch your line rental to BT (&pound;14.16 a month equivalent when you pay &pound;169.90 for 12 months in advance; otherwise &pound;16.99 a month). A &pound;6.95 delivery charge applies for BT Home Hub. &pound;35 upfront activation fee applies for BT TV. ced price offer is an online exclusive and ends 28/01/14. Sainsbury's gift card is an online exclusive and ends soon. Terms and conditions apply.	
+                    <br>
+                    <br>Prices correct as of 14 January 2015. <br><br>
+                    <span style="font-family: Arial, Helvetica, sans-serif; color: #666666; font-size: 12px;"><span style="color: #000; font-weight: bold;">broadbandchoices.co.uk</span> is a trading name of Decision Technologies Limited. Registered in England and Wales number 05341159 whose registered address is: High Holborn House, 52-54 High Holborn, London, WC1V 6RL. <br></span><br></span>
+                </td>
+            </tr>
+        </tbody></table>
+        <table width="600" align="center" border="0" cellpadding="20" cellspacing="0">
+	<tbody>
+		<tr>
+			<td align="center" valign="top">
+
+				<font color="#666666" face="Verdana" size="1"> This message was selected by us at Deal Alert and sent to you on behalf of broadbandchoices as you have signed up to receive our emails from one of our partners. We apologise if you believe this email has been sent to you in error. If links have been disabled, please ensure this email is not in your junk folder.<br>
+				<a href="http://com.deal-compare.co.uk/HS?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsffcStGb5lw8W0bBhOG5mpqVsje_HhdAFnFFF" style="color:#000;"><b>Privacy Policy </b></a> &#124;  <b><a href="http://com.deal-compare.co.uk/HD?a=ENX7Cqxe3lLu8SA9MKID2z_nGHxKKjHsb_cStGb5lw8W0bBhOG5mpqVsje_HhdAFnFE3" style="color:#000;"> Unsubscribe</a></b>. <br>  Sent to you by Deal Alert, PO Box 70921, London, SW19 9FP. Thank you.
+		  </font></td>
+		</tr>
+	</tbody>
+</table>
+ <img src="http://com.deal-compare.co.uk/HO?DdX7Cqxe3lLu8SA9MOPvg0XnGHxKLNHzDwjtS5kGKxIFKBI.gif" border="0" alt="" width="1" height="1" /></body></html>
+--498093323493567233--
+

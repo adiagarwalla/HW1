@@ -1,0 +1,428 @@
+From @..  Tue Jan 13 00:13:39 2015
+Return-Path: <@..>
+X-Original-To: sugarsweet@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 71E0EDF; Tue, 13 Jan 2015 00:13:39 +0000 (UTC)
+Received: from dactyl.cwtonline.co.uk (84.45.36.38 [84.45.36.38])
+    by .. with SMTP id fy5wibcfytbr5a4da3sw76wcfa;
+    for sugarsweet@fs.net;
+    Tue, 13 Jan 2015 00:13:38 +0000 (UTC)
+    (envelope-from cruise-returns@cruise.co.uk)
+Received-SPF: None; receiver=..;
+    client-ip=84.45.36.38; envelope-from=<cruise-returns@cruise.co.uk>;
+    helo=dactyl.cwtonline.co.uk
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=84.45.36.38; client-port=42657;
+    syn-fingerprint=5840:47:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.44 129.250.4.165 129.250.3.85
+    129.250.6.177 129.250.4.125 129.250.5.197 129.250.5.41 83.231.146.230
+    84.45.27.138 84.45.21.187 84.45.23.27 84.45.23.21 84.45.90.201
+    84.45.90.113 0.0.0.0 109.104.114.97 84.45.90.117 0.0.0.0 0.0.0.0
+    84.45.90.145; network-path-time=1421108018
+Received: by dactyl.cwtonline.co.uk (Postfix, from userid 1000)
+	id 1C180CCB57; Tue, 13 Jan 2015 00:13:22 +0000 (GMT)
+To: @..
+Subject: Rocking And Rolling On The Thomson Majesty, Well Done RCI & Man Overboard! Again!
+X-DKIM: php-dkim.sourceforge.net
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=47389; s=mailer;
+	t=1421108002; c=relaxed/simple;
+	h=From:To:Subject;
+	d=cruise.co.uk;
+	z=From:=20Cruise=20Bulletin=20<cruisebulletin@cruise.co.uk>
+	|To:=20sugarsweet@fs.net
+	|Subject:=20Rocking=20And=20Rolling=20On=20The=20Thomson=20Majesty,=20Well=20Done=20RCI=20&=20Man=20Overboard!=20Again!;
+	bh=QaFah58fv2ABdRXqBaW9dtSwlUY=;
+	b=BheemOBJecs7f47nLy7OHxKeDifR8dLwviotbs/UxjAfG/aDECvbdKoc9h0yWPGS
+From: Cruise Bulletin <@..>
+Reply-To: @..
+Errors-To: @..
+List-Unsubscribe: <http://www.cruise.co.uk/unsubscribe.php?id=3811324&match=Aug 11 2014 09:42PM&eblastid=3110&type=> 
+X-Mailer: PHP/5.2.17-pl0-gentoo
+X-Cruise-Eblast: eid3110:uid3811324 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----id:boundary.cruise.co.uk/eblast3110/"
+Message-Id: <20150113001322.1C180CCB57@dactyl.cwtonline.co.uk>
+Date: Tue, 13 Jan 2015 00:13:22 +0000 (GMT)
+
+This is a multipart message in mime format.
+
+------id:boundary.cruise.co.uk/eblast3110/
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  <title>Untitled Document</title>
+  <style type="text/css">
+a:link {
+	color: #990000;
+	text-decoration: none;
+}
+a:visited {
+	color: #990000;
+	text-decoration: none;
+}
+a:hover {
+	color: #990000;
+	text-decoration: none;
+}
+a:active {
+	color: #990000;
+	text-decoration: none;
+}
+
+.HEADER_1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 70px;
+	color: #003882;
+	font-weight: bold;}
+.HEADER_2 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 56px;
+	color: #009FCA;
+	font-style: italic;}
+.SUBSCRIBES {font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #003882;}
+.DATE {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #003882;
+	font-style: italic;}
+.TOPLINKS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	line-height: normal;
+	color: #009FCA;
+	font-weight:bold;}
+.SUB_HEADERS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	text-align: left;
+	color: #003882;}
+.FIRST_SUBHEADER {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #003882;
+	font-style:italic;
+	font-weight: bold;}
+.PLAIN_COPY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000000}
+.READ_MORE {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #990000;
+	font-style:italic;
+	font-weight:bold;}
+.USER_1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003882;
+	font-size: 12px;
+	font-weight: normal;}
+.CRUISE_LINE_1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003882;
+	font-weight: bold;
+	font-size: 12px;}
+.MID_FOOTERS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	color:#003882;}
+.BACK_TOP_1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003882;}
+.OFF_TOPIC_1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-style: italic;
+	color: #009FCA;
+	font-size: 14px;}
+.NOW_PRICE_1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #990000;}
+.DEAL_DETAILS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;}
+.DEAL_OFFERS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	color: #009FCA;}
+.FROM {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #990000;}
+.PRICE {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #990000;}
+.WAS_PRICE {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #999999;}
+.VIEW_OFFER {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: underline;}
+.TAILOR_RIVERS_HEADER {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.LINE {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #999999; }
+</style>
+ </head>
+ <body>
+  <table border="0" cellpadding="10" cellspacing="0" width="100   <!------------------------------------------ / TOP HEADER ---------------------------------------------->
+   <tr>
+    <td>
+     <h1><span class="HEADER_1">cruise</span><span
+ class="HEADER_2">BULLETIN</span></h1><br />
+    </td>
+   </tr>
+   <tr>
+    <td><span class="DATE" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">Monday 12th January 2015</span></td>
+   </tr>
+   <tr>
+    <td><span class="TOPLINKS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: normal; font-weight: bold; line-height: normal;"> <a href="http://www.cruise.co.uk/cruise-reviews/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net"><strong>REVIEWS</strong></a><strong> | <a href="http://www.cruise.co.uk/news/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">NEWS</a> | <a href="http://www.cruise.co.uk/forum/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">FORUM</a> | <a href="http://www.cruise.co.uk/search/deals/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">DEALS</a> | <a href="http://www.cruise.co.uk/cruise-answers/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">Q&amp;A</a> | <a href="http://www.cr
+ uise.co.uk/cruise-photos/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">PHOTOS</a> | <a href="http://www.cruise.co.uk/cruise-blogs/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">BLOGS</a> | <a href="http://www.cruise.co.uk/guides/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">GUIDES</a></strong></span></td>
+   </tr>
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;"><strong>A Definitive Guide to River Cruising</strong></div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">The fastest growing cruise market is only getting bigger, better, more popular and more luxurious. <br />
+       <br /> Once only a hobby held by the upper-class looking for a cultured look at Europe and Asia's important cities, now river cruising has opened up and anyone can sail down river in style and comfort.<br />
+       <br />If you've ever been on a river cruise then you already know what to expect; immaculate ships, friendly atmosphere, delicious food, incredible excursions, but for those of you yet to sail the Siene (or Danube, Nile, whichever you prefer!) there's a lot to discover about river cruising! <br />
+       <br />Well not to worry - we've got you covered! Below you'll find all the important information you'll need before setting off down river... </span><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><br />
+       <br /><a class="READ_MORE" href="http://www.cruise.co.uk/news/the-definitive-guide-to-river-cruising/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=TopArticle" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;">Click here to read more &gt;&gt;</a></span><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><hr /></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;"><strong>It's Coming To An End! Don't Miss Out!</strong></div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"> Our cruise giveaway is coming to end soon so don't miss out on the chance to win a FREE cruise on Royal Caribbean's ground breaking NEW ship ANTHEM OF THE SEAS! <br />
+       <br /> To enter simply like us on Facebook. It doesn't get much easier than that! <br />
+       <br />The winner will be announced at the end of January so don't miss out! </span><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><br />
+       <br /><a class="READ_MORE" href="http://www.cruise.co.uk/cruise-guides/anthem-comp-landingpage-oct14/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=AnthemComp" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;">Click here to enter &gt;&gt;</a></span><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><hr /></span></p>
+    </td>
+   </tr>
+   <!------------------------------------------ / REVIEWS ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">The Best Reviews This Week</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Rocking And Rolling On The Thomson Majesty </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Billingham, Ilkley on 10th Jan 2015</span><br /><span class="CRUISE_LINE_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">Thomson Cruises - Thomson Majesty</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;We slept well on the first night as we had a long day previously - but that was to be the best sleep all week, as the weather worsened in the following days. However, in the Atlantic during November that's not unusual. Quite a few people were looking...&quot;</span> <span class="READ_MORE" style="color: #9900
+ 00; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><br /><a href="http://www.cruise.co.uk/cruise-reviews/thomson-cruises/thomson-majesty/read-review-107272/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=Reviews">Read More&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Well Done RCI </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Chapman, Launceston on 10th Jan 2015</span><br /><span class="CRUISE_LINE_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">Royal Caribbean Cruises - Allure of the Seas</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;Considering the size of the ship it actually felt less crowded than many others we have been on. At first looking at the number of people boarding the vessel we were concerned about it feeling crowded but...&quot;</span> <span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+  font-style: italic; font-weight: bold;"><br /><a href="http://www.cruise.co.uk/cruise-reviews/royal-caribbean-cruises/allure-of-the-seas/read-review-107267/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=2&amp;utm_term=Reviews">Read More&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Msc Divina - Mixed Service On A Beautiful Ship </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Ellis, Lowestoft on 10th Jan 2015</span><br /><span class="CRUISE_LINE_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">MSC Cruises - MSC Divina</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;Our first impression was that this was a beautiful ship. We had read a few reviews of the ship before the cruise and everyone said it was beautiful, and they were spot on...the decor in the ship is lovely and the sparkling Swarovski staircases in the central Atrium were stunning. We decided to use...&quot;</span> <s
+ pan class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><br /><a href="http://www.cruise.co.uk/cruise-reviews/msc-cruises/msc-divina/read-review-107266/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=3&amp;utm_term=Reviews">Read More&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Great Holiday...Wish I Could Do It Again </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By O' Leary, Cheltenham on 9th Jan 2015</span><br /><span class="CRUISE_LINE_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">Cunard Cruises - Queen Victoria</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;I've given it 5 stars but 4.5 would be more accurate as there were a couple of issues that could be improved. However, for a 24 day holiday, the consistency &amp; quality of the holiday was really excellent and there were some truly memorable experiences. Well done Cunard who have upped the game from...&quot;</s
+ pan> <span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><br /><a href="http://www.cruise.co.uk/cruise-reviews/cunard-cruises/queen-victoria/read-review-107261/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=4&amp;utm_term=Reviews">Read More&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">First Time Cruiser </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Griffiths, Leominster on 10th Jan 2015</span><br /><span class="CRUISE_LINE_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">P&amp;O Cruises - Oceana</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;As soon as we reached Southampton everything went very smoothly, the check in process and boarding were extremely efficient. We didn't have to wait long for our cabins, we had suites with balconies and a balcony room. Both excellent. We had canapes every evening and a bottle of champagne in the room. The cabins were...&quot;</span> <span 
+ class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><br /><a href="http://www.cruise.co.uk/cruise-reviews/pando-cruises/oceana/read-review-107271/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=5&amp;utm_term=Reviews">Read More&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="MID_FOOTERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">Have you recently returned from a Cruise? Why not write a review online and receive a FREE Berlitz Guide to Cruising.</span><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"> <a href="http://www.cruise.co.uk/cruise-reviews/write/details/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=write&amp;utm_campaign=Reviews">Click here to write a review&gt;&gt;</a></span><br />
+      <br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-reviews/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=Reviews">Click here to read more REVIEWS!</a><br /></span><hr />
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">The Latest Cruise News</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Breaking News From Norwegian Cruise Lines</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;It was announced today that Kevin Sheehan, President and Chief Executive Officer of Norwegian Cruise Lines has stepped down in favour of Frank Del Rio. Franck Del Rio is the CEO of Prestige Cruises which was purchased by Norwegian Cruise Lines in Nov 2014...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/news/breaking-news-from-norwegian-cruise-lines/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=News&amp;utm_campaign=News">R
+ ead more&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Swanky New Terminal For Port Everglades</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;They know how to do things on a grand scale in America; big cars, big distances, tall skyscrapers - and now one of the biggest cruise terminals in the world. Port Everglades in Florida is celebrating after the ribbon was cut on its new Terminal 4, which was built at a cost of $24 million (&pound;15.8 million). Located in Fort Lauderdale, it represents the latest development at a port that already welcomed over four million passengers in 2014 alone. The enlarged port means it can accommodate...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;
+ "><a href="http://www.cruise.co.uk/news/swanky-new-terminal-for-port-everglades/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=2&amp;utm_term=News&amp;utm_campaign=News">Read more&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/news/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=News">Click here to read more NEWS!</a></span><br />
+     <hr />
+    </td>
+   </tr>
+   <!------------------------------------------ / CRUISE CONVERSATIONS ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">Join In Our Cruise Conversations</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Are P&amp;O Going To Stop Offering Lunch On Embarkation? </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By: Krisskross, Bromsgrove</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;One of the staff at the cruise terminal told us that from April P&amp;O will be keeping to the timings for embarkation and will not have the buffet open, presumably to discourage people arriving early. Anyone heard anything about this or even whether it is correct?&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="https://www.cruise.co.uk/forum/109-cruise-new
+ s/43569-p-o-goingto-stop-offering-lunch-embarkation.html?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=topics">Read more&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Do You Have A Taste Tester? </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By: Taffy, Wales</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;I have certain dishes that I use to compare food between ships and cruise lines, Chocolate Souffle QE best I have tasted. Eggs Benedict Cafe' Jardine on Oceana. Plenty of bad ones about? French Onion soup Celebrity on all there ships by a long way. Fish and chips,which surprising is popular on all cruises but the best I have had in the MDR was on Eclipse last Year. Have you any dishes that you use to measure cruise line food...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helveti
+ ca, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="https://www.cruise.co.uk/forum/525-cruise-dining/43561-do-you-have-taste-tester.html?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=2&amp;utm_term=topics">Read more&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;"> A Big Opportunity For CRUISE.co.uk Members </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By: Cruise.dot, Birmingham</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;Have you ever missed the ship? Interview wanted for Sunday newspaper: a journalist from one of the Sunday papers would like to interview a British cruiser who missed their ship during a cruise, for whatever reason. How did it feel? How was the dilemma handled? What did you have to do to get yourself to the next port and did it put you off cruising? ...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic
+ ; font-weight: bold;"><a href="https://www.cruise.co.uk/forum/109-cruise-news/43565-big-opporunity-cruise-co-uk-members.html?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=3&amp;utm_term=topics">Read more&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/forum/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=topics">Click here to read more FROM THE FORUM!</a></span><br />
+     <hr />
+    </td>
+   </tr>
+   <!------------------------------------------ / QUESTIONS ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">Question Time</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Q: Free Baby Places?</span> <span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">by Clapich, Edgware - United Kingdom on 11th Jan 2015</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Which cruise line offers free baby places? </span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-answers/children/all-cruiselines/question-171469/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=Question">Give your answer&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Q: Childrens Entertainment?</span> <span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">by Goolding, Farnham - United Kingdom on 11th Jan 2015</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">What is the quality of the childrens entertainment on Holland America Ryndam for 5 and 7 years olds. Will they be kept amused and have dining options away from the parents.</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-answers/children/holland-america-line/question-171464/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN1
+ 20115&email=sugarsweet@fs.net&amp;utm_content=2&amp;utm_term=Question">Give your answer&gt;&gt;</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-answers/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=questions">Click here to read/answer more Q&amp;A's</a></span><br />
+     <hr />
+    </td>
+   </tr>
+   <!------------------------------------------ / BLOGS / CRUISE CONSULTANTS TALKING ---------------------------------------------->
+   <!------------------------------------------ / BLOGS / CRUISE CONSULTANTS TALKING ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">What Our Cruise Consultants Are Talking About</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Man Overboard! Again!</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;Several reports started appearing a few days ago about an American passenger who was knocked off the biggest cruise ship in the world by a massive wave. Frank Jade reported that he had gone for a walk on the open deck when a wave knocked him off his feet and swept him overboard! Luckily for him the Disney Magic cruise ship was following the same navigational path and by some miracle...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-blogs/cruisingthemollyway/2015/01/11/man-overboard-again/?utm_campaign=BULLETIN120115&
+ utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_campaign=blogs"> Click here to find out more from Molly!</a></span></td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Where Will You Find The BEST Service In The Cruise Industry?</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">&quot;Over the years, I've always had consistent feedback about the crew and service provided on a certain fleet. Can you guess who it is? Go on, try it...&quot;</span><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-blogs/thompsonsdreamcruises/2015/01/06/where-will-you-find-the-best-service-in-the-cruise-industry/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=2&amp;utm_campaign=blogs"> Click here to find out more from Louise!</a></sp
+ an></td>
+   </tr>
+   <tr>
+    <td><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-blogs/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=blogs">Click here to read more BLOGS!</a></span><br />
+     <hr />
+    </td>
+   </tr>
+   <!------------------------------------------ / LATEST DEALS ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">Our Latest Cruise Deals</div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="TAILOR_RIVERS_HEADER" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">Tenerife, Madeira &amp; Palma </span><br /><span class="NOW_PRICE_1" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">NOW</span> <span class="FROM" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> from </span><span class="PRICE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">&pound;549pp</span><br /><span class="DEAL_DETAILS" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">13 Mar 15 &ndash; Thomson Cruises &ndash; Thomson Majesty &ndash; 7 Nights</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Tenerife (Santa Cruz), Las Palmas, La Palma, Madeira
+ , Agadir (Morocco), Arrecife (Lanzarote), Tenerife (Santa Cruz) </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Return Flights Included </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">&gt;&gt; Regional Flights available from 19 Different Airports at a Supplement</span><br /><span class="VIEW_OFFER" style="color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-decoration: underline;"><a href="http://www.cruise.co.uk/cruise/thomson-cruises/thomson-majesty/13-mar-15/89745fc/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content1&amp;utm_term=Deals">View Offer &gt;&gt;</a></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="TAILOR_RIVERS_HEADER" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">French &amp; Spanish Cities </span><br /><span class="NOW_PRICE_1" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">NOW</span> <span class="FROM" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> from </span><span class="PRICE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">&pound;575pp</span> <span class="WAS_PRICE" style="color: #999999; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> Was &pound;639pp</span><br /><span class="DEAL_DETAILS" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">7 April 2015 &ndash; Fred. Olsen Cruises &ndash; Boudicca &ndash; 7 Nights</span><br /><span class
+ ="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Dover, Lorient, La Rochelle, La Pallice, Bilbao, Aviles, Dover </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Includes FREE Inclusive Drinks Package<br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Includes FREE Gratuities<br /></span> <span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Save 10 -serif; font-size: 16px; font-weight: bold; text-decoration: underline;"><a href="http://www.cruise.co.uk/cruise/fred-olsen-cruises/boudicca/07-apr-15/83445/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content2&amp;utm_term=Deals">View Offer &gt;&gt;</a></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="TAILOR_RIVERS_HEADER" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">Flam &amp; Bergen </span><br /><span class="NOW_PRICE_1" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">NOW</span> <span class="FROM" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> from </span><span class="PRICE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">&pound;559pp</span> <span class="WAS_PRICE" style="color: #999999; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> Was &pound;1109pp</span><br /><span class="DEAL_DETAILS" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">11 April 2015 &ndash; Cruise &amp; Maritime Voyages &ndash; Magellan &ndash; 7 Nights</span><br /><span cla
+ ss="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Newcastle, Dundee, Ulvik, Eidfjord, Flam, Bergen, Newcastle </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Save upto 50    </td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="TAILOR_RIVERS_HEADER" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">Rainforests, New York &amp; The Best Of The Caribbean </span><br /><span class="NOW_PRICE_1" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">NOW</span> <span class="FROM" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> from </span><span class="PRICE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">&pound;1299pp</span><br /><span class="DEAL_DETAILS" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">30 May 15 &ndash; Carnival Cruise Line &ndash; Carnival Splendor &ndash; 13 Nights</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">San Juan, St Kitts,
+  Antigua, St Thomas, at Sea, Grand Turk, at Sea (2), New York </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Includes FREE UPGRADE From Outside To Balcony<br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">&gt;&gt; Includes Guided Heart Of The Rainforest Tour With Local Expert</span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">&gt;&gt; Includes All Flights &amp; Transfers</span><br /></span><span class="VIEW_OFFER" style="color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-decoration: underline;"><a href="http://www.cruise.co.uk/tailor-made-cruises/carnival-cruises/carnival-splendor/30-may-15/7727/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=B
+ ULLETIN120115&email=sugarsweet@fs.net&amp;utm_content4&amp;utm_term=Deals">View Offer &gt;&gt;</a></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <p><span class="TAILOR_RIVERS_HEADER" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">The Danube, Vienna &amp; Budapest </span><br /><span class="NOW_PRICE_1" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">NOW</span> <span class="FROM" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;"> from </span><span class="PRICE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold;">&pound;999</span><br /><span class="DEAL_DETAILS" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">19 April 2015 &ndash; The River Cruise Line &ndash; 4* MS Serentiy &ndash; 10 Days</span><br /><span class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">UK, Passau, Melk, Vienna, Budapest, Bratis
+ lava, Durnstein, Passau, UK </span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;"> &gt;&gt; Includes Executive return coach travel from your chosen departure point or Flights <br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">&gt;&gt; Overnight hotel accommodation in Germany with breakfast on the outward and return journey</span><br /><span class="DEAL_OFFERS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic;">&gt;&gt; Full board during the cruise</span><br /></span><span class="VIEW_OFFER" style="color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-decoration: underline;"><a href="http://www.cruise.co.uk/river-cruises/river-cruise-line/ms-serenity/19-apr-15/7736/?utm_campaign=BULLETIN120115&utm_medium=email&
+ utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content5&amp;utm_term=Deals">View Offer &gt;&gt;</a></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-holidays/special-offers/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=deals">Click here for even more fantastic CRUISE DEALS</a></span><br />
+     <hr />
+    </td>
+   </tr>
+   <!------------------------------------------ / PHOTOS / VIDEOS ---------------------------------------------->
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">Top Album Pick</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Sailing Into Venice At Dawn </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Thomas, Harlow </span><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-photos/swan-hellenic/photos/album-2783/?16827?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=1&amp;utm_term=Photo">Take a look&gt;&gt;</a></span><br />
+     <br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-photos/royal-caribbean-cruises/photos/album-4587/?23276?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=photos">Click here to view more PHOTOS</a></span></td>
+   </tr>
+   <tr>
+    <td>
+     <div class="SUB_HEADERS" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 22px; text-align: left;">Top Video Pick</div>
+    </td>
+   </tr>
+   <tr>
+    <td><span class="FIRST_SUBHEADER" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: italic; font-weight: bold;">Getting Pampered On Cruise &amp; Maritime </span><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">By Cruisesdotco, Birmingham</span><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"> <a href="https://www.youtube.com/watch?v=5krpIgu_aWM">Click here to watch this video&gt;&gt;</a></span><a href="https://www.youtube.com/watch?v=5_TfZbbxFgk&amp;list=UUr_5wS_hhTvUR0cd_tKn47g"><br /></a><br /><span class="READ_MORE" style="color: #990000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold;"><a href="http://www.cruise.co.uk/cruise-videos/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115
+ &email=sugarsweet@fs.net&amp;utm_content=0&amp;utm_campaign=videos">Click here to view more VIDEOS</a></span><br />
+    </td>
+   </tr>
+   <!---
+ 
+ <!------------------------------------------ / SOCIAL MEDIA  ------------------------------------------------>
+   <tr>
+    <td><span class="USER_1" style="color: #003882; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;">Connect with us on:</span><hr />
+     <br /><span class="TOPLINKS" style="color: #009FCA; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-style: normal; font-weight: bold; line-height: normal;"><a href="https://www.facebook.com/www.Cruise.co?fref=ts">FACEBOOK </a> - - <a href="https://twitter.com/Cruisedotco/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">TWITTER</a> - - <a href="https://plus.google.com/u/0/b/113732859109750622157/113732859109750622157/posts">GOOGLE+</a> - - <a href="http://instagram.com/cruisedotco/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">INSTAGRAM</a> - - <a href="http://www.youtube.com/channel/UCr_5wS_hhTvUR0cd_tKn47g/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net">YOUTUBE</a> - - <a href="http://www.pinterest.com/cruiseco/boards/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.
+ net">PINTEREST</a></span></td>
+   </tr>
+   <!------------------------------------------ / FOOTER ---------------------------------------------->
+   <tr>
+    <td class="PLAIN_COPY" style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">View more cruise deals at <a class="FOOTER_1" href="http://www.cruise.co.uk/?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net" target="_blank">www.cruise.co.uk</a><br /> Join the forum discussions at <a href="http://www.cruise.co.uk/forum/utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net" target="_blank">www.cruise.co.uk/FORUM</a><br /> To unsubscribe <a href="http://www.cruise.co.uk/unsubscribe.php?id=3811324&amp;match=11-Aug-2014 21:42&amp;eblastid=3110" target="_blank" title="UNSUBSCRIBE">click here</a><br />
+     <br /> Company Reg No. 01827977. VAT Reg No. 916 2376 24 <br /> Registered Office: Grosvenor House, Prospect Hill, Redditch, B97 4DL</td>
+   </tr>
+  </table>
+ </body>
+</html>
+<img src="http://www.cruise.co.uk/pixel.gif?utm_campaign=BULLETIN120115&utm_medium=email&utm_source=BULLETIN120115&email=sugarsweet@fs.net" >
+
+------id:boundary.cruise.co.uk/eblast3110/--
+

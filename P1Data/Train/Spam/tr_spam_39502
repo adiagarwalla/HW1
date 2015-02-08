@@ -1,0 +1,794 @@
+From @..  Fri Jan 23 17:04:39 2015
+Return-Path: <@..>
+X-Original-To: stephen_samson@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 195E0DE; Fri, 23 Jan 2015 17:04:39 +0000 (UTC)
+Received: from o2.email.thestudentguide.com (o2.email.thestudentguide.com [192.254.113.153])
+    by .. with SMTP id qi5zftqmvu98p3pgmttsvf3i9s;
+    for stephen_samson@fs.net;
+    Fri, 23 Jan 2015 17:04:38 +0000 (UTC)
+    (envelope-from bounces+1349529-9f79-stephen_samson=fs.net@email.thestudentguide.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=192.254.113.153;
+    envelope-from=<bounces+1349529-9f79-stephen_samson=fs.net@email.thestudentguide.com>;
+    helo=o2.email.thestudentguide.com; mechanism=include:sendgrid.biz
+    (ip4:192.254.112.0/20 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=192.254.113.153; client-port=44273;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 0.0.0.0
+    64.125.31.69 64.125.20.245 64.125.20.242 64.125.25.22;
+    network-path-time=1422032678
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=email.thestudentguide.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=smtpapi; bh=5KGzrU+aweu3/u+GllbVPAigYUI=; b=lFyrI3G3LUn+jrq/hD
+	6o+0GddRBpMsSR6QlDdmd7JuX5TU2BeQk6Ei8iWDwFk0D72jD+zPonbz1U0RJP2h
+	sI978NJHQIOO6V1lwRX9nHypE2Rs2LqgfS2yhJe5kKHLrXGVDfCot9qKi68G6TkX
+	o7hXfDhSCg+2OIWIYVF/lx5R4=
+Received: by filter-338.sjc1.sendgrid.net with SMTP id filter-338.26281.54C27F11F
+        2015-01-23 17:04:17.692770872 +0000 UTC
+Received: from MTM0OTUyOQ (unknown [10.42.83.122])
+	by ismtpd-044 (SG) with HTTP id 14b17c05d10.3d5a.18ee14
+	for <hello@thesg.com>; Fri, 23 Jan 2015 17:04:17 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============8349452037584204575=="
+MIME-Version: 1.0
+From: "TheStudentGuide.com" <@..>
+To: @..
+Reply-to: @..
+Subject: =?utf-8?q?International_MBA_Fair_in_London_=E2=80=93_this_Saturday?=
+Message-ID: <14b17c05d10.3d5a.18ee14@ismtpd-044>
+Date: Fri, 23 Jan 2015 17:04:17 +0000 (UTC)
+List-Unsubscribe: <http://email.thestudentguide.com/wf/unsubscribe?upn=5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCXIl8414d-2FJFRlizINtm5-2FruH4Wfj-2Fi-2Bot5MWpEdLRsnXbva64fzJlv83Sgo4P21A6L-2FAn-2FcSXeghynxUEIrci4j8RmFo4rosDV0Tn9-2Bbk49zZnwzcSDIjkS5TMzwx9AfDV-2FbFx3Uf-2B1sGD4Hjdf5l7k-2F-2FznuEd09j0DbJO7jFq10RA178BZr2fdLz072Ncgzs2tt1jxKpWvUu5e1QwWcqH-2F7Y3LZHlOkW-2Bfai9Jfpfzrr1sPZD4WGBm8sgAZsPVjrDbBw5YQDibD-2BXXU8fgjnvbKTabPQZ2VFTDx3IRA4XWIWNyY3j9BWKWPaiaJWrSRZyfpQNuJFsSNES5iHMQMFA-3D-3D>, <mailto:unsubscribe@email.thestudentguide.com?subject=http://email.thestudentguide.com/wf/unsubscribe*q*upn=5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCXIl8414d-2FJFRlizINtm5-2FruH4Wfj-2Fi-2Bot5MWpEdLRsnXbva64fzJlv83Sgo4P21A6L-2FAn-2FcSXeghynxUEIrci4j8RmFo4rosDV0Tn9-2Bbk49zZnwzcSDIjkS5TMzwx9AfDV-2FbFx3Uf-2B1sGD4Hjdf5l7k-2F-2FznuEd09j0DbJO7jFq10RA178BZr2fdLz072Ncgzs2tt1jxKpWvUu5e1QwWcqH-2F7Y3LZHlOkW-2Bfai9Jfpfzrr1sPZD4WGBm8sgAZsPVjrDbBw5YQDibD-2BXXU8fgjnvbKTabPQZ2VFTDx3IRA4XWIWNyY3j9BWKWPaiaJWrSRZyfpQNuJFsSNES5iHMQMFA-3D-3D>
+X-SG-EID: XZnPXfkHZlrEJnnEMti112ebF82zEFZVi+chde+DSIOxH77FzS5OLA0qLf98kCFI0B6Ba3dLpm1Dhl
+ rpoJ9e1/YAJkaumxIXZApwJ4OfuOO4pScSKkWtGTUU3lq4dq6F0jmfa7d1VnJq8dd3twEH3xARrpJH
+ L12sX2dPlhr6hoE=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LBdn5wDkkRbDlt/0awFxA5y2d8SmxAwIIIs7L
+ rlimqMGW29oUNGyHYyi8qMVrvrE5YyE3Yk/IbL+Va7y7Xz6ng7k4GnZ2Hs+bPPi9SZVQgLDX7usC+9
+ a/HUS15LHzMuhfIgZuDTGXIeKpF6VfV7IzEe
+
+--===============8349452037584204575==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+In association with
+-------------------
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                 London                    =
+                                                         Saturday 24th Janu=
+ary                                                                        =
+                          12pm - 4pm=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20
+
+                                                                           =
+   The Gibson Hall
+
+                  13 Bishopsgate, London
+
+                  EC2N 3BA
+
+                  =C2=A0
+
+                                                                      Regis=
+ter now   ( http://www.topmba.com/events/qs-connect-1-2-1/europe/london?utm=
+_source=3Dthe_graduate_guide&utm_medium=3Demail&utm_campaign=3DC121_S15_Lon=
+don&partnerid=3D7217 )                                                     =
+                                                                           =
+                                                                           =
+      Exclusive 1-2-1 sessions with the world's leading business schools   =
+                                                                           =
+                                            Meet admissions directors from =
+the world's top business schools for a 30 minute personal meeting, and get =
+the customised attention you need in your search for the perfect MBA.=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+Once registered, our MBA consultants will review your experience and then t=
+ailor a fully personalised scle of 30 minute meetings with the world's =
+top business school admissions directors, giving you an invaluable advantag=
+e for your MBA application.=20
+
+The event is free to attend but you must register as places are limited!=20
+
+                  =C2=A0
+
+                  We look forward to seeing you there!                     =
+                                                                           =
+                                                  Business Schools Attendin=
+g in 2014:                                                 Ashridge, Cambri=
+dge University - Judge, Cass, Durham, Imperial College, Chicago Booth, Hult=
+, Manchester Business School, IE, ESADE, Melbourne Business School,  ESMT a=
+nd many more...                                                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                        Why attend?                                        =
+                                                                           =
+                                                                           =
+                                             Personal 30 minute meetings wi=
+th business school admissions directors                                    =
+                                                                           =
+                          A pre-screened matching service that lets you ide=
+ntify which school best suit your needs                                    =
+                                                                           =
+                          Free consultation from our team of MBA experts   =
+                                                                           =
+                                                           Proven track rec=
+ord over 20 years of placing the best candidates with the best schools     =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                    Find ou=
+t more  ( http://www.topmba.com/events/qs-connect-1-2-1/europe/london?utm_s=
+ource=3Dthe_graduate_guide&utm_medium=3Demail&utm_campaign=3DC121_S15_Londo=
+n&partnerid=3D7217 )=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                                                  =C2=A0
+
+             ( http://www.topmba.com/events/qs-world-mba-tour/europe/london=
+?utm_source=3Dthe_graduate_guide&utm_medium=3Demail&utm_campaign=3DWMT_S15_=
+London&partnerid=3D7217 ) If you are unable to make it to this event, you c=
+an attend the QS World MBA Tour  ( http://www.topmba.com/events/qs-world-mb=
+a-tour/europe/london?utm_source=3Dthe_graduate_guide&utm_medium=3Demail&utm=
+_campaign=3DWMT_S15_London&partnerid=3D7217 )on 7th March 2015.  You will h=
+ave the opportunity to meet with admissions directors from over 40 top b.sc=
+hools, as well as attend an admissions panel and GMAT workshop.  Click here=
+ ( http://www.topmba.com/events/qs-world-mba-tour/europe/london?utm_source=
+=3Dthe_graduate_guide&utm_medium=3Demail&utm_campaign=3DWMT_S15_London&part=
+nerid=3D7217 ) for more information and to register for the fair.
+
+                                                                           =
+                       You are receiving this email from The Graduate Guide=
+, on behalf of QS.
+
+      Follow us:                     ( http://www.twitter.com/TheGradGuide =
+)              ( http://www.facebook.com/TheGraduateGuide ) ( https://www.l=
+inkedin.com/company/british-american-media )         Be sure to add hello@t=
+hesg.com to your address book or safe senders list so our emails get to you=
+r inbox. Not interested in Graduate Guide emails? It's easy to unsubscribe =
+( http://email.thestudentguide.com/wf/unsubscribe?upn=3D5xu02FVv-2BCbxTLHpB=
+sC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdC5qwW3uLjUh62HsJ5s5w-2BLcQ5V7=
+bK-2BY-2Fap5A9-2B5fEpryhkhbJ4JoGjtTzuaE7stxwDEOCFhd2MSLPKbppxAvwSlXuAniTNC2=
+-2B1PaAo9QUl6dWYmDb-2FyIyXnCcOy2WfT5JfJyd2Fo-2B8fVZRzk5-2FS7FO58RvrM4luIZjC=
+Nx8g9R2mO9Hfnch-2BdMAI8tQTJV5NbcCv0CmXjHk1OdCMlYImV9RDjkykxjuf5egPkan6m3ghH=
+WAOT2cp4fqB29rDeOEsAzl5Xn9sNnSDqTEusgeuCqqM7N7wNQ8ZrYOulnInTvNVj90gIDStWHr5=
+zK67VxSofViWosjSX4gFJqeScIh0zsLQ-3D-3D ).
+
+=C2=AE GraduateGuide.co.uk is operated by British American Group. Registere=
+d in England and Wales under company number 05917406. Our registered addres=
+s is located at 96 Granville Street, Birmingham, B1 1SG.
+The Graduate Guide, GraduateGuide.co.uk and The Graduate Guide logo are tra=
+demarks of British American Group or its affiliates. All rights reserved. =
+=C2=A9 2014 British American Group.    Terms & Conditions ( http://www.grad=
+uateguide.co.uk/terms ) | Privacy Policy ( http://www.graduateguide.co.uk/p=
+rivacy )=
+
+--===============8349452037584204575==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" />
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpor=
+t" />
+<style type=3D"text/css">=20
+/* Fonts */
+@import url(http://fonts.googleapis.com/css?family=3DNunito:300);
+/* Compatibility hacks */
+.ReadMsgBody {
+	width: 100}
+.ExternalClass {
+	width: 100}
+p {
+margin:0;
+padding:0;
+margin-bottom:0;
+}
+table td {border-collapse:collapse;}=20
+.eoa_bce {
+}
+span.yshortcuts {
+	color:#000;
+	background-color:none;
+	border:none;
+}
+span {
+font-family: tahoma, Helvetica Neue, helvetica, arial, sans-serif !importan=
+t;
+}
+span.yshortcuts:hover, span.yshortcuts:active, span.yshortcuts:focus {
+	color:#000;
+	background-color:none;
+	border:none;
+}
+.hmfix img{
+   width:10px !important;
+   height:10px !important;
+   }
+
+/* Mobile only styling - 480 breakpoint  */
+@media only screen and (max-width: 480px) {
+table[class=3D'full-width'], img[class=3D'full-width'] {
+width: 275px !important;
+padding: 5px;
+}
+img[class=3D'banner'], table[class=3D'banner'] {
+width: 275px !important;
+height: 76px !important;
+}
+span[class=3D'mobile-hide'], tr[class=3D'mobile-hide'], td[class=3D'mobile-=
+hide'], table[class=3D'mobile-hide'] {
+display: none !important;
+}
+td[class=3D'cant-read'] {
+text-align: left !important;
+}
+}
+</style>=20
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width: 100 helvetica, arial, sans-serif; " width=3D"100  <tbody><tr>
+    <td>
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"full-width" style=3D"width: 575px;">
+       <tbody><tr class=3D"mobile-hide">
+			<td height=3D"5"><img height=3D"1" src=3D"http://content.qs.com/email_im=
+ages_01_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+			</td>
+		</tr>
+        <tr>
+          <td valign=3D"bottom">
+
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full-width" style=3D"width: 250px;font-family: Lucida Sans=
+ Unicode, Lucida Grande, Lucida Sans, Verdana, Tahoma, sans-serif; font-siz=
+e: 11px; ">
+              <tbody><tr>
+                <td align=3D"left" style=3D"font-family: Lucida Sans Unicod=
+e, Lucida Grande, Lucida Sans, Verdana, Tahoma, sans-serif; font-size: 11px=
+; color: #777d78; line-height: 14px;">
+                 <h3 style=3D"line-height: 1.3em;padding:0;margin:0;font-we=
+ight:normal;font-size:12px;margin-bottom:4px"><strong>In association with</=
+strong></h3>
+                 <span style=3D"padding-bottom:10px;"><img src=3D"http://co=
+ntent.qs.com/wmt_wgst_wut/GradWebsiteLogo.png" alt=3D"" style=3D"display: b=
+lock;" border=3D"0" width=3D"187" height=3D"62" class=3D"ee_maxsize-157x60 =
+ee_editable" /></span></td>
+              </tr>
+            </tbody></table>
+=09
+          </td>
+        </tr>
+		<tr class=3D"mobile-hide">
+			<td height=3D"10"><img height=3D"1" src=3D"http://content.qs.com/email_i=
+mages_01_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+			</td>
+		</tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+
+    <td align=3D"center" bgcolor=3D"#dde1e4">
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"banner" style=3D"width: 575px; padding: 0px !important;">
+        <tbody><tr>
+          <td><img src=3D"http://content.qs.com/c121/Silverpop_banner_engli=
+sh.jpg" alt=3D"" width=3D"575" height=3D"159" longdesc=3D"http://content.qs=
+.com/c121/Html_Banner.jpg" /></td>
+        </tr>
+      </tbody></table>
+    </td>
+
+  </tr>
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f4f4f4">
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"full-width" style=3D"width: 575px;padding: 0px !important;font=
+-family: tahoma, helvetica neue, helvetica, arial, sans-serif; ">
+        <tbody><tr>
+          <td height=3D"36"><img height=3D"1" src=3D"http://content.qs.com/=
+email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+
+            <table align=3D"right" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"full-width" style=3D"width: 275px; border-radius: 6px; pa=
+dding: 0px; font-family: tahoma, helvetica neue, helvetica, arial, sans-ser=
+if; ">
+              <tbody><tr>
+                <td bgcolor=3D"#303030" style=3D"border-top-left-radius: 6p=
+x; border-top-right-radius: 6px;border-bottom: 1px solid #666666; "><img sr=
+c=3D"http://content.qs.com/c121/LondonCity_F14.jpg" alt=3D"" width=3D"275" =
+height=3D"147" longdesc=3D"http://content.qs.com/c121/LondonCity_F14.jpg" /=
+></td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#186899" height=3D"15" style=3D"line-height:=
+10px; border: 0px;"><img height=3D"1" src=3D"http://content.qs.com/email_im=
+ages_01_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" bgcolor=3D"#186899" height=3D"30" styl=
+e=3D"font-family: nunito, tahoma, helvetica neue, helvetica, arial, sans-se=
+rif; font-size: 32px; color: #ffffff; line-height:1em;">
+              <font face=3D"'nunito', tahoma, helvetica neue,arial, sans-se=
+rif">London</font>
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" bgcolor=3D"#186899" height=3D"40" styl=
+e=3D"font-family: nunito, tahoma, helvetica neue, helvetica, arial, sans-se=
+rif; font-size: 22px; color: #f5b644; line-height: 1.5em;" valign=3D"top">
+                 <font face=3D"'nunito', tahoma, helvetica neue,arial, sans=
+-serif">Saturday 24th January</font>
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" bgcolor=3D"#186899" style=3D"font-fami=
+ly: tahoma, helvetica neue, helvetica, arial, sans-serif; font-size: 16px; =
+color: #FFFFFF; line-height: 1.5em;">
+                  <p>
+                    12pm - 4pm
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"center" bgcolor=3D"#186899" style=3D"font-fami=
+ly: tahoma, helvetica neue, helvetica, arial, sans-serif; font-size: 14px; =
+color: #FFFFFF; line-height: 1.5em;">
+                  <p>The Gibson Hall</p>
+                  <p>13 Bishopsgate, London</p>
+                  <p>EC2N 3BA</p>
+                  <p>&nbsp;</p></td>
+              </tr>
+              <tr>
+                <td align=3D"center" bgcolor=3D"#186899">
+=20=09=20=20=20=20=20=20=20
+                  <a href=3D"http://email.thestudentguide.com/wf/click?upn=
+=3DyXCYaPmmuVPl7WIwVLj78lgMrtyB-2FyOHw-2BJXP91oFXpBOQ7kZuR5-2FPNkcf4VgAqXfW=
+Wpl7n8QdBGMk0SbXbO9SFA5Hy6lvGC0uE1164VAW-2FcP3K43eX9aKe9NUQvTOy-2Fynqp5CbHL=
+4H-2Bv76cuLlIupZI3n54eRBbxjBwulZ2fDJKg8dNwiRCjV3EhYmw5t4SHYeuF8GBch0M2OZ8UI=
+ujlw-3D-3D_5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0t=
+dCJvh37QKZsS3UP8Qytx9i9recbqoe6gNLl7sdrHdiuigsqehwwU3-2Fl5RmRYUKwIlqqd1v-2F=
+HBCHA6MEnbpecu9SXdVUMBWz6hutPEMJVZR3NzhZZpa22qS5TkhiG3FaysHGYNbmqmDtIo3TXGh=
+7j28tjjID0AQml2sk3qTjmqx5RACa4eOj2Eq4Jydg4CpCzY0uOXenLaAgND-2BzATkmXDfDAHj-=
+2BPDrhtl-2B4UMo4jjGuLWF0-2BvAEKTwIfV3wkEoDjkOMITAbLV58v56qEqkgn4WRVqx7odJs-=
+2Fl-2BASEys6PtXH5pZo2BtwZqQ7vS6GvnJecJeTmn7vSxcP0AMac9-2Fa79XQ-3D-3D" style=
+=3D"background-color:#f5b644;border-radius:4px;color:#4d4d4d;display:inline=
+-block;font-family:nunito,tahoma, helvetica neue, helvetica, arial,sans-ser=
+if;font-weight:300;font-size:18px;line-height:44px;height:44px;text-align:c=
+enter;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">Regi=
+ster now  <img border=3D"0" src=3D"http://content.qs.com/email_images_01_20=
+14/arrow1.gif" style=3D"vertical-align: middle;" /></a>=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"left" bgcolor=3D"#186899" height=3D"20" style=
+=3D"border-bottom-left-radius: 6px; border-bottom-right-radius: 6px;" valig=
+n=3D"bottom"><img height=3D"1" src=3D"http://content.qs.com/email_images_01=
+_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+				</td>
+              </tr>
+              <tr>
+                <td height=3D"20"><img height=3D"1" src=3D"http://content.q=
+s.com/email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"=
+1" />
+                </td>
+              </tr>
+            </tbody></table>
+=20
+
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full-width" style=3D"width: 275px;font-family: tahoma, hel=
+vetica neue, helvetica, arial, sans-serif; ">
+              <tbody><tr>
+                <td align=3D"left" style=3D"font-family: nunito, tahoma, he=
+lvetica neue, helvetica, arial, sans-serif; font-weight:300; font-size: 28p=
+x; color:#4d4d4d; line-height: 1.2em;"><span style=3D"font-family: arial; f=
+ont-weight:300; font-size: 26px; color:#4d4d4d; line-height: 1.2em;">Exclus=
+ive 1-2-1 sessions with the world's leading business schools</span></td>
+              </tr>
+              <tr>
+                <td height=3D"15"><img height=3D"1" src=3D"http://content.q=
+s.com/email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"=
+1" />
+                </td>
+              </tr>
+              <tr>
+                <td align=3D"left" style=3D"font-family: tahoma, helvetica =
+neue, helvetica, arial, sans-serif; font-size: 13px; color:#4d4d4d; line-he=
+ight: 20px;">
+                  <p align=3D"justify">Meet admissions directors from the w=
+orld's top business schools for a 30 minute personal meeting, and get the c=
+ustomised attention you need in your search for the perfect MBA. <br />
+                    <br />
+Once registered, our MBA consultants will review your experience and then t=
+ailor a fully personalised scle of 30 minute meetings with the world's =
+top business school admissions directors, giving you an invaluable advantag=
+e for your MBA application. <br />
+<br />
+The event is free to attend but you must register as places are limited! </=
+p>
+                  <p>&nbsp;</p>
+                  <strong>We look forward to seeing you there!</strong></td>
+              </tr>
+            </tbody></table>
+
+          </td>
+        </tr>
+        <tr>
+          <td height=3D"25"><img height=3D"1" src=3D"http://content.qs.com/=
+email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"1" />
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#ffffff" height=3D"25" style=3D"border-top: 1px solid #d=
+ddddd;"><img height=3D"1" src=3D"http://content.qs.com/email_images_01_2014=
+/spacer.gif" style=3D" display: block;" width=3D"1" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"full-width" style=3D"width: 575px;font-family: tahoma, helveti=
+ca neue, helvetica, arial, sans-serif; ">
+        <tbody><tr>
+          <td align=3D"left" height=3D"35" style=3D"font-family: nunito, ta=
+homa, helvetica neue, helvetica, arial, sans-serif; font-size: 28px; color:=
+#4d4d4d; line-height: 28px; font-weight: 300;" valign=3D"top">
+            <font face=3D"'nunito', tahoma, helvetica neue,arial, sans-seri=
+f" style=3D"font-weight: 300;">Business Schools Attending in 2014:</font>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"font-family: tahoma, helvetica neue, helvetica, aria=
+l, sans-serif; font-size: 14px; color: #404f6f; line-height: 1.6em;">
+             Ashridge, Cambridge University - Judge, Cass, Durham, Imperial=
+ College, Chicago Booth, Hult, Manchester Business School, IE, ESADE, Melbo=
+urne Business School,  ESMT and many more...
+          </td>
+        </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#ffffff" height=3D"25" style=3D"border-bottom: 1px solid=
+ #dddddd;"><img height=3D"1" src=3D"http://content.qs.com/email_images_01_2=
+014/spacer.gif" style=3D" display: block;" width=3D"1" />
+    </td>
+  </tr>
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f4f4f4">
+      <table  align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"full-width" style=3D"width: 575px;font-family: tahoma, helv=
+etica neue, helvetica, arial, sans-serif; ">
+        <tbody><tr>
+          <td>
+
+            <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full-width" style=3D"width: 275px;">
+              <tbody><tr>
+                <td height=3D"36"><img height=3D"1" src=3D"http://content.q=
+s.com/email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"=
+1" />
+                </td>
+              </tr>
+              <tr>
+                <td><img src=3D"http://content.qs.com/c121/C121_photo_for_h=
+tmls.jpg" alt=3D"" border=3D"0" style=3D"border-radius: 6px; display: block=
+;" /></td>
+              </tr>
+            </tbody></table>
+=20
+
+            <table align=3D"right" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"full-width" style=3D"width: 275px;font-family: tahoma, he=
+lvetica neue, helvetica, arial, sans-serif; ">
+              <tbody><tr class=3D"mobile-hide">
+                <td height=3D"32"><img height=3D"1" src=3D"http://content.q=
+s.com/email_images_01_2014/spacer.gif" style=3D" display: block;" width=3D"=
+1" />
+                  </td>
+              </tr>
+                <tr>
+                  <td align=3D"left" style=3D"font-family: Arial; font-size=
+: 20px; font-weight: 300; color:#4d4d4d;"><font face=3D"'nunito', tahoma, h=
+elvetica neue,arial, sans-serif" style=3D"font-weight: 300;">Why attend?</f=
+ont></td>
+                </tr>
+                <tr>
+                  <td height=3D"8"><img src=3D"http://content.qs.com/email_=
+images_01_2014/spacer.gif" alt=3D"" width=3D"1" height=3D"1" style=3D" disp=
+lay: block;" /></td>
+                </tr>
+                <tr>
+                  <td align=3D"left" style=3D"font-family: tahoma, helvetic=
+a neue, helvetica, arial, sans-serif; font-size: 13px; color:#4d4d4d; line-=
+height: 1.6em;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"font-family: tahoma,helvetica neue,helvetica,arial,sans-serif; font-s=
+ize: 13px; color: rgb(64, 64, 64); line-height: 1.6em;" width=3D"100                    <tbody>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td><img src=3D"http://content.qs.com/email_images_=
+01_2014/tri.gif" alt=3D"" style=3D"display: inline-block; vertical-align: m=
+iddle;" /> Personal 30 minute meetings with business school admissions dire=
+ctors</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td><img src=3D"http://content.qs.com/email_images_=
+01_2014/tri.gif" alt=3D"" style=3D"display: inline-block; vertical-align: m=
+iddle;" /> A pre-screened matching service that lets you identify which sch=
+ool best suit your needs</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td><img src=3D"http://content.qs.com/email_images_=
+01_2014/tri.gif" alt=3D"" style=3D"display: inline-block; vertical-align: m=
+iddle;" /> Free consultation from our team of MBA experts</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td><img src=3D"http://content.qs.com/email_images_=
+01_2014/tri.gif" alt=3D"" style=3D"display: inline-block; vertical-align: m=
+iddle;" /> Proven track record over 20 years of placing the best candidates=
+ with the best schools</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td height=3D"8"><img src=3D"http://content.qs.com/email_=
+images_01_2014/spacer.gif" alt=3D"" width=3D"1" height=3D"1" style=3D" disp=
+lay: block;" /></td>
+                </tr>
+                <tr>
+                  <td align=3D"left" height=3D"25" style=3D"font-family: nu=
+nito, tahoma, helvetica neue, helvetica,arial,sans-serif; font-size: 17px; =
+font-weight: 300; color: #f5b644; text-decoration: none;"><a href=3D"http:/=
+/email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl7WIwVLj78lgMrtyB-2FyO=
+Hw-2BJXP91oFXpBOQ7kZuR5-2FPNkcf4VgAqXfWWpl7n8QdBGMk0SbXbO9SFA5Hy6lvGC0uE116=
+4VAW-2FcP3K43eX9aKe9NUQvTOy-2Fynqp5CbHL4H-2Bv76cuLlIupZI3n54eRBbxjBwulZ2fDJ=
+Kg8dNwiRCjV3EhYmw5t4SHYeuF8GBch0M2OZ8UIujlw-3D-3D_5xu02FVv-2BCbxTLHpBsC0Rad=
+N3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCaPV5A2Z6n5vz6ZRfReN2pRJ-2Fo0QFJyNJ=
+QEdpNc4oGKxYY6B0EozrZOJp0iH0bLq3rMUg7dJnEXH7jrPog3sB-2FvS0aR3LLaZXdW7wM0bdX=
+uJD0rGcKX6pIsOE8XvP5Yh1dbDfnHkgi3iX1OsVIzWTu5HrwebDKdlhj-2FWinxcgpG2BrMJdl5=
+-2BTCTcR7cXev2VAmr5X4H5tfDroGDFtmmdDOuI49M6fOjV0jWQK6AH28VQGDIbQLkzbR13SVRM=
+QqZxTRhz8iGRqOz-2Ff1X2ugJENyeRdSUT3AdeWwi5744nOtcY2HH2FJ9T-2B-2BEmXiycqln3S=
+zU-2FIA5LaxDRANV95QF4Tmw-3D-3D" target=3D"_new" style=3D"font-family: Arial=
+; font-size: 17px; font-weight: 300; color: #f5b644; text-decoration: none;=
+"> <img src=3D"http://content.qs.com/email_images_01_2014/arrow2.gif" alt=
+=3D"" border=3D"0" style=3D"display: inline-block;" /><font face=3D"'nunito=
+', tahoma, helvetica neue, helvetica,arial,sans-serif; " style=3D"font-size=
+: 17px; font-weight: 300; color: #f5b644; text-decoration: none;"><strong> =
+Find out more </strong></font></a></td>
+                </tr>
+			   </tbody>
+            </table>
+
+          </td>
+        </tr>
+        <tr>
+
+          <td align=3D"left" height=3D"25" style=3D"font-family: tahoma, he=
+lvetica neue, helvetica, arial, sans-serif; font-size: 12px; color:#4d4d4d;=
+ line-height: 20px;">=20
+          <br /></td>
+
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D"border-top: 1px solid #dddddd;">
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"full-width" style=3D"width: 575px;font-family: tahoma, helveti=
+ca neue, helvetica, arial, sans-serif; ">
+        <tbody><tr>
+          <td align=3D"center" style=3D"font-family: Lucida Sans Unicode, L=
+ucida Grande, Lucida Sans, Verdana, Tahoma, sans-serif; font-size: 11px; co=
+lor: #404040; line-height: 14px;"><p>&nbsp;</p>
+            <p><a href=3D"http://email.thestudentguide.com/wf/click?upn=3Dy=
+XCYaPmmuVPl7WIwVLj78lgMrtyB-2FyOHw-2BJXP91oFXqea3UgNOyIZ4CaFnTZVCttN7yryG6j=
+DIWcT-2BqhcvkOzPpzd1Adz6bA6BCNnXxbdNPrXTxPJ5d6z-2BtihDdDTQTG43pprwDoDMbvtlf=
+awr7SVe30hpQ7cuMTVM4ij3vXr-2FILzX9ed6b7XDr8cLU2yjAvcsY1RfnfFp-2BRfeq-2FFG-2=
+FYQg-3D-3D_5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0t=
+dC-2FYUXd-2B-2BLpWLqahW8PSg3GVex1MAD9oux6NOmKZBXopaDxTTXQ7OLj4-2FudF4OkLuVV=
+beIGoQy78BV12aBZLy8cUoA-2BeWobd2zKAITqJT2n7ksSWJ1-2FL3RdAOCeJoPVSV0k0d7hyff=
+f5EBBlXmMaCdeKkrLapFRMMwHJFXfFqBaJg7O6xVVL2IgNaPDUZxUjy-2BHqB-2FHmOB-2Fu0nv=
+sMDTdphQrAn702zXjgeGdGlTthnDuVQkuCjrqmG7piWAZuSDTWoQ-2BytKv8FOtG-2B5BP0sOuy=
+PABTzZ8Wi-2FecK8w2MnVARiN1nHlWufD3-2FSy-2Bz0pHRdFHizdDk2vvtIdAmqWhm-2FCSoQ-=
+3D-3D" style=3D"font-family: 'nunito',tahoma, helvetica neue, helvetica,ari=
+al,sans-serif; font-size: 17px; font-weight: 300; color: #f5b644; text-deco=
+ration: none;"><img src=3D"http://content.qs.com/email_images_01_2014/arrow=
+2.gif" alt=3D"" border=3D"0" style=3D"display: inline-block;" /></a> <stron=
+g>If you are unable to make it to this event, you can attend the <a href=3D=
+"http://email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl7WIwVLj78lgMrt=
+yB-2FyOHw-2BJXP91oFXqea3UgNOyIZ4CaFnTZVCttN7yryG6jDIWcT-2BqhcvkOzPpzd1Adz6b=
+A6BCNnXxbdNPrXTxPJ5d6z-2BtihDdDTQTG43pprwDoDMbvtlfawr7SVe30hpQ7cuMTVM4ij3vX=
+r-2FILzX9ed6b7XDr8cLU2yjAvcsY1RfnfFp-2BRfeq-2FFG-2FYQg-3D-3D_5xu02FVv-2BCbx=
+TLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCEBKU5G3pFVWokpVPiqRGSDx=
+aMU0bAZi17-2B5c5qm15lLjLlS24Js5I563-2FIJWEEp-2FbhgXbSS7MWSiiMPmV-2FukoTzvgo=
+zdKWmpVyvJLVSN8mUTvhpLum7wSaI9l8evTNjt3JL17JACQDdzRnEKO7MAYrbwp5r415uxcfGDq=
+8-2FKO2PeHWyPA0ewfcmr5sZ1SV1gc9RXO6M7N6ykMfL6MCW97N0o-2BWHqp8arZLyUHB0-2BZp=
+dMB7VNMpTWDwva-2Fd5-2BAvNnP6YqJ6iC-2Bxs1WFVKqiJNfc-2FwlwkdLati-2FTbWoqa54dK=
+BcSPcRkUlcHuJPzXa5hl1FDqa117vhAjGL9c4fP49rA-3D-3D">QS World MBA Tour </a>on=
+ 7th March 2015.  You will have the opportunity to meet with admissions dir=
+ectors from over 40 top b.schools, as well as attend an admissions panel an=
+d GMAT workshop.  <a href=3D"http://email.thestudentguide.com/wf/click?upn=
+=3DyXCYaPmmuVPl7WIwVLj78lgMrtyB-2FyOHw-2BJXP91oFXqea3UgNOyIZ4CaFnTZVCttN7yr=
+yG6jDIWcT-2BqhcvkOzPpzd1Adz6bA6BCNnXxbdNPrXTxPJ5d6z-2BtihDdDTQTG43pprwDoDMb=
+vtlfawr7SVe30hpQ7cuMTVM4ij3vXr-2FILzX9ed6b7XDr8cLU2yjAvcsY1RfnfFp-2BRfeq-2F=
+FG-2FYQg-3D-3D_5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZ=
+of0tdCDCWQt8AzXrBVMqHSkUueJov9jl-2F3RLe71HquFlaaIFu03VMSy0PC5Yk6AFE75Gu-2BK=
+hcVraT5tcbXgw6cbQ1dtpRfZmtraSqX5AOGoPfJ7JJZHbxy2ha8D97WAyzYDa17FBwG-2BlKnj-=
+2FGz1IrVPhu9115YofzOqcSGOcDLRALY8SnP5BlWbDwjfnZ9-2BcKv-2BKKJdiC9-2B1Y-2FQj7=
+6-2FTakK41iqU-2B8dNojg-2B-2FIW8GOs-2FeLfYFBrWqSnS2dIHSpOI-2BvkFZk7rsCLGESPv=
+g12kwszdiFscSNED-2BlJCWhYBET186mQ-2BgLAB7AQBAzs8GrQRf-2BEpagrhF20R0-2FzpmRY=
+-2B9ADbUd4w-3D-3D">Click here</a> for more information and to register for =
+the fair.</strong></p>
+            </br>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"margin-bottom:5px;" width=3D"575">
+              <tbody>
+                </tbody>
+          </table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100n=3D"center" style=3D"font-family: Arial, sans-serif; font-size: 11px;text-=
+align:center;color: #BDBDBD;">
+ <tr>
+   <td align=3D"center">
+<b>You are receiving this email from The Graduate Guide, on behalf of QS.</=
+b><br><br>
+</td>
+  </tr>
+ <tr>
+   <td>
+<b>Follow us:</b>
+</td>
+  </tr>
+  <tr>
+   <td align=3D"center">
+    <a href=3D"http://email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl=
+7WIwVLj78nEWPyJGj779rtsXx30pbH5bRuygSZcUP4CJNU-2BSonQf_5xu02FVv-2BCbxTLHpBs=
+C0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdC4w559tvvnh6XgjZcpyCKqP1pTw7E-=
+2BbLkb9lqxZQYTsa-2FV-2BDj0LemxTktbHK59FqzLCIsm-2FFu3hZnCGvDgO1h641v9-2BD-2B=
+sLHZ6Qo0ec-2Fy3v9iu7eF4AfFyksqQSs8wS9E6CFn9wwizD9CZNRjYeqrcEhlkfb0SZuSlazbc=
+Anf8sWdd6i5NALCZ7pOXiBaWRmSk9oF14fOWVU8J95O5TpRyqkWf4LpK2zvdxpD4Rx5flxi-2FL=
+sRquC8-2BU5-2BV1ftLN-2Bu7HJKVNHu-2BnyoZL7qwPXDCGnW0knqh-2BfkDemWnkjrOY3=
+vBnyctiNjHEPknQiah-2BOcPNPljnGnGDNsv6x-2Beg-3D-3D" style=3D"text-decoration=
+:none">
+     <img src=3D"http://britishamericanmedia.com/images/gallery/g1_buttons/=
+SG_Twitter.png" alt=3D"Twitter">
+    </a>
+    <a href=3D"http://email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl=
+7WIwVLj78lABxEtw9ITYRLox-2BceIVS2xqLOOXDlolaFQ7t43aCdq_5xu02FVv-2BCbxTLHpBs=
+C0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCMQaVF8YMJIpMzK1s-2Fzh0jJCMEM0=
+rDT9kcTNM4FWWHARu-2B2Ea41Yx5AFhfB0yE7Hv04rTTxXuJtgiqdkqE1vtqR-2Fo5fzbRyBCMR=
+8OqKV7tzsED-2Br60FJs6LC-2BqaeBFGdnnyoJy1Z9pbt3xdLsisQQqP3qh1HKYnwexk7KEMn3x=
+j3EKJpbY90L0YLgUsK1wWctOVuZKHR1mzZv1OgET-2F8WakBqicgEWjZkMmXmuTb8lG5szs6kj5=
+V1qPUIF6QYrWwvy1mvheJrVqWVcOvjJ3m1T0o-2FuJBLtbJm3WL-2FhXsEtVGey53YRqkMFUXXG=
+cTdeNY6O9vrVc2Zuf2S4Ea9xc5S7Q-3D-3D" style=3D"text-decoration:none">
+     <img src=3D"http://britishamericanmedia.com/images/gallery/g1_buttons/=
+SG_FB.png" alt=3D"Facebook">
+    </a>
+<a href=3D"http://email.thestudentguide.com/wf/click?upn=3De7dcG9d41aZIKCCA=
+P5nr-2B1jpcybaxYA0LNg64TxVwt3pbEnxTPmjASWUUCq-2BEqvg5wzh7JljpCJuZygqxErUFg-=
+3D-3D_5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCsK0=
+1LpShT4Iiqw8xpyGfXRiuLpbG-2BT1Mbhr8w1KqTXFy6lix6dzaIAwyGMAYl3PluC2HTLIis-2F=
+DtjCKpeZh-2Brn2OBEK47dI-2Bp6pBB-2FievCRnhmPtfTVepoJ5GkmX7cPH7S7KTtUIfNWvnpt=
+o5rOfvJIS52y2RoPRIi3nDNb6tnDDgMwjrj4hxdG3q1NraO9co3oApT3G0vz8njAMSIMm9f0sTl=
+1-2FBXyeAhludcJ5AdvQBF0kV-2BbtKgLLrFvd6-2FtxqK-2FuhYsDjM-2FUeAxx03BxfWHYZPe=
+vauFud7D8ey6-2FLvXezAKxr4ZBwGW-2F8WDCjDPsDhH3pVDmgygv-2F06P8N-2FePQ-3D-3D">
+<img src=3D"http://www.baexperience.com/images/uploads/SG_Linkedin.png"></a>
+   </td>
+  </tr>
+ </table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"100align:center;color: #BDBDBD;padding:20px 0">
+ <tr>
+  <td>
+Be sure to add <font color=3D"#81BEF7">hello@thesg.com</font> to your addre=
+ss book or safe senders list so our emails get to your inbox. Not intereste=
+d in Graduate Guide emails? It's easy to <a href=3D"http://email.thestudent=
+guide.com/wf/unsubscribe?upn=3D5xu02FVv-2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagO=
+ydl0RnhpKRMdZlVZof0tdCb9YQi7V6NfrBDdDOG8U5jBuNdyXtvz3VIPIuouPjflwgKN-2Beeyu=
+4I6zaMBRpzTPiBbbbYWh48s-2Br51ZNUAWLG7M6M8aMhhOn7akseo6mVIwcf-2B2TmEMviW9afM=
+I54QICseb-2FijlrrWqtvztLp3JeyxMKRiC4Gxm4gBbn-2FSrn72aak6DkAzdVPXGXYi2zpaAnv=
+pNNiVhJ6KvrsBwwDvu1GMSQP15MB4ks4e3-2F1ADhDGUZsoTBlpGjhMIgMchcok-2F2WeHaA3Fw=
+rFfG-2B23c0L90Nc9mnobwbDAffO-2Fm4cMxM6YZzvD6JgYb9X78MtCah-2FdeyZCd44HFve3lL=
+Thk4M5Pow-3D-3D" style=3D"text-decoration: none;">unsubscribe</a>.<br>
+<br>&reg; GraduateGuide.co.uk is operated by British American Group. Regist=
+ered in England and Wales under company number 05917406. Our registered add=
+ress is located at 96 Granville Street, Birmingham, B1 1SG.
+<br>The Graduate Guide, GraduateGuide.co.uk and The Graduate Guide logo are=
+ trademarks of British American Group or its affiliates. All rights reserve=
+d. &copy; 2014 British American Group.
+</td>
+ </tr>
+ <tr>
+  <td style=3D"padding: 10px 0px 0px 0px">
+<a href=3D"http://email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl7WIw=
+VLj78hu2yiewTiwwycntxp6mrPFVihz7KNeDwZSLTit5SryO_5xu02FVv-2BCbxTLHpBsC0RadN=
+3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdC1NmUxT-2FokKQMzx8YAXVaicd7hJX3dSkUt=
+ta1-2F6f45SEmckFeck-2B4uQNfUmCz03qSAjzotgy0e0yyBMin9AOirKXM159SA8utXvLbIHTO=
+7h0644ER2JfI8FfqFK72WofVaoespK2mtrhl-2ByPrOQO0mbEicKHIghOAo8opwR4-2FTX6-2BX=
+0a1Ii50CGwCxHsxSHdrfMwk8ZXFufhxsN9aDL7zwtyJu09xvKPfxTB5FrHlBJZL74GbMlOU4nA7=
+kNW04rE1kBPcPHcapAXCY5cpszyFd7hd2Wzbfs94Mnj2HtDwsNvA89js-2FL-2BpYsZK-2BiyYF=
+k03vS2pKIMhC5FkzZMiosutcA-3D-3D">Terms & Conditions</a> |=20
+<a href=3D"http://email.thestudentguide.com/wf/click?upn=3DyXCYaPmmuVPl7WIw=
+VLj78hu2yiewTiwwycntxp6mrPHLW2KoxrJsDSlRmmPoJ10o_5xu02FVv-2BCbxTLHpBsC0RadN=
+3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCH6qUCcAWmOPXyuLGZaykYj5qbAtN-2FCwOt=
+TYV0zMPgce6WoByQCQOyLuv6oWM5kicKl2ukM0-2FG2jqhmCP6xFpPiWajCeBm1QTk2jJKedWLu=
+eagWmRe7oAbi66gJfeGJQlA7V8QXQbr9JjUs5UmDGUTBjeYULObOMFPtLJRjJCS04-2Fl3Glxsf=
+3c-2FJRet8EqOcgeh8Cd4ouKk-2BnUk3rysaJQ0SdvAMJnG6dVWXlqpkiYi8VHiZHfU4-2F-2F5=
+ACa7pi06F97hjm0MEiBT8mx6NIdEcuf4ab-2F2zcgv1ncegqUKt-2B-2FlX46mFhoaP4VpJJk2P=
+1XHN9wIo00nuJnSCFwpVGilxsZg-3D-3D">Privacy Policy</a>
+</td>
+  </tr>
+ </table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+      </td>
+  </tr>
+</tbody></table>
+</html><img src=3D"http://email.thestudentguide.com/wf/open?upn=3D5xu02FVv-=
+2BCbxTLHpBsC0RadN3qD5SRCjuXnI5GHagOydl0RnhpKRMdZlVZof0tdCxPRuN3p5K-2B-2Bsvv=
+avuvARhdaOVOJuwnjfeQ48JJhHe8FcxGxRV9W6mLmqREW48LxKdVOgFeGQ9Y6DDFsMxUIrXqlcz=
+jCwdxKUz2PL7QxLTs-2BdeYOZpNcvh3tkMpgtpFQxJnFvchH3A7WbYwvP5dYitDBaIx5jbuqBz8=
+kAGe6RXjuG0jL44h3AEQPYhK-2BhzCMNwWGiBWbR6MA-2B2BdgFPv5Kq-2FJCG9N7tJevGP5kqy=
+pbzhILrZyS-2B-2F5c7j7nDMh11v13b-2FMtuz0wMx8NhOtQXLyzL-2BUmzs9zzJb-2FIIXTCLD=
+Yv6ewag7hJzXhnYbpR9qCELdBMA3BcufFxvQy6uKrLchQQ-3D-3D" alt=3D"" width=3D"1" =
+height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !importa=
+nt;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !impor=
+tant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impo=
+rtant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0=
+ !important;"/>
+
+--===============8349452037584204575==--
+

@@ -1,0 +1,51 @@
+From @..  Wed Jan  7 19:34:37 2015
+Return-Path: <@..>
+X-Original-To: cxfhl@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2794DDF; Wed,  7 Jan 2015 19:34:37 +0000 (UTC)
+Received: from server.redpill.xyz (216.246.23.143 [216.246.23.143])
+    by .. with SMTP id cfjq568hz5gmwvg967v9ajj72s;
+    for cxfhl@fs.net;
+    Wed, 07 Jan 2015 19:34:37 +0000 (UTC)
+    (envelope-from deleted@advidata.com)
+Received-SPF: None; receiver=..;
+    client-ip=216.246.23.143; envelope-from=<deleted@advidata.com>;
+    helo=server.redpill.xyz
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=216.246.23.143; client-port=48234;
+    syn-fingerprint=5840:54:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.180 129.250.4.116 129.250.2.201
+    129.250.4.202 129.250.193.2 204.93.204.73 204.93.204.51 216.246.76.14;
+    network-path-time=1420659277
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=advidata.com; s=default;
+	h=Date:Message-Id:Subject:Content-type:From:MIME-Version:To; bh=gIT7hxD4GBRa+yFrvNnLLzi+DjjYxzQIfCZ8UHnQVj8=;
+	b=LXGr7IrujxorNU3FY8bYf3jx8+xkuWMnGq8Qh9BQgO91yg/ccPZE6QPO15z1RJIpD56HsTrIym+reKa24H170IRJb61FGVV89O1/uBHO/EY3yN+tkaDvepVfopIavQXGGOxkfCk4loebTMxIGdaf7q8k2dt2dWqYnc/M7HiMM6k=;
+Received: from advi by server.redpill.xyz with local (Exim 4.84)
+	(envelope-from <deleted@advidata.com>)
+	id 1Y8wN3-0000Lv-L5
+	for cxfhl@fs.net; Wed, 07 Jan 2015 22:34:21 +0300
+To: =?utf-8?B?6Ze15b+D5LmD?= <@..>
+X-Autorespond: =?utf-8?B?6YOO5ZK45bmzMjAxNSDkvIHkuJog57uP5rWOIOmihOa1iyAgICA=?= =?utf-8?B?a2V2aW4=?=
+MIME-Version: 1.0
+X-Loop: =?utf-8?B?6Ze15b+D5LmD?= <cxfhl@fs.net>
+Precedence: auto_reply
+X-Precedence: auto_reply
+From: "=?utf-8?b?6ze15b+d5lmd?= <cxfhl@fs.net>" <@..>
+Content-type: text/plain; charset=utf-8
+Subject: Invalid Email
+Message-Id: <E1Y8wN3-0000Lv-L5@server.redpill.xyz>
+Date: Wed, 07 Jan 2015 22:34:21 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.redpill.xyz
+X-AntiAbuse: Original Domain - fs.net
+X-AntiAbuse: Originator/Caller UID/GID - [501 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - advidata.com
+X-Get-Message-Sender-Via: server.redpill.xyz: authenticated_id: advi/from_h
+X-Source: /usr/local/cpanel/bin/autorespond
+X-Source-Args: /usr/local/cpanel/bin/autorespond deleted@advidata.com /home/advi/.autorespond 
+X-Source-Dir: /home/advi
+
+The owner of this domain has died and the domain has been sold. Please remove this email from your address book.
+

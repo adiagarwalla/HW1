@@ -1,0 +1,612 @@
+From @..  Mon Jan 19 14:35:03 2015
+Return-Path: <@..>
+X-Original-To: callroyal@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 86CD0DE; Mon, 19 Jan 2015 14:35:03 +0000 (UTC)
+Received: from newsletters-1.essentialretail.co.uk (newsletters-1.essentialretail.co.uk [188.165.227.160])
+    by .. with SMTP id nt9dpxk3nfkamics6vp52g5hm6;
+    for callroyal@fs.net;
+    Mon, 19 Jan 2015 14:35:03 +0000 (UTC)
+    (envelope-from campaign@newsletters-1.essentialretail.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=188.165.227.160;
+    envelope-from=<campaign@newsletters-1.essentialretail.co.uk>;
+    helo=newsletters-1.essentialretail.co.uk; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=188.165.227.160; client-port=53532;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-hops=14;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 63.146.26.214 195.22.199.145 195.22.199.7 178.32.135.208
+    0.0.0.0 0.0.0.0 94.23.122.66 213.186.32.254 188.165.227.160;
+    network-path-time=1421678103
+Received: from localhost (newsletters-1.essentialretail.co.uk [IPv6:2001:41d0:2:aea0::1])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by newsletters-1.essentialretail.co.uk (Postfix) with ESMTPSA id 9ECC55D54A
+	for <callroyal@fs.net>; Mon, 19 Jan 2015 14:57:38 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=newsletters-1.essentialretail.co.uk; s=mail; t=1421679458;
+	bh=Cnw6Qo+hn1Vz09Cj5s9aSBhAC6ly1hOx5nsFFpVrj2k=;
+	h=From:To:Subject:List-Unsubscribe:Date:From;
+	b=cqK//mc6eJkK38oNXIjozzZSND4g26E4a7lBYtWx3JK/Sd4ke6DoV783faw2QDWcD
+	 sZai0pDhrcaVJYgo9wXTVaqKnmm4SxhxMIE+1qPHOR/V/Cm1lPo1LzkE60m2f5jkyy
+	 D9pPX4q7de86FBbjyK7coK9gWltDpQPqeuiB6nUg=
+Content-Type: multipart/alternative;
+ boundary="=_28f75d90433765102c2ef47922b2951f"
+MIME-Version: 1.0
+From: Essential Retail <@..>
+To: @..
+Subject: Essential Retail News: CPG execs think tech can improve retailer
+ relationships | Iceland puts security in focus | John Lewis invests in product
+ information management | News on Kurt Salmon, Exa Networks & Magento
+X-Report-Abuse: Please report abuse here:
+ http://www.essentialretail.com/abuse/5245abab0cbe0
+X-Data: 258.5245abab0cbe0
+X-FBL: 258.5245abab0cbe0
+List-Unsubscribe: <http://www.essentialretail.com/unsubscribe/5245abab0cbe0/258>
+Precendence: bulk
+Date: Mon, 19 Jan 2015 14:57:38 +0000
+Message-Id: <20150119145738.9ECC55D54A@newsletters-1.essentialretail.co.uk>
+
+--=_28f75d90433765102c2ef47922b2951f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://ww=
+w.w3.org/1999/xhtml"> <head>   <title>Essential Retail News: CPG execs th=
+ink tech can improve retailer relationships | Iceland puts security in fo=
+cus | John Lewis invests in product information management | News on Kurt=
+ Salmon, Exa Networks & Magento</title> <meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3Dutf-8" /> <style type=3D"text/css">td im=
+g {display: block;}div, p, a, li, td {-webkit-text-size-adjust:none;}</st=
+yle> </head> <body bgcolor=3D"#dddddd"> <table style=3D"display: inline-t=
+able;margin:auto;" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" bgcolor=3D"#ffffff" width=3D"650">   <tr>    <td width=3D"20"=
+ height=3D"1"></td>    <td width=3D"610" height=3D"1"></td>    <td width=3D=
+"20" height=3D"1"></td>    <td width=3D"1" height=3D"1"></td>   </tr>    =
+<tr>    <td colspan=3D"3">                <table width=3D"610" align=3D"c=
+enter" cellspacing=3D"0" cellpadding=3D"0">            <tr>              =
+  <td align=3D"left" style=3D"font-size:12px;font-family:arial;color:#002=
+F51;">                <a href=3D"http://newsletters-1.essentialretail.co.=
+uk/view.php?id=3D258"><span style=3D"font-size:12px;font-family:arial;col=
+or:#002F51;text-decoration:none;">View in Browser</span></a>             =
+                       </td>                <td align=3D"right" style=3D"=
+font-size:12px;font-family:arial;color:#002F51;">                <a href=3D=
+"http://newsletters-1.essentialretail.co.uk/forward.php?campaign=3D258&ha=
+sh=3D5245abab0cbe0"><span style=3D"font-size:12px;font-family:arial;color=
+:#002F51;text-decoration:none;">Forward to a Friend</span></a>           =
+                         </td>            </tr>        </table>          =
+  </td>    <td width=3D"1" height=3D"30"></td>   </tr>          <tr>    <=
+td colspan=3D"3"><img name=3D"index_r1_c1" src=3D"http://www.essentialret=
+ail.com/assets/templates/tmpl529e0d1f8f79d/images/index_r1_c1.jpg" width=3D=
+"650" height=3D"106" id=3D"index_r1_c1" usemap=3D"#index_r1_c1Map" alt=3D=
+"" /></td>    <td width=3D"1" height=3D"106"></td>   </tr>   <tr>    <td =
+rowspan=3D"3"><img name=3D"index_r2_c1" src=3D"http://www.essentialretail=
+.com/assets/templates/tmpl529e0d1f8f79d/images/index_r2_c1.jpg" width=3D"=
+20" height=3D"73" id=3D"index_r2_c1" alt=3D"" /></td>    <td valign=3D"mi=
+ddle" bgcolor=3D"#002F51" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:12px;">        <table width=3D"585" align=3D"center" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:12px;">       <tr>  =
+       <td>            <a href=3D"http://www.essentialretail.com?" target=
+=3D"_blank" style=3D"color: #ffffff;  text-decoration:none !important;">H=
+ome</a>&nbsp;&nbsp;&nbsp;            <a href=3D"http://www.essentialretai=
+l.com/news" target=3D"_blank" style=3D"color: #ffffff; text-decoration:no=
+ne !important;">News</a>&nbsp;&nbsp;&nbsp;            <a href=3D"http://w=
+ww.essentialretail.com/big-interview" target=3D"_blank" style=3D"color: #=
+ffffff; text-decoration:none !important;">Big Interview</a>&nbsp;&nbsp;&n=
+bsp;            <a href=3D"http://www.essentialretail.com/vendor-innovati=
+on" target=3D"_blank" style=3D"color: #ffffff; text-decoration:none !impo=
+rtant;">Vendor Innovation</a>&nbsp;&nbsp;&nbsp;            <a href=3D"htt=
+p://www.essentialretail.com/retail-in-depth" target=3D"_blank" style=3D"c=
+olor: #ffffff; text-decoration:none !important;">Retail in depth</a>&nbsp=
+;&nbsp;&nbsp;            <a href=3D"http://www.essentialretail.com/rbte" =
+target=3D"_blank" style=3D"color: #ffffff; text-decoration:none !importan=
+t;">RBTE</a>          </td>         <td align=3D"right">           <a hre=
+f=3D"https://www.facebook.com/EssentialRetail"><img style=3D"float:right;=
+" src=3D"http://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79=
+d/images/facebook.jpg"></a>           <a href=3D"https://twitter.com/essr=
+etail"><img style=3D"float:right;margin-right:5px;" src=3D"http://www.ess=
+entialretail.com/assets/templates/tmpl529e0d1f8f79d/images/twitter.jpg"><=
+/a>         </td>       </tr>       </table>      </td>    <td rowspan=3D=
+"3"><img name=3D"index_r2_c3" src=3D"http://www.essentialretail.com/asset=
+s/templates/tmpl529e0d1f8f79d/images/index_r2_c3.jpg" width=3D"20" height=
+=3D"73" id=3D"index_r2_c3" alt=3D"" /></td>    <td width=3D"1" height=3D"=
+36"></td>   </tr>   <tr>    <td><img name=3D"index_r3_c2" src=3D"http://w=
+ww.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/images/index_r3=
+_c2.jpg" width=3D"610" height=3D"1" id=3D"index_r3_c2" alt=3D"" /></td>  =
+  <td width=3D"1" height=3D"1"></td>   </tr>   <tr>    <td valign=3D"midd=
+le" bgcolor=3D"#CC1F25">         <table width=3D"585" align=3D"center" st=
+yle=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;color:#ff=
+ffff;">       <tr>         <td style=3D"font-weight:bold;" data-id=3D"[_S=
+TRAPLINE_]">The leading global retail solutions resource</td>         <td=
+ align=3D"right">         19th January 2015         </td>       </tr>    =
+    </table>        </td>    <td width=3D"1" height=3D"36"></td>   </tr> =
+  <tr>    <td colspan=3D"3" valign=3D"top" bgcolor=3D"#ffffff" align=3D"c=
+enter">      <table width=3D"610" align=3D"center" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"border-left:solid 2px #E7E7E7;border-right:solid 2=
+px #E7E7E7;">    <tr>      <td>           <br>         <table width=3D"57=
+0" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-ali=
+gn:left;">         <tr>           <td valign=3D"top" style=3D"font-family=
+:Arial, Helvetica, sans-serif;">                      </td>         </tr>=
+         </table>          <br>         <table width=3D"570" align=3D"cen=
+ter" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:left;" data-=
+id=3D"[_ARTICLE_1_]">         <tr>           <td width=3D"262" valign=3D"=
+top">             <a href=3D"http://www.essentialretail.com/news/article/=
+54bcf13c65657-cpg-execs-hoping-tech-can-improve-retail-relationships&utm_=
+source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-reta=
+il-news-cpg-execs-think-tech-can-improve-retailer-relationships-iceland-p=
+uts-security-in-focus-john-lewis-invests-in-product-information-managemen=
+t-news-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&article_id=3D=
+1245"><img src=3D"http://www.essentialretail.com/cache/141ef2489571ce8ddb=
+7eaab4578a83a2_w262_h175_cp_sc.jpg" width=3D"262" height=3D"175" style=3D=
+"display:block;float:left;border:none;" alt=3D"" /></a>           </td>  =
+         <td valign=3D"top" style=3D"padding-left:20px;font-family:Arial,=
+ Helvetica, sans-serif;">             <a href=3D"http://www.essentialreta=
+il.com/news/article/54bcf13c65657-cpg-execs-hoping-tech-can-improve-retai=
+l-relationships&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campa=
+ign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retailer-rel=
+ationships-iceland-puts-security-in-focus-john-lewis-invests-in-product-i=
+nformation-management-news-on-kurt-salmon-exa-networks-magento&campaign_i=
+d=3D258&article_id=3D1245" style=3D"text-decoration:none !important;">   =
+          <span style=3D"font-family:Arial, Helvetica, sans-serif;font-si=
+ze:26px;font-weight:bold;line-height:120ation:none;">CPG execs hoping tech can improve retail relationships</span=
+>             <br>             <span style=3D"font-size:12px;line-height:=
+18px;color:#000000;text-decoration:none;">Accenture's survey of execs fro=
+m consumer packaged goods companies shows there is a desire to use techno=
+logy to work more closely with retailers around the globe.<br></span>    =
+                      </a>           </td>         </tr>         </table>=
+             <br>         <table width=3D"570" height=3D"110" align=3D"ce=
+nter" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:left;" data=
+-id=3D"[_ARTICLE_2_]">         <tr>           <td width=3D"133" height=3D=
+"110" valign=3D"top">             <a href=3D"http://www.essentialretail.c=
+om/news/article/54bcd4bce4020-frozen-food-retailer-iceland-invests-in-sec=
+urity&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Desse=
+ntial-retail-news-cpg-execs-think-tech-can-improve-retailer-relationships=
+-iceland-puts-security-in-focus-john-lewis-invests-in-product-information=
+-management-news-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&ar=
+ticle_id=3D1243"><img src=3D"http://www.essentialretail.com/cache/f8cd7f4=
+226c914debb48983f7a90cbb6_w133_h89_cp_sc.jpg" width=3D"133" height=3D"89"=
+ style=3D"display:block;float:left;border:none;" alt=3D"" /></a>         =
+  </td>           <td valign=3D"top" height=3D"110" style=3D"padding-left=
+:20px;font-family:Arial, Helvetica, sans-serif;">             <a href=3D"=
+http://www.essentialretail.com/news/article/54bcd4bce4020-frozen-food-ret=
+ailer-iceland-invests-in-security&utm_source=3DER-Campaign-258&utm_medium=
+=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-im=
+prove-retailer-relationships-iceland-puts-security-in-focus-john-lewis-in=
+vests-in-product-information-management-news-on-kurt-salmon-exa-networks-=
+magento&campaign_id=3D258&article_id=3D1243" style=3D"text-decoration:non=
+e !important;">             <span style=3D"font-family:Arial, Helvetica, =
+sans-serif;font-size:21px;font-weight:bold;line-height:120,31,82);text-decoration:none;">Frozen food retailer Iceland invests in se=
+curity</span>             <br>             <span style=3D"font-size:12px;=
+line-height:18px;color:#000000;text-decoration:none;">UK supermarket Icel=
+and has extended its contract with Tyco business ADT, which will involve =
+the provision of security services in all of its existing and new stores.=
+<br></span>             </a>           </td>         </tr>         </tabl=
+e>      </td>    </tr>    </table>           </td>    <td width=3D"1" hei=
+ght=3D""></td>   </tr>   <tr data-id=3D"[_ADVERT_]">    <td colspan=3D"3"=
+><a href=3D"http://www.essentialretail.com/adclick/107-54465cd1badf9"><im=
+g name=3D"index_r6_c1" src=3D"http://www.essentialretail.com/uploads/adve=
+rts_107_54465d0d9e39c.jpg" width=3D"650" height=3D"100" id=3D"index_r6_c1=
+" alt=3D"" /></a></td>    <td width=3D"1" height=3D"100"></td>   </tr>   =
+<tr>    <td colspan=3D"3" valign=3D"top" bgcolor=3D"#ffffff">     <table =
+width=3D"610" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"border-left:solid 2px #E7E7E7;border-right:solid 2px #E7E7E7;">    <tr> =
+     <td>           <br>         <table width=3D"570" height=3D"80" align=
+=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:left;=
+" data-id=3D"[_ARTICLE_]">         <tr>           <td width=3D"93" valign=
+=3D"top">             <a href=3D"http://www.essentialretail.com/news/arti=
+cle/54bce095d34f8-john-lewis-targets-compelling-product-content&utm_sourc=
+e=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-retail-ne=
+ws-cpg-execs-think-tech-can-improve-retailer-relationships-iceland-puts-s=
+ecurity-in-focus-john-lewis-invests-in-product-information-management-new=
+s-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&article_id=3D1244=
+"><img src=3D"http://newsletters-1.essentialretail.co.uk/essentialretail/=
+cache/b33da50ee9de5996577ed668a300a7ba_w96_h68_cp_sc.jpg" width=3D"96" he=
+ight=3D"68" style=3D"display:block;float:left;border:none;" alt=3D"" /></=
+a>           </td>           <td valign=3D"top" style=3D"padding-left:20p=
+x;font-family:Arial, Helvetica, sans-serif;">             <a href=3D"http=
+://www.essentialretail.com/news/article/54bce095d34f8-john-lewis-targets-=
+compelling-product-content&utm_source=3DER-Campaign-258&utm_medium=3Demai=
+l&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-r=
+etailer-relationships-iceland-puts-security-in-focus-john-lewis-invests-i=
+n-product-information-management-news-on-kurt-salmon-exa-networks-magento=
+&campaign_id=3D258&article_id=3D1244" style=3D"text-decoration:none !impo=
+rtant;">               <span style=3D"text-decoration:none;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:12px;font-weight:bold;line-height:12=
+0span>               <br>               <span style=3D"font-size:12px;line=
+-height:18px;color:#000000;text-decoration:none;">UK retailer John Lewis =
+will use Stibo Systems' product information management tool STEP as it lo=
+oks to improve the content of its online product pages.<br></span>       =
+      </a>           </td>         </tr>         </table><br><br><table w=
+idth=3D"570" height=3D"80" align=3D"center" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"text-align:left;" data-id=3D"[_ARTICLE_]">         <tr>  =
+         <td width=3D"93" valign=3D"top">             <a href=3D"http://w=
+ww.essentialretail.com/news/article/54b3d92b202a6-rbte-2015-exhibitor-spo=
+tlight-exa-networks&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_c=
+ampaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retailer=
+-relationships-iceland-puts-security-in-focus-john-lewis-invests-in-produ=
+ct-information-management-news-on-kurt-salmon-exa-networks-magento&campai=
+gn_id=3D258&article_id=3D1228"><img src=3D"http://newsletters-1.essential=
+retail.co.uk/essentialretail/cache/a1c0f87208c297259d1e28d142d1d89d_w96_h=
+68_cp_sc.jpg" width=3D"96" height=3D"68" style=3D"display:block;float:lef=
+t;border:none;" alt=3D"" /></a>           </td>           <td valign=3D"t=
+op" style=3D"padding-left:20px;font-family:Arial, Helvetica, sans-serif;"=
+>             <a href=3D"http://www.essentialretail.com/news/article/54b3=
+d92b202a6-rbte-2015-exhibitor-spotlight-exa-networks&utm_source=3DER-Camp=
+aign-258&utm_medium=3Demail&utm_campaign=3Dessential-retail-news-cpg-exec=
+s-think-tech-can-improve-retailer-relationships-iceland-puts-security-in-=
+focus-john-lewis-invests-in-product-information-management-news-on-kurt-s=
+almon-exa-networks-magento&campaign_id=3D258&article_id=3D1228" style=3D"=
+text-decoration:none !important;">               <span style=3D"text-deco=
+ration:none;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-=
+weight:bold;line-height:120w.essentialretail.com/assets/images/rbte_logo.jpg">&nbsp;RBTE 2015 Exhibi=
+tor Spotlight: Exa Networks</span>               <br>               <span=
+ style=3D"font-size:12px;line-height:18px;color:#000000;text-decoration:n=
+one;">In the build-up to RBTE 2015, Essential Retail will be shining the =
+spotlight on some of its exhibitors. Today, it's IT support services prov=
+ider Exa Networks.<br></span>             </a>           </td>         </=
+tr>         </table><br><br><table width=3D"570" height=3D"80" align=3D"c=
+enter" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:left;" dat=
+a-id=3D"[_ARTICLE_]">         <tr>           <td width=3D"93" valign=3D"t=
+op">             <a href=3D"http://www.essentialretail.com/news/article/5=
+4b94e14d89f5-magento-partner-in-focus-2j-commerce&utm_source=3DER-Campaig=
+n-258&utm_medium=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-t=
+hink-tech-can-improve-retailer-relationships-iceland-puts-security-in-foc=
+us-john-lewis-invests-in-product-information-management-news-on-kurt-salm=
+on-exa-networks-magento&campaign_id=3D258&article_id=3D1242"><img src=3D"=
+http://newsletters-1.essentialretail.co.uk/essentialretail/cache/6a495c6d=
+3454e0dbde04cc8206831f79_w96_h68_cp_sc.jpg" width=3D"96" height=3D"68" st=
+yle=3D"display:block;float:left;border:none;" alt=3D"" /></a>           <=
+/td>           <td valign=3D"top" style=3D"padding-left:20px;font-family:=
+Arial, Helvetica, sans-serif;">             <a href=3D"http://www.essenti=
+alretail.com/news/article/54b94e14d89f5-magento-partner-in-focus-2j-comme=
+rce&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessent=
+ial-retail-news-cpg-execs-think-tech-can-improve-retailer-relationships-i=
+celand-puts-security-in-focus-john-lewis-invests-in-product-information-m=
+anagement-news-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&arti=
+cle_id=3D1242" style=3D"text-decoration:none !important;">               =
+<span style=3D"text-decoration:none;font-family:Arial, Helvetica, sans-se=
+rif;font-size:12px;font-weight:bold;line-height:120;"><img src=3D"http://www.essentialretail.com/assets/images/rbte_logo.jpg=
+">&nbsp;Magento partner in focus: 2J Commerce</span>               <br>  =
+             <span style=3D"font-size:12px;line-height:18px;color:#000000=
+;text-decoration:none;">Who is 2J Commerce? Over the next few weeks, Esse=
+ntial Retail will be focusing on the Magento partners set to exhibit at t=
+his year's RBTE in London.<br></span>             </a>           </td>   =
+      </tr>         </table><br><br>           <table width=3D"606" align=
+=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:left;=
+" bgcolor=3D"#CC1F25" data-id=3D"[_ARTICLE_COMMENT_]">         <tr>      =
+     <td width=3D"93" valign=3D"top">                 <table width=3D"570=
+" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-alig=
+n:left;">                 <tr>                   <td width=3D"160" height=
+=3D"150" valign=3D"middle">                     <a href=3D"http://www.ess=
+entialretail.com/news/article/54b943d6408c7-comment-breaking-through-the-=
+fear-factor-in-retail&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm=
+_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retail=
+er-relationships-iceland-puts-security-in-focus-john-lewis-invests-in-pro=
+duct-information-management-news-on-kurt-salmon-exa-networks-magento&camp=
+aign_id=3D258&article_id=3D1241"><img src=3D"http://www.essentialretail.c=
+om/cache/2bb4037ae05d54e856cb5cee609d8049_w160_h106_cp_sc.jpeg" width=3D"=
+160" height=3D"106" style=3D"display:block;float:left;border:none;" alt=3D=
+"" /></a>                   </td>                   <td valign=3D"top" st=
+yle=3D"padding-left:20px;font-family:Arial, Helvetica, sans-serif;color:#=
+ffffff;">                   <br>                     <a href=3D"http://ww=
+w.essentialretail.com/news/article/54b943d6408c7-comment-breaking-through=
+-the-fear-factor-in-retail&utm_source=3DER-Campaign-258&utm_medium=3Demai=
+l&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-r=
+etailer-relationships-iceland-puts-security-in-focus-john-lewis-invests-i=
+n-product-information-management-news-on-kurt-salmon-exa-networks-magento=
+&campaign_id=3D258&article_id=3D1241" style=3D"text-decoration:none !impo=
+rtant;">                       <span style=3D"text-decoration:none;font-f=
+amily:Arial, Helvetica, sans-serif;line-height:120#ffffff;">Comment: Breaking through the fear factor in retail</span>     =
+                  <br>                       <span style=3D"text-decorati=
+on:none;font-size:14px;line-height:21px;color:#ffffff;">Kurt Salmon busin=
+ess analyst Tom Ducker calls on traditional retailers to change their ris=
+k aversion mentality through the use of technology.<br></span>           =
+          </a>                   </td>                 </tr>             =
+    </table>                 <br><br>           </td>         </tr>      =
+   </table>      </td>    </tr>    </table>         </td>    <td width=3D=
+"1" height=3D""></td>   </tr>     </tr>     <tr>    <td colspan=3D"3"><a =
+href=3D"http://essentialretail.wordpress.com/"><img name=3D"index_r6_c1" =
+src=3D"http://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/=
+images/essential_blog.jpg" width=3D"650" height=3D"107" id=3D"index_r6_c1=
+" alt=3D"" /></a></td>    <td width=3D"1" height=3D"100"></td>   </tr>   =
+<tr>    <td colspan=3D"3" valign=3D"middle" bgcolor=3D"#002F51">         =
+              <table width=3D"585" align=3D"center" style=3D"font-family:=
+Arial, Helvetica, sans-serif; font-size:12px;color:#ffffff;">       <tr> =
+        <td style=3D"font-weight:bold;">           <a href=3D"http://www.=
+essentialretail.com/unsubscribe/5245abab0cbe0/258" style=3D"color:#fff;te=
+xt-decoration:none;">Unsubscribe</a>         </td>         <td align=3D"r=
+ight">          Copyright =C2=A9 Essential Retail. All rights reserved.  =
+       </td>       </tr>        </table>                      </td>    <t=
+d width=3D"1" height=3D"36"></td>   </tr>   <tr>    <td colspan=3D"3"><a =
+href=3D"http://www.essentialretail.com?"><img name=3D"index_r9_c1" src=3D=
+"http://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/images=
+/index_r9_c1.jpg" width=3D"650" height=3D"95" id=3D"index_r9_c1" alt=3D""=
+ /></a></td>    <td width=3D"1" height=3D"95"><img src=3D"http://www.goog=
+le-analytics.com/collect?v=3D1&tid=3DUA-42494313-1&cid=3D5245abab0cbe0&t=3D=
+event&ec=3Demail&ea=3Dopen&el=3Dnewsletter-258&cs=3Dnewsletter&cm=3Demail=
+&cn=3DNewsletter_258&cm1=3D1" width=3D"1" height=3D"1" /></td>   </tr> </=
+table> <map name=3D"index_r1_c1Map" id=3D"index_r1_c1Map">     <area shap=
+e=3D"rect" coords=3D"-1,1,340,105" href=3D"http://www.essentialretail.com=
+?" />     <area shape=3D"rect" coords=3D"339,1,651,105" href=3D"http://ww=
+w.retailbusinesstechnologyexpo.com/" /> </map>  </body> </html>=20
+--=_28f75d90433765102c2ef47922b2951f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www=
+=2Ew3.org/1999/xhtml"> <head>   <title>Essential Retail News: CPG execs thi=
+nk tech can improve retailer relationships | Iceland puts security in focus=
+ | John Lewis invests in product information management | News on Kurt Salm=
+on, Exa Networks & Magento</title> <meta http-equiv=3D"Content-Type" conten=
+t=3D"text/html; charset=3Dutf-8" /> <style type=3D"text/css">td img {displa=
+y: block;}div, p, a, li, td {-webkit-text-size-adjust:none;}</style> </head=
+> <body bgcolor=3D"#dddddd"> <table style=3D"display: inline-table;margin:a=
+uto;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgc=
+olor=3D"#ffffff" width=3D"650">   <tr>    <td width=3D"20" height=3D"1"></t=
+d>    <td width=3D"610" height=3D"1"></td>    <td width=3D"20" height=3D"1"=
+></td>    <td width=3D"1" height=3D"1"></td>   </tr>    <tr>    <td colspan=
+=3D"3">                <table width=3D"610" align=3D"center" cellspacing=3D=
+"0" cellpadding=3D"0">            <tr>                <td align=3D"left" st=
+yle=3D"font-size:12px;font-family:arial;color:#002F51;">                <a =
+href=3D"http://newsletters-1.essentialretail.co.uk/view.php?id=3D258"><span=
+ style=3D"font-size:12px;font-family:arial;color:#002F51;text-decoration:no=
+ne;">View in Browser</span></a>                                    </td>   =
+             <td align=3D"right" style=3D"font-size:12px;font-family:arial;=
+color:#002F51;">                <a href=3D"http://newsletters-1.essentialre=
+tail.co.uk/forward.php?campaign=3D258&hash=3D5245abab0cbe0"><span style=3D"=
+font-size:12px;font-family:arial;color:#002F51;text-decoration:none;">Forwa=
+rd to a Friend</span></a>                                    </td>         =
+   </tr>        </table>            </td>    <td width=3D"1" height=3D"30">=
+</td>   </tr>          <tr>    <td colspan=3D"3"><img name=3D"index_r1_c1" =
+src=3D"http://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/im=
+ages/index_r1_c1.jpg" width=3D"650" height=3D"106" id=3D"index_r1_c1" usema=
+p=3D"#index_r1_c1Map" alt=3D"" /></td>    <td width=3D"1" height=3D"106"></=
+td>   </tr>   <tr>    <td rowspan=3D"3"><img name=3D"index_r2_c1" src=3D"ht=
+tp://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/images/inde=
+x_r2_c1.jpg" width=3D"20" height=3D"73" id=3D"index_r2_c1" alt=3D"" /></td>=
+    <td valign=3D"middle" bgcolor=3D"#002F51" style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:12px;">        <table width=3D"585" align=
+=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12=
+px;">       <tr>         <td>            <a href=3D"http://www.essentialret=
+ail.com?" target=3D"_blank" style=3D"color: #ffffff;  text-decoration:none =
+!important;">Home</a>&nbsp;&nbsp;&nbsp;            <a href=3D"http://www.es=
+sentialretail.com/news" target=3D"_blank" style=3D"color: #ffffff; text-dec=
+oration:none !important;">News</a>&nbsp;&nbsp;&nbsp;            <a href=3D"=
+http://www.essentialretail.com/big-interview" target=3D"_blank" style=3D"co=
+lor: #ffffff; text-decoration:none !important;">Big Interview</a>&nbsp;&nbs=
+p;&nbsp;            <a href=3D"http://www.essentialretail.com/vendor-innova=
+tion" target=3D"_blank" style=3D"color: #ffffff; text-decoration:none !impo=
+rtant;">Vendor Innovation</a>&nbsp;&nbsp;&nbsp;            <a href=3D"http:=
+//www.essentialretail.com/retail-in-depth" target=3D"_blank" style=3D"color=
+: #ffffff; text-decoration:none !important;">Retail in depth</a>&nbsp;&nbsp=
+;&nbsp;            <a href=3D"http://www.essentialretail.com/rbte" target=
+=3D"_blank" style=3D"color: #ffffff; text-decoration:none !important;">RBTE=
+</a>          </td>         <td align=3D"right">           <a href=3D"https=
+://www.facebook.com/EssentialRetail"><img style=3D"float:right;" src=3D"htt=
+p://www.essentialretail.com/assets/templates/tmpl529e0d1f8f79d/images/faceb=
+ook.jpg"></a>           <a href=3D"https://twitter.com/essretail"><img styl=
+e=3D"float:right;margin-right:5px;" src=3D"http://www.essentialretail.com/a=
+ssets/templates/tmpl529e0d1f8f79d/images/twitter.jpg"></a>         </td>   =
+    </tr>       </table>      </td>    <td rowspan=3D"3"><img name=3D"index=
+_r2_c3" src=3D"http://www.essentialretail.com/assets/templates/tmpl529e0d1f=
+8f79d/images/index_r2_c3.jpg" width=3D"20" height=3D"73" id=3D"index_r2_c3"=
+ alt=3D"" /></td>    <td width=3D"1" height=3D"36"></td>   </tr>   <tr>    =
+<td><img name=3D"index_r3_c2" src=3D"http://www.essentialretail.com/assets/=
+templates/tmpl529e0d1f8f79d/images/index_r3_c2.jpg" width=3D"610" height=3D=
+"1" id=3D"index_r3_c2" alt=3D"" /></td>    <td width=3D"1" height=3D"1"></t=
+d>   </tr>   <tr>    <td valign=3D"middle" bgcolor=3D"#CC1F25">         <ta=
+ble width=3D"585" align=3D"center" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:12px;color:#ffffff;">       <tr>         <td style=3D"=
+font-weight:bold;" data-id=3D"[_STRAPLINE_]">The leading global retail solu=
+tions resource</td>         <td align=3D"right">         19th January 2015 =
+        </td>       </tr>        </table>        </td>    <td width=3D"1" h=
+eight=3D"36"></td>   </tr>   <tr>    <td colspan=3D"3" valign=3D"top" bgcol=
+or=3D"#ffffff" align=3D"center">      <table width=3D"610" align=3D"center"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"border-left:solid 2px #E7E7E7=
+;border-right:solid 2px #E7E7E7;">    <tr>      <td>           <br>        =
+ <table width=3D"570" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"text-align:left;">         <tr>           <td valign=3D"top" style=
+=3D"font-family:Arial, Helvetica, sans-serif;">                      </td> =
+        </tr>         </table>          <br>         <table width=3D"570" a=
+lign=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:lef=
+t;" data-id=3D"[_ARTICLE_1_]">         <tr>           <td width=3D"262" val=
+ign=3D"top">             <a href=3D"http://www.essentialretail.com/news/art=
+icle/54bcf13c65657-cpg-execs-hoping-tech-can-improve-retail-relationships&u=
+tm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-ret=
+ail-news-cpg-execs-think-tech-can-improve-retailer-relationships-iceland-pu=
+ts-security-in-focus-john-lewis-invests-in-product-information-management-n=
+ews-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&article_id=3D1245=
+"><img src=3D"http://www.essentialretail.com/cache/141ef2489571ce8ddb7eaab4=
+578a83a2_w262_h175_cp_sc.jpg" width=3D"262" height=3D"175" style=3D"display=
+:block;float:left;border:none;" alt=3D"" /></a>           </td>           <=
+td valign=3D"top" style=3D"padding-left:20px;font-family:Arial, Helvetica, =
+sans-serif;">             <a href=3D"http://www.essentialretail.com/news/ar=
+ticle/54bcf13c65657-cpg-execs-hoping-tech-can-improve-retail-relationships&=
+utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-re=
+tail-news-cpg-execs-think-tech-can-improve-retailer-relationships-iceland-p=
+uts-security-in-focus-john-lewis-invests-in-product-information-management-=
+news-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&article_id=3D124=
+5" style=3D"text-decoration:none !important;">             <span style=3D"f=
+ont-family:Arial, Helvetica, sans-serif;font-size:26px;font-weight:bold;lin=
+e-height:120tech can improve retail relationships</span>             <br>             <=
+span style=3D"font-size:12px;line-height:18px;color:#000000;text-decoration=
+:none;">Accenture's survey of execs from consumer packaged goods companies =
+shows there is a desire to use technology to work more closely with retaile=
+rs around the globe.<br></span>                          </a>           </t=
+d>         </tr>         </table>             <br>         <table width=3D"=
+570" height=3D"110" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"text-align:left;" data-id=3D"[_ARTICLE_2_]">         <tr>           =
+<td width=3D"133" height=3D"110" valign=3D"top">             <a href=3D"htt=
+p://www.essentialretail.com/news/article/54bcd4bce4020-frozen-food-retailer=
+-iceland-invests-in-security&utm_source=3DER-Campaign-258&utm_medium=3Demai=
+l&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-ret=
+ailer-relationships-iceland-puts-security-in-focus-john-lewis-invests-in-pr=
+oduct-information-management-news-on-kurt-salmon-exa-networks-magento&campa=
+ign_id=3D258&article_id=3D1243"><img src=3D"http://www.essentialretail.com/=
+cache/f8cd7f4226c914debb48983f7a90cbb6_w133_h89_cp_sc.jpg" width=3D"133" he=
+ight=3D"89" style=3D"display:block;float:left;border:none;" alt=3D"" /></a>=
+           </td>           <td valign=3D"top" height=3D"110" style=3D"paddi=
+ng-left:20px;font-family:Arial, Helvetica, sans-serif;">             <a hre=
+f=3D"http://www.essentialretail.com/news/article/54bcd4bce4020-frozen-food-=
+retailer-iceland-invests-in-security&utm_source=3DER-Campaign-258&utm_mediu=
+m=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-imp=
+rove-retailer-relationships-iceland-puts-security-in-focus-john-lewis-inves=
+ts-in-product-information-management-news-on-kurt-salmon-exa-networks-magen=
+to&campaign_id=3D258&article_id=3D1243" style=3D"text-decoration:none !impo=
+rtant;">             <span style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:21px;font-weight:bold;line-height:120t-decoration:none;">Frozen food retailer Iceland invests in security</span>=
+             <br>             <span style=3D"font-size:12px;line-height:18p=
+x;color:#000000;text-decoration:none;">UK supermarket Iceland has extended =
+its contract with Tyco business ADT, which will involve the provision of se=
+curity services in all of its existing and new stores.<br></span>          =
+   </a>           </td>         </tr>         </table>      </td>    </tr> =
+   </table>           </td>    <td width=3D"1" height=3D""></td>   </tr>   =
+<tr data-id=3D"[_ADVERT_]">    <td colspan=3D"3"><a href=3D"http://www.esse=
+ntialretail.com/adclick/107-54465cd1badf9"><img name=3D"index_r6_c1" src=3D=
+"http://www.essentialretail.com/uploads/adverts_107_54465d0d9e39c.jpg" widt=
+h=3D"650" height=3D"100" id=3D"index_r6_c1" alt=3D"" /></a></td>    <td wid=
+th=3D"1" height=3D"100"></td>   </tr>   <tr>    <td colspan=3D"3" valign=3D=
+"top" bgcolor=3D"#ffffff">     <table width=3D"610" align=3D"center" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"border-left:solid 2px #E7E7E7;border=
+-right:solid 2px #E7E7E7;">    <tr>      <td>           <br>         <table=
+ width=3D"570" height=3D"80" align=3D"center" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"text-align:left;" data-id=3D"[_ARTICLE_]">         <tr>    =
+       <td width=3D"93" valign=3D"top">             <a href=3D"http://www=
+=2Eessentialretail.com/news/article/54bce095d34f8-john-lewis-targets-compel=
+ling-product-content&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_ca=
+mpaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retailer-re=
+lationships-iceland-puts-security-in-focus-john-lewis-invests-in-product-in=
+formation-management-news-on-kurt-salmon-exa-networks-magento&campaign_id=
+=3D258&article_id=3D1244"><img src=3D"http://newsletters-1.essentialretail=
+=2Eco.uk/essentialretail/cache/b33da50ee9de5996577ed668a300a7ba_w96_h68_cp_=
+sc.jpg" width=3D"96" height=3D"68" style=3D"display:block;float:left;border=
+:none;" alt=3D"" /></a>           </td>           <td valign=3D"top" style=
+=3D"padding-left:20px;font-family:Arial, Helvetica, sans-serif;">          =
+   <a href=3D"http://www.essentialretail.com/news/article/54bce095d34f8-joh=
+n-lewis-targets-compelling-product-content&utm_source=3DER-Campaign-258&utm=
+_medium=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-c=
+an-improve-retailer-relationships-iceland-puts-security-in-focus-john-lewis=
+-invests-in-product-information-management-news-on-kurt-salmon-exa-networks=
+-magento&campaign_id=3D258&article_id=3D1244" style=3D"text-decoration:none=
+ !important;">               <span style=3D"text-decoration:none;font-famil=
+y:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;line-height:=
+120span>               <br>               <span style=3D"font-size:12px;line-h=
+eight:18px;color:#000000;text-decoration:none;">UK retailer John Lewis will=
+ use Stibo Systems' product information management tool STEP as it looks to=
+ improve the content of its online product pages.<br></span>             </=
+a>           </td>         </tr>         </table><br><br><table width=3D"57=
+0" height=3D"80" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"text-align:left;" data-id=3D"[_ARTICLE_]">         <tr>           <td w=
+idth=3D"93" valign=3D"top">             <a href=3D"http://www.essentialreta=
+il.com/news/article/54b3d92b202a6-rbte-2015-exhibitor-spotlight-exa-network=
+s&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-=
+retail-news-cpg-execs-think-tech-can-improve-retailer-relationships-iceland=
+-puts-security-in-focus-john-lewis-invests-in-product-information-managemen=
+t-news-on-kurt-salmon-exa-networks-magento&campaign_id=3D258&article_id=3D1=
+228"><img src=3D"http://newsletters-1.essentialretail.co.uk/essentialretail=
+/cache/a1c0f87208c297259d1e28d142d1d89d_w96_h68_cp_sc.jpg" width=3D"96" hei=
+ght=3D"68" style=3D"display:block;float:left;border:none;" alt=3D"" /></a> =
+          </td>           <td valign=3D"top" style=3D"padding-left:20px;fon=
+t-family:Arial, Helvetica, sans-serif;">             <a href=3D"http://www=
+=2Eessentialretail.com/news/article/54b3d92b202a6-rbte-2015-exhibitor-spotl=
+ight-exa-networks&utm_source=3DER-Campaign-258&utm_medium=3Demail&utm_campa=
+ign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retailer-relat=
+ionships-iceland-puts-security-in-focus-john-lewis-invests-in-product-infor=
+mation-management-news-on-kurt-salmon-exa-networks-magento&campaign_id=3D25=
+8&article_id=3D1228" style=3D"text-decoration:none !important;">           =
+    <span style=3D"text-decoration:none;font-family:Arial, Helvetica, sans-=
+serif;font-size:12px;font-weight:bold;line-height:120;"><img src=3D"http://www.essentialretail.com/assets/images/rbte_logo.jpg">=
+&nbsp;RBTE 2015 Exhibitor Spotlight: Exa Networks</span>               <br>=
+               <span style=3D"font-size:12px;line-height:18px;color:#000000=
+;text-decoration:none;">In the build-up to RBTE 2015, Essential Retail will=
+ be shining the spotlight on some of its exhibitors. Today, it's IT support=
+ services provider Exa Networks.<br></span>             </a>           </td=
+>         </tr>         </table><br><br><table width=3D"570" height=3D"80" =
+align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"text-align:le=
+ft;" data-id=3D"[_ARTICLE_]">         <tr>           <td width=3D"93" valig=
+n=3D"top">             <a href=3D"http://www.essentialretail.com/news/artic=
+le/54b94e14d89f5-magento-partner-in-focus-2j-commerce&utm_source=3DER-Campa=
+ign-258&utm_medium=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-t=
+hink-tech-can-improve-retailer-relationships-iceland-puts-security-in-focus=
+-john-lewis-invests-in-product-information-management-news-on-kurt-salmon-e=
+xa-networks-magento&campaign_id=3D258&article_id=3D1242"><img src=3D"http:/=
+/newsletters-1.essentialretail.co.uk/essentialretail/cache/6a495c6d3454e0db=
+de04cc8206831f79_w96_h68_cp_sc.jpg" width=3D"96" height=3D"68" style=3D"dis=
+play:block;float:left;border:none;" alt=3D"" /></a>           </td>        =
+   <td valign=3D"top" style=3D"padding-left:20px;font-family:Arial, Helveti=
+ca, sans-serif;">             <a href=3D"http://www.essentialretail.com/new=
+s/article/54b94e14d89f5-magento-partner-in-focus-2j-commerce&utm_source=3DE=
+R-Campaign-258&utm_medium=3Demail&utm_campaign=3Dessential-retail-news-cpg-=
+execs-think-tech-can-improve-retailer-relationships-iceland-puts-security-i=
+n-focus-john-lewis-invests-in-product-information-management-news-on-kurt-s=
+almon-exa-networks-magento&campaign_id=3D258&article_id=3D1242" style=3D"te=
+xt-decoration:none !important;">               <span style=3D"text-decorati=
+on:none;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight=
+:bold;line-height:120ialretail.com/assets/images/rbte_logo.jpg">&nbsp;Magento partner in focus: =
+2J Commerce</span>               <br>               <span style=3D"font-siz=
+e:12px;line-height:18px;color:#000000;text-decoration:none;">Who is 2J Comm=
+erce? Over the next few weeks, Essential Retail will be focusing on the Mag=
+ento partners set to exhibit at this year's RBTE in London.<br></span>     =
+        </a>           </td>         </tr>         </table><br><br>        =
+   <table width=3D"606" align=3D"center" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"text-align:left;" bgcolor=3D"#CC1F25" data-id=3D"[_ARTICLE_COMME=
+NT_]">         <tr>           <td width=3D"93" valign=3D"top">             =
+    <table width=3D"570" align=3D"center" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"text-align:left;">                 <tr>                   <td w=
+idth=3D"160" height=3D"150" valign=3D"middle">                     <a href=
+=3D"http://www.essentialretail.com/news/article/54b943d6408c7-comment-break=
+ing-through-the-fear-factor-in-retail&utm_source=3DER-Campaign-258&utm_medi=
+um=3Demail&utm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-im=
+prove-retailer-relationships-iceland-puts-security-in-focus-john-lewis-inve=
+sts-in-product-information-management-news-on-kurt-salmon-exa-networks-mage=
+nto&campaign_id=3D258&article_id=3D1241"><img src=3D"http://www.essentialre=
+tail.com/cache/2bb4037ae05d54e856cb5cee609d8049_w160_h106_cp_sc.jpeg" width=
+=3D"160" height=3D"106" style=3D"display:block;float:left;border:none;" alt=
+=3D"" /></a>                   </td>                   <td valign=3D"top" s=
+tyle=3D"padding-left:20px;font-family:Arial, Helvetica, sans-serif;color:#f=
+fffff;">                   <br>                     <a href=3D"http://www=
+=2Eessentialretail.com/news/article/54b943d6408c7-comment-breaking-through-=
+the-fear-factor-in-retail&utm_source=3DER-Campaign-258&utm_medium=3Demail&u=
+tm_campaign=3Dessential-retail-news-cpg-execs-think-tech-can-improve-retail=
+er-relationships-iceland-puts-security-in-focus-john-lewis-invests-in-produ=
+ct-information-management-news-on-kurt-salmon-exa-networks-magento&campaign=
+_id=3D258&article_id=3D1241" style=3D"text-decoration:none !important;">   =
+                    <span style=3D"text-decoration:none;font-family:Arial, =
+Helvetica, sans-serif;line-height:120nt: Breaking through the fear factor in retail</span>                      =
+ <br>                       <span style=3D"text-decoration:none;font-size:1=
+4px;line-height:21px;color:#ffffff;">Kurt Salmon business analyst Tom Ducke=
+r calls on traditional retailers to change their risk aversion mentality th=
+rough the use of technology.<br></span>                     </a>           =
+        </td>                 </tr>                 </table>               =
+  <br><br>           </td>         </tr>         </table>      </td>    </t=
+r>    </table>         </td>    <td width=3D"1" height=3D""></td>   </tr>  =
+   </tr>     <tr>    <td colspan=3D"3"><a href=3D"http://essentialretail.wo=
+rdpress.com/"><img name=3D"index_r6_c1" src=3D"http://www.essentialretail=
+=2Ecom/assets/templates/tmpl529e0d1f8f79d/images/essential_blog.jpg" width=
+=3D"650" height=3D"107" id=3D"index_r6_c1" alt=3D"" /></a></td>    <td widt=
+h=3D"1" height=3D"100"></td>   </tr>   <tr>    <td colspan=3D"3" valign=3D"=
+middle" bgcolor=3D"#002F51">                       <table width=3D"585" ali=
+gn=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:=
+12px;color:#ffffff;">       <tr>         <td style=3D"font-weight:bold;">  =
+         <a href=3D"http://www.essentialretail.com/unsubscribe/5245abab0cbe=
+0/258" style=3D"color:#fff;text-decoration:none;">Unsubscribe</a>         <=
+/td>         <td align=3D"right">          Copyright =C2=A9 Essential Retai=
+l. All rights reserved.         </td>       </tr>        </table>          =
+            </td>    <td width=3D"1" height=3D"36"></td>   </tr>   <tr>    =
+<td colspan=3D"3"><a href=3D"http://www.essentialretail.com?"><img name=3D"=
+index_r9_c1" src=3D"http://www.essentialretail.com/assets/templates/tmpl529=
+e0d1f8f79d/images/index_r9_c1.jpg" width=3D"650" height=3D"95" id=3D"index_=
+r9_c1" alt=3D"" /></a></td>    <td width=3D"1" height=3D"95"><img src=3D"ht=
+tp://www.google-analytics.com/collect?v=3D1&tid=3DUA-42494313-1&cid=3D5245a=
+bab0cbe0&t=3Devent&ec=3Demail&ea=3Dopen&el=3Dnewsletter-258&cs=3Dnewsletter=
+&cm=3Demail&cn=3DNewsletter_258&cm1=3D1" width=3D"1" height=3D"1" /></td>  =
+ </tr> </table> <map name=3D"index_r1_c1Map" id=3D"index_r1_c1Map">     <ar=
+ea shape=3D"rect" coords=3D"-1,1,340,105" href=3D"http://www.essentialretai=
+l.com?" />     <area shape=3D"rect" coords=3D"339,1,651,105" href=3D"http:/=
+/www.retailbusinesstechnologyexpo.com/" /> </map>  </body> </html>=20
+--=_28f75d90433765102c2ef47922b2951f--
+

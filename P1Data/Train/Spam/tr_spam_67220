@@ -1,0 +1,299 @@
+From @..  Thu Jan 22 10:10:34 2015
+Return-Path: <@..>
+X-Original-To: allenjones@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2D9CCDE; Thu, 22 Jan 2015 10:10:34 +0000 (UTC)
+Received: from so254-62.mailgun.net (so254-62.mailgun.net [198.61.254.62])
+    by .. with SMTP id 8hy95zs4u8c2knmcs4r7aueze2;
+    for allenjones@fs.net;
+    Thu, 22 Jan 2015 10:10:34 +0000 (UTC)
+    (envelope-from bounce+361612.ed9f7-allenjones=fs.net@real-promotion.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.62;
+    envelope-from=<bounce+361612.ed9f7-allenjones=fs.net@real-promotion.co.uk>;
+    helo=so254-62.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.62; client-port=52088;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 173.203.0.131 50.56.6.131 162.209.19.165;
+    network-path-time=1421921434
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=real-promotion.co.uk;
+ q=dns/txt; s=pic; t=1421921416; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=nNU7dtvzSYCixMOP+E1gtBpp658YYsHZCgY6rg1pJPc=; b=wNTT8sEMROtS9WNxPESescqED+azhya5rvL1txKqFKYgp/AMlnMRWRIsBKZlO7UQPL4EH8VW
+ XeLSSnQ48tYMuuvyfwSbEyKQy1Q5V9fAn46qriy763HB1pG9xV3zDUXjhhAGyDCwG/AUKGsW
+ Usl/nftPv7hx5CTzHZzi7Xyordk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=real-promotion.co.uk;
+ s=pic; q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=S9qhsGjthXeHhQPB844LXKRN0QT0r1hbi+xOOX/GWuDRtJxz4Ur7shzF/+NJhSXjO3RwXb
+ bnZOz+RgQuEdV9OcbGtMqO9x1R5aAzkLeSYZNSGb8QzTU/vj4+Ltv4HD+Kkk3cYxnpGcS4Om
+ nXX4u4/51hSiziFx0k1798obR5UHM=
+Received: from mail.real-promotion.co.uk (real-promotion.co.uk
+ [88.198.108.252]) by mxa.mailgun.org with ESMTP id
+ 54c0cc80.7f7620d1a930-in6; Thu, 22 Jan 2015 10:10:08 -0000 (UTC)
+Received: from mail.real-promotion.co.uk (localhost [127.0.0.1])	by
+ mail.real-promotion.co.uk (Postfix) with ESMTP id D3732222D71	for
+ <allenjones@fs.net>; Thu, 22 Jan 2015 12:10:06 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256;
+ c=relaxed/relaxed;	d=real-promotion.co.uk; s=dkim;
+ t=1421921406;	bh=nNU7dtvzSYCixMOP+E1gtBpp658YYsHZCgY6rg1pJPc=;	h=Date:From:To:Subject:From;	b=X8XE+0mWeeUrOCCqGLhuoNuE+neDKta+R+ALXbDfB27/TmpUKl+164KlWsx39I8zN	
+ bIkU2f+191/L3zNKK5KTySNiVG2TL490rOli2NT1d2zpTi0wCRuDCoFzPcpcdlJ04d	
+ h69nww7M88fXM2LnLCfSUakwKHHKAM6w0Yscl6uc=
+Date: Thu, 22 Jan 2015 12:10:06 +0200 (EET)
+From: Eye Care <@..>
+To: "allenjones@fs.net" <@..>
+Message-Id: <1534926708.48530.1421921406864.JavaMail.root@mail.real-promotion.co.uk>
+Subject: Put an End to Poor Vision
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_48528_1898034633.1421921406862"
+X-Mailgun-Sid: WyIzOWZhYSIsICJhbGxlbmpvbmVzQGZzLm5ldCIsICJlZDlmNyJd
+Sender: @..
+
+------=_Part_48528_1898034633.1421921406862
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_48529_1545984293.1421921406863"
+
+------=_Part_48529_1545984293.1421921406863
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+This message contains useful information. If your e-mail provider blocks th=
+e images, please enable them for a complete preview. Find affordable laser =
+eye treatment clinics - Click Here ? FROM JUST ?18 PER MONTH ? ? 1. Complet=
+e our ? ? short form 2. We match you with ? ? suitable clinics 3. They will=
+ get in ? ? touch with you ? Clinic Compare has the UK's leading specialist=
+ laser eye clinics waiting to provide you with the most competitive quotes =
+to transform your life. Compare prices now in order to book a free consulta=
+tion with an expert who can guide you through the best laser eye treatments=
+. Give yourself the gift of sight this New Year 2015! ? ? CLINIC COMPARE 20=
+14 | ALL Rights Reserved We hope you enjoyed receiving this email. Should y=
+ou no longer wish to receive emails from this company, visit this link to u=
+nsubscribe. The advertiser does not manage your subscription. If you prefer=
+ not to receive further communication, here is the way to stop receiving em=
+ails. P.O. Box 13629, 10310 Athens - Greece they were not both alike, and t=
+old him that the table was circular."Ah!" said be, "that is just what the l=
+ittle one said! but I did notunderstand what circular meant; but now I see =
+he is right." Thelittle fellow was so pleased, that he ran to his father di=
+rectly withdelight. The other could not resist the parental impulse, but se=
+izedthe boy and kissed him heartily.The idea of _size_ is necessary to a co=
+rrect apprehension of objects.To talk of yards, feet, or inches, to a child=
+, unless they are shown,is just as intelligible as miles, leagues, or degre=
+es. Let there thenbe two five-feet rods, a black foot and a white foot alte=
+rnately, thebottom foot marked in inches, and let there be a horizontal pie=
+ce toslide up and down to make various heights. Thus, when the height of al=
+ion, or elephant, &c. &c., is mentioned, it may be shown by the rod;while t=
+he girth may be exhibited by a piece of _cord_, which shouldalways be ready=
+. Long measure is taught as follows: Take barley-corns of mod'rate length, =
+And three you'll find will make an inch; Twelve inches make a foot;--if str=
+ength Permit; I'll leap it and not flinch. Three feet's a yard, as understo=
+od By those possess'd with sense and soul; Five feet and half will make a r=
+ood, And also make a perch or pole. Oh how pretty, wond'rously pretty, Ever=
+y rule We learn at school Is wondrously pretty. Forty such poles a furlong =
+make, And eight such furlongs make a mile, O'er hedge, or ditch, or seas, o=
+r lake; O'er railing, fence, or gate, or stile. Three miles a league, by se=
+a or land, And twenty leagues are one degree; Just four times ninety degree=
+s a band Will make to girt the earth and sea. Oh how pretty, &c.
+------=_Part_48529_1545984293.1421921406863
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+
+<p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+This message contains useful information. If your e-mail provider blocks th=
+e images, <br> please enable them for a complete preview.
+</p> =20
+
+<div align=3D"center">
+<table align=3D"center" width=3D"100style=3D"text-align: center; width: 100<tr>
+<td>
+<table align=3D"center" width=3D"600" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"margin-left: auto; margin-right: auto">
+<tr>
+<td  align=3D"center" style=3D"font-family: Arial, sans-serif; font-weight:=
+ normal; font-style: normal; color: #555555; text-align: center; font-size:=
+ 10px; line-height: 13px; background-color: rgb(217, 218, 213);" width=3D"6=
+00" height=3D"19">
+Find affordable laser eye treatment clinics - <a href=3D"http://real-promot=
+ion.co.uk/?a=3D488&c=3D12512&s1=3D435052&s2=3DO000005152220_2025&s3=3D15012=
+21210&S4=3D219425" target=3D"_blank">Click Here</a></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"background-color: #C4C5C0;" wi=
+dth=3D"600" height=3D"469">
+<a href=3D"http://real-promotion.co.uk/?a=3D488&c=3D12512&s1=3D435052&s2=3D=
+O000005152220_2025&s3=3D1501221210&S4=3D219425" target=3D"_blank" title=3D"=
+Get rid of those horrible glasses - it's time for Laser Eye Surgery">
+<img style=3D"display: block;margin:0px; padding:0px;" alt=3D"Get rid of th=
+ose horrible glasses - it's time for Laser Eye Surgery" src=3D"http://real-=
+promotion.co.uk/z002259_096353_003" width=3D"600" height=3D"469" border=3D"=
+0" />
+</a></td>
+</tr>
+<tr>
+<td style=3D"background-color: #00A4B0; font-size: 1px; line-height: 1px;" =
+width=3D"600" height=3D"8">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Arial, sans-serif; font-weight: =
+bold; font-style: normal; font-size: 36px; line-height: 41px; color: rgb(25=
+5, 255, 255); text-align: center; background-color: #49A0CD;" width=3D"600"=
+ height=3D"73">
+FROM JUST <font style=3D"color:#d54e26;font-size: 50px; line-height: 50px;"=
+>&pound;18</font> PER MONTH</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"600" height=3D"243">
+<table align=3D"center" width=3D"600" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"background-color: #FFFFFF">
+<tr>
+<td align=3D"center" style=3D"background-color: #49A0CD; font-size: 1px; li=
+ne-height: 1px;" width=3D"13" height=3D"243">&nbsp;</td>
+<td align=3D"center" valign=3D"top" style=3D"background-color: #49A0CD;" wi=
+dth=3D"73" height=3D"243">
+<a href=3D"http://real-promotion.co.uk/?a=3D488&c=3D12512&s1=3D435052&s2=3D=
+O000005152220_2025&s3=3D1501221210&S4=3D219425" target=3D"_blank" title=3D"=
+|">
+<img style=3D"display: block;margin:0px; padding:0px;" alt=3D"|" src=3D"htt=
+p://real-promotion.co.uk/z002259_096353_002" width=3D"73" height=3D"243" bo=
+rder=3D"0" /></a></td>
+<td style=3D"background-color: #49A0CD; font-size: 1px; line-height: 1px;" =
+width=3D"8" height=3D"243">&nbsp;</td>
+<td align=3D"center" width=3D"173" height=3D"243">
+<table align=3D"center" width=3D"173" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"background-color: #FFFFFF">
+<tr>
+<td align=3D"left" style=3D"font-family: Arial, sans-serif; font-style: nor=
+mal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; =
+line-height: 21px; background-color: #49A0CD;" width=3D"173" height=3D"77">
+1. Complete our
+<br>
+&nbsp; &nbsp; short form </td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"font-family: Arial, sans-serif; font-style: nor=
+mal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; =
+line-height: 21px; background-color: #49A0CD;" width=3D"173" height=3D"82">
+2. We match you with
+<br>
+&nbsp; &nbsp; suitable clinics</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"font-family: Arial, sans-serif; font-style: nor=
+mal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; =
+line-height: 21px; background-color: #49A0CD;" width=3D"173" height=3D"84">
+3. They will get in
+<br>
+&nbsp; &nbsp; touch with you</td>
+</tr>
+</table></td>
+<td align=3D"center" style=3D"background-color: #49A0CD; font-size: 1px; li=
+ne-height: 1px;" width=3D"34" height=3D"243">&nbsp;</td>
+<td align=3D"center" width=3D"288" height=3D"243">
+<table align=3D"center" width=3D"288" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"background-color: #FFFFFF">
+<tr>
+<td align=3D"left" style=3D"font-weight: normal; font-style: normal; text-a=
+lign: left; color: rgb(220, 255, 255); font-family: Tahoma, Geneva, sans-se=
+rif; font-size: 14px; line-height: 17px; background-color: rgb(73, 160, 205=
+);" width=3D"288" height=3D"163">
+Clinic Compare has the UK's leading specialist laser eye clinics waiting to=
+ provide you with the most competitive quotes to transform your life.
+ Compare prices now in order to book a free consultation with an expert who=
+ can guide you through the best laser eye treatments. Give yourself the gif=
+t of sight this New Year 2015!</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"background-color: #49A0CD;" wi=
+dth=3D"288" height=3D"80">
+<a href=3D"http://real-promotion.co.uk/?a=3D488&c=3D12512&s1=3D435052&s2=3D=
+O000005152220_2025&s3=3D1501221210&S4=3D219425" target=3D"_blank" title=3D"=
+Find clinics in your area">
+<img style=3D"display: block;margin:0px; padding:0px;" alt=3D"Find clinics =
+in your area" src=3D"http://real-promotion.co.uk/z002259_096353_001" width=
+=3D"288" height=3D"80" border=3D"0" /></a></td>
+</tr>
+</table></td>
+<td align=3D"center" style=3D"background-color: #49A0CD; font-size: 1px; li=
+ne-height: 1px;" width=3D"11" height=3D"243">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"background-color: #00A4B0; font-size: 1px; li=
+ne-height: 1px;" width=3D"600" height=3D"8">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center"  style=3D"font-weight: normal; font-style: normal; col=
+or: rgb(83, 93, 95); text-align: center; font-size: 14px; line-height: 17px=
+; font-family: Tahoma, Geneva, sans-serif; background-color: rgb(225, 240, =
+245);" width=3D"600" height=3D"36">
+CLINIC COMPARE 2014 | ALL Rights Reserved </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<div style=3D"font-family: arial, 'trebuchet ms', Helvetica, sans-serif; fo=
+nt-size: 10px; color: #333333; text-align: center;">
+We hope you enjoyed receiving this email. Should you no longer wish to rece=
+ive emails from this company,=20
+<a href=3D"http://real-promotion.co.uk/unsub?s1=3D435052&newunsub=3D1" targ=
+et=3D"_blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size=3D"2" face=3D"Arial">
+The advertiser does not manage your subscription. If you prefer not to rece=
+ive further communication,<br>
+<a href=3D"http://real-promotion.co.uk/unsub?s1=3D435052&newunsub=3D1"  tar=
+get=3D"_blank">here is the way</a> to stop receiving emails. P.O. Box 13629=
+, 10310 Athens - Greece<br>
+</font>
+<img src=3D"http://real-promotion.co.uk/adv" border=3D"0" alt=3D"" style=3D=
+"max-width:100</center>
+
+<div style=3D"color:white; background-color:white; font-size:8px;">
+they were not both alike, and told him that the table was circular."Ah!" sa=
+id be, "that is just what the little one said! but I did notunderstand what=
+ circular meant; but now I see he is right." Thelittle fellow was so please=
+d, that he ran to his father directly withdelight. The other could not resi=
+st the parental impulse, but seizedthe boy and kissed him heartily.The idea=
+ of _size_ is necessary to a correct apprehension of objects.To talk of yar=
+ds, feet, or inches, to a child, unless they are shown,is just as intelligi=
+ble as miles, leagues, or degrees. Let there thenbe two five-feet rods, a b=
+lack foot and a white foot alternately, thebottom foot marked in inches, an=
+d let there be a horizontal piece toslide up and down to make various heigh=
+ts. Thus, when the height of alion, or elephant, &c. &c., is mentioned, it =
+may be shown by the rod;while the girth may be exhibited by a piece of _cor=
+d_, which shouldalways be ready. Long measure is taught as follows:  Take b=
+arley-corns of mod'rate length,    And three you'll find will make an inch;=
+  Twelve inches make a foot;--if strength    Permit; I'll leap it and not f=
+linch.  Three feet's a yard, as understood    By those possess'd with sense=
+ and soul;  Five feet and half will make a rood,    And also make a perch o=
+r pole.  Oh how pretty, wond'rously pretty,    Every rule    We learn at sc=
+hool  Is wondrously pretty.  Forty such poles a furlong make,    And eight =
+such furlongs make a mile,  O'er hedge, or ditch, or seas, or lake;    O'er=
+ railing, fence, or gate, or stile.  Three miles a league, by sea or land, =
+   And twenty leagues are one degree;  Just four times ninety degrees a ban=
+d    Will make to girt the earth and sea.  Oh how pretty, &c.
+</div>
+
+<img alt=3D"" src=3D"http://real-promotion.co.uk/record.php?s1=3D435052&s2=
+=3DO000005152220_2025&s3=3D1501221210&S4=3D219425" width=3D"1" height=3D"1"=
+ border=3D"0" />
+
+</body>
+</html>
+------=_Part_48529_1545984293.1421921406863--
+
+------=_Part_48528_1898034633.1421921406862--
+

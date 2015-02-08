@@ -1,0 +1,144 @@
+From @..  Tue Jan 20 04:42:23 2015
+Return-Path: <@..>
+X-Original-To: oq@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 149FBDE; Tue, 20 Jan 2015 04:42:23 +0000 (UTC)
+Received: from mail.hktechnology.com (123.242.230.45 [123.242.230.45])
+    by .. with SMTP id upfhfuqvekjv5zpcfs2gxmzeu2;
+    for oq@fs.net;
+    Tue, 20 Jan 2015 04:42:22 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=123.242.230.45; envelope-from=<>; helo=mail.hktechnology.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=123.242.230.45; client-port=47911;
+    syn-fingerprint=5840:51:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=14; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.168 64.57.20.132
+    198.32.176.72 202.147.50.185 61.14.158.46 61.14.157.83 61.8.40.150
+    123.242.225.2 123.242.230.45; network-path-time=1421728941
+Received: (qmail 4537 invoked for bounce); 20 Jan 2015 12:25:14 +0800
+Date: 20 Jan 2015 12:25:14 +0800
+From: @..
+To: @..
+Subject: failure notice
+Message-Id: <20150120044223.149FBDE@..>
+
+Hi. This is the qmail-send program at mail.hktechnology.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<info@yuet-kong.com>:
+user is over quota
+
+
+--- Below this line is a copy of the message.
+
+Return-Path: <oq@fs.net>
+Received: (qmail 4534 invoked by uid 89); 20 Jan 2015 12:25:14 +0800
+Received: from unknown (HELO fs.net) (183.95.66.98)
+  by 0HKTI-Mail with SMTP; 20 Jan 2015 12:25:14 +0800
+Received-SPF: none (0: domain at fs.net does not designate permitted sender hosts)
+Message-ID: <7A5B4C977DDBDE953B98E8F79334F1A5@fs.net>
+From: =?utf-8?B?5Yir6YaL?= <oq@fs.net>
+To: <info@yuet-kong.com>
+Subject: =?utf-8?B?6Im+576O6YWS5bqX?=
+Date: Tue, 21 Jul 2009 13:34:03 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ1MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFk+DQo8UD7noJTlj5HlpJrp
+obnnm67nrqHnkIY8QlI+5pe2wrfpl7TCt+WcsMK354K577yaMjAxNeW5tDHmnIgyNi0yN+aXpea3
+seWcs+OAgTHmnIgyOS0zMOaXpeS4iua1t+OAgTLmnIgyLTPml6XljJfkuqw8QlI+5Y+CwrfliqDC
+t+WvucK36LGh77yaIA0K5LyB5LiaQ0VPL+aAu+e7j+eQhuOAgeeglOWPkeaAu+e7j+eQhi/lia/m
+gLvjgIHlhazlj7jmgLvlt6Uv5oqA5pyv5oC755uR44CB56CU5Y+R6aG555uu57uP55CGL+S6p+WT
+gee7j+eQhuOAgVBNTzxCUj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgDQrvvIjpobnnm67nrqHnkIblip7lhazlrqTvvInm
+iJDlkZjjgIHnoJTlj5HpqqjlubLnrYnjgII8QlI+5a2mwrfkuaDCt+i0ucK355So77yaNDk4MOWF
+gy/kuKTlpKkgKuS5sOS4gOi1oOS4gCzljZXni6zkuIDkurrmlLbotLkzMjAw5YWD77yI5ZCr5Lik
+5aSp5Lit6aSQ44CB5oyH5a6a5pWZ5p2Q44CB6K+B5Lmm44CB6Iy254K577yJPC9QPg0KPFA+5oql
+IOWQjSDlkqgg6K+iIOeUtSDor53vvJrmt7Et5Zyz77yaMDc1NS02MTI4LTgwOTEmbmJzcDsg5YyX
+LeS6rO+8mjAxMC01MTY2LTE4NTEmbmJzcDsgDQrkuIot5rW377yaMDIxLTUxMDgtMjIwMiZuYnNw
+OyDmrrXlsI/lp5A8L1A+DQo8UD7or77Ct+eoi8K35pS2wrfojrfvvJo8QlI+MeOAgeS6huino+WN
+lemhueebrueuoeeQhuWSjOWkmumhueebrueuoeeQhueahOWFs+ezu+OAgeS4jeWQjOeCuTxCUj4y
+44CB5o6M5o+h5aSa6aG555uu6LWE5rqQ5YiG6YWN44CB6LWE5rqQ6K6h5YiS5Yi25a6a55qE5pa5
+5rOV5ZKM5q2l6aqkPEJSPjPjgIHmjozmj6Hot6jpobnnm67pl7TmioDmnK/jgIHlubPlj7DjgIHn
+n6Xor4bliIbkuqvnmoTmlrnms5XjgIHliLbluqbjgIHlt6Xlhbc8QlI+NOOAgeaOjOaPoeWkmumh
+ueebruS4muWKoeWGs+etluacuuWItu+8jOS7juiAjOermeWcqOWFrOWPuOeahOinkuW6puWGs+Wu
+mumhueebrueahOS8mOWFiOetiee6p++8jOS4uuS8mOengOmhueebruS/nempvuaKpOiIqjxCUj41
+44CB5o6M5o+h5pSv5pKR5aSa6aG555uu6L+Q5L2c55qE57uE57uH57uT5p6E77yaUEFD44CBUE1U
+44CBUE1P44CBUERU44CBTE1UPEJSPjbjgIHmuIXmmbDlpJrpobnnm67nrqHnkIbkuI7kuqflk4Hn
+rqHnkIbkuYvpl7TnmoTlhbPogZTlhbPns7s8QlI+N+OAgeaOjOaPoeWNleS4queglOWPkemhueeb
+rueahOWFs+mUrueuoeeQhuaWueazleWSjOW3peWFtzwvUD4NCjxQPuiusuW4iOS7i+e7jTrjgJBE
+b27jgJE8QlI+56CU5Y+R566h55CG5ZKo6K+i6LWE5rex6aG+6Zeu44CASU5DT1NF77yI5Zu96ZmF
+57O757uf5bel56iL5biI6IGU5ZCI5LyaPEEgDQpocmVmPSJodHRwOi8vd3d3LmluY29zZS5vcmci
+Pnd3dy5pbmNvc2Uub3JnPC9BPu+8ieS8muWRmDwvUD4NCjxQPuivvueoi+Wkp+e6su+8mjxCUj7k
+uIDjgIHmoYjkvovliIbmnpAmbmJzcDsgDQo8QlI+5LqM44CB56CU5Y+R5aSa6aG555uu566h55CG
+5qaC6L+wPEJSPjHjgIHpobnnm67nrqHnkIbnmoTljoblj7I8QlI+MuOAgeWNleeglOWPkemhueeb
+rueuoeeQhumdouS4tOeahOmXrumimOS4juaMkeaImDxCUj4z44CB5Zub5Liq5Z+65pys5qaC5b+1
+77yaPEJSPjHvvIlQcm9qZWN0PEJSPjLvvIlQcm9qZWN0IA0KUG9ydGZvbGlvPEJSPjPvvIlQcm9k
+dWN0PEJSPjTvvIlNdWx0aXBsZSBQcm9qZWN0PEJSPjTjgIHpq5jmlYjlpJrpobnnm67nrqHnkIbn
+moTlhavkuKrph43ngrk8QlI+Me+8ieWGs+etluacuuWItjwvUD4NCjxQPjxCUj7kuInjgIHnoJTl
+j5HlpJrpobnnm67nrqHnkIbkuYvvvJrlhrPnrZbmnLrliLYgKyDnu4Tnu4fmlK/mkpE8QlI+MeOA
+geWGs+etluS5i+S4reW/gzxCUj4x77yJ56CU5Y+R5oiY55Wl56Gu5a6aPEJSPu+BrCDnoJTlj5Hm
+iJjnlaXmoLjlv4M055uu55qEPEJSPu+BrCANCueglOWPkeaImOeVpeWumuS5ieeahOi0o+S7u+S4
+u+S9kzxCUj7vgawg5qC35L6L6K6y6Kej77ya5p+Q5YWs5Y+456CU5Y+R5oiY55Wl5a6a5LmJPEJS
+PjLvvInnoJTlj5HlubPlj7DmiJjnlaU8QlI+M++8ieS6p+WTgee6v+W8gOWPkeaImOeVpeWumuS5
+iTxCUj4mbmJzcDsmbmJzcDsgDQrmoYjkvovorrLop6PvvJrkuqflk4Hnur/miJjnlaXnmoQxM+S4
+quWFs+mUruWGheWuueiusuino++8iOWumuS9jeOAgeebruagh+OAgeaIkOi0peWboOe0oOOAgeeb
+ruagh+W4guWcuuKApu+8iTxCUj4y44CB5Yaz562W5LmL6LSj5Lu75Li75L2TPEJSPjEp5Lia55WM
+5pyA5L2z56CU5Y+R5Yaz562W5Zui6Zif77yaUEFD44CBSVJCPEJSPjIp5Yaz562W5Zui6Zif5oiQ
+5ZGY57uE5oiQPEJSPjMp5Yaz562W5Zui6Zif5oiQ5ZGY55qE6LSj5Lu75YiS5YiGPEJSPjPjgIHl
+hrPnrZbkuYvml7bmnLo8QlI+MSnorr7nva7kuJrliqHlhrPnrZbngrnnmoTlv4XopoHmgKfliIbm
+npA8QlI+MinmoYjkvovorrLop6PvvJrmn5BJVOWFrOWPuOS6p+WTgeeUn+WRveWRqOacn+WFs+mU
+ruS4muWKoeWGs+etlueCueiusuinozxCUj4044CB5Yaz562W5LmL5L6d5o2uPEJSPjEp5Li65LuA
+5LmI6ZyA6KaB44CK5Lia5Yqh6K6h5YiS5Lmm44CLPEJSPjIp5aaC5L2V5o+Q54K85ZKM5rGH5oC7
+44CK5Lia5Yqh6K6h5YiS5Lmm44CLPEJSPjMp5qGI5L6L6K6y6Kej77yaPC9QPg0KPFA+5Zub44CB
+56CU5Y+R5aSa6aG555uu566h55CG5LmL77ya6KeE5YiSICsgDQrlubPlj7A8QlI+MeOAgeWkmumh
+ueebrueuoeeQhuWFq+mHjeeCueS5i++8muaKgOacr+euoeeQhjxCUj4x77yJ6aKE56CU44CB5oqA
+5pyv5byA5Y+R44CB5Lqn5ZOB5byA5Y+R55qE5Yy65YiGPEJSPjLvvInmioDmnK/lvIDlj5Hpobnn
+m67lkozkuqflk4HlvIDlj5Hpobnnm67moLjlv4PkuI3lkIzngrnku4vnu408QlI+74GsIA0K6K6h
+5YiS566h55CG5pa55rOV5LiN5ZCM77yI5Yi25a6a5pe25py65LiN5ZCM44CB5pu05paw6aKR5bqm
+5LiN5ZCM44CB5YGP5beu5o6n5Yi25LiN5ZCM4oCm77yJPEJSPu+BrCDmtYvor4Tph43ngrnkuI3l
+kIw8QlI+74GsIA0K5Zui6Zif566h55CG5qih5byP5pyJ5Yy65YirPEJSPjPvvInmioDmnK/lvIDl
+j5HkuI7kuqflk4Hop4TliJLjgIHkuqflk4HlvIDlj5HnmoTlhbPns7s8QlI+MuOAgeWkmumhueeb
+rueuoeeQhuWFq+mHjeeCueS5i++8muW5s+WPsOeuoeeQhjxCUj4x77yJ5YWx5Lqr55qE5LiJ5Liq
+6Zi25q6177ya5qCH5YeG5YyW44CB6YOo5Lu25YyW44CB5bmz5Y+w5YyWPEJSPjLvvInlubPlj7Dl
+vIDlj5Hlm6LpmJ/nu4TmiJDjgIHogYzotKPlrprkuYk8QlI+M++8ieahiOS+i+iusuino++8muS4
+mueVjOafkElU5YWs5Y+45bmz5Y+w5byA5Y+R5rWB56iL5LuL57uNPC9QPg0KPFA+5LqU44CB56CU
+5Y+R5aSa6aG555uu566h55CG5LmL77ya6LWE5rqQICsg566h6YGTICsgDQrmiqXlkYo8QlI+MeOA
+geWkmumhueebrueuoeeQhuWFq+mHjeeCueS5i++8mui1hOa6kOiuoeWIkuOAgeeuoemBk+euoeeQ
+hjxCUj4x77yJ56CU5Y+R6LWE5rqQ566h55CG55qE5LiJ5bGC57qnPEJSPiZuYnNwO++BrOi1hOa6
+kOWOhuWPsuS9v+eUqOeKtuaAgeWxleeOsDxCUj4mbmJzcDvvgazotYTmupDnn63mnJ/otJ/ojbfn
+irbmgIHliIbmnpDvvIjmu6HotrPljZXpobnnm67nrqHnkIbpnIDmsYLvvIk8QlI+Jm5ic3A774Gs
+5Lit6ZW/5pyf6LWE5rqQ6KeE5YiS77yI5ruh6Laz5aSa6aG555uu6LWE5rqQ566h55CG6ZyA5rGC
+77yJPEJSPjLvvInnoJTlj5HotYTmupDnrqHnkIbnmoTph43ngrnvvIjkurrlkZjjgIHlhbPplK7o
+rr7lpIfvvIk8QlI+M++8iTLkuKrln7rnoYDlt6XkvZzvvJo8QlI+74GsIA0K5ZGY5bel5Lu76IGM
+6LWE5qC85L2T57O75p6E5bu6PEJSPu+BrCANCuWRmOW3peaKgOiDveaVsOaNruS/oeaBr+W6kzxC
+Uj4077yJ5Y2V6aG555uu5Lit6ZW/5pyf6LWE5rqQ6K6h5YiS5Yi25a6aPEJSPjXvvInnoJTlj5Hl
+kITkuKrogYzog73pg6jpl6jkuK3plb/mnJ/otYTmupDorqHliJLliLblrpo8QlI+Nu+8iei1hOa6
+kOeuoemBk+i9vemHj+WIhuaekOS4juiwg+aVtDwvUD4NCjxQPjxCUj7lha3jgIHnoJTlj5HlpJrp
+obnnm67nrqHnkIbkuYvvvJrlm5vlpKfln7rmnKzmlK/mkpE8QlI+MeOAgemhueebruiuoeWIkjxC
+Uj4x77yJV0JT44CBT0JTPEJSPjLvvInorqHliJLliIblsYI8QlI+74GsIOmHjOeoi+eikeiuoeWI
+kjxCUj7vgawgDQrpobnnm67miafooYzorqHliJI8QlI+74GsIA0K5Liq5Lq65Lu75YqhPEJSPjPv
+vInmg4Xmma/ljJbnn6Xor4bnrqHnkIblnKjnoJTlj5Hpobnnm67nrqHnkIbkuK3nmoTlupTnlKg8
+QlI+MuOAgeW6pumHj+WIhuaekDxCUj4x77yJ5bqm6YeP55qE5Z+65pys5qaC5b+177yI5a6a5LmJ
+44CB5L2c55So5ZKM55uu55qE44CB5bqm6YeP5LiO5rWL6YeP44CB6am+6am256qX44CB5bqm6YeP
+5qih5Z6L44CB4oCm4oCm77yJPEJSPjLvvInluLjop4HnmoTluqbph4/pobnvvIjov4fnqIvluqbp
+h4/jgIHkuqTku5jluqbph4/jgIHlm5vkuKrln7rmnKzluqbph4/pobnjgIHigKbigKbvvIk8QlI+
+M++8ieW6pumHj+euoeeQhui/h+eoiyZuYnNwOyANCjxCUj4077yJ5bqm6YeP5rWB56iL44CB5raJ
+5Y+K6KeS6Imy5LuL57uNPEJSPjXvvInov4fnqIvog73lipvln7rnur/vvIhQQ0LvvInvvIjlvIDl
+j5Hog73lipvjgIHmiJDnhp/luqbjgIHigKbigKYu77yJPEJSPjbvvInov4fnqIvotYTkuqflupPv
+vIhQQUzvvIk8QlI+N++8ieW6pumHj+WIhuaekOW3peWFtzwvUD48L0JPRFk+PC9IVE1MPg0K
+
+

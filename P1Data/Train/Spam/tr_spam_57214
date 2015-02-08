@@ -1,0 +1,680 @@
+From @..  Wed Jan 21 16:37:11 2015
+Return-Path: <@..>
+X-Original-To: bb@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9C80BDE; Wed, 21 Jan 2015 16:37:11 +0000 (UTC)
+Received: from mail15.mailersend.com (mail15.mailersend.com [31.193.199.202])
+    by .. with SMTP id ssphcmp6vqcem42t9733p35w92;
+    for bb@fs.net;
+    Wed, 21 Jan 2015 16:37:10 +0000 (UTC)
+    (envelope-from bounce-newsletter@emails.pokupon.ua)
+Received-SPF: Pass; receiver=..;
+    client-ip=31.193.199.202;
+    envelope-from=<bounce-newsletter@emails.pokupon.ua>;
+    helo=mail15.mailersend.com; mechanism=include:mailersend.com
+    (ip4:31.193.199.201/30 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=31.193.199.202; client-port=47489;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 63.146.27.198 80.91.252.217 213.155.131.244 80.91.250.24
+    213.248.85.90 82.135.186.3 31.193.199.202; network-path-time=1421858230
+Received: from mail15.mailersend.com (mail15.mailersend.com [31.193.199.202])
+	by mail15.mailersend.com (Postfix) with ESMTP id 1E524801EAE5
+	for <bb@fs.net>; Wed, 21 Jan 2015 18:35:22 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=emails.pokupon.ua;
+	s=ml; t=1421858122; bh=ptbf9iPBE249nf5+1cDlFxLyAgI=;
+	h=Date:To:From:Reply-To:Subject:List-Unsubscribe;
+	b=U3C3bsxEW5Jd01guBSnfJ0GYwEWSrukQT5kA1y/3Ir0vXjJLvUnu447m0nvNpCPLX
+	 9fMRWkkOagMXMtz1g4hdSuzB/5rfZV8T7NF8u83FoLpBveNkg0eVXWws+Hy3dU4VcU
+	 Xa8WXxX2mNtD+c1nnLraAgDNwPJYWRsqGI6kjuIA=
+Received: from emails.pokupon.ua (cron.mailer.lt [31.193.199.43])
+	by mail15.mailersend.com (Postfix) with ESMTP id 6A1D7801EAF1
+	for <bb@fs.net>; Wed, 21 Jan 2015 18:35:20 +0200 (EET)
+Date: Wed, 21 Jan 2015 18:35:22 +0200
+To: @..
+From: =?UTF-8?B?4piFINCf0L7QutGD0L/QvtC9IOKYhQ==?= <@..>
+Reply-To: =?UTF-8?B?4piFINCf0L7QutGD0L/QvtC9IOKYhQ==?= <@..>
+Subject: =?utf-8?B?0J/QvtC60YPQv9C+0L0g0LTQsNGA0LjRgiDQv9C+0LTQsNGA0LrQuCEg?=
+Message-ID: <4eb14473d51a9e7d9206d191c5c79a38@emails.pokupon.ua>
+X-Priority: 3
+X-Mailer-Code: n0c4f4t0v6c6u6o1
+X-Mailer-SubscriberID: 3191727355;s0z2
+X-Mailru-Msgtype: b5a2z5z1c3b5q4y6q4r6a0x9n9l8p1t7
+Sender: =?utf-8?Q? "=E2=98=85=20=D0=9F=D0=BE=D0=BA=D1=83=D0=BF=D0=BE=D0=BD=20=E2=98=85" ?= <@..>
+List-Unsubscribe: <mailto:unsubscribe-3191727355-s0z2-n0c4f4t0v6c6u6o1@emails.pokupon.ua?body=unsubscribe>, <http://emails.pokupon.ua/subscription/unsubscribe/3191727355/s0z2/y>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_4eb14473d51a9e7d9206d191c5c79a38"
+
+
+--b1_4eb14473d51a9e7d9206d191c5c79a38
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=D0=97=D0=B4=D1=80=D0=B0=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=B9=D1=82=D0=B5,
+
+=D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D0=BB=D0=B8 =D0=BF=D0=B8=
+=D1=81=D1=8C=D0=BC=D0=BE =D1=81 =D0=BD=D0=BE=D0=B2=D0=BE=D1=81=D1=82=D1=8F=
+=D0=BC=D0=B8 =D0=BE=D1=82 Pokupon.ua. =D0=9A =D1=81=D0=BE=D0=B6=D0=B0=D0=BB=
+=D0=B5=D0=BD=D0=B8=D1=8E, =D0=92=D0=B0=D1=88=D0=B0 =D1=8D=D0=BB=D0=B5=D0=BA=
+=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=B0=D1=8F =D0=BF=D0=BE=D1=87=D1=82=D0=B0=
+ =D0=BD=D0=B5 =D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D0=B2=D0=B0=
+=D0=B5=D1=82 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82 HTML.
+
+=D0=A1 =D0=BD=D0=B0=D1=88=D0=B8=D0=BC=D0=B8 =D0=BF=D1=80=D0=B5=D0=B4=D0=BB=
+=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F=D0=BC=D0=B8 =D0=92=D1=8B =D1=81=D0=BC=
+=D0=BE=D0=B6=D0=B5=D1=82=D0=B5 =D0=BE=D0=B7=D0=BD=D0=B0=D0=BA=D0=BE=D0=BC=
+=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=B7=D0=B4=D0=B5=D1=81=D1=8C:
+
+http://emails.pokupon.ua/links/view/20085235/74895689/2679831/d0m0n9f/s0z=
+2/3191727355/
+
+=D0=A1 =D1=83=D0=B2=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC,
+Pokupon.ua
+
+
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B =D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B5=
+ =D0=BD=D0=B5 =D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=
+=D1=87=D0=B0=D1=82=D1=8C =D1=80=D0=B0=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D1=83=
+, =D0=BE=D1=82=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C=D1=81=D1=8F =D0=BC=D0=BE=
+=D0=B6=D0=BD=D0=BE =D0=B7=D0=B4=D0=B5=D1=81=D1=8C:
+
+http://emails.pokupon.ua/links/view/20085235/74895689/2679851/n2g3g3j/s0z=
+2/3191727355/
+
+
+--b1_4eb14473d51a9e7d9206d191c5c79a38
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+
+</head>
+
+  <body style=3D"margin:0; padding:0;" bgcolor=3D"#488fc7" ><img style=3D=
+"display:block;"  src=3D"http://emails.pokupon.ua/links/open/20085235/748=
+95689/1b80f/s0z2/3191727355" width=3D"1" height=3D"1" alt=3D""/>
+<table width=3D"100color=3D"#283036">
+<tr><td height=3D"1" bgcolor=3D"#3e454a"></td></tr>
+  <tr>
+    <td><table width=3D"680" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center">
+  <tr>
+    <td width=3D"170" align=3D"left"><a style=3D"border:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679825/r0n4i0r/s0z2/=
+3191727355/"><img style=3D"display:block;"  src=3D"http://emails.pokupon.=
+ua/200078/mail_pokuponua_logo.png" width=3D"168" height=3D"68" border=3D"=
+0" //></a></td>
+    <td width=3D"2"><img style=3D"display:block;"  src=3D"http://emails.p=
+okupon.ua/200078/vline.gif" width=3D"2" height=3D"68" border=3D"0" //></t=
+d>
+    <td width=3D"10"></td>
+        <td width=3D"263" valign=3D"middle"><table width=3D"263" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"middle" align=3D"left" style=3D"font-family:'Trebuchet =
+MS', Arial, Helvetica, sans-serif; font-size:13px; color:#FFFFFF; line-he=
+ight:18px;">=D0=9F=D1=80=D0=B8=D0=B2=D0=B5=D1=82, <b style=3D"font-size:1=
+5px;"></b><br /><span class=3D"text1"></span><br /><span class=3D"city1">=
+</span></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"5" align=3D"left"><img style=3D"display:block;"  src=3D"=
+http://emails.pokupon.ua/200078/vline.gif" width=3D"2" height=3D"68" bord=
+er=3D"0" //></td>
+    <td align=3D"right"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+    <tr>
+    <td colspan=3D"3" height=3D"3"></td>
+  </tr>
+  <tr>
+    <td width=3D"110"><a style=3D"border:none;" href=3D"http://emails.pok=
+upon.ua/links/view/20085235/74895689/2679827/m0x7t2v/s0z2/3191727355/"><i=
+mg style=3D"display:block;"  src=3D"http://emails.pokupon.ua/200078/faceb=
+ook.gif" width=3D"110" height=3D"24" border=3D"0" //></a></td>
+    <td width=3D"10"></td>
+    <td width=3D"110" align=3D"left"><a style=3D"border:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679829/a9l1k8v/s0z2/=
+3191727355/"><img style=3D"display:block;"  src=3D"http://emails.pokupon.=
+ua/200078/vk.gif" width=3D"88" height=3D"21" border=3D"0" //></a></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3" height=3D"3"></td>
+  </tr>
+  <tr>
+    <td height=3D"24" colspan=3D"3" style=3D"font-family:'Trebuchet MS', =
+Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; line-height:=
+12px;">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE =D0=BE=
+=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BD=
+=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D0=BE =D0=BF=D0=B5=
+=D1=80=D0=B5=D0=B9=D0=B4=D0=B8=D1=82=D0=B5 =D0=BF=D0=BE <a style=3D"color=
+:#ffffff;" href=3D"http://emails.pokupon.ua/links/view/20085235/74895689/=
+2679831/d0m0n9f/s0z2/3191727355/">=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5</a=
+></td>
+    </tr>
+  <tr>
+    <td colspan=3D"3" height=3D"3"></td>
+  </tr>
+    </table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+    <tr><td height=3D"1" bgcolor=3D"#3e454a"></td></tr>
+  <tr><td height=3D"4" bgcolor=3D"#FFFFFF"></td></tr>
+</table>
+<table width=3D"100gcolor=3D"#488fc7">
+  <tr>
+    <td><table width=3D"642" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center">
+  <tr>
+    <td height=3D"7"></td>
+  </tr>
+</table>
+<table width=3D"642" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center">
+  <tr>
+    <td colspan=3D"3" height=3D"1" bgcolor=3D"#dddddd"></td>
+    </tr>
+  <tr>
+    <td width=3D"1" bgcolor=3D"#dddddd"></td>
+    <td width=3D"640" bgcolor=3D"#cfedfe">
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>
+<tr>
+    <td height=3D"10"></td>
+  </tr>
+</table>
+   =20
+<table width=3D"620" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0">
+  <tr>
+    <td bgcolor=3D"#FFFFFF" width=3D"620" align=3D"left" style=3D"font-fa=
+mily:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:13px; color:=
+#454E55; line-height:18px;">
+          <table style=3D"display: inline-table;" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"620"> <!-- fwtable fwsrc=3D"http://pok=
+upon.ua/uploaded/mail_pic/megogo/=D0=A0=E2=80=98=D0=A0=C2=B5=D0=A0=C2=B7=D0=
+=A1=E2=80=B9=D0=A0=D1=98=D0=A1=D0=8F=D0=A0=D0=85=D0=A0=D0=85=D0=A1=E2=80=B9=
+=D0=A0=E2=84=96" fwpage=3D"=D0=A0=D0=8E=D0=A1=E2=80=9A=D0=A1=D0=82=D0=A0=C2=
+=B0=D0=A0=D0=85=D0=A0=D1=91=D0=A1=E2=80=A0=D0=A0=C2=B0 1" fwbase=3D"mego.=
+html" fwstyle=3D"Dreamweaver" fwdocid =3D "1368947897" fwnested=3D"0" -->=
+ <tbody> <tr> <td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica,=
+ sans-serif; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; =
+padding: 0px;"> <img style=3D"display:block;"  src=3D"http://pokupon.ua/u=
+ploaded/mail_pic/megogo/spacer.gif" width=3D"68" height=3D"1" alt=3D""/> =
+</td> <td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-se=
+rif; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding:=
+ 0px;"> <img style=3D"display:block;"  src=3D"http://pokupon.ua/uploaded/=
+mail_pic/megogo/spacer.gif" width=3D"535" height=3D"1" alt=3D""/> </td> <=
+td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; fo=
+nt-size: 13px; color:
+rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <img style=3D"display=
+:block;"  src=3D"http://pokupon.ua/uploaded/mail_pic/megogo/spacer.gif" w=
+idth=3D"17" height=3D"1" alt=3D""/> </td> <td style=3D"font-family: 'Treb=
+uchet MS', Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(69, =
+78, 85); line-height: 18px; padding: 0px;"> <img style=3D"display:block;"=
+  src=3D"http://pokupon.ua/uploaded/mail_pic/megogo/spacer.gif" width=3D"=
+1" height=3D"1" alt=3D""/> </td> </tr> <tr> <td colspan=3D"3" style=3D"fo=
+nt-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px;=
+ color: rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <a href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679825/r0n4i0r/s0z2/=
+3191727355/"><img style=3D"display:block;"  name=3D"mego_r1_c1" src=3D"ht=
+tp://pokupon.ua/uploaded/mail_pic/megogo/mego_r1_c1.jpg" width=3D"620" he=
+ight=3D"192" id=3D"mego_r1_c1" alt=3D""/></a> </td> <td style=3D"font-fam=
+ily: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; color=
+: rgb(69, 78, 85);
+line-height: 18px; padding: 0px;"> <img style=3D"display:block;"  src=3D"=
+http://pokupon.ua/uploaded/mail_pic/megogo/spacer.gif" width=3D"1" height=
+=3D"192" alt=3D""/> </td> </tr> <tr> <td colspan=3D"3" align=3D"center" s=
+tyle=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-s=
+ize: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <p =
+align=3D"right" style=3D"  margin-top: 0px;  margin-bottom: 10px;"align=3D=
+"center" style=3D";"> <span style=3D"font-size: 24px;"><strong>=D0=9F=D0=BE=
+=D0=BA=D1=83=D0=BF=D0=B0=D1=82=D1=8C =D0=BD=D0=B0 Pokupon.ua =D1=81=D1=82=
+=D0=B0=D0=BB=D0=BE =D0=B5=D1=89=D0=B5 =D0=B2=D1=8B=D0=B3=D0=BE=D0=B4=D0=BD=
+=D0=B5=D0=B5!</strong></span> </p> </td> <td style=3D"font-family: 'Trebu=
+chet MS', Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(69, 7=
+8, 85); line-height: 18px; padding: 0px;"> <img style=3D"display:block;" =
+ src=3D"http://pokupon.ua/uploaded/mail_pic/megogo/spacer.gif" width=3D"1=
+" height=3D"56" alt=3D""/> </td> </tr> <tr> <td colspan=3D"2" bgcolor=3D"=
+#CF6C1A" style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-ser=
+if; font-size: 13px; color: rgb(69, 78, 85);
+line-height: 18px; padding: 0px;"> <p style=3D"  margin-top: 0px;  margin=
+-bottom: 10px;"align=3D"center" style=3D";"> <span style=3D"color: rgb(24=
+7, 150, 70);"><span style=3D"color: rgb(255, 255, 255);"><span style=3D"f=
+ont-size: 20px;"><strong>=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B9=D1=82=
+=D0=B5 =D0=B2=D0=BE=D0=B7=D0=BD=D0=B0=D0=B3=D1=80=D0=B0=D0=B6=D0=B4=D0=B5=
+=D0=BD=D0=B8=D1=8F =D0=B7=D0=B0 =D1=88=D0=BE=D0=BF=D0=BF=D0=B8=D0=BD=D0=B3=
+ =D0=BD=D0=B0 Pokupon.ua! =D0=A1=D0=BC=D0=BE=D1=82=D1=80=D0=B8=D1=82=D0=B5=
+&nbsp;125 &nbsp;=D0=BA=D0=B0=D0=BD=D0=B0=D0=BB=D0=BE=D0=B2 =D1=81 =D0=BF=D0=
+=BE=D0=BF=D1=83=D0=BB=D1=8F=D1=80=D0=BD=D1=8B=D0=BC=D0=B8&nbsp;=D1=82=D0=B5=
+=D0=BB=D0=B5=D1=88=D0=BE=D1=83, =D1=81=D0=B5=D1=80=D0=B8=D0=B0=D0=BB=D0=B0=
+=D0=BC=D0=B8 =D0=B8 =D1=84=D0=B8=D0=BB=D1=8C=D0=BC=D0=B0=D0=BC=D0=B8 =D0=BD=
+=D0=B0 DIVAN TV.</strong></span></span></span> </p> <p style=3D"  margin-=
+top: 0px;  margin-bottom: 10px;"> <span style=3D"color: rgb(247, 150, 70)=
+;"><span style=3D"color: rgb(255, 255, 255);"><span style=3D"font-size: 2=
+0px;"><strong>&nbsp; &nbsp; &nbsp; &nbsp;=D0=A7=D1=82=D0=BE=D0=B1=D1=8B =D0=
+=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BF=D1=80=D0=BE=D0=BC=D0=
+=BE=D0=BA=D0=BE=D0=B4, =D0=92=D0=B0=D0=BC =D0=BD=D1=83=D0=B6=D0=BD=D0=BE:=
+</strong></span></span></span> </p> </td> <td rowspan=3D"4" bgcolor=3D"#C=
+F6C1A" style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0p=
+x;"> &nbsp; </td>
+<td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; f=
+ont-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0px;"=
+> <img style=3D"display:block;"  src=3D"http://pokupon.ua/uploaded/mail_p=
+ic/megogo/spacer.gif" width=3D"1" height=3D"38" alt=3D""/> </td> </tr> <t=
+r> <td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0p=
+x;"> <img style=3D"display:block;"  name=3D"mego_r4_c1" src=3D"http://pok=
+upon.ua/uploaded/mail_pic/megogo/mego_r4_c1.png" width=3D"68" height=3D"6=
+3" id=3D"mego_r4_c1" alt=3D""/> </td> <td bgcolor=3D"#CF6C1A" style=3D"fo=
+nt-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; color: rgb(69, 7=
+8, 85); line-height: 18px; padding: 0px;"> <span><span style=3D"color: rg=
+b(255, 255, 255);"><strong><span style=3D"font-size: 14px;">=D0=A1=D0=BE=D0=
+=B2=D0=B5=D1=80=D1=88=D0=B8=D1=82=D1=8C &nbsp;=D0=BB=D1=8E=D0=B1=D1=83=D1=
+=8E &nbsp;&nbsp;=D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=BA=D1=83 &nbsp;=D0=BD=D0=
+=B0 &nbsp;&nbsp;Pokupon.ua &nbsp;=D0=B2 &nbsp;=D0=BF=D0=B5=D1=80=D0=B8=D0=
+=BE=D0=B4 &nbsp;=D1=81 &nbsp;21.01.2015 &nbsp;&nbsp;=D0=BF=D0=BE
+01.02.2015</span></strong></span></span> </td> <td style=3D"font-family: =
+'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; color: rgb=
+(69, 78, 85); line-height: 18px; padding: 0px;"> <img style=3D"display:bl=
+ock;"  src=3D"http://pokupon.ua/uploaded/mail_pic/megogo/spacer.gif" widt=
+h=3D"1" height=3D"63" alt=3D""/> </td> </tr> <tr> <td style=3D"font-famil=
+y: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; color: =
+rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <img style=3D"display=
+:block;"  name=3D"mego_r5_c1" src=3D"http://pokupon.ua/uploaded/mail_pic/=
+megogo/mego_r5_c1.png" width=3D"68" height=3D"63" id=3D"mego_r5_c1" alt=3D=
+""/> </td> <td bgcolor=3D"#CF6C1A" style=3D"font-family: 'Trebuchet MS', =
+Arial, Helvetica, sans-serif; color: rgb(69, 78, 85); line-height: 18px; =
+padding: 0px;"> <span><span style=3D"color: rgb(255, 255, 255);"><strong>=
+&nbsp;</strong><strong><span style=3D"font-size: 14px;">=D0=92 =D0=BC=D0=B5=
+=D0=BD=D1=8E =D1=81=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=B0 Divan.TV =D0=B0=D0=
+=BA=D1=82=D0=B8=D0=B2=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BF=D1=
+=80=D0=BE=D0=BC=D0=BE=D0=BA=D0=BE=D0=B4, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=
+=8B=D0=B9 =D0=92=D1=8B
+=D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0 =D0=B2=D0=B0=
+=D1=88 e-mail =D0=B2 =D0=BF=D0=BE=D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=B8=D0=BA, 02.02.2015=D0=B3.</span></strong><br> </span></span> </td> =
+<td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; f=
+ont-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0px;"=
+> <img style=3D"display:block;"  src=3D"http://pokupon.ua/uploaded/mail_p=
+ic/megogo/spacer.gif" width=3D"1" height=3D"63" alt=3D""/> </td> </tr> <t=
+r> <td colspan=3D"2" bgcolor=3D"#CF6C1A" align=3D"right" style=3D"font-fa=
+mily: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; colo=
+r: rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <span style=3D"col=
+or: rgb(255, 255, 255);font-size: 12px;;">=D0=94=D0=B5=D1=82=D0=B0=D0=BB=D0=
+=B8 =D0=B0=D0=BA=D1=86=D0=B8=D0=B8 =D0=BD=D0=B0 <a href=3D"http://emails.=
+pokupon.ua/links/view/20085235/74895689/2679833/y6a0u6p/s0z2/3191727355/"=
+>www.pokupon.ua/ru/pg/na-divane.tv</a></span> </td> <td style=3D"font-fam=
+ily: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; color=
+: rgb(69, 78, 85); line-height: 18px; padding: 0px;"> <img
+style=3D"display:block;"  src=3D"http://pokupon.ua/uploaded/mail_pic/mego=
+go/spacer.gif" width=3D"1" height=3D"28" alt=3D""/> </td> </tr> <tr> <td =
+colspan=3D"3" style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, san=
+s-serif; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padd=
+ing: 0px;"> <a href=3D"http://emails.pokupon.ua/links/view/20085235/74895=
+689/2679825/r0n4i0r/s0z2/3191727355/"><img style=3D"display:block;"  name=
+=3D"mego_r7_c1" src=3D"http://pokupon.ua/uploaded/mail_pic/megogo/mego_r7=
+_c1.png" width=3D"620" height=3D"57" id=3D"mego_r7_c1" alt=3D""/></a> </t=
+d> <td style=3D"font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: rgb(69, 78, 85); line-height: 18px; padding: 0p=
+x;"> <img style=3D"display:block;"  src=3D"http://pokupon.ua/uploaded/mai=
+l_pic/megogo/spacer.gif" width=3D"1" height=3D"57" alt=3D""/> </td> </tr>=
+ <tr> <td colspan=3D"3" style=3D"font-family: 'Trebuchet MS', Arial, Helv=
+etica, sans-serif; font-size: 13px; color: rgb(69, 78, 85); line-height: =
+18px; padding: 0px;">
+<p style=3D"  margin-top: 0px;  margin-bottom: 10px;"align=3D"center" sty=
+le=3D";"> <span style=3D"color: rgb(247, 150, 70);"><span style=3D"color:=
+ rgb(227, 108, 9);"><span style=3D"font-size: 28px;"><strong>=D0=9E=D1=81=
+=D1=82=D0=B0=D0=BB=D0=B8=D1=81=D1=8C =D0=B2=D0=BE=D0=BF=D1=80=D0=BE=D1=81=
+=D1=8B? <a href=3D"mailto:activegifts@pokupon.ua">=D0=9D=D0=B0=D0=BF=D0=B8=
+=D1=88=D0=B8=D1=82=D0=B5 =D0=BD=D0=B0=D0=BC!</a></strong></span></span></=
+span> </p> </td> <td style=3D"font-family: 'Trebuchet MS', Arial, Helveti=
+ca, sans-serif; font-size: 13px; color: rgb(69, 78, 85); line-height: 18p=
+x; padding: 0px;"> <img style=3D"display:block;"  src=3D"http://pokupon.u=
+a/uploaded/mail_pic/megogo/spacer.gif" width=3D"1" height=3D"46" alt=3D""=
+/> </td> </tr> </tbody> </table></td>
+  </tr>
+</table>
+
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgc=
+olor=3D"#d7d9e2">
+  <tr>
+    <td width=3D"10" height=3D"48">
+</td>
+    <td width=3D"620"><table border=3D"0" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0">
+  <tr>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679835/g6b8j3l/s0z2/=
+3191727355/">=D0=92=D1=81=D0=B5 =D0=B0=D0=BA=D1=86=D0=B8=D0=B8</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679837/o6z9r0z/s0z2/=
+3191727355/">=D0=9A=D1=80=D0=B0=D1=81=D0=BE=D1=82=D0=B0</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679839/f6k7o4n/s0z2/=
+3191727355/">=D0=97=D0=B4=D0=BE=D1=80=D0=BE=D0=B2=D1=8C=D0=B5</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679841/g4s2f9o/s0z2/=
+3191727355/">=D0=A0=D0=B0=D0=B7=D0=B2=D0=BB=D0=B5=D1=87=D0=B5=D0=BD=D0=B8=
+=D1=8F</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679843/k8o6d3p/s0z2/=
+3191727355/">=D0=A2=D1=83=D1=80=D0=B8=D0=B7=D0=BC</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679845/x6x8a1v/s0z2/=
+3191727355/">=D0=A2=D0=BE=D0=B2=D0=B0=D1=80=D1=8B</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679847/x3r7w3w/s0z2/=
+3191727355/">=D0=91=D0=B5=D1=81=D0=BF=D0=BB=D0=B0=D1=82=D0=BD=D1=8B=D0=B5=
+ =D0=BA=D1=83=D0=BF=D0=BE=D0=BD=D1=8B</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+    <td width=3D"5"></td>
+    <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menul.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+    <td height=3D"1" bgcolor=3D"#f3f5fa"></td>
+    <td rowspan=3D"5"><img style=3D"display:block;"  src=3D"http://emails=
+.pokupon.ua/200078/menur.png" width=3D"9" height=3D"29" border=3D"0" //><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" height=3D"24" bgcolor=3D"#eceef6" style=3D"font=
+-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#5a656d;"><a style=3D"color:#5a656d; text-decoration:none;" href=3D"ht=
+tp://emails.pokupon.ua/links/view/20085235/74895689/2679849/r6q9b2k/s0z2/=
+3191727355/">=D0=95=D0=B4=D0=B0</a></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#f3f5fa" height=3D"1"></td>
+    </tr>
+  <tr>
+    <td height=3D"2" bgcolor=3D"#bec0c9"></td>
+    </tr>
+  <tr>
+    <td bgcolor=3D"#808289" height=3D"1"></td>
+    </tr>
+</table></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"10"></td>
+  </tr>
+</table>
+
+
+</td>
+    <td width=3D"1" bgcolor=3D"#dddddd"></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3" height=3D"1" bgcolor=3D"#dddddd"></td>
+    </tr>
+</table>
+<table width=3D"642" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center">
+  <tr>
+    <td height=3D"7"></td>
+  </tr>
+</table>
+<table width=3D"100color=3D"#283036" background=3D"http://pokupon.mailersoft.com/datatmp/tem=
+plates/200078/footer-bg.png">
+  <tr>
+    <td><table width=3D"642" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center">
+  <tr>
+    <td height=3D"130" align=3D"left" valign=3D"middle" style=3D"font-fam=
+ily:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:13px; color:#=
+FFFFFF; line-height:14px;">=D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=
+=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=BE, =
+=D0=BF=D0=BE=D1=82=D0=BE=D0=BC=D1=83 =D1=87=D1=82=D0=BE =D0=BF=D0=BE=D0=B4=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D1=8B =D0=BD=D0=B0 =D1=80=D0=B0=D1=81=D1=81=
+=D1=8B=D0=BB=D0=BA=D1=83 =D0=BD=D0=B0 =D1=81=D0=B0=D0=B9=D1=82=D0=B5 <a s=
+tyle=3D"color:#FFFFFF;" href=3D"http://emails.pokupon.ua/links/view/20085=
+235/74895689/2679825/r0n4i0r/s0z2/3191727355/">pokupon.ua</a> =D0=95=D1=81=
+=D0=BB=D0=B8 =D0=B2=D1=8B =D0=BD=D0=B5 =D1=85=D0=BE=D1=82=D0=B8=D1=82=D0=B5=
+ =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D1=8C =D0=BF=D0=BE=D1=87=D1=82=
+=D1=83 <a style=3D"color:#FFFFFF; text-decoration:none;" href=3D"http://e=
+mails.pokupon.ua/links/view/20085235/74895689/2679825/r0n4i0r/s0z2/319172=
+7355/">=D0=9F=D0=BE=D0=BA=D1=83=D0=BF=D0=BE=D0=BD=D0=B0</a> - =D0=BE=D1=82=
+=D0=BF=D0=B8=D1=88=D0=B8=D1=82=D0=B5=D1=81=D1=8C =D0=BE=D1=82 =D0=BD=D0=B5=
+=D0=B5 =D0=B2 =D1=81=D0=B2=D0=BE=D0=B5=D0=BC =D0=BF=D1=80=D0=BE=D1=84=D0=B8=
+=D0=BB=D0=B5 =D0=B8=D0=BB=D0=B8 <a style=3D"color:#FFFFFF;" href=3D"http:=
+//emails.pokupon.ua/links/view/20085235/74895689/2679851/n2g3g3j/s0z2/319=
+1727355/">=D0=B7=D0=B4=D0=B5=D1=81=D1=8C</a>. =D0=9D=D0=B5=D0=BA=D0=BE=D1=
+=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D0=BE =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B6=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=B8=D1=81=D1=8C=D0=BC=D0=
+=BE? <a style=3D"color:#FFFFFF;"
+href=3D"http://emails.pokupon.ua/links/view/20085235/74895689/2679831/d0m=
+0n9f/s0z2/3191727355/">=D0=9E=D0=BD=D0=BB=D0=B0=D0=B9=D0=BD-=D0=B2=D0=B5=D1=
+=80=D1=81=D0=B8=D1=8F</a> =D0=94=D0=B0=D0=BD=D0=BD=D0=BE=D0=B5 =D0=BF=D0=B8=
+=D1=81=D1=8C=D0=BC=D0=BE =D0=BF=D1=80=D0=B5=D0=B4=D0=BD=D0=B0=D0=B7=D0=BD=
+=D0=B0=D1=87=D0=B5=D0=BD=D0=BD=D0=BE =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE=
+ =D0=92=D0=B0=D0=BC =D0=B8 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82=
+ =D0=92=D0=B0=D1=88=D0=B8 =D0=BF=D0=B5=D1=80=D1=81=D0=BE=D0=BD=D0=B0=D0=BB=
+=D1=8C=D0=BD=D1=8B=D0=B5 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5,=D0=BF=D0=B5=
+=D1=80=D0=B5=D1=81=D1=8B=D0=BB=D0=B0=D1=8F =D0=B5=D0=B3=D0=BE =D1=82=D1=80=
+=D0=B5=D1=82=D0=B8=D0=BC =D0=BB=D0=B8=D1=86=D0=B0=D0=BC =D0=B2=D1=8B =D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=BE=D1=81=D1=82=D1=8C=D1=8E =D0=B1=D0=B5=D1=80=D0=B5=
+=D1=82=D0=B5 =D0=BD=D0=B0 =D1=81=D0=B5=D0=B1=D1=8F =D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D0=B7=
+=D0=B0 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D1=81=D1=82=D0=B2=D0=B8=D1=8F=
+.</td>
+    </tr>
+</table>
+</td>
+  </tr>
+</table>
+<table width=3D"100color=3D"#272727" background=3D"http://pokupon.mailersoft.com/datatmp/tem=
+plates/200078/footer-sub-bg.png">
+  <tr>
+    <td height=3D"53"><table width=3D"642" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" align=3D"center">
+  <tr>
+    <td height=3D"53" align=3D"center" valign=3D"middle" style=3D"font-fa=
+mily:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:13px; color:=
+#FFFFFF; line-height:14px;">=C2=A9 2010 - 2014 <a style=3D"color:#FFFFFF;=
+ text-decoration:none;" href=3D"http://emails.pokupon.ua/links/view/20085=
+235/74895689/2679825/r0n4i0r/s0z2/3191727355/">=D0=9F=D0=BE=D0=BA=D1=83=D0=
+=BF=D0=BE=D0=BD</a></td>
+    </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+--b1_4eb14473d51a9e7d9206d191c5c79a38--
+
+

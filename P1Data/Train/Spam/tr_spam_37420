@@ -1,0 +1,785 @@
+From @..  Fri Jan 23 08:50:46 2015
+Return-Path: <@..>
+X-Original-To: andrewsaunders@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C2931DE; Fri, 23 Jan 2015 08:50:46 +0000 (UTC)
+Received: from strongmail.immediate.co.uk (strongmail.immediate.co.uk [80.169.150.100])
+    by .. with SMTP id 2emqu7qvrps82v2n6ca2v8m3d6;
+    for andrewsaunders@fs.net;
+    Fri, 23 Jan 2015 08:50:46 +0000 (UTC)
+    (envelope-from bounce@bounces.magicalia.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=80.169.150.100; envelope-from=<bounce@bounces.magicalia.com>;
+    helo=strongmail.immediate.co.uk; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=80.169.150.100; client-port=48133;
+    syn-fingerprint=5840:51:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    colon-space; network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.8.190 62.157.250.1 217.239.38.241 80.150.169.222
+    0.0.0.0 213.86.97.102 80.169.150.100; network-path-time=1422003045
+Received: from MAG-STRONGMAIL ([172.31.4.1])
+	by strongmail.immediate.co.uk (StrongMail Enterprise 5.1.0(5.1.0-56557)); Fri, 23 Jan 2015 08:50:38 +0000
+X-VirtualServer: Default, strongmail.immediate.co.uk, 172.31.4.1
+X-VirtualServerGroup: Default
+X-MailingID: 1278620536::36512::116251::36512::171656::4538
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: andrewsaunders@fs.net
+X-SMFBL: YW5kcmV3c2F1bmRlcnNAZnMubmV0
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=sm;
+ d=madeformums.com;
+ q=dns;
+ b=Y1PF7ZdTMfDHLZabZ21dRk/XHM5SRfXSEbk3FXsoLXMIL5tSjiFT8uy7fFVAMfkAFcmLRnurU7gSYPlpIB562/TQd5teIqbjcq8+cNyabmWiO9NoRxIyrlS/MRlyJA/E6nql1MzIl7sVMvcUYAPCqZzX9vETUYh7vJFmiIJjfiI=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=madeformums.com;
+	s=sm; i=@madeformums.com; h=Content-Transfer-Encoding:
+	Content-Disposition:Content-Type:Reply-To:MIME-Version:
+	Message-ID:Subject:Date:To:From; bh=QQk63nkWOhwZwkgT49AiJb7IilE=;
+	b=grQsOxNyCR0zZeq1b/91/iahucEewS7Mc4B2ljOrjjp1uU+QXChXH4sBQYBzod
+	5cATgqRW0kJGffdXNDJGRTI5mZfDILH2sgSMG9ruDUYGPm7AlOpmHrFcYjogOhY6
+	AFpj3r0dd4uBHTZTnuQrcoFhe/2p+SjlnYPKmrx4xq2eI=
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Content-Type: text/html;
+	charset="UTF-8"
+Reply-To: @..
+MIME-Version: 1.0
+Message-ID: <1278620536.4538@madeformums.com>
+Subject: Keeping bones healthy during the winter
+Date: Fri, 23 Jan 2015 08:50:29 +0000
+To: @..
+From: "MadeForMums Promotions" <@..>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Vitamin D Mission</title>
+    <style>
+      body {
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color:#fbf6f0;
+      }
+      .header
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_08012015.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 600px;
+        height: 312px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header2
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_2_08012015.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 600px;
+        height: 87px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header3
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/title_desktop_12012014_new.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 396px;
+        height: 80px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header4
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_4_12012015.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 504px;
+        height: 72px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header5
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_3_12012015.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 600px;
+        height: 115px;
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+      }
+      .header6
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_4_12012014.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 600px;
+        height: 220px;
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+      }
+      .header7
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_5_08012015.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 600px;
+        height: 35px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .footer
+      {
+        background-image: url(http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png);
+        background-repeat: no-repeat;
+        background-color: #fbf6f0 !important;
+        width: 580px;
+        height: 158px;
+        left: 0px !important;
+        padding: 0px !important;
+      }
+      img {
+        display:block;
+      }
+      table[class=table]
+      {
+        background-color: #fbf6f0 !important;
+      }
+      @media only screen and (max-device-width: 480px)
+      {
+        table[class=outertable] { width:310px !important; overflow:hidden; padding-left: -10px; background-color: #fbf6f0 !important;}
+      table[class=outertable-top] { width:310px !important; overflow:hidden; padding-left: -10px; background-color: #fbf6f0 !important;}
+      table[class=outertable-nav] { width:310px !important; overflow:hidden; padding-left: -10px; background-color: #fbf6f0 !important;}
+      table[class=footertable] { width:100      table[class=footertableinner] { width:310px !important; padding:5px; }
+      table[class=hide] { display: none !important; height: 0px !important;}
+      td[class=hide] { display: none !important; }
+      table[class=table]{ width: 310px !important; }
+      table[class=stories]{ width: 310px !important; }
+      table[class=spacer]{ width: 310px !important; padding-top:190px;}
+      td[class=cell] { width: 310px !important; }
+      td[class=text] { width: 310px !important; padding-left: 10px; padding-right: 10px;}
+      img[class=divider] { height: 10px !important; }
+      img[class=divider] { height: 20px !important; }
+      td[class=article-text] { width:310px;}
+      td[class=left] { width:280px; position:absolute !important; padding-top: -40px; margin-left: 5px;}
+      td[class=right] { width:280px; padding-top: 1145px; }
+      td[class=right2] { width:280px; padding-top: 241px;}
+      td[class=body-text] { padding-top:196px; width:310px;}
+      p[class=call-to-action] { padding-top:10px !important;}
+      td[class=socialmedia-text] { width:310px; position:absolute;}
+      td[class=socialmedia-icon] { width:38px; padding-top:30px;padding-bottom:5px; position:relative;}
+      td[class=socialmedia-gap] { width:7px;}
+      table[class=mobile-top] { background-image:url(http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_3_Email_12062014_mobile.jpg) !important; width:350px !important; height: 60px !important; padding-left: 25px; padding-top: 5px; background-repeat: no-repeat;}
+      table[class=mobile-middle] { background-image:url(http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_1_Email_1_10062014_Mobile.jpg) !important; width:350px !important; height: 47px !important; padding-left: 25px; padding-top: 5px; background-repeat: no-repeat;}
+      img {
+        display:block;
+      }
+      img[class=header] { width:310px !important; height: 104px !important; padding-left: 0px;}
+      img[class=mpu] { width:290px !important; height: 348px !important; margin-left: 0px;}
+      img[class=profile] { margin-left: -5px;}
+      img[class=profile3] { width:290px !important; height: 392px !important; margin-top: 0px}
+      img[class=profile2] { width:290px !important; height: 395px !important; margin-left: 0px;}
+      img[class=ad] { width:290px !important; height: 241px !important; margin-left: 0px;}
+      img[class=ad2] { width:290px !important; height: 241px !important; margin-left: -10px;}
+      img[class=ad] { width:290px !important; height: 213px !important; padding-left: 0px;}
+      img[class=button] { width:290px !important; height: 28px !important; padding-left: 0px;}
+      img[class=top] { width:300px !important; height: 30px !important; padding-left: 0px;}
+      img[class=middle] { width:350px !important; height: 47px !important; padding-left: 0px; }
+      img[class=line] { width:310px !important; height: 1px !important; padding-left: 0px;}
+      img[class=button] { width:290px !important; height: 28px !important; padding-left: 0px;}
+      img[class=dots] { width:280px !important; height: 1px !important; padding-left: 0px;}
+      img[class=article-image] { position:absolute; width:310px !important; height: 186px !important; padding-left: 0px;}
+      img[class=article-image-2] { position:absolute; width:310px !important; height: 186px !important; margin-left: -71px;}
+      img[class=win] { width:310px !important; height: 43px !important; padding-left: 0px;}
+      img[class=random] { width:280px !important; height: 168px !important; padding-left: 0px;}
+      img[class=dividernew] { width:280px !important; height: 5px !important; padding-left: 0px;}
+      img[class=hide] { display: none !important; }
+      img[class=mpu] { width:310px !important; height: 259px !important; padding-left: 0px;}
+      td[class=imlogo] {position:absolute; padding-top:10px;}
+      td[class=imblurb] {padding-top:60px;}
+      .header
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_06012015_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 310px;
+        height: 237px;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+        position: relative;
+      }
+      .header a
+      {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 310px;
+        height: 237px;
+      }
+      .header2
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_2_06012015_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 310px;
+        height: 105px;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+        position: relative;
+      }
+      .header2 a
+      {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 310px;
+        height: 105px;
+      }
+      .header3
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/title_mobile_12012014_new.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 260px;
+        height: 53px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header4
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_2_12012015_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #fbf6f0 !important;
+        width: 280px;
+        height: 71px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .header5
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_3_12012015_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #fbf6f0 !important;
+        width: 310px;
+        height: 60px;
+        margin: 0px !important;
+        padding: 0px !important;
+        position: relative;
+      }
+      .header5 a
+      {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 310px;
+        height: 100px;
+      }
+      .header6
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_4_12012014_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 310px;
+        height: 120px;
+        margin: 0px !important;
+        padding: 0px !important;
+        position: relative;
+      }
+      .header6 a
+      {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 310px;
+        height: 140px;
+      }
+      .header7
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_5_06012014_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #ffffff !important;
+        width: 310px;
+        height: 40px;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      .footer
+      {
+        background-image: url(http://www.madeformums.com/news/images/Solus/bepanthen/bepanthen_solus_image_7_17122014_mob.jpg);
+        background-repeat: no-repeat;
+        background-color: #fbf6f0 !important;
+        width: 290px;
+        height: 254px;
+        margin-left: 15px !important;
+        padding: 0px !important;
+      }
+      }
+      a:link {
+        text-decoration: none;
+        color: #e82260;
+      }
+      a:visited {
+        text-decoration: none;
+        color: #e82260;
+      }
+      a:active {
+        text-decoration: none;
+        color: #e82260;
+      }
+      a:hover {
+        text-decoration: none;
+        color: #e82260;
+      }
+    </style>
+  </head>
+  <body bgcolor="#fbf6f0" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; -webkit-font-smoothing: antialiased;width:100    
+    <table width="100      <tr>
+        <td bgcolor="#fbf6f0" valign="top">
+          
+          <table cellpadding="0" cellspacing="0" border="0" width="800" align="center" bgcolor="#fbf6f0" class="outertable-top">
+            <tr>
+              <td width="100                <span style="color:#666666 !important;font-size:10px;line-height:16px;font-family:Arial, Helvetica, sans-serif;font-weight:normal;">Having trouble viewing this email? Try <strong><a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546442&&&http://www.madeformums.com/newsletters/View.aspx?MailingNewsletterId=116251&EmailAddress=andrewsaunders@fs.net&Name=samantha" style="color:#e82260;text-decoration:none;font-size:11px;line-height:17px;"><font color="#e82260" style="color:#e82260;text-decoration:none;font-size:11px;line-height:17px;"><i>reading it online</i></font></a></strong></span>
+                </center>
+              </td>
+            </tr>
+          </table>
+          
+        </td>
+      </tr>
+      
+      <tr>
+        <td bgcolor="#fbf6f0" width="100          
+          <!-- Content -->
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td style="width: 100                
+                <div class="header" style="display: block;" onclick="location.href=&#39;http://www.vitamindmission.co.uk/&#39;;">
+                  <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546443&&&http://www.vitamindmission.co.uk/"><table width="100                    <tr>
+                      <td align="center"><center>
+                        <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546443&&&http://www.vitamindmission.co.uk/"><img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_08012015.jpg" alt="Vitamin D Mission" width="600" height="312" class="hide" style="display: block;"></a>
+                        </center></td>
+                    </tr>
+                    </table></a>
+                </div>
+                
+                <div class="header2" style="display: block;" onclick="location.href=&#39;http://www.vitamindmission.co.uk/take-the-test&#39;;">
+                  <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546444&&&http://www.vitamindmission.co.uk/take-the-test"><table width="100                    <tr>
+                      <td><center>
+                        <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546444&&&http://www.vitamindmission.co.uk/take-the-test"><img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_header_2_08012015.jpg" alt="Is your child getting enough Vitamin D? Take the test" width="600" height="87" class="hide" style="display: block;"></a>
+                        </center></td>
+                    </tr>
+                    </table></a>
+                </div>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td width="100                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <div class="header3">
+                        <table width="100                          <tr>
+                            <td align="center"><center>
+                              <img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/title_desktop_12012014_new.jpg" alt="The Vitamin D Mission: About us" width="396" height="80" class="hide" style="display: block;">
+                              </center></td>
+                          </tr>
+                        </table>
+                      </div>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="10" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18px; color: #343434;">While safe sun exposure in the summer is a good source of Vitamin D, the sunlight in the UK winter (November to March) is not strong enough for the skin to produce this essential vitamin.<sup style="line-height:1; vertical-align:baseline;_vertical-align: bottom;position: relative;bottom: 1ex;font-size:11px !important;">1</sup></font>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="15" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546443&&&http://www.vitamindmission.co.uk/"><img src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_1_06012015.jpg" style="display: block;" width="200" height="42" alt="Find out more" border="0"></a>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="20" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <div class="header4">
+                        <table width="100                          <tr>
+                            <td align="center"><center>
+                              <img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_4_12012015.jpg" alt="Vitamin D deficiency in children can lead to a bone-softening disease called rickets, caused by lack of sunshine and malnutrition" width="504" height="72" class="hide" style="display: block;">
+                              </center></td>
+                          </tr>
+                        </table>
+                      </div>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="20" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18px; color: #343434;">By including foods in the diet during the winter months which are naturally rich in Vitamin D such as eggs and oily fish, and foods that have been fortified with Vitamin D such as cereals and powdered milks,* as well as supplements,<sup style="line-height:1; vertical-align:baseline;_vertical-align: bottom;position: relative;bottom: 1ex;font-size:11px !important;">2</sup> we can make sure that our little ones are getting that extra boost of Vitamin D they need for their healthy growth and development.</font>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td width="100                
+                <table width="100                  <tr>
+                    <td width="100                      
+                      <div class="header5" onclick="location.href=&#39;http://www.vitamindmission.co.uk/&#39;;">
+                        <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546443&&&http://www.vitamindmission.co.uk/"><table width="100                          <tr>
+                            <td>
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546443&&&http://www.vitamindmission.co.uk/"><img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_3_12012015.jpg" alt="To find out more about Vitamin D and the effects of winter weather on your child&#39;s health, click here" width="600" height="115" class="hide" style="display: block;"></a>
+                            </td>
+                          </tr>
+                          </table></a>
+                      </div>
+                      
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="100                      
+                      <div class="header6" onclick="location.href=&#39;http://www.vitamindmission.co.uk/tips&#39;;">
+                        <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546445&&&http://www.vitamindmission.co.uk/tips"><table width="100                          <tr>
+                            <td>
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546445&&&http://www.vitamindmission.co.uk/tips"><img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_4_12012014.jpg" alt="Vitamin D Mission" width="600" height="220" class="hide" style="display: block;"></a>
+                            </td>
+                          </tr>
+                          </table></a>
+                      </div>
+                      
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td width="100                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <font style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 13px; color: #343434;">1. The Generation D Report commissioned by The Vitamin D Mission (2014)<br>2. NHS Choices http://www.nhs.uk/Conditions/vitamins-minerals/Pages/Vitamin-D.aspx (last accessed on 06.10.14)<br>*Check the nutrition label to ensure fortification with Vitamin D</font>
+                      </center></td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td width="100                
+                <table width="100                  <tr>
+                    <td width="100                      
+                      <div class="header7">
+                        <table width="100                          <tr>
+                            <td>
+                              <img border="0" src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_5_08012015.jpg" alt="The vitamin D mission is a public health collaboration" width="600" height="35" class="hide" style="display: block;">
+                            </td>
+                          </tr>
+                        </table>
+                      </div>
+                      
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table" bgcolor="#ffffff">
+            <tr>
+              <td width="100                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td style="width: 100                      <img src="http://www.madeformums.com/news/images/Solus/vitd/vitd_solus_image_6_06012014.jpg" alt="The vitamin D mission" width="280" height="52" style="display: block;">
+                    </td>
+                    <td width="20" class="hide">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="20" height="1" style="display: block;" class="hide">
+                    </td>
+                    <td width="10">
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+          </table>
+          
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+            <tr>
+              <td width="100                
+                <!-- Social Media -->
+                
+                <table width="100                  <tr>
+                    <td>
+                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="1" height="25" style="display: block;">
+                    </td>
+                  </tr>
+                </table>
+                
+                <table width="100                  <tr>
+                    <td valign="middle" style="padding: 14px 0px 16px 0px;">
+                      <center>
+                        
+                        <table width="280" cellpadding="0" cellspacing="0" border="0" bgcolor="#f1ecd9">
+                          <tr>
+                            <td width="116">
+                              <font color="#362d04" style="color:#362d04 !important; font-size:17px; line-height:22px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;"><strong>Follow Us:</strong></font>
+                            </td>
+                            <td align="left">
+                              <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;" class="social-spacer">
+                            </td>
+                            <td align="left">
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546446&&&http://twitter.com/madeformums"><img src="http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_1_Email_2_06062014.jpg" style="display: block;" width="31" height="35" alt="Twitter" class="social" border="0"></a>
+                            </td>
+                            <td align="left">
+                              <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;" class="social-spacer">
+                            </td>
+                            <td align="left">
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546447&&&http://www.facebook.com/madeformums"><img src="http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_1_Email_3_06062014.jpg" style="display: block;" width="31" height="35" alt="Facebook" class="social" border="0"></a>
+                            </td>
+                            <td align="left">
+                              <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;" class="social-spacer">
+                            </td>
+                            <td align="left">
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546448&&&http://gb.pinterest.com/madeformums/"><img src="http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_1_Email_4_06062014.jpg" style="display: block;" width="31" height="35" alt="Pintrest" class="social" border="0"></a>
+                            </td>
+                            <td align="left">
+                              <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="10" height="1" style="display: block;" class="social-spacer">
+                            </td>
+                            <td align="left">
+                              <a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546449&&&https://plus.google.com/100056189700545787753/posts"><img src="http://www.madeformums.com/news/images/Newsletter/Relaunch/MFM_1_Email_5_06062014.jpg" style="display: block;" width="31" height="35" alt="Google+" class="social" border="0"></a>
+                            </td>
+                          </tr>
+                        </table>
+                        
+                      </center>
+                    </td>
+                  </tr>
+                </table>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="OutdoorsMagic Roam Newsletter" width="1" height="30" class="divider_two" style="display: block;">
+              </td>
+            </tr>
+            <tr>
+              <td>
+              </td>
+            </tr>
+          </table>
+          
+        </td>
+      </tr>
+    </table>
+    
+    <!-- Footer -->
+    
+    <table width="100      <tr>
+        <td bgcolor="#f1ecd9" width="100          <table cellpadding="0" cellspacing="0" border="0" width="600" align="center" class="footertableinner" bgcolor="#f1ecd9">
+            <tr>
+              <td width="100                <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="100              </td>
+            </tr>
+            <tr>
+              <td width="100                <font style="color:#362d04;font-size:12px;line-height:19px;font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-weight:strong;"><strong>You&#39;ve been sent this email because you&#39;re subscribed to receive promotions and offers from MadeForMums. We don&#39;t want to send you anything you don&#39;t want. If that&#39;s the case, <a href="http://strongmail.magicalia.com:80/track?type=unsubscribe&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&http://www.madeformums.com/newsletters/unsubscribe/default.aspx?u=b325e0c1-bbb5-4cce-a7f4-33102f919a63&n=0" style="color:#e81f63;text-decoration:none;font-size:12px;line-height:19px;"><font color="#e82260" style="color:#e82260;text-decoration:none;font-size:12px;line-height:19px;"><i>click here to unsubscribe</i></font></a>.</strong></font>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding-top:15px;">
+                <font style="color:#362d04;font-size:11px;line-height:18px;font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;font-weight:normal;"><a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546450&&&http://www.madeformums.com/contact-us/" target="_blank" style="color:#362d04;text-decoration:none;"><font color="#362d04" style="color:#362d04;text-decoration:none;font-size:11px;line-height:18px;">Contact Us</font></a>&nbsp;<font color="#362d04">|</font>&nbsp;<a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546451&&&http://www.madeformums.com" target="_blank" style="color:#362d04;text-decoration:none;"><font color="#362d04" style="color:#362d04;text-decoration:none;font-size:11px;line-height:18px;">MadeForMums</font></a>&nbsp;<font color="#362d04">|</font>&nbsp;<a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546452&&&http://www.immediate.co.uk/privacy-policy/" target="_blank" style="color:#362d04;text-decoration:none;"><font color="#362d04" style="color:#362d04;text-decoration:none;font-size:11px;line-height:18px;">Privacy Policy</font></a>&nbsp;<font color="#362d04">|</font>&nbsp;<a href="http://strongmail.magicalia.com:80/track?type=click&mailingid=36512&messageid=36512&databaseid=116251&serial=1278620536&emailid=andrewsaunders@fs.net&userid=171656&fl=&extra=MultivariateId=&&&2546453&&&http://www.madeformums.com/members/me/settings/" target="_blank" style="color:#362d04;text-decoration:none;"><font color="#362d04" style="color:#362d04;text-decoration:none;font-size:11px;line-height:18px;">My Settings</font></a><br>Copyright 2014 Immediate Media Co.</font>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" border="0" width="100                  <tr>
+                    <td width="100                      <img border="0" src="http://www.youandyourwedding.co.uk/editorimages/emails/Venue_Finder/vf_solus_spacer_20022014.png" alt="" width="100                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          
+        </td>
+      </tr>
+    </table>
+    
+  </body>
+</html>
+

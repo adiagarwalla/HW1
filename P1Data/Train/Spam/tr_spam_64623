@@ -1,0 +1,872 @@
+From @..  Tue Jan 20 02:35:31 2015
+Return-Path: <@..>
+X-Original-To: francisgirven@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6605CDE; Tue, 20 Jan 2015 02:35:31 +0000 (UTC)
+Received: from a0-49.smtp-out.eu-west-1.amazonses.com (a0-49.smtp-out.eu-west-1.amazonses.com [54.240.0.49])
+    by .. with SMTP id huknqbxj7vgjzxc6yxvrf5gdxa;
+    for francisgirven@fs.net;
+    Tue, 20 Jan 2015 02:35:30 +0000 (UTC)
+    (envelope-from 20150120023512597f6e8a59394c54b7692531627528dc-C27V2S0TZBXP3M@bounces.amazon.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=54.240.0.49;
+    envelope-from=<20150120023512597f6e8a59394c54b7692531627528dc-C27V2S0TZBXP3M@bounces.amazon.com>;
+    helo=a0-49.smtp-out.eu-west-1.amazonses.com; mechanism=include:amazon.com
+    (include:amazonses.com (ip4:54.240.0.0/18 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=54.240.0.49; client-port=53521;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 129.250.8.193
+    129.250.2.44 129.250.4.165 129.250.3.85 129.250.6.177 129.250.2.147
+    129.250.6.26 82.112.115.190 178.236.3.55 0.0.0.0 176.32.106.34
+    178.236.0.216 176.32.106.131; network-path-time=1421721330
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1421721312;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=zvAJTtt/+HJ0bNwvvAcqnLlykAYrKls8pkOYi+4s/uo=;
+	b=GmKGg2lYBKGTkv0nZuGHZn/a44Hn3QAPdlzDfUowqk2y5bB09DO/PNxSQc9Jhq9S
+	vNT0J6gtrA96lti/neZNKiPLRbciLfEPQ8Xhpo6DOq7zWEFSLBuuIdAbYqkLBrP00oc
+	WZKatoIpVrqoktWTCijhrc55vHuR5dtA2lYjeiCs=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hwblxdtwo6g37yq6ivfmb4s74hozqz45; d=amazon.co.uk; t=1421721312;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=zvAJTtt/+HJ0bNwvvAcqnLlykAYrKls8pkOYi+4s/uo=;
+	b=ZO7+vFhO2CbL7DfGuglPFetTmLqb1B7rkz3mSCAvAsk/Skk2UXA1yC8Sw8QaReDy
+	7ht8ZTyWNRrbPIXILbLML//cvNBmV0+atQmc17JeHuQcqCN2gjKmIc40C4XR2iymyAW
+	szevViYQ/5vHP5lzrZM8WQ19EOksLirS56ivYW8U=
+Date: Tue, 20 Jan 2015 02:35:12 +0000
+From: "Amazon.co.uk" <@..>
+To: "francisgirven@fs.net" <@..>
+Message-ID: <0000014b05319eaf-873c9abc-ff84-46e1-b1e0-7da6b376a790-000000@eu-west-1.amazonses.com>
+Subject: "The Lake Killer " by Randy Goddard and more Kindle eBooks
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_88484636_614934635.1421721312871"
+Bounces-to: 20150120023512597f6e8a59394c54b7692531627528dc-C27V2S0TZBXP3M@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20150120023512597f6e8a59394c54b7692531627528dc@1421721312878.massmail-sender-eu-1c-i-72d7e130.eu-west-1.amazon.com>
+X-SES-Outgoing: 2015.01.20-54.240.0.49
+Feedback-ID: eu-west-1.MjAxNTAxMjAwMjM1MTI1OTdmNmU4YTU5Mzk0YzU0Yjc2OTI1MzE2Mjc1MjhkYy1DMjdWMlMwVFpCWFAzTUBib3VuY2VzLmFtYXpvbi5jb20=:AmazonSES
+
+------=_Part_88484636_614934635.1421721312871
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_88484637_1515101081.1421721312871"
+
+------=_Part_88484637_1515101081.1421721312871
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+AMAZON.CO.UK
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+   We thought you might be interested to know about these Crime, Thriller &=
+ Mystery releases, now available on Amazon.                                =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                               =20
+   The Lake Killer (A Mystery of Murder and Suspense)
+by Randy Goddard
+http://www.amazon.co.uk/gp/product/B00RIJRFAY/ref=3Dem_si_text
+
+Price: =A32.32
+...
+   The Silent Reporter (Hyder Ali #1)
+by Thomas Fincham
+http://www.amazon.co.uk/gp/product/B00I7EOX68/ref=3Dem_si_text
+
+Price: =A30.00
+...
+   Blood Land: A Hard Boiled Murder Mystery (A James Pruett Mystery Book 1)
+by R.S. Guthrie
+http://www.amazon.co.uk/gp/product/B008J4NKA6/ref=3Dem_si_text
+
+Price: =A30.00
+...
+   Don't Be A Stranger: A Light-Hearted Valerie Inkerman Mystery (Valerie I=
+nkerman Investigates Book 1)
+by A.R. Winters
+http://www.amazon.co.uk/gp/product/B00M2GX3V8/ref=3Dem_si_text
+
+Price: =A30.00
+...
+   DEFENSELESS: an intense, action-packed crime thriller
+by Matt Lenz
+http://www.amazon.co.uk/gp/product/B00N7UE7KY/ref=3Dem_si_text
+
+Price: =A31.99
+...
+   Night Passage (Jesse Stone series Book 1)
+by Robert B. Parker
+http://www.amazon.co.uk/gp/product/B009T99S0G/ref=3Dem_si_text
+
+Price: =A31.00
+...
+   MULTIPLE MOTIVES (The Kate Huntington mystery series #1)
+by Kassandra Lamb
+http://www.amazon.co.uk/gp/product/B006MZ4468/ref=3Dem_si_text
+
+Price: =A30.00
+...
+   Someone Else's Daughter: Book I (A Miranda's Rights Mystery 1)
+by Linsey Lanier
+http://www.amazon.co.uk/gp/product/B005LHQWD6/ref=3Dem_si_text
+
+Price: =A30.00
+...
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Amazon.co.uk
+http://www.amazon.co.uk/ref=3Dfooter-amazonlogo/
+
+Connect with Us
+On Facebook
+https://www.amazon.co.uk/gp/redirect.html/ref=3Dsef_fb?ie=3DUTF8&location=
+=3Dhttp://www.facebook.com/AmazonUK&token=3D6BD0FB927CC51E76FF446584B1040F7=
+0EA7E88E1
+
+On Twitter
+http://www.amazon.co.uk/gp/redirect.html/ref=3Dsef_twttr/?location=3Dhttp:/=
+/twitter.com/AmazonUK&token=3D7A1A4AE8F6CE0BD277D8295E58702D283F329C0F
+
+We hope you enjoyed receiving this message. However, if you'd rather not re=
+ceive future e-mails of this sort from Amazon.co.uk please opt-out here:
+http://www.amazon.co.uk//gp/gss/o/1jhGKkyZpGB.TXRM5--Qsb6BXUrwL2IwAlRP55TnW=
+5X.16t6t.4sMaK7D-I60Py6n.
+
+Terms and conditions apply. Click on the offer for details of applicable pr=
+oducts and terms and conditions. Offers are for a limited time only and sub=
+ject to availability. Discounts and savings on offers on products sold by A=
+mazon.co.uk (excluding MP3s) refer to savings against Recommended Retail Pr=
+ice ("RRP") or our previous selling price, as indicated. Discounts and savi=
+ngs on Amazon MP3s refer to savings against our previous selling price, or =
+as otherwise indicated. Offers on products sold by a Marketplace seller are=
+ subject to that seller's terms and conditions of sale. See http://www.amaz=
+on.co.uk/ for details.=20
+
+Amazon.co.uk is a trading name for Amazon EU Sarl, for Amazon Media EU and =
+for Amazon Services Europe Sarl, all of which have their registered office =
+at 5 Rue Plaetis, L-2338 Luxembourg.
+
+Please note that this promotional e-mail is being sent from an e-mail addre=
+ss that cannot receive e-mails. If you have any questions and wish to conta=
+ct us, click here: http://www.amazon.co.uk/gp/browse.html/ref=3Dpe_ContactU=
+s/?node=3D502564
+
+Amazon Instant Video Limited has its registered office at 60 Holborn Viaduc=
+t London EC1A 2FD
+
+Reference: 62317911
+
+Please note that this message was sent to the following email address: fran=
+cisgirven@fs.net
+
+
+
+------=_Part_88484637_1515101081.1421721312871
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <style type=3D"text/css">
+  #outlook a{padding:0;}
+  body{width:100th:100  body{-webkit-text-size-adjust:none;}
+
+  body{margin:0; padding:0;}
+  img{border:0; line-height:100  table td{border-collapse:collapse;}
+</style> <style type=3D"text/css">
+    a:link, a:visited {
+      color: #336699;
+    }
+    body {
+      font-family: Arial,Helvetica,Sans-Serif;
+      font-size: 12px;
+      color: #333333;
+    }
+  =20
+  </style> </head> <body link=3D"#336699" alink=3D"#336699" vlink=3D"#33669=
+9" text=3D"#333333" yahoo=3D"fix"   marginwidth=3D"0" marginheight=3D"0" bg=
+color=3D#e3e3e3 topmargin=3D"0"    leftmargin=3D"0" style=3D"font-family: A=
+rial,Helvetica,Sans-Serif; font-size: 12px;"><img src=3D"http://www.amazon.=
+co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DTZCFDW8XOA6VN0SNYWC9=
+JV938PQA&T=3DO&U=3Dhttpv" border=3D"0" bgcolor=3D#e3e3e3 width=3D"100 ContentSymphony ad slot up top--> <tr><td> <center> <table class=3Dcs-slot=
+ cellspacing=3D"0" cellpadding=3D10 border=3D"0" width=3D"640" align=3D"cen=
+ter"> <tr> <td align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0"> <tr><td><span style=3D"font-family:verdana,arial,sans-serif;fo=
+nt-size:9px;line-height:11px;color:#555;">
+    Take a look at our great selection in <a href=3Dhttp://www.amazon.co.uk=
+/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DUGZRS54J9NTKNPSIYEKXS8BM7=
+ZSA&T=3DC&U=3Dhttp_ras_fl  </span></td></tr> </table> </td> <td align=3D"right"> <table cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" class=3D"cs-image-slot"> <tr> <td> <!=
+-- Make image clickable only if url is provided --> <map class=3D"image-css=
+lot-normal,image-csslot-fluid" name=3D"email-header-right-1-0"> <area href=
+=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=
+=3DHFNSEUWKJDEJJTAPENJWS0MDGLMA&T=3DC&U=3Dhttp0,0,300,50"> </map> <!-- Make mobile-only images hidden for the desktop ver=
+sion (this will be      overriden by the css style block when rendering on =
+mobile devices) --> <div class=3D"image-csslot-normal,image-csslot-fluid" >=
+ <img border=3D"0" align=3D"middle" alt=3D"New You, New Year Store" usemap=
+=3D"#email-header-right-1-0" src=3D"http://g-ec2.images-amazon.com/images/G=
+/02/uk_x-site2015/NewYearNewYou/Banners/uk_x-site_22-12-2014_nynycrosssite_=
+300x50_R1._V334193739_.png"/> </div> </td> </tr> </table> </td> </tr> </tab=
+le> </center> </td></tr> <!-- Banner bar - defined as a static but can be o=
+verriden through ContentSymphony --> <tr><td> <center> <table class=3D"oran=
+gebar" bgcolor=3D"#ff9900" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ height=3D"6" width=3D"640"> <tbody><tr><td height=3D"6"></td></tr></tbody>=
+ </table> </center> </td></tr> <!-- Header of the email, can contain additi=
+onal intro message too --> <tr><td> <center>
+       =20
+
+
+
+<table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"640" class=3D"sef_logo_header">
+  <tbody>
+    <tr>
+      <td style=3D"width: 640px;"><table class=3D"header-promo-stripe" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+        <tbody><tr>
+          <td align=3D"right">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100              <tbody><tr>
+                <td>
+                <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG=
+2X&C=3D31W7XW3GMSZF0&H=3DWKVH53QJ3A7AS7AGKGNLK4BMAWAA&T=3DC&U=3Dhttp2Fwww.amazon.co.uk
+                  <img src=3D"http://g-ec2.images-amazon.com/images/G/01/e-=
+mail/logos/a_co-uk_logo_48.gif" alt=3D"Amazon.co.uk" border=3D"0" hspace=3D=
+"6" vspace=3D"6" >
+
+=09=09</a>
+=09=09</td>
+                <td align=3D"right"><table class=3D"sef_header_menu" border=
+=3D"0" cellpadding=3D"20" cellspacing=3D"0" align=3D"right">
+                  <tbody><tr>
+                    <td align=3D"right"><table cellpadding=3D"0" cellspacin=
+g=3D"0">
+                      <tbody><tr>
+
+                       <td><a href=3D"http://www.amazon.co.uk/gp/r.html?R=
+=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3D5FTW1YBDV5CQTQMFJN0SKBUFK6EA&T=3DC&U=
+=3Dhttp_62317911_pe_yourstorefont-size: 12px; color: rgb(51, 102, 153); text-decoration: none; font-weig=
+ht: bold;">
+
+
+                         Your Amazon.co.uk
+
+                        </a></td>
+                        <td rowspan=3D"2" width=3D"8">&nbsp;</td>
+                        <td bgcolor=3D"#ccc" width=3D"2" height=3D"15"></td=
+>
+                        <td rowspan=3D"2" width=3D"12">&nbsp;</td>
+
+                        <td><a href=3D"http://www.amazon.co.uk/gp/r.html?R=
+=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DCJ7DTKXWJLCH0D2M39JJAPSH9XYA&T=3DC&U=
+=3Dhttp531_62317911_pe_goldboxy: arial,verdana,sans-serif; font-size: 12px; color: rgb(51, 102, 153); tex=
+t-decoration: none; font-weight: bold;">
+      =20
+
+                         Today's Deals
+
+                        </a></td>            =20
+                        <td rowspan=3D"2" width=3D"8">&nbsp;</td>
+                        <td bgcolor=3D"#ccc" width=3D"2" height=3D"15"></td=
+>
+                        <td rowspan=3D"2" width=3D"8">&nbsp;</td>
+
+                        <td><a href=3D"http://www.amazon.co.uk/gp/r.html?R=
+=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DBZCQFVEL6L6ZSS5HI52REXXXT0UA&T=3DC&U=
+=3Dhttp2317911_pe_dir_gwsize: 12px; color: rgb(51, 102, 153); text-decoration: none; font-weight: b=
+old;">
+           =20
+
+                         See All Departments
+
+                        </a></td>       =20
+                        <td rowspan=3D"2" width=3D"8">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+            <table class=3D"gradientbar" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" height=3D"9" width=3D"640">
+            </table></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody>
+</table>
+
+      </center> </td></tr> <!-- Intro content of the email --> <tr><td> <ce=
+nter> <table border=3D"0" align=3D"center" width=3D"640" cellspacing=3D"0" =
+cellpadding=3D"0" class=3D"seperator"> <tr><td height=3D"8"><img src=3D"htt=
+ps://images-na.ssl-images-amazon.com/images/G/02/email/template/student/cus=
+tom-rule_640._V386855972_.gif" width=3D"640" style=3D"display:block;" heigh=
+t=3D"8" border=3D"0" /></td></tr> </table> <table width=3D"640" cellpadding=
+=3D"0" cellspacing=3D"0" align=3D"center"    bgcolor=3D"#ffffff" class=3D"i=
+ntro"> <tr height=3D"10" class=3D"spacer"><td colspan=3D"3" width=3D"640"><=
+div width=3D"640" class=3D"spacer" style=3D"font-size:10px;line-height:10px=
+;">&nbsp;</div></td></tr> <tr> <td width=3D"15"><div width=3D"15" class=3D"=
+spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> <td al=
+ign=3D"left" valign=3D"top"> <span style=3D"font-family: Arial,Helvetica,sa=
+ns-serif; font-size: 12px; color: #333333" class=3D"content">
+          Hello francis John girven,
+          <br/><br/>
+        We thought you might be interested to know about these <a href=3Dht=
+tp://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DUGZR=
+S54J9NTKNPSIYEKXS8BM7ZSA&T=3DC&U=3Dhttp3Dpe_1495531_62317911_ras_fla> releases, now available on Amazon.
+      </span> </td> <td width=3D"15"><div width=3D"15" class=3D"spacer" sty=
+le=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> </tr> <tr height=
+=3D"10" class=3D"spacer"><td colspan=3D"3" width=3D"640"><div width=3D"640"=
+ class=3D"spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;</div></=
+td></tr> </table> </center> </td></tr> <tr><td> <center> <table width=3D"64=
+0" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff"> <t=
+r><td><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr> <td widt=
+h=3D"20"><div width=3D"20" class=3D"spacer" style=3D"font-size:20px;line-he=
+ight:20px;">&nbsp;</div></td> <td valign=3D"top" align=3D"left"> <table wid=
+th=3D"610" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tr valign=3D"=
+top"> <td width=3D"250" align=3D"right" height=3D"200"> <a href=3D"http://w=
+ww.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DVBULQKSAS8=
+BXNZSKANUTRYA3AH0A&T=3DC&U=3DhttpFB00RIJRFAYges-na.ssl-images-amazon.com/images/I/41WWj1dbAQL._SL500_SS250_.jpg" width=
+=3D"250" height=3D"250" class=3D"pr_image_250 pr_image_desktop" alt=3D"The =
+Lake Killer (A Mystery of Murder and Suspense)" border=3D"0" /> </a> </td> =
+<td width=3D"10"><div width=3D"10" class=3D"spacer" style=3D"font-size:10px=
+;line-height:10px;">&nbsp;</div></td> <td width=3D"340" valign=3D"top"> <ta=
+ble width=3D"340" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"left"> <tr height=3D"15"><td><div width=3D"340" class=3D"spacer" style=3D"=
+font-size:15px;line-height:15px;">&nbsp;</div></td></tr> <tr> <td valign=3D=
+"top" align=3D"left"> <span style=3D"font-family:Arial,Helvetica,Sans-Serif=
+;font-size:18px;font-weight:bold;font-style:normal;text-decoration:none;col=
+or:#369;text-align:left;"> <a href=3D"http://www.amazon.co.uk/gp/r.html?R=
+=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DQZ0XAAJEWRQX1EA46IR1H7RXB2EA&T=3DC&U=
+=3Dhttp5531_62317911_em_f_ti" style=3D"text-decoration: none; color: #004B91;"  >T=
+he Lake Killer </a> </span> <br/> <span style=3D"font-family:Arial,Helvetic=
+a,Sans-Serif;font-size:16px;font-weight:normal;font-style:normal;text-decor=
+ation:none;color:#369;text-align:left;">
+                    by <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0=
+K518AMG2X&C=3D31W7XW3GMSZF0&H=3DRA9HT5VAOF0NRTWCILE5OKAEHXEA&T=3DC&U=3Dsecoration: none; color: #004B91;'>Randy Goddard</a> </span> </td> </tr> <tr=
+ height=3D"8"><td><div width=3D"410" class=3D"spacer" style=3D"font-size:8p=
+x;line-height:8px;">&nbsp;</div></td></tr> <tr> <td valign=3D"top"> <span s=
+tyle=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bo=
+ld; font-size: 10pt;">
+                        Price:
+                          <span style=3D"font-size: 12pt; font-weight: bold=
+; color: #990000;">=A32.32</span> </span> <br/> </td> </tr> <tr height=3D"1=
+0"><td><div width=3D"410" class=3D"spacer" style=3D"font-size:10px;line-hei=
+ght:10px;">&nbsp;</div></td></tr> <tr> <td valign=3D"top"> <a href=3D"http:=
+//www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DM4MWOBS=
+C7RAOFMAWYO3LXNHWIOYA&T=3DC&U=3Dhttptges-na.ssl-images-amazon.com/images/G/02/tea/learn-more-big._V332978266_.pn=
+g" width=3D"215" alt=3D"Learn More" height=3D"34" border=3D"0" /></a> </td>=
+ </tr> <tr height=3D"10"><td><div width=3D"410" class=3D"spacer" style=3D"f=
+ont-size:10px;line-height:10px;">&nbsp;</div></td></tr> <tr> <td valign=3D"=
+top"> <span style=3D"font-family:Arial,Helvetica,Sans-Serif;font-size:12px;=
+font-weight:normal;font-style:normal;text-decoration:none;color:#333;text-a=
+lign:left;">
+                    Joe Litchfield, a successful architect, and his brother=
+ Danny, a reputable police officer, are immersed head first into a whirlwin=
+d mystery filled with suspense, betrayal, and even murder when they ...=20
+        <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D3=
+1W7XW3GMSZF0&H=3DSGOV0WJANGPFN3HQ4YYBZIYKZK8A&T=3DC&U=3Dhttpazon.co.uk style=3D"color: #369;"  >Read More</a> </span> </td> </tr> </table> </td> =
+</tr> </table> </td> <td width=3D"20"><div width=3D"20" class=3D"spacer" st=
+yle=3D"font-size:20px;line-height:20px;">&nbsp;</div></td> </tr></table></t=
+d></tr> <tr height=3D"20"><td><div width=3D"650" class=3D"spacer" style=3D"=
+font-size:20px;line-height:20px;">&nbsp;</div></td></tr> </table> <table wi=
+dth=3D"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ff=
+ffff" class=3D"pfe_sims_widget"> <tr height=3D"8"><td><div width=3D"640" cl=
+ass=3D"spacer" style=3D"font-size:8px;line-height:8px;">&nbsp;</div></td></=
+tr> <tr> <td> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"pfe_sims_widget_header"> <tr> <td width=3D"15"><div widt=
+h=3D"15" class=3D"spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;=
+</div></td> <td align=3D"left"> <span style=3D"font-family:Arial,Helvetica,=
+Sans-Serif;font-size:18px;font-weight:normal;               font-style:norm=
+al;text-decoration:none;color:#f90;text-align:left;">
+              See more in Kindle eBooks
+            </span> </td> <td width=3D"15"><div width=3D"15" class=3D"space=
+r" style=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> </tr> </tab=
+le> </td> </tr> <tr height=3D"5"><td><div width=3D"640" class=3D"spacer" st=
+yle=3D"font-size:5px;line-height:5px;">&nbsp;</div></td></tr> <tr> <td> <ta=
+ble cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tr> <td width=3D"15"=
+><div width=3D"15" class=3D"spacer" style=3D"font-size:1px;line-height:1px;=
+">&nbsp;</div></td> <td bgcolor=3D"#eaebec" width=3D"620"><div width=3D"620=
+" class=3D"spacer" style=3D"font-size:1px;line-height:1px;">&nbsp;</div></t=
+d> <td width=3D"15"><div width=3D"15" class=3D"spacer" style=3D"font-size:1=
+px;line-height:1px;">&nbsp;</div></td> </tr> </table> </td> </tr> <tr heigh=
+t=3D"10"><td><div width=3D"640" class=3D"spacer" style=3D"font-size:10px;li=
+ne-height:10px;">&nbsp;</div></td></tr> <tr> <td> <table cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0" align=3D"left" class=3D"pfe_sims_widget_cont=
+ent"><tr> <td width=3D"15"><div width=3D"15" class=3D"spacer" style=3D"font=
+-size:15px;line-height:15px;">&nbsp;</div></td> <td width=3D"200" valign=3D=
+"top" align=3D"left"> <table width=3D"200" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" align=3D"left" class=3D"pfe_sims_product"> <tr class=3D"pf=
+e_sims_image"><td align=3D"left" valign=3D"top"> <a href=3D"http://www.amaz=
+on.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DPVPAVTNG0JBZI6YMJ=
+3ECDYAVYYCA&T=3DC&U=3DhttpOX68-na.ssl-images-amazon.com/images/I/51b85l7X2KL._SL500_SS200_.jpg" width=3D"=
+200" height=3D"200" class=3D"pr_image_200 pr_image_desktop" alt=3D"The Sile=
+nt Reporter (Hyder Ali #1)" border=3D"0" /> </a> </td></tr> <tr><td height=
+=3D"80" valign=3D"top"><table width=3D"200" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0"> <tr class=3D"pfe_sims_title"><td valign=3D"top" align=
+=3D"left" style=3D"padding-top:10px;"> <span style=3D"font-family:Arial,Hel=
+vetica,Sans-Serif;font-size:12px;font-weight:normal;         font-style:nor=
+mal;text-align:left;"> <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0=
+K518AMG2X&C=3D31W7XW3GMSZF0&H=3DWBYF8HZTMZ1FEPGPOKRLAB6XMPEA&T=3DC&U=3Dhttp=
+317911_em_sim_1_ti" style=3D"text-decoration: none; color: #004B91;"  >The =
+Silent Reporter (Hyder Ali #1)</a> </span> </td></tr> <tr class=3D"pfe_sims=
+_byline"><td valign=3D"top" align=3D"left" style=3D"padding-top:3px;"> <spa=
+n style=3D"font-family:Arial,Helvetica,Sans-Serif;font-size:11px;font-weigh=
+t:normal;         font-style:normal;text-decoration:none;color:#333;text-al=
+ign:left;">
+        by <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=
+=3D31W7XW3GMSZF0&H=3DHHCE7UJKHT8TDMIAPKFHVS7Q46IA&T=3DC&U=3D_1495531_62317911_bl_sr_digital-text2520Fincham none; color: #004B91;'>Thomas Fincham</a> </span> </td></tr> <tr class=3D"=
+pfe_sims_price"><td valign=3D"top" style=3D"padding-top: 10px;"> <span styl=
+e=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;=
+ font-size: 12px;">
+            Price:
+              <span style=3D"font-size: 12px; font-weight: bold; color: #99=
+0000;">=A30.00</span> </span> <br/> </td></tr> </table></td></tr> <tr class=
+=3D"pfe_sims_button"><td valign=3D"top" style=3D"padding-top: 10px;"> <a hr=
+ef=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&=
+H=3DKGAI4HKAJWIZJAFI00WL6B1UGW4A&T=3DC&U=3Dhttpgprc=3D"https://images-na.ssl-images-amazon.com/images/G/02/tea/learn-more._V=
+332978267_.gif" width=3D"83" alt=3D"Learn more" height=3D"22" border=3D"0" =
+/></a> </td></tr> </table> </td> <td width=3D"10"><div width=3D"10" class=
+=3D"spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> <t=
+d width=3D"200" valign=3D"top" align=3D"left"> <table width=3D"200" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"left" class=3D"pfe_sims_=
+product"> <tr class=3D"pfe_sims_image"><td align=3D"left" valign=3D"top"> <=
+a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMS=
+ZF0&H=3DO007QFY4JOOQFVBGXYL9VGCEQU0A&T=3DC&U=3Dhttpkimg src=3D"https://images-na.ssl-images-amazon.com/images/I/51c6BdjHb5L._SL=
+500_SS200_.jpg" width=3D"200" height=3D"200" class=3D"pr_image_200 pr_image=
+_desktop" alt=3D"Blood Land: A Hard Boiled Murder Mystery (A James Pruett M=
+ystery Book 1)" border=3D"0" /> </a> </td></tr> <tr><td height=3D"80" valig=
+n=3D"top"><table width=3D"200" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0"> <tr class=3D"pfe_sims_title"><td valign=3D"top" align=3D"left" styl=
+e=3D"padding-top:10px;"> <span style=3D"font-family:Arial,Helvetica,Sans-Se=
+rif;font-size:12px;font-weight:normal;         font-style:normal;text-align=
+:left;"> <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D=
+31W7XW3GMSZF0&H=3DXBXNTEIKMEMSIQHNZHNREHGEEY0A&T=3DC&U=3Dhttpmazon.co.uk2_ti" style=3D"text-decoration: none; color: #004B91;"  >Blood Land: A Hard=
+ Boiled Murder Mystery </a> </span> </td></tr> <tr class=3D"pfe_sims_byline=
+"><td valign=3D"top" align=3D"left" style=3D"padding-top:3px;"> <span style=
+=3D"font-family:Arial,Helvetica,Sans-Serif;font-size:11px;font-weight:norma=
+l;         font-style:normal;text-decoration:none;color:#333;text-align:lef=
+t;">
+        by <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=
+=3D31W7XW3GMSZF0&H=3DK2JRWF0WCCOZWMKC0B8P8AU3TZKA&T=3DC&U=3D_1495531_62317911_bl_sr_digital-text20Guthrieone; color: #004B91;'>R.S. Guthrie</a> </span> </td></tr> <tr class=3D"pfe_=
+sims_price"><td valign=3D"top" style=3D"padding-top: 10px;"> <span style=3D=
+"font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; fon=
+t-size: 12px;">
+            Price:
+              <span style=3D"font-size: 12px; font-weight: bold; color: #99=
+0000;">=A30.00</span> </span> <br/> </td></tr> </table></td></tr> <tr class=
+=3D"pfe_sims_button"><td valign=3D"top" style=3D"padding-top: 10px;"> <a hr=
+ef=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&=
+H=3DFTZFO6A9GDCSGQJEMBD7ABGLRGQA&T=3DC&U=3Dhttpgprc=3D"https://images-na.ssl-images-amazon.com/images/G/02/tea/learn-more._V=
+332978267_.gif" width=3D"83" alt=3D"Learn more" height=3D"22" border=3D"0" =
+/></a> </td></tr> </table> </td> <td width=3D"10"><div width=3D"10" class=
+=3D"spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> <t=
+d width=3D"200" valign=3D"top" align=3D"left"> <table width=3D"200" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"left" class=3D"pfe_sims_=
+product"> <tr class=3D"pfe_sims_image"><td align=3D"left" valign=3D"top"> <=
+a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMS=
+ZF0&H=3DPN5LTMYJHOCPJCJWSVANWVI7UFCA&T=3DC&U=3Dhttpkimg src=3D"https://images-na.ssl-images-amazon.com/images/I/51WDgX5RgML._SL=
+500_SS200_.jpg" width=3D"200" height=3D"200" class=3D"pr_image_200 pr_image=
+_desktop" alt=3D"Don't Be A Stranger: A Light-Hearted Valerie Inkerman Myst=
+ery (Valerie Inkerman Investigates Book 1)" border=3D"0" /> </a> </td></tr>=
+ <tr><td height=3D"80" valign=3D"top"><table width=3D"200" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"> <tr class=3D"pfe_sims_title"><td valign=
+=3D"top" align=3D"left" style=3D"padding-top:10px;"> <span style=3D"font-fa=
+mily:Arial,Helvetica,Sans-Serif;font-size:12px;font-weight:normal;         =
+font-style:normal;text-align:left;"> <a href=3D"http://www.amazon.co.uk/gp/=
+r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DF9GH0ADDM0JAQAUPBTUII2PWVNCA&=
+T=3DC&U=3DhttpDpe_1495531_62317911_em_sim_3_ti" style=3D"text-decoration: none; color: #0=
+04B91;"  >Don't Be A Stranger: A Light-Hearted Valerie...</a> </span> </td>=
+</tr> <tr class=3D"pfe_sims_byline"><td valign=3D"top" align=3D"left" style=
+=3D"padding-top:3px;"> <span style=3D"font-family:Arial,Helvetica,Sans-Seri=
+f;font-size:11px;font-weight:normal;         font-style:normal;text-decorat=
+ion:none;color:#333;text-align:left;">
+        by <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=
+=3D31W7XW3GMSZF0&H=3DSTBN523JEUAAOLQVSWGN8T5SSBGA&T=3DC&U=3D_1495531_62317911_bl_sr_digital-text20Wintersone; color: #004B91;'>A.R. Winters</a> </span> </td></tr> <tr class=3D"pfe_=
+sims_price"><td valign=3D"top" style=3D"padding-top: 10px;"> <span style=3D=
+"font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; fon=
+t-size: 12px;">
+            Price:
+              <span style=3D"font-size: 12px; font-weight: bold; color: #99=
+0000;">=A30.00</span> </span> <br/> </td></tr> </table></td></tr> <tr class=
+=3D"pfe_sims_button"><td valign=3D"top" style=3D"padding-top: 10px;"> <a hr=
+ef=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&=
+H=3DS2XGNTMANFDSGIYEBXGTZPQEWXWA&T=3DC&U=3Dhttpgprc=3D"https://images-na.ssl-images-amazon.com/images/G/02/tea/learn-more._V=
+332978267_.gif" width=3D"83" alt=3D"Learn more" height=3D"22" border=3D"0" =
+/></a> </td></tr> </table> </td> <td width=3D"15"><div width=3D"15" class=
+=3D"spacer" style=3D"font-size:15px;line-height:15px;">&nbsp;</div></td> </=
+tr></table> </td> </tr> <tr height=3D"20"><td><div width=3D"640" class=3D"s=
+pacer" style=3D"font-size:20px;line-height:20px;">&nbsp;</div></td></tr> <t=
+r> <td> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"le=
+ft" class=3D"pfe_sims_widget_see_more"> <tr> <td width=3D"15"><div width=3D=
+"15" class=3D"spacer" style=3D"font-size:10px;line-height:10px;">&nbsp;</di=
+v></td> <td width=3D"10" valign=3D"top"> <img src=3D"https://images-na.ssl-=
+images-amazon.com/images/G/02/tea/a4._V332978264_.gif" width=3D"10" alt=3D"=
+&lt;" height=3D"13" border=3D"0" /> </td> <td align=3D"left"> <a href=3D"ht=
+tp://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DUGZR=
+S54J9NTKNPSIYEKXS8BM7ZSA&T=3DC&U=3Dhttp3Dpe_1495531_62317911_ras_fl,Helvetica,Sans-Serif;font-size:12px;font-weight:normal;               font=
+-style:normal;text-decoration:none;color:#004B91;text-align:left;">
+              See more recommendations
+            </a> </td> <td width=3D"15"><div width=3D"15" class=3D"spacer" =
+style=3D"font-size:10px;line-height:10px;">&nbsp;</div></td> </tr> </table>=
+ </td> </tr> <tr height=3D"20"><td><div width=3D"640" class=3D"spacer" styl=
+e=3D"font-size:20px;line-height:20px;">&nbsp;</div></td></tr> </table> <tab=
+le width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+border-collapse:collapse;" class=3D"pfe_sims_widget"> <tr height=3D"2"> <td=
+ bgcolor=3D"#ccccc9" width=3D"640" height=3D"2"><div width=3D"640" class=3D=
+"spacer" style=3D"font-size:2px;line-height:2px;">&nbsp;</div></td> </tr> <=
+/table> </center> </td></tr> <!-- ContentSymphony slots below the main cont=
+ent --> <tr><td> <center> <table class=3Dcs-slot cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0" align=3D"center" bgcolor=3D"#ffffff"> <tr align=3D"c=
+enter"><td> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"cs-image-slot"> <tr> <td> <!-- Make image clickable only if url is prov=
+ided --> <map class=3D"image-csslot-normal,image-csslot-fluid" name=3D"emai=
+l-footer-center-1-0"> <area href=3D"http://www.amazon.co.uk/gp/r.html?R=3DM=
+U0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DUA7KPREW7GNHTPUCPFL0OE1IX7SA&T=3DC&U=3Dht=
+tp_1495531_62317911" shape=3D"rect" coords=3D"0,0,640,90"> </map> <!-- Make m=
+obile-only images hidden for the desktop version (this will be      overrid=
+en by the css style block when rendering on mobile devices) --> <div class=
+=3D"image-csslot-normal,image-csslot-fluid" > <img border=3D"0" align=3D"mi=
+ddle" alt=3D"Fashion Sale: Up to 600" src=3D"http://g-ec2.images-amazon.com/images/G/02/AMAZON-FASHION/2014/FA=
+SHION/SALE-AW14/60/EMAIL/SALE_EMAIL_60_40x902._V334639048_.jpg"/> </div> </=
+td> </tr> </table> </td></tr> </table> </center> </td></tr> <!--Store foote=
+r for the email  --> <tr><td> <center>
+       =20
+
+
+
+<table class=3D"sef_footer_linkfarm" width=3D"640" bgcolor=3D"#ffffff" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tr height=3D"10">
+      <td colspan=3D"3" width=3D"640"><div width=3D"640" style=3D"font-size=
+:10px; line-height:10px">&nbsp;</div></td>
+    </tr>   =20
+    <tr>
+      <td width=3D"15"><div width=3D"20" style=3D"font-size:20px; line-heig=
+ht:20px">&nbsp;</div></td>
+      <td><table width=3D"610" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"left">
+        <tr>
+          <td width=3D"610" style=3D"padding-bottom: 10px; padding-top:6px;=
+" align=3D"center">
+            <div width=3D"610" align=3D"center">
+              <font color=3D"#cd6600" size=3D"3" face=3D"Arial,Helvetica,Sa=
+ns-Serif;" style=3D"font-family: Arial,Helvetica,Sans-Serif; font-size: 14p=
+x; color: #333; line-height: 16px;">
+                <b>Find Great Deals on Millions of Items Storewide</b>
+              </font>
+            </div>
+          </td>       =20
+        </tr>
+        <tr>
+          <td valign=3D"middle">
+<table width=3D"610" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" cla=
+ss=3D"sef_footer_linkfarm">             =20
+              <tr>
+               <td style=3D"font-family: Arial,Helvetica,Sans-Serif;line-he=
+ight:13px;font-size: 11px;" width=3D"130" align=3D"left">
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3D7BTWTCA6R3KZ9IV6IA4YFXVDDDMA&T=3DC&U=3DhttpF_1n style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial=
+,Helvetica,Sans-Serif;=20
+
+font-size:11px;"><b>&#8250;</b></font> Baby</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DHAA8ATUPWTWLRBHLASO7ZD142WIA&T=3DC&U=3DhttpF_2an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Blu-ray</span></a><br />    =
+            =20
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DVPMDZSNYRXZBT2HNNJTGRYWL6AOA&T=3DC&U=3DhttpF_3style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,H=
+elvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Books</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DWPJFKPZL5AKFDRVNYQ1JJCMYNS4A&T=3DC&U=3DhttpF_4style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,H=
+elvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Camera &amp; Photo</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DFAJE8AXBPMCQPWMEUXOEKRO4CFAA&T=3DC&U=3DhttpF_5an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Car &amp; Motorbike</span></=
+a><br />  =20
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DY7C1ZAD8E2W55J4QKRUUB57XG4EA&T=3DC&U=3DhttpF_6n style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial=
+,Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Clothing</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DUKXE5IVLPXGF1FSRTYAT7RLOODIA&T=3DC&U=3DhttpF_7an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Computing</span></a><br />
+                </td>
+               =20
+                <td style=3D"font-family: Arial,Helvetica,Sans-Serif;line-h=
+eight:13px;font-size: 11px;" width=3D"168" align=3D"left">
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DY7GGZKC5ESXCPWZ6KYJDBSYC3COA&T=3DC&U=3DhttpF_9n style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial=
+,Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> DIY &amp; Tools</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3D1YR6T428JAFE314VGXFYGA3J8EQA&T=3DC&U=3DhttpF_10 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> DVD</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DKE3R1DD6I28XO77LAIPIGIVYVGWA&T=3DC&U=3DhttpF_11 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Electronics</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DB79Z4DGYHEJQXYV6LAKK2LPAJKYA&T=3DC&U=3DhttpF_12pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Grocery</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DGHJQJDAORCDYT8MDTQY3ZBA7DG0A&T=3DC&U=3DhttpF_10an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Health &amp; Beauty</span></=
+a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DKK0OIHHXIBSN5HGTXOGJCRAJ6CQA&T=3DC&U=3DhttpF_13an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Home &amp; Garden</span></a>=
+<br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DAMWV5VPWALLXVJ75R84KRMA9PAKA&T=3DC&U=3DhttpF_14pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Jewellery</span></a><br />
+                </td>
+               =20
+                <td style=3D"font-family: Arial,Helvetica,Sans-Serif;line-h=
+eight:13px;font-size: 11px;" width=3D"140" align=3D"left">
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DAPBKKPHYVDI6AA1ABTJQAAWVPNOA&T=3DC&U=3DhttpF_17pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Kindle Store</span></a><br /=
+>
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DEXJ3NMBT3LJKMNBTWWFGZABEEOYA&T=3DC&U=3DhttpF_18pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Lighting</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DBDZQ9YLGZARTW6B5VNXXP6CNML4A&T=3DC&U=3DhttpF_19an style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Aria=
+l,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Digital Music</span></a><br =
+/>
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3D597MLPGQWNKJBCUVWT6R5JJOP2UA&T=3DC&U=3DhttpF_20 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Music</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DR1GEMAEDMNN12Z3UUD9MC884VTKA&T=3DC&U=3DhttpF_21pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Musical Instruments &amp; DJ=
+</span><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DEKBAF2I7FFWLGOYQNYZ6KPZAWHGA&T=3DC&U=3DhttpF_23pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Office Products</span></a><b=
+r />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DNUU1O3U9BCAAXII6FNTT6PWVALUA&T=3DC&U=3DhttpF_24span style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ar=
+ial,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Outlet</span></a><br />     =
+            =20
+                </td>
+                 =20
+                <td style=3D"font-family: Arial,Helvetica,Sans-Serif;line-h=
+eight:13px;font-size: 11px;" width=3D"168" align=3D"left">
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DO9C9LXOQZCLB0ITABBFOQLQ4A6KA&T=3DC&U=3DhttpF_26pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Pet Supplies</span></a><br /=
+>
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3D33JOGA3EOB9MTLLV9PND3WXCTFGA&T=3DC&U=3DhttpF_27pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 13px;"><b>&#8250;</b></font> Shoes &amp; Accessories</spa=
+n></a><br/>               =20
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DYANAUI1F7ABMMBUZRLOGGJSJ2QKA&T=3DC&U=3DhttpF_28 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Software</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DEZNBRDPICOD0AY03PHJH5EAFZSCA&T=3DC&U=3DhttpF_29pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-
+
+Serif; font-size: 11px;"><b>&#8250;</b></font> Sports &amp; Outdoors</span>=
+</a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DGNBYWZI1U01XHLRF5K26JOOUAQ8A&T=3DC&U=3DhttpF_30 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Toys &amp; Games</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DGYCZ6DLE9MY6UFWK7WIXQAMZ34YA&T=3DC&U=3DhttpF_30 style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Arial,=
+Helvetica,Sans-Serif;=20
+
+font-size: 11px;"><b>&#8250;</b></font> Video Games</span></a><br />
+                  <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518A=
+MG2X&C=3D31W7XW3GMSZF0&H=3DG8AN4U8X7TL2EDJDLEU0KSCN0KEA&T=3DC&U=3DhttpF_31pan style=3D"color:#919191;"><font style=3D"color:#cc6600; font-family: Ari=
+al,Helvetica,Sans-Serif; font-size: 11px;"><b>&#8250;</b></font> Watches</s=
+pan></a><br />
+                </td>
+              </tr>          =20
+          </table>
+
+          </td>
+        </tr>
+      </table></td>
+      <td width=3D"15"><div width=3D"15" style=3D"font-size:20px; line-heig=
+ht:20px">&nbsp;</div></td>
+    </tr>
+    <tr height=3D"10">
+      <td colspan=3D"3" width=3D"640"><div width=3D"640" style=3D"font-size=
+:10px; line-height:10px">&nbsp;</div></td>
+    </tr>
+
+  </tbody>
+</table>
+
+<table class=3D"sef_spacer" width=3D"640" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"border-spacing:0px;border-collapse:collapse;">
+  <tr height=3D"2">
+    <td bgcolor=3D"#ccccc9" width=3D"640" height=3D"2"><div width=3D"640" s=
+tyle=3D"font-size:2px;line-height:2px">&nbsp;</div></td>
+  </tr>
+</table>
+<style type=3D"text/css">
+    .sef_footer_connect .yshortcuts { color:#FFFFFF }
+</style>
+<table class=3D"sef_footer_connect" bgcolor=3D"#FFFFFF" border=3D"0" cellpa=
+dding=3D"10" cellspacing=3D"0" width=3D"640" align=3D"center">
+=09=09    <tbody><tr>
+=09=09      <td bgcolor=3D"#FFFFFF" valign=3D"top" align=3D"left"><font sty=
+le=3D"font-family: verdana,arial,sans-serif; font-size: 10px; color: #999;"=
+ color=3D"#999" face=3D"verdana,arial,sans-serif" size=3D"1"><a href=3D"htt=
+p://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3DWJMMP=
+TI963TV4UBUEFAWDGBCOUOA&T=3DC&U=3Dhttp1495531_62317911_footer_amazonlogo/g-ec2.images-amazon.com/images/G/01/e-mail/logos/a_co-uk_logo_48.gif" alt=
+=3D"image" border=3D"0" hspace=3D"5" align=3D"left"></a></font>
+=09=09        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"5" align=
+=3D"right">
+=09=09        <tbody>
+=09=09          <tr>
+=09=09            <td align=3D"right"><font style=3D"font-family: verdana,a=
+rial,sans-serif; font-size: 10px; color: #666; line-height:10px" color=3D"#=
+999" face=3D"verdana,arial,sans-serif" size=3D"1">Connect</font><font style=
+=3D"font-family: verdana,arial,sans-serif; font-size: 10px; color: #666; li=
+ne-height:10px" color=3D"#999" face=3D"verdana,arial,sans-serif" size=3D"1"=
+> <br>
+=09                with us</font></td>
+                            <td width=3D"4">&nbsp;</td>
+=09=09            <td><font style=3D"font-family: verdana,arial,sans-serif;=
+ font-size: 10px; color: #999;" color=3D"#999" face=3D"verdana,arial,sans-s=
+erif" size=3D"1">
+<a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GM=
+SZF0&H=3DA0FETOJNM5R0YNXABRXLX9SWYAQA&T=3DC&U=3Dhttps.ukocation76FF446584B1040F70EA7E88E1" target=3D"_blank"><img src=3D"http://g-ecx.imag=
+es-amazon.com/images/G/01/us-mail/FBlogo.gif" alt=3D"image" border=3D"0" he=
+ight=3D"30" hspace=3D"0" vspace=3D"0" width=3D"30"></a></font></td>
+                            <td width=3D"4">&nbsp;</td>
+=09=09            <td><font style=3D"font-family: verdana,arial,sans-serif;=
+ font-size: 10px; color: #999;" color=3D"#999" face=3D"verdana,arial,sans-s=
+erif" size=3D"1">
+<a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GM=
+SZF0&H=3DM8CIHA457LXDN9ZEEHAU0R6ALGUA&T=3DC&U=3Dhttpuk702D283F329C0F" target=3D"_blank"><img src=3D"http://g-ecx.images-amazon.co=
+m/images/G/01/us-mail/TwitterLogo.gif" alt=3D"image" border=3D"0" height=3D=
+"30" hspace=3D"0" vspace=3D"0" width=3D"30"></a></font></td>
+=09              </tr>
+=09            </tbody>
+=09          </table></td>
+=09        </tr>
+=09      </tbody></table>
+
+
+
+
+<table width=3D"640" border=3D"0" cellpadding=3D"2" cellspacing=3D"0" class=
+=3D"sef_legal_footer">
+    <tr height=3D"10">
+      <td width=3D"100height:10px">&nbsp;</div></td>
+    </tr>
+   =20
+    <tr>
+      <td align=3D"left" style=3D"font-family: Arial,Helvetica,Sans-Serif; =
+font-size: 10px; color: #666">
+        We hope you enjoyed receiving this message. However, if you'd rathe=
+r not receive future e-mails of this sort from Amazon.co.uk please opt-out =
+<a=20
+href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF=
+0&H=3DJTMTNUHUOMSWYW8MVWAFY1VFL28A&T=3DX&U=3Dhttp2F7D-I60Py6n" style=3D"font-family: Arial,Helvetica,Sans-Serif; font-size: 10=
+px; color: #999">here.</a> <br /><br />
+         Terms and conditions apply. Click on the offer for details of appl=
+icable products and terms and conditions. Offers are for a limited time onl=
+y and subject to availability. Discounts and savings on offers on products =
+sold by Amazon.co.uk (excluding MP3s) refer to savings against Recommended =
+Retail Price ("RRP") or our previous selling price, as indicated. Discounts=
+ and savings on Amazon MP3s refer to savings against our previous selling p=
+rice, or as otherwise indicated. Offers on products sold by a Marketplace s=
+eller are subject to that seller's terms and conditions of sale. See <a hre=
+f=3D "http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&=
+H=3DAB8S148GQI556KIKM3TQOQI1AV0A&T=3DC&U=3Dhttperif; font-size: 10px; color: #bfbfbf">www.amazon.co.uk</a> for details.=20
+<p>Amazon.co.uk is a trading name for Amazon EU Sarl, for Amazon Media EU a=
+nd for Amazon Services Europe Sarl, all of which have their registered offi=
+ce at 5 Rue Plaetis, L-2338 Luxembourg.</p>
+<p>Please note that this promotional e-mail is being sent from an e-mail ad=
+dress that cannot receive e-mails. If you have any questions and wish to co=
+ntact us, <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3DMU0K518AMG2X&C=
+=3D31W7XW3GMSZF0&H=3DSYWSRJK3QZ0Y4OSYSPVJBLLIP5AA&T=3DC&U=3Dhttpw.amazon.co.uk2Fsize: 10px; color: #bfbfbf">click here</a>.
+<br /><br />
+Amazon Instant Video Limited has its registered office at 60 Holborn Viaduc=
+t London EC1A 2FD
+<br /><br />
+
+Reference: 62317911
+<br /><br />
+Please note that this message was sent to the following e-mail address: <sp=
+an style=3D"font-family: Arial,Helvetica,Sans-Serif; font-size: 10px; color=
+: #bfbfbf">francisgirven@fs.net</span>      </p></td>
+    </tr>
+  </tbody>
+</table>
+
+      </center> </td></tr> </table> <img src=3D"http://www.amazon.co.uk/gp/=
+r.html?R=3DMU0K518AMG2X&C=3D31W7XW3GMSZF0&H=3D2XLRMBSGTKQJR00LZWZIDJ7B8V8A&=
+T=3DE&U=3Dhttpp.gif" /></body> </html>
+
+
+
+
+------=_Part_88484637_1515101081.1421721312871--
+
+------=_Part_88484636_614934635.1421721312871--
+

@@ -1,0 +1,78 @@
+Message-ID: <6237305.1075855628200.JavaMail.evans@thyme>
+Date: Thu, 16 Nov 2000 05:27:00 -0800 (PST)
+From: william.kasemervisz@.com
+To: crystal.hyde@.com, william.kelly@.com, kimat.singla@.com, 
+	victor.guggenheim@.com, darron.giron@.com, 
+	b.palmer@.com, jackson.logan@.com, phillip.love@.com, 
+	kam.keiser@.com, michelle.waldhauser@.com, 
+	dawn.kenne@.com, monique.sanchez@.com, 
+	jeffrey.gossett@.com, chris.walker@.com, 
+	michael.walters@.com, david.baumbach@.com, 
+	martha.stevens@.com, jay.knoblauh@.com, 
+	dutch.quigley@.com, sheetal.patel@.com, 
+	jeff.royed@.com, shawna.johnson@.com, anne.bike@.com, 
+	jennifer.bagwell@.com, jody.crook@.com, 
+	denver.plachy@.com, juana.fayett@.com, 
+	liz.hillman@.com, o'neal.winfree@.com, 
+	jeff.royed@.com, luchas.johnson@.com, 
+	shawna.johnson@.com, souad.mahmassani@.com, 
+	jason.wolfe@.com, kyle.lilly@.com, 
+	robin.rodrigue@.com, sandra.brawner@.com, 
+	brad.mckay@.com, fletcher.sturm@.com, 
+	kevin.ruscitti@.com, patrice.mims@.com, 
+	kelli.stevens@.com, tom.donohoe@.com, 
+	andrew.lewis@.com, sylvia.pollan@.com, 
+	theresa.branney@.com, martin.cuilla@.com, 
+	geoff.storey@.com, hunter.shively@.com, 
+	mike.grigsby@.com, frank.ermis@.com, 
+	phillip.allen@.com, tori.kuykendall@.com, 
+	matthew.lenhart@.com, steven.south@.com, 
+	jane.tholt@.com, greg.mcclendon@.com, carey.metz@.com, 
+	gary.lamphier@.com, jim.schwieger@.com, 
+	eric.bass@.com, elsa.villarreal@.com, 
+	robert.shiring@.com, brad.horn@.com, 
+	gregory.schockling@.com, dan.mccairns@.com, 
+	ragan.bond@.com, joe.parks@.com, robyn.zivic@.com, 
+	thomas.martin@.com, keith.holst@.com, scott.neal@.com, 
+	peter.keavey@.com, dick.jenkins@.com, 
+	andrea.ring@.com
+Subject: TDS RELEASE - T O N I G H T - Thursday 11/16
+Cc: russ.severson@.com, scott.mills@.com, kenny.ha@.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: russ.severson@.com, scott.mills@.com, kenny.ha@.com
+X-From: William E Kasemervisz
+X-To: Crystal Hyde, William Kelly, Kimat Singla, Victor Guggenheim, Darron C Giron, B Scott Palmer, Jackson Logan, Phillip M Love, Kam Keiser, Michelle C Waldhauser, Dawn C Kenne, Monique Sanchez, Jeffrey C Gossett, Chris Walker, Michael Walters, David Baumbach, Martha Stevens, Jay Knoblauh, Dutch Quigley, Sheetal Patel, Jeff Royed, Shawna Johnson, Anne Bike, Jennifer Bagwell, Jody Crook, Denver Plachy, Juana Fayett, Liz Hillman, O'Neal D Winfree, Jeff Royed, Luchas Johnson, Shawna Johnson, Souad Mahmassani, Jason Wolfe, Kyle R Lilly, Robin Rodrigue, Sandra F Brawner, Brad McKay, Fletcher J Sturm, Kevin Ruscitti, Patrice L Mims, Kelli Stevens, Tom Donohoe, Andrew H Lewis, Sylvia S Pollan, Theresa Branney, Martin Cuilla, Geoff Storey, Hunter S Shively, Mike Grigsby, Frank Ermis, Phillip K Allen, Tori Kuykendall, Matthew Lenhart, Steven P South, Jane M Tholt, Greg McClendon, Carey M Metz, Gary W Lamphier, Jim Schwieger, Eric Bass, Elsa Villarreal, Robert Shiring, Brad Horn, Gregory Schockling, Dan McCairns, Ragan Bond, Joe Parks, Robyn Zivic, Thomas A Martin, Keith Holst, Scott Neal, Peter F Keavey, Dick Jenkins, Andrea Ring
+X-cc: Russ Severson, Scott Mills, Kenny Ha
+X-bcc: 
+X-Folder: \Peter_Keavey_Dec2000\Notes Folders\All documents
+X-Origin: Keavey-P
+X-FileName: pkeavey.nsf
+
+A release of TDS will go out tonight (5:00 pm) with the following 
+enhancements.  TDS will be unavailable from 5-6pm tonight & positions will be 
+gone when it comes back.
+
+Position Load
+- Will now be off new TDS Flag on the Port Calc screen.  This is only on the 
+Port Calc Screen we hope to add it to Meta Calc in the next few weeks
+
+Position Manager
+- Added new tab with to show curve values
+
+Deal Ticker
+- Change Deal Value
+ * Current Known Bugs - If you reload a position, deals that have switched 
+desk will not repost
+ * Current month deals that have Settle prices in ERMS & the prices have not 
+been updated in the curve files will value incorrectly
+- Killed deals will show up in changed deals (This includes changing desk)
+ 
+Other improvements have been made to increase speed and reliability.
+
+I will be here tonight & tomorrow morning.  After that call Kenny Ha x30413 
+with any issues.
+
+Bill
+x5-7579

@@ -1,0 +1,1309 @@
+From @..  Sun Jan 18 10:57:12 2015
+Return-Path: <@..>
+X-Original-To: raychant@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B2385DE; Sun, 18 Jan 2015 10:57:12 +0000 (UTC)
+Received: from quinquequinque.delta.eccluster.com (quinquequinque.delta.eccluster.com [195.140.185.55])
+    by .. with SMTP id zyc9fwh4dtavw9qxkxczgnqu9s;
+    for raychant@fs.net;
+    Sun, 18 Jan 2015 10:57:11 +0000 (UTC)
+    (envelope-from g-18148670948-16426-1800416255-1421578613554@bounce.e-mail.thomascook.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.140.185.55;
+    envelope-from=<g-18148670948-16426-1800416255-1421578613554@bounce.e-mail.thomascook.com>;
+    helo=quinquequinque.delta.eccluster.com; mechanism=ip4:195.140.184.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.140.185.55; client-port=46927;
+    syn-fingerprint=14600:45:1:52:M1380,N,N,S,N,W7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.134.1 4.69.134.1 62.140.24.62
+    217.64.171.114; network-path-time=1421578631
+Received: from app04.muc.ec-messenger.com (app04.muc.domeus.com [172.16.8.34])
+	by mta88.muc.domeus.com (READY) with ESMTP id 8743C3000143F
+	for <raychant@fs.net>; Sun, 18 Jan 2015 11:56:53 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=e-mail.thomascook.com; s=ecm1; t=1421578613;
+	bh=kJ2ViQfBBS8Ot1460KCf2VSPEUnNe1H4s0drVNHczlU=;
+	h=Date:From:Reply-To:To:Subject:List-Id:List-Help;
+	b=pmewm0xik2czU735VwiMH57F7u1/JsuGycqrk33Gccl860OCYj1HKPWVRBwjKYfo8
+	 I3aavcYM9I9Fg29RFz6ZIdIeh6SuslkHCccbVbFBjAa2FcNtudhqQGjyqD1dpJW/Jw
+	 OGAl5JyM8AM0jjGT+Xx323roGB/tumfibhjnmiRI=
+Date: Sun, 18 Jan 2015 11:56:53 +0100 (CET)
+From: Thomas Cook <@..>
+Reply-To: @..
+To: @..
+Message-ID: <chax95.i52b7acyh8wtwvl@e-mail.thomascook.com>
+Subject: =?UTF-8?Q?The_more_you_tell_us=E2=80=A6the_more_you_save?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-eC-messenger-mid: 1800416255
+List-Id: <1800229916.e-mail.thomascook.com>
+X-eC-messenger-cid: 16426
+X-eC-messenger-token: trx62nI8c5904k
+X-eC-messenger-sender-domain: bounce.e-mail.thomascook.com
+X-eC-messenger-sendouttypeid: 0
+X-eC-messenger-addresseeroleid: 1
+X-eC-messenger-recipienttypeid: 2
+List-Help: complaint@intl.teradatadmc.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-Mailer: eC-Messenger Build 6.90.905.1
+X-eC-messenger-email: raychant@fs.net
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1, user-scalable=3D0" />
+<title></title>
+<style type=3D"text/css">=20
+/* Email Client BUG Fixes */
+=20
+.ReadMsgBody, .ExternalClass {
+=09width: 100
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+=09line-height: 100}
+body {
+=09-webkit-text-size-adjust: none;
+=09-ms-text-size-adjust: none;
+}
+body {
+=09margin: 0;
+=09padding: 0;
+}
+table {
+=09border-spacing: 0;
+=09border-collapse: collapse;
+=09mso-table-lspace: 0pt;
+=09mso-table-rspace: 0pt;
+}
+table td {
+=09border-collapse: collapse;
+}
+img {
+=09border: 0;
+}
+html {
+=09width: 100=09height: 100}
+#emailContainer {
+=09max-width: 620px;
+}
+.applelinks a {
+=09color: #545454 !important;
+=09text-decoration: none !important;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 102=
+4px) {
+a[href^=3D"tel"], a[href^=3D"sms"], a {
+=09color: inherit !important;
+=09cursor: default !important;
+=09text-decoration: none;
+}
+}
+
+@media only screen and (min-width: 620px) {
+table[id=3D"emailContainer"] {
+=09width: 620px;
+}
+}
+
+@media only screen and (max-width: 620px) {
+body {
+=09width: 100=09min-width: 100}
+table[id=3D"emailContainer"] {
+=09width: 100=09max-width: 620px!important;
+}
+}
+
+@media screen and (max-device-width: 620px), screen and (max-width: 620px) =
+{
+/*fluid styles*/
+
+*[class=3Demailwrapto100pc] {
+=09width: 100=09height: auto !important;
+=09max-width: none!important;
+}
+*[class=3Demailwrapto90pc] {
+=09width: 90=09height: auto !important;
+=09max-width: none!important;
+}
+*[class=3Dw10] {
+=09width: 10px !important;
+=09height: auto !important;
+}
+*[class=3Dw20] {
+=09width: 20px !important;
+=09height: auto !important;
+}
+
+*[class=3DmainCol] {
+=09display: table-header-group !important;=20
+=09width:100=09}
+
+*[class=3DsubCol] {
+=09display: table-footer-group !important;=20
+=09width:100=09}
+
+*[class=3Demailwrapto180] {
+=09width: 180px !important;
+=09height: auto !important;
+=09max-width: none!important;
+}
+*[class=3Demailwrapto80] {
+=09width: 80px !important;
+=09height: auto !important;
+=09max-width: none!important;
+}
+*[class=3Demailnomob] {
+=09display: none !important;
+}
+*[class=3Demailcolsplit] {
+=09width: 100=09float: left!important;
+}
+*[class=3Demailcolsplitpb20] {
+=09width: 100=09float: left!important;
+=09padding-bottom: 20px !important;
+}
+*[class=3Dbutton] {
+=09border-radius: 5px !important;
+=09width: 100=09height: auto !important;
+=09max-width: none!important;
+}
+*[class=3Demailcolsplitgrey] {
+=09width: 100=09float: left!important;
+=09background-color: #fafafa!important;
+}
+*[class=3Demailcolsplitborder] {
+=09width: 100=09float: left!important;=20
+=09border-bottom:#eae8e8 thin solid !important;
+}
+*[class=3Demailcolsplitwhite] {
+=09width: 100=09float: left!important;
+=09background-color: #ffffff!important;
+}
+*[class=3Demailcolsplitborder] {
+=09width: 100=09float: left!important;
+=09border-bottom: 1px solid #dedede;
+}
+*[class=3Demailcolsplitborder2] {
+=09width: 100=09float: left!important;
+=09border-bottom: 3px solid #dedede;
+}
+*[class=3Demailfontsize19] {
+=09font-size: 19px!important;
+=09line-height: 26px!important;
+}
+a[class=3Demailmoblink] {
+=09width: 100=09text-decoration: none!important;
+=09padding-top: 8px;
+=09padding-bottom: 8px;
+=09color: #ffffff!important;
+=09background-color: #cccccc;
+=09text-align: center!important;
+=09display: block;
+=09-webkit-border-radius: 3px;
+=09-moz-border-radius: 3px;
+=09border-radius: 3px;
+=09font-weight: bold!important;
+=09font-size: 16px!important;
+}
+*[class=3Dcountdown] {
+=09-webkit-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.2);
+=09-moz-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.2);
+=09box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.2);
+=09margin-bottom: 20px;
+=09display: block;
+=09padding: 5px 0 5px 0;
+}
+*[class=3Dmobtitle] {
+=09font-size: 20px !important;
+=09line-height: 25px;
+}
+*[class=3Dhide] {display:none!important; width:0px !important;}
+
+*[class=3Dshow] {width:100important;}
+=20
+*[class=3Dme] {display:block!important; width:100herit!important; overflow:visible!important;}
+
+*[class=3Dthemoney] {display: block!important; width:100:auto !important;text-align:center!important; float:none!important;}
+
+*[class=3Demailwrapto100pcbggreen] { width:100portant; background-color:#4cc4c5 !important;}
+}
+</style>
+<!--[if mso]>
+<style type=3D"text/css" media=3D"all">
+#outlookfallback {background-color:#4cc4c5 !important;}</style>
+<![endif]-->
+<!--[if gte mso 15]>
+<style type=3D"text/css" media=3D"all">
+tr { font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; }
+</style>
+<![endif]-->
+
+
+</head>
+
+<body margintop=3D"0" marginleft=3D"0" marginright=3D"0" width=3D"100
+<table width=3D"100s=3D"emailnomob" bgcolor=3D"#f7f7f7">
+    <tr>
+      <td style=3D"font-size: 1px; line-height: 1px;"><img src=3D"http://e-=
+mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=
+=3D"15" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td align=3D"center" valign=3D"top"><table width=3D"660" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"20" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"20" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td><table width=3D"100dding=3D"0">
+                <tr>
+                  <td align=3D"left" valign=3D"middle" style=3D"font-size: =
+11px; color: #939393; line-height: 18px; font-family: Arial, Helvetica, san=
+s-serif; text-decoration: none;" class=3D"applelinksheader">Receive a &#163=
+;50 off voucher code&#42; with a few clicks<br />
+                    Having trouble reading this email? View our web version=
+ <a href=3D"http://e-mail.thomascook.com/re?l=3DBD0Itrx62nI8c5904kIi52b79gu=
+I0&u=3DhttpJCI target=3D"_blank" style=3D"font-size: 11px; color: #939393; line-height: 1=
+8px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline;=
+">here</a>. <br />
+                    Add <a href=3D"mailto:travel@e-mail.thomascook.com" sty=
+le=3D"font-size: 11px; color: #939393; line-height: 18px; font-family: Aria=
+l, Helvetica, sans-serif; text-decoration: underline;">travel@e-mail.thomas=
+cook.com</a> to ensure our emails arrive in your inbox.</td>
+                  <td align=3D"right" valign=3D"middle"><table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"25" align=3D"left" valign=3D"top"><img=
+ src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" wid=
+th=3D"25" height=3D"1" border=3D"0" style=3D"display: block;"/></td>
+                        <td align=3D"right" valign=3D"middle"><a href=3D"ht=
+tp://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI0" target=3D"_blank"><i=
+mg src=3D"http://e-mail.thomascook.com/imgproxy/img/669584815/facebook.gif"=
+ width=3D"40" height=3D"32" border=3D"0" style=3D"display: block;"/></a></t=
+d>
+                        <td width=3D"10" align=3D"left" valign=3D"top"><img=
+ src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" wid=
+th=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></td>
+                        <td align=3D"right" valign=3D"middle"><a href=3D"ht=
+tp://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI1" target=3D"_blank"><i=
+mg src=3D"http://e-mail.thomascook.com/imgproxy/img/669584816/twitter.gif" =
+width=3D"40" height=3D"32" border=3D"0" style=3D"display: block;"/></a></td=
+>
+                        <td width=3D"10" align=3D"left" valign=3D"top"><img=
+ src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" wid=
+th=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></td>
+                        <td align=3D"right" valign=3D"middle"><a href=3D"ht=
+tp://e-mail.thomascook.com/re?l=3DBD0Itrx62nI8c5904kIi52b79guI0&u=3Dhttp18004162553&s=3DLGNJACGGOFJNADON" target=3D"_blank"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584817/email.gif" width=3D"40" height=3D"32" border=
+=3D"0" style=3D"display: block;"/></a></td>
+                      </tr>
+                    </table></td>
+                </tr>
+              </table></td>
+            <td width=3D"20" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"20" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td style=3D"font-size: 1px; line-height: 1px;"><img src=3D"http://e-=
+mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=
+=3D"15" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+  </table>
+ =20
+  <table width=3D"100    <tr>
+      <td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"padding-bottom:10px=
+; border-bottom:1px solid #dddddd"><table width=3D"660" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td>
+            =09<!--REVEAL ON MOBILE-->
+
+<!--[if !mso]><!-->
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"display:none;" class=3D"show">
+=09<tr style=3D"width:0; overflow:hidden; float:left; display:none; max-hei=
+ght:0px; mso-hide:all;" class=3D"me">
+=09=09<td class=3D"themoney" align=3D"center">
+                <table width=3D"100dding=3D"0">
+                <tr>
+                  <td align=3D"left" valign=3D"middle"><a href=3D"http://e-=
+mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI2" target=3D"_blank"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584818/logo2.gif" width=3D=
+"260" height=3D"75" border=3D"0" style=3D"display: block;" class=3D"emailwr=
+apto180"/></a></td>
+                  <td align=3D"right" valign=3D"middle"><a href=3D"http://e=
+-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI3" target=3D"_blank"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584819/lets-go.gif" width=
+=3D"140" height=3D"75" border=3D"0" style=3D"display: block;" class=3D"emai=
+lwrapto80"/></a></td>
+                </tr>
+              </table>
+              </td></tr></table>
+
+<!--<![endif]-->
+
+<!--END REVEAL ON MOBILE-->
+                <table width=3D"100dding=3D"0" class=3D"emailnomob">
+                <tr>
+                  <td align=3D"left" valign=3D"middle"><a href=3D"http://e-=
+mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI4" target=3D"_blank"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584818/logo2.gif" width=3D=
+"260" height=3D"75" border=3D"0" style=3D"display: block;" class=3D"emailwr=
+apto180"/></a></td>
+                  <td align=3D"right" valign=3D"middle"><a href=3D"http://e=
+-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI5" target=3D"_blank"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584819/lets-go.gif" width=
+=3D"140" height=3D"75" border=3D"0" style=3D"display: block;" class=3D"emai=
+lwrapto80"/></a></td>
+                </tr>
+              </table>
+            </td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+  <table width=3D"100    <tr>
+      <td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"padding-top:10px; p=
+adding-bottom:10px;"><table width=3D"660" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td align=3D"center" valign=3D"middle"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td align=3D"center" valign=3D"middle" class=3D"" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e-mail.th=
+omascook.com/re?l=3DD0Itrx62nI8c5904kI6" target=3D"_blank" style=3D"font-si=
+ze: 16px; color: #696969; line-height: 23px; font-family: Arial, Helvetica,=
+ sans-serif; text-decoration: none;"><span>Holidays</span></a></td>
+                  <td width=3D"50" class=3D"w20"><img class=3D"w20" src=3D"=
+http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"50=
+" height=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e-mail.th=
+omascook.com/re?l=3DD0Itrx62nI8c5904kI7" target=3D"_blank" style=3D"font-si=
+ze: 16px; color: #696969; line-height: 23px; font-family: Arial, Helvetica,=
+ sans-serif; text-decoration: none;"><span>Last Minute</span></a></td>
+                  <td width=3D"40" class=3D"w20"><img class=3D"w20" src=3D"=
+http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40=
+" height=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e-mail.th=
+omascook.com/re?l=3DD0Itrx62nI8c5904kI8" target=3D"_blank" style=3D"font-si=
+ze: 16px; color: #696969; line-height: 23px; font-family: Arial, Helvetica,=
+ sans-serif; text-decoration: none;"><span>City Breaks</span></a></td>
+                  <td width=3D"40" class=3D"emailnomob"><img src=3D"http://=
+e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" heigh=
+t=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailnomo=
+b" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-family=
+: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e=
+-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kI9" target=3D"_blank" style=3D=
+"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial, He=
+lvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><span>H=
+otels</span></a></td>
+                  <td width=3D"40" class=3D"emailnomob"><img src=3D"http://=
+e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" heigh=
+t=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailnomo=
+b" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-family=
+: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e=
+-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIa" target=3D"_blank" style=3D=
+"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial, He=
+lvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><span>F=
+lights</span></a></td>
+                  <td width=3D"40" class=3D"emailnomob"><img src=3D"http://=
+e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" heigh=
+t=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailnomo=
+b" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-family=
+: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http://e=
+-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIb" target=3D"_blank" style=3D=
+"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial, He=
+lvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><span>C=
+ruise</span></a></td>
+                </tr>
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+ =20
+ =20
+  <table width=3D"100    <tr>
+      <td width=3D"100style=3D"font-size: 1px; line-height: 1px;"><img src=3D"http://e-mail.thoma=
+scook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" borde=
+r=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td width=3D"100 style=3D"font-size: 1px; line-height: 1px;"><img src=3D"http://e-mail.thom=
+ascook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" bord=
+er=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td width=3D"100 style=3D"font-size: 1px; line-height: 1px;"><img src=3D"http://e-mail.thom=
+ascook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" bord=
+er=3D"0" style=3D"display: block;"/></td>
+    </tr>
+  </table>
+ =20
+ =20
+  <table width=3D"100ckground=3D"http://e-mail.thomascook.com/imgproxy/img/669584820/bg.jpg" sty=
+le=3D"background-image:url(http://e-mail.thomascook.com/imgproxy/img/669584=
+820/bg.jpg); background-position:top center; background-repeat:no-repeat;" =
+bgcolor=3D"#f9f4ec" id=3D"outlookfallback">
+    <tr>
+      <td align=3D"center" valign=3D"top" background=3D"http://e-mail.thoma=
+scook.com/imgproxy/img/669584820/bg.jpg" style=3D"background-image:url(http=
+://e-mail.thomascook.com/imgproxy/img/669584820/bg.jpg); background-positio=
+n:top center; background-repeat: repeat-x;">
+     =20
+      <!--intro-->
+     =20
+     <table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"emailwrapto100pcbggreen" >
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td align=3D"left" valign=3D"top"><table width=3D"100=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td width=3D"100                </tr>
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table>
+     <table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td align=3D"left" valign=3D"top"><table width=3D"630" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#d85d43"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=3D"20" borde=
+r=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+                <tr>
+                  <td bgcolor=3D"#d85d43"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" bgcolor=3D"#d85d43" width=3D"100                      <tr>
+                        <td width=3D"20"></td>
+                        <td valign=3D"middle" style=3D"font-size: 26px; col=
+or: #ffffff; line-height: 30px; font-family: Arial, Helvetica, sans-serif; =
+text-decoration: none;" class=3D"mobtitle"><a style=3D"color:#ffffff; text-=
+decoration:none;" href=3D"http://e-mail.thomascook.com/public/profile_edit_=
+2.jsp?tsp=3D1421578612436&custid=3D16426&uid=3D18148670948&sig=3DLDFMPIENOC=
+MKHJCI&for_mid=3D1800416255&mid=3D1800416255&gid=3D1800229916&l=3DD0Itrx62n=
+I8c5904kI&slt=3D1&user_id=3D18148670948&utm_source=3Dtcuk_nurture&utm_mediu=
+m=3Demail&date_sent=3D18-Jan-2015&utm_campaign=3Df1m3" target=3D"_blank">Te=
+ll us what makes a great holiday <br class=3D"emailnomob" />
+                        & enjoy a special treat, on us</a></td>
+                        <td width=3D"10"></td>
+                        <td align=3D"center" valign=3D"top"><img style=3D"d=
+isplay:block;" border=3D"0" src=3D"http://e-mail.thomascook.com/imgproxy/im=
+g/669584821/present_icon.png" width=3D"70" height=3D"70" alt=3D""/></td>
+                        <td width=3D"20"></td>
+                      </tr>
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob"></td>
+                </tr>
+                <tr>
+                  <td bgcolor=3D"#d85d43"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=3D"20" borde=
+r=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+             =20
+              <table width=3D"100ing=3D"0">
+                <tr>
+                  <td>
+                  <table width=3D"620" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" class=3D"emailwrapto100pc">
+           =20
+                <tr>
+                  <td valign=3D"top"><a href=3D"http://e-mail.thomascook.co=
+m/public/profile_edit_2.jsp?tsp=3D1421578612436&custid=3D16426&uid=3D181486=
+70948&sig=3DLDFMPIENOCMKHJCI&for_mid=3D1800416255&mid=3D1800416255&gid=3D18=
+00229916&l=3DD0Itrx62nI8c5904kI&slt=3D1&user_id=3D18148670948&utm_source=3D=
+tcuk_nurture&utm_medium=3Demail&date_sent=3D18-Jan-2015&utm_campaign=3Df1m3=
+" target=3D"_blank"><img style=3D"display:block" class=3D"emailwrapto100pc"=
+ border=3D"0" src=3D"http://e-mail.thomascook.com/imgproxy/img/669584822/be=
+ach-jump.jpg" width=3D"620" height=3D"258" alt=3D""/></a></td>
+                </tr>
+              </table></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+            =20
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+               =20
+                  <tr>
+                    <td width=3D"620" bgcolor=3D"#ffffff">
+                    <table width=3D"620" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" class=3D"emailwrapto100pc">
+    <tr>
+      <td width=3D"20"></td>
+      <td><table width=3D"100=3D"0">
+       <tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px;"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"1" height=3D"20" border=3D"0" style=3D"display: block;"/></t=
+d>
+                              </tr>
+                            =20
+                              <tr>
+                                <td align=3D"left" valign=3D"top" style=3D"=
+font-size: 15px; color: #696969; line-height: 23px; font-family: Arial, Hel=
+vetica, sans-serif; text-decoration: none;" class=3D"applelinks">Just share=
+ what you look for in a holiday and we&#8217;ll give you a <a style=3D"colo=
+r:#696969; text-decoration:none;" href=3D"http://e-mail.thomascook.com/publ=
+ic/profile_edit_2.jsp?tsp=3D1421578612436&custid=3D16426&uid=3D18148670948&=
+sig=3DLDFMPIENOCMKHJCI&for_mid=3D1800416255&mid=3D1800416255&gid=3D18002299=
+16&l=3DD0Itrx62nI8c5904kI&slt=3D1&user_id=3D18148670948&utm_source=3Dtcuk_n=
+urture&utm_medium=3Demail&date_sent=3D18-Jan-2015&utm_campaign=3Df1m3" targ=
+et=3D"_blank"> <b>&#163;50 off voucher code&#42;</b> </a> when you book you=
+r next escape with us.<br />
+<br />
+It only takes a couple of minutes and, in addition to your voucher, means y=
+ou&#8217;ll receive tailor-made updates from us too.</td>
+                              </tr>
+                              <tr>
+                                <td style=3D"font-size: 1px; line-height: 1=
+px;"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"1" height=3D"20" border=3D"0" style=3D"display: block;"/></t=
+d>
+                              </tr>
+                      =20
+                            </table></td>
+      <td width=3D"20"></td>
+    </tr>
+  </tbody>
+</table>
+                   =20
+                    </td>
+                    <td width=3D"10" class=3D"emailnomob"></td>
+                  </tr>
+               =20
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table>
+       =20
+       =20
+        <table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td align=3D"left" valign=3D"top"><table width=3D"630" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+              =20
+                <tr>
+                  <td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" bgcolor=3D"#ffffff" width=3D"100                      <tr>
+                        <td width=3D"10"></td>
+                        <td width=3D"10" class=3D"emailnomob"></td>
+                        <td align=3D"right"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                            <tr>
+                              <td width=3D"3" align=3D"left" valign=3D"top"=
+><img class=3D"emailnomob" style=3D"display:block" border=3D"0" src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584823/green_cta_lhs.png" width=3D=
+"3" height=3D"35" alt=3D""/></td>
+                              <td bgcolor=3D"#91d014"><table class=3D"email=
+wrapto100pc" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#9=
+1d014">
+                                  <tr>
+                                    <td width=3D"10"><img src=3D"http://e-m=
+ail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=
+=3D"33" border=3D"0" style=3D"display: block;"/></td>
+                                    <td height=3D"33" align=3D"center" vali=
+gn=3D"middle" style=3D"font-size: 16px; color: #ffffff; line-height: 23px; =
+font-family: Arial, Helvetica, sans-serif; text-decoration: none; white-spa=
+ce:nowrap;"><b><a href=3D"http://e-mail.thomascook.com/public/profile_edit_=
+2.jsp?tsp=3D1421578612436&custid=3D16426&uid=3D18148670948&sig=3DLDFMPIENOC=
+MKHJCI&for_mid=3D1800416255&mid=3D1800416255&gid=3D1800229916&l=3DD0Itrx62n=
+I8c5904kI&slt=3D1&user_id=3D18148670948&utm_source=3Dtcuk_nurture&utm_mediu=
+m=3Demail&date_sent=3D18-Jan-2015&utm_campaign=3Df1m3" target=3D"_blank" st=
+yle=3D"font-size: 16px; color: #ffffff; line-height: 23px; font-family: Ari=
+al, Helvetica, sans-serif; text-decoration: none;">Send me a &#163;50 vouch=
+er code&#42;</a></b></td>
+                                    <td width=3D"10"></td>
+                                  </tr>
+                                  <tr>
+                                    <td width=3D"100=3D"2" bgcolor=3D"#74a610"><img src=3D"http://e-mail.thomascook.com/imgprox=
+y/img/669584814/spacer.gif" width=3D"1" height=3D"2" border=3D"0" style=3D"=
+display: block;"/></td>
+                                  </tr>
+                                </table></td>
+                              <td width=3D"12" align=3D"right"><img class=
+=3D"emailnomob" style=3D"display:block" border=3D"0" src=3D"http://e-mail.t=
+homascook.com/imgproxy/img/669584824/green_clear_cta_rhs1.png" width=3D"12"=
+ height=3D"35" alt=3D""/></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob"><img style=3D"display:block" border=3D"0" src=3D"http://e-m=
+ail.thomascook.com/imgproxy/img/669584825/green_cta_rhs2.png" width=3D"8" h=
+eight=3D"35" alt=3D""/></td>
+                </tr>
+                <tr>
+                  <td bgcolor=3D"#ffffff"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=3D"20" borde=
+r=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+          =20
+         =20
+                       =20
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td><img src=3D"http://e-mail.thomascook.com/imgproxy/img=
+/669584814/spacer.gif" width=3D"1" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table>
+       =20
+       =20
+       =20
+       =20
+        <table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" class=3D"emailwrapto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td align=3D"left" valign=3D"top"><table width=3D"630" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#ec6e4c"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=3D"20" borde=
+r=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+                <tr>
+                  <td bgcolor=3D"#ec6e4c"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" bgcolor=3D"#ec6e4c" width=3D"100                      <tr>
+                        <td width=3D"20"></td>
+                        <td valign=3D"middle" style=3D"font-size: 26px; col=
+or: #ffffff; line-height: 30px; font-family: Arial, Helvetica, sans-serif; =
+text-decoration: none;" class=3D"mobtitle"><a style=3D"color:#ffffff; text-=
+decoration:none;" href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5=
+904kIc" target=3D"_blank">Great escapes. Every month of the year.</a></td>
+                        <td width=3D"10"></td>
+                        <td align=3D"right" class=3D"emailnomob"></td>
+                      </tr>
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td bgcolor=3D"#ec6e4c"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=3D"20" borde=
+r=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+             =20
+           =20
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#e3e3e3"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc" >
+                <tr>
+                  <td bgcolor=3D"#fcf5dd" width=3D"620" height=3D"20"></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc" >
+                <tr>
+                  <td bgcolor=3D"#fcf5dd"><table width=3D"100" cellspacing=3D"0" cellpadding=3D"0">
+                     =20
+                        <tr>
+                          <td class=3D"emailcolsplitpb20" valign=3D"middle"=
+><table width=3D"100                              <tr>
+                                <td width=3D"20"></td>
+                                <td width=3D"43" valign=3D"middle" align=3D=
+"center"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kId=
+" target=3D"_blank"><img style=3D"display:block" border=3D"0" src=3D"http:/=
+/e-mail.thomascook.com/imgproxy/img/669584826/plane_icon_orange.png" width=
+=3D"43" height=3D"43" alt=3D""/></a></td>
+                                <td width=3D"20"></td>
+                                <td width=3D"389" style=3D"font-size: 13px;=
+ color: #393939; line-height: 23px; font-family: Arial, Helvetica, sans-ser=
+if; text-align:left;"><span style=3D"font-size:18px; line-height:22px;"><a =
+href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIe" target=3D"=
+_blank" style=3D"color:#393939; text-decoration:none;">Where we fly to</a><=
+/span><br />
+                                 From Anchorage (USA) to Zanzibar (Tanzanir=
+) you can choose from destinations the world over.</td>
+                                <td width=3D"22"></td>
+                              </tr>
+                            </table></td>
+                          <td align=3D"right" valign=3D"middle" class=3D"em=
+ailcolsplit"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+                              <tr>
+                                <td width=3D"3" align=3D"right" class=3D"em=
+ailnomob"><img style=3D"display:block" border=3D"0" src=3D"http://e-mail.th=
+omascook.com/imgproxy/img/669584823/green_cta_lhs.png" class=3D"emailnomob"=
+ width=3D"3" height=3D"35" alt=3D""/></td>
+                                <td bgcolor=3D"#91d014"><table class=3D"ema=
+ilwrapto100pc" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"=
+#91d014">
+                                    <tr>
+                                      <td width=3D"10"><img src=3D"http://e=
+-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=
+=3D"33" border=3D"0" style=3D"display: block;"/></td>
+                                      <td height=3D"33" align=3D"center" va=
+lign=3D"middle" style=3D"font-size: 16px; color: #ffffff; line-height: 21px=
+; font-family: Arial, Helvetica, sans-serif; text-decoration: none; white-s=
+pace:nowrap;"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c59=
+04kIf" target=3D"_blank" style=3D"font-size: 16px; color: #ffffff; line-hei=
+ght: 23px; font-family: Arial, Helvetica, sans-serif; text-decoration: none=
+; font-weight: bold;">Read&nbsp;More</a></td>
+                                      <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D"100ht=3D"2" bgcolor=3D"#74a610"><img src=3D"http://e-mail.thomascook.com/imgpr=
+oxy/img/669584814/spacer.gif" width=3D"1" height=3D"2" border=3D"0" style=
+=3D"display: block;"/></td>
+                                    </tr>
+                                  </table></td>
+                                <td width=3D"12" align=3D"right"><img class=
+=3D"emailnomob" style=3D"display:block" border=3D"0" src=3D"http://e-mail.t=
+homascook.com/imgproxy/img/669584824/green_clear_cta_rhs1.png" width=3D"12"=
+ height=3D"35" alt=3D""/></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                     =20
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob" ><img style=3D"display:block" border=3D"0" src=3D"http://e-=
+mail.thomascook.com/imgproxy/img/669584825/green_cta_rhs2.png" width=3D"8" =
+height=3D"35" alt=3D""/></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc" >
+               =20
+                  <tr>
+                    <td bgcolor=3D"#fcf5dd" width=3D"620" height=3D"20"></t=
+d>
+                    <td width=3D"10" class=3D"emailnomob"></td>
+                  </tr>
+               =20
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#e3e3e3"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc" >
+                <tr>
+                  <td bgcolor=3D"#ffffff" width=3D"620" height=3D"20"></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc" >
+                <tr>
+                  <td bgcolor=3D"#ffffff"><table width=3D"100" cellspacing=3D"0" cellpadding=3D"0">
+                     =20
+                        <tr>
+                          <td class=3D"emailcolsplitpb20" valign=3D"middle"=
+><table width=3D"100                              <tr>
+                                <td width=3D"20"></td>
+                                <td width=3D"43" valign=3D"middle" align=3D=
+"center"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIg=
+" target=3D"_blank"><img style=3D"display:block" border=3D"0" src=3D"http:/=
+/e-mail.thomascook.com/imgproxy/img/669584827/anchor_icon_orange.png" width=
+=3D"43" height=3D"43" alt=3D""/></a></td>
+                                <td width=3D"20"></td>
+                                <td width=3D"389" style=3D"font-size: 13px;=
+ color: #393939; line-height: 23px; font-family: Arial, Helvetica, sans-ser=
+if; text-align:left;"><span style=3D"font-size:18px; line-height:22px;"><a =
+href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIh" target=3D"=
+_blank" style=3D"color:#393939; text-decoration:none;">Most popular 1st tim=
+e cruises</a></span><br />
+                                  Get some inspiration for your very first =
+cruise by exploring some of the most popular options.</td>
+                                <td width=3D"22"></td>
+                              </tr>
+                            </table></td>
+                          <td align=3D"right" valign=3D"middle" class=3D"em=
+ailcolsplit"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+                              <tr>
+                                <td width=3D"3" align=3D"right" class=3D"em=
+ailnomob"><img style=3D"display:block" border=3D"0" src=3D"http://e-mail.th=
+omascook.com/imgproxy/img/669584823/green_cta_lhs.png" class=3D"emailnomob"=
+ width=3D"3" height=3D"35" alt=3D""/></td>
+                                <td bgcolor=3D"#91d014"><table class=3D"ema=
+ilwrapto100pc" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"=
+#91d014">
+                                    <tr>
+                                      <td width=3D"10"><img src=3D"http://e=
+-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=
+=3D"33" border=3D"0" style=3D"display: block;"/></td>
+                                      <td height=3D"33" align=3D"center" va=
+lign=3D"middle" style=3D"font-size: 16px; color: #ffffff; line-height: 21px=
+; font-family: Arial, Helvetica, sans-serif; text-decoration: none; white-s=
+pace:nowrap;"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c59=
+04kIi" target=3D"_blank" style=3D"font-size: 16px; color: #ffffff; line-hei=
+ght: 23px; font-family: Arial, Helvetica, sans-serif; text-decoration: none=
+; font-weight: bold;">Read&nbsp;More</a></td>
+                                      <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D"100ht=3D"2" bgcolor=3D"#74a610"><img src=3D"http://e-mail.thomascook.com/imgpr=
+oxy/img/669584814/spacer.gif" width=3D"1" height=3D"2" border=3D"0" style=
+=3D"display: block;"/></td>
+                                    </tr>
+                                  </table></td>
+                                <td width=3D"12" align=3D"right" bgcolor=3D=
+"#ffffff"><img class=3D"emailnomob" style=3D"display:block" border=3D"0" sr=
+c=3D"http://e-mail.thomascook.com/imgproxy/img/669584824/green_clear_cta_rh=
+s1.png" width=3D"12" height=3D"35" alt=3D""/></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                     =20
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob" ><img style=3D"display:block" border=3D"0" src=3D"http://e-=
+mail.thomascook.com/imgproxy/img/669584825/green_cta_rhs2.png" width=3D"8" =
+height=3D"35" alt=3D""/></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+               =20
+                  <tr>
+                    <td bgcolor=3D"#ffffff" width=3D"620" height=3D"20"></t=
+d>
+                    <td width=3D"10" class=3D"emailnomob"></td>
+                  </tr>
+               =20
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#e3e3e3"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#fcf5dd" width=3D"620" height=3D"20"></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#fcf5dd"><table width=3D"100" cellspacing=3D"0" cellpadding=3D"0">
+                     =20
+                        <tr>
+                          <td class=3D"emailcolsplitpb20" valign=3D"middle"=
+><table width=3D"100                              <tr>
+                                <td width=3D"20"></td>
+                                <td width=3D"43" valign=3D"middle" align=3D=
+"center"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIj=
+" target=3D"_blank"><img style=3D"display:block" border=3D"0" src=3D"http:/=
+/e-mail.thomascook.com/imgproxy/img/669584828/hotel_icon_orange.png" width=
+=3D"43" height=3D"43" alt=3D""/></a></td>
+                                <td width=3D"20"></td>
+                                <td width=3D"389" style=3D"font-size: 13px;=
+ color: #393939; line-height: 23px; font-family: Arial, Helvetica, sans-ser=
+if; text-align:left;"><span style=3D"font-size:18px; line-height:22px;"><a =
+href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIk" target=3D"=
+_blank" style=3D"color:#393939; text-decoration:none;">Iconic hotels</a></s=
+pan><br />
+                                 Discover hotels that star in movies, host =
+famous celebrities and are steeped in rich history.</td>
+                                <td width=3D"22"></td>
+                              </tr>
+                            </table></td>
+                          <td align=3D"right" valign=3D"middle" class=3D"em=
+ailcolsplit"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+                              <tr>
+                                <td width=3D"3" align=3D"right" class=3D"em=
+ailnomob"><img style=3D"display:block" border=3D"0" src=3D"http://e-mail.th=
+omascook.com/imgproxy/img/669584823/green_cta_lhs.png" class=3D"emailnomob"=
+ width=3D"3" height=3D"35" alt=3D""/></td>
+                                <td bgcolor=3D"#91d014"><table class=3D"ema=
+ilwrapto100pc" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"=
+#91d014">
+                                    <tr>
+                                      <td width=3D"10"><img src=3D"http://e=
+-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" height=
+=3D"33" border=3D"0" style=3D"display: block;"/></td>
+                                      <td height=3D"33" align=3D"center" va=
+lign=3D"middle" style=3D"font-size: 16px; color: #ffffff; line-height: 21px=
+; font-family: Arial, Helvetica, sans-serif; text-decoration: none; white-s=
+pace:nowrap;"><a href=3D"http://e-mail.thomascook.com/re?l=3DD0Itrx62nI8c59=
+04kIl" target=3D"_blank" style=3D"font-size: 16px; color: #ffffff; line-hei=
+ght: 23px; font-family: Arial, Helvetica, sans-serif; text-decoration: none=
+; font-weight: bold;">Read&nbsp;More</a></td>
+                                      <td width=3D"10"></td>
+                                    </tr>
+                                    <tr>
+                                      <td width=3D"100ht=3D"2" bgcolor=3D"#74a610"><img src=3D"http://e-mail.thomascook.com/imgpr=
+oxy/img/669584814/spacer.gif" width=3D"1" height=3D"2" border=3D"0" style=
+=3D"display: block;"/></td>
+                                    </tr>
+                                  </table></td>
+                                <td width=3D"12" align=3D"right"><img class=
+=3D"emailnomob" style=3D"display:block" border=3D"0" src=3D"http://e-mail.t=
+homascook.com/imgproxy/img/669584824/green_clear_cta_rhs1.png" width=3D"12"=
+ height=3D"35" alt=3D""/></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                     =20
+                    </table></td>
+                  <td width=3D"10" valign=3D"middle"  align=3D"left" class=
+=3D"emailnomob" ><img style=3D"display:block" border=3D"0" src=3D"http://e-=
+mail.thomascook.com/imgproxy/img/669584825/green_cta_rhs2.png" width=3D"8" =
+height=3D"35" alt=3D""/></td>
+                </tr>
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+               =20
+                  <tr>
+                    <td bgcolor=3D"#fcf5dd" width=3D"620" height=3D"20"></t=
+d>
+                    <td width=3D"10" class=3D"emailnomob"></td>
+                  </tr>
+               =20
+              </table>
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td bgcolor=3D"#e3e3e3"><img src=3D"http://e-mail.thomasc=
+ook.com/imgproxy/img/669584814/spacer.gif" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"display: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table>
+            =20
+              <table width=3D"630" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td><img src=3D"http://e-mail.thomascook.com/imgproxy/img=
+/669584814/spacer.gif" width=3D"1" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"/></td>
+                  <td width=3D"10" class=3D"emailnomob"></td>
+                </tr>
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+          </tr>
+        </table>
+       =20
+=09   </td>
+     </tr>
+  </table>
+
+
+
+<!--footer-->
+
+<table width=3D"100
+    <tr>
+      <td bgcolor=3D"#dedede" style=3D"font-size: 1px; line-height: 1px;"><=
+img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" =
+width=3D"1" height=3D"3" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td bgcolor=3D"#ffffff" style=3D"font-size: 1px; line-height: 1px;"><=
+img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" =
+width=3D"1" height=3D"10" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><table width=
+=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwra=
+pto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td align=3D"center" valign=3D"middle"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                <tr>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIm" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>Holidays</span></a></td>
+                  <td width=3D"50" class=3D"emailcolsplit"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"50" he=
+ight=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIn" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>Last Minute</span></a></td>
+                  <td width=3D"40" class=3D"emailcolsplit"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" he=
+ight=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIo" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>City Breaks</span></a></td>
+                  <td width=3D"40" class=3D"emailcolsplit"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" he=
+ight=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIp" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>Hotels</span></a></td>
+                  <td width=3D"40" class=3D"emailcolsplit"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" he=
+ight=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIq" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>Flights</span></a></td>
+                  <td width=3D"40" class=3D"emailcolsplit"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"40" he=
+ight=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                  <td align=3D"center" valign=3D"middle" class=3D"emailcols=
+plit" style=3D"font-size: 16px; color: #696969; line-height: 23px; font-fam=
+ily: Arial, Helvetica, sans-serif; text-decoration: none;"><a href=3D"http:=
+//e-mail.thomascook.com/re?l=3DD0Itrx62nI8c5904kIr" target=3D"_blank" style=
+=3D"font-size: 16px; color: #696969; line-height: 23px; font-family: Arial,=
+ Helvetica, sans-serif; text-decoration: none;" class=3D"emailmoblink"><spa=
+n>Cruise</span></a></td>
+                </tr>
+              </table></td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td bgcolor=3D"#ffffff" style=3D"font-size: 1px; line-height: 1px;"><=
+img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" =
+width=3D"1" height=3D"10" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td bgcolor=3D"#484848" style=3D"font-size: 1px; line-height: 1px;"><=
+img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" =
+width=3D"1" height=3D"20" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+    <tr>
+      <td align=3D"center" valign=3D"top" bgcolor=3D"#484848"><table width=
+=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwra=
+pto100pc">
+          <tr>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+            <td align=3D"left" valign=3D"top"><table width=3D"100=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                  <td style=3D"font-size: 1px; line-height: 1px;"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=
+=3D"1" height=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                </tr>
+                <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"font-size: 11p=
+x; color: #cccccc; line-height: 18px; font-family: Arial, Helvetica, sans-s=
+erif; text-decoration: none;" class=3D"applelinksfooter"><strong><span styl=
+e=3D"font-size:13px;">Terms &amp; Conditions:</span></strong><br />
+                                  =20
+                  </td>
+                </tr>
+              </table>
+              <table width=3D"100ing=3D"0">
+                <tr>
+                  <td style=3D"font-size: 1px; line-height: 1px;"><img src=
+=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=
+=3D"1" height=3D"15" border=3D"0" style=3D"display: block;"/></td>
+                </tr>
+                <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"font-size: 11p=
+x; color: #cccccc; line-height: 18px; font-family: Arial, Helvetica, sans-s=
+erif; text-decoration: none;" class=3D"applelinksfooter">&#42; Upon complet=
+ing your preferences, a voucher code will be displayed for =C2=A350 off sel=
+ected Thomas Cook and Airtours package holidays. This voucher code will be =
+valid for a limited time, and terms and conditions will apply, to be detail=
+ed when your voucher code is displayed. Offer can be withdrawn without noti=
+ce. <br /><br />
+
+<strong><span class=3D"applelinks">If you do not wish to receive further pr=
+omotional information from us, please use this  <a target=3D"_blank" href=
+=3D"http://e-mail.thomascook.com/re?l=3DBD0Itrx62nI8c5904kIi52b79guI0&u=3Dh=
+ttp2436ds=3DKENPFMCFIKCONHLN" style=3D"color:#cccccc; font-weight:bold;"><span><fon=
+t style=3D"font-family:Arial, Helvetica, sans-serif; color:#cccccc; font-si=
+ze:11px; text-decoration:underline; line-height:18px;">link</font></span></=
+a> to unsubscribe from this newsletter.</span></strong>
+<br /><br />
+
+Financial Protection : Holidays operated by Thomas Cook Tour Operations Ltd=
+(ABTA V6896) are ATOL protected under ATOL number 1179.
+<br /><br />
+Thomas Cook Retail Limited trading as Thomascook.com ABTA J9375 acts as age=
+ntfor ATOL protected tour operators. Registered Office: The Thomas Cook Bus=
+iness Park, Coningsby Road, Peterborough PE3 8SB Registered in England and =
+Wales No.102630 &copy; Thomas Cook 2014.
+                   =20
+                  </td>
+                </tr>
+              </table>
+              </td>
+            <td width=3D"10" align=3D"left" valign=3D"top"><img src=3D"http=
+://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" width=3D"10" he=
+ight=3D"1" border=3D"0" style=3D"display: block;"/></td>
+            <td width=3D"10" align=3D"left" valign=3D"top" class=3D"emailno=
+mob"><img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer=
+.gif" width=3D"10" height=3D"1" border=3D"0" style=3D"display: block;"/></t=
+d>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td bgcolor=3D"#484848" style=3D"font-size: 1px; line-height: 1px;"><=
+img src=3D"http://e-mail.thomascook.com/imgproxy/img/669584814/spacer.gif" =
+width=3D"1" height=3D"15" border=3D"0" style=3D"display: block;"/></td>
+    </tr>
+  </table>
+
+
+ =20
+<img src=3D"http://e-mail.thomascook.com/tr/p.gif?uid=3D18148670948&mid=3D1=
+800416255&msd=3D1421575303474&st=3D0" width=3D"1" height=3D"1" alt=3D"" /><=
+/body>
+
+</html>
+

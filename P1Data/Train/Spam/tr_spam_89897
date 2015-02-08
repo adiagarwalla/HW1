@@ -1,0 +1,1210 @@
+From @..  Wed Jan 21 19:58:28 2015
+Return-Path: <@..>
+X-Original-To: dave.caroll2240@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id AEFB7E0; Wed, 21 Jan 2015 19:58:28 +0000 (UTC)
+Received: from rev154.email.hsgrp.co.uk (rev154.email.hsgrp.co.uk [212.30.17.154])
+    by .. with SMTP id npiu27d3z7n66ufswdqwcwg7wa;
+    for dave.caroll2240@fs.net;
+    Wed, 21 Jan 2015 19:57:51 +0000 (UTC)
+    (envelope-from hsgrp@email.hsgrp.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=212.30.17.154; envelope-from=<hsgrp@email.hsgrp.co.uk>;
+    helo=rev154.email.hsgrp.co.uk; mechanism=ip4:212.30.17.154
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=212.30.17.154; client-port=8857;
+    syn-fingerprint=64240:113:1:64:M1380,N,N,S,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.44 129.250.4.165 129.250.3.85
+    129.250.6.177 129.250.4.125 129.250.5.197 129.250.5.41 213.130.48.54
+    212.30.0.209 212.30.0.218; network-path-time=1421870271
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=email.healthspan.co.uk;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=xxn0k439ZMtbiaBcdUNIes5Ixan2YaP82XDGCSkQDEc=;
+	b=R9PrN8c7hHmkRPvGm7Xs1rcBQa6zWqrhk8D0nAQ8r+oxTaVHD5L/54eugxWmDZnpDMOy6N5AV014on7v0FNhU4cO5UEen+4G5ugAPSS2JyJAzvPW4XdktuJqGg/aIC94Q0noe1B95xw6Y9LmN1yluhkpYnu26iPdremE3wwTVZw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=email.healthspan.co.uk;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=HEJygwVwW35UQpjK0KZQ5SkBRdZsxxJoABKeTZu2Vgvgkt9e3XgSynsU3KJDVJG/wFOxXrujK3GKmhxF69WKaio7vSi9is9fXrSnqqi73AOeA0fCh796rixCO63gUDiSTm5O7bkBP9UKfRZ4sxjyiG7h/qI120RmSx/DcKr/KpA=
+From: "Healthspan" <@..>
+Date: Wed, 21 Jan 2015 19:54:50 GMT
+Subject: Healthspan January Newsletter
+To: <@..>
+Reply-To: "Healthspan" <@..>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 6.0.2.6820
+Message-ID: <NM619807CDD09684E62neolane@email.hsgrp.co.uk>
+List-Unsubscribe: <http://email.healthspan.co.uk/webApp/prefsHs?id=m6u4WFPContent-Type: multipart/alternative;
+	boundary="----=_NextPart_867_27993771.27993771"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_867_27993771.27993771
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Are you having trouble reading this email? 
+Click here to read it online http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f40&p1=97441e71b612f2616b 
+
+Healthspan - Nutrition for a healthy lifespan
+
+Home - http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f41
+Quick Shop - http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f42
+Products A-Z - http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f43
+ 
+---------------------------------
+
+Christmas Survival Toolkit
+ 
+Christmas is fast approaching and that means lots of food, drink and busy 
+days. Read Robert Hobson's helpful guide to how you can be aware of your 
+health and still enjoy the festivities!  
+
+Read more - http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f44
+
+---------------------------------
+
+FREEPHONE 0800 73 123 77 | http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f45
+
+---------------------------------
+
+Email code: EYJAD1
+
+This email was sent to dave.caroll2240@fs.net because you have previously ordered from Healthspan or Healthy Direct
+or have signed up to receive our email newsletters.
+
+Healthspan never pass your information to 3rd parties, except to process 
+your order. If you no longer wish to receive this newsletter please update 
+your preferences or unsubscribe - http://email.healthspan.co.uk/r/?id=t19807cdd,9684e62,96c1f46&p1=m6u4WFP
+Healthspan Ltd, PO Box 425, Healthspan House, The Grange, St Peter Port, Guernsey, GY1 3WU 
+Registered in Guernsey No. 19775.
+
+© 2014 Healthspan Limited. All rights reserved.
+
+customercare@healthspan.co.uk | www.healthspan.co.uk | 0800 73 123 77
+
+------=_NextPart_867_27993771.27993771
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <title>Healthspan</title>
+    <style type=3D"text/css">
+      #outlook a {padding:0;}
+      body{width:100ize-adjust:100      .ExternalClass {width:100      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass=
+ font, .ExternalClass td, .ExternalClass div {line-height: 100      #backgroundTable {margin:0; padding:0; width:100ight: 100      img {outline:none; text-decoration:none;border:none; -ms-interpolatio=
+n-mode: bicubic;}
+      a img {border:none;}
+      .image_fix {display:block;}
+      p {margin: 0px 0px !important;}
+      table td {border-collapse: collapse;}
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; }
+      a {color: #0a8cce;text-decoration: underline!important;}
+      table[class=3Dfull] { width: 100      @media only screen 
+      and (max-width: 1920px)
+      and (min-width: 641px) {
+      td[class=3Ddesktop-hide]{display: none!important;}
+      }
+      @media only screen and (max-width: 640px) {
+      a[href^=3D"tel"], a[href^=3D"sms"] {
+      text-decoration: none;
+      color: #0a8cce;
+      pointer-events: none;
+      cursor: default;
+      }
+      .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+      text-decoration: default;
+      color: #0a8cce !important;
+      pointer-events: auto;
+      cursor: default;
+      }
+      table[class=3Ddevicewidth] {width: 440px!important;text-align:center!=
+important;}
+      table[class=3Ddevicewidthinner] {width: 420px!important;text-align:ce=
+nter!important;}  
+      td[class=3D"logo"]{padding:10px 0 5px 0!important;margin: 0 auto !imp=
+ortant;}
+      img[class=3D"logo"]{padding:0!important;margin: 0 auto !important;}
+    td[class=3D"menu"]{text-align:center !important; padding: 10px 0 10px 1=
+7px !important;}
+      td[class=3Dtexttitle1] {padding:0 0 0 0!important;text-align:center!i=
+mportant;}    
+    img[class=3Dbanner] {width: 440px!important;height:75px!important;}
+       img[class=3Dne] {padding:0 0 20px 0!important;width: 121px!important=
+;height:160px!important;}
+      td[class=3Dtext] {padding:0 0 0 0!important;text-align:center!importa=
+nt;} 
+          td[class=3Dtext1] {padding:0 0 10px 0!important;text-align:center=
+!important;}  
+      td[class=3Dtexttitle2] {padding:0 0 10px 0!important;text-align:cente=
+r!important;}   
+      img[class=3Dcolimg2] {!important;width: 270px!important;height:136x!i=
+mportant;}
+      td[class=3Dreadmore] {padding:0 0 20px 0!important;text-align:center!=
+important;}
+    td[class=3D"www"]{padding:0 0 10px 175px!important;margin: 0 auto !impo=
+rtant;}  
+      td[class=3D"social"]{text-align:center !important; padding: 0 0 5px 0=
+px !important;}
+      }
+      @media only screen and (max-width: 480px) {
+  
+      a[href^=3D"tel"], a[href^=3D"sms"] {
+      text-decoration: none;
+      color: #0a8cce;
+      pointer-events: none;
+      cursor: default;
+      }
+      .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+      text-decoration: default;
+      color: #0a8cce !important; 
+      pointer-events: auto;
+      cursor: default;
+      }
+    td[class=3Dmobile-hide]{display:none!important;}
+      table[class=3Ddevicewidth] {width: 280px!important;text-align:center!=
+important;}
+      table[class=3Ddevicewidthinner] {width: 260px!important;text-align:ce=
+nter!important;}
+      td[class=3Dtexttitle1] {padding:0 0 0 0!important;text-align:center!i=
+mportant;}        
+      img[class=3Dbanner] {width: 270px!important;height:46px!important;}
+      td[class=3Dtext] {padding:0 0 0 0!important;text-align:center!importa=
+nt;}
+    td[class=3Dtexttitle2] {padding:0 0 0 0!important;text-align:center!imp=
+ortant;}
+      img[class=3Dcolimg2] {width: 270px!important;height:160px!important;}
+     img[class=3Dne] {padding:0 0 20px 0!important;width: 121px!important;h=
+eight:160px!important;}
+      td[class=3Dreadmore] {padding:0 0 20px 0!important;text-align:center!=
+important;}
+      td[class=3D"www"]{padding:0 0 10px 95px!important;margin: 0 auto !imp=
+ortant;}
+      }
+    </style>
+  </head>
+  <body>
+    <table width=3D"100id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                        <tr>
+                         <td>
+    <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"devicewidthinner">
+         <tbody>
+            <tr>
+                <td align=3D"center" valign=3D"middle" style=3D"font-size: =
+11px; line-height: 18px; font-family: 'Open Sans', Arial, sans-serif; color=
+:#8d8c8c;"  class=3D"mobile-hide">Happy New Year! |  <a style=3D"color: #42=
+8bca" href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c=
+1f27&p1=3D97441e71b612f2616b" _type=3D"mirrorPage" _label=3D"Mirror page">O=
+nline view</a> | Please add <a href=3D"mailto:newsletter@email.healthspan.c=
+o.uk" style=3D"color:#428bca;">newsletter@email.healthspan.co.uk</a></td>
+            </tr>
+      </tbody>
+    </table>
+</td>
+                        </tr>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td>
+                    <table width=3D"280" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"left" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td valign=3D"middle" width=3D"270" style=3D"padd=
+ing: 0 0 20px 0;" class=3D"logo"><a href=3D"http://email.healthspan.co.uk/r=
+/=3Fid=3Dh19807cdd,9684e62,96c1f28"><img src=3D"http://resources.healthspan=
+=2Eco.uk/email/global/hr_logo.jpg" width=3D"140" height=3D"54" alt=3D"Heal=
+thspan" title=3D"Healthspan" border=3D"0" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none; background-color:#283555; font-fami=
+ly: 'Open Sans', Arial, sans-serif; font-weight:bold; color: #ffffff; font-=
+size: 18px; text-align:center; vertical-align:middle; "class=3D"logo"></a><=
+/td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table width=3D"280" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"right" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width=3D"270" valign=3D"middle" style=3D"font=
+-family: 'Open Sans', Arial, sans-serif; font-size:13px; line-height:16px; =
+color: #0d0d0d; padding: 17px 0 20px 0;" align=3D"right" class=3D"menu" ><a=
+ href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f29"=
+ style=3D"text-decoration: none; color: #000000;">MY ACCOUNT</a>&nbsp;|&nbs=
+p;<a href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1=
+f2a" style=3D"text-decoration: none; color: #000000;">QUICKSHOP A-Z</a></td=
+>
+                          <td width=3D"20"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100id=3D"backgroundTable"  bgcolor=3D"#428bca">
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth" bgcolor=3D"#428bca">
+              <tbody>
+                <tr>
+                  <td align=3D"center" height=3D"10" style=3D"font-size:1px=
+; line-height:1px;">&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"560" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"devicewidthinner">
+                              <tbody>
+                                <tr>
+                                  <td style=3D"font-family: 'Open Sans', Ar=
+ial, sans-serif; font-size: 35px; line-height: 45px; color: #283555; text-a=
+lign:right; font-weight:100;" class=3D"texttitle1">January <strong style=3D=
+"color:#428bca">Newsletter</strong></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                                              <tr>
+                          <td height=3D"5" style=3D"font-size:1px; line-hei=
+ght:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"560" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"devicewidthinner">
+                              <tbody>
+                                <tr>
+                                  <td style=3D"font-family: 'Open Sans', Ar=
+ial, sans-serif; font-size: 18px; line-height: 28px; color: #283555; text-a=
+lign:left; font-weight:bold;" class=3D"texttitle1">Expert Spotlight</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"5" style=3D"font-size:1px; line-hei=
+ght:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100            <tbody>
+                <tr>
+                    <td>
+                        <table width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"center" class=3D"devicewidth">
+                            <tbody>
+                                <tr>
+                                    <td width=3D"100                                        <table width=3D"560" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=3D"devicewidth">
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        
+                                                        <table width=3D"429=
+" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+devicewidth">
+                                                            <tbody>   
+                                                                           =
+                                                 <tr>
+                                                                    <td wid=
+th=3D"100                                                                </tr>
+                                <tr>
+                                  <td class=3D"text1" style=3D"font-family:=
+ 'Open Sans', Arial, sans-serif; font-size: 15px; color: #0d0d0d; text-alig=
+n:left; line-height: 25px;" >Each month we will feature one of our experts =
+and some of their articles. Hannah Bailey runs <a href=3D"http://email.heal=
+thspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f2b" target=3D"_blank" style=
+=3D"color: #0d0d0d; font-weight:bold">Wise Choice Nutrition</a>, has a degr=
+ee in Public Health Nutrition and hosts regular Real Food Clubs to help cli=
+ents break habits and change their diets for an improved lifestyle.<br /><a=
+ href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f2c"=
+ class=3D"href" style=3D"text-decoration: underline; color:#4cae4c; font-we=
+ight:bold;">Read more articles by Hannah</a></td>
+                                                </tr>
+                                                                           =
+                                     <tr>
+                                                                    <td wid=
+th=3D"100                                                                </tr>      
+                                                            </tbody>
+                                                        </table>
+                            <table width=3D"121" align=3D"right" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <table width=3D"121" align=3D"right" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                    <tbody>
+                                      <tr>
+                                        <td style=3D"padding: 0 0 0 0;" wid=
+th=3D"121" align=3D"center" class=3D"devicewidth"><a href=3D"http://email.h=
+ealthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f2d" style=3D"font-size:16p=
+x; line-height:20px; color:#666666;"><img src=3D"http://resources.healthspa=
+n.co.uk/email/newsletter/eyjad1_1.jpg" alt=3D"Expert Spotlight" title=3D"Ex=
+pert Spotlight" width=3D"121" height=3D"160" border=3D"0" style=3D"display:=
+block; border:none;" class=3D"ne"></a></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+
+  <table width=3D"100=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                    <td width=3D"20"></td>
+                     <td width=3D"560" align=3D"center" height=3D"1" bgcolo=
+r=3D"#cccccc" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                     <td width=3D"20"></td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+    <table  width=3D"100 id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                                              <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"560" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"devicewidthinner">
+                              <tbody>
+                                <tr>
+                                  <td style=3D"font-family: 'Open Sans', Ar=
+ial, sans-serif; font-size: 18px; line-height: 28px; color: #283555; text-a=
+lign:left; font-weight:bold;" class=3D"texttitle2">Expert articles</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100=3D"0" border=3D"0" id=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                     <td width=3D"100                        <table bgcolor=3D"#ffffff" width=3D"560" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=3D"devicewidt=
+h">
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <table width=3D"270" align=3D"left" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                       <tbody>
+                                          <tr>
+                                             <td>
+                                                <table width=3D"270" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicew=
+idth">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td width=3D"270" =
+align=3D"center" class=3D"devicewidth"><a href=3D"http://email.healthspan.c=
+o.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f2e"><img src=3D"http://resources.heal=
+thspan.co.uk/email/newsletter/eyjad1_2.jpg" alt=3D"Five foods for a healthy=
+ brain" title=3D"Five foods for a healthy brain" border=3D"0" width=3D"270"=
+ height=3D"160" style=3D"display:block; border:none; outline:none; text-dec=
+oration:none;" class=3D"colimg2"></a></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>
+                                                            <table width=3D=
+"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidthinner">
+                                                               <tbody>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #428bca; text-align:left; line-height: 25px; font-weight:bo=
+ld">Five foods for a healthy brain</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:10=
+0">By Hannah Bailey</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                    <td cla=
+ss=3D"readmore" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-=
+size: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight=
+:bold"><a href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62=
+,96c1f2f" style=3D"text-decoration:underline; color:#4cae4c;">Read more</a>=
+</td>
+                                                                  </tr>
+                                                               </tbody>
+                                                            </table>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width=3D"270" align=3D"right" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                       <tbody>
+
+                                          <tr>
+                                             <td>
+                                                <table width=3D"270" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicew=
+idth">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td width=3D"270" =
+height=3D"160" align=3D"center" class=3D"devicewidth"><a href=3D"http://ema=
+il.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f30"><img src=3D"http:/=
+/resources.healthspan.co.uk/email/newsletter/eyjad1_3.jpg" alt=3D"Magnesium=
+ benefits for women" title=3D"Magnesium benefits for women" border=3D"0" wi=
+dth=3D"270" height=3D"160" style=3D"display:block; border:none; outline:non=
+e; text-decoration:none;" class=3D"colimg2"></a></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>
+                                                            <table width=3D=
+"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidthinner">
+                                                               <tbody>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                     <td class=3D"text" style=3D"font-famil=
+y: 'Open Sans', Arial, sans-serif; font-size: 15px; color: #428bca; text-al=
+ign:left; line-height: 25px; font-weight:bold">Magnesium benefits for women=
+</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:10=
+0">By Hannah Bailey</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:bo=
+ld"><a href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96=
+c1f31" style=3D"text-decoration:underline; color:#4cae4c;">Read more</a></t=
+d>
+                                                                  </tr>
+                                                               </tbody>
+                                                            </table>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td width=3D"100                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<table width=3D"100=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                    <td width=3D"20"></td>
+                     <td width=3D"560" align=3D"center" height=3D"1" bgcolo=
+r=3D"#cccccc" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                     <td width=3D"20"></td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<table  width=3D"100=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                                              <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"560" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"devicewidthinner">
+                              <tbody>
+                                <tr>
+                                  <td style=3D"font-family: 'Open Sans', Ar=
+ial, sans-serif; font-size: 18px; line-height: 28px; color: #283555; text-a=
+lign:left; font-weight:bold;" class=3D"texttitle2">Our latest articles</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+<table width=3D"100=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                     <td width=3D"100                        <table width=3D"560" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"center" class=3D"devicewidth">
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <table width=3D"270" align=3D"left" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                       <tbody>
+                                          <tr>
+                                             <td>
+                                                <table width=3D"270" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicew=
+idth">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td width=3D"270" =
+height=3D"160" align=3D"center" class=3D"devicewidth"><a href=3D"http://ema=
+il.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f32"><img src=3D"http:/=
+/resources.healthspan.co.uk/email/newsletter/eyjad1_5.jpg" alt=3D"What are =
+Nutritional Reference Values=3F" title=3D"What are Nutritional Reference Va=
+lues=3F" border=3D"0" width=3D"270" height=3D"160" style=3D"display:block; =
+border:none; outline:none; text-decoration:none;" class=3D"colimg2"></a></t=
+d>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>
+                                                            <table width=3D=
+"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidthinner">
+                                                               <tbody>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #428bca; text-align:left; line-height: 25px; font-weight:bo=
+ld">What are Nutritional Reference Values=3F</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:10=
+0">
+                                                                       By R=
+ebecca Fredericks 
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"readmore" style=3D"font-family: 'Open Sans', Arial, sans-serif; font=
+-size: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weigh=
+t:bold">
+                                                                        <a =
+href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f33" =
+style=3D"text-decoration:underline; color:#4cae4c;">Read more</a>
+                                                                     </td>
+                                                                  </tr>
+                                                               </tbody>
+                                                            </table>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width=3D"270" align=3D"right" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                       <tbody>
+
+                                          <tr>
+                                             <td>
+                                                <table width=3D"270" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicew=
+idth">
+                                                   <tbody>
+                                                      <tr>
+                                                         <td width=3D"270" =
+height=3D"160" align=3D"center" class=3D"devicewidth"><a href=3D"http://ema=
+il.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f34"><img src=3D"http:/=
+/resources.healthspan.co.uk/email/newsletter/eyjad1_4.jpg" alt=3D"Evening P=
+rimrose Oil and pregnancy" title=3D"Evening Primrose Oil and pregnancy" bor=
+der=3D"0" width=3D"270" height=3D"160" style=3D"display:block; border:none;=
+ outline:none; text-decoration:none;" class=3D"colimg2"></a></td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>
+                                                            <table width=3D=
+"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidthinner">
+                                                               <tbody>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                     <td class=3D"text" style=3D"font-famil=
+y: 'Open Sans', Arial, sans-serif; font-size: 15px; color: #428bca; text-al=
+ign:left; line-height: 25px; font-weight:bold">Evening Primrose Oil and pre=
+gnancy</td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:10=
+0">
+                                                                        By =
+Rebecca Fredericks 
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td wi=
+dth=3D"100                                                                  </tr>
+                                                                  <tr>
+                                                                     <td cl=
+ass=3D"text" style=3D"font-family: 'Open Sans', Arial, sans-serif; font-siz=
+e: 15px; color: #0d0d0d; text-align:left; line-height: 25px; font-weight:bo=
+ld">
+                                                                        <a =
+href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f35" =
+style=3D"text-decoration:underline; color:#4cae4c;">Read more</a>
+                                                                     </td>
+                                                                  </tr>
+                                                               </tbody>
+                                                            </table>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td width=3D"100                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+    <table width=3D"100id=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                    <td width=3D"20"></td>
+                     <td width=3D"560" align=3D"center" height=3D"1" bgcolo=
+r=3D"#cccccc" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                     <td width=3D"20"></td>
+                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<table width=3D"100=3D"backgroundTable">
+   <tbody>
+      <tr>
+         <td>
+            <table width=3D"600" align=3D"center" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" class=3D"devicewidth">
+               <tbody>
+                  <tr>
+                     <td height=3D"20" style=3D"font-size:1px; line-height:=
+1px; mso-line-height-rule: exactly;">&nbsp;</td>                  </tr>
+               </tbody>
+            </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<table width=3D"100=3D"backgroundTable">
+             <tbody>
+                <tr>
+                  <td>
+                      <table width=3D"600" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"center" class=3D"devicewidth">
+                           <tbody>
+                              <tr>
+                                 <td width=3D"100                                    <table width=3D"560" align=3D"center" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"devicewidth">
+                                         <tbody>
+                                            <tr>
+                                               <td align=3D"center"><a href=
+=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f36"><img=
+ width=3D"560" height=3D"95" border=3D"0" alt=3D"Healthspan Heroes" title=
+=3D"Healthspan Heroes" style=3D"display:block; border:none; outline:none; t=
+ext-decoration:none;" src=3D"http://resources.healthspan.co.uk/email/newsle=
+tter/eyjad1_6.jpg" class=3D"banner"></a></td>
+                                            </tr>
+                                         </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                      </table>
+                   </td>
+                </tr>
+           </tbody>
+        </table>
+        <table width=3D"100"0" id=3D"backgroundTable" >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td height=3D"10" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"560" align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"devicewidthinner">
+                              <tbody>
+                                <tr>
+                                  <td class=3D"text" style=3D"font-family: =
+'Open Sans', Arial, sans-serif; font-size: 15px; color: #0d0d0d; text-align=
+:left; line-height: 25px;" >Meet 2015's Healthspan Heroes. From cycling the=
+ plains of Tanzania to climbing Mount Everest, each Healthspan Hero is taki=
+ng on the challenge of a lifetime to help raise money for charities close t=
+o their hearts.&nbsp;&nbsp;<a href=3D"http://email.healthspan.co.uk/r/=3Fid=
+=3Dh19807cdd,9684e62,96c1f37" class=3D"href" style=3D"text-decoration: unde=
+rline; color:#4cae4c;; font-weight:bold">Read more</a></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height=3D"20" style=3D"font-size:1px; line-he=
+ight:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100=3D"0" border=3D"0" id=3D"backgroundTable"  >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                        <tr>
+                          <td>
+                            <table width=3D"280" align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">
+                              <tbody>
+                                <tr>
+                                  <td width=3D"280" align=3D"left" valign=
+=3D"middle" style=3D"font-family: 'Open Sans', Arial, sans-serif; color: #f=
+fffff; font-size:14px; line-height:20px; text-align:left; font-weight:bold"=
+ class=3D"www" ><a href=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cd=
+d,9684e62,96c1f38" style=3D"text-decoration: none; color: #ffffff">> Health=
+span</a> 
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <table width=3D"140" align=3D"right" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                              <tbody>
+                                <tr>
+                                  <td width=3D"140" class=3D"social">
+                                    <table width=3D"140" align=3D"right" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+                                      <tbody>
+                                        <tr>
+                                          <td width=3D"20" height=3D"20" al=
+ign=3D"center"><a target=3D"_blank" href=3D"http://email.healthspan.co.uk/r=
+/=3Fid=3Dh19807cdd,9684e62,96c1f39"><img src=3D"http://resources.healthspan=
+=2Eco.uk/email/global/FB.png" alt=3D"facebook" border=3D"0" width=3D"20" h=
+eight=3D"20" style=3D"display:block; border:none; outline:none; text-decora=
+tion:none;"></a></td>
+                                          <td align=3D"left" width=3D"10" s=
+tyle=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                                          <td width=3D"20" height=3D"20" al=
+ign=3D"center"><a target=3D"_blank" href=3D"http://email.healthspan.co.uk/r=
+/=3Fid=3Dh19807cdd,9684e62,96c1f3a"><img src=3D"http://resources.healthspan=
+=2Eco.uk/email/global/tw.png" alt=3D"twitter" border=3D"0" width=3D"20" he=
+ight=3D"20" style=3D"display:block; border:none; outline:none; text-decorat=
+ion:none;"></a>
+                                          </td>
+                                          <td align=3D"left" width=3D"10" s=
+tyle=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                                          <td width=3D"20" height=3D"20" al=
+ign=3D"center"><a target=3D"_blank" href=3D"http://email.healthspan.co.uk/r=
+/=3Fid=3Dh19807cdd,9684e62,96c1f3b"><img src=3D"http://resources.healthspan=
+=2Eco.uk/email/global/yt.png" alt=3D"youtube" border=3D"0" width=3D"20" he=
+ight=3D"20" style=3D"display:block; border:none; outline:none; text-decorat=
+ion:none;">
+                                            </a>
+                                          </td>
+                                          <td align=3D"left" width=3D"10" s=
+tyle=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                                          <td width=3D"20" height=3D"20" al=
+ign=3D"center">
+                                            <a target=3D"_blank" href=3D"ht=
+tp://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f3c"><img src=
+=3D"http://resources.healthspan.co.uk/email/global/pi.png" alt=3D"pinterest=
+" border=3D"0" width=3D"20" height=3D"20" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"></a>
+                                          </td>
+                                          <td align=3D"left" width=3D"10" s=
+tyle=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+                                          <td width=3D"20" height=3D"20" al=
+ign=3D"center"><a target=3D"_blank" href=3D"http://email.healthspan.co.uk/r=
+/=3Fid=3Dh19807cdd,9684e62,96c1f3d"><img src=3D"http://resources.healthspan=
+=2Eco.uk/email/global/gp.png" alt=3D"google+" border=3D"0" width=3D"20" he=
+ight=3D"20" style=3D"display:block; border:none; outline:none; text-decorat=
+ion:none;"></a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table width=3D"100=3D"0" border=3D"0" id=3D"backgroundTable"  >
+      <tbody>
+        <tr>
+          <td>
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"devicewidth">
+              <tbody>
+                <tr>
+                  <td width=3D"100                    <table width=3D"560" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+                      <tbody>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                        <tr>
+                          <td align=3D"center" valign=3D"middle" style=3D"f=
+ont-family: 'Open Sans', Arial, sans-serif; color: #428bca; font-size:14px;=
+ line-height:20px; text-align:center; font-weight:bold" ><span style=3D"fon=
+t-weight:100">FREEPHONE</span> 0800 73 123 77</td>
+                        </tr>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                        <tr>
+                          <td align=3D"center" valign=3D"middle" ><a href=
+=3D"http://email.healthspan.co.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f3e" targ=
+et=3D"_blank"><img src=3D"http://resources.healthspan.co.uk/email/global/fe=
+efo-review-logo.jpg" width=3D"150" alt=3D"feefo" style=3D"max-width:150px;"=
+ border=3D"0" hspace=3D"0" vspace=3D"0"/></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D"100                        </tr>
+                        <tr>
+                          <td align=3D"center" valign=3D"middle" style=3D"f=
+ont-size: 11px; line-height: 18px; font-family: 'Open Sans', Arial, sans-se=
+rif; color:#8d8c8c; font-weight:100; text-align:center;" >Email code: <font=
+ style=3D"font-weight: bold; font-size: 15px;">EYJAD1</font><br><br>This em=
+ail was sent to dave.caroll2240@fs.net because you have previously ordered =
+from Healthspan or Healthy Direct or have signed up to receive our email ne=
+wsletters.<br><br>Healthspan never pass your information to 3rd parties, ex=
+cept to process your order.<br>If you no longer wish to receive this newsle=
+tter please update your preferences or <a href=3D"http://email.healthspan.c=
+o.uk/r/=3Fid=3Dh19807cdd,9684e62,96c1f3f&p1=3Dm6u4WFPEWpwm=3D"color: #428bca; text-decoration: none;"><span style=3D"color: #428bca; =
+text-decoration: underline;">unsubscribe</span></a>.<br><br>Should you have=
+ an enquiry please email us at <a href=3D"mailto:customercare@healthspan.co=
+=2Euk" style=3D"color: #428bca; text-decoration: none;"><span style=3D"col=
+or: #428bca; text-decoration: underline;">customercare@healthspan.co.uk</sp=
+an></a>.<br><br>Healthspan Ltd, PO Box 425, Healthspan House, The Grange, S=
+t Peter Port, Guernsey, GY1 3WU <br>Registered in Guernsey No. 19775.<br><b=
+r>
+                            &copy; 2015 Healthspan Limited. All rights rese=
+rved.<br><br>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+  <style>@media print{ #_t { background-image: url('https://lc7j3apq.emltrk=
+=2Ecom/lc7j3apq=3Fp&d=3D[UNIQUE]');}} div.OutlookMessageHeader {background=
+-image:url('https://lc7j3apq.emltrk.com/lc7j3apq=3Ff&d=3D[UNIQUE]')} table.=
+moz-email-headers-table {background-image:url('https://lc7j3apq.emltrk.com/=
+lc7j3apq=3Ff&d=3D[UNIQUE]')} blockquote #_t {background-image:url('https://=
+lc7j3apq.emltrk.com/lc7j3apq=3Ff&d=3D[UNIQUE]')} #MailContainerBody #_t {ba=
+ckground-image:url('https://lc7j3apq.emltrk.com/lc7j3apq=3Ff&d=3D[UNIQUE]')=
+}</style><div id=3D"_t"></div>
+<img src=3D"https://lc7j3apq.emltrk.com/lc7j3apq=3Fd=3D[UNIQUE]" width=3D"1=
+" height=3D"1" border=3D"0" />
+</html><img height=3D'0' width=3D'0' alt=3D'' src=3D'http://email.healthspa=
+n.co.uk/r/=3Fid=3Dh19807cdd,9684e62,1'/>
+
+------=_NextPart_867_27993771.27993771--
+

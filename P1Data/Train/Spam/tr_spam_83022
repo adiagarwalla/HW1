@@ -1,0 +1,728 @@
+From @..  Thu Jan 22 13:44:54 2015
+Return-Path: <@..>
+X-Original-To: mikehardy1234@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9155FDE; Thu, 22 Jan 2015 13:44:54 +0000 (UTC)
+Received: from mta116133.shop.cancerresearchuk.org (mta116133.cmail.shop.cancerresearchuk.org [62.27.116.133])
+    by .. with SMTP id r5app8paxhrctw2r5qbcpc76ts;
+    for mikehardy1234@fs.net;
+    Thu, 22 Jan 2015 13:44:54 +0000 (UTC)
+    (envelope-from together@cmail.news.cancerresearchuk.org)
+Received-SPF: Pass; receiver=..;
+    client-ip=62.27.116.133;
+    envelope-from=<together@cmail.news.cancerresearchuk.org>;
+    helo=mta116133.shop.cancerresearchuk.org;
+    mechanism=include:spf_fr.ems01.eu (include:spf.ems01.eu
+    (ip4:62.27.116.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=62.27.116.133; client-port=53669;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.8.190 173.205.63.229
+    213.200.82.2 77.67.73.58 62.27.95.53 62.27.25.122;
+    network-path-time=1421934294
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=0; d=cmail.news.cancerresearchuk.org;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type; i=together@cmail.news.cancerresearchuk.org;
+ bh=8hfSFNjot6ksx4Q84eFFjLFwX3Q=;
+ b=Fj1mvGrZalEI/RNIdlH5D5g/5YAQWT5S13tzy/v0CmXfEclgmZPAjvpbTN2vEl08HhL8rQc1OU5D
+   UzItBteBc3c0WsTbC+QLWM0E1Ldb5DBE9w02rYuwdRXKSBkWo9NTIXy++EQSiWbpXocEEzPVbP7T
+   TPcpete7pS6x4Z0EgeE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=0; d=cmail.news.cancerresearchuk.org;
+ b=GWa+OE8c47qyVW1XtW2VTJ8kBFivhRxyV8PYkrfKYjG58CNnL4AV4cDTpNAHz7gtis/5pTcmpd/L
+   /AYD7BjbXKAKz93CgRBftrd+1KLfA62vt1urQIIqg6H9sRT0X/D8ctLmS2Pna/XEipsfpf9WON8G
+   I9ncKI/ZZZAAn4jXWco=;
+Received: from FF1PMER02 (10.189.0.163) by mta116133.shop.cancerresearchuk.org id ho3vdc1nnc8h for <mikehardy1234@fs.net>; Thu, 22 Jan 2015 13:44:38 +0000 (envelope-from <together@cmail.news.cancerresearchuk.org>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+Errors-to: @..
+Message-ID: <458.17681801.201501221344379887109.0269882465@cmail.news.cancerresearchuk.org>
+List-Unsubscribe: <mailto:unsubscribe-073db86d17656a84eba994aac9a5c23b@cmail.news.cancerresearchuk.org?subject=Unsubscribe>
+X-Mailer: XyzMailer
+X-Xyz-cr: 458
+X-Xyz-cn: 12865
+X-Xyz-bcn: 12712
+X-Xyz-md: 100
+X-Xyz-mg: 17681801
+X-Xyz-et: 120
+X-Xyz-pk: 8041039
+X-Xyz-ct: 30051
+X-Xyz-bct: 29564
+X-PVIQ: 000273-000603-000458-012865-000000
+X-CM-MessageId: 458-12865
+MIME-Version: 1.0
+From: "Cancer Research UK" <@..>
+To: "Kodie" <@..>
+Date: 22 Jan 2015 13:44:38 +0000
+Subject: Kodie, some exciting ways to get involved in 2015
+Content-Type: multipart/alternative;
+ boundary=--boundary_6129219_673438d9-39e9-46cc-ab06-a46e1b130c24
+
+
+----boundary_6129219_673438d9-39e9-46cc-ab06-a46e1b130c24
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+If you are unable to read this message, please click here ( http:=
+//x.cmail.campaign.cancerresearchuk.org/ats/msg.aspx?sg1=3D073db8=
+6d17656a84eba994aac9a5c23b )=0A=0ADear Kodie,=0A=0AThanks to supp=
+orters like you, we've reached a turning point. Today one in two =
+people survive cancer. But we can't stop there. Because for every=
+ person that survives, another doesn't.=0A=0AThat's why we need y=
+our continued help to carry on the fight against cancer in 2015. =
+Whether it's taking on a challenge by signing up to Race for Life=
+ or Tough Mudder, hosting your own fundraising event, or wearing =
+a unity band for World Cancer Day on February 4th - your support =
+matters.=0A=0ABecause if we all do one more thing, together we wi=
+ll bring forward the day that all cancers are cured.=0A=0AGet inv=
+olved: http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?t=3D=
+49520&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|1=
+7681801=0A=0AThank you for all your support,=0A=0AThe Cancer Rese=
+arch UK team=0A=0A=0A=0A--------------------------------=0A=0AWe =
+will cross the finish line together=0A=0ARace for Life, the UK's =
+biggest women-only fundraising event, is back with almost 300 eve=
+nts across the country, including 5k, 10k and our mud obstacle co=
+urse, Pretty Muddy. Join a collective force of women determined t=
+o show cancer that hell hath no fury like a woman in pink.=0A=0AF=
+ind an event near you: http://l.cmail.news.cancerresearchuk.org/r=
+ts/go2.aspx?t=3D49521&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10=
+JyRx&x=3D12865|17681801=0A=0A--------------------------------=0A=0A=
+We will cross cancer out=0A=0AWith the General Election fast appr=
+oaching, you can help save lives now and in the future with just =
+a couple of clicks. In just a few minutes you can send an email t=
+oday and help influence your election candidates to improve early=
+ diagnosis and better access to cancer treatments.=0A=0AEmail you=
+r candidates: http://l.cmail.news.cancerresearchuk.org/rts/go2.as=
+px?t=3D49522&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D=
+12865|17681801=0A=0A--------------------------------=0A=0AWe will=
+ find the energy=0A=0AIf you promised yourself you'd get fit this=
+ year, now's the perfect time to take on Tough Mudder. Tackle thi=
+s challenge of strength, stamina and mental grit all whilst getti=
+ng muddy to help beat cancer sooner.=0A=0AFind a challenge: http:=
+//l.cmail.news.cancerresearchuk.org/rts/go2.aspx?t=3D49523&tp=3Di=
+-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801=0A=0A=
+--------------------------------=0A=0AWe will clear out our wardr=
+obes=0A=0AWhy not put that new year clear out to good use by dona=
+ting your unwanted items to one of our shops. Turn the clothes, a=
+ccessories, books and homeware items you longer need into life-sa=
+ving research.=0A=0AFind your nearest shop: http://l.cmail.news.c=
+ancerresearchuk.org/rts/go2.aspx?t=3D49524&tp=3Di-H43-7O-3LV-1CBq=
+L-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801=0A=0A---------------=
+-----------------=0A=0AWe will bake as many cupcakes as it takes=0A=
+=0AIf you can give up an evening or afternoon, you could hold you=
+r own fundraising event - from a quiz night to a sponsored dinner=
+ party. However you choose to do it, there's so many inspiring wa=
+ys to raise life-saving funds.=0A=0AFundraising ideas: http://l.c=
+mail.news.cancerresearchuk.org/rts/go2.aspx?t=3D49525&tp=3Di-H43-=
+7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801=0A=0A----=
+----------------------------=0A=0AWe will give every moment we ca=
+n spare=0A=0AWe're looking for more volunteers to be the face of =
+our shops on the high street. Meet new people, gain new skills an=
+d join the fight to help bring forward the day that all cancers a=
+re cured.=0A=0AVolunteer in our shops: http://l.cmail.news.cancer=
+researchuk.org/rts/go2.aspx?t=3D49526&tp=3Di-H43-7O-3LV-1CBqL-1w-=
+XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801=0A=0A--------------------=
+------------=0A=0AWe will unite to beat cancer sooner=0A=0AOn Feb=
+ruary 4th we are calling on the nation to unite for World Cancer =
+Day. Pick up a Unity Band from your local Cancer Research UK shop=
+ to show your support.=0A=0AGet a Unity Band: http://l.cmail.news=
+.cancerresearchuk.org/rts/go2.aspx?t=3D49527&tp=3Di-H43-7O-3LV-1C=
+BqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801 )=0A=0A-----------=
+---------------------=0A=0A  Facebook: http://l.cmail.news.cancer=
+researchuk.org/rts/go2.aspx?t=3D49514&tp=3Di-H55-7O-3LV-1CBqL-1w-=
+XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|17681801=0A  Twitter: http://l=
+.cmail.news.cancerresearchuk.org/rts/go2.aspx?t=3D49515&tp=3Di-H5=
+5-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|17681801=0A =
+ Google+: http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?t=
+=3D49516&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D=
+12865|17681801=0A  YouTube: http://l.cmail.news.cancerresearchuk.=
+org/rts/go2.aspx?t=3D49517&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj=
+-1C1jK-28sz41&x=3D12865|17681801=0A=0AYou are playing a crucial r=
+ole in helping us beat cancer sooner, so we'd like to continue to=
+ keep you updated on what we're up to.  You can manage your email=
+ preferences and unsubscribe here: http://l.cmail.news.cancerrese=
+archuk.org/rts/go2.aspx?t=3D49513&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB=
+-1c-7ok-1C1jK-1KXu1F&x=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7ok-1C1jK-=
+1KXu1F|CC115036410|12865|17681801 =0A=0AThis email is from Cancer=
+ Research UK. Our website is www.cancerresearchuk.org =0A=0ACance=
+r Research UK is a registered charity in England and Wales (10894=
+64), Scotland (SC041666) and the Isle of Man (1103).=0AA company =
+limited by guarantee. Registered company in England and Wales (43=
+25234) and the Isle of Man (5713F). =0ARegistered address: Angel =
+Building, 407 St John Street, London EC1V 4AD. =0Ahttp://l.cmail.=
+news.cancerresearchuk.org/rts/go2.aspx?t=3D49518&tp=3Di-H55-7O-3L=
+V-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|17681801=0A
+----boundary_6129219_673438d9-39e9-46cc-ab06-a46e1b130c24
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"=0A=
+   "http://www.w3.org/TR/html4/loose.dtd">=0A<html lang=3D"en">=0A=
+<head>=0A	<meta content=3D"text/html; charset=3Dutf-8" http-equiv=
+=3D"Content-Type" />=0A	<title>Cancer Research UK</title>=0A	<sty=
+le type=3D"text/css">@media only screen and (max-device-width: 48=
+0px) {=0A	     img[id=3D"mainimage"] {=0A	          width: 305px =
+!important;=0A	          height: 110px !important;=0A	     }=0A	 =
+    table[class=3D"table"], td[class=3D"cell"], table[class=3D"th=
+reerowcontainertable"], td[class=3D"threerowcontainercell"], tabl=
+e[class=3D"threerowmoduletable"], td[class=3D"threerowmodulecell"=
+], table[class=3D"threerowmodulepaddingtable"], td[class=3D"three=
+rowmodulepaddingcell"] {=0A	          width: 305px !important;=0A=
+	     }=0A	     table[class=3D"paddedtable"] {=0A	          width=
+: 265px !important;=0A	     }=0A	     td[class=3D"paddedcell"] {=0A=
+	          width: 265px !important;=0A	          text-align: cent=
+er !important;=0A	     }=0A	     table[class=3D"topheading"], td[=
+class=3D"topheading"] {=0A	          width: 265px !important;=0A	=
+          text-align: center !important;=0A	     }=0A	     img[cl=
+ass=3D"shadow"] {=0A	          width: 305px !important;=0A	      =
+    height: 16px !important;=0A	     }=0A	     table[id=3D"logota=
+ble"] {=0A		     width: 265px;=0A	     }=0A	     td[id=3D"logocel=
+l"] {=0A		     text-align: center;=0A	     }=0A	     td[class=3D"=
+squareimagecell"] {=0A		     height: 170px;=0A	     }	 =0A	     i=
+mg[class=3D"threerowmoduleimg"] {=0A		     width: 305px !importan=
+t;=0A		     height: 168px !important;=0A	     }	=0A	     td[class=
+=3D"threecolfloat"] {=0A	         width: 300px !important; =0A	  =
+       float: left; =0A	         display: block;=0A	     }=0A	   =
+  table[class=3D"threecolcontainer"] {=0A		     width: 300px !imp=
+ortant;=0A	     }	    =0A		 table[class=3D"table"], td[class=3D"c=
+ell"], table[class=3D"tworowcontainertable"], td[class=3D"tworowc=
+ontainercell"], table[class=3D"tworowmoduletable"], td[class=3D"t=
+worowmodulecell"], table[class=3D"tworowmodulepaddingtable"], td[=
+class=3D"tworowmodulepaddingcell"] {=0A	          width: 305px !i=
+mportant;=0A	     } img[class=3D"tworowmoduleimg"] {=0A		     wid=
+th: 305px !important;=0A		     height: 167px !important;=0A	     =
+}	=0A	     td[class=3D"twocolfloat"] {=0A	         width: 300px !=
+important; =0A	         float: left; =0A	         display: block;=
+=0A	     }=0A	     table[class=3D"twocolcontainer"] {=0A		     wi=
+dth: 300px !important;=0A	     }	   =0A		  td[class=3D"floatcell"=
+] {=0A	         width: 265px !important; =0A	         float: left=
+; =0A	         display: block;=0A			 text-align: center !importan=
+t;=0A	     }=0A		 td[class=3D"textfloatcell"] {=0A	         width=
+: 265px !important; =0A	         float: left; =0A	         displa=
+y: block;=0A			 text-align: left !important;	=0A		 }=0A      }=0A=
+	</style>=0A</head>=0A<body leftmargin=3D"0" marginheight=3D"0" m=
+arginwidth=3D"0" style=3D"width: 100ze-adjust: none; -webkit-font-smoothing: antialiased;" topmargin=3D=
+"0"><img src=3D"http://l.cmail.news.cancerresearchuk.org/rts/open=
+.aspx?tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx" height=3D"=
+1" width=3D"1" style=3D"display:none"><img height=3D"1" src=3D"ht=
+tp://www.movable-ink-5508.com/p/cp/5c530f860ceac620/o.gif" width=3D=
+"1" />=0A<table bgcolor=3D"#e3e3e3" border=3D"0" cellpadding=3D"1=
+0" cellspacing=3D"0" width=3D"100 bgcolor=3D"#e3e3e3" width=3D"100 bgcolor=3D"#e3e3e3" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"table" width=3D"640">=0A				<tbody>=0A					<tr>=0A		=
+				<td align=3D"center" colspan=3D"3" valign=3D"bottom" width=3D=
+"640"><br />=0A						<font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"1" style=3D"color: rgb(102, 102, 102); line-height: 15px;=
+ font-size: 11px;">Together we will beat cancer sooner.&nbsp;<!--=
+<!--header--></font><font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"1" style=3D"font-size:11px; line-height:15px; color:#66666=
+6;">If you are unable to read this message, please <a href=3D"htt=
+p://x.cmail.campaign.cancerresearchuk.org/ats/msg.aspx?sg1=3D073d=
+b86d17656a84eba994aac9a5c23b" style=3D"color:#666666; text-decora=
+tion:underline;">click here</a></font><!--footer--> </font></td>=0A=
+					</tr>=0A					<tr>=0A						<td class=3D"cell" colspan=3D"3" v=
+align=3D"bottom" width=3D"640"><img alt=3D"" class=3D"shadow" hei=
+ght=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/74635=
+4238.gif" style=3D"display: block;" /></td>=0A					</tr>=0A					<=
+tr>=0A						<td bgcolor=3D"#ffffff" colspan=3D"3">=0A						<table=
+ align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"2=
+0" cellspacing=3D"0" class=3D"table" width=3D"640">=0A							<tbo=
+dy>=0A								<tr>=0A									<td align=3D"left" class=3D"cell" v=
+align=3D"top" width=3D"640">=0A									<table align=3D"left" bgc=
+olor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ id=3D"logotable" width=3D"210">=0A										<tbody>=0A										=
+	<tr>=0A												<td bgcolor=3D"#ffffff" id=3D"logocell" valig=
+n=3D"top" width=3D"210"><a href=3D"http://l.cmail.news.cancerrese=
+archuk.org/rts/go2.aspx?h=3D49528&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB=
+-1c-1C1jK-10JyRx&x=3D12865|17681801"><img alt=3D"Cancer Research =
+UK" border=3D"0" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads=
+/2075522993.gif" /></a></td>=0A											</tr>=0A										</tbo=
+dy>=0A									</table>=0A=0A									<table align=3D"left" bgcol=
+or=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"topheading" width=3D"369">=0A										<tbody>=0A								=
+			<tr>=0A												<td align=3D"right" bgcolor=3D"#ffffff" cla=
+ss=3D"topheading" height=3D"81" valign=3D"middle" width=3D"369"><=
+!--TemplateBeginEditable name=3D"Header" managers=3D""--><font fa=
+ce=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"color: rg=
+b(46, 0, 139); font-size: 15px;"><b><span style=3D"color: rgb(233=
+, 44, 138);">WE WILL</span> BEAT CANCER SOONER</b></font></td>=0A=
+											</tr>=0A										</tbody>=0A									</table>=0A					=
+				</td>=0A								</tr>=0A							</tbody>=0A						</table>=0A		=
+				</td>=0A					</tr>=0A					<tr>=0A						<td bgcolor=3D"#ffffff=
+" colspan=3D"3" valign=3D"top"><!--TemplateBeginEditable name=3D"=
+Header_image" managers=3D""--><a href=3D"http://l.cmail.news.canc=
+erresearchuk.org/rts/go2.aspx?h=3D49520&tp=3Di-H43-7O-3LV-1CBqL-1=
+w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801"><img alt=3D"" id=3D"ma=
+inimage" src=3D"http://wpm.ccmp.eu/wpm/458/News/enewsbanner.jpg" =
+style=3D"border-width: 0px; border-style: solid; width: 640px; he=
+ight: 232px;" /></a><!--TemplateEndEditable--></td>=0A					</tr>=0A=
+					<tr>=0A						<td colspan=3D"3">=0A						<table align=3D"left=
+" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"20" cellspacing=
+=3D"0" class=3D"table" width=3D"640">=0A							<tbody>=0A								=
+<tr>=0A									<td><font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"1" style=3D"color: rgb(102, 102, 102); font-size: 13px;">D=
+ear Kodie,&nbsp;<br />=0A									<br />=0A									<font face=3D=
+"Arial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102=
+, 102, 102); font-size: 13px;">Thanks to supporters like you, we&=
+#39;ve reached a turning point. Today&nbsp;one in&nbsp;two people=
+ survive cancer. But we can&#39;t stop there. Because for every p=
+erson that survives, another doesn&#39;t.<br />=0A									<br />=
+=0A									That&#39;s why we need your continued help to carry o=
+n the fight against cancer in 2015. Whether it&#39;s taking on a =
+challenge by signing up to <a href=3D"http://l.cmail.news.cancerr=
+esearchuk.org/rts/go2.aspx?h=3D49521&tp=3Di-H43-7O-3LV-1CBqL-1w-X=
+jqB-1c-1C1jK-10JyRx&x=3D12865|17681801">Race for Life</a> or <a h=
+ref=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D=
+49523&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|1=
+7681801">Tough Mudder</a>, hosting your own <a href=3D"http://l.c=
+mail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49525&tp=3Di-H43-=
+7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801">fundrais=
+ing event</a>, or&nbsp;wearing&nbsp;a unity band for <a href=3D"h=
+ttp://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49527&tp=
+=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801"=
+>World Cancer Day</a> on February 4th&nbsp;- your support matters=
+.<br />=0A									<br />=0A									Because if we all do one mor=
+e thing, together we will bring forward the day that all cancers =
+are cured.</font></font></td>=0A								</tr>=0A							</tbody>=0A=
+						</table>=0A						</td>=0A					</tr>=0A					<tr>=0A						<td=
+ bgcolor=3D"#ffffff" colspan=3D"3">=0A						<table align=3D"left"=
+ bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"20" cellspacing=3D=
+"0" class=3D"table" width=3D"640">=0A							<tbody>=0A								<tr=
+>=0A									<td align=3D"left" class=3D"textfloatcell" valign=3D=
+"top"><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" styl=
+e=3D"color: rgb(102, 102, 102); font-size: 13px;">Thank you for a=
+ll your support,<br />=0A									<br />=0A									<!--TemplateB=
+eginEditable name=3D"Sign_off" managers=3D""--><font face=3D"Aria=
+l, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102, 102=
+, 102); font-size: 13px;"><b>The Cancer Research UK team</b></fon=
+t><br />=0A									<!--TemplateEndEditable--></font></td>=0A				=
+					<td align=3D"right" class=3D"floatcell"><!--TemplateBeginEdi=
+table name=3D"Call_to_action" managers=3D""--><a href=3D"http://l=
+.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49520&tp=3Di-H4=
+3-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801"><img a=
+lt=3D"" src=3D"http://wpm.ccmp.eu/wpm/458/News/Getinvolvedbutton.=
+jpg" style=3D"border-width: 0px; border-style: solid;" /></a><!--=
+TemplateEndEditable--></td>=0A								</tr>=0A							</tbody>=0A	=
+					</table>=0A						</td>=0A					</tr>=0A					<tr>=0A						<td =
+bgcolor=3D"#e3e3e3" colspan=3D"3" valign=3D"top"><img alt=3D"" cl=
+ass=3D"shadow" height=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/Co=
+ntentUploads/1817042811.gif" /></td>=0A					</tr>=0A					<!--Temp=
+lateBeginRepeat name=3D"RepeatRegion2" managers=3D""--><!-- Start=
+ row of two modules -->=0A					<tr>=0A						<td align=3D"left" bg=
+color=3D"#e3e3e3" colspan=3D"3" width=3D"640">=0A						<table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"twocolcont=
+ainer" width=3D"640">=0A							<tbody>=0A								<tr>=0A									=
+<td align=3D"left" class=3D"twocolfloat" width=3D"330">=0A							=
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"tworowmoduletable" width=3D"310">=0A										<tbody>=0A								=
+			<tr>=0A												<td class=3D"tworowmodulecell" style=3D"lin=
+e-height: 170px;"><!--TemplateBeginEditable name=3D"Double_left_i=
+mage" managers=3D""--><a href=3D"http://l.cmail.news.cancerresear=
+chuk.org/rts/go2.aspx?h=3D49521&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1=
+c-1C1jK-10JyRx&x=3D12865|17681801"><img alt=3D"" class=3D"tworowm=
+oduleimg" src=3D"http://wpm.ccmp.eu/wpm/458/News/R4Lresized.jpg" =
+style=3D"border-width: 0px; border-style: solid; width: 310px; he=
+ight: 170px; display: block;" /></a><!--TemplateEndEditable--></t=
+d>=0A											</tr>=0A											<tr>=0A												<td class=3D=
+"tworowmodulecell">=0A												<table align=3D"left" bgcolor=3D=
+"#ffffff" border=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=
+=3D"tworowmodulepaddingtable" width=3D"310">=0A													<tbod=
+y>=0A														<tr>=0A															<td class=3D"tworowmodul=
+epaddingcell"><!--TemplateBeginEditable name=3D"Double_left_heade=
+r" managers=3D""--><font face=3D"Arial, Helvetica, sans-serif" si=
+ze=3D"1" style=3D"color: rgb(46, 0, 139); font-size: 16px;">We wi=
+ll cross the finish line together</font><br />=0A															<=
+!--TemplateEndEditable--><br />=0A															<font face=3D"Ar=
+ial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102, 1=
+02, 102); font-size: 13px;"><!--TemplateBeginEditable name=3D"Dou=
+ble_left_copy" managers=3D""--><font face=3D"Arial, Helvetica, sa=
+ns-serif" size=3D"1" style=3D"color: rgb(102, 102, 102); font-siz=
+e: 13px;">Race for Life, the UK&#39;s biggest women-only fundrais=
+ing event, is back with almost 300 events across the country,&nbs=
+p;including 5k,10k and our mud obstacle course, Pretty Muddy. Joi=
+n a collective force of women determined to show cancer that hell=
+ hath no fury like a woman in pink.</font></font><br />=0A							=
+								<br />=0A															<img alt=3D"" src=3D"http://wpm.c=
+cmp.eu/wpm/458/ContentUploads/356329666.gif" style=3D"border: 0px=
+ currentColor;" /><!--TemplateBeginEditable name=3D"Double_left_C=
+TA" managers=3D""--><strong><a href=3D"http://l.cmail.news.cancer=
+researchuk.org/rts/go2.aspx?h=3D49521&tp=3Di-H43-7O-3LV-1CBqL-1w-=
+XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801" style=3D"color: rgb(102,=
+ 102, 102); font-size: 14px; text-decoration: none;"><span style=3D=
+"color: rgb(102, 102, 102);"><font face=3D"Arial, Helvetica, sans=
+-serif" size=3D"1" style=3D"text-align: center; color: rgb(102, 1=
+02, 102); font-size: 14px;">Find an event near you</font></span><=
+/a></strong><br />=0A															<!--TemplateEndEditable--></t=
+d>=0A														</tr>=0A													</tbody>=0A												</=
+table>=0A												</td>=0A											</tr>=0A											<tr>=0A=
+												<td class=3D"tworowmodulecell"><img alt=3D"" height=3D=
+"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/UploadedCon=
+tent_3435/img/1323927034.gif" style=3D"display: block;" /></td>=0A=
+											</tr>=0A										</tbody>=0A									</table>=0A					=
+				</td>=0A									<td align=3D"left" class=3D"twocolfloat" wid=
+th=3D"310">=0A									<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tworowmoduletable" width=3D"310">=0A						=
+				<tbody>=0A											<tr>=0A												<td class=3D"tworowmo=
+dulecell" style=3D"line-height: 170px;" width=3D"310"><span class=
+=3D"tworowmodulecell" style=3D"line-height: 170px;"><!--TemplateB=
+eginEditable name=3D"Double_right_image" managers=3D""--><a href=3D=
+"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49522&=
+tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|1768180=
+1"><img alt=3D"" class=3D"tworowmoduleimg" src=3D"http://wpm.ccmp=
+.eu/wpm/458/News/CrossCancerOutresized.jpg" style=3D"border-width=
+: 0px; border-style: solid; width: 310px; height: 170px; display:=
+ block;" /></a><!--TemplateEndEditable--></span></td>=0A									=
+		</tr>=0A											<tr>=0A												<td class=3D"tworowmodule=
+cell">=0A												<table align=3D"left" bgcolor=3D"#ffffff" bo=
+rder=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"tworowmo=
+dulepaddingtable" width=3D"310">=0A													<tbody>=0A							=
+							<tr>=0A															<td class=3D"tworowmodulepaddingcell=
+"><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D=
+"color: rgb(46, 0, 139); font-size: 16px;"><!--TemplateBeginEdita=
+ble name=3D"Double_right_header" managers=3D""--><font face=3D"Ar=
+ial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(46, 0,=
+ 139); font-size: 16px;">We will&nbsp;cross cancer out</font></fo=
+nt><br />=0A															<br />=0A															<font face=3D"=
+Arial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102,=
+ 102, 102); font-size: 13px;"><!--TemplateBeginEditable name=3D"D=
+ouble_right_copy" managers=3D""--><font face=3D"Arial, Helvetica,=
+ sans-serif" size=3D"1" style=3D"color: rgb(102, 102, 102); font-=
+size: 13px;">With the General Election fast approaching, you can =
+help save lives now and in the future with just a couple of click=
+s. In just a few minutes you can send an email today&nbsp;and hel=
+p influence your election candidates to improve early diagnosis a=
+nd better access to cancer treatments.</font></font><br />=0A				=
+											<br />=0A															<img alt=3D"" src=3D"http://wp=
+m.ccmp.eu/wpm/458/ContentUploads/356329666.gif" style=3D"border: =
+0px currentColor;" /><!--TemplateBeginEditable name=3D"Double_rig=
+ht_CTA" managers=3D""--><a href=3D"http://l.cmail.news.cancerrese=
+archuk.org/rts/go2.aspx?h=3D49522&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB=
+-1c-1C1jK-10JyRx&x=3D12865|17681801" style=3D"color: rgb(102, 102=
+, 102); font-size: 14px; text-decoration: none;"><font face=3D"Ar=
+ial, Helvetica, sans-serif" size=3D"1" style=3D"text-align: cente=
+r; color: rgb(102, 102, 102); font-size: 14px;"><b>Email your can=
+didates</b></font></a><br />=0A															<!--TemplateEndEdit=
+able--></td>=0A														</tr>=0A													</tbody>=0A				=
+								</table>=0A												</td>=0A											</tr>=0A							=
+				<tr>=0A												<td class=3D"tworowmodulecell"><img alt=3D=
+"" height=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads=
+/UploadedContent_3435/img/1323927034.gif" style=3D"display: block=
+;" /></td>=0A											</tr>=0A										</tbody>=0A									</t=
+able>=0A									</td>=0A								</tr>=0A							</tbody>=0A						=
+</table>=0A						</td>=0A					</tr>=0A					<!-- Finish row of two=
+ modules --><!--TemplateEndRepeat--><!--TemplateBeginRepeat name=3D=
+"RepeatRegion2" managers=3D""--><!-- Start row of two modules -->=
+=0A					<tr>=0A						<td align=3D"left" bgcolor=3D"#e3e3e3" colsp=
+an=3D"3" width=3D"640">=0A						<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"twocolcontainer" width=3D"640">=0A=
+							<tbody>=0A								<tr>=0A									<td align=3D"left" class=
+=3D"twocolfloat" width=3D"330">=0A									<table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"tworowmoduletable" wid=
+th=3D"310">=0A										<tbody>=0A											<tr>=0A												<=
+td class=3D"tworowmodulecell" style=3D"line-height: 170px;"><!--T=
+emplateBeginEditable name=3D"Double_left_image" managers=3D""--><=
+a href=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=
+=3D49523&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D1286=
+5|17681801"><img alt=3D"" class=3D"tworowmoduleimg" src=3D"http:/=
+/wpm.ccmp.eu/wpm/458/News/ToughMudderHHEdit.jpg" style=3D"border-=
+width: 0px; border-style: solid; width: 310px; height: 170px; dis=
+play: block;" /></a><!--TemplateEndEditable--></td>=0A											=
+</tr>=0A											<tr>=0A												<td class=3D"tworowmodulece=
+ll">=0A												<table align=3D"left" bgcolor=3D"#ffffff" bord=
+er=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"tworowmodu=
+lepaddingtable" width=3D"310">=0A													<tbody>=0A									=
+					<tr>=0A															<td class=3D"tworowmodulepaddingcell">=
+<!--TemplateBeginEditable name=3D"Double_left_header" managers=3D=
+""--><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=
+=3D"color: rgb(46, 0, 139); font-size: 16px;">We will find the en=
+ergy</font><br />=0A															<!--TemplateEndEditable--><br =
+/>=0A															<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"1" style=3D"color: rgb(102, 102, 102); font-size: 13px;"><=
+!--TemplateBeginEditable name=3D"Double_left_copy" managers=3D""-=
+-><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D=
+"color: rgb(102, 102, 102); font-size: 13px;">If you promised you=
+rself you&#39;d get fit this year, now&#39;s the perfect time to =
+take on Tough Mudder. Tackle&nbsp;this challenge of strength, sta=
+mina and mental grit all whilst getting muddy to help beat cancer=
+ sooner.</font></font><br />=0A															<br />=0A										=
+					<img alt=3D"" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploa=
+ds/356329666.gif" style=3D"border: 0px currentColor;" /><!--Templ=
+ateBeginEditable name=3D"Double_left_CTA" managers=3D""--><a href=
+=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D495=
+23&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|1768=
+1801" style=3D"color: rgb(102, 102, 102); font-size: 14px; text-d=
+ecoration: none;"><font face=3D"Arial, Helvetica, sans-serif" siz=
+e=3D"1" style=3D"text-align: center; color: rgb(102, 102, 102); f=
+ont-size: 14px;"><b>Find a challenge</b></font></a><br />=0A					=
+										<!--TemplateEndEditable--></td>=0A														</tr>=0A=
+													</tbody>=0A												</table>=0A												</td>=0A=
+											</tr>=0A											<tr>=0A												<td class=3D"two=
+rowmodulecell"><img alt=3D"" height=3D"34" src=3D"http://wpm.ccmp=
+.eu/wpm/458/ContentUploads/UploadedContent_3435/img/1323927034.gi=
+f" style=3D"display: block;" /></td>=0A											</tr>=0A							=
+			</tbody>=0A									</table>=0A									</td>=0A									<td a=
+lign=3D"left" class=3D"twocolfloat" width=3D"310">=0A									<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"two=
+rowmoduletable" width=3D"310">=0A										<tbody>=0A											<=
+tr>=0A												<td class=3D"tworowmodulecell" style=3D"line-he=
+ight: 170px;" width=3D"310"><span class=3D"tworowmodulecell" styl=
+e=3D"line-height: 170px;"><!--TemplateBeginEditable name=3D"Doubl=
+e_right_image" managers=3D""--><a href=3D"http://l.cmail.news.can=
+cerresearchuk.org/rts/go2.aspx?h=3D49524&tp=3Di-H43-7O-3LV-1CBqL-=
+1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801"><img alt=3D"" class=3D=
+"tworowmoduleimg" src=3D"http://wpm.ccmp.eu/wpm/458/News/ShopImag=
+eHHEdit.jpg" style=3D"border-width: 0px; border-style: solid; wid=
+th: 310px; height: 170px; display: block;" /></a><!--TemplateEndE=
+ditable--></span></td>=0A											</tr>=0A											<tr>=0A			=
+									<td class=3D"tworowmodulecell">=0A												<table ali=
+gn=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"20" c=
+ellspacing=3D"0" class=3D"tworowmodulepaddingtable" width=3D"310"=
+>=0A													<tbody>=0A														<tr>=0A															<t=
+d class=3D"tworowmodulepaddingcell"><font face=3D"Arial, Helvetic=
+a, sans-serif" size=3D"1" style=3D"color: rgb(46, 0, 139); font-s=
+ize: 16px;"><!--TemplateBeginEditable name=3D"Double_right_header=
+" managers=3D""--><font face=3D"Arial, Helvetica, sans-serif" siz=
+e=3D"1" style=3D"color: rgb(46, 0, 139); font-size: 16px;">We wil=
+l&nbsp;clear out our wardrobes&nbsp;</font></font><br />=0A						=
+									<br />=0A															<font face=3D"Arial, Helvetica, =
+sans-serif" size=3D"1" style=3D"color: rgb(102, 102, 102); font-s=
+ize: 13px;"><!--TemplateBeginEditable name=3D"Double_right_copy" =
+managers=3D""--><font face=3D"Arial, Helvetica, sans-serif" size=3D=
+"1" style=3D"color: rgb(102, 102, 102); font-size: 13px;">Why not=
+ put that new year clear out to good use by donating your unwante=
+d items to one of our shops. Turn the clothes, accessories, books=
+ and homeware items you longer need into life-saving research.</f=
+ont></font><br />=0A															<br />=0A															<img a=
+lt=3D"" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/35632966=
+6.gif" style=3D"border: 0px currentColor;" /><!--TemplateBeginEdi=
+table name=3D"Double_right_CTA" managers=3D""--><a href=3D"http:/=
+/l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49524&tp=3Di-=
+H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801" styl=
+e=3D"color: rgb(102, 102, 102); font-size: 14px; text-decoration:=
+ none;"><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" st=
+yle=3D"text-align: center; color: rgb(102, 102, 102); font-size: =
+14px;"><b>Find your nearest shop</b></font></a><br />=0A									=
+						<!--TemplateEndEditable--></td>=0A														</tr>=0A			=
+										</tbody>=0A												</table>=0A												</td>=0A	=
+										</tr>=0A											<tr>=0A												<td class=3D"twor=
+owmodulecell"><img alt=3D"" height=3D"34" src=3D"http://wpm.ccmp.=
+eu/wpm/458/ContentUploads/UploadedContent_3435/img/1323927034.gif=
+" style=3D"display: block;" /></td>=0A											</tr>=0A								=
+		</tbody>=0A									</table>=0A									</td>=0A								</tr>=0A=
+							</tbody>=0A						</table>=0A						</td>=0A					</tr>=0A			=
+		<!-- Finish row of two modules --><!--TemplateEndRepeat--><!--T=
+emplateBeginRepeat name=3D"RepeatRegion2" managers=3D""--><!-- St=
+art row of two modules -->=0A					<tr>=0A						<td align=3D"left"=
+ bgcolor=3D"#e3e3e3" colspan=3D"3" width=3D"640">=0A						<table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"twocolc=
+ontainer" width=3D"640">=0A							<tbody>=0A								<tr>=0A						=
+			<td align=3D"left" class=3D"twocolfloat" width=3D"330">=0A				=
+					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"tworowmoduletable" width=3D"310">=0A										<tbody>=0A				=
+							<tr>=0A												<td class=3D"tworowmodulecell" style=3D=
+"line-height: 170px;"><!--TemplateBeginEditable name=3D"Double_le=
+ft_image" managers=3D""--><a href=3D"http://l.cmail.news.cancerre=
+searchuk.org/rts/go2.aspx?h=3D49525&tp=3Di-H43-7O-3LV-1CBqL-1w-Xj=
+qB-1c-1C1jK-10JyRx&x=3D12865|17681801"><img alt=3D"" class=3D"two=
+rowmoduleimg" src=3D"http://wpm.ccmp.eu/wpm/458/News/Dinnerpartyr=
+esized.jpg" style=3D"border-width: 0px; border-style: solid; widt=
+h: 310px; height: 170px; display: block;" /></a><!--TemplateEndEd=
+itable--></td>=0A											</tr>=0A											<tr>=0A											=
+	<td class=3D"tworowmodulecell">=0A												<table align=3D"le=
+ft" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"20" cellspaci=
+ng=3D"0" class=3D"tworowmodulepaddingtable" width=3D"310">=0A				=
+									<tbody>=0A														<tr>=0A															<td class=3D=
+"tworowmodulepaddingcell"><!--TemplateBeginEditable name=3D"Doubl=
+e_left_header" managers=3D""--><font face=3D"Arial, Helvetica, sa=
+ns-serif" size=3D"1" style=3D"color: rgb(46, 0, 139); font-size: =
+16px;">We will bake as many cupcakes as it takes</font><br />=0A	=
+														<!--TemplateEndEditable--><br />=0A															<=
+font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"co=
+lor: rgb(102, 102, 102); font-size: 13px;"><!--TemplateBeginEdita=
+ble name=3D"Double_left_copy" managers=3D""--><font face=3D"Arial=
+, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102, 102,=
+ 102); font-size: 13px;">If you can&nbsp;give up&nbsp;an evening =
+or afternoon, you could hold your own fundraising event - from a =
+quiz night&nbsp;to a sponsored dinner party. However you choose t=
+o do it, there&#39;s&nbsp;so many inspiring ways&nbsp;to raise li=
+fe-saving funds.</font><!--TemplateEndEditable--></font><br />=0A=
+															<br />=0A															<img alt=3D"" src=3D"http:=
+//wpm.ccmp.eu/wpm/458/ContentUploads/356329666.gif" style=3D"bord=
+er: 0px currentColor;" /><!--TemplateBeginEditable name=3D"Double=
+_left_CTA" managers=3D""--><a href=3D"http://l.cmail.news.cancerr=
+esearchuk.org/rts/go2.aspx?h=3D49525&tp=3Di-H43-7O-3LV-1CBqL-1w-X=
+jqB-1c-1C1jK-10JyRx&x=3D12865|17681801" style=3D"color: rgb(102, =
+102, 102); font-size: 14px; text-decoration: none;"><font face=3D=
+"Arial, Helvetica, sans-serif" size=3D"1" style=3D"text-align: ce=
+nter; color: rgb(102, 102, 102); font-size: 14px;"><b>Fundraising=
+ ideas</b></font></a><br />=0A															<!--TemplateEndEdita=
+ble--></td>=0A														</tr>=0A													</tbody>=0A					=
+							</table>=0A												</td>=0A											</tr>=0A								=
+			<tr>=0A												<td class=3D"tworowmodulecell"><img alt=3D"=
+" height=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/=
+UploadedContent_3435/img/1323927034.gif" style=3D"display: block;=
+" /></td>=0A											</tr>=0A										</tbody>=0A									</ta=
+ble>=0A									</td>=0A									<td align=3D"left" class=3D"twoc=
+olfloat" width=3D"310">=0A									<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"tworowmoduletable" width=3D"31=
+0">=0A										<tbody>=0A											<tr>=0A												<td class=
+=3D"tworowmodulecell" style=3D"line-height: 170px;" width=3D"310"=
+><span class=3D"tworowmodulecell" style=3D"line-height: 170px;"><=
+!--TemplateBeginEditable name=3D"Double_right_image" managers=3D"=
+"--><a href=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.a=
+spx?h=3D49526&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D=
+12865|17681801"><img alt=3D"" class=3D"tworowmoduleimg" src=3D"ht=
+tp://wpm.ccmp.eu/wpm/458/News/VolunteerResized.jpg" style=3D"bord=
+er-width: 0px; border-style: solid; width: 310px; height: 170px; =
+display: block;" /></a><!--TemplateEndEditable--></span></td>=0A	=
+										</tr>=0A											<tr>=0A												<td class=3D"twor=
+owmodulecell">=0A												<table align=3D"left" bgcolor=3D"#ff=
+ffff" border=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"=
+tworowmodulepaddingtable" width=3D"310">=0A													<tbody>=0A=
+														<tr>=0A															<td class=3D"tworowmodulepadd=
+ingcell"><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" s=
+tyle=3D"color: rgb(46, 0, 139); font-size: 16px;"><!--TemplateBeg=
+inEditable name=3D"Double_right_header" managers=3D""--><font fac=
+e=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb=
+(46, 0, 139); font-size: 16px;">We will give every moment we can =
+spare</font></font><br />=0A															<br />=0A													=
+		<font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D=
+"color: rgb(102, 102, 102); font-size: 13px;"><!--TemplateBeginEd=
+itable name=3D"Double_right_copy" managers=3D""--><font face=3D"A=
+rial, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(102, =
+102, 102); font-size: 13px;">We&#39;re looking for more volunteer=
+s to be the face of our shops on the high street. Meet new people=
+, gain new skills and join the fight to help bring forward the da=
+y that all cancers are cured.</font></font><br />=0A													=
+		<br />=0A															<img alt=3D"" src=3D"http://wpm.ccmp.eu=
+/wpm/458/ContentUploads/356329666.gif" style=3D"border: 0px curre=
+ntColor;" /><!--TemplateBeginEditable name=3D"Double_right_CTA" m=
+anagers=3D""--><a href=3D"http://l.cmail.news.cancerresearchuk.or=
+g/rts/go2.aspx?h=3D49526&tp=3Di-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK=
+-10JyRx&x=3D12865|17681801" style=3D"color: rgb(102, 102, 102); f=
+ont-size: 14px; text-decoration: none;"><font face=3D"Arial, Helv=
+etica, sans-serif" size=3D"1" style=3D"text-align: center; color:=
+ rgb(102, 102, 102); font-size: 14px;"><b>Volunteer in our shops<=
+/b></font></a><br />=0A															<!--TemplateEndEditable--><=
+/td>=0A														</tr>=0A													</tbody>=0A												=
+</table>=0A												</td>=0A											</tr>=0A											<tr>=
+=0A												<td class=3D"tworowmodulecell"><img alt=3D"" heigh=
+t=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/Uploade=
+dContent_3435/img/1323927034.gif" style=3D"display: block;" /></t=
+d>=0A											</tr>=0A										</tbody>=0A									</table>=0A=
+									</td>=0A								</tr>=0A							</tbody>=0A						</table>=
+=0A						</td>=0A					</tr>=0A					<!-- Finish row of two modules=
+ --><!--TemplateEndRepeat--><!-- TemplateBeginRepeat name=3D"Repe=
+atRegion1" --><!-- Start row of one module -->=0A					<tr>=0A				=
+		<td bgcolor=3D"#ffffff" colspan=3D"3">=0A						<table align=3D"=
+left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"20" cellspa=
+cing=3D"0" class=3D"table" width=3D"640">=0A							<tbody>=0A				=
+				<tr>=0A									<td>=0A									<table align=3D"left" bgcolor=
+=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"188">=0A										<tbody>=0A											<tr>=0A												<=
+td class=3D"squareimagecell" valign=3D"top" width=3D"150"><!-- Te=
+mplateBeginEditable name=3D"Single_column_image" --><a href=3D"ht=
+tp://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49527&tp=3D=
+i-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801"><i=
+mg alt=3D"Bike" src=3D"http://wpm.ccmp.eu/wpm/458/News/blueband.j=
+pg" style=3D"border-width: 0px; border-style: solid;" /></a> <!--=
+ TemplateEndEditable --></td>=0A												<td width=3D"38"><img=
+ alt=3D"" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/Upload=
+edContent_3435/img/1644479570.gif" width=3D"38" /></td>=0A							=
+				</tr>=0A										</tbody>=0A									</table>=0A=0A									=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+paddedtable" width=3D"402">=0A										<tbody>=0A											<tr>=
+=0A												<td valign=3D"top" width=3D"402"><font face=3D"Ari=
+al, Helvetica, sans-serif" size=3D"1" style=3D"color: rgb(46, 0, =
+139); font-size: 16px;"><!-- TemplateBeginEditable name=3D"Single=
+_column_header" --><font face=3D"Arial, Helvetica, sans-serif" si=
+ze=3D"1" style=3D"color: rgb(46, 0, 139); font-size: 16px;">We wi=
+ll unite to beat cancer sooner</font></font><br />=0A												=
+<br />=0A												<font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"1" style=3D"color: rgb(102, 102, 102); font-size: 13px;">=
+<!-- TemplateBeginEditable name=3D"Single_Column_Copy" --><font f=
+ace=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"color: r=
+gb(102, 102, 102); font-size: 13px;">On February 4th&nbsp;we are =
+calling on the nation to unite for World Cancer Day. Pick up&nbsp=
+;a Unity Band from your local Cancer Research UK shop to show you=
+r support.</font></font><br />=0A												<br />=0A											=
+	<font face=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"=
+text-align: center; color: rgb(228, 0, 133); font-size: 14px;"><b=
+><img alt=3D"" border=3D"0" src=3D"http://wpm.ccmp.eu/wpm/458/Con=
+tentUploads/UploadedContent_3435/img/356329666.gif" /></b><!-- Te=
+mplateBeginEditable name=3D"Single_column_CTA" --><a href=3D"http=
+://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49527&tp=3D=
+i-H43-7O-3LV-1CBqL-1w-XjqB-1c-1C1jK-10JyRx&x=3D12865|17681801" st=
+yle=3D"color: rgb(102, 102, 102); font-size: 14px; text-decoratio=
+n: none;"><font face=3D"Arial, Helvetica, sans-serif" size=3D"1" =
+style=3D"text-align: center; color: rgb(102, 102, 102); font-size=
+: 14px;"><b>Get&nbsp;a Unity Band</b></font></a><!-- TemplateEndE=
+ditable --></font></td>=0A											</tr>=0A										</tbody>=0A=
+									</table>=0A									</td>=0A								</tr>=0A							</tbo=
+dy>=0A						</table>=0A						</td>=0A					</tr>=0A					<!-- Finis=
+h row of one module -->=0A					<tr>=0A						<td bgcolor=3D"#e3e3e=
+3" colspan=3D"3" valign=3D"top"><img alt=3D"" class=3D"shadow" he=
+ight=3D"34" src=3D"http://wpm.ccmp.eu/wpm/458/ContentUploads/Uplo=
+adedContent_3435/img/1817042811.gif" /></td>=0A					</tr>=0A					=
+<!-- TemplateEndRepeat -->=0A					<tr>=0A						<td colspan=3D"3">=
+<!-- Start Social Sharing Links --><!--footer-->=0A<table align=3D=
+"left" bgcolor=3D"#d1d1d1" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"table" width=3D"640">=0A	<tbody>=0A		<tr>=0A	=
+		<td align=3D"center" class=3D"cell" height=3D"40"><font size=3D=
+"1" style=3D"font-size:0px; line-height:0px;"><a href=3D"http://l=
+.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49514&tp=3Di-H5=
+5-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|17681801" st=
+yle=3D"border:none;" target=3D"_blank"><img alt=3D"Facebook" bord=
+er=3D"0" height=3D"40" src=3D"http://wpm.ccmp.eu/wpm/458/ContentU=
+ploads/UploadedContent_3435/img/1784716677.gif" /></a> <a href=3D=
+"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D49515&=
+tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|176=
+81801" style=3D"border:none;" target=3D"_blank"><img alt=3D"Twitt=
+er" border=3D"0" height=3D"40" src=3D"http://wpm.ccmp.eu/wpm/458/=
+ContentUploads/UploadedContent_3435/img/1866310365.gif" /></a> <a=
+ href=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx?h=3D=
+49516&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D128=
+65|17681801" style=3D"border:none;" target=3D"_blank"><img alt=3D=
+"Google" border=3D"0" height=3D"40" src=3D"http://wpm.ccmp.eu/wpm=
+/458/ContentUploads/UploadedContent_3435/img/673146082.gif" /></a=
+> <a href=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.asp=
+x?h=3D49517&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=
+=3D12865|17681801" style=3D"border:none;" target=3D"_blank"><img =
+alt=3D"Youtube" border=3D"0" height=3D"40" src=3D"http://wpm.ccmp=
+.eu/wpm/458/ContentUploads/UploadedContent_3435/img/648651206.gif=
+" /></a></font></td>=0A		</tr>=0A	</tbody>=0A</table>=0A<!-- Fini=
+sh Social Sharing Links --></td>=0A          </tr>=0A          <t=
+r>=0A             <td align=3D"left" width=3D"540"><font face=3D"=
+Arial, Helvetica, sans-serif" size=3D"1" style=3D"font-size:11px;=
+ line-height:15px; color:#666666;"><br />=0A<font face=3D"Arial, =
+Helvetica, sans-serif" size=3D"1" style=3D"font-size:11px; line-h=
+eight:15px; color:#666666;">You are playing a crucial role in hel=
+ping us beat cancer sooner, so we&#39;d like to continue to keep =
+you updated on what we&#39;re up to. You can manage your email pr=
+eferences and <a href=3D"http://l.cmail.news.cancerresearchuk.org=
+/rts/go2.aspx?h=3D49513&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7ok-1C=
+1jK-1KXu1F&x=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7ok-1C1jK-1KXu1F|CC1=
+15036410|12865|17681801" style=3D"color:#666666; text-decoration:=
+underline;">unsubscribe here.</a></font><br />=0A<br />=0A<font f=
+ace=3D"Arial, Helvetica, sans-serif" size=3D"1" style=3D"font-siz=
+e:11px; line-height:15px; color:#666666;">This email is from Canc=
+er Research UK. Our website is <a href=3D"http://l.cmail.news.can=
+cerresearchuk.org/rts/go2.aspx?h=3D49519&tp=3Di-H55-7O-3LV-1CBqL-=
+1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D12865|17681801" style=3D"color:#6=
+66666; text-decoration:underline;">www.cancerresearchuk.org</a>.<=
+br />=0ACancer Research UK is a registered charity in England and=
+ Wales (1089464), Scotland (SC041666) and the Isle of Man (1103).=
+ A company limited by guarantee. Registered company in England an=
+d Wales (4325234) and the Isle of Man (5713F). Registered address=
+: Angel Building, 407 St John Street, London EC1V 4AD.</font><br>=
+=0A               <br>=0A               <br></td>=0A             =
+<td align=3D"right" valign=3D"top"><img src=3D"http://wpm.ccmp.eu=
+/wpm/458/ContentUploads/54542045.jpg" alt=3D"" width=3D"18" heigh=
+t=3D"10"></td>=0A             <td  align=3D"right" valign=3D"top"=
+><a href=3D"http://l.cmail.news.cancerresearchuk.org/rts/go2.aspx=
+?h=3D49518&tp=3Di-H55-7O-3LV-1CBqL-1w-XjqB-1c-7oj-1C1jK-28sz41&x=3D=
+12865|17681801"><img src=3D"http://wpm.ccmp.eu/wpm/458/ContentUpl=
+oads/760408880.gif" alt=3D"Fundraising Standards Board" border=3D=
+"0"></a></td>=0A          </tr>=0A        </table><!--Footer--></=
+td>=0A					</tr>=0A				</tbody>=0A			</table>=0A			</td>=0A		</tr=
+>=0A	</tbody>=0A</table>=0A</body>=0A</html>=0A
+----boundary_6129219_673438d9-39e9-46cc-ab06-a46e1b130c24--
+
+

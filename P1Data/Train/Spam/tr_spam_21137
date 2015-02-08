@@ -1,0 +1,873 @@
+From @..  Tue Jan 13 19:01:10 2015
+Return-Path: <@..>
+X-Original-To: heathermooney@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 81C55DE; Tue, 13 Jan 2015 19:01:10 +0000 (UTC)
+Received: from mail-183-178.fortozo.net (mail-183-178.fortozo.net [23.253.183.178])
+    by .. with SMTP id dtghe356thqpwv3tcc3k85spwe;
+    for heathermooney@fs.net;
+    Tue, 13 Jan 2015 19:01:10 +0000 (UTC)
+    (envelope-from bounce+8ec89e.e94f91-heathermooney=fs.net@fortozo.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=23.253.183.178;
+    envelope-from=<bounce+8ec89e.e94f91-heathermooney=fs.net@fortozo.net>;
+    helo=mail-183-178.fortozo.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:23.253.183.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=23.253.183.178; client-port=51593;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.110
+    64.125.31.69 64.125.24.110 64.125.24.94 208.185.125.6 0.0.0.0
+    173.203.0.131 50.56.6.131 162.209.19.163; network-path-time=1421175670
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=fortozo.net; q=dns/txt; s=mx;
+ t=1421175654; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=aQGLHHNtb6YHlPuJ3udtp7qoT1cT0OrbEKi/BPtYMLk=; b=OkNP23ySHwx7gjWkCADfZTN7IK2E6I+DSyomYbJcA58zbIX29jngCyLS0gcT1tPqOeXLI7ow
+ 9NGxo0zKAX1mVWTNBqXr+Y9Pkbb/u8HSdfBSawwNSlWh+2mj5Xm96mB7IVbR6SrmlBFk1iHu
+ GQghmuYsbR3NlkbGpGqfzLoF/Vk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=fortozo.net; s=mx; q=dns;
+ h=Date: From: To: Message-Id: Subject: Mime-Version: Content-Type:
+ Sender;
+ b=gF2iyFlM6KqVT5fg1YtwWZiG/uhAPUcwX7NQGvrfGZ/dY/wHCWTCgh0Ohj2xoCtaoZKxt3
+ EQubPYIEnoZ/FqG7ckFEJo6ZkZhYBtQcvTjdHJMwB77OvfDOuJ8U/pWWr6vjj5nM7o1GtWjZ
+ NLaL3MtS2MlJyaRm25HAe8QvFH0yw=
+Received: from mail.fortozo.net (fortozo.net [78.47.177.87]) by
+ mxa.mailgun.org with ESMTP id 54b56b15.6b9e068-in2; Tue, 13 Jan 2015
+ 18:59:33 -0000 (UTC)
+Received: from mail.fortozo.net (localhost [127.0.0.1])	by mail.fortozo.net
+ (Postfix) with ESMTP id 2390A92162	for <heathermooney@fs.net>; Tue, 13 Jan
+ 2015 20:59:32 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fortozo.net;
+ s=dkim;	t=1421175572;
+ bh=aQGLHHNtb6YHlPuJ3udtp7qoT1cT0OrbEKi/BPtYMLk=;	h=Date:From:To:Subject:From;	b=EhPmlfQp8jJVyD4/5GnYaOpmS9Kl7gwGo4YdBMNJysXy3g5xYRiBb24uZbwry3cy1	
+ be70Bi2sBsg42WN0Q/Pg+e49ib7CSPKk3kR0KQ0Asq+ZVs48td+f+7igE0FVZkE2Zl	
+ T2MsfSKtdUPZJeCuwBLlKoG4SeoR1AdYx3atU8mE=
+Date: Tue, 13 Jan 2015 20:59:32 +0200 (EET)
+From: "Offersource and The UK's No.1 Laser Eye Surgery Pr" <@..>
+To: "heathermooney@fs.net" <@..>
+Message-Id: <1575513529.1298897.1421175572144.JavaMail.root@mail.fortozo.net>
+Subject: Still want to win free laser vision correction this month?
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1298895_1615170895.1421175572141"
+X-Mailgun-Sid: WyJiYmU2YyIsICJoZWF0aGVybW9vbmV5QGZzLm5ldCIsICJlOTRmOTEiXQ==
+Sender: @..
+
+------=_Part_1298895_1615170895.1421175572141
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1298896_3260326.1421175572141"
+
+------=_Part_1298896_3260326.1421175572141
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+Optical Express MyVoucherCodes This message contains useful information. If=
+ your e-mail provider blocks the images, please enable them for a complete =
+preview. View in browser ? ? ? ? Are you the January winner? ? ENTER ? Make=
+ laser eye surgery one of your New Year's resolutions for 2015. More than 9=
+9on a survey of 252,179 patient responses, over 99commend Optical Express to their friends and family.** Many treated patient=
+s said it was one of the best decisions that they have made in their life. =
+Why not make it yours! ? ? ? ? UK's Number 1 ? The UK's No.1 Provider of La=
+ser Eye Surgery with over 2 million prores worldwide. ? ? ? 20 / 20 Vis=
+ion ? More than 99g their treatment* ? ? ? Over 99d Optical Express laser eye surgery to their friends and family** ? ? ? ? A=
+ctive Lifestyle Enjoy outdoor pursuits with family and friends... whatever =
+the weather. Remove the inconvenience of wearing glasses or contact lenses.=
+ Wellbeing Improve your self-esteem and confidence. Peace of mind with our =
+fully comprehensive aftercare program. ? ? ? Why not enter our prize draw t=
+o win life-changing treatment this month! ? ? ? *99.1atients achieve 20/20 vision or better following laser eye surgery. Based o=
+n a study of 336,381 patients, September 2014. **Based on a study of 252,17=
+9 patients, September 2014 Click here to Unsubscribe We hope you enjoyed re=
+ceiving this email. If you no longer wish to receive emails from this sende=
+r on behalf of this advertiser, visit this link to unsubscribe. The adverti=
+ser does not manage your subscription. If you prefer not to receive further=
+ communication, here is the way to stop receiving emails. P.O. Box 13629, 1=
+0310 Athens - Greece Our Autumn is the season, when Temptations do our mind=
+s assail. Our fruits are proved in manhood; then Let not sin, death, and he=
+ll prevail. For Winter brings old age and death, If we've good fruits laid =
+up in store; Soon as we gasp our latest _breath_, We land on a _triumphant =
+shore_.FOUR SEASONS OF THE YEAR. On March the twenty-first is Spring, When =
+little birds begin to sing; Begin to build and hatch their brood, And caref=
+ully provide them food. Summer's the twenty-first of June, The cuckoo chang=
+es then his tune; All nature smiles, the fields look gay, The weather's fai=
+r to make the hay. September, on the twenty-third, When sportsmen mark at e=
+v'ry bird, Autumn comes in; the fields are shorn, The fruits are ripe; so i=
+s the corn. Winter's cold frosts and northern blasts, The season is we ment=
+ion last; The date of which in _truth_ we must Fix for December--twenty-fir=
+st.FIVE SENSES. All human beings must (with birds and beasts) To be complet=
+e, five senses have at least: The sense of hearing to the ear's confined; T=
+he eye, we know, for seeing is design'd; The nose to smell an odour sweet o=
+r ill; The tongue to taste what will the belly fill.
+------=_Part_1298896_3260326.1421175572141
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<title>Optical Express MyVoucherCodes</title>
+
+</head>
+<body>
+
+<p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+This message contains useful information. If your e-mail provider blocks th=
+e images, <br> please enable them for a complete preview.
+</p> =20
+
+<style type=3D"text/css">
+/* Client-specific Styles */
+#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" men=
+u link. */
+body{width:100just:100/* Prevent Webkit and Windows Mobile platforms from changing default font s=
+izes, while not breaking desktop design. */
+.ExternalClass {width:100th */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100l to display normal line spacing.*/
+#backgroundTable {margin:0; padding:0; width:100100img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode=
+: bicubic;}
+a img {border:none;}
+.image_fix {display:block; margin:0px; padding:0px;}
+p {margin: 0px 0px !important;}
+table td {border-collapse: collapse;}
+table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0p=
+t; }
+a {color: #CD233E;text-decoration: none;text-decoration:none!important;}
+/*STYLES*/
+table[class=3Dfull] { width: 100/*IPAD STYLES*/
+@media only screen and (max-width: 640px) {
+a[href^=3D"tel"], a[href^=3D"sms"] {
+text-decoration: none;
+color: #CD233E; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+text-decoration: default;
+color: #CD233E !important;
+pointer-events: auto;
+cursor: default;
+}
+table[class=3Ddevicewidth] {width: 440px!important;text-align:center!import=
+ant;}
+table[class=3Ddevicewidthinner] {width: 420px!important;text-align:center!i=
+mportant;}
+img[class=3Dbanner] {width: 440px!important;height:153px!important;}
+img[class=3Dcolimg2] {width: 116px!important;height:102px!important;}
+}
+/*IPHONE STYLES*/
+@media only screen and (max-width: 480px) {
+a[href^=3D"tel"], a[href^=3D"sms"] {
+text-decoration: none;
+color: #CD233E; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+text-decoration: default;
+color: #CD233E !important;
+pointer-events: auto;
+cursor: default;
+}
+table[class=3Ddevicewidth] {width: 280px!important;text-align:center!import=
+ant;}
+table[class=3Ddevicewidthinner] {width: 260px!important;text-align:center!i=
+mportant;}
+img[class=3Dbanner] {width: 280px!important;height:97px!important;}
+img[class=3Dcolimg2] {width: 116px!important;height:102px!important;}
+td[class=3Dmobile-hide]{display:none!important;}
+td[class=3D"padding-bottom25"]{padding-bottom:25px!important;}
+}
+</style>
+
+
+
+<div align=3D"center">
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"100" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">
+<tr>
+<td align=3D"left" valign=3D"middle" style=3D"font-family: Helvetica, arial=
+, sans-serif; font-size: 14px;color: #666666" class=3D"mobile-hide">
+<a target=3D"_blank" href=3D"http://fortozo.net/?a=3D488&c=3D96163&s1=3D437=
+016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938" style=3D"text-deco=
+ration: none; color: #666666">View in browser</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"140" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidth">
+<tr>
+<td width=3D"169" height=3D"45" align=3D"center">
+<div class=3D"imgpop">
+<a target=3D"_blank"  href=3D"http://fortozo.net/?a=3D488&c=3D96163&s1=3D43=
+7016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938">
+<img src=3D"http://fortozo.net/z000177_096349_006" alt=3D"Optical Express" =
+border=3D"0" width=3D"235" height=3D"46" style=3D"display:block; margin:0px=
+; padding:0px; border:none; outline:none; text-decoration:none;" /></a></di=
+v>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<div class=3D"imgpop">
+<a target=3D"_blank"  href=3D"http://fortozo.net/?a=3D488&c=3D96163&s1=3D43=
+7016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938">
+<img width=3D"600" height=3D"208" alt=3D"Win Laser Eye Surgery" border=3D"0=
+" style=3D"display:block; margin:0px; padding:0px; outline:none; text-decor=
+ation:none;" src=3D"http://fortozo.net/z000177_096349_007" class=3D"banner"=
+ /></a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"20" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 30px; color: #44B5F1; text-align:center; line-height: 30px;">
+Are you the <a target=3D"_blank"  href=3D"http://fortozo.net/?a=3D488&c=3D9=
+6163&s1=3D437016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938" style=
+=3D"font-weight:bold">January</a> winner?</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" style=3D"mso-line-height-rule: exactly;" align=3D"center"=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:16px; color:#FFFFFF;">
+<table width=3D"240" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcol=
+or=3D"#00661A" align=3D"center">
+<tr>
+<td height=3D"53" valign=3D"middle" align=3D"center" style=3D"border:1px; c=
+olor:#FFFFFF; border-style:solid;">
+<a target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:28px; color:#FFFFFF;" href=3D"http://fortozo.net/?a=3D488&c=3D96163&=
+s1=3D437016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938"><strong>EN=
+TER</strong></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #666666; text-align:center; line-height: 30px;" >
+<p><strong>Make laser eye surgery one of your New Year's resolutions for 20=
+15.</strong>
+<br>
+<br>
+More than 99 and based on a survey of 252,179 patient responses, over 99ts would recommend Optical Express to their friends and family.**
+<br>
+<br>
+Many treated patients said it was one of the best decisions that they have =
+made in their life. Why not make it yours!</p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"186" align=3D"left" border=3D"0" bordercolor=3D"#47B0EF" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"devicewidth">
+<img src=3D"http://fortozo.net/z000177_096349_002" alt=3D"" border=3D"0" wi=
+dth=3D"37" height=3D"53" style=3D"display:block; margin:0px; padding:0px; b=
+order:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #47B0EF; text-align:center; line-height: 24px;">UK's =
+Number 1</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;">
+The UK's No.1 Provider of Laser Eye Surgery with over 2 million prores =
+worldwide.
+<br></td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"20" align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"removeMobile">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+<table width=3D"186" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://fortozo.net/z000177_096349_005" alt=3D"" border=3D"0" wi=
+dth=3D"52" height=3D"53" style=3D"display:block; margin:0px; padding:0px; b=
+order:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #E65120; text-align:center; line-height: 24px;">20 / =
+20 Vision</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;" >
+More than 99r treatment*</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"removeMobile">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+<table width=3D"186" align=3D"right" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://fortozo.net/z000177_096349_001" alt=3D"" border=3D"0" wi=
+dth=3D"53" height=3D"53" style=3D"display:block; margin:0px; padding:0px; b=
+order:none; outline:none; text-decoration:none;" /></td>
+</tr>
+<tr>
+<td>
+<table width=3D"186" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #260AA2; text-align:center; line-height: 24px;">
+Over 99</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #889098; text-align:center; line-height: 24px;">
+Over 99to their friends and family**
+</td>
+</tr>
+<tr>
+<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-=
+rule: exactly;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table bgcolor=3D"#F0F0F0" width=3D"600" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td valign=3D"top" width=3D"290" height=3D"102" align=3D"center" class=3D"d=
+evicewidth">
+<img src=3D"http://fortozo.net/z000177_096349_003" alt=3D"" border=3D"0" wi=
+dth=3D"116" height=3D"102" style=3D"display:block; margin:0px; padding:0px;=
+ border:none; outline:none; text-decoration:none;" class=3D"colimg2" /></td=
+>
+</tr>
+<tr>
+<td>
+<table width=3D"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 18px; color: #333333; line-height:24px;text-align:center;">Active =
+Lifestyle </td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; line-height:24px; color: #666666; text-align:center;">Enjoy =
+outdoor pursuits with family and friends... whatever the weather.
+<br>
+Remove the inconvenience of wearing glasses or contact lenses.</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"290" align=3D"right" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"devicewidth">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td>
+<table width=3D"290" align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"devicewidth">
+<tr>
+<td width=3D"290" height=3D"102" align=3D"center" class=3D"devicewidth">
+<img src=3D"http://fortozo.net/z000177_096349_004" alt=3D"" border=3D"0" wi=
+dth=3D"116" height=3D"102" style=3D"display:block; margin:0px; padding:0px;=
+ border:none; outline:none; text-decoration:none;" class=3D"colimg2">
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D"270" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"devicewidthinner">
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td style=3D"font-family: Helvetica, arial, sans-serif; font-size: 18px; co=
+lor: #333333;line-height:24px; text-align:center;" st-title=3D"2coltitle2">=
+Wellbeing</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; line-height:24px; color: #666666; text-align:center;" st-con=
+tent=3D"2colcontent2">
+Improve your self-esteem and confidence.
+<br>
+Peace of mind with our fully comprehensive aftercare program.</td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td>
+<table width=3D"560" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"devicewidthinner">
+<tr>
+<td align=3D"center" style=3D"font-family: Helvetica, arial, sans-serif; fo=
+nt-size: 14px; color: #666666; text-align:center; line-height: 30px;" ><p>
+<a target=3D"_blank"  href=3D"http://fortozo.net/?a=3D488&c=3D96163&s1=3D43=
+7016&s2=3DO000009173482_2025&s3=3D1501132059&S4=3D216938" style=3D"font-wei=
+ght:bold">
+Why  not enter our prize draw to win life-changing treatment this month!</a=
+></p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable">
+<tr>
+<td>
+<table width=3D"600" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" class=3D"devicewidth">
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"550" align=3D"center" height=3D"1" bgcolor=3D"#d1d1d1" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" height=3D"30" style=3D"font-size:1px; line-height:1px;=
+">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"1000" border=3D"0" id=3D"backgroundTable" >
+<tr>
+<td>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center">
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-family: Helvetica, ari=
+al, sans-serif; font-size: 12px;color: #999999" st-content=3D"postfooter">
+*99.1 laser eye surgery. Based on a study of 336,381 patients, September 2014.
+<br>
+**Based on a study of 252,179 patients, September 2014
+<br>
+<br>
+Click here to <a target=3D"_blank" href=3D"http://fortozo.net/unsub?s1=3D43=
+7016&newunsub=3D1" style=3D"text-decoration:underline; color: #999999">Unsu=
+bscribe</a></td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<div style=3D"font-family: arial, 'trebuchet ms', Helvetica, sans-serif; fo=
+nt-size: 10px; color: #333333; text-align: center;">=20
+We hope you enjoyed receiving this email. If you no longer wish to receive =
+emails from this sender on behalf of this advertiser,=20
+<a href=3D"http://fortozo.net/unsub?s1=3D437016&newunsub=3D1" target=3D"_bl=
+ank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size=3D"2" face=3D"Arial">
+The advertiser does not manage your subscription. If you prefer not to rece=
+ive further communication,<br>
+<a href=3D"http://fortozo.net/unsub?s1=3D437016&newunsub=3D1"  target=3D"_b=
+lank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 A=
+thens - Greece<br>
+</font>
+<img src=3D"http://fortozo.net/adv" border=3D"0" alt=3D"" style=3D"max-widt=
+h:100</center>
+
+<div style=3D"color:white; background-color:white; font-size:8px;">
+  Our Autumn is the season, when    Temptations do our minds assail.  Our f=
+ruits are proved in manhood; then    Let not sin, death, and hell prevail. =
+ For Winter brings old age and death,    If we've good fruits laid up in st=
+ore;  Soon as we gasp our latest _breath_,    We land on a _triumphant shor=
+e_.FOUR SEASONS OF THE YEAR.  On March the twenty-first is Spring,  When li=
+ttle birds begin to sing;  Begin to build and hatch their brood,  And caref=
+ully provide them food.  Summer's the twenty-first of June,  The cuckoo cha=
+nges then his tune;  All nature smiles, the fields look gay,  The weather's=
+ fair to make the hay.  September, on the twenty-third,  When sportsmen mar=
+k at ev'ry bird,  Autumn comes in; the fields are shorn,  The fruits are ri=
+pe; so is the corn.  Winter's cold frosts and northern blasts,  The season =
+is we mention last;  The date of which in _truth_ we must  Fix for December=
+--twenty-first.FIVE SENSES.  All human beings must (with birds and beasts) =
+ To be complete, five senses have at least:  The sense of hearing to the ea=
+r's confined;  The eye, we know, for seeing is design'd;  The nose to smell=
+ an odour sweet or ill;  The tongue to taste what will the belly fill.
+</div>
+
+<img alt=3D"" src=3D"http://fortozo.net/record.php?s1=3D437016&s2=3DO000009=
+173482_2025&s3=3D1501132059&S4=3D216938" width=3D"1" height=3D"1" border=3D=
+"0" />
+
+</body>
+</html>
+------=_Part_1298896_3260326.1421175572141--
+
+------=_Part_1298895_1615170895.1421175572141--
+

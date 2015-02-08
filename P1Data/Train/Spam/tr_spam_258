@@ -1,0 +1,145 @@
+From @..  Tue Jan 13 08:11:36 2015
+Return-Path: <@..>
+X-Original-To: darl@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id E6E46DF; Tue, 13 Jan 2015 08:11:36 +0000 (UTC)
+Received: from spamgateway.alphasys.com.au (mail.alphasys.com.au [203.221.172.29])
+    by .. with SMTP id 2cvxf52xe98fbg24g45xzexh7n;
+    for darl@fs.net;
+    Tue, 13 Jan 2015 08:11:36 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=203.221.172.29; envelope-from=<>;
+    helo=spamgateway.alphasys.com.au
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=203.221.172.29; client-port=34011;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.74
+    198.32.132.75 184.105.213.113 72.52.92.153 184.105.222.14 72.52.92.117
+    72.52.93.38 203.29.129.130 203.219.106.173 202.7.171.202 203.220.112.149
+    203.220.112.149; network-path-time=1421136696
+Received: by spamgateway.alphasys.com.au (Postfix)
+	id AEF7920D8111; Tue, 13 Jan 2015 19:11:19 +1100 (EST)
+Date: Tue, 13 Jan 2015 19:11:19 +1100 (EST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1B34A20D80AE.1421136679/spamgateway.alphasys.com.au"
+Message-Id: <20150113081119.AEF7920D8111@spamgateway.alphasys.com.au>
+Content-Transfer-Encoding: 7bit
+
+This is a MIME-encapsulated message.
+
+--1B34A20D80AE.1421136679/spamgateway.alphasys.com.au
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host spamgateway.alphasys.com.au.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<bumgumn@ava.com.au>: host 203.221.172.20[203.221.172.20] said: 550 5.1.1
+    <bumgumn@ava.com.au>: Recipient address rejected: ava.com.au (in reply to
+    RCPT TO command)
+
+--1B34A20D80AE.1421136679/spamgateway.alphasys.com.au
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; spamgateway.alphasys.com.au
+X-Postfix-Queue-ID: 1B34A20D80AE
+X-Postfix-Sender: rfc822; darl@fs.net
+Arrival-Date: Tue, 13 Jan 2015 19:11:12 +1100 (EST)
+
+Final-Recipient: rfc822; bumgumn@ava.com.au
+Original-Recipient: rfc822;bumgumn@ava.com.au
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; 203.221.172.20
+Diagnostic-Code: smtp; 550 5.1.1 <bumgumn@ava.com.au>: Recipient address
+    rejected: ava.com.au
+
+--1B34A20D80AE.1421136679/spamgateway.alphasys.com.au
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Return-Path: <darl@fs.net>
+Received: from [27.72.136.130] (localhost.localdomain [127.0.0.1])
+	by spamgateway.alphasys.com.au (Postfix) with ESMTP id 1B34A20D80AE
+	for <bumgumn@ava.com.au>; Tue, 13 Jan 2015 19:11:12 +1100 (EST)
+Received: from [27.72.136.130] ([27.72.136.130] helo=[27.72.136.130]) by
+	spamgateway.alphasys.com.au with SMTP (2.4.3); 13 Jan 2015 19:11:11 +1100
+From: <darl@fs.net>
+To: <bumgumn@ava.com.au>
+Subject: [SPAM] [NotValidHELO][testmode] [SPAM] Interesting Job
+Date: 13 Jan 2015 20:37:27 +0600
+Message-ID: <001201d02f43$02e236a7$77bf8bb2$@fs.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+X-Mailer: Microsoft Office Outlook 11
+Thread-Index: Ac2ttedh4r74e3tl2ttedh4r74e3tl==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17514
+X-Assp-Version: 2.4.3(14349) on spamgateway.alphasys.com.au
+X-Assp-ID: spamgateway.alphasys.com.au 36672-02384
+X-Assp-Session: 7FDD7C1F4418 (mail 1)
+X-Assp-Message-Score: 5 (Suspicious HELO - contains IP: '[27.72.136.130]')
+X-Assp-IP-Score: 5 (Suspicious HELO - contains IP: '[27.72.136.130]')
+X-Assp-Received-SPF: none ip=27.72.136.130 mailfrom=darl@fs.net
+	helo=[27.72.136.130]
+X-Original-Authentication-Results: spamgateway.alphasys.com.au; spf=none
+X-Assp-Message-Score: 10 (Foreign Country VN (VIETTEL CORPORATION))
+X-Assp-Message-Score: 67 (DNSBL: failed, 27.72.136.130 listed in
+	l2.apews.org zen..org)
+X-Assp-IP-Score: 67 (DNSBL: failed, 27.72.136.130 listed in l2.apews.org
+	zen..org)
+X-Assp-DNSBL: failed, 27.72.136.130 listed in (l2.apews.org<-127.0.0.2;
+	zen..org<-127.0.0.11; )
+X-Assp-Spam: YES
+X-Assp-Block: NO (all in testmode)
+X-Spam-Status:yes
+X-Assp-Spam-Reason: MessageScore 82, limit 50
+X-Assp-Message-Score: 10 (not valid HELO: '[27.72.136.130]')
+X-Assp-IP-Score: 10 (not valid HELO: '[27.72.136.130]')
+X-Assp-Tag: NotValidHELO
+X-Assp-Spam-Reason: not valid HELO: '[27.72.136.130]'
+X-Assp-Message-Score: 10 (PTR missing)
+X-Assp-IP-Score: 10 (PTR missing)
+X-Assp-Message-Totalscore: 102
+X-Assp-Spam-Level: ********************
+Content-Transfer-Encoding: quoted-printable
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant=
+ position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients =
+in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registratio=
+n on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+--1B34A20D80AE.1421136679/spamgateway.alphasys.com.au--
+

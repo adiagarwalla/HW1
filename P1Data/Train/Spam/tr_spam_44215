@@ -1,0 +1,561 @@
+From @..  Wed Jan 21 11:59:02 2015
+Return-Path: <@..>
+X-Original-To: mckenzies@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 08C69DE; Wed, 21 Jan 2015 11:59:02 +0000 (UTC)
+Received: from mx1.inboxinsightmail.co.uk (mx1.inboxinsightmail.co.uk [78.136.51.184])
+    by .. with SMTP id 6unzc9y999ti8688gkicrf5qdn;
+    for mckenzies@fs.net;
+    Wed, 21 Jan 2015 11:59:01 +0000 (UTC)
+    (envelope-from 3fd.14.+epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe+.mckenzies=fs.net@advisorsforbusiness.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=78.136.51.184;
+    envelope-from=<3fd.14.+epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe+.mckenzies=fs.net@advisorsforbusiness.co.uk>;
+    helo=mx1.inboxinsightmail.co.uk; mechanism=ip4:78.136.51.184
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=78.136.51.184; client-port=64784;
+    syn-fingerprint=8192:116:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37
+    64.125.21.206 64.125.20.97 94.31.42.254 164.177.137.34 164.177.137.19
+    92.52.76.81; network-path-time=1421841541
+DKIM-Signature: v=1; a=rsa-sha1; d=advisorsforbusiness.co.uk;s=key2;
+	c=relaxed/relaxed; q=dns/txt; t=1421841525;
+	h=list-unsubscribe:message-id:mime-version:from:to:date:subject:content-type:content-transfer-encoding;
+	bh=QTweS9N9iwx93Y7qHl5lqY1Xusc=;
+	b=G38U8icgeH8OXPsWjQ4hzY88K88O5kzAocVRE8Xk2unZcumJHDtHeUV/O3/ENhZHHySNtw5+JzVcU3bc+jlyEck+euvy/XuOajhA8M09mBT91C5FFpgJRHZ7A2zr7/PyjWZYlkl4R8tboeq6YTXdkFrZF2WgJftacDAqWRS+mL0=
+X-FBL: M2ZkLjE2LmJkMDAwMDAwZjA5MzliLitlcG11cjYxYnF3NXN3aWphY2Fpc3Noa294eTR3azZtaThiZXU0eGUrLm1ja2Vuemllcz1mcy5uZXQ=
+List-Unsubscribe: <mailto:3fd.54.+epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe+.mckenzies=fs.net@advisorsforbusiness.co.uk>
+Message-ID: <20150121115828.epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe@advisorsforbusiness.co.uk>
+MIME-Version: 1.0
+From: "Business Advisor" <@..>
+To: @..
+Date: 21 Jan 2015 11:58:28 +0000
+Subject: Employment Law: What's in Store for 2015? 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "h=
+ttp://www.w3.org/TR/html4/loose.dtd">=0D=0A<html>=0D=0A<head>=0D=0A=
+   <meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3Dutf-8" />=0D=0A   <title>Business Advisor Small Business</tit=
+le>=0D=0A   <style type=3D"text/css" >=0D=0A   body {=0D=0A      =
+margin: 0;=0D=0A      padding: 0;=0D=0A      font-size: 12px;=0D=0A=
+      font-style: normal;=0D=0A      font-weight: normal;=0D=0A  =
+    font-family: Verdana, Geneva, sans-serif;=0D=0A      backgrou=
+nd-color: #ffffff;=0D=0A      color: #444444;=0D=0A   }=0D=0A   t=
+able=0D=0A   {=0D=0A      color: #444444;=0D=0A      font-size: 1=
+2px;=0D=0A      font-style: normal;=0D=0A      font-weight: norma=
+l;=0D=0A      font-family: Verdana, Geneva, sans-serif;=0D=0A   }=
+=0D=0A   td=0D=0A   {=0D=0A      color: #444444;=0D=0A      font-=
+style: normal;=0D=0A      font-weight: normal;=0D=0A      font-fa=
+mily: Verdana, Geneva, sans-serif;=0D=0A   }=0D=0A   li=0D=0A   {=
+=0D=0A      color: #444444;=0D=0A      font-style: normal;=0D=0A =
+     font-weight: normal;=0D=0A      font-family: Verdana, Geneva=
+, sans-serif;=0D=0A   }=0D=0A   p=0D=0A   {=0D=0A      margin: 5p=
+x 0;=0D=0A      padding: 0;=0D=0A      color: #444444;=0D=0A     =
+ font-style: normal;=0D=0A      font-weight: normal;=0D=0A      f=
+ont-family: Verdana, Geneva, sans-serif;=0D=0A   }=0D=0A   a =0D=0A=
+   {=0D=0A      color: #cc0000;=0D=0A      font-style: normal;=0D=0A=
+      font-weight: normal;=0D=0A      font-family: Verdana, Genev=
+a, sans-serif;=0D=0A      text-decoration: none;=0D=0A   }=0D=0A =
+  a:visited=0D=0A   {=0D=0A      color: #cc0000;=0D=0A   }=0D=0A =
+  a:hover=0D=0A   {=0D=0A      text-decoration: underline;=0D=0A =
+  }=0D=0A   img=0D=0A   {=0D=0A      border: none;=0D=0A      pad=
+ding: 0;=0D=0A      margin: 0;=0D=0A   }=0D=0A   .token-error, .t=
+oken-error * {=0D=0A      color: #f00 !important;=0D=0A      font=
+-weight: bold;=0D=0A   }=0D=0A</style>=0D=0A</head>=0D=0A<body>=0D=0A=
+   <div><a name=3D"top" id=3D"top"></a></div>=0D=0A		<!-- HideInB=
+rowser -->      =0D=0A   			<table width=3D"750" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">=0D=0A         		<tr style=3D"fo=
+nt-size:10px;">=0D=0A					<td align=3D"center">=0D=0A						<a hre=
+f=3D"http://library.advisorsforbusiness.co.uk/Email/epmur61bqw5sw=
+ijacaisshkoxy4wk6mi8beu4xe" style=3D"color:#999999;">View Online<=
+/a> |       =0D=0A        				<a href=3D"http://unsubscribe.advis=
+orsforbusiness.co.uk/i/epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe" s=
+tyle=3D"color:#999999;">Unsubscribe</a>                          =
+   =0D=0A					</td>=0D=0A                </tr>  =0D=0A           =
+      <tr>                    =0D=0A                    <td heigh=
+t=3D"10"></td>=0D=0A                 </tr>   =0D=0A     		 </tabl=
+e>=0D=0A         <!-- End:HideInBrowser -->=0D=0A   <table id=3D"=
+page-container" width=3D"750" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0">=0D=0A      <tr>=0D=0A         =0D=0A         <td i=
+d=3D"left-gutter" width=3D"10">=0D=0A         </td>=0D=0A        =
+ =0D=0A         <!-- Sidebar Starts -->=0D=0A         <td id=3D"s=
+idebar" width=3D"170" align=3D"center" valign=3D"top"=0D=0A      =
+      bgcolor=3D"#000000" =0D=0A            style=3D"background-c=
+olor: #000000">=0D=0A            =0D=0A            <table width=3D=
+"170" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A    =
+           <tr>=0D=0A                  <td height=3D"10">=0D=0A  =
+                </td>=0D=0A               </tr>=0D=0A            =
+   <tr>=0D=0A                  <td align=3D"center">=0D=0A       =
+              <img src=3D"http://resources.advisorsforbusiness.co=
+.uk/assets/Publication/a277012c-a5f6-44db-b2fe-adb9ed143d33.png"=0D=0A=
+                        alt=3D"Business Advisor"=0D=0A           =
+             width=3D"160" height=3D"130" />=0D=0A               =
+   </td>=0D=0A               </tr>=0D=0A=0D=0A               =0D=0A=
+            </table>=0D=0A         </td>=0D=0A         <!-- Sideb=
+ar Ends -->=0D=0A         =0D=0A         <td id=3D"center-gutter"=
+ width=3D"30">=0D=0A         </td>=0D=0A         =0D=0A         <=
+td id=3D"body" width=3D"540" valign=3D"top" align=3D"left">=0D=0A=
+            =0D=0A            <!-- Intro Section Starts -->=0D=0A=
+            <table id=3D"intro-container" width=3D"540" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A               <tr>=
+=0D=0A                  <td height=3D"20">=0D=0A                 =
+ </td>=0D=0A               </tr>=0D=0A               <tr>=0D=0A  =
+                <td>=0D=0A                     <p>Welcome to Busi=
+ness Advisor, giving you the opportunity to instantly access the =
+latest whitepapers, guides, offers and legislative information to=
+ assist you in managing and growing your business.</p>=0D=0A     =
+             </td>=0D=0A               </tr>=0D=0A               =
+<tr>=0D=0A                  <td height=3D"10">=0D=0A             =
+     </td>=0D=0A               </tr>=0D=0A               =0D=0A  =
+                <tr>=0D=0A                     <td>=0D=0A        =
+                <table cellpadding=3D"2" cellspacing=3D"2" border=
+=3D"0">                                 =0D=0A                   =
+     =0D=0A                           <tr>=0D=0A                 =
+             <td valign=3D"top" width=3D"30" align=3D"right">=0D=0A=
+                                 1.=0D=0A                        =
+      </td>=0D=0A                              <td>=0D=0A        =
+                         <a href=3D"#inclusion_1" style=3D"color:=
+#cc0000; font-weight:bold;">=0D=0A                               =
+     Creating the Perfect LinkedIn Company Page=0D=0A            =
+                     </a>=0D=0A                              </td=
+>=0D=0A                           </tr>=0D=0A                    =
+    =0D=0A                           <tr>=0D=0A                  =
+            <td valign=3D"top" width=3D"30" align=3D"right">=0D=0A=
+                                 2.=0D=0A                        =
+      </td>=0D=0A                              <td>=0D=0A        =
+                         <a href=3D"#inclusion_2" style=3D"color:=
+#cc0000; font-weight:bold;">=0D=0A                               =
+     7 Risks of Internet Domain Management =0D=0A                =
+                 </a>=0D=0A                              </td>=0D=0A=
+                           </tr>=0D=0A                        =0D=0A=
+                           <tr>=0D=0A                            =
+  <td valign=3D"top" width=3D"30" align=3D"right">=0D=0A         =
+                        3.=0D=0A                              </t=
+d>=0D=0A                              <td>=0D=0A                 =
+                <a href=3D"#inclusion_3" style=3D"color:#cc0000; =
+font-weight:bold;">=0D=0A                                    A Ho=
+w-to Guide for In-House Recruitment=0D=0A                        =
+         </a>=0D=0A                              </td>=0D=0A     =
+                      </tr>=0D=0A                        =0D=0A  =
+                         <tr>=0D=0A                              =
+<td valign=3D"top" width=3D"30" align=3D"right">=0D=0A           =
+                      4.=0D=0A                              </td>=
+=0D=0A                              <td>=0D=0A                   =
+              <a href=3D"#inclusion_4" style=3D"color:#cc0000; fo=
+nt-weight:bold;">=0D=0A                                    How a =
+New Phone System Can Change Your Business=0D=0A                  =
+               </a>=0D=0A                              </td>=0D=0A=
+                           </tr>=0D=0A                        =0D=0A=
+                           <tr>=0D=0A                            =
+  <td valign=3D"top" width=3D"30" align=3D"right">=0D=0A         =
+                        5.=0D=0A                              </t=
+d>=0D=0A                              <td>=0D=0A                 =
+                <a href=3D"#inclusion_5" style=3D"color:#cc0000; =
+font-weight:bold;">=0D=0A                                    Empl=
+oyment Law: What's in Store for 2015?=0D=0A                      =
+           </a>=0D=0A                              </td>=0D=0A   =
+                        </tr>=0D=0A                        =0D=0A=
+                        </table>=0D=0A                     </td>=0D=0A=
+                  </tr>=0D=0A=0D=0A               <tr>=0D=0A     =
+             <td height=3D"20">=0D=0A                  </td>=0D=0A=
+               </tr>=0D=0A            </table>=0D=0A            <=
+!-- Intro Section Ends -->=0D=0A            =0D=0A            =0D=0A=
+            <!-- Start Foreach(inclusion) -->=0D=0A            =0D=0A=
+<!-- Inclusion Starts -->=0D=0A<table width=3D"540" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">=0D=0A   <tr>=0D=0A      <td b=
+gcolor=3D"#cccccc" height=3D"5">=0D=0A      </td>=0D=0A   </tr>=0D=0A=
+   <tr>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </=
+tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A         <h2>=0D=0A        =
+    <a id=3D"inclusion_1" name=3D"inclusion_1" href=3D"http://res=
+ponse.advisorsforbusiness.co.uk/link/mbiuq3tzjy5zkamuxb1rni5uxe4r=
+nsusqp5u4xe"=0D=0A               style=3D"color: #cc0000; font:no=
+rmal normal bold 18px 'Trebuchet MS', Arial, Helvetica, sans-seri=
+f; text-decoration: none;">=0D=0A               1) Creating the P=
+erfect LinkedIn Company Page=0D=0A            </a>=0D=0A         =
+</h2>=0D=0A      </td>=0D=0A   </tr>=0D=0A=0D=0A=0D=0A   <!-- Che=
+ck for Inclusion Banner Starts -->=0D=0A   =0D=0A   <!-- Check fo=
+r Inclusion Banner Ends -->=0D=0A=0D=0A=0D=0A   <tr>=0D=0A      <=
+td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A=
+      <td>=0D=0A         =0D=0A            <table width=3D"540" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A           =
+    <tr>=0D=0A                  <td width=3D"405" align=3D"left" =
+valign=3D"middle">=0D=0A                     <p>Whether you're cr=
+eating a new LinkedIn Company Page or revamping an existing one, =
+our guide to creating the perfect Company Page has got you covere=
+d.</p>=0D=0A<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</=
+p>=0D=0A<p>From crafting a killer company description to choosing=
+ an eye-catching banner image, this <a href=3D"http://response.ad=
+visorsforbusiness.co.uk/link/mbiuq3tzjy5zkamuxb1rni5uxe4rnsusqp5u=
+4xe"><strong>guide</strong></a> walks you through the entire proc=
+ess and will reveal some "pro tips" courtesy of LinkedIn.</p>=0D=0A=
+                  </td>=0D=0A                  <td width=3D"15">=0D=0A=
+                  </td>=0D=0A                  <td width=3D"120" =
+align=3D"center" valign=3D"middle">=0D=0A                     <a =
+href=3D"http://response.advisorsforbusiness.co.uk/link/mbiuq3tzjy=
+5zkamuxb1rni5uxe4rnsusqp5u4xe">=0D=0A                        <img=
+ src=3D"http://resources.advisorsforbusiness.co.uk/assets/Inclusi=
+on/45d5fec3-ee26-41b0-bece-da600d5a55a1.png" align=3D"top" />=0D=0A=
+                     </a>=0D=0A                  </td>=0D=0A     =
+          </tr>=0D=0A            </table>=0D=0A         =0D=0A   =
+   </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=
+=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A=
+         <table width=3D"540" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"width:540px">=0D=0A			<tr> =0D=0A			=0D=0A=
+				<td width=3D"340" height=3D"40"colspan=3D"2" style=3D"width:3=
+40px;">=0D=0A				<td width=3D"200" align=3D"right" valign=3D"midd=
+le" rowspan=3D"3" style=3D"width:200px">=0D=0A                  <=
+img src=3D"http://resources.advisorsforbusiness.co.uk/assets/Cust=
+omer/828dea70-318e-466c-aabc-23d15467c9ea.png"=0D=0A             =
+        alt=3D"Hubspot" style=3D"max-height:110px"/>=0D=0A       =
+        </td>=0D=0A			</tr>=0D=0A            <tr>=0D=0A			   <td =
+width=3D"260" height=3D"30" align=3D"center" valign=3D"middle" bg=
+color=3D"#c1272d" style=3D"width:260px; height:30px; background-c=
+olor:#c1272d;">=0D=0A					<a href=3D"http://response.advisorsforb=
+usiness.co.uk/link/mbiuq3tzjy5zkamuxb1rni5uxe4rnsusqp5u4xe" style=
+=3D"font-weight:bold; color:#ffffff;"><font color=3D"#ffffff" siz=
+e=3D"2">Download</font></a>=0D=0A			   </td>			   =0D=0A         =
+      <td width=3D"80" style=3D"width:80px;">=0D=0A              =
+ </td>=0D=0A			<tr>   =0D=0A				<td width=3D"340" height=3D"40" c=
+olspan=3D"2" style=3D"width:340px;"> =0D=0A			</tr>=0D=0A        =
+    =0D=0A            </tr>=0D=0A         </table>=0D=0A      </t=
+d>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=0D=0A=
+      </td>=0D=0A   </tr>=0D=0A</table>=0D=0A<!-- Inclusion Ends =
+-->=0D=0A            =0D=0A<!-- Inclusion Starts -->=0D=0A<table =
+width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A=
+   <tr>=0D=0A      <td bgcolor=3D"#cccccc" height=3D"5">=0D=0A   =
+   </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=
+=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A=
+         <h2>=0D=0A            <a id=3D"inclusion_2" name=3D"incl=
+usion_2" href=3D"http://response.advisorsforbusiness.co.uk/link/c=
+fcrh3utcifws4tact1rni5uxe4rnsusqp5u4xe"=0D=0A               style=
+=3D"color: #cc0000; font:normal normal bold 18px 'Trebuchet MS', =
+Arial, Helvetica, sans-serif; text-decoration: none;">=0D=0A     =
+          2) 7 Risks of Internet Domain Management =0D=0A        =
+    </a>=0D=0A         </h2>=0D=0A      </td>=0D=0A   </tr>=0D=0A=
+=0D=0A=0D=0A   <!-- Check for Inclusion Banner Starts -->=0D=0A  =
+ =0D=0A   <!-- Check for Inclusion Banner Ends -->=0D=0A=0D=0A=0D=0A=
+   <tr>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </=
+tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A         =0D=0A            =
+<table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0D=0A               <tr>=0D=0A                  <td width=3D=
+"405" align=3D"left" valign=3D"middle">=0D=0A                    =
+ <p>Domain Management is so important; by effectively managing yo=
+ur domains, you can maximise your brand&rsquo;s profile and sales=
+ whilst minimising costs. Domain Management is undergoing constan=
+t change and development and there are enormous rewards to gain b=
+y getting it right.</p>=0D=0A<p>&nbsp;&nbsp;</p>=0D=0A<p>This art=
+icle looks at <a href=3D"http://response.advisorsforbusiness.co.u=
+k/link/cfcrh3utcifws4tact1rni5uxe4rnsusqp5u4xe"><strong>seven key=
+ risks with Domain Management</strong></a>, and demonstrates how =
+some companies have got it right (and very wrong).</p>=0D=0A<p></=
+p>=0D=0A                  </td>=0D=0A                  <td width=3D=
+"15">=0D=0A                  </td>=0D=0A                  <td wid=
+th=3D"120" align=3D"center" valign=3D"middle">=0D=0A             =
+        <a href=3D"http://response.advisorsforbusiness.co.uk/link=
+/cfcrh3utcifws4tact1rni5uxe4rnsusqp5u4xe">=0D=0A                 =
+       <img src=3D"http://resources.advisorsforbusiness.co.uk/ass=
+ets/Inclusion/5ea82853-6c09-4054-ae8d-a91deb82c9e1.png" align=3D"=
+top" />=0D=0A                     </a>=0D=0A                  </t=
+d>=0D=0A               </tr>=0D=0A            </table>=0D=0A     =
+    =0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td h=
+eight=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A  =
+    <td>=0D=0A         <table width=3D"540" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" style=3D"width:540px">=0D=0A			<tr> =0D=0A=
+			=0D=0A				<td width=3D"340" height=3D"40"colspan=3D"2" style=3D=
+"width:340px;">=0D=0A				<td width=3D"200" align=3D"right" valign=
+=3D"middle" rowspan=3D"3" style=3D"width:200px">=0D=0A           =
+       <img src=3D"http://resources.advisorsforbusiness.co.uk/ass=
+ets/Customer/545a0776-2ec7-43b0-8967-c178499b3f8d.PNG"=0D=0A     =
+                alt=3D"" style=3D"max-height:110px"/>=0D=0A      =
+         </td>=0D=0A			</tr>=0D=0A            <tr>=0D=0A			   <td=
+ width=3D"260" height=3D"30" align=3D"center" valign=3D"middle" b=
+gcolor=3D"#c1272d" style=3D"width:260px; height:30px; background-=
+color:#c1272d;">=0D=0A					<a href=3D"http://response.advisorsfor=
+business.co.uk/link/cfcrh3utcifws4tact1rni5uxe4rnsusqp5u4xe" styl=
+e=3D"font-weight:bold; color:#ffffff;"><font color=3D"#ffffff" si=
+ze=3D"2">Read Now</font></a>=0D=0A			   </td>			   =0D=0A        =
+       <td width=3D"80" style=3D"width:80px;">=0D=0A             =
+  </td>=0D=0A			<tr>   =0D=0A				<td width=3D"340" height=3D"40" =
+colspan=3D"2" style=3D"width:340px;"> =0D=0A			</tr>=0D=0A       =
+     =0D=0A            </tr>=0D=0A         </table>=0D=0A      </=
+td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=0D=0A=
+      </td>=0D=0A   </tr>=0D=0A</table>=0D=0A<!-- Inclusion Ends =
+-->=0D=0A            =0D=0A<!-- Inclusion Starts -->=0D=0A<table =
+width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A=
+   <tr>=0D=0A      <td bgcolor=3D"#cccccc" height=3D"5">=0D=0A   =
+   </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=
+=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A=
+         <h2>=0D=0A            <a id=3D"inclusion_3" name=3D"incl=
+usion_3" href=3D"http://response.advisorsforbusiness.co.uk/link/m=
+bpggsmifpfdk4jiqt1rni5uxe4rnsusqp5u4xe"=0D=0A               style=
+=3D"color: #cc0000; font:normal normal bold 18px 'Trebuchet MS', =
+Arial, Helvetica, sans-serif; text-decoration: none;">=0D=0A     =
+          3) A How-to Guide for In-House Recruitment=0D=0A       =
+     </a>=0D=0A         </h2>=0D=0A      </td>=0D=0A   </tr>=0D=0A=
+=0D=0A=0D=0A   <!-- Check for Inclusion Banner Starts -->=0D=0A  =
+ =0D=0A   <!-- Check for Inclusion Banner Ends -->=0D=0A=0D=0A=0D=0A=
+   <tr>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </=
+tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A         =0D=0A            =
+<table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0D=0A               <tr>=0D=0A                  <td width=3D=
+"405" align=3D"left" valign=3D"middle">=0D=0A                    =
+ <p>The achievements of HR professionals within the early stages =
+of their role are, typically, seen as an indication to their pote=
+ntial and ability to carry out the functions of the job.</p>=0D=0A=
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>=0D=0A<p>As such, this <a href=3D"=
+http://response.advisorsforbusiness.co.uk/link/mbpggsmifpfdk4jiqt=
+1rni5uxe4rnsusqp5u4xe"><strong>guide</strong></a> aims to provide=
+ you with the tools, frameworks and insight to really think about=
+ how you can transform your business' approach to direct recruitm=
+ent within a realistic period.</p>=0D=0A                  </td>=0D=0A=
+                  <td width=3D"15">=0D=0A                  </td>=0D=0A=
+                  <td width=3D"120" align=3D"center" valign=3D"mi=
+ddle">=0D=0A                     <a href=3D"http://response.advis=
+orsforbusiness.co.uk/link/mbpggsmifpfdk4jiqt1rni5uxe4rnsusqp5u4xe=
+">=0D=0A                        <img src=3D"http://resources.advi=
+sorsforbusiness.co.uk/assets/Inclusion/e39ff089-311c-43a5-9170-39=
+2d13efd026.png" align=3D"top" />=0D=0A                     </a>=0D=0A=
+                  </td>=0D=0A               </tr>=0D=0A          =
+  </table>=0D=0A         =0D=0A      </td>=0D=0A   </tr>=0D=0A   =
+<tr>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=
+=0D=0A   <tr>=0D=0A      <td>=0D=0A         <table width=3D"540" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:5=
+40px">=0D=0A			<tr> =0D=0A			=0D=0A				<td width=3D"340" height=3D=
+"40"colspan=3D"2" style=3D"width:340px;">=0D=0A				<td width=3D"2=
+00" align=3D"right" valign=3D"middle" rowspan=3D"3" style=3D"widt=
+h:200px">=0D=0A                  <img src=3D"http://resources.adv=
+isorsforbusiness.co.uk/assets/Customer/c5a79aec-04fc-48ca-ac10-6e=
+3b78fc89fc.jpg"=0D=0A                     alt=3D"Webrecruit" styl=
+e=3D"max-height:110px"/>=0D=0A               </td>=0D=0A			</tr>=0D=0A=
+            <tr>=0D=0A			   <td width=3D"260" height=3D"30" align=
+=3D"center" valign=3D"middle" bgcolor=3D"#c1272d" style=3D"width:=
+260px; height:30px; background-color:#c1272d;">=0D=0A					<a href=
+=3D"http://response.advisorsforbusiness.co.uk/link/mbpggsmifpfdk4=
+jiqt1rni5uxe4rnsusqp5u4xe" style=3D"font-weight:bold; color:#ffff=
+ff;"><font color=3D"#ffffff" size=3D"2">Download</font></a>=0D=0A=
+			   </td>			   =0D=0A               <td width=3D"80" style=3D"w=
+idth:80px;">=0D=0A               </td>=0D=0A			<tr>   =0D=0A				<=
+td width=3D"340" height=3D"40" colspan=3D"2" style=3D"width:340px=
+;"> =0D=0A			</tr>=0D=0A            =0D=0A            </tr>=0D=0A=
+         </table>=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A=
+      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A</ta=
+ble>=0D=0A<!-- Inclusion Ends -->=0D=0A            =0D=0A<!-- Inc=
+lusion Starts -->=0D=0A<table width=3D"540" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">=0D=0A   <tr>=0D=0A      <td bgcolor=3D=
+"#cccccc" height=3D"5">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <t=
+r>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A=
+   <tr>=0D=0A      <td>=0D=0A         <h2>=0D=0A            <a id=
+=3D"inclusion_4" name=3D"inclusion_4" href=3D"http://response.adv=
+isorsforbusiness.co.uk/link/c3twgtn3qi1ugh3omj1rni5uxe4rnsusqp5u4=
+xe"=0D=0A               style=3D"color: #cc0000; font:normal norm=
+al bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif; text-d=
+ecoration: none;">=0D=0A               4) How a New Phone System =
+Can Change Your Business=0D=0A            </a>=0D=0A         </h2=
+>=0D=0A      </td>=0D=0A   </tr>=0D=0A=0D=0A=0D=0A   <!-- Check f=
+or Inclusion Banner Starts -->=0D=0A   =0D=0A   <!-- Check for In=
+clusion Banner Ends -->=0D=0A=0D=0A=0D=0A   <tr>=0D=0A      <td h=
+eight=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A  =
+    <td>=0D=0A         =0D=0A            <table width=3D"540" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A             =
+  <tr>=0D=0A                  <td width=3D"405" align=3D"left" va=
+lign=3D"middle">=0D=0A                     <p>The desk phone may =
+not have changed much in appearance over the last few years, but =
+the functions of the system have evolved dramatically.</p>=0D=0A<=
+p>&nbsp;&nbsp;&nbsp;</p>=0D=0A<p>This <a href=3D"http://response.=
+advisorsforbusiness.co.uk/link/c3twgtn3qi1ugh3omj1rni5uxe4rnsusqp=
+5u4xe"><strong>guide</strong></a> will show you how a new phone s=
+ystem can improve your company's customer service, increase effic=
+iency and gain the competitive edge.</p>=0D=0A                  <=
+/td>=0D=0A                  <td width=3D"15">=0D=0A              =
+    </td>=0D=0A                  <td width=3D"120" align=3D"cente=
+r" valign=3D"middle">=0D=0A                     <a href=3D"http:/=
+/response.advisorsforbusiness.co.uk/link/c3twgtn3qi1ugh3omj1rni5u=
+xe4rnsusqp5u4xe">=0D=0A                        <img src=3D"http:/=
+/resources.advisorsforbusiness.co.uk/assets/Inclusion/fa0f5f0c-fd=
+21-43d9-bf13-8d5e6ac9bd4c.png" align=3D"top" />=0D=0A            =
+         </a>=0D=0A                  </td>=0D=0A               </=
+tr>=0D=0A            </table>=0D=0A         =0D=0A      </td>=0D=0A=
+   </tr>=0D=0A   <tr>=0D=0A      <td height=3D"20">=0D=0A      </=
+td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A         <tab=
+le width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:540px">=0D=0A			<tr> =0D=0A			=0D=0A				<td width=
+=3D"340" height=3D"40"colspan=3D"2" style=3D"width:340px;">=0D=0A=
+				<td width=3D"200" align=3D"right" valign=3D"middle" rowspan=3D=
+"3" style=3D"width:200px">=0D=0A                  <img src=3D"htt=
+p://resources.advisorsforbusiness.co.uk/assets/Customer/26777418-=
+43f8-458e-8212-a688a498971e.png"=0D=0A                     alt=3D=
+"" style=3D"max-height:110px"/>=0D=0A               </td>=0D=0A		=
+	</tr>=0D=0A            <tr>=0D=0A			   <td width=3D"260" height=3D=
+"30" align=3D"center" valign=3D"middle" bgcolor=3D"#c1272d" style=
+=3D"width:260px; height:30px; background-color:#c1272d;">=0D=0A		=
+			<a href=3D"http://response.advisorsforbusiness.co.uk/link/c3tw=
+gtn3qi1ugh3omj1rni5uxe4rnsusqp5u4xe" style=3D"font-weight:bold; c=
+olor:#ffffff;"><font color=3D"#ffffff" size=3D"2">Download</font>=
+</a>=0D=0A			   </td>			   =0D=0A               <td width=3D"80" =
+style=3D"width:80px;">=0D=0A               </td>=0D=0A			<tr>   =0D=0A=
+				<td width=3D"340" height=3D"40" colspan=3D"2" style=3D"width:=
+340px;"> =0D=0A			</tr>=0D=0A            =0D=0A            </tr>=0D=0A=
+         </table>=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A=
+      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A</ta=
+ble>=0D=0A<!-- Inclusion Ends -->=0D=0A            =0D=0A<!-- Inc=
+lusion Starts -->=0D=0A<table width=3D"540" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">=0D=0A   <tr>=0D=0A      <td bgcolor=3D=
+"#cccccc" height=3D"5">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <t=
+r>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A=
+   <tr>=0D=0A      <td>=0D=0A         <h2>=0D=0A            <a id=
+=3D"inclusion_5" name=3D"inclusion_5" href=3D"http://response.adv=
+isorsforbusiness.co.uk/link/ci1fk4magfduoh5ppt1rni5uxe4rnsusqp5u4=
+xe"=0D=0A               style=3D"color: #cc0000; font:normal norm=
+al bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif; text-d=
+ecoration: none;">=0D=0A               5) Employment Law: What's =
+in Store for 2015?=0D=0A            </a>=0D=0A         </h2>=0D=0A=
+      </td>=0D=0A   </tr>=0D=0A=0D=0A=0D=0A   <!-- Check for Incl=
+usion Banner Starts -->=0D=0A   =0D=0A   <!-- Check for Inclusion=
+ Banner Ends -->=0D=0A=0D=0A=0D=0A   <tr>=0D=0A      <td height=3D=
+"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A      <td>=
+=0D=0A         =0D=0A            <p>Shared parental leave, modifi=
+cations to holiday pay and next year's general election are just =
+an example of some of the factors that will affect employment law=
+.</p>=0D=0A<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>=0D=0A<p>This <a href=3D=
+"http://response.advisorsforbusiness.co.uk/link/ci1fk4magfduoh5pp=
+t1rni5uxe4rnsusqp5u4xe"><strong>article</strong></a> shares some =
+notable themes from 2014, as well as the full lowdown on what's i=
+n store for 2015.</p>=0D=0A         =0D=0A      </td>=0D=0A   </t=
+r>=0D=0A   <tr>=0D=0A      <td height=3D"20">=0D=0A      </td>=0D=0A=
+   </tr>=0D=0A   <tr>=0D=0A      <td>=0D=0A         <table width=3D=
+"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"w=
+idth:540px">=0D=0A			<tr> =0D=0A			=0D=0A				<td width=3D"340" he=
+ight=3D"40"colspan=3D"2" style=3D"width:340px;">=0D=0A				<td wid=
+th=3D"200" align=3D"right" valign=3D"middle" rowspan=3D"3" style=3D=
+"width:200px">=0D=0A                  <img src=3D"http://resource=
+s.advisorsforbusiness.co.uk/assets/Customer/80a7f8be-729f-4117-a0=
+8f-b89f8f93e82e.png"=0D=0A                     alt=3D"" style=3D"=
+max-height:110px"/>=0D=0A               </td>=0D=0A			</tr>=0D=0A=
+            <tr>=0D=0A			   <td width=3D"260" height=3D"30" align=
+=3D"center" valign=3D"middle" bgcolor=3D"#c1272d" style=3D"width:=
+260px; height:30px; background-color:#c1272d;">=0D=0A					<a href=
+=3D"http://response.advisorsforbusiness.co.uk/link/ci1fk4magfduoh=
+5ppt1rni5uxe4rnsusqp5u4xe" style=3D"font-weight:bold; color:#ffff=
+ff;"><font color=3D"#ffffff" size=3D"2">Read Now</font></a>=0D=0A=
+			   </td>			   =0D=0A               <td width=3D"80" style=3D"w=
+idth:80px;">=0D=0A               </td>=0D=0A			<tr>   =0D=0A				<=
+td width=3D"340" height=3D"40" colspan=3D"2" style=3D"width:340px=
+;"> =0D=0A			</tr>=0D=0A            =0D=0A            </tr>=0D=0A=
+         </table>=0D=0A      </td>=0D=0A   </tr>=0D=0A   <tr>=0D=0A=
+      <td height=3D"20">=0D=0A      </td>=0D=0A   </tr>=0D=0A</ta=
+ble>=0D=0A<!-- Inclusion Ends -->=0D=0A            =0D=0A        =
+    <!-- End Foreach(inclusion) -->=0D=0A=0D=0A=0D=0A=0D=0A      =
+      <!-- Footer Section Starts -->=0D=0A            <table id=3D=
+"footer-container" width=3D"540" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bgcolor=3D"#f7f7f7">=0D=0A               <tr>=0D=0A=
+                  <td height=3D"5" bgcolor=3D"#cccccc">=0D=0A    =
+              </td>=0D=0A               </tr>=0D=0A              =
+ <tr>=0D=0A                  <td height=3D"10"><img alt=3D'' widt=
+h=3D'1' height=3D'1' src=3D'http://response.advisorsforbusiness.c=
+o.uk/track/epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe' style=3D'visi=
+bility:hidden;' /></td>=0D=0A               </tr>=0D=0A          =
+     <tr>=0D=0A                  <td>=0D=0A                     <=
+table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0D=0A                        <tr>=0D=0A                     =
+      <td width=3D"10">=0D=0A                           </td>=0D=0A=
+                           <td width=3D"520">=0D=0A              =
+                <table id=3D"footer" width=3D"520" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">=0D=0A                        =
+         <tr>=0D=0A                                    <td colspa=
+n=3D"3" align=3D"center" style=3D"font-size:10px;">=0D=0A        =
+                               <strong>If you enjoy receiving our=
+ bulletins, please be sure to add our email address to your safe-=
+senders list, address book or contact list.</strong>=0D=0A       =
+                             </td>=0D=0A								</tr>=0D=0A      =
+                           <tr=0D=0A                             =
+       <td colspan=3D"3" height=3D"10"> </td>=0D=0A								</tr>	=
+=0D=0A								 <tr>	=0D=0A									<td colspan=3D"3" align=3D"cen=
+ter" style=3D"font-size:10px;">=0D=0A                            =
+           Any direct replies to this email will not be received.=
+=0D=0A                                       Please use the follo=
+wing contact options:=0D=0A                                    </=
+td>									=0D=0A                                 </tr>         =
+                      <tr>=0D=0A                                 =
+   <td colspan=3D"3" height=3D"7">=0D=0A                         =
+           </td>=0D=0A                                 </tr>=0D=0A=
+                                 <tr>=0D=0A                      =
+              <td width=3D"160" align=3D"left" valign=3D"top">=0D=0A=
+                                       <p>=0D=0A                 =
+                         <strong>Help and support</strong>=0D=0A =
+                                      </p>=0D=0A                 =
+                   </td>=0D=0A                                   =
+ <td width=3D"20">=0D=0A                                    </td>=
+=0D=0A                                    <td width=3D"340" align=
+=3D"left" valign=3D"top">=0D=0A                                  =
+     <p>=0D=0A                                          If you ar=
+e experiencing any problems or need assistance in=0D=0A          =
+                                anyway, please email us at:=0D=0A=
+                                          <a href=3D"mailto:help@=
+advisorsforbusiness.co.uk">=0D=0A                                =
+             help@advisorsforbusiness.co.uk=0D=0A                =
+                          </a>=0D=0A                             =
+          </p>=0D=0A                                    </td>=0D=0A=
+                                 </tr>=0D=0A=0D=0A               =
+                  <tr>=0D=0A                                    <=
+td width=3D"160" align=3D"left" valign=3D"top">=0D=0A            =
+                           <p>=0D=0A                             =
+             <strong>Unsubscribe</strong>=0D=0A                  =
+                     </p>=0D=0A                                  =
+  </td>=0D=0A                                    <td width=3D"20"=
+>=0D=0A                                    </td>=0D=0A           =
+                         <td width=3D"340" align=3D"left" valign=3D=
+"top">=0D=0A										<p>=0D=0A                                  =
+          If you no longer wish to receive this Bulletin, please =
+click here to <a href=3D"http://unsubscribe.advisorsforbusiness.c=
+o.uk/i/epmur61bqw5swijacaisshkoxy4wk6mi8beu4xe">unsubscribe</a>.=0D=0A=
+                                        </p>=0D=0A               =
+                     </td>=0D=0A                                 =
+</tr>=0D=0A=0D=0A                                 <tr>=0D=0A     =
+                               <td width=3D"160" align=3D"left" v=
+align=3D"top">=0D=0A                                       <p>=0D=0A=
+                                          <strong>Contact Us</str=
+ong>=0D=0A                                       </p>=0D=0A      =
+                              </td>=0D=0A                        =
+            <td width=3D"20">=0D=0A                              =
+      </td>=0D=0A                                    <td width=3D=
+"340" align=3D"left" valign=3D"top">=0D=0A                       =
+                <p>=0D=0A                                        =
+  For further information please email Business Advisor at=0D=0A =
+                                         <a href=3D"mailto:sales@=
+advisorsforbusiness.co.uk">=0D=0A                                =
+             sales@advisorsforbusiness.co.uk=0D=0A               =
+                           </a>=0D=0A                            =
+              or visit our web site at=0D=0A                     =
+                     <a href=3D"http://www.advisorsforbusiness.co=
+.uk">=0D=0A                                             www.advis=
+orsforbusiness.co.uk=0D=0A                                       =
+   </a>=0D=0A                                       </p>=0D=0A   =
+                                 </td>=0D=0A                     =
+            </tr>=0D=0A                              </table>=0D=0A=
+                           </td>=0D=0A                           =
+<td width=3D"10">=0D=0A                           </td>=0D=0A    =
+                    </tr>=0D=0A                     </table>=0D=0A=
+                  </td>=0D=0A               </tr>=0D=0A          =
+     <tr>=0D=0A                  <td height=3D"10">=0D=0A        =
+          </td>=0D=0A               </tr>=0D=0A               <tr=
+>=0D=0A                  <td align=3D"center" style=3D"font-size:=
+ 10px;">=0D=0A                     You are subscribed to this Ins=
+ight as=0D=0A                     mckenzies@fs.net=0D=0A         =
+         </td>=0D=0A               </tr>=0D=0A               <tr>=
+=0D=0A                  <td height=3D"10">=0D=0A                 =
+ </td>=0D=0A               </tr>=0D=0A            </table>=0D=0A =
+           <!-- Footer Section Ends -->=0D=0A            =0D=0A  =
+       </td>=0D=0A      </tr>=0D=0A      <tr>=0D=0A         <td c=
+olspan=3D"4">=0D=0A            <div style=3D"margin: 10px 0; font=
+-size: 10px; color:#cccccc; text-align: center;">=0D=0A          =
+     Inbox Insight Limited is a company registered in England and=
+ Wales.<br />=0D=0A               Registered office: The Old Stor=
+ehouse, 8 Charlecote Mews, Staple Gardens, Winchester, Hampshire,=
+ SO23 8SR.<br />=0D=0A               Registered in England number=
+: 7179598=0D=0A            </div>=0D=0A         </td>=0D=0A      =
+</tr>=0D=0A   </table>=0D=0A</body>=0D=0A</html>=0D=0A
+

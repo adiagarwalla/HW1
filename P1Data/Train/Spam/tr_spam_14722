@@ -1,0 +1,97 @@
+From @..  Sat Jan 17 01:48:51 2015
+Return-Path: <@..>
+X-Original-To: kevinwatson@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4C55CDE; Sat, 17 Jan 2015 01:48:51 +0000 (UTC)
+Received: from nh503-vm6.bullet.mail.kks.yahoo.co.jp (nh503-vm6.bullet.mail.kks.yahoo.co.jp [183.79.56.192])
+    by .. with SMTP id p6xdkmg7eyitugt5cejs27iehw;
+    for kevinwatson@fs.net;
+    Sat, 17 Jan 2015 01:48:50 +0000 (UTC)
+    (envelope-from lopechan81@yahoo.co.jp)
+Received-SPF: Pass; receiver=..;
+    client-ip=183.79.56.192; envelope-from=<lopechan81@yahoo.co.jp>;
+    helo=nh503-vm6.bullet.mail.kks.yahoo.co.jp;
+    mechanism=include:spf.yahoo.co.jp (include:spf03.yahoo.co.jp
+    (ip4:183.79.56.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=183.79.56.192; client-port=26001;
+    syn-fingerprint=65535:48:1:60:M1380,N,W3,S,T; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.74
+    198.32.132.75 184.105.213.113 184.105.222.77 184.105.222.86 221.111.203.1
+    0.0.0.0 61.206.157.74 124.83.252.242; network-path-time=1421459330
+Received: from [183.79.100.141] by nh503.bullet.mail.kks.yahoo.co.jp with NNFMP; 17 Jan 2015 01:48:33 -0000
+Received: from [183.79.100.135] by t504.bullet.mail.kks.yahoo.co.jp with NNFMP; 17 Jan 2015 01:48:33 -0000
+Received: from [127.0.0.1] by omp504.mail.kks.yahoo.co.jp with NNFMP; 17 Jan 2015 01:48:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 572764.56965.bm@omp504.mail.kks.yahoo.co.jp
+Received: (qmail 86465 invoked by alias); 17 Jan 2015 01:48:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.jp; s=yj20110701; t=1421459313; bh=Jpru8NiQEKRy1/PfBML+k/hpt5aryNGLCHA3XEy5IL0=; h=Received:X-YMail-JAS:X-Apparently-From:X-YMail-OSG:Message-ID:Date:Subject:From:To:MIME-Version:Content-Type; b=L7XFLi7glKlNV5QFjU5Kl/02zY2f+OhW6yUI8/mVoeUOJtkTi3akTi66ZcEKdIvA36vRQEA0hNKum/LapYkG2MfbVzDD/8YT/ab6dQKCNDfNyyaPZUZX2yvgHUyuPixwjhZqs7JT7b4KHu/bjvYPkOkN89rZYqX6/x+ULz4EI0g=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=yj20110701; d=yahoo.co.jp;
+  h=Received:X-YMail-JAS:X-Apparently-From:X-YMail-OSG:Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+  b=TMcHY9Cf+kk4MbAxWzi5Ikg3L5WFSIJTEWxO6mfB+yKKePldP+OKaHNYyNvTwD5p2NOO1bPDCZBdJe1z12UHbUFyvRnCi0Q96uuhXaK5iV5ncszNEy81cR4dd5yeKsQDs3qrkAUXlddxuUcF4+kzBDTlxzdckJtWXxsu9UepfK4=  ;
+Received: from unknown (HELO 10.32.118.10) (220.156.67.105 with plain)
+  by smtp510.mail.kks.yahoo.co.jp with SMTP; 17 Jan 2015 01:48:33 -0000
+X-YMail-JAS: ZJeMZOwVM1l89IyK2QHRW3s6oCBnfIlM4VwZcaP7z66SxDY7RQxNu4ShU_7ozCHFrL_oXNm6XHiQGa2uYuBE3q31tzQ6NQ0cOF2fCdk7_MNrNyLogPX.slYIiwT481qyzw--
+X-Apparently-From: <lopechan81@yahoo.co.jp>
+X-YMail-OSG: TREQchMVM1k0q32fjpPxJVyt76xhaRtn2qGTaUrYSVUpYDY
+ UElbIrXxNx6DBne.tlUPYj1lTV..PnsYVzSxdLlfhujzSeP0QgwtNLa3nTic
+ weATo5_nPlDEi.I4JTG2d_7kWeNRieE4m4sxLsi6Qy9eFF6ua6Nadika66P.
+ h.IIb8UZ_13EJz9Z9F3X0XRXJfpeowQc.yNyerANI.Z7RWCh4NoG0aRoxjPB
+ JfKVYKT6RUnHWuSCRmLfGC.u4j3UFzM42CRGtnFqHWf0qgolr8mpKrLDdUaE
+ jJrTTdjC7vUnpyKSZmRWG4Msi6ppojZAm62wXtzVQB6bUvzgcSNxRzheYHsD
+ LKmPDM.L4DYq746IhOFtCZ3PQpIcFGy1V8EcMxqyQ5rovU3K_44jTGleLQlq
+ DkZsHjXIKmEvSxVMsBmX4yp7w2PwilN1zx3NC7GtEiXS_Jw9LcpX1O0pOjLj
+ S5irovlf6ONFgWbPAghDRiuljEBnlQSxH04ruV5y1F815y55rH7CexxeOamz
+ IqBnqx2hzQiAgPQezlsdJ6QY4
+Message-ID: <JQGG8X-CFA117266D6303F044DD8DC24A3CB02A@phx.gbl>
+Date: Sat, 17 Jan 2015 02:48:29 +0100
+Subject:    
+From: Ellery <@..>
+To: Oh43725 <@..>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--_com.android.email_0205810721115913"
+
+
+----_com.android.email_0205810721115913
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+http://t.co/IWKyGrEr1s
+
+
+Sent from my Samsung Galaxy smartphone.
+
+
+
+----_com.android.email_0205810721115913
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<div><a href=3D"http://t.co/IWKyGrEr1s">http://t.co/IWKyGrEr1s</a></div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div>
+<div style=3D"font-size:9px;color:#575757">Sent from my Samsung Galaxy smar=
+tphone.</div>
+</div>
+<div></div>
+<br>
+<br>
+</div>
+</div>
+</body>
+</html>
+
+----_com.android.email_0205810721115913--
+

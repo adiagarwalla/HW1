@@ -1,0 +1,67 @@
+Message-ID: <8875788.1075841034760.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 09:43:00 -0700 (PDT)
+From: pete.davis@.com
+To: pete.davis@.com
+Subject: Start Date: 4/18/01; HourAhead hour: 17;  <CODESITE>
+Cc: bert.meyers@.com, bill.williams.iii@.com, craig.dean@.com, 
+	dporter3@.com, eric.linder@.com, geir.solberg@.com, 
+	jbryson@.com, leaf.harasin@.com, 
+	monika.causholli@.com, mark.guzman@.com, 
+	pete.davis@.com, ryan.slinger@.com, 
+	steven.merris@.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bert.meyers@.com, bill.williams.iii@.com, craig.dean@.com, 
+	dporter3@.com, eric.linder@.com, geir.solberg@.com, 
+	jbryson@.com, leaf.harasin@.com, 
+	monika.causholli@.com, mark.guzman@.com, 
+	pete.davis@.com, ryan.slinger@.com, 
+	steven.merris@.com
+X-From: Schedule Crawler<pete.davis@.com>
+X-To: pete.davis@.com
+X-cc: bert.meyers@.com, bill.williams.III@.com, Craig.Dean@.com, dporter3@.com, Eric.Linder@.com, Geir.Solberg@.com, jbryson@.com, leaf.harasin@.com, monika.causholli@.com, mark.guzman@.com, pete.davis@.com, ryan.slinger@.com, steven.merris@.com
+X-bcc: 
+X-Folder: \eric linder 6-28-02\Notes Folders\Discussion threads
+X-Origin: LINDER-E
+X-FileName: eric linder 6-28-02.nsf
+
+Start Date: 4/18/01; HourAhead hour: 17;  No ancillary schedules awarded.  
+Variances detected.
+Variances detected in Energy Import/Export schedule.
+Variances detected in Load schedule.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001041817.txt
+
+---- Energy Import/Export Schedule ----
+$$$ Variance found in table tblINTCHG_IMPEXP.
+     Details: (Hour: 17 / Preferred:  15.00 / Final:   6.20)
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 4/18/01
+  TIE_POINT: FCORNR_5_PSUEDO
+  INTERCHG_ID: EPMI_CISO_DESERT
+  ENGY_TYPE: FIRM
+
+
+
+---- Load Schedule ----
+$$$ Variance found in table tblLoads.
+     Details: (Hour: 17 / Preferred:   5.81 / Final:   5.01)
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE2
+  MKT_TYPE: 2
+  TRANS_DATE: 4/18/01
+  SC_ID: EPMI
+$$$ Variance found in table tblLoads.
+     Details: (Hour: 17 / Preferred:  53.03 / Final:  45.06)
+  TRANS_TYPE: FINAL
+  LOAD_ID: PGE3
+  MKT_TYPE: 2
+  TRANS_DATE: 4/18/01
+  SC_ID: EPMI
+

@@ -1,0 +1,83 @@
+Message-ID: <25818478.1075856335953.JavaMail.evans@thyme>
+Date: Thu, 27 Jul 2000 08:08:00 -0700 (PDT)
+From: clayton.vernon@.com
+To: vince.kaminski@.com, stinson.gibner@.com, 
+	pinnamaneni.krishnarao@.com, vasant.shanbhogue@.com, 
+	mike.roberts@.com, joseph.hrgovcic@.com, 
+	grant.masson@.com, tanya.tamarchenko@.com, 
+	zimin.lu@.com, alexios.kollaros@.com, martin.lin@.com, 
+	maureen.raymond@.com, osman.sezgen@.com, 
+	paulo.issler@.com, patricia.tlapek@.com, 
+	farouk.lalji@.com, amitava.dhar@.com, alex.huang@.com, 
+	kevin.kindall@.com, kevin.moore@.com, 
+	clayton.vernon@.com, william.smith@.com, 
+	yanna.crystal@.com, jose.marquez@.com, 
+	samer.takriti@.com, chonawee.supatgiat@.com, 
+	shalesh.ganjoo@.com, tom.halliburton@.com, 
+	elena.chilkina@.com, cantekin.dincerler@.com, 
+	brad.aimone@.com, datren.williams@.com, 
+	sevil.yaman@.com, sofya.tamarchenko@.com, 
+	bob.lee@.com, ainsley.gaddis@.com, gwyn.koepke@.com, 
+	guiseppe.paleologo@.com, hector.campos@.com, 
+	anita.dupont@.com, youyi.feng@.com, v.weldon@.com
+Subject: SAS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski, Stinson Gibner, Pinnamaneni Krishnarao, Vasant Shanbhogue, Mike A Roberts, Joseph Hrgovcic, Grant Masson, Tanya Tamarchenko, Zimin Lu, Alexios Kollaros, Martin Lin, Maureen Raymond, Osman Sezgen, Paulo Issler, Patricia Tlapek, Farouk Lalji, Amitava Dhar, Alex Huang, Kevin Kindall, Kevin G Moore, Clayton Vernon, William Smith, Yanna Crystal, Jose Marquez, Samer Takriti, Chonawee Supatgiat, Shalesh Ganjoo, Tom Halliburton, Elena Chilkina, Cantekin Dincerler, Brad Aimone, Datren Williams, Sevil Yaman, Sofya Tamarchenko, Bob Lee, Ainsley Gaddis, Gwyn Koepke, Guiseppe Paleologo, Hector Campos, Anita DuPont, Youyi Feng, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_2\Notes Folders\Discussion threads
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+to the group:
+
+if you wish to use SAS, there are a few simple things you need to do:
+
+1) you need to get a Unix password if you don't already have one (your user 
+id will be the same as on the NT network, but a different password is issued)
+2) you need a program called "Exceed" on your PC.  request it from IT (you 
+already have this if you are already a user of LIM on the Unix platform)
+3) you need an "ftp" program on your PC. you can go to www.download.com and 
+download one (i like wsftp)
+4) Exceed is funny in the way it runs. When you invoke Exceed (or LIM 
+Advanced User (under Infobases) if you already have this) it will install 
+itself the first time, and will then "disappear" to the Taskbar. you need to 
+*right* click on the taskbar on Exceed, and then choose "Tools" and "Client 
+Startup" and then "New."
+
+You will enter a box which should already be set for REXEC and an XWindow 
+emulation. You need to specify the Host Type as Sun, enter your User Name and 
+Password, set the Host Name to: 
+
+capers.ect..com
+
+and then, on the Command Line, type the following (carefully):
+
+/usr/openwin/bin/xterm -display @D
+
+Then, use the file menu to Save this as capers.xs and then click on the Run! 
+menu. within a second or two, a window will open up with you logged into the 
+serve capers. You are now on a Unix server, and the directory is your home 
+directory. From here, if you simply type "sas" the 3 windows for an 
+interactive session with SAS should open on your desktop. You are in business.
+
+5) you also need to install your ftp. follow the procedures with the 
+software, and then create a new session called "" where you choose as 
+the server simply "earth" (do not add any further descriptors such as 
+..com). supply your user name and *unix* password, check the "remember 
+password" box, and the default communication setups should be correct (eg, 
+host type as "automatic detect").
+
+when you invoke ftp and connect to , it will put you in your home 
+directory on the Unix system, the same directory your xwindow comes up in 
+under Exceed.
+
+if you have any problems, i'll be happy to help
+
+Clayton
+
+PS i have a complete set of new SAS manuals i am happy to loan out if you'll 
+just write your name down when you take them.

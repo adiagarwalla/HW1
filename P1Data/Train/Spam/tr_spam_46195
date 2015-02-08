@@ -1,0 +1,65 @@
+From @..  Sun Jan 25 18:36:16 2015
+Return-Path: <@..>
+X-Original-To: lindashefras@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 78A97DF; Sun, 25 Jan 2015 18:36:16 +0000 (UTC)
+Received: from listonosz.ltv.pl (ltv.pl [91.230.162.3])
+    by .. with SMTP id jspcgp3ymxmncencraxxa8xc2a;
+    for lindashefras@fs.net;
+    Sun, 25 Jan 2015 18:36:16 +0000 (UTC)
+    (envelope-from p.kuczynski@jim-satnet.pl)
+Received-SPF: None; receiver=..;
+    client-ip=91.230.162.3; envelope-from=<p.kuczynski@jim-satnet.pl>;
+    helo=listonosz.ltv.pl
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=91.230.162.3; client-port=53160;
+    syn-fingerprint=5840:51:1:60:M1380,S,T,N,W6 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=12; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.8.190 63.146.27.18 4.69.135.41
+    4.69.135.41 212.162.8.106 0.0.0.0 0.0.0.0 91.230.162.3;
+    network-path-time=1422210976
+Received: from [46.0.65.217] (helo=zulovo)
+	by listonosz.ltv.pl with esmtpa (Exim 4.72)
+	(envelope-from <p.kuczynski@jim-satnet.pl>)
+	id 1XpZpZ-0000bZ-7V; Sat, 15 Nov 2014 10:39:47 +0100
+Message-ID: <76C692247F151E04F66B38C9A490DADF@zulovo>
+From: "P Kuczynski" <@..>
+To: <@..>
+Subject:  
+Date: Sat, 15 Nov 2014 09:16:24 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+X-Spam-Report: Spam detection software, running on the system "service", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  http://channellrealty.net/stay_hard_longer.htm [...] 
+ 
+ Content analysis details:   (1.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+  0.4 STOX_REPLY_TYPE        STOX_REPLY_TYPE
+  1.9 DATE_IN_FUTURE_06_12   Date: is 6 to 12 hours after Received: date
+ -0.0 BAYES_20               BODY: Bayes spam probability is 5 to 20                             [score: 0.1128]
+  1.8 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+  0.0 TVD_SPACE_RATIO        TVD_SPACE_RATIO
+ -1.2 AWL                    AWL: From: address is in the auto white-list
+
+http://channellrealty.net/stay_hard_longer.htm
+
+
+

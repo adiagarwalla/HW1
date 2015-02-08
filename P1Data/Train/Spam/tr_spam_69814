@@ -1,0 +1,152 @@
+From @..  Sun Jan 25 08:55:57 2015
+Return-Path: <@..>
+X-Original-To: bgpdhlc@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9335CE0; Sun, 25 Jan 2015 08:55:57 +0000 (UTC)
+Received: from rcpt-expgw2.biglobe.ne.jp (rcpt-expgw2.biglobe.ne.jp [122.130.255.9])
+    by .. with SMTP id tgud5xffw4kqketuk3vgiwatj2;
+    for bgpdhlc@fs.net;
+    Sun, 25 Jan 2015 08:55:57 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=122.130.255.9; envelope-from=<>; helo=rcpt-expgw2.biglobe.ne.jp
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=122.130.255.9; client-port=46440;
+    syn-fingerprint=5840:46:0:44:M1380; network-hops=17;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.180 129.250.4.116 129.250.4.154
+    129.250.2.19 129.250.4.129 61.213.179.54 122.133.0.34 122.133.0.73
+    133.205.46.42 133.205.48.142 122.130.255.9; network-path-time=1422176157
+Received: from localhost
+	by rcpt-expgw2.biglobe.ne.jp (shby/5910021009) id t0P8ttkj020663;
+	Sun, 25 Jan 2015 17:55:55 +0900
+Date: Sun, 25 Jan 2015 17:55:55 +0900
+From: Mail Delivery Subsystem <@..>
+Message-Id: <201501250855.t0P8ttkj020663@rcpt-expgw2.biglobe.ne.jp>
+To: <@..>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="t0P8ttkj020663.1422176155/rcpt-expgw2.biglobe.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--t0P8ttkj020663.1422176155/rcpt-expgw2.biglobe.ne.jp
+
+The original message was received at Sun, 25 Jan 2015 17:55:52 +0900
+from bvea34718 [172.27.93.22]
+
+   ----- The following addresses had permanent fatal errors -----
+<matsutoku2500@gmail.com>
+    (reason: 550-5.7.1 [2001:260:401:14:21f:29ff:fec3:2abd      12] Our system has detected)
+
+   ----- Transcript of session follows -----
+... while talking to gmail-smtp-in.l.google.com.:
+>>> DATA
+<<< 550-5.7.1 [2001:260:401:14:21f:29ff:fec3:2abd      12] Our system has detected
+<<< 550-5.7.1 that this message is likely unsolicited mail. To ce the amount of
+<<< 550-5.7.1 spam sent to Gmail, this message has been blocked. Please visit
+<<< 550-5.7.1 http://support.google.com/mail/bin/answer.py?hl=en&answer=188131 for
+<<< 550 5.7.1 more information. nz4si8312467pdb.0 - gsmtp
+554 5.0.0 Service unavailable
+
+--t0P8ttkj020663.1422176155/rcpt-expgw2.biglobe.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; rcpt-expgw2.biglobe.ne.jp
+Received-From-MTA: DNS; bvea34718
+Arrival-Date: Sun, 25 Jan 2015 17:55:52 +0900
+
+Final-Recipient: RFC822; matsutoku2500@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: DNS; gmail-smtp-in.l.google.com
+Diagnostic-Code: SMTP; 550-5.7.1 [2001:260:401:14:21f:29ff:fec3:2abd      12] Our system has detected
+Last-Attempt-Date: Sun, 25 Jan 2015 17:55:54 +0900
+
+--t0P8ttkj020663.1422176155/rcpt-expgw2.biglobe.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <bgpdhlc@fs.net>
+Received: from biglobe.ne.jp
+	by rcpt-expgw2.biglobe.ne.jp (shby/5910021009) with ESMTP id t0P8tqkj020661
+	for <matsutoku2500@gmail.com>; Sun, 25 Jan 2015 17:55:52 +0900
+Received: from rcpt-impgw.biglobe.ne.jp by biglobe.ne.jp (RCPT_GW)
+	id RAA29892; Sun, 25 Jan 2015 17:55:52 +0900 (JST)
+Authentication-Results: localhost; spf=none smtp.mailfrom=bgpdhlc@fs.net; sender-id=softfail
+	 header.From=account_cs@ncjapan.co.jp; dkim=none; dkim-adsp=none
+	 header.From=account_cs@ncjapan.co.jp
+Received: from fs.net ([122.154.227.226])
+	by rcpt-impgw.biglobe.ne.jp (shby/2009190711) with ESMTP id t0P8tlSu029787
+	for <matsutoku2500@kna.biglobe.ne.jp>; Sun, 25 Jan 2015 17:55:51 +0900
+Message-ID: <3085AC1B12D8A0145C269486AD548200@fs.net>
+From: "NCSOFT" <account_cs@ncjapan.co.jp>
+To: <matsutoku2500@kna.biglobe.ne.jp>
+Subject: [spam]=?utf-8?B?TkNTT0ZU44Ki44Kr44Km44Oz44OI44O844O85a6J5YWo56K66KqN?=
+Date: Sun, 25 Jan 2015 16:55:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0836_01F05870.1BE05A90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Biglobe-spamcheck: 100.00X-Brightmail-Tracker: AAAAASPK3co=
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0836_01F05870.1BE05A90
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+44GT44KT44Gr44Gh44Gv44CCDQogTkNTT0ZU44K144O844OT44K544OB44O844Og44Gn44GZ44CC
+DQog5qCq5byP5Lya56S+6JCl5Zui56S+44K144O844OT44K544K344K544OG44Og44KS44GU5Yip
+55So44GE44Gf44Gg44GN44CB44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCDQrjgrfj
+grnjg4bjg6Djga/jgYrlrqLmp5jjga7jgqLjgqvjgqbjg7Pjg4jjgYznlbDluLjjgavjg63jgrDj
+gqTjg7PjgZXjgozjgZ/jgZPjgajjgpLmhJ/nn6XjgZfjgb7jgZfjgZ/jgIINCuS4i+iomOOBruOD
+reOCsOOCpOODs+aZgumWk+OCkueFp+OCieOBl+WQiOOBm+OBpuOBlOacrOS6uuanmOOBq+OCiOOC
+i+ODreOCsOOCpOODs+OBp+OBguOCi+OBi+OBqeOBhuOBi+OBlOeiuuiqjeOBiumhmOOBhOOBl+OB
+vuOBmeOAgg0KDQpodHRwczovL3d3dy5uY3NvZnQuanAvbG9naW4vbG9naW4/cmV0VVJMPWh0dHAl
+M0ElMkYlMkZ3d3cubmNzb2Z0LmpwJTJGDQrjgoLjgZfjgIHjgZTmnKzkurrjgavjgojjgovjg63j
+grDjgqTjg7PjgafjgZfjgZ/jgonjgIHjgYrmiYvmlbDjgafjgZnjgYzmnKzjg6Hjg7zjg6vjga7n
+oLTmo4TjgpLjgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgIINCiDilqAg5L2V44GL44GU5LiN5piO
+44Gq54K544GM44GC44KL5aC05ZCI44Gv44CB44GT44Gh44KJ44Gu44Oh44O844Or44Gr5oqY44KK
+6L+U44GX44GU6YCj57Wh44GP44Gg44GV44GE44CCDQog4pagIDIwMTUvMS8yNSANCi0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=
+
+------=_NextPart_000_0836_01F05870.1BE05A90
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCA4LjAwLjc2MDEuMTc3MjAiPjwvSEVBRD4NCjxCT0RZPg0KPFA+44GT44KT44Gr
+44Gh44Gv44CCPC9QPg0KPFA+Jm5ic3A7TkNTT0ZU44K144O844OT44K544OB44O844Og44Gn44GZ
+44CCPC9QPg0KPFA+Jm5ic3A75qCq5byP5Lya56S+6JCl5Zui56S+44K144O844OT44K544K344K5
+44OG44Og44KS44GU5Yip55So44GE44Gf44Gg44GN44CB44GC44KK44GM44Go44GG44GU44GW44GE
+44G+44GZ44CCPC9QPg0KPFA+44K344K544OG44Og44Gv44GK5a6i5qeY44Gu44Ki44Kr44Km44Oz
+44OI44GM55Ww5bi444Gr44Ot44Kw44Kk44Oz44GV44KM44Gf44GT44Go44KS5oSf55+l44GX44G+
+44GX44Gf44CCPC9QPg0KPFA+5LiL6KiY44Gu44Ot44Kw44Kk44Oz5pmC6ZaT44KS54Wn44KJ44GX
+5ZCI44Gb44Gm44GU5pys5Lq65qeY44Gr44KI44KL44Ot44Kw44Kk44Oz44Gn44GC44KL44GL44Gp
+44GG44GL44GU56K66KqN44GK6aGY44GE44GX44G+44GZ44CCPC9QPg0KPFA+PEJSPjxBIA0KaHJl
+Zj0iaHR0cDovL25jc29mdC5qcC5hY2NvdW4udG1mZ3YuY29tL2luZGV4Lmh0bWw/YXBwPXdhbSZh
+bXA7cmVmIj5odHRwczovL3d3dy5uY3NvZnQuanAvbG9naW4vbG9naW4/cmV0VVJMPWh0dHAlM0El
+MkYlMkZ3d3cubmNzb2Z0LmpwJTJGPC9BPjwvUD4NCjxQPjwvUD4NCjxESVY+PC9ESVY+DQo8UD7j
+goLjgZfjgIHjgZTmnKzkurrjgavjgojjgovjg63jgrDjgqTjg7PjgafjgZfjgZ/jgonjgIHjgYrm
+iYvmlbDjgafjgZnjgYzmnKzjg6Hjg7zjg6vjga7noLTmo4TjgpLjgYrpoZjjgYTjgYTjgZ/jgZfj
+gb7jgZnjgII8L1A+DQo8UD4mbmJzcDvilqAg5L2V44GL44GU5LiN5piO44Gq54K544GM44GC44KL
+5aC05ZCI44Gv44CB44GT44Gh44KJ44Gu44Oh44O844Or44Gr5oqY44KK6L+U44GX44GU6YCj57Wh
+44GP44Gg44GV44GE44CCPC9QPg0KPFA+Jm5ic3A74pagIDIwMTUvMS8yNSA8L1A+DQo8UD4tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPC9QPg0K
+PFA+Jm5ic3A7PC9QPjwvQk9EWT48L0hUTUw+DQo=
+
+------=_NextPart_000_0836_01F05870.1BE05A90--
+
+
+--t0P8ttkj020663.1422176155/rcpt-expgw2.biglobe.ne.jp--
+

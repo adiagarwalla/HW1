@@ -1,0 +1,696 @@
+From @..  Thu Jan  8 09:45:46 2015
+Return-Path: <@..>
+X-Original-To: peter.mcgrath5@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 08D76DE; Thu,  8 Jan 2015 09:45:46 +0000 (UTC)
+Received: from omp.email-theworks.co.uk (omp.email-theworks.co.uk [199.7.202.236])
+    by .. with SMTP id 4ktsskmpy3s3prpihbjmw8hde2;
+    for peter.mcgrath5@fs.net;
+    Thu, 08 Jan 2015 09:45:45 +0000 (UTC)
+    (envelope-from theworks.51934@envfrm.rsys5.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.7.202.236; envelope-from=<theworks.51934@envfrm.rsys5.com>;
+    helo=omp.email-theworks.co.uk; mechanism=ip4:199.7.200.0/21
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.7.202.236; client-port=45620;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=10;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.36 66.192.251.182 74.202.6.2 204.212.188.10
+    199.7.202.236; network-path-time=1420710345
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=email-theworks; d=email-theworks.co.uk;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=news@email-theworks.co.uk;
+ bh=zG8P9XhRoNKzx4VRTFmy/NoQz1I=;
+ b=ll/ENMRMfPEYpO2WYa+J/MxtJO89NU7Fbrtj/AKFuH5oP6ZgfSrzlsRQ2gK7dg3X4iG/QGQGFaT0
+   n2vgC3DCP7DS75GuCYu1Sj9I1LzEiJ+FN10y0FJV/Q/AURh28CaGsvlGi6+awR7HXP0GHHa3akZv
+   5wfBaFRaEDJktlvBki0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=email-theworks; d=email-theworks.co.uk;
+ b=MksTsslRzGP5qNXvbouEnhdItfTcsl5nVAaQ4JnV9uyg6nwLg54a3whNzo/cvG4mukEgl+wCDM/N
+   akOBuy9PolJVPM8HqtUjZ8v1QBwOJpLS9Ls98FEKEK/fk7kFgIEmCRHaGAcrQg1TLJ1ryrpoABWU
+   xr4C8JO0zQWYA5ku1oI=;
+Received: by omp.email-theworks.co.uk id hlp8si1hd789 for <peter.mcgrath5@fs.net>; Thu, 8 Jan 2015 01:45:24 -0800 (envelope-from <theworks.51934@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 8 Jan 2015 01:45:24 -0800
+To: @..
+From: "The Works" <@..>
+Reply-To: "The Works" <@..>
+Subject: Up To 30List-Unsubscribe: <http://email-theworks.co.uk/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2XX-sgxh1: iLlLjQuJnjHloYxMkQgLl
+X-rext: 4.interact5.EiNyrP5J6CG5OWe1Ej5EZl-lWtHpSvXzfiFV
+X-cid: theworks.10021953
+Message-ID: <0.0.38.A9C.1D02B27D33E25F4.0@omp.email-theworks.co.uk>
+
+<=21DOCTYPE html>
+<html lang=3D=22en=22>
+<head>
+	<title>The Works - What Will You Discover?</title>
+</head>
+<body style=3D=22margin:0; padding:0;=22>
+<table width=3D=22100g=3D=220=22 style=3D=22background-color:=23f1f1f1;=22>
+  <tr>
+    <td align=3D=22center=22><table width=3D=22600=22 border=3D=220=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22 style=3D=22background-color:=23ffff=
+ff;=22>
+  <tr>
+  <td><table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22 style=3D=22background-color:=23f1f1f1;=22>
+    <tr>
+  <td height=3D=2210=22 colspan=3D=222=22><img src=3D=22http://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=
+=22 width=3D=22600=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22displ=
+ay:block;border:0;=22/></td>
+    </tr>
+  <tr>
+  <td width=3D=22300=22 style=3D=22font-family:Arial, Helvetica, sans-serif=
+;font-size:10px; text-align:left;=22>Don't miss another offer, add us to yo=
+ur address book now</td>
+    <td width=3D=22300=22 style=3D=22font-family:Arial, Helvetica, sans-ser=
+if;font-size:10px; text-align:right;=22><a href=3D=22http://email-theworks=
+=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2Xi1NzcFMpzgzeVXtpKXdEM5KTzVkYd2E=2E=22 style=3D=22color:=23000000;=22>If you can't see this em=
+ail, click here to view online</a></td>
+  </tr>
+      <tr>
+  <td height=3D=2210=22 colspan=3D=222=22><img src=3D=22http://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=
+=22 width=3D=22600=22 height=3D=2215=22 alt=3D=22spacer=22 style=3D=22displ=
+ay:block;border:0;=22/></td>
+    </tr>
+</table>
+</td>
+  </tr>
+    <tr>
+    <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysima=
+ges/theworks/2015January/070115/s=2Egif=22 width=3D=22600=22 height=3D=2210=
+=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+  </tr>
+  <tr>
+    <td><table width=3D=22100llpadding=3D=220=22>
+      <tr>
+        <td width=3D=2210=22 rowspan=3D=222=22><img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=
+=2Egif=22 width=3D=2210=22 height=3D=221=22 alt=3D=22spacer=22 style=3D=22d=
+isplay:block;border:0;=22/></td>
+        <td width=3D=22148=22 valign=3D=22middle=22><a href=3D=22http://ema=
+il-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XrYGzdtqt4lai1NzcFMpzgzeVXtpKXEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 title=3D=22The Works=
+=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+theworks/2015January/070115/logo=2Ejpg=22 width=3D=22258=22 height=3D=2254=
+=22 alt=3D=22The Works=22 style=3D=22display:block;border:0;=22/></a></td>
+        <td rowspan=3D=222=22 align=3D=22right=22 valign=3D=22middle=22><ta=
+ble border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+          <tr>
+            <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3D=
+X0Gzc2XCBAA&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 title=
+=3D=22Free Click and Collect=22 target=3D=22_blank=22><img src=3D=22http://=
+static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/0701=
+15/click-collect=2Ejpg=22 width=3D=22145=22 height=3D=2293=22 alt=3D=22Free=
+ Click and Collect=22 style=3D=22display:block;border:0;=22/></a></td>
+            <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2210=22 height=
+=3D=225=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+            <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3D=
+X0Gzc2XCBAB&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 targe=
+t=3D=22_blank=22 title=3D=22Facebook=22><img src=3D=22http://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/facebook=
+=2Ejpg=22 width=3D=2230=22 height=3D=2230=22 alt=3D=22Facebook=22 style=3D=
+=22display:block;border:0;=22/></a></td>
+            <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2210=22 height=
+=3D=225=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+            <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3D=
+X0Gzc2XCBAC&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 targe=
+t=3D=22_blank=22 title=3D=22Twitter=22><img src=3D=22http://static=2Ecdn=2E=
+responsys=2Enet/i5/responsysimages/theworks/2015January/070115/twitter=2Ejp=
+g=22 width=3D=2230=22 height=3D=2230=22 alt=3D=22Twitter=22 style=3D=22disp=
+lay:block;border:0;=22/></a></td>
+          </tr>
+        </table></td>
+        <td width=3D=2210=22 rowspan=3D=222=22><img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=
+=2Egif=22 width=3D=2210=22 height=3D=221=22 alt=3D=22spacer=22 style=3D=22d=
+isplay:block;border:0;=22/></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+   <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimag=
+es/theworks/2015January/070115/s=2Egif=22 width=3D=22600=22 height=3D=225=
+=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+  </tr>
+    <tr>
+      <td><table width=3D=22600=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 style=3D=22border-bottom:1px solid =23e5e5e5;backgroun=
+d: =23fff url(http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/thew=
+orks/2015January/070115/nav-bg=2Ejpg) bottom repeat-x;=22>
+        <tr>
+          <td width=3D=2276=22 height=3D=2240=22 align=3D=22center=22 style=
+=3D=22font-size:13px;font-family:Arial, Helvetica, sans-serif; font-weight:=
+bold;=22><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2X=
+i_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22=
+_blank=22 style=3D=22color:=2300457e;text-decoration:none;=22>Books </a></t=
+d>
+          <td width=3D=2296=22 align=3D=22center=22 style=3D=22font-size:13=
+px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=3D=
+=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=2300457e;text-decoration:none;=22>Art &amp; Craft</a></td>
+          <td width=3D=2296=22 align=3D=22center=22 style=3D=22font-size:13=
+px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=3D=
+=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=2300457e;text-decoration:none=22>Stationery</a></td>
+          <td width=3D=22116=22 align=3D=22center=22 style=3D=22font-size:1=
+3px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=
+=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XpvPjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=
+=3D=22color:=2300457e;text-decoration:none=22  height=3D=2227=22>Toys &amp;=
+ Games</a></td>
+          <td width=3D=2265=22 align=3D=22center=22 style=3D=22font-size:13=
+px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=3D=
+=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=2300457e;text-decoration:none=22  height=3D=2227=22>Gifts</a></td>
+          <td width=3D=2295=22 align=3D=22center=22 style=3D=22font-size:13=
+px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=3D=
+=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=2300457e;text-decoration:none=22><img src=3D=22http://static=2Ecd=
+n=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/kids-zon=
+e=2Epng=22 width=3D=2285=22 height=3D=2240=22 alt=3D=22Kids Zone=22 style=
+=3D=22display:block;border:0;=22/></a></td>
+          <td width=3D=2256=22 align=3D=22center=22 style=3D=22font-size:13=
+px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;=22><a href=3D=
+=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=23EA2634;text-decoration:none=22>Sale</a></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr align=3D=22center=22>
+      <td><table width=3D=22580=22 border=3D=220=22 cellspacing=3D=220=22 c=
+ellpadding=3D=220=22>
+        <tr style=3D=22text-align:left;=22>
+          <td><table width=3D=22204=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2231=22 heigh=
+t=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22173=22 heig=
+ht=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></t=
+d>
+              </tr>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBA&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22color:=2300457e;text-decoration:none=22 titl=
+e=3D=22Free Delivery Available=22><img src=3D=22http://static=2Ecdn=2Erespo=
+nsys=2Enet/i5/responsysimages/theworks/2015January/070115/van=2Epng=22 widt=
+h=3D=2226=22 height=3D=2220=22 alt=3D=22Free Delivery Available=22 style=3D=
+=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBA&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22text-decoration:none; color:=23999;=22>Free =
+Delivery Available</a></td>
+              </tr>
+            </table></td>
+          <td><table width=3D=22183=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2219=22 heigh=
+t=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22164=22 heig=
+ht=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></t=
+d>
+              </tr>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBB&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22color:=2300457e;text-decoration:none=22 titl=
+e=3D=22UK Sales 0800 997 8 997=22><img src=3D=22http://static=2Ecdn=2Erespo=
+nsys=2Enet/i5/responsysimages/theworks/2015January/070115/hand=2Epng=22 wid=
+th=3D=2215=22 height=3D=2220=22 alt=3D=22UK Sales 0800 997 8 997=22 style=
+=3D=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBC&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22text-decoration:none; color:=23999;=22>FREE =
+CLICK &amp; COLLECT</a></td>
+            </tr>
+            </table></td>
+          <td><table width=3D=22193=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2225=22 heigh=
+t=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+              <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/re=
+sponsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22168=22 heig=
+ht=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></t=
+d>
+              </tr>
+            <tr style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:12px; text-transform:uppercase;=22>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBD&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22color:=2300457e;text-decoration:none=22 titl=
+e=3D=22300+ Stores Nationwide=22><img src=3D=22http://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/theworks/2015January/070115/bag=2Epng=22 width=
+=3D=2220=22 height=3D=2220=22 alt=3D=22300+ Stores Nationwide=22 style=3D=
+=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBBD&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 style=3D=22text-decoration:none; color:=23999;=22>300+ =
+Stores Nationwide</a></td>
+            </tr>
+            </table></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align=3D=22center=22><table width=3D=22600=22 border=3D=220=22 ce=
+llspacing=3D=220=22 cellpadding=3D=220=22>
+        <tr>
+          <td><span style=3D=22text-align:center;font-family:Arial, Helveti=
+ca, sans-serif;font-size:22px; font-weight:bold; color:=2300457e;=22><img s=
+rc=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2=
+015January/070115/s=2Egif=22 width=3D=22600=22 height=3D=2210=22 alt=3D=22s=
+pacer=22 style=3D=22display:block;border:0;=22/></span></td>
+        </tr>
+        <tr>
+          <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0=
+Gzc2XCR&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=
+=3D=22_blank=22 title=3D=22Spend &amp; Save - Shop Now=22><img src=3D=22htt=
+p://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/=
+070115/ban1=2Ejpg=22 width=3D=22600=22 height=3D=22372=22 alt=3D=22Spend &a=
+mp; Save - Shop Now=22 style=3D=22display:block;border:0;=22/></a></td>
+        </tr>
+        <tr>
+          <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0=
+Gzc2XAD&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=
+=3D=22_blank=22 title=3D=22Top Books=22><img src=3D=22http://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/ban2=2Ejp=
+g=22 width=3D=22600=22 height=3D=2241=22 alt=3D=22Top Books=22 style=3D=22d=
+isplay:block;border:0;=22/></a></td>
+        </tr>
+        <tr>
+          <td><table width=3D=22100=22 cellpadding=3D=220=22>
+            <tr>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCS&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22The Healthy Slow Cooker Cookbook=22><img src=
+=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/201=
+5January/070115/img1=2Ejpg=22 alt=3D=22The Healthy Slow Cooker Cookbook=22 =
+width=3D=22198=22 height=3D=22272=22 style=3D=22display:block;border:0;=22 =
+border=3D=220=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCT&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22BKS Iyengar Yoga - The Path To Holistic Heal=
+th=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimage=
+s/theworks/2015January/070115/img2=2Ejpg=22 width=3D=22196=22 height=3D=222=
+72=22 alt=3D=22BKS Iyengar Yoga - The Path To Holistic Health=22 style=3D=
+=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCU&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Baking Bad - The Ultimate Breaking Bad Inspi=
+red Baking Book=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/theworks/2015January/070115/img3=2Ejpg=22 width=3D=22206=22 =
+height=3D=22272=22 alt=3D=22Baking Bad - The Ultimate Breaking Bad Inspired=
+ Baking Book=22 style=3D=22display:block;border:0;=22/></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td><table width=3D=22100=22 cellpadding=3D=220=22>
+            <tr>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCW&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22The Power=22><img src=3D=22http://static=2Ec=
+dn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/img4=2E=
+jpg=22 alt=3D=22The Power=22 width=3D=22198=22 height=3D=22285=22 style=3D=
+=22display:block;border:0;=22 border=3D=220=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Keep It Vegan=22><img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/img=
+5=2Ejpg=22 width=3D=22196=22 height=3D=22285=22 alt=3D=22Keep It Vegan=22 s=
+tyle=3D=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCA&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Mrs Browns A to Y Of Everything=22><img src=
+=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/201=
+5January/070115/img6=2Ejpg=22 width=3D=22206=22 height=3D=22285=22 alt=3D=
+=22Mrs Browns A to Y Of Everything=22 style=3D=22display:block;border:0;=22=
+/></a></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><a href=3D=22http://email-theworks=2Eco=
+=2Euk/pub/cc?_ri_=3DX0Gzc2XFMpzgzeVXtpKXTzVkYd2E=2E=22 target=3D=22_blank=22 title=3D=22Shop All Books=22><img src=
+=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/201=
+5January/070115/ban3=2Ejpg=22 width=3D=22600=22 height=3D=2235=22 alt=3D=22=
+Shop All Books=22 style=3D=22display:block;border:0;=22/></a></td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><img src=3D=22http://static=2Ecdn=2Eresp=
+onsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 width=
+=3D=22600=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;=
+border:0;=22/></td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><a href=3D=22http://email-theworks=2Eco=
+=2Euk/pub/cc?_ri_=3DX0Gzc2XFMpzgzeVXtpKXTzVkYd2E=2E=22 target=3D=22_blank=22 title=3D=22Top Children's Books=22><im=
+g src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/thework=
+s/2015January/070115/ban4=2Ejpg=22 width=3D=22600=22 height=3D=2238=22 alt=
+=3D=22Top Children's Books=22 style=3D=22display:block;border:0;=22/></a></=
+td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><table width=3D=22100=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+            <tr>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCC&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Otto The Book Bear=22><img src=3D=22http://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/07011=
+5/img7=2Ejpg=22 alt=3D=22Otto The Book Bear=22 width=3D=22200=22 height=3D=
+=22273=22 style=3D=22display:block;border:0;=22 border=3D=220=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBCD&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Penguins Hidden Talent=22><img src=3D=22http=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/0=
+70115/img8=2Ejpg=22 width=3D=22196=22 height=3D=22273=22 alt=3D=22Penguins =
+Hidden Talent=22 style=3D=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBDR&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22The Early Reader Collection - 20 Books=22><i=
+mg src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/thewor=
+ks/2015January/070115/img9=2Ejpg=22 width=3D=22204=22 height=3D=22273=22 al=
+t=3D=22The Early Reader Collection - 20 Books=22 style=3D=22display:block;b=
+order:0;=22/></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><table width=3D=22100=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+            <tr>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBDS&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Beast Quest - 6 Book Set=22><img src=3D=22ht=
+tp://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January=
+/070115/img10=2Ejpg=22 alt=3D=22Beast Quest - 6 Book Set=22 width=3D=22200=
+=22 height=3D=22264=22 style=3D=22display:block;border:0;=22 border=3D=220=
+=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Horrible Histories Blood-Curdling Box Of Boo=
+ks=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimage=
+s/theworks/2015January/070115/img11=2Ejpg=22 width=3D=22196=22 height=3D=22=
+264=22 alt=3D=22Horrible Histories Blood-Curdling Box Of Books=22 style=3D=
+=22display:block;border:0;=22/></a></td>
+              <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBDU&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 ta=
+rget=3D=22_blank=22 title=3D=22Wheres Wally - The Solid Gold Collection=22>=
+<img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/thew=
+orks/2015January/070115/img12=2Ejpg=22 width=3D=22204=22 height=3D=22264=22=
+ alt=3D=22Wheres Wally - The Solid Gold Collection=22 style=3D=22display:bl=
+ock;border:0;=22/></a></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align=3D=22center=22><a href=3D=22http://email-theworks=2Eco=
+=2Euk/pub/cc?_ri_=3DX0Gzc2XFMpzgzeVXtpKXTzVkYd2E=2E=22 target=3D=22_blank=22 title=3D=22Shop All Children's Books=
+=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+theworks/2015January/070115/ban5=2Ejpg=22 width=3D=22600=22 height=3D=2239=
+=22 alt=3D=22Shop All Children's Books=22 style=3D=22display:block;border:0=
+;=22/></a></td>
+        </tr>
+        <tr>
+          <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22600=22 height=
+=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+        </tr>
+        <tr>
+          <td><a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0=
+Gzc2XBY&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 target=
+=3D=22_blank=22 title=3D=22Big Sale - Shop Now=22><img src=3D=22http://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/b=
+an6=2Ejpg=22 width=3D=22600=22 height=3D=22167=22 alt=3D=22Big Sale - Shop =
+Now=22 style=3D=22display:block;border:0;=22/></a></td>
+        </tr>
+        <tr>
+          <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22600=22 height=
+=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></td>
+        </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align=3D=22center=22>
+        <table width=3D=22580=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22>
+          <tr>
+            <td><table border=3D=220=22 align=3D=22left=22 cellpadding=3D=
+=220=22 cellspacing=3D=220=22>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i1=2Egif=22 width=3D=2229=22 height=3D=2221=22=
+ alt=3D=22Choose from a fantastic range of Discount products=22 style=3D=22=
+display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22>Choose from a fant=
+astic range of Discount Books, Arts & Crafts, Gifts, Stationery, Toys & Gam=
+es and DVD & Audio with massive savings of up to 80ding Discount Book Store=21 </td>
+              </tr>
+              <tr>
+                <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/=
+responsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=2249=22 hei=
+ght=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/></=
+td>
+                <td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/=
+responsysimages/theworks/2015January/070115/s=2Egif=22 width=3D=22531=22 he=
+ight=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:block;border:0;=22/><=
+/td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22top=
+=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+theworks/2015January/070115/i2=2Egif=22 alt=3D=22free delivery on orders ov=
+er &pound;20=22 width=3D=2229=22 height=3D=2219=22 style=3D=22display:block=
+=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22>Delivery Charges:<=
+br/>
+                  Click &amp; Collect to selected stores - FREE (delivered =
+in 3-5 working days)<br>
+                  Standard Delivery - &pound;2=2E99 (delivered in 3-5 worki=
+ng days)<br/>
+                  Next Day Delivery - &pound;6=2E99 (orders placed before 3=
+pm)</td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i3=2Egif=22 alt=3D=22warehouse clearance produ=
+cts=22 width=3D=2229=22 height=3D=229=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22> Our Crazy Clearan=
+ce is a great time to grab yourself a bargain=21 There are huge savings of =
+up to 80e need to make room for them in our warehouse=21 </td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i4=2Egif=22 alt=3D=22promotion codes details=
+=22 width=3D=2229=22 height=3D=2224=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22> Promotion code ap=
+plies to online orders only, cannot be used for bulk orders and cannot be u=
+sed in conjunction with any other offer=2E The Works reserves the right to =
+cancel any orders deemed to be for wholesale or resale purposes=2E Please n=
+ote an order will not qualify for free delivery if a promotion code ces=
+ the order total below &pound;20=2E</td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i5=2Egif=22 alt=3D=22contact details=22 width=
+=3D=2229=22 height=3D=2222=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22>Please do not repl=
+y to this email, as it doesn't accept any incoming mail=2E If you have any =
+queries please, <br>
+                  contact us at our <a href=3D=22http://email-theworks=2Eco=
+=2Euk/pub/cc?_ri_=3DX0Gzc2XFMpzgzeVXtpKXTzVkYd2E=2E=22 style=3D=22color:=2300457e;=22>Customer Service Centre</a></=
+td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i11=2Ejpg=22 alt=3D=22&pound;5 Off=22 width=3D=
+=2232=22 height=3D=2226=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22>We want to make su=
+re that every email you receive is stuffed full of products that you love=
+=21<br>
+                  To help us narrow down what you like, <a href=3D=22http:/=
+/email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2X4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 style=3D=22color:=2300457e=22>Update You=
+r Preferences</a>, and receive a &pound;5 off Discount Code=21 </td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i6=2Egif=22 alt=3D=22all prices are correct at=
+ the time of sending=22 width=3D=2229=22 height=3D=2219=22 style=3D=22displ=
+ay:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22> All prices on thi=
+s email are correct at the time of sending, and are subject to availability=
+=2E <br>
+                  Prices may differ online to those in stores=2E </td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i7=2Egif=22 alt=3D=22Some products available o=
+nline are not available in stores=22 width=3D=2229=22 height=3D=2225=22 sty=
+le=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22> Some products ava=
+ilable online are not available in stores=2E</td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i8=2Egif=22 alt=3D=22Discount codes can not be=
+ used in conjunction with any other offer=22 width=3D=2228=22 height=3D=221=
+7=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22> Discount codes ca=
+n not be used in conjunction with any other offer=2E </td>
+              </tr>
+              <tr>
+                <td colspan=3D=222=22><img src=3D=22http://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=2Egif=22 wi=
+dth=3D=22580=22 height=3D=2210=22 alt=3D=22spacer=22 style=3D=22display:blo=
+ck;border:0;=22/></td>
+              </tr>
+              <tr>
+                <td width=3D=2238=22 align=3D=22center=22 valign=3D=22middl=
+e=22><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/theworks/2015January/070115/i9=2Ejpg=22 alt=3D=22Unsubscribe=22 width=3D=
+=2229=22 height=3D=2226=22 style=3D=22display:block=22/></td>
+                <td align=3D=22left=22 valign=3D=22middle=22 style=3D=22fon=
+t-size:10px;font-family:Arial, Helvetica, sans-serif;=22>To update your pre=
+ferences, please <a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=
+=3DX0Gzc2XRRBCBDW&_ei_=3DEolaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 st=
+yle=3D=22color:=2300457e=22>Click Here</a>=2E Or, if you want to unsubscrib=
+e from our communications please <a href=3D=22http://email-theworks=2Eco=2E=
+uk/pub/cc?_ri_=3DX0Gzc2XzgzeVXtpKXkYd2E=2E=22 style=3D=22color:=2300457e=22>Click Here</a>=2E</td>
+              </tr>
+            </table></td>
+            </tr>
+          </table></td>
+    </tr>
+      <tr>
+  		<td height=3D=2250=22 align=3D=22center=22 valign=3D=22bottom=22><img s=
+rc=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2=
+015January/070115/6=2Egif=22 width=3D=22223=22 height=3D=2229=22 alt=3D=22W=
+hat will you discover=22 style=3D=22display:block=22/></td>
+  </tr>
+ =20
+    <tr>
+<td align=3D=22center=22 style=3D=22font-family:Arial, Helvetica, sans-seri=
+f;font-size:11px;=22>
+The Works Stores Limited, a company registered in England=2E Company Number=
+: 6557400=2E<br/> Registered Address Midpoint Park, Minworth, Sutton Coldfi=
+eld, West Midlands, B76 1RN<br/><a href=3D=22http://email-theworks=2Eco=2Eu=
+k/pub/cc?_ri_=3DX0Gzc2XgzeVXtpKXYd2E=2E=22 style=3D=22color:=2300457e;=22>www=2Etheworks=2Eco=2Euk</a></td>
+  </tr>
+ =20
+   <tr>
+<td><img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+theworks/2015January/070115/s=2Egif=22 width=3D=22600=22 height=3D=2230=22 =
+alt=3D=22spacer=22 style=3D=22display:block=22/></td>
+  </tr>
+    <tr>
+  <td height=3D=2210=22 style=3D=22background-color:=23f1f1f1;=22><img src=
+=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/201=
+5January/070115/s=2Egif=22 width=3D=22600=22 height=3D=2210=22 alt=3D=22spa=
+cer=22 style=3D=22display:block=22/></td>
+  </tr>
+  <tr>
+  <td align=3D=22right=22 style=3D=22font-family:Arial, Helvetica, sans-ser=
+if;font-size:10px; background-color:=23f1f1f1;=22>
+  <a href=3D=22http://email-theworks=2Eco=2Euk/pub/cc?_ri_=3DX0Gzc2XlLjHJlYQGpvPjyYcA8EYw4LSGrYGzdtqt4lai1NzcFMpzgzeVXtpKXlaGGF4SNMvxFF7KucKuWPB0QeEnA-7QVRoXddEM5KTzVkYd2E=2E=22 style=3D=22color:=
+=23000000;=22>Unsubscribe</a>
+  </td>
+  </tr>
+  <tr>
+  <td style=3D=22background-color:=23f1f1f1;=22><img src=3D=22http://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/theworks/2015January/070115/s=
+=2Egif=22 width=3D=22600=22 height=3D=2220=22 alt=3D=22spacer=22 style=3D=
+=22display:block=22/></td>
+  </tr>
+  <tr>
+    <td style=3D=22background-color:=23f1f1f1;=22><img src=3D=22https://pfa=
+=2Elevexis=2Ecom/theworks/tman=2Ecgi/tmpageid=3D34&tmtag=3Dimage&levyouruid=
+=3D=22 /></td>
+  </tr>
+    </table></td>
+  </tr>
+</table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+email-theworks=2Eco=2Euk/pub/as?_ri_=3DX0Gzc2XLSGrYGzdtqt4lai1NzcFMpzgzeVXHkMX7QVRoXddEM5KTzVkYd2E=2E=22>
+
+
+</body>
+</html>
+
+

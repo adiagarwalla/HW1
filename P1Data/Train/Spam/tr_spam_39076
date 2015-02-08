@@ -1,0 +1,91 @@
+From @..  Mon Jan  5 02:43:20 2015
+Return-Path: <@..>
+X-Original-To: cvwyo@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9A436DE; Mon,  5 Jan 2015 02:43:20 +0000 (UTC)
+Received: from mta1075.sbc.mail.ne1.yahoo.com (mta1075.sbc.mail.ne1.yahoo.com [98.138.207.44])
+    by .. with SMTP id 2gyjqu4wi9fc7p6y23sjd22gbn;
+    for cvwyo@fs.net;
+    Mon, 05 Jan 2015 02:43:20 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=98.138.207.44; envelope-from=<>;
+    helo=mta1075.sbc.mail.ne1.yahoo.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=98.138.207.44; client-port=34653;
+    syn-fingerprint=65535:50:1:60:M1380,N,W6,S,T; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.38 216.115.100.10 216.115.100.5 98.138.97.5
+    98.138.0.95 98.138.196.11 98.138.207.44; network-path-time=1420425800
+Received: (qmail 72110 invoked for bounce); 5 Jan 2015 02:43:05 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1420425785; bh=CnmcvHto49wJuwWv49jVAgAuj7NoX2Qvi+CcLMWb/Zw=; h=Date:From:To:Subject; b=a86G5n0dz0+hQjxEaYlsUvFEiAwIamJpm3uIrMkfmurYTmFfdQeWAMzgSg9c4pNYj3bqC0m2sXKdvdQwaf4UVflE+M6jqxfkkIazJSZLq1uFrbS8jztKxy04LimsTgcIbtovU6C4lQQMnlAajFKLv/bYIWDukZw+vcC+mmU0P3s=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=RHtD/EZef0bMevAz/zMqCoWVyc40pjRX7vaChhA/M1dnNS1uQAHD+S/oykA5gZgGuzhrlALGjVmtT7tPftSQy3ACrDWIDZkOQ/tTeiZyYBxiy8QdOs+ORv9V3jE8gVXhEjCem33g1p0OUtfRh0Ay6hfCc/CoTwX9QW/7LQz50Mc=  ;
+Date: 5 Jan 2015 02:43:05 -0000
+From: @..
+To: @..
+Subject: failure notice
+Message-Id: <20150105024320.9A436DE@..>
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<nevadaboys@aim.com>:
+64.12.88.131 failed after I sent the message.
+Remote host said: 521 5.2.1 :  (HVU:B2) http://postmaster.info.aol.com/errors/554hvub2.html
+
+--- Below this line is a copy of the message.
+
+Return-Path: <cvwyo@fs.net>
+X-Yahoo-ForwardOnly: from wileycharlie@sbcglobal.net to nevadaboys@aim.com
+X-Yahoo-Forwarded: from wileycharlie@sbcglobal.net to nevadaboys@aim.com
+Return-Path: <cvwyo@fs.net>
+X-YahooFilteredBulk: 189.197.178.219
+Received-SPF: none (domain of fs.net does not designate permitted sender hosts)
+X-YMailISG: 4L6TGtkWLDsM1imWlZwtfxDxMGzOstgFfWosNdfWHdsk77pM
+ l.V_4Gm9LssOwLzLYrd7b16SVXWpHXI9q9nvZGjXTQJHFUOOOE.OxhKeFENH
+ NEKJr5R_Aazuf87yZQAf7.9GiHnh08QfcSRxmFyQg.t1cMwx7dlco5njq3nc
+ ETg5hLioYq17s3Q8kDoQq0AXElYqOJ62kmRNjWSFfgWyk1V_weyo63psWoxu
+ g3F7YKXnabzUfQCcNBnXbZ53qjwqVn36BQ8S08cSD49.cc2lYyXUCm6MCsDV
+ ns6xDuxjMb28UWKlL8krPrq.xbg2r556KCRq04iAzZfHXk6d6UfbKQABEvYb
+ sBC2voj0I4fOufI34Z3oI3SLYkcaPsKUs10obOLuFL7r7wssGKlvKl5oiY4X
+ SZs22AbxAF.j5XrhdskX3J6YR3cPrAz1OTslauFBMSsckE_7GOKcAJqF.BAi
+ f3iC5o6_HXwcV3O2DGDQWnzNFIV7KitC5eCqihqIxVvJxgXtkN7KlgYTxZ4H
+ x88Qy.hVL7xT5DdRJLjWByKMr_XmsQZ7JR0X_VLCPiHxGoC3THa4q72pRH.r
+ rdV2pbtqhbyxXV.YzeLf0wNDqwzWg2GswStEOeou.Cn9RI66K6UkG9bPYWe2
+ lmBfRblv4AEzFolzW1JEHVxeyDHvD3ujlc.2l9JstmHDyRdMTgeuv149714d
+ Lihkb50XR71WkYc4XCPTvPSutcaMtKiDg6UMihf8BEH.nvZJz08WYXPuhcXh
+ AA6FCxrOtSU_IWjiWWWpoICx4aVqx2oBCoSrPPN0icm38wMWyBzRPbQEhiNE
+ FcMoOyuCoWKFf5i.0M1DLnCfkr8ETo.xXtO1fbE2FOvymLqHhpbEDAfDJObT
+ uxfEr.yEUD6aepJ5CLRdXZX7cYAiTYs.M3bcvtJIbhFCby4yRVa3wI0UXpZw
+ Nw6gQ69MirFcKaFqPLwhjvYCTnkZynKlRPsNlJHBfR9aM6NXBUvzCSKRPLxe
+ gS6hs36olSkuLMpgl89HGz_X2WDPlkHShoLJstLPfy9O1HpNVdA_vmwyc5Wt
+ dUqmhDzY1rdfSrdiUNGEIXxbJxLU6A2XCXF66mpixxzKKci3xnBiKUKXwHHG
+ TWyXajn5D8KnXjjuYjjao0m3Ar2OVlrfN3gB1eJC912NLYux_XjNQnmnjjfq
+ 9xF_G_VH63gxp7d3TTgfztn.rKAL4hrjCTjBWKed9VP9mQsmpsiT3Wz6aNd.
+ MBZMvqsefJgbqvKXheKUiZ9T_edY9b0dl40TO59bw0rK8c0erVUDPpCS_QYf
+ 9oIDAC7PkUp0_E3Q7p.Ts.sGa3aPAJn5J_gKuq_3WxVFYg--
+X-Originating-IP: [189.197.178.219]
+Authentication-Results: mta1075.sbc.mail.ne1.yahoo.com  from=fs.net; domainkeys=neutral (no sig);  from=fs.net; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO [189.197.178.219]) (189.197.178.219)
+  by mta1075.sbc.mail.ne1.yahoo.com with SMTP; Mon, 05 Jan 2015 02:43:01 +0000
+From: "wileycharlie@sbcglobal.net" <cvwyo@fs.net>
+To: <wileycharlie@sbcglobal.net>
+Subject: Medicines Online
+Date: 4 Jan 2015 13:33:48 -0700
+Message-ID: <002c01d0285f$03a8001d$dc8155b2$@fs.net>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: Ackkvt93jygmf37pkkvt93jygmf37p==
+Content-Language: en-us
+
+Medstore International
+http://naturalcaresupply.ru/?d$fg$gsf
+

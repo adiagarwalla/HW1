@@ -1,0 +1,209 @@
+From @..  Sun Jan 18 00:11:03 2015
+Return-Path: <@..>
+X-Original-To: nev271@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B27D6DE; Sun, 18 Jan 2015 00:11:03 +0000 (UTC)
+Received: from a0-37.smtp-out.eu-west-1.amazonses.com (a0-37.smtp-out.eu-west-1.amazonses.com [54.240.0.37])
+    by .. with SMTP id k8yasyrb24qr57e2afa59gxmfs;
+    for nev271@fs.net;
+    Sun, 18 Jan 2015 00:11:03 +0000 (UTC)
+    (envelope-from 201501180010424e102b26049d455f9f405bcd7f7e4133-C2LYALFD3COOKT@bounces.amazon.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=54.240.0.37;
+    envelope-from=<201501180010424e102b26049d455f9f405bcd7f7e4133-C2LYALFD3COOKT@bounces.amazon.com>;
+    helo=a0-37.smtp-out.eu-west-1.amazonses.com; mechanism=include:amazon.com
+    (include:amazonses.com (ip4:54.240.0.0/18 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=54.240.0.37; client-port=54311;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.138 129.250.8.193
+    129.250.2.44 129.250.4.165 129.250.3.21 129.250.3.179 129.250.2.147
+    129.250.6.26 0.0.0.0 178.236.3.57 0.0.0.0 176.32.106.27 0.0.0.0 0.0.0.0
+    176.32.106.133; network-path-time=1421539862
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1421539842;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=WDF4kBm6fUZGDTbDI61qP3Lxfjqs3ERzEifwqMTn1FQ=;
+	b=SAVHCmvQLmp6hrWQ1xAwdYB83GnZq8Hv6dfkPuTdPeYKHvGde3DYt7pcNmlAjNWZ
+	pKr3uCkEz46kkRu3sVFeCNK03WgXP59NOcJ2Sf3dTS76+cEvbWKVZOwh3XoR5pYY8Ov
+	ucROncDOCBfEVbmBspPE9vfsjGXnlLrkn53QMxnI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hwblxdtwo6g37yq6ivfmb4s74hozqz45; d=amazon.co.uk; t=1421539842;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=WDF4kBm6fUZGDTbDI61qP3Lxfjqs3ERzEifwqMTn1FQ=;
+	b=NyFpvqX/bBBt/9N1CKmLXGaUOwaLZlnM6nS5+RLzBRsZc4GWGLc9SjUBmigggvSN
+	jo9/etpWzuNvCvJ5eXRjRL386aJx+vV2AOzsvINPH93y3FEbQUZRdU9GuZpTjn7Ozid
+	VHVJL7RHctzSYiGb8WAWhpuWNkVqGNjphBXteSig=
+Date: Sun, 18 Jan 2015 00:10:42 +0000
+From: "Amazon.co.uk Reviews" <@..>
+To: "nev271@fs.net" <@..>
+Message-ID: <0000014afa609b44-4158d450-28d2-405e-9e0b-3b1fe0ec1f4f-000000@eu-west-1.amazonses.com>
+Subject: How many stars would you give 'Fool's Errand (The Tawny Man
+ Trilogy, Book 1)'?
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_85437814_1680876869.1421539842702"
+Bounces-to: 201501180010424e102b26049d455f9f405bcd7f7e4133-C2LYALFD3COOKT@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201501180010424e102b26049d455f9f405bcd7f7e4133@1421539842826.massmail-sender-eu-1a-i-00b6984d.eu-west-1.amazon.com>
+X-SES-Outgoing: 2015.01.18-54.240.0.37
+Feedback-ID: eu-west-1.MjAxNTAxMTgwMDEwNDI0ZTEwMmIyNjA0OWQ0NTVmOWY0MDViY2Q3ZjdlNDEzMy1DMkxZQUxGRDNDT09LVEBib3VuY2VzLmFtYXpvbi5jb20=:AmazonSES
+
+------=_Part_85437814_1680876869.1421539842702
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_85437815_350160998.1421539842702"
+
+------=_Part_85437815_350160998.1421539842702
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+
+
+neville, what do you think? Please share your opinion with others on Amazon.co.uk.
+
+
+
+
+Fool's Errand (The Tawny Man Trilogy, Book 1) 
+~ Robin Hobb 
+Review this product 
+     https://www.amazon.co.uk/review/review-your-purchases/ref=cm_1_txt?_encoding=UTF8&asins=B005JE1KD8&channel=ec_dgt&crAuthToken=gBMp7ZqeQOWkzk2Q4dPK1Vq1N4guc1BucPiJkpwAAAADAAAAAFS6
+
+If you'd rather not receive future e-mails of this sort from Amazon.co.uk at nev271@fs.net, please opt-out here: http://www.amazon.co.uk//gp/gss/o/1Zb4z4EV1ghqGMnY7fa7ESIFOm0cN2wr86s6FdlKFcyA
+
+Reference 62162051. Amazon EU Sarl. Luxembourg, Reg# B-101818, 5 Rue Plaetis, L-2338 Luxembourg. VAT # LU 20260743.
+
+
+
+------=_Part_85437815_350160998.1421539842702
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+<html> <head> <style>
+      .ReadMsgBody{width: 100      .ExternalClass{width: 100     =20
+      *{
+         padding:0;
+         margin:0;
+       }    =20
+         =20
+      #fbTwitter div table tbody tr td{padding:2px;}  =20
+</style> </head> <body bgcolor=3D"#FFFFFE"><img src=3D"http://www.amazon.co=
+.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DJYKBJALXTYQXZSG3ADJU4=
+8RXBQCA&T=3DO&U=3Dhttpe-height:10px;"> &nbsp; </div> <div style=3D"font-size:10px; line-height:10=
+px;"> &nbsp; </div> <table data-component=3D"DH01" width=3D"460" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"text-align: left; border-spacing:0px; fo=
+nt-family: arial, helvetica, verdana, sans-serif; "> <tr> <td> <div style=
+=3D"line-height: 10px; font-size:10px; "> &nbsp; </div> <a href=3D"http://w=
+ww.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3D7LRXZZW6P=
+GJT6OL3GY2XQEX6XJSA&T=3DC&U=3Dhttp.html-left:10px;"><img src=3D"http://g-ecx.images-amazon.com/images/G/02/x-local=
+e/common/small-logo._V152931890_.gif" width=3D"152" alt=3D"amazon.co.uk" he=
+ight=3D"36" border=3D"0" /></span> </a> </td> <td width=3D"99top"> <span style=3D"line-height: 10px; font-size:10px; "> &nbsp; </span> <=
+div style=3D"width: 300px; line-height: 10px; border-bottom:solid #cccccc 1=
+px; margin-right:10px;"> &nbsp; </div> </td> </tr> </table> <table data-com=
+ponent=3D"DINT01" width=3D"450" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"text-align: left; border-spacing:0px; font-family: arial, helvetica, ve=
+rdana, sans-serif; "> <tr> <td colspan=3D"2" > <div style=3D"font-size:10px=
+; line-height:10px;"> &nbsp; </div> <div style=3D"font-size:18px; color: #0=
+00000; margin-left:10px;font-family: arial, helvetica, verdana, sans-serif"=
+>
+      neville, what do you think? Please share your opinion with others on =
+Amazon.co.uk.
+      </div> </td> </tr> </table> <div style=3D"font-size:20px; line-height=
+:20px;"> &nbsp; </div> <table data-component=3D"DST01" width=3D"460" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"text-align: left; border-bottom:soli=
+d #cccccc 1px; border-spacing:0px;border-collapse:collapse"> <tr> <td valig=
+n=3D"top"> <div class =3D"img" style=3D"margin-left:17px; margin-right:21px=
+;"> <a href=3D "http://www.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30K=
+T0AULVKTYC&H=3DVESZBJW47EGPRYLDLRCSYKOUQNYA&T=3DC&U=3Dhttpszon.co.ukimgncustomerIdes/I/51iBaCgF0SL._SX180_.jpg" width=3D"180" alt=3D"Fool's Errand (The Tawny=
+ Man Trilogy, Book 1)" height=3D"275" border=3D"0" /> </a> </div> <div styl=
+e=3D"font-size:15px; line-height:15px;"> &nbsp; </div> </td> <td valign=3D"=
+top"> <div style=3D"margin-right:21px;"> <a href=3D"http://www.amazon.co.uk=
+/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DUEHEGG7GV18OJG27F9DNT6TF=
+WB4A&T=3DC&U=3DhttpssesE1KD8iJkpwAAAADAAAAAFS6text-decoration: none"> <span style=3D"font-size: 14px; color:#666666; font=
+-family: arial, helvetica, verdana, sans-serif">Fool's Errand (The Tawny Ma=
+n Trilogy, Book 1)</span> <div style=3D"font-size:4px; line-height:4px;"> &=
+nbsp; </div> <span style=3D"font-size: 14px; color:#999999; font-family: ar=
+ial, helvetica, verdana, sans-serif">     =20
+              Robin Hobb <span style=3D"font-size:1px; "> &nbsp; </span> </=
+span> <div style=3D"font-size:20px; line-height:20px;"> &nbsp; </div> </a> =
+<a href=3D"http://www.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AUL=
+VKTYC&H=3DTZLCPAMCONV1FTFEKX4KJBJKDMEA&T=3DC&U=3Dhttpso.ukF_encodingBMp7ZqeQOWkzk2Q4dPK1Vq1N4guc1BucPiJkpwAAAADAAAAAFS6merIdrap" style=3D"font-size:21px; color:#e47911; font-family: arial, helvetica,=
+ verdana, sans-serif">
+            Start by rating it
+          </div> </a> <div style=3D"font-size:5px; line-height:5px;"> &nbsp=
+; </div> <table cellspacing=3D"0" cellpadding=3D"0" style=3D"border-spacing=
+:0px; width:200px;"> <tr> <td align=3D"center" style=3D"height:35px;" nowra=
+p=3D"nowrap"> <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VC=
+T&C=3D30KT0AULVKTYC&H=3DBBOWZCXDRJR35V4S65N2R31ONMEA&T=3DC&U=3Dhttps2Fwww.amazon.co.uk051_cm_1_star1FS6text-decoration:none"><img src=3D"http://g-ecx.images-amazon.com/images/G/0=
+2/x-locale/common/customer-reviews/ratings/big-empty-stars-single._V4023167=
+66_.png" width=3D"35" alt=3D"&#9734;" height=3D"32" border=3D"0" /></a> </t=
+d> <td align=3D"center" style=3D"height:35px;" nowrap=3D"nowrap"> <a href=
+=3D"http://www.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=
+=3DSQXSPLSHTR5WMDPG8QSGR4TZXGAA&T=3DC&U=3Dhttpsreviewodingen6customerId><img src=3D"http://g-ecx.images-amazon.com/images/G/02/x-locale/common/cus=
+tomer-reviews/ratings/big-empty-stars-single._V402316766_.png" width=3D"35"=
+ alt=3D"&#9734;" height=3D"32" border=3D"0" /></a> </td> <td align=3D"cente=
+r" style=3D"height:35px;" nowrap=3D"nowrap"> <a href=3D"http://www.amazon.c=
+o.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DMCJSFHFI7BQCFA4DKFQA=
+GP2NK2UA&T=3DC&U=3DhttpsrchasesB005JE1KD8PK1Vq1N4guc1BucPiJkpwAAAADAAAAAFS6V4VYU"  style=3D"display:block;text-decoration:none"><img src=3D"http://g-e=
+cx.images-amazon.com/images/G/02/x-locale/common/customer-reviews/ratings/b=
+ig-empty-stars-single._V402316766_.png" width=3D"35" alt=3D"&#9734;" height=
+=3D"32" border=3D"0" /></a> </td> <td align=3D"center" style=3D"height:35px=
+;" nowrap=3D"nowrap"> <a href=3D"http://www.amazon.co.uk/gp/r.html?R=3D1A6O=
+TLH1G9VCT&C=3D30KT0AULVKTYC&H=3DJMNHPPIVAWQYRSDEXIBLPBCNA5YA&T=3DC&U=3Dhttp=
+s41_62162051_cm_1_star46channelAADAAAAAFS6y:block;text-decoration:none"><img src=3D"http://g-ecx.images-amazon.com/im=
+ages/G/02/x-locale/common/customer-reviews/ratings/big-empty-stars-single._=
+V402316766_.png" width=3D"35" alt=3D"&#9734;" height=3D"32" border=3D"0" />=
+</a> </td> <td align=3D"center" style=3D"height:35px;" nowrap=3D"nowrap"> <=
+a href=3D"http://www.amazon.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULV=
+KTYC&H=3DNALAYJSFKKNOZ0AL2JRQOPS0GAEA&T=3DC&U=3Dhttps.uk3F_encodinguthTokenAAAA:none"><img src=3D"http://g-ecx.images-amazon.com/images/G/02/x-locale/comm=
+on/customer-reviews/ratings/big-empty-stars-single._V402316766_.png" width=
+=3D"35" alt=3D"&#9734;" height=3D"32" border=3D"0" /></a> </td> </tr> </tab=
+le> <div style=3D"font-size:15px; line-height:15px;"> &nbsp; </div> </div> =
+</td> </tr> </table> <table data-component=3D"DH02" width=3D"450" style=3D"=
+text-align: left;"> <tr> <td> <div style=3D"line-height: 15px; font-size:15=
+px"> &nbsp; </div> <div style=3D"font-size: 18px; color:#e47911;font-family=
+: arial, helvetica, verdana, sans-serif">
+        More past products to review
+      </div> </td> </tr> </table> <table data-component=3D"DOLD01" width=3D=
+"450" style=3D"text-align: left;"> <tr> <td> <div style=3D"line-height: 15p=
+x; font-size: 7px;"> &nbsp; </div> <div class=3D"rypDiv" style=3D"font-size=
+: 14px; color: #333333; margin-right: 37px; text-decoration: none; font-fam=
+ily: arial, helvetica, verdana, sans-serif">
+          Check out <a id=3D"heroRolpRypLink" href=3D"http://www.amazon=
+.co.uk/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DATAJREDLUJ5RCNANB7=
+ENXUS7SK0A&T=3DC&U=3Dhttpspurchases05JE1KD8ucPiJkpwAAAADAAAAAFS6=3D"text-decoration:none; color:#124C90">amazon.co.uk/ryp</a> to find all y=
+our products to review.
+      </div> </td> </tr> </table> <table data-component=3D"DFT01" width=3D"=
+450" style=3D"text-align: left;"> <tr> <td> <div style=3D"line-height: 15px=
+; font-size: 7px;border-bottom:solid #cccccc 1px;"> &nbsp; </div> <div styl=
+e=3D"line-height: 15px; font-size: 7px;"> &nbsp; </div> <div style=3D"color=
+: #999;  font-size: 10px; text-decoration: none; font-family: arial, helvet=
+ica, verdana, sans-serif">
+        If you'd rather not receive future e-mails of this sort from Amazon=
+.co.uk at nev271@fs.net, please opt-out <a href=3D"http://www.amazon.co.uk/=
+gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DNSFVG1UYD6PBISY2QS1N2SYTA=
+KYA&T=3DX&U=3DhttpqGMnY7fa7ESIFOm0cN2wr86s6FdlKFcyA" style=3D"text-decoration:none; color:#12=
+4c90">here</a>.             =20
+      </div> <div style=3D"line-height: 15px; font-size: 7px;"> &nbsp; </di=
+v> <div style=3D"color: #999; font-size: 10px;font-family: arial, helvetica=
+, verdana, sans-serif">
+        Reference 62162051. Amazon EU Sarl. Luxembourg, Reg# B-101818, 5 Ru=
+e Plaetis, L-2338 Luxembourg. VAT # LU 20260743.
+      </div> </td> </tr> </table> </div> <img src=3D"http://www.amazon.co.u=
+k/gp/r.html?R=3D1A6OTLH1G9VCT&C=3D30KT0AULVKTYC&H=3DHOLOL3A4DAZCJJQLKQDDCQA=
+5FAKA&T=3DE&U=3DhttpFtransp.gif" /></body> </html>
+
+
+
+
+------=_Part_85437815_350160998.1421539842702--
+
+------=_Part_85437814_1680876869.1421539842702--
+

@@ -1,0 +1,28 @@
+From @..  Sun Jan  4 15:44:31 2015
+Return-Path: <@..>
+X-Original-To: vyeung@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A4A94DF; Sun,  4 Jan 2015 15:44:31 +0000 (UTC)
+Received: from 156.95.86.109.triolan.net (109.86.95.156 [109.86.95.156])
+    by .. with SMTP id 6s34tsehfvgtn472zmim9rzb72;
+    Sun, 04 Jan 2015 15:44:31 +0000 (UTC)
+    (envelope-from tukmi@calviswyant.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=109.86.95.156; envelope-from=<tukmi@calviswyant.com>;
+    helo=156.95.86.109.triolan.net; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=109.86.95.156; client-port=55714;
+    syn-fingerprint=8192:113:1:52:M1380,N,W2,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); colon-space; network-hops=10; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 206.223.119.172
+    87.245.233.57 87.245.237.91 0.0.0.0 109.86.95.156;
+    network-path-time=1420386260; RBL=cbl.abuseat.org (127.0.0.2),
+    dnsbl.sorbs.net (127.0.0.6 127.0.0.10), bl..net (127.0.0.2),
+    dul.dnsbl.sorbs.net (127.0.0.10), zen..org (127.0.0.3 127.0.0.11
+    127.0.0.4)
+Received: from 16.4.111.248 by 109.86.95.156; Mon, 05 Jan 2015 05:37:08 +0600
+Message-ID: <B[20
+Date: Sun,  4 Jan 2015 15:44:31 +0000 (UTC)
+From: @.. (root)
+

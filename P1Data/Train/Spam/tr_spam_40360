@@ -1,0 +1,453 @@
+From @..  Thu Jan  8 18:06:05 2015
+Return-Path: <@..>
+X-Original-To: alexjam@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id EC22BDE; Thu,  8 Jan 2015 18:06:05 +0000 (UTC)
+Received: from so254-63.mailgun.net (so254-63.mailgun.net [198.61.254.63])
+    by .. with SMTP id 7vmjqhvwpu9y6iw5g7ycc24uxs;
+    for alexjam@fs.net;
+    Thu, 08 Jan 2015 18:06:05 +0000 (UTC)
+    (envelope-from bounce+ca5b23.43a5c-alexjam=fs.net@norwaysecure.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.63;
+    envelope-from=<bounce+ca5b23.43a5c-alexjam=fs.net@norwaysecure.com>;
+    helo=so254-63.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.63; client-port=39726;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.131 162.209.19.165;
+    network-path-time=1420740365
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=norwaysecure.com; q=dns/txt;
+ s=mx; t=1420740348; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=GeIUmbGbmnIx4sUNyv7E8seAZKhUBsvW+52DGoS9wfc=; b=kgdJbBa7y78PY5DaxMP9dXuF+1gI5tZJrJxUlNQvP73t/codMD9H93HnFY3WhpLJAz1kbd5G
+ uHYG7uSW6q0hlA3Pr6jb72piHewLNkgbp9ZUNLu4Q2bmy6gZxhxhqF58TXCRfvdSvz6PH/NN
+ 3A9xiA6KtNxZCU6eOxZKTwYTvJU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=norwaysecure.com; s=mx;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=acmwcbmf6/OjcBsl3tSSXtHsJ/t5JQTayNG0ylogSMiLKOJ9KcpTL/A7iubp6e7vrfiGF2
+ EIgiY69YwSOOIVguTae2zaAl+6GgaLJXsigasiUXaR6tL5EdP/NHyGtGOyU7O6iPbXso6rhc
+ HJ7IiMaqUzv/dXSBzwUSPTZD+ozQ4=
+Received: from mail.norwaysecure.com (norwaysecure.com [78.47.135.197]) by
+ mxa.mailgun.org with ESMTP id 54aec694.7f1168c5ff30-in6; Thu, 08 Jan 2015
+ 18:04:04 -0000 (UTC)
+Received: from mail.norwaysecure.com (localhost [127.0.0.1])	by
+ mail.norwaysecure.com (Postfix) with ESMTP id 3A3DB930B7	for
+ <alexjam@fs.net>; Thu, 8 Jan 2015 20:04:06 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=norwaysecure.com;	s=dkim;
+ t=1420740246;	bh=GeIUmbGbmnIx4sUNyv7E8seAZKhUBsvW+52DGoS9wfc=;	h=Date:From:To:Subject:From;	b=ZP6Gag7y9osXvERBMtqUVmS1EGiymfpGmksj5KOzaubqRf89dhi6gP0qct4AQ92qt	
+ jIEgsmIm/BeexqfCPItXwRSU2rF5tX0/JHlCUHtcNHBXpJGnkCAlKb4S0JPHoPCHok	
+ kh9GNp8uZKoiG7p60DVCBs+YHRp7Q2jbs4rCOTRM=
+Date: Thu, 8 Jan 2015 20:04:06 +0200 (EET)
+From: ACA <@..>
+To: "alexjam@fs.net" <@..>
+Message-Id: <278063024.1782701.1420740246236.JavaMail.root@mail.norwaysecure.com>
+Subject: Injury Claims: Find Out in Seconds if You're Owed Compensation.
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1782699_884395606.1420740246232"
+X-Mailgun-Sid: WyI3OTY1OCIsICJhbGV4amFtQGZzLm5ldCIsICI0M2E1YyJd
+Sender: @..
+
+------=_Part_1782699_884395606.1420740246232
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1782700_1302629155.1420740246232"
+
+------=_Part_1782700_1302629155.1420740246232
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+AccidentCompensationAlliance This message contains useful information. If y=
+our e-mail provider blocks the images, please enable them for a complete pr=
+eview. ADVERTISEMENT Injured? Calculate how much you could claim - click he=
+re ? ACCIDENT COMPENSATION ALLIANCE 100N AN ACCIDENT? ? ? ? ? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACCIDENTS ? ? =
+Find out how much you can claim in 30 seconds > ? ? ? *Subject to insurance=
+ costs. Fee payable if case not pursued at client's request. All cases and =
+awards are judged individually based on the circumstances. Testimonials fro=
+m customers using our panel of solicitors. If you are unable to click throu=
+gh from this email, please copy and paste the link below into your internet=
+ browser's address bar (or just click):? Accident Compensation Alliance (AC=
+A) is regulated by the Claims Management Regulator in respect of regulated =
+claims management activities; its registration is recorded on the website c=
+laimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 F=
+arm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? You have =
+received this email because you gave the sender permission to send you adve=
+rtisements by email. To change your preferences please contact the sender o=
+r use their unsubscribe link. ADVERTISEMENT Injured? Calculate how much you=
+ could claim - click here ACCIDENT COMPENSATION ALLIANCE 100* HURT OR INJURED IN AN ACCIDENT? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACC=
+IDENTS ? Find out how much you can claim in 30 seconds > ? ? *Subject to in=
+surance costs. Fee payable if case not pursued at client's request. All cas=
+es and awards are judged individually based on the circumstances. Testimoni=
+als from customers using our panel of solicitors. If you are unable to clic=
+k through from this email, please copy and paste the link below into your i=
+nternet browser's address bar (or just click):? Accident Compensation Allia=
+nce (ACA) is regulated by the Claims Management Regulator in respect of reg=
+ulated claims management activities; its registration is recorded on the we=
+bsite claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (AC=
+A), 7 Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? Yo=
+u have received this email because you gave the sender permission to send y=
+ou advertisements by email. To change your preferences please contact the s=
+ender or use their unsubscribe link. The advertiser does not manage your su=
+bscription. If you prefer not to receive further communication, here is the=
+ way to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece
+------=_Part_1782700_1302629155.1420740246232
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+    <title>AccidentCompensationAlliance </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+</head>
+<body>
+    <p style="font-weight:bold; font-family:Arial;" align="center">
+        This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.
+    </p>
+    <style type="text/css">
+        @media only screen and (max-width:320px), only screen and (max-device-width:320px) {
+            /* - - - - - HOTMAIL FIXES*/
+            .ReadMsgBody {
+                width: 100            }
+
+            ExternalClass {
+                width: 100            }
+
+            a[href^="tel"], a[href^="sms"] {
+                text-decoration: none;
+                color: #9ec459; /* or whatever your want */
+                pointer-events: none;
+                cursor: default;
+            }
+
+            table[id=container] {
+                -webkit-text-size-adjust: 100            }
+
+            div[id=mobile] {
+                display: block !important;
+                width: 100                height: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+            }
+
+            div[id=desktop] {
+                display: none !important;
+                width: 0px !important;
+                max-height: 0px !important;
+                overflow: hidden !important;
+                padding: 2px !important;
+                margin: 0px !important;
+            }
+        }
+    </style>
+
+    <table id="container" style="font-family:Arial;" align="center" width="98        <tr>
+            <td align="center">
+                <!-- DESKTOP -->
+                <div id="desktop" style="display:block; width:100
+                    <table align="center" width="100                        <tr>
+                            <td>
+                                <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100                                                <tr>
+                                                    <td align="center" valign="middle" width="100                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-family: Arial, sans-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); text-align: center; font-size: 11px; line-height: 14px; background-color: rgb(255, 255, 255);" width="600" height="21"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191">Injured? Calculate how much you could claim - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #505863;" width="600" height="318"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="-"><img style="display:block; margin:0px; padding:0px;" alt="-" src="http://norwaysecure.com/qpxrew5eom7da" width="600" height="318" border="0" /></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="63">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="30" height="63">&nbsp;</td>
+                                                    <td style="background-color: #ffffff;" width="63" height="63"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="ACA"><img style="display:block; margin:0px; padding:0px;" alt="ACA" src="http://norwaysecure.com/pj3gnp" width="63" height="63" border="0" /></a></td>
+                                                    <td style="font-style: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, sans-serif; text-align: center; font-size: 22px; line-height: 27px; background-color: #ffffff;" width="482" height="63">
+                                                        ACCIDENT <font style="color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100                                                    </td>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="25" height="63">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-style: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, sans-serif; text-align: center; font-size: 45px; line-height: 50px; background-color: rgb(255, 255, 255);" width="600" height="114">
+                                            HURT <font style="color:#151515">OR</font> INJURED
+                                            <br>
+                                            <font style="color:#151515">IN AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="54">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="67" height="54">&nbsp;</td>
+                                                    <td style="background-color: #FFFFFF;" width="467" height="54"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="Start your claim &gt;"><img style="display:block; margin:0px; padding:0px;" alt="Start your claim &gt;" src="http://norwaysecure.com/q1ysdbvfqojp" width="467" height="54" border="0" /></a></td>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="66" height="54">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="600" height="21">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="93">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="9" height="93">&nbsp;</td>
+                                                    <td style="background-color: #FFFFFF;" width="583" height="93"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="-"><img style="display:block; margin:0px; padding:0px;" alt="-" src="http://norwaysecure.com/yxmefv6ewxraz" width="583" height="93" border="0" /></a></td>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="8" height="93">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="38">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 15px; line-height: 20px; background-color: rgb(255, 255, 255);" width="202" height="38">ROAD ACCIDENTS</td>
+                                                    <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 15px; line-height: 20px; background-color: rgb(255, 255, 255);" width="199" height="38">WORK ACCIDENTS</td>
+                                                    <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 15px; line-height: 20px; background-color: rgb(255, 255, 255);" width="199" height="38">OTHER ACCIDENTS</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="600" height="11">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="52">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="19" height="52">&nbsp;</td>
+                                                    <td style="font-style: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; font-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height: 21px; background-color: rgb(255, 255, 255);" width="256" height="52">
+                                                        <a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" style="color:#888888">
+                                                            Find out how much you
+                                                            <br>
+                                                            can claim in 30 seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                    <td style="background-color: #FEFFFF;" width="313" height="52"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="Start your claim &gt;"><img style="display:block; margin:0px; padding:0px;" alt="Start your claim &gt;" src="http://norwaysecure.com/prvoqkllyf" width="313" height="52" border="0" /></a></td>
+                                                    <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="12" height="52">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="600" height="9">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="600" height="126">
+                                            <table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #E9E9E9; font-size: 1px; line-height: 1px;" width="20" height="126">&nbsp;</td>
+                                                    <td style="font-family: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; background-color: rgb(233, 233, 233);" width="547" height="126">
+                                                        *Subject to insurance costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and awards are judged individually based on the circumstances. Testimonials from customers using our panel of solicitors. If you are unable to click through from this email, please copy and paste the link below into your internet browser's address bar (or just click):&copy; Accident Compensation Alliance (ACA) is regulated by the  Claims Management Regulator in respect of regulated claims management activities; its registration is recorded on the website claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style="background-color: #E9E9E9; font-size: 1px; line-height: 1px;" width="33" height="126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100                                                <tr>
+                                                    <td align="center" valign="middle" width="100                                                        You have received this email because you gave the sender
+                                                        <br>
+                                                        permission to send you advertisements by email. To change
+                                                        <br>
+                                                        your preferences please contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>  <!-- DESKTOP -->
+                <!-- MOBILE -->
+                <!-- <div id="mobile" style="display:block !important; width:100                     <div id="mobile" style="display:none; width:0px; max-height:0px; overflow:hidden; padding:2px; ">
+
+                    <table align="center" width="100                        <tr>
+                            <td>
+                                <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100                                                <tr>
+                                                    <td align="center" valign="middle" width="100                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-family: Arial, sans-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); text-align: center; font-size: 11px; line-height: 14px; background-color: rgb(255, 255, 255);" width="300" height="21"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191">Injured? Calculate how much you could claim - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #505863;" width="300" height="159">
+                                            <a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="-">
+                                                <img style="display:block; margin:0px; padding:0px;" alt="-" src="http://norwaysecure.com/qpxrew5eom7da_2" width="300" height="159" border="0" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="300" height="63">
+                                            <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    
+                                                    <td style="background-color: #ffffff;" width="63" height="63"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="ACA">
+                                                        <img style="display:block; margin:0px; padding:0px;" alt="ACA" src="http://norwaysecure.com/pj3gnp" width="63" height="63" border="0" /></a></td>
+                                                    <td style="font-style: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, sans-serif; text-align: center; font-size: 15px; line-height: 20px; background-color: #ffffff;" width="226" height="23">
+                                                        ACCIDENT <font style="color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100                                                    </td>
+                                                   
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-style: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, sans-serif; text-align: center; font-size: 25px; line-height: 30px; background-color: rgb(255, 255, 255);" width="300" height="74">
+                                            HURT <font style="color:#151515">OR</font> INJURED
+                                            <br>
+                                            <font style="color:#151515">IN AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="300" height="54">
+                                            <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    
+                                                    <td style="background-color: #FFFFFF;" width="467" height="35"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="Start your claim &gt;">
+                                                        <img style="display:block; margin:0px; padding:0px;" alt="Start your claim &gt;" src="http://norwaysecure.com/q1ysdbvfqojp_2" width="300" height="35" border="0" /></a></td>
+                                                   
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="300" height="21">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="300" height="48">
+                                            <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                   
+                                                    <td style="background-color: #FFFFFF;" width="583" height="48">
+                                                    <a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="-">
+                                                        <img style="display:block; margin:0px; padding:0px;" alt="-" src="http://norwaysecure.com/yxmefv6ewxraz_2" width="300" height="48" border="0" /></a></td>
+                                                   
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" width="300" height="5">
+                                                        <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-height: 11px; background-color: rgb(255, 255, 255);" width="100" height="18">ROAD ACCIDENTS</td>
+                                                                <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-height: 11px; background-color: rgb(255, 255, 255);" width="100" height="18">WORK ACCIDENTS</td>
+                                                                <td style="font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-height: 11px; background-color: rgb(255, 255, 255);" width="100" height="18">OTHER ACCIDENTS</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                   
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="300" height="11">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="300" height="52">
+                                            <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                   
+                                                    <td style="font-style: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; font-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height: 21px; background-color: rgb(255, 255, 255);" width="256" height="52">
+                                                        <a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" style="color:#888888">
+                                                            Find out how much you
+                                                            <br>
+                                                            can claim in 30 seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="background-color: #FEFFFF;" width="313" height="52"><a target="_blank" href="http://norwaysecure.com/?a=488&c=4993&s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" title="Start your claim &gt;"><img style="display:block; margin:0px; padding:0px;" alt="Start your claim &gt;" src="http://norwaysecure.com/prvoqkllyf_2" width="300" height="50" border="0" /></a></td>
+                                                    
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width="300" height="9">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="300" height="126">
+                                            <table align="center" width="300" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+                                                <tr>
+                                                    <td style="background-color: #E9E9E9; font-size: 1px; line-height: 1px;" width="20" height="126">&nbsp;</td>
+                                                    <td style="font-family: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; background-color: rgb(233, 233, 233);" width="300" height="126">
+                                                        *Subject to insurance costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and awards are judged individually based on the circumstances. Testimonials from customers using our panel of solicitors. If you are unable to click through from this email, please copy and paste the link below into your internet browser's address bar (or just click):&copy; Accident Compensation Alliance (ACA) is regulated by the  Claims Management Regulator in respect of regulated claims management activities; its registration is recorded on the website claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style="background-color: #E9E9E9; font-size: 1px; line-height: 1px;" width="33" height="126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100                                                <tr>
+                                                    <td align="center" valign="middle" width="100                                                        You have received this email because you gave the sender
+                                                        <br>
+                                                        permission to send you advertisements by email. To change
+                                                        <br>
+                                                        your preferences please contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <br />
+    <center>
+        <font size="2" face="Arial">
+            The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+            <a href="http://norwaysecure.com/unsub?s1=438009&newunsub=1" target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br>
+        </font>
+        <img src= "http://norwaysecure.com/adv" border="0" alt="" style="max-width:100		<img alt="" src="http://norwaysecure.com/record.php?s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" width="1" height="1" border="0" />
+    </center>
+    <div style="color:white; background-color:white; font-size:8px;">
+        
+    </div>
+<img alt="" src="http://norwaysecure.com/record.php?s1=438009&s2=O000005132043_1987&s3=1501082004&S4=215191" width="1" height="1" border="0" /></body>
+</html>
+------=_Part_1782700_1302629155.1420740246232--
+
+------=_Part_1782699_884395606.1420740246232--
+

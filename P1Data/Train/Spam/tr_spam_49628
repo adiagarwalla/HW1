@@ -1,0 +1,1751 @@
+From @..  Sat Jan  3 13:05:16 2015
+Return-Path: <@..>
+X-Original-To: t_baker@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 81D4DDE; Sat,  3 Jan 2015 13:05:16 +0000 (UTC)
+Received: from dmx1.bfi0.com (dmailer9314613.dmx1.bfi0.com [93.191.146.13])
+    by .. with SMTP id pdfckfhn6wpvwd7nh7kezidbka;
+    for t_baker@fs.net;
+    Sat, 03 Jan 2015 13:05:15 +0000 (UTC)
+    (envelope-from 1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa@email.supersavvyme.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=93.191.146.13;
+    envelope-from=<1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa@email.supersavvyme.com>;
+    helo=dmx1.bfi0.com; mechanism=include:dmx1.bfi0.com (ip4:93.191.146.0/23
+    -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=93.191.146.13; client-port=21861;
+    syn-fingerprint=4380:245:1:64:M1380,N,W0,N,N,T,S;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.36 66.192.243.226 74.202.254.242 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2;
+    network-path-time=1420290315
+DKIM-Signature: v=1; a=rsa-sha1; d=email.supersavvyme.com; s=ei; c=simple/simple;
+	q=dns/txt; i=@email.supersavvyme.com; t=1420290300;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=0FfIgG14tZRuIaE5E758c79dLgg=;
+	b=Q5OIO8DzjVFRjCsFulET7RLL0FAg3oAyQUvJyCCWcy+yDY/tNGgUqdIrYcNEqIn3
+	cD2Te1Mu3LMpU2N+gyxLY+v2DNpVduhLCw4mjYp3pRjNkyIOgr4m9ZsWeJRqkZFa
+	Fr2hPQdvC9AvIBX14x1VOb8V2LQYQI7kv8BnY4/v97E=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ei; d=email.supersavvyme.com;
+	h=Received:Reply-To:Bounces_to:Message-ID:X-SS:X-BFI:Date:From:Subject:To:MIME-Version:Content-Type;
+	b=SI0bx7tvooK4HlH8U1IdAeo7CM0J0dT3SlMSp1Nav+FkwB6BGiRu6krRls2/847I
+	ow8UON4A9DgpAZjgmVl1W7dkbLk/WwSUxlPdLsm4+hSzPRZ8+HHTG5Qp4fSOx8J9
+	GI7MTMUdJhuKKt3/jgmwszA77Z+C9j84esh0R6Xcd5I=
+Received: from [10.150.20.51] ([10.150.20.51:41328] helo=dlspvfimailer1)
+	by dmx1.bfi0.com (envelope-from <1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa@email.supersavvyme.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id E0/FD-32060-CF8E7A45; Sat, 03 Jan 2015 08:05:00 -0500
+Reply-To: =?utf-8?B?IlN1cGVyc2F2dnltZSI=?= <@..>
+Bounces_to: bounce.1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa@email.supersavvyme.com
+Message-ID: <1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa.9115.4336.dlspvfimailer1.DumpShot.1@email.supersavvyme.com>
+X-SS: 1-2-2440012-169974075
+X-BFI: 1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa
+Date: Sat, 03 Jan 2015 08:04:39 EST
+From: =?utf-8?B?U3VwZXJzYXZ2eW1l?= <@..>
+Subject:  =?utf-8?B?SGkgVGVkLCB5b3VyIGFtYXppbmcgeWVhciBzdGFydHMgaGVyZQ==?=
+To: @..
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="ABCD-1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa-EFGH"
+
+--ABCD-1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa-EFGH
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+              
+
+--ABCD-1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa-EFGH
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ =
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<title>New year, new beginnings</title>
+
+<style type=3D"text/css">
+*{margin: 0; padding:0;}
+table, td{mso-table-lspace:0pt !important;mso-table-rspace:0pt !important=
+;padding:0pt !important;margin:0pt !important;}
+table{border-collapse:collapse !important;}
+body, table, td, p, a, li, blockquote{-ms-text-size-adjust:100ext-size-adjust:100=2EExternalClass * {line-height:100p {margin:0;}
+/*a {text-decoration: none !important;}*/
+=2Eii a[href] {color:#FFFFFF !important; text-decoration: none;}
+=2Eii a[href] {color: #FFFFFF;}
+=2Ebtn_cta-sml{text-align:left;  text-decoration: none !important;}
+a.btn_cta-sml, a:hover.btn_cta-sml  {text-decoration: none !important; cu=
+rsor:pointer; color:#5b4379; }
+/*ADDITIONAL STYLES*/
+td.linkup a, td.linkup a:hover {color: #FFFFFF !important; text-decoratio=
+n:underline !important;  }
+td .ii a[href] {color: #FFFFFF !important; border:none !important;}
+map#Map2 area:focus, map#Map3 area:focus, map#Map4 area:focus, map#Map5 a=
+rea:focus, map#Map6 area:focus {border: none !important; outline: none !i=
+mportant;}
+
+=2EmobileOnly {height:0 !important;}
+@media only screen and (max-width:480px){
+div[class=3DmobileOnly]{width:300px !important;min-width:300px !important=
+;height: auto !important;display: block !important;overflow:visible !impo=
+rtant;float: none !important;line-height:100!important;visibility:visible !important;}
+=2Espoof {display: block !important;}
+=2Emobileshow{float:left !important; display:block !important; font-size:=
+15px !important; line-height:100
+/*.mobileshow{float:none !important;}
+=2Emobileshow .mobileshow{float:left;}*/
+table[class=3D"mobilehide"]{display:none !important;}
+=2Ewidth300{width:300px !important;height:auto !important;}
+/*THE BORDERS*/
+=2Earea_border {border-collapse: separate !important;}
+/*GENERIC*/
+=2Earea_pod_font     {display:block !important; width:auto !important; he=
+ight:auto !important; font-size:10px !important; line-height:100ant;}
+=2Earea_pod_font_9  {font-size:9px !important;}
+=2Earea_pod_font_13  {font-size:13px !important;}
+=2Earea_pod_font_14  {font-size:14px !important;}
+=2Earea_pod_font_15  {font-size:15px !important;}
+=2Earea_pod_font_18  {font-size:18px !important;}
+=2Earea_pod_font_30  {font-size:33px !important;  line-height: 30px !impo=
+rtant; padding-left:10px !important; padding-top:10px !important; padding=
+-bottom:32px !important;}
+=2Earea_spacer_1_5   {width:100=2Earea_spacer_1_6   {width:100=2Earea_spacer_1_7   {width:100=2Earea_spacer_1_9   {width:100=2Earea_spacer_1_10  {width:100=2Earea_spacer_1_13   {width:100=2Earea_spacer_1_15   {width:100=2Earea_spacer_1_16  {width:100=2Earea_spacer_1_20  {width:100=2Earea_border_e85eb2 {border: solid 4px #e85eb2;}
+=2Earea_border_8e75ad {border: solid 4px #8e75ad;}
+=2Earea_border_5b4379 {border: solid 4px #5b4379;}
+
+/*HEADER*/
+=2Earea_cantsee,
+=2Earea_header     {width:100ound-color:#5b4379 !important;}
+=2Earea_logo       {width:145px !important; height:91px !important;}
+=2Earea_category   {width:155px !important; height:91px !important;}
+/*INTRO*/
+=2Earea_intro      {width:300px !important; height:260px !important;}
+=2Earea_intro_copy {width:300px !important; height:45px !important; backg=
+round-color:#5b4379 !important;}
+=2Earea_intro_copy font strong {padding:5px;line-height:15px;}
+/*STANDARD PODS*/
+=2Earea_pod          {height:340px !important;}
+=2Earea_pod_content  {height:287px;}
+=2Earea_pod_img      {width:292px !important; height:193px !important;}
+=2Earea_pod_big_img      {width:300px !important; height:600px !important=
+;}
+=2Earea_pod_big_img2      {width:292px !important; height:417px !importan=
+t;}
+=2Earea_pod_cta      {width:292px !important; height:133px !important;}
+=2Earea_pod_cta_td_1 {width:15px !important; height:133px !important;}
+=2Earea_pod_cta_td_2 {width:212px !important; height:133px !important;}
+=2Earea_pod_cta_td_3 {width:58px !important; height:120px !important;}
+/*ALTERNATIVE POD*/
+=2Earea_pod_cd                         {height:610px !important;}
+=2Earea_pod_cd2                       {height:435px !important;}
+=2Earea_pod_cd .area_pod_content       {height:483px !important;}
+=2Earea_pod_cd .area_pod_content2      {height:411px !important;}
+=2Earea_pod_cd .area_pod_cta           {height:596px !important;}
+=2Earea_pod_cd .area_pod_cta2          {height:411px !important;}
+=2Earea_pod_cd .area_pod_cta_td_0      {width:10px !important; height:120=
+px !important;}
+=2Earea_pod_cd .area_pod_cta_td_1      {width:10px !important; height:120=
+px !important;}
+=2Earea_pod_cd .area_pod_cta_td_6      {width:280px !important; height:12=
+0px !important;}
+=2Earea_pod_cd .area_pod_cta_td_3      {width:8px !important; height:220p=
+x !important;}
+=2Earea_pod_cd .area_pod_cta_td_4      {width:280px !important; height:50=
+px !important;}
+=2Earea_pod_cd .area_pod_cta_td_4 font {line-height:18px !important;}
+=2Earea_pod_cd .area_pod_cta_td_4_1,
+=2Earea_pod_cd .area_pod_cta_td_4_3    {width:10px !important; height:50p=
+x !important;}
+=2Earea_pod_cd .area_pod_cta_td_4_2 a {width: 104px; font-size: 18px; lin=
+e-height: 40px; text-decoration: none;}
+=2Earea_pod_cd .area_pod_cta_td_4_2    {width:225px !important; height:50=
+px !important;}
+=2Earea_pod_cd .area_pod_cta_td_4_4    {width:29px !important; height:40p=
+x !important;}
+=2Earea_pod_cd .area_divider           {width:119px !important; height:14=
+px !important;}
+=2Earea_pod_cd .area_pod_cta_td_5      {width:280px !important; height:12=
+0px !important; padding-left:10px !important;}
+=2Earea_pod_cd .area_pod_cta_td_5 font {/*line-height:15px !important;*/ =
+font-size:15px !important;color:#8e75ad ;}
+/*OFFERS*/
+=2Earea_promo_img {display:block !important; width:300px !important; heig=
+ht:246px !important;}
+=2Earea_promo_cta {display:block !important; width:300px !important; heig=
+ht:194px !important;}
+
+/*FOOTER*/
+=2Eterms                   {width:300px !important; height:auto !importan=
+t;}
+=2Eterms .littlewins       {border-top:solid 1px #059bff; border-bottom:s=
+olid 1px #059bff;}
+=2Eterms .littlewins_img   {display:block !important; width:156px !import=
+ant; height:89px !important;}
+=2Eterms .littlewins_text  {display:block !important; width:138px !import=
+ant; height:138px !important;}
+=2Eterms .littlewins_font  {display:block !important; width:138px !import=
+ant; height:80px !important; line-height:14px !important; font-size:10px =
+!important;}
+=2Eterms .littlewins_share {display:block !important; width:91px !importa=
+nt; height:43px !important; line-height:43px !important;}
+=2Eterms .termsfont        {display:block !important; width:auto !importa=
+nt; height:auto !important; font-size:10px !important; line-height:100important;}
+
+}
+</style>
+</head>
+<body>
+<table bgcolor=3D"#ffffff" width=3D"100<tr>
+<td>
+<table class=3D"mobilehide" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"800" align=3D"center" style=3D"background: transparent url(h=
+ttp://dimages.bfi0.com/images/2440012/12394519/glob-bg-header-purple.jpg)=
+ repeat-x;">
+
+<tr>
+<td height=3D"20" bgcolor=3D"#765b97" align=3D"center" valign=3D"middle" =
+style=3D"color:#ffffff;">
+<font style=3D"-webkit-text-size-adjust:none;font-family:Arial, Helvetica=
+, sans-serif;font-size:10px;color:#ffffff;">
+Fitness, food and a little black dress | <a href=3D"http://email.supersav=
+vyme.com/1f5939151layfiusiaq4tn7yaaaaaawgew2b6m4sg4qyaaaaa/C?V=3DbF9pbmRl=
+eAEBcHJvZmlsZV9pZAExNDg5Mjg2Nzg3AXppcF9jb2RlAQFfUExJU1RfSURfATEyMzE1NDY0A=
+V9XQVZFX0lEXwExNjk5NzQwNzUBRklSU1RfTkFNRQFUZWQBZ19pbmRleAEBZW1haWxfYWRkcg=
+F0X2Jha2VyQGZzLm5ldAFfU0NIRF9UTV8BMjAxNTAxMDMxMDAwMDABcHJvZmlsZV9rZXkBMjE=
+yMDM1MTU5&JckZ8/pNYBKLtv+WTBqCew" target=3D"_blank" style=3D"color:#fffff=
+f; text-decoration:underline !important;">Read this email online.</a>
+</font>
+</td>
+</tr>
+
+
+<tr>
+<td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td width=3D"101" height=3D"1030" valign=3D"top"><img style=3D"display:bl=
+ock;border:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/=
+bg-col-left-1-desktop.jpg" width=3D"101" height=3D"1030" alt=3D"" border=3D=
+"0"/></td>
+<!--START CONTENT-->
+<td valign=3D"top">
+<!--BANNER-->
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">
+<tr>
+<td width=3D"181" height=3D"91" valign=3D"top"><a target=3D"_blank" href=3D=
+"http://email.supersavvyme.com/19176f908layfiusiaq4toaaaaaaaawgew2b6m4sg4=
+qyaaaaa"><img style=3D"display:block;border:none;" src=3D"http://dimages.=
+bfi0.com/images/2440012/12394519/logo-desktop.jpg" width=3D"145" height=3D=
+"91" alt=3D"Supersavvyme. Brought to you by P&amp;G" border=3D"0"/></a></=
+td>
+<td width=3D"231" height=3D"1" style=3D"line-height:0;font-size:0;">&nbsp=
+;</td>                                           <td width=3D"188" height=
+=3D"91" valign=3D"top"><a target=3D"_blank" href=3D"http://email.supersav=
+vyme.com/17262cd5clayfiusiaq4toaiaaaaaawgew2b6m4sg4qyaaaaa"><img style=3D=
+"display:block;border:none;" src=3D"http://dimages.bfi0.com/images/244001=
+2/12394519/sub-logo-desktop.jpg" width=3D"188" height=3D"91" alt=3D"Janua=
+ry's best bits" border=3D"0" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width=3D"600" height=3D"260" valign=3D"top"><a href=3D"http://email.s=
+upersavvyme.com/18c2f97e1layfiusiaq4toaqaaaaaawgew2b6m4sg4qyaaaaa" target=
+=3D"_blank"><img style=3D"display:block;border:none;" src=3D"http://dimag=
+es.bfi0.com/images/2440012/12394519/banner-desktop.jpg" width=3D"600" hei=
+ght=3D"260" alt=3D"Make this the year of change" title=3D"Make this the y=
+ear of change" border=3D"0" /></a></td>
+</tr>
+
+
+<tr>
+<td  width=3D"600" valign=3D"middle" bgcolor=3D"#5b4379" align=3D"center"=
+ class=3D"linkup">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"9" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                                  <font style=3D"-webkit-text-size-ad=
+just: none;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:=
+#ffffff;">Is it time to switch things up?</font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"9" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                              </td>
+</tr>
+
+</table>
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                       <!--****************************BEGIN FIRST RO=
+W SIDEPOD**************************-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">
+<tr>
+<td width=3D"600" height=3D"300" valign=3D"bottom">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" hei=
+ght=3D"300">
+<!--******BEGIN POD ROW***********-->
+<tr>
+<!--****************************LEFT SIDEPOD 1**************************-=
+->
+<td width=3D"7" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                         <td wi=
+dth=3D"297" height=3D"300" valign=3D"bottom" bgcolor=3D"#8e75ad">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"289" hei=
+ght=3D"300">
+
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                                                                         =
+                                                                         =
+                                         </tr>
+<tr>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+         <td width=3D"289" height=3D"150" valign=3D"top" bgcolor=3D"#ffff=
+ff">
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tr><td width=3D"289" valign=3D"top" colspan=3D"2"><a target=3D"_blank" h=
+ref=3D"http://email.supersavvyme.com/16f3ba3b5layfiusiaq4toayaaaaaawgew2b=
+6m4sg4qyaaaaa" title=3D"Put a fresh spin on family fun"><img style=3D"dis=
+play:block; border:none;" src=3D"http://dimages.bfi0.com/images/2440012/1=
+2394519/promo-1-desktop.jpg" width=3D"289" height=3D"165" alt=3D"Put a fr=
+esh spin on family fun" border=3D"0" /></a></td></tr>
+<tr>
+<td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td width=3D"15" height=3D"1" style=3D"line-height:0;font-size:0;">&nbsp;=
+</td>                                                                    =
+<td valign=3D"top" width=3D"226">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"5" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                                                                     =
+ <font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;font-size:15px;color:#666666;">
+<strong style=3D"font-family:arial;font-size:18px; line-height:21px !impo=
+rtant; color:#8e75ad;">Put a fresh spin on family fun</strong>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"12" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>                                                                    =
+     Feeling adventurous? Try some<br />new family activities.           =
+                                                                <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"1" height=
+=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></table>     =
+                                                                 </font>
+</td>
+<td width=3D"58" valign=3D"top"><a target=3D"_blank" href=3D"http://email=
+=2Esupersavvyme.com/1ca61481dlayfiusiaq4tobaaaaaaawgew2b6m4sg4qyaaaaa" ti=
+tle=3D"Put a fresh spin on family fun"><img style=3D"display:block;border=
+:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/promo-cta-=
+desktop.jpg" width=3D"58" height=3D"138" alt=3D"Read more" border=3D"0" /=
+></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+
+</td>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+                                                             </tr>
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                   </tr>
+</table>
+</td>
+<!--****************************END LEFT SIDEPOD 1***********************=
+***-->
+
+<!--****************************RIGHT SIDEPOD 1**************************=
+-->
+<td width=3D"7" height=3D"4" bgcolor=3D"#ffffff" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                            <td w=
+idth=3D"7" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;font-s=
+ize:0;">&nbsp;</td>
+<td width=3D"297" height=3D"300" valign=3D"bottom" bgcolor=3D"#8e75ad">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"289" hei=
+ght=3D"300">
+<tr>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+         <td width=3D"289" height=3D"150" valign=3D"top" bgcolor=3D"#ffff=
+ff">
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tr><td width=3D"289" valign=3D"top" colspan=3D"2"><a target=3D"_blank" h=
+ref=3D"http://email.supersavvyme.com/129757c49layfiusiaq4tobiaaaaaawgew2b=
+6m4sg4qyaaaaa" title=3D"Win a fab new outfit"><img style=3D"display:block=
+; border:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/pr=
+omo-2-desktop.jpg" width=3D"289" height=3D"165" alt=3D"Win a fab new outf=
+it" border=3D"0" /></a></td></tr>
+<tr>
+<td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td width=3D"15" height=3D"1" style=3D"line-height:0;font-size:0;">&nbsp;=
+</td>                                                                    =
+<td valign=3D"top" width=3D"226">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"5" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                                                                     =
+ <font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;font-size:15px;color:#666666;">
+<strong style=3D"font-family:arial;font-size:18px; line-height:21px !impo=
+rtant; color:#8e75ad;">Win a fab new outfit</strong>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"12" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>                                                                    =
+     Worth &pound;500 plus a year's<br />supply of head &amp; shoulders.<=
+br />That's head to toe confidence<br />then.                            =
+                                               <table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0"><tr><td width=3D"1" height=3D"4" style=3D"l=
+ine-height:0;font-size:0;">&nbsp;</td></tr></table>                      =
+                                                </font>
+</td>
+<td width=3D"58" valign=3D"top"><a target=3D"_blank" href=3D"http://email=
+=2Esupersavvyme.com/1d73826f4layfiusiaq4tobqaaaaaawgew2b6m4sg4qyaaaaa" ti=
+tle=3D"Win a fab new outfit"><img style=3D"display:block;border:none;" sr=
+c=3D"http://dimages.bfi0.com/images/2440012/12394519/promo-cta-desktop.jp=
+g" width=3D"58" height=3D"138" alt=3D"Read more" border=3D"0" /></a></td>=
+
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+
+</td>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+     </tr>
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                   </tr>
+</table>
+</td>
+<!--****************************END RIGHT SIDEPOD 1**********************=
+****-->
+</tr>
+<!--****************************END POD ROW 1**************************--=
+>
+</table>
+</td>
+<!--****************************END CELL**************************-->
+</tr>
+
+<!--****************************END RIGHT SIDEPOD 1**********************=
+****-->
+
+<!--****************************END FIRST ROW SIDEPOD********************=
+******-->
+
+
+<tr>
+<td width=3D"4" height=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;<=
+/td>                            </tr>
+
+<!--****************************START SECOND ROW SIDEPOD*****************=
+*********-->
+<tr>
+<td width=3D"600" height=3D"300" valign=3D"bottom">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" hei=
+ght=3D"300">
+<!--******BEGIN POD ROW***********-->
+<tr>
+<!--****************************LEFT SIDEPOD 2**************************-=
+->
+<td width=3D"7" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                            <td=
+ width=3D"297" height=3D"300" valign=3D"bottom" bgcolor=3D"#8e75ad">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"289" hei=
+ght=3D"300">
+
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                                                                         =
+                                                                         =
+                                         </tr>
+<tr>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+         <td width=3D"289" height=3D"150" valign=3D"top" bgcolor=3D"#ffff=
+ff">
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tr><td width=3D"289" valign=3D"top" colspan=3D"2"><a target=3D"_blank" h=
+ref=3D"http://email.supersavvyme.com/1342c12a0layfiusiaq4tobyaaaaaawgew2b=
+6m4sg4qyaaaaa" title=3D"Give your Sunday roast a twist"><img style=3D"dis=
+play:block; border:none;" src=3D"http://dimages.bfi0.com/images/2440012/1=
+2394519/promo-3-desktop.jpg" width=3D"289" height=3D"165" alt=3D"Give you=
+r Sunday roast a twist" border=3D"0" /></a></td></tr>
+<tr>
+<td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td width=3D"15" height=3D"1" style=3D"line-height:0;font-size:0;">&nbsp;=
+</td>                                                                    =
+<td valign=3D"top" width=3D"226">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"5" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                                                                     =
+ <font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;font-size:15px;color:#666666;">
+<strong style=3D"font-family:arial;font-size:18px; line-height:21px !impo=
+rtant; color:#8e75ad;">Give your Sunday<br />roast a twist</strong>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"12" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>                                                                    =
+     Spice up your Sunday lunch<br />with this Moroccan take on the<br />=
+classic roast.                                                           =
+           <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d width=3D"1" height=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;</t=
+d></tr></table>                                                          =
+            </font>
+</td>
+<td width=3D"58" valign=3D"top"><a target=3D"_blank" href=3D"http://email=
+=2Esupersavvyme.com/1fc93d8eelayfiusiaq4tocaaaaaaawgew2b6m4sg4qyaaaaa" ti=
+tle=3D"Give your Sunday roast a twist"><img style=3D"display:block;border=
+:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/promo-cta-=
+desktop.jpg" width=3D"58" height=3D"138" alt=3D"Read more" border=3D"0" /=
+></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+
+</td>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+                                                             </tr>
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                   </tr>
+</table>
+</td>
+<!--****************************END LEFT SIDEPOD 2***********************=
+***-->
+
+<!--****************************RIGHT SIDEPOD 2**************************=
+-->
+<td width=3D"7" height=3D"4" bgcolor=3D"#ffffff" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                            <td w=
+idth=3D"7" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;font-s=
+ize:0;">&nbsp;</td>
+<td width=3D"297" height=3D"300" valign=3D"bottom" bgcolor=3D"#8e75ad">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"289" hei=
+ght=3D"300">
+<tr>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+         <td width=3D"289" height=3D"150" valign=3D"top" bgcolor=3D"#ffff=
+ff">
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+
+<tr><td width=3D"289" valign=3D"top" colspan=3D"2"><a target=3D"_blank" h=
+ref=3D"http://email.supersavvyme.com/11f87ecbalayfiusiaq4tociaaaaaawgew2b=
+6m4sg4qyaaaaa" title=3D"Which is the right fit for you?"><img style=3D"di=
+splay:block; border:none;" src=3D"http://dimages.bfi0.com/images/2440012/=
+12394519/promo-4-desktop.jpg" width=3D"289" height=3D"165" alt=3D"Which i=
+s the right fit for you?" border=3D"0" /></a></td></tr>
+<tr>
+<td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td width=3D"15" height=3D"1" style=3D"line-height:0;font-size:0;">&nbsp;=
+</td>                                                                    =
+<td valign=3D"top" width=3D"226">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"5" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>                                                                     =
+ <font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;font-size:15px;color:#666666;">
+<strong style=3D"font-family:arial;font-size:18px; line-height:21px !impo=
+rtant; color:#8e75ad;">Which is the right 'fit'<br />for you?</strong>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"12" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>                                                                    =
+     Step up and reach your 2015<br />goals by finding your perfect<br />=
+workout right now.<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tr><td width=3D"1" height=3D"4" style=3D"line-height:0;font-size:0;">&n=
+bsp;</td></tr></table>                                                   =
+                     </font>
+</td>
+<td width=3D"58" valign=3D"top"><a target=3D"_blank" href=3D"http://email=
+=2Esupersavvyme.com/1e1cab607layfiusiaq4tocqaaaaaawgew2b6m4sg4qyaaaaa" ti=
+tle=3D"Which is the right fit for you?"><img style=3D"display:block;borde=
+r:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/promo-cta=
+-desktop.jpg" width=3D"58" height=3D"138" alt=3D"Read more" border=3D"0" =
+/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+
+</td>
+<td width=3D"4" height=3D"150" bgcolor=3D"#8e75ad" style=3D"line-height:0=
+;font-size:0;">&nbsp;</td>                                               =
+     </tr>
+<tr>
+<td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-height:0;f=
+ont-size:0;">&nbsp;</td>                                                 =
+       <td width=3D"289" height=3D"4" bgcolor=3D"#8e75ad" style=3D"line-h=
+eight:0;font-size:0;">&nbsp;</td>                                        =
+                <td width=3D"4" height=3D"4" bgcolor=3D"#8e75ad" style=3D=
+"line-height:0;font-size:0;">&nbsp;</td>                                 =
+                   </tr>
+</table>
+</td>
+<!--****************************END RIGHT SIDEPOD 2**********************=
+****-->
+</tr>
+<!--****************************END POD ROW 2**************************--=
+>
+</table>
+</td>
+<!--****************************END CELL**************************-->
+</tr>
+
+<!--****************************END RIGHT SIDEPOD************************=
+**-->
+
+<!--****************************END SECOND ROW SIDEPOD*******************=
+*******-->
+
+
+<tr>
+<td width=3D"4" height=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;<=
+/td>                    </tr>
+
+<!--****************************FEATURE POSTER 1*************************=
+*-->
+<!--<tr>
+</tr>-->
+<tr>
+
+<td width=3D"600" height=3D"300" valign=3D"bottom" bgcolor=3D"#5b4379" st=
+yle=3D"line-height:300px;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100color=3D"#ffffff">
+<tr>
+<td width=3D"600" height=3D"303" valign=3D"top" colspan=3D"3" bgcolor=3D"=
+FFFFFF">
+<a href=3D"http://email.supersavvyme.com/102de8253layfiusiaq4tocyaaaaaawg=
+ew2b6m4sg4qyaaaaa" target=3D"_blank" title=3D"The #GlamJan Issue"><img st=
+yle=3D"display:block;border:none;" src=3D"http://dimages.bfi0.com/images/=
+2440012/12394519/hero-image-2-desktop.jpg" width=3D"600" height=3D"303" a=
+lt=3D"The GlamJan Issue" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!--<tr>
+</tr>-->
+<tr>
+<td width=3D"3" height=3D"4" style=3D"line-height:0;font-size:0;">&nbsp;<=
+/td>
+</tr>
+
+<!--****************************FEATURE POSTER 2*************************=
+*-->
+<!--<tr>
+</tr>-->
+<tr>
+
+<td width=3D"600" height=3D"208" valign=3D"bottom" bgcolor=3D"#5b4379" st=
+yle=3D" line-height:208px;">
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100color=3D"#ffffff">
+<tr>
+<td width=3D"600" height=3D"208" valign=3D"top" colspan=3D"3" bgcolor=3D"=
+FFFFFF">
+<img style=3D"display:block;border:none;" src=3D"http://dimages.bfi0.com/=
+images/2440012/12394519/hero-image-3-desktop.jpg" usemap=3D"#Map5" width=3D=
+"600" height=3D"208" alt=3D"2014's best tips" border=3D"0" />
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!--<tr>
+</tr>-->
+<tr>
+<td width=3D"3" height=3D"3" style=3D"line-height:0;font-size:0;">&nbsp;<=
+/td>                         </tr>
+
+</table><!--****************************END TABLE ROW********************=
+******-->
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"3" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+600" height=3D"233" valign=3D"top"><a target=3D"_blank" href=3D"http://em=
+ail.supersavvyme.com/17c4e2a37layfiusiaq4todaaaaaaawgew2b6m4sg4qyaaaaa"><=
+img src=3D"http://dimages.bfi0.com/images/2440012/12394519/voucher-deskto=
+p.jpg" alt=3D"&pound;1 off Fairy Platinum" title=3D"&pound;1 off Fairy Pl=
+atinum" width=3D"600" height=3D"233" usemap=3D"#Map" style=3D"display:blo=
+ck; border:none;" border=3D"0" /></a></td></tr></table>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"7" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></ta=
+ble>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-t=
+op:solid 1px #059bff;">
+<tr>
+<td width=3D"156" height=3D"89" valign=3D"top"><img style=3D"display:bloc=
+k; border:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/f=
+ooter-logo-desktop.jpg" width=3D"156" height=3D"89" alt=3D"Little wins fo=
+r you, mum." /></td>
+<td valign=3D"top" width=3D"353" style=3D"font-family:Arial, Helvetica, s=
+ans-serif;font-size:12px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"20" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>                                 <font style=3D"-webkit-text-size-ad=
+just: none;font-family:Arial, Helvetica, sans-serif;font-size:12px;color:=
+#666666;">
+Make every day more rewarding with great tips,<br /> articles and product=
+ reviews by people like you.<br />
+Visit <a target=3D"_blank" href=3D"http://email.supersavvyme.com/19f5a1e6=
+3layfiusiaq4todiaaaaaawgew2b6m4sg4qyaaaaa" style=3D"color:#4595DB;text-de=
+coration:underline;">supersavvyme</a> today.
+</font>
+</td>
+<td width=3D"91" height=3D"89" valign=3D"top"><img src=3D"http://dimages.=
+bfi0.com/images/2440012/12394519/share-icons-desktop.jpg" alt=3D"Share ic=
+ons. Facebook, Twitter, Youtube." width=3D"91" height=3D"89" usemap=3D"#M=
+ap2" style=3D"display:block;border:none;" border=3D"0" /></td>
+</tr>
+</table>
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" sty=
+le=3D"border-bottom:solid 1px #059bff;">
+<tr><td width=3D"600" height=3D"1" style=3D"line-height:0;font-size:0;">&=
+nbsp;</td></tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+<tr><td width=3D"1" height=3D"10" style=3D"line-height:0;font-size:0;">&n=
+bsp;</td></tr>
+<tr>
+<td valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif;font=
+-size:10px;line-height:12px !important;">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;font-size:10px;color:#969696;line-height:12px !important;">=
+
+This message was sent to you on behalf of supersavvyme. You recently gave=
+ us permission to contact you by e-mail. If you do not wish to receive mo=
+nthly newsletters from supersavvyme by e-mail, please select this
+<a href=3D"http://email.supersavvyme.com/1611744delayfiusiaq4todqaaaaaawg=
+ew2b6m4sg4qyaaaaa" target=3D"_blank" style=3D"color:#969696;text-decorati=
+on:underline !important;">link</a> to unsubscribe. If you wish to unsubsc=
+ribe from all P&amp;G communication, please call the following freephone =
+number: 0800&nbsp;0157462 (UK) or 1800&nbsp;509213 (ROI).
+</font>
+</td>
+</tr>
+<tr><td width=3D"1" height=3D"10" style=3D"line-height:0;font-size:0;">&n=
+bsp;</td></tr>
+<tr>
+<td valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif;font=
+-size:10px;color:#969696;line-height:12px !important;">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;font-size:10px;line-height:12px !important;">
+<strong>We recently updated our Privacy Policy.</strong> <a href=3D"http:=
+//email.supersavvyme.com/18203708alayfiusiaq4todyaaaaaawgew2b6m4sg4qyaaaa=
+a" target=3D"_blank" style=3D"color:#969696;text-decoration:underline !im=
+portant;">Click here</a> for information about these updates. Trust is a =
+cornerstone of our corporate mission, and the success of our business dep=
+ends on it. P&amp;G is committed to maintaining your trust by protecting =
+personal information we collect about you, our consumers. Please <a href=3D=
+"http://email.supersavvyme.com/14abcbac4layfiusiaq4toeaaaaaaawgew2b6m4sg4=
+qyaaaaa" target=3D"_blank" style=3D"color:#969696;text-decoration:underli=
+ne !important;">click here</a> to read our updated P&amp;G Global Consume=
+r Privacy Policy.
+</font>
+</td>
+</tr>
+<tr><td width=3D"1" height=3D"10" style=3D"line-height:0;font-size:0;">&n=
+bsp;</td></tr>
+<tr>
+<td valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif;font=
+-size:10px;color:#969696;line-height:12px !important;">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;font-size:10px;line-height:12px !important;">
+To view our Terms and Conditions, please visit <a href=3D"http://email.su=
+persavvyme.com/1a9a88e90layfiusiaq4toeiaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" style=3D"color:#969696;font-weight:bold;text-decoration:underlin=
+e !important;">www.pg.com/terms.html</a>
+</font>
+</td>
+</tr>
+<tr><td width=3D"1" height=3D"10" style=3D"line-height:0;font-size:0;">&n=
+bsp;</td></tr>
+<tr>
+<td valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif;font=
+-size:10px;color:#969696;line-height:12px !important;">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;font-size:10px;line-height:12px !important;">
+To read about gifs and cookies, please visit <a href=3D"http://email.supe=
+rsavvyme.com/157e5d42dlayfiusiaq4toeqaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" style=3D"color:#969696;font-weight:bold;text-decoration:underlin=
+e !important;">www.pg.com/cookies.html</a>
+</font>
+</td>
+</tr>
+</table>
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"=
+1" height=3D"20" style=3D"line-height:0;font-size:0;">&nbsp;</td></tr></t=
+able>
+</td>
+<!--END CONTENT-->
+<td width=3D"101" height=3D"1030" valign=3D"top"><img style=3D"display:bl=
+ock;border:none;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/=
+bg-col-right-1-desktop.jpg" width=3D"101" height=3D"1030" alt=3D"" border=
+=3D"0"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<div style=3D"margin:0 auto; mso-hide: all; overflow: hidden; max-height:=
+ 0; width: 0; display: none; line-height: 0; visibility: hidden;margin:0 =
+auto; float:left;" class=3D"mobileOnly">
+<table class=3D"mobileshow width300" style=3D"display:none;font-size:0px;=
+line-height:0px;width:0px;height:0px;" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" align=3D"center">
+
+
+<tr>
+<td class=3D"mobileshow area_cantsee" bgcolor=3D"#ffffff" align=3D"center=
+" valign=3D"middle" style=3D"display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;color:#ffffff;"><font class=3D"area_pod_font area_pod=
+_font_9" style=3D"-webkit-text-size-adjust:none;font-family:Arial, Helvet=
+ica, sans-serif;color:#ffffff;display:none;font-size:0px;line-height:0px;=
+width:0px;height:0px;"> <img class=3D"mobileshow area_spacer_1_10" style=3D=
+"display:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D=
+"http://dimages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" bor=
+der=3D"0"/> Fitness, food and a little black dress | <a href=3D"http://em=
+ail.supersavvyme.com/1b4f1e079layfiusiaq4toeyaaaaaawgew2b6m4sg4qyaaaaa/C?=
+V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExNDg5Mjg2Nzg3AXppcF9jb2RlAQFfUExJU1RfSURfA=
+TEyMzE1NDY0AV9XQVZFX0lEXwExNjk5NzQwNzUBRklSU1RfTkFNRQFUZWQBZ19pbmRleAEBZW=
+1haWxfYWRkcgF0X2Jha2VyQGZzLm5ldAFfU0NIRF9UTV8BMjAxNTAxMDMxMDAwMDABcHJvZml=
+sZV9rZXkBMjEyMDM1MTU5&JckZ8/pNYBKLtv+WTBqCew" target=3D"_blank" style=3D"=
+color:#ffffff; text-decoration:underline !important;">Read this email onl=
+ine.</a> <img class=3D"mobileshow area_spacer_1_10" style=3D"display:none=
+;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimag=
+es.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0"/> <=
+/font></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_header" bgcolor=3D"#ffffff" align=3D"center"=
+ valign=3D"middle" style=3D"display:none;font-size:0px;line-height:0px;wi=
+dth:0px;height:0px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">
+<tr>
+<td valign=3D"top" class=3D"mobileshow area_logo" style=3D"display:none;f=
+ont-size:0px;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" =
+href=3D"http://email.supersavvyme.com/111ab0bd1layfiusiaq4tofaaaaaaawgew2=
+b6m4sg4qyaaaaa"><img class=3D"mobileshow area_logo" style=3D"display:none=
+;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimag=
+es.bfi0.com/images/2440012/12394519/logo-desktop.jpg" alt=3D"Supersavvyme=
+=2E Brought to you by P&amp;G" border=3D"0" /></a></td>
+<td valign=3D"top" class=3D"mobileshow area_category" style=3D"display:no=
+ne;font-size:0px;line-height:0px;width:0px;height:0px;"><a target=3D"_bla=
+nk" href=3D"http://email.supersavvyme.com/1f2bf3f85layfiusiaq4tofiaaaaaaw=
+gew2b6m4sg4qyaaaaa"><img class=3D"mobileshow area_category" style=3D"disp=
+lay:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http=
+://dimages.bfi0.com/images/2440012/12394519/sub-logo-mobile.jpg" alt=3D"J=
+anuary's best bits" border=3D"0" /></a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td valign=3D"top" class=3D"mobileshow area_intro" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;"><a href=3D"http://em=
+ail.supersavvyme.com/10cf26538layfiusiaq4tofqaaaaaawgew2b6m4sg4qyaaaaa" t=
+arget=3D"_blank"><img class=3D"mobileshow area_intro" style=3D"display:no=
+ne;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dim=
+ages.bfi0.com/images/2440012/12394519/mobile-banner_txt.jpg" alt=3D"Make =
+this the year of change" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td valign=3D"middle" align=3D"center" class=3D"mobileshow area_intro_cop=
+y linkup" style=3D"display:none;font-size:0px;line-height:0px;width:0px;h=
+eight:0px;"><font class=3D"area_pod_font area_pod_font_14" style=3D"-webk=
+it-text-size-adjust: none;font-family:Arial, Helvetica, sans-serif;color:=
+#ffffff;display:none;font-size:0px;line-height:0px;width:0px;height:0px;"=
+> <img class=3D"mobileshow area_spacer_1_15" style=3D"display:none;font-s=
+ize:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0=
+=2Ecom/images/2440012/12394519/spacer.png" alt=3D"" /> Is it time to swit=
+ch things up?<img class=3D"mobileshow area_spacer_1_15" style=3D"display:=
+none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://d=
+images.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" /></font></t=
+d>
+</tr>
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_=
+6" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0=
+px;"><img class=3D"mobileshow area_spacer_1_6" style=3D"display:none;font=
+-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bf=
+i0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td><=
+/tr>
+<tr>
+<td class=3D"mobileshow area_pod" valign=3D"top" style=3D"display:none;fo=
+nt-size:0px;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" class=3D"area_border area_border_8e75ad=
+">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content">
+<tr>
+<td class=3D"mobileshow area_pod_img" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" href=3D"http=
+://email.supersavvyme.com/1efe6516clayfiusiaq4tofyaaaaaawgew2b6m4sg4qyaaa=
+aa" title=3D"Put a fresh spin on family fun"><img class=3D"mobileshow are=
+a_pod_img" style=3D"display:block; border:none;display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/im=
+ages/2440012/12394519/promo-1-mobile.jpg" alt=3D"Put a fresh spin on fami=
+ly fun" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_pod_cta" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"292">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height=
+:0px;"><img class=3D"mobileshow area_pod_cta_td_1" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimage=
+s.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></=
+td>                    <td valign=3D"top" class=3D"mobileshow area_pod_ct=
+a_td_2" style=3D"display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_20"=
+ style=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0px=
+;"><img class=3D"mobileshow area_spacer_1_20" style=3D"display:none;font-=
+size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi=
+0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></=
+tr></table>                      <font class=3D"area_pod_font area_pod_fo=
+nt_18" style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;color:#8e75ad;display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"> <strong>Put a fresh spin on family fun</strong> </=
+font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_7" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_7" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+                     <font class=3D"area_pod_font area_pod_font_15" style=
+=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans-ser=
+if;color:#666666;display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"> Feeling adventurous? Try some new family activities. </font></=
+td>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_3" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top" bgcolor=
+=3D"#ffffff" class=3D"mobileshow area_spacer_1_13" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;"><img class=3D"mobile=
+show area_spacer_1_13" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12=
+394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table><a target=3D=
+"_blank" href=3D"http://email.supersavvyme.com/127599b22layfiusiaq4togaaa=
+aaaawgew2b6m4sg4qyaaaaa" title=3D"Put a fresh spin on family fun"><img cl=
+ass=3D"mobileshow area_pod_cta_td_3" style=3D"display:block; border:none;=
+display:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"=
+http://dimages.bfi0.com/images/2440012/12394519/promo-cta-desktop.jpg" al=
+t=3D"" border=3D"0" /></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td class=3D"mobileshow area_pod" valign=3D"top" style=3D"display:none;fo=
+nt-size:0px;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" class=3D"area_border area_border_8e75ad=
+">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content">
+<tr>
+<td class=3D"mobileshow area_pod_img" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" href=3D"http=
+://email.supersavvyme.com/1c44daf76layfiusiaq4togiaaaaaawgew2b6m4sg4qyaaa=
+aa" title=3D"Win a fab new outfit"><img class=3D"mobileshow area_pod_img"=
+ style=3D"display:block; border:none;display:none;font-size:0px;line-heig=
+ht:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/24400=
+12/12394519/promo-2-mobile.jpg" alt=3D"Win a fab new outfit" border=3D"0"=
+ /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_pod_cta" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"292">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height=
+:0px;"><img class=3D"mobileshow area_pod_cta_td_1" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimage=
+s.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></=
+td>                    <td valign=3D"top" class=3D"mobileshow area_pod_ct=
+a_td_2" style=3D"display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_20"=
+ style=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0px=
+;"><img class=3D"mobileshow area_spacer_1_20" style=3D"display:none;font-=
+size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi=
+0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></=
+tr></table>                      <font class=3D"area_pod_font area_pod_fo=
+nt_18" style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;color:#8e75ad;display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"> <strong>Win a fab new outfit</strong> </font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_7" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_7" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+                     <font class=3D"area_pod_font area_pod_font_15" style=
+=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans-ser=
+if;color:#666666;display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"> Worth &#163;500 plus a year's supply of head &amp shoulders. T=
+hat's head to toe confidence then.</font></td>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_3" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top" bgcolor=
+=3D"#ffffff" class=3D"mobileshow area_spacer_1_13" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;"><img class=3D"mobile=
+show area_spacer_1_13" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12=
+394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table><a target=3D=
+"_blank" href=3D"http://email.supersavvyme.com/13a00f5cblayfiusiaq4togqaa=
+aaaawgew2b6m4sg4qyaaaaa" title=3D"Win a fab new outfit"><img class=3D"mob=
+ileshow area_pod_cta_td_3" style=3D"display:block; border:none;display:no=
+ne;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dim=
+ages.bfi0.com/images/2440012/12394519/promo-cta-desktop.jpg" alt=3D"" bor=
+der=3D"0" /></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td class=3D"mobileshow area_pod" valign=3D"top" style=3D"display:none;fo=
+nt-size:0px;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" class=3D"area_border area_border_8e75ad=
+">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content">
+<tr>
+<td class=3D"mobileshow area_pod_img" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" href=3D"http=
+://email.supersavvyme.com/1d914c19flayfiusiaq4togyaaaaaawgew2b6m4sg4qyaaa=
+aa" title=3D"Give your Sunday roast a twist"><img class=3D"mobileshow are=
+a_pod_img" style=3D"display:block; border:none;display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/im=
+ages/2440012/12394519/promo-3-mobile.jpg" alt=3D"Give your Sunday roast a=
+ twist" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_pod_cta" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"292">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height=
+:0px;"><img class=3D"mobileshow area_pod_cta_td_1" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimage=
+s.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></=
+td>                    <td valign=3D"top" class=3D"mobileshow area_pod_ct=
+a_td_2" style=3D"display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_20"=
+ style=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0px=
+;"><img class=3D"mobileshow area_spacer_1_20" style=3D"display:none;font-=
+size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi=
+0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></=
+tr></table>                      <font class=3D"area_pod_font area_pod_fo=
+nt_18" style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;color:#8e75ad;display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"> <strong>Give your Sunday roast a twist</strong> </=
+font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_7" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_7" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+                     <font class=3D"area_pod_font area_pod_font_15" style=
+=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans-ser=
+if;color:#666666;display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"> Spice up your Sunday lunch with this Moroccan take on the clas=
+sic roast. </font></td>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_3" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top" bgcolor=
+=3D"#ffffff" class=3D"mobileshow area_spacer_1_13" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;"><img class=3D"mobile=
+show area_spacer_1_13" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12=
+394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table><a target=3D=
+"_blank" href=3D"http://email.supersavvyme.com/1cb61e822layfiusiaq4tohaaa=
+aaaawgew2b6m4sg4qyaaaaa" title=3D"Give your Sunday roast a twist"><img cl=
+ass=3D"mobileshow area_pod_cta_td_3" style=3D"display:block; border:none;=
+display:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"=
+http://dimages.bfi0.com/images/2440012/12394519/promo-cta-desktop.jpg" al=
+t=3D"" border=3D"0" /></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td class=3D"mobileshow area_pod" valign=3D"top" style=3D"display:none;fo=
+nt-size:0px;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" class=3D"area_border area_border_8e75ad=
+">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content">
+<tr>
+<td class=3D"mobileshow area_pod_img" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" href=3D"http=
+://email.supersavvyme.com/12875dc76layfiusiaq4tohiaaaaaawgew2b6m4sg4qyaaa=
+aa" title=3D"Which is the right fit for you?"><img class=3D"mobileshow ar=
+ea_pod_img" style=3D"display:block; border:none;display:none;font-size:0p=
+x;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/i=
+mages/2440012/12394519/promo-4-mobile.jpg" alt=3D"Which is the right fit =
+for you?" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_pod_cta" style=3D"display:none;font-size:0px=
+;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"292">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height=
+:0px;"><img class=3D"mobileshow area_pod_cta_td_1" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimage=
+s.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></=
+td>                    <td valign=3D"top" class=3D"mobileshow area_pod_ct=
+a_td_2" style=3D"display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_20"=
+ style=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0px=
+;"><img class=3D"mobileshow area_spacer_1_20" style=3D"display:none;font-=
+size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi=
+0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></=
+tr></table>                      <font class=3D"area_pod_font area_pod_fo=
+nt_18" style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helveti=
+ca, sans-serif;color:#8e75ad;display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"> <strong>Which is the right 'fit'<br />for you?</st=
+rong> </font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_7" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_7" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+                     <font class=3D"area_pod_font area_pod_font_15" style=
+=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans-ser=
+if;color:#666666;display:none;font-size:0px;line-height:0px;width:0px;hei=
+ght:0px;"> Step up and reach your 2015 goals by finding your perfect work=
+out right now.</font></td>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_3" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D"top" bgcolor=
+=3D"#ffffff" class=3D"mobileshow area_spacer_1_13" style=3D"display:none;=
+font-size:0px;line-height:0px;width:0px;height:0px;"><img class=3D"mobile=
+show area_spacer_1_13" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12=
+394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table><a target=3D=
+"_blank" href=3D"http://email.supersavvyme.com/1d63886cblayfiusiaq4tohqaa=
+aaaawgew2b6m4sg4qyaaaaa" title=3D"Which is the right fit for you?"><img c=
+lass=3D"mobileshow area_pod_cta_td_3" style=3D"display:block; border:none=
+;display:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D=
+"http://dimages.bfi0.com/images/2440012/12394519/promo-cta-desktop.jpg" a=
+lt=3D"" border=3D"0" /></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+
+<!--CONTENT LIST-->
+<tr>
+<td class=3D"mobileshow area_pod area_pod_cd" valign=3D"top" style=3D"dis=
+play:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"area_border">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content">
+<tr>
+<td class=3D"mobileshow area_pod_cta" style=3D""><table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" width=3D"292">
+<!--tr>
+
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_6" style=3D"">
+<font class=3D"area_pod_font area_pod_font_30" style=3D"-webkit-text-size=
+-adjust: none;font-family:Arial, Helvetica, sans-serif; text-decoration:u=
+ppercase; color:;">
+<strong></strong>
+</font>
+</td>
+</tr-->
+
+<!--CONTENT LIST-->
+<!--tr>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_5" style=3D"">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;"> <span style=3D"text-transform:uppercase; font-weight:bol=
+d;"> </strong></span>
+<span style=3D"text-transform:uppercase; font-weight:bold;"> </span> <br =
+/>
+<span style=3D"text-transform:uppercase; font-weight:bold;">  </span></fo=
+nt>
+</td>
+</tr-->
+<!--tr>-->
+<!--td valign=3D"top" class=3D"mobileshow area_pod_cta_td_4" style=3D"dis=
+play:none;font-size:0px;line-height:0px;width:0px;height:0px;"-->
+
+
+<!--img class=3D"mobileshow area_divider" style=3D"display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.co=
+m/images/2440012/12394519/spacer.png" alt=3D"" /-->
+
+
+
+<!--table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_4_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"><img class=3D"mobileshow area_pod_cta_td_4_1" style=3D"display:n=
+one;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://di=
+mages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" =
+/></td>                          <td valign=3D"middle" class=3D"mobilesho=
+w area_pod_cta_td_4_2" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;"><font class=3D"area_pod_font area_pod_font_18" s=
+tyle=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans=
+-serif; color:#910938; text-transform:uppercase;  text-decoration: none; =
+text-align:left;display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"> <a target=3D"_blank" title=3D"TAKE A LOOK" href=3D"http://email=
+=2Esupersavvyme.com/1352cb29flayfiusiaq4tohyaaaaaawgew2b6m4sg4qyaaaaa" st=
+yle=3D"color:<br />
+<font size=3D'1'><table class=3D'xdebug-error xe-notice' dir=3D'ltr' bord=
+er=3D'1' cellspacing=3D'0' cellpadding=3D'1'>
+<tr><th align=3D'left' bgcolor=3D'#f57900' colspan=3D"5"><span style=3D'b=
+ackground-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</spa=
+n> Notice: Undefined index: cta_color in C:space<tr><th align=3D'left' bgcolor=3D'#e9b96e' colspan=3D'5'>Call Stack</th><=
+/tr>
+<tr><th align=3D'center' bgcolor=3D'#eeeeec'>#</th><th align=3D'left' bgc=
+olor=3D'#eeeeec'>Time</th><th align=3D'left' bgcolor=3D'#eeeeec'>Memory</=
+th><th align=3D'left' bgcolor=3D'#eeeeec'>Function</th><th align=3D'left'=
+ bgcolor=3D'#eeeeec'>Location</th></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>1</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0163</td><td bgcolor=3D'#eeeeec' align=3D'right'>252=
+704</td><td bgcolor=3D'#eeeeec'>{main}(  )</td><td title=3D'C:ez.m_01-12-14_Best-bits/td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>2</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0996</td><td bgcolor=3D'#eeeeec' align=3D'right'>472=
+872</td><td bgcolor=3D'#eeeeec'>include_once( <font color=3D'#00bb00'>'C:=
+r2014Emails_01-12-14_Best-bits'C:mber2014Emails_01-12-14_Best-bits=2Ephp<b>:</b>50</td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>3</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0998</td><td bgcolor=3D'#eeeeec' align=3D'right'>507=
+192</td><td bgcolor=3D'#eeeeec'>mobile_pod_cd(  )</td><td title=3D'C:rs4Emails_01-12-14_Best-bits_mobile.php<b>:</b>90</td></tr>
+</table></font>
+;"><strong><br />
+<font size=3D'1'><table class=3D'xdebug-error xe-notice' dir=3D'ltr' bord=
+er=3D'1' cellspacing=3D'0' cellpadding=3D'1'>
+<tr><th align=3D'left' bgcolor=3D'#f57900' colspan=3D"5"><span style=3D'b=
+ackground-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</spa=
+n> Notice: Undefined index: cta_text in C:paceinclude<tr><th align=3D'left' bgcolor=3D'#e9b96e' colspan=3D'5'>Call Stack</th><=
+/tr>
+<tr><th align=3D'center' bgcolor=3D'#eeeeec'>#</th><th align=3D'left' bgc=
+olor=3D'#eeeeec'>Time</th><th align=3D'left' bgcolor=3D'#eeeeec'>Memory</=
+th><th align=3D'left' bgcolor=3D'#eeeeec'>Function</th><th align=3D'left'=
+ bgcolor=3D'#eeeeec'>Location</th></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>1</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0163</td><td bgcolor=3D'#eeeeec' align=3D'right'>252=
+704</td><td bgcolor=3D'#eeeeec'>{main}(  )</td><td title=3D'C:ez.m_01-12-14_Best-bits/td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>2</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0996</td><td bgcolor=3D'#eeeeec' align=3D'right'>472=
+872</td><td bgcolor=3D'#eeeeec'>include_once( <font color=3D'#00bb00'>'C:=
+r2014Emails_01-12-14_Best-bits'C:mber2014Emails_01-12-14_Best-bits=2Ephp<b>:</b>50</td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>3</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0998</td><td bgcolor=3D'#eeeeec' align=3D'right'>507=
+192</td><td bgcolor=3D'#eeeeec'>mobile_pod_cd(  )</td><td title=3D'C:rs4Emails_01-12-14_Best-bits_mobile.php<b>:</b>90</td></tr>
+</table></font>
+</strong></a> </font></td>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_4_3" style=3D"display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"><img class=3D"mobileshow area_pod_cta_td_4_3" style=3D"display:n=
+one;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://di=
+mages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" =
+/></td>                          <td valign=3D"top" class=3D"mobileshow a=
+rea_pod_cta_td_4_4" style=3D"display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"><a target=3D"_blank" title=3D"TAKE A LOOK" href=3D"=
+http://email.supersavvyme.com/1fd9378d1layfiusiaq4toiaaaaaaawgew2b6m4sg4q=
+yaaaaa"><img class=3D"mobileshow area_pod_cta_td_4_4" style=3D"display:no=
+ne;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dim=
+ages.bfi0.com/images/2440012/12394519/cta_arrow_sml.png" alt=3D"TAKE A LO=
+OK" border=3D"0" /></a></td>
+</tr>
+</table-->
+<!--/tr-->
+<tr>
+<td class=3D"mobileshow area_pod_big_img" style=3D"display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;"><a href=3D"http://email.super=
+savvyme.com/11e874c85layfiusiaq4toiiaaaaaawgew2b6m4sg4qyaaaaa" target=3D"=
+_blank" title=3D"The #GlamJan Issue"><img class=3D"mobileshow area_pod_bi=
+g_img" style=3D"display:block; border:none; display:none;font-size:0px;lz=
+ine-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/imag=
+es/2440012/12394519/mobile-hero.jpg" alt=3D"The GlamJan Issue" border=3D"=
+0" /></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<!--CONTENT LIST-->
+<tr>
+<td class=3D"mobileshow area_pod area_pod_cd2" valign=3D"top" style=3D"di=
+splay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"area_border area_=
+border_5b4379">
+<tr>
+<td valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"area_pod_content2">
+<tr>
+<td class=3D"mobileshow area_pod_cta2" style=3D""><table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" width=3D"292">
+<!--tr>
+
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_6" style=3D"">
+<font class=3D"area_pod_font area_pod_font_30" style=3D"-webkit-text-size=
+-adjust: none;font-family:Arial, Helvetica, sans-serif; text-decoration:u=
+ppercase; color:;">
+<strong></strong>
+</font>
+</td>
+</tr-->
+
+<!--CONTENT LIST-->
+<!--tr>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_5" style=3D"">
+<font style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetic=
+a, sans-serif;"> <span style=3D"text-transform:uppercase; font-weight:bol=
+d;"> </strong></span>
+<span style=3D"text-transform:uppercase; font-weight:bold;"> </span> <br =
+/>
+<span style=3D"text-transform:uppercase; font-weight:bold;">  </span></fo=
+nt>
+</td>
+</tr-->
+<!--tr>
+<td valign=3D"top" class=3D"mobileshow area_pod_cta_td_4" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;"-->
+
+
+<!--img class=3D"mobileshow area_divider" style=3D"display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.co=
+m/images/2440012/12394519/spacer.png" alt=3D"" /-->
+
+
+
+<!--table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_4_1" style=3D"display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"><img class=3D"mobileshow area_pod_cta_td_4_1" style=3D"display:n=
+one;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://di=
+mages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" =
+/></td>                          <td valign=3D"middle" class=3D"mobilesho=
+w area_pod_cta_td_4_2" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;"><font class=3D"area_pod_font area_pod_font_18" s=
+tyle=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, sans=
+-serif; color:#910938; text-transform:uppercase;  text-decoration: none; =
+text-align:left;display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"> <a target=3D"_blank" title=3D"December's best bits" href=3D"#" =
+<font size=3D'1'><table class=3D'xdebug-error xe-notice' dir=3D'ltr' bord=
+er=3D'1' cellspacing=3D'0' cellpadding=3D'1'>
+<tr><th align=3D'left' bgcolor=3D'#f57900' colspan=3D"5"><span style=3D'b=
+ackground-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</spa=
+n> Notice: Undefined index: cta_color in C:space<tr><th align=3D'left' bgcolor=3D'#e9b96e' colspan=3D'5'>Call Stack</th><=
+/tr>
+<tr><th align=3D'center' bgcolor=3D'#eeeeec'>#</th><th align=3D'left' bgc=
+olor=3D'#eeeeec'>Time</th><th align=3D'left' bgcolor=3D'#eeeeec'>Memory</=
+th><th align=3D'left' bgcolor=3D'#eeeeec'>Function</th><th align=3D'left'=
+ bgcolor=3D'#eeeeec'>Location</th></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>1</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0163</td><td bgcolor=3D'#eeeeec' align=3D'right'>252=
+704</td><td bgcolor=3D'#eeeeec'>{main}(  )</td><td title=3D'C:ez.m_01-12-14_Best-bits/td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>2</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0996</td><td bgcolor=3D'#eeeeec' align=3D'right'>472=
+872</td><td bgcolor=3D'#eeeeec'>include_once( <font color=3D'#00bb00'>'C:=
+r2014Emails_01-12-14_Best-bits'C:mber2014Emails_01-12-14_Best-bits=2Ephp<b>:</b>50</td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>3</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.1078</td><td bgcolor=3D'#eeeeec' align=3D'right'>507=
+384</td><td bgcolor=3D'#eeeeec'>mobile_pod_cd2(  )</td><td title=3D'C:ers14Emails_01-12-14_Best-bitsx_mobile.php<b>:</b>101</td></tr>
+</table></font>
+;"><strong><br />
+<font size=3D'1'><table class=3D'xdebug-error xe-notice' dir=3D'ltr' bord=
+er=3D'1' cellspacing=3D'0' cellpadding=3D'1'>
+<tr><th align=3D'left' bgcolor=3D'#f57900' colspan=3D"5"><span style=3D'b=
+ackground-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</spa=
+n> Notice: Undefined index: cta_text in C:paceinclude<tr><th align=3D'left' bgcolor=3D'#e9b96e' colspan=3D'5'>Call Stack</th><=
+/tr>
+<tr><th align=3D'center' bgcolor=3D'#eeeeec'>#</th><th align=3D'left' bgc=
+olor=3D'#eeeeec'>Time</th><th align=3D'left' bgcolor=3D'#eeeeec'>Memory</=
+th><th align=3D'left' bgcolor=3D'#eeeeec'>Function</th><th align=3D'left'=
+ bgcolor=3D'#eeeeec'>Location</th></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>1</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0163</td><td bgcolor=3D'#eeeeec' align=3D'right'>252=
+704</td><td bgcolor=3D'#eeeeec'>{main}(  )</td><td title=3D'C:ez.m_01-12-14_Best-bits/td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>2</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.0996</td><td bgcolor=3D'#eeeeec' align=3D'right'>472=
+872</td><td bgcolor=3D'#eeeeec'>include_once( <font color=3D'#00bb00'>'C:=
+r2014Emails_01-12-14_Best-bits'C:mber2014Emails_01-12-14_Best-bits=2Ephp<b>:</b>50</td></tr>
+<tr><td bgcolor=3D'#eeeeec' align=3D'center'>3</td><td bgcolor=3D'#eeeeec=
+' align=3D'center'>0.1078</td><td bgcolor=3D'#eeeeec' align=3D'right'>507=
+384</td><td bgcolor=3D'#eeeeec'>mobile_pod_cd2(  )</td><td title=3D'C:ers14Emails_01-12-14_Best-bitsx_mobile.php<b>:</b>101</td></tr>
+</table></font>
+</strong></a> </font></td>
+<td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_pod_cta_t=
+d_4_3" style=3D"display:none;font-size:0px;line-height:0px;width:0px;heig=
+ht:0px;"><img class=3D"mobileshow area_pod_cta_td_4_3" style=3D"display:n=
+one;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http://di=
+mages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D"" border=3D"0" =
+/></td>                          <td valign=3D"top" class=3D"mobileshow a=
+rea_pod_cta_td_4_4" style=3D"display:none;font-size:0px;line-height:0px;w=
+idth:0px;height:0px;"><a target=3D"_blank" title=3D"December's best bits"=
+ href=3D"#"><img class=3D"mobileshow area_pod_cta_td_4_4" style=3D"displa=
+y:none;font-size:0px;line-height:0px;width:0px;height:0px;" src=3D"http:/=
+/dimages.bfi0.com/images/2440012/12394519/cta_arrow_sml.png" alt=3D"Decem=
+ber's best bits" border=3D"0" /></a></td>
+</tr>
+</table-->
+<!--/tr-->
+<tr>
+<td class=3D"mobileshow area_pod_big_img2" style=3D"display:none;font-siz=
+e:0px;line-height:0px;width:0px;height:0px;"><img class=3D"mobileshow are=
+a_pod_big_img2" style=3D"display:block; border:none; display:none;font-si=
+ze:0px;line-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.=
+com/images/2440012/12394519/mobile-hero2.jpg" usemap=3D"#Map6" alt=3D"201=
+4's best tips" border=3D"0" /></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_promo_img" style=3D"display:none;font-size:0=
+px;line-height:0px;width:0px;height:0px;"><a target=3D"_blank" href=3D"ht=
+tp://email.supersavvyme.com/1e0ca1638layfiusiaq4toiqaaaaaawgew2b6m4sg4qya=
+aaaa"><img class=3D"mobileshow area_promo_img" src=3D"http://dimages.bfi0=
+=2Ecom/images/2440012/12394519/mobile-voucher-1.jpg" alt=3D"&pound;1 off =
+Fairy Platinum" style=3D"display:none;font-size:0px;line-height:0px;width=
+:0px;height:0px;" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow area_promo_cta" valign=3D"top" style=3D"display:n=
+one;font-size:0px;line-height:0px;width:0px;height:0px;"><a target=3D"_bl=
+ank" href=3D"http://email.supersavvyme.com/103de226clayfiusiaq4toiyaaaaaa=
+wgew2b6m4sg4qyaaaaa"><img class=3D"mobileshow area_promo_cta" src=3D"http=
+://dimages.bfi0.com/images/2440012/12394519/mobile-voucher-2.jpg" alt=3D"=
+&pound;1 off Fairy Platinum" usemap=3D"#Map4" style=3D"display:none;font-=
+size:0px;line-height:0px;width:0px;height:0px;" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td class=3D"mobileshow terms" style=3D"display:none;font-size:0px;line-h=
+eight:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tr><td valign=3D"top" bgcolor=3D"#ffffff" class=3D"mobil=
+eshow area_spacer_1_10" style=3D"display:none;font-size:0px;line-height:0=
+px;width:0px;height:0px;"><img class=3D"mobileshow area_spacer_1_10" styl=
+e=3D"display:none;font-size:0px;line-height:0px;width:0px;height:0px;" sr=
+c=3D"http://dimages.bfi0.com/images/2440012/12394519/spacer.png" alt=3D""=
+ border=3D"0" /></td></tr></table>    <table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"300" class=3D"littlewins">
+<tr>
+<td class=3D"mobileshow littlewins_img" style=3D"display:none;font-size:0=
+px;line-height:0px;width:0px;height:0px;"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tr><td valign=3D"top" bgcolor=3D"#ffffff" class=
+=3D"mobileshow area_spacer_1_10" style=3D"display:none;font-size:0px;line=
+-height:0px;width:0px;height:0px;"><img class=3D"mobileshow area_spacer_1=
+_10" style=3D"display:none;font-size:0px;line-height:0px;width:0px;height=
+:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12394519/spacer.png"=
+ alt=3D"" border=3D"0" /></td></tr></table>          <img class=3D"mobile=
+show littlewins_img" src=3D"http://dimages.bfi0.com/images/2440012/123945=
+19/footer-logo-desktop.jpg" alt=3D"Little wins for you, mum." style=3D"di=
+splay:none;font-size:0px;line-height:0px;width:0px;height:0px;" border=3D=
+"0" /></td>
+<td class=3D"mobileshow littlewins_text" style=3D"display:none;font-size:=
+0px;line-height:0px;width:0px;height:0px;"><font class=3D"littlewins_font=
+" style=3D"-webkit-text-size-adjust: none;font-family:Arial, Helvetica, s=
+ans-serif;color:#666666;display:none;font-size:0px;line-height:0px;width:=
+0px;height:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_10" style=3D"=
+display:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cl=
+ass=3D"mobileshow area_spacer_1_10" style=3D"display:none;font-size:0px;l=
+ine-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/imag=
+es/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table=
+>          Make every day more rewarding with great tips,<br />
+articles and product reviews by people like you.<br />
+Visit <a target=3D"_blank" href=3D"http://email.supersavvyme.com/1a684c9c=
+4layfiusiaq4tojaaaaaaawgew2b6m4sg4qyaaaaa" style=3D"color:#4595DB;text-de=
+coration:underline;">supersavvyme</a> today. </font> <img class=3D"mobile=
+show littlewins_share" style=3D"display:none;font-size:0px;line-height:0p=
+x;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images/2440012/12=
+394519/share-icons-mobile.jpg" alt=3D"Share icons. Facebook, Twitter, You=
+tube" usemap=3D"#Map2" border=3D"0" /></td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_10" style=3D"=
+display:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cl=
+ass=3D"mobileshow area_spacer_1_10" style=3D"display:none;font-size:0px;l=
+ine-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/imag=
+es/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table=
+></td>
+</tr>
+<tr>
+<td class=3D"mobileshow terms" style=3D"display:none;font-size:0px;line-h=
+eight:0px;width:0px;height:0px;"><font class=3D"termsfont" style=3D"-webk=
+it-text-size-adjust: none;font-family:Arial, Helvetica, sans-serif;color:=
+#969696;display:none;font-size:0px;line-height:0px;width:0px;height:0px;"=
+> This message was sent to you on behalf of supersavvyme. You recently ga=
+ve us permission to contact you by e-mail. If you do not wish to receive =
+monthly newsletters from supersavvyme by e-mail, please select this
+<a href=3D"http://email.supersavvyme.com/14590fd90layfiusiaq4tojiaaaaaawg=
+ew2b6m4sg4qyaaaaa" target=3D"_blank" style=3D"color:#969696;text-decorati=
+on:underline !important;">link</a> to unsubscribe. If you wish to unsubsc=
+ribe from all P&amp;G communication, please call the following freephone =
+number: 0800&nbsp;0157462 (UK) or 1800&nbsp;509213 (ROI). </font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_6" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_6" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+   <font class=3D"termsfont" style=3D"-webkit-text-size-adjust: none;font=
+-family:Arial, Helvetica, sans-serif;color:#969696;display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;"> <strong>We recently updated =
+our Privacy Policy.</strong> <a href=3D"http://email.supersavvyme.com/1bb=
+dda72dlayfiusiaq4tojqaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_blank" style=3D=
+"color:#969696;text-decoration:underline !important;">Click here</a> for =
+information about these updates. Trust is a cornerstone of our corporate =
+mission, and the success of our business depends on it. P&amp;G is commit=
+ted to maintaining your trust by protecting personal information we colle=
+ct about you, our consumers. Please <a href=3D"http://email.supersavvyme.=
+com/158c99379layfiusiaq4tojyaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_blank" =
+style=3D"color:#969696;text-decoration:underline !important;">click here<=
+/a> to read our updated P&amp;G Global Consumer Privacy Policy. </font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_6" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_6" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+   <font class=3D"termsfont" style=3D"-webkit-text-size-adjust: none;font=
+-family:Arial, Helvetica, sans-serif;color:#969696;display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;"> To view our Terms and Condit=
+ions, please visit <a href=3D"http://email.supersavvyme.com/190765937layf=
+iusiaq4tokaaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_blank" style=3D"color:#9=
+69696;font-weight:bold;text-decoration:underline !important;">www.pg.com/=
+terms.html</a> </font>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td valign=3D=
+"top" bgcolor=3D"#ffffff" class=3D"mobileshow area_spacer_1_6" style=3D"d=
+isplay:none;font-size:0px;line-height:0px;width:0px;height:0px;"><img cla=
+ss=3D"mobileshow area_spacer_1_6" style=3D"display:none;font-size:0px;lin=
+e-height:0px;width:0px;height:0px;" src=3D"http://dimages.bfi0.com/images=
+/2440012/12394519/spacer.png" alt=3D"" border=3D"0" /></td></tr></table> =
+   <font class=3D"termsfont" style=3D"-webkit-text-size-adjust: none;font=
+-family:Arial, Helvetica, sans-serif;color:#969696;display:none;font-size=
+:0px;line-height:0px;width:0px;height:0px;"> To read about gifs and cooki=
+es, please visit <a href=3D"http://email.supersavvyme.com/173626d63layfiu=
+siaq4tokiaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_blank" style=3D"color:#969=
+696;font-weight:bold;text-decoration:underline !important;">www.pg.com/co=
+okies.html</a> <br />
+<br />
+</font>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+<map name=3D"Map2" id=3D"Map2">
+<area shape=3D"rect" coords=3D"59,15,81,62" href=3D"http://email.supersav=
+vyme.com/18d2f37delayfiusiaq4tokqaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_bl=
+ank" alt=3D"Youtube" />
+<area shape=3D"rect" coords=3D"33,13,55,62" href=3D"http://email.supersav=
+vyme.com/16e3b038alayfiusiaq4tokyaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_bl=
+ank" alt=3D"Twitter" />
+<area shape=3D"rect" coords=3D"6,13,28,61" href=3D"http://email.supersavv=
+yme.com/110ababeelayfiusiaq4tolaaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_bla=
+nk" alt=3D"Facebook" />
+</map>
+<map name=3D"Map3" id=3D"Map3">
+<area shape=3D"rect" coords=3D"207,101,228,121" href=3D"http://email.supe=
+rsavvyme.com/1f3bf9fbalayfiusiaq4toliaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Youtube" />
+<area shape=3D"rect" coords=3D"180,101,201,121" href=3D"http://email.supe=
+rsavvyme.com/10df2c507layfiusiaq4tolqaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Twitter" />
+<area shape=3D"rect" coords=3D"155,101,176,121" href=3D"http://email.supe=
+rsavvyme.com/1eee6f153layfiusiaq4tolyaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Facebook" />
+<area shape=3D"rect" coords=3D"176,73,254,95" href=3D"http://email.supers=
+avvyme.com/126593b1dlayfiusiaq4tomaaaaaaawgew2b6m4sg4qyaaaaa" target=3D"_=
+blank" alt=3D"Little wins for you, mum." />
+</map>
+<!--<map name=3D"Map4" id=3D"Map4">
+<area shape=3D"rect" coords=3D"24,152,136,174" href=3D"http://email.super=
+savvyme.com/1c54d0f49layfiusiaq4tomiaaaaaawgew2b6m4sg4qyaaaaa" target=3D"=
+_blank" alt=3D"50p off Flash Magic Eraser" />
+<area shape=3D"rect" coords=3D"145,151,268,174" href=3D"http://email.supe=
+rsavvyme.com/13b0055f4layfiusiaq4tomqaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"50p off Flash Magic Eraser" />
+</map>-->
+
+<map name=3D"Map5" id=3D"Map5">
+<area shape=3D"rect" coords=3D"113,108,193,131" href=3D"http://email.supe=
+rsavvyme.com/1d81461a0layfiusiaq4tomyaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Try it" />
+<area shape=3D"rect" coords=3D"188,171,285,197" href=3D"http://email.supe=
+rsavvyme.com/17d4e8a08layfiusiaq4tonaaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Read it"/>
+<area shape=3D"rect" coords=3D"379,135,536,165" href=3D"http://email.supe=
+rsavvyme.com/19e5abe5clayfiusiaq4toniaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Read it here" />
+</map>
+
+<map name=3D"Map6" id=3D"Map6">
+<area shape=3D"rect" coords=3D"178,180,263,203" href=3D"http://email.supe=
+rsavvyme.com/16017e4e1layfiusiaq4tonqaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Read it"/>
+<area shape=3D"rect" coords=3D"102,115,200,140" href=3D"http://email.supe=
+rsavvyme.com/18303d0b5layfiusiaq4tonyaaaaaawgew2b6m4sg4qyaaaaa" target=3D=
+"_blank" alt=3D"Read it" />
+<area shape=3D"rect" coords=3D"33,362,253,390" href=3D"http://email.super=
+savvyme.com/14bbc1afblayfiusiaq4tooaaaaaaawgew2b6m4sg4qyaaaaa" target=3D"=
+_blank" alt=3D"Read it here" />
+</map>
+<IMG SRC=3D"http://email.supersavvyme.com/1cc82d62clayfir2iacugffiaaaaaaw=
+gew2b6m4sg4qyaaaaa"></body>
+</html>
+
+
+--ABCD-1e4e30ae9layfivciacugffiaaaaaawgew2b6m4sg4qyaaaaa-EFGH--
+

@@ -1,0 +1,633 @@
+From @..  Wed Jan  7 21:26:08 2015
+Return-Path: <@..>
+X-Original-To: V1M8C6O3@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 0A102DF; Wed,  7 Jan 2015 21:26:07 +0000 (UTC)
+Received: from cosabog13lx006.colmena-salud.com.co (salbogccprs04.colmedica.com [200.41.7.231])
+    by .. with SMTP id 96jmkjv75pmtxztr5jtdpn2sja;
+    for V1M8C6O3@fs.net;
+    Wed, 07 Jan 2015 21:26:07 +0000 (UTC)
+    (envelope-from irmad@colmedica.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=200.41.7.231; envelope-from=<irmad@colmedica.com>;
+    helo=cosabog13lx006.colmena-salud.com.co; mechanism=ip4:200.41.7.231
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=200.41.7.231; client-port=56453;
+    syn-fingerprint=5840:55:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.250 64.57.20.74 67.16.155.26 64.76.117.86;
+    network-path-time=1420665967
+Received: from cosabog13lx006.colmena-salud.com.co (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 36FF0291320;
+	Wed,  7 Jan 2015 16:25:56 -0500 (COT)
+Received: from cosabog13sw096.colmena-salud.com.co (unknown [10.17.8.163])
+	by cosabog13lx006.colmena-salud.com.co (Postfix) with ESMTP id 1648F290DB2;
+	Wed,  7 Jan 2015 16:25:56 -0500 (COT)
+Received: from COSABOG13SW094.colmena-salud.com.co
+ ([fe80::9860:1fcd:87f6:298]) by cosabog13sw096.colmena-salud.com.co ([::1])
+ with mapi id 14.02.0347.000; Wed, 7 Jan 2015 16:25:40 -0500
+From: Irma Sury Donoso Sanchez <@..>
+To: Sandra Murcia <@..>
+CC: Maria del Pilar Alvarado Casas <@..>,
+	"Maria Ines  Velandia Arjona" <@..>,
+	"Vicente  Montenegro Charry" <@..>,
+	=?iso-8859-1?Q?Elizabeth_Romero_D=EDaz?= <@..>
+Subject: RE: RENTABILIDAD PORTAFOLIOS MES NOVIEMBRE 2014
+Thread-Topic: RENTABILIDAD PORTAFOLIOS MES NOVIEMBRE 2014
+Thread-Index: AdAZP2yHLw/aZ//GQWyklzhdcNn8ZARgQJIg
+Date: Wed, 7 Jan 2015 21:26:33 +0000
+Message-ID: <AA9CF2648F98F04FA4C26BA23F5D00507747F897@COSABOG13SW094.colmena-salud.com.co>
+References: <7CF3F6A421096C46AD8B721193420EE5A6494AB3@BOA10SRVEX102B.fs.net>
+In-Reply-To: <7CF3F6A421096C46AD8B721193420EE5A6494AB3@BOA10SRVEX102B.fs.net>
+Accept-Language: es-CO, en-US
+Content-Language: es-ES
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.17.239.149]
+Content-Type: multipart/related;
+	boundary="_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-TM-AS-MML: No
+X-TM-AS-Product-Ver: IMSVA-8.2.0.1679-7.5.0.1018-21232.003
+X-TM-AS-Result: No--15.120-5.0-31-10
+X-imss-scan-details: No--15.120-5.0-31-10;No--15.120-5.0-31-10
+X-TMASE-Version: IMSVA-8.2.0.1679-7.5.1018-21232.003
+X-TMASE-Result: 10--15.120400-5.000000
+X-TMASE-MatchedRID: z5DqD3Ob670tn0ItQiUx0uIEAJJETtm8C1m5d6J1S5tXKwuc89Xrc8uX
+	NcBcUeJFpKMHwOJX4Lv7psjgv3jTHAS8hDBdWn6okNUp3q2HfhBlPUToK3kbMi60+QfLY4gqI9K
+	MarVr6EypnWV71iflPbWCUE0fIFxjxo5qyGmfsjunwWopWXdgUl8Jubvrca5djkzJH0hNVa3/Mv
+	KQhIDegHug+5p4Cwy6Crgg+mKxI0DP5oDCLVM2CP0peXGEEBlv6r3HCixfuKcc4ri4RJV/1ec4K
+	nh54LbxFLzYPEEL4mjDpxqo7r+PMiApVk/D2Quxsyw+ZJnFumTvCHzUQQGBcv5Ya9RJuA7S28vy
+	RIpB9YQbWUPf1D/rAsz8FOQl7HMfgfhzs4iUOjRYKMMlFh4BnYfsPVs/8Vw6EfKzCAntKpA57kF
+	jOTI5JYBMc1fifV0YRqg5UwLCb4gEJpDLGVo+QXpruoeiWYa5mRKFhwukYf0Ev5X2UPfz0T+4Ay
+	4hLf9XIPN/XZCBXiRycY64ARf1w7XLmZ/NeqxJXLpxxacvMT/PhA9QpSvny0Ijuk0uJKN9MEqnb
+	gFcVMOW00p9LWWxD5MFXV3pt6r7c1n7sLQ5llyJDLgwb/1K2WmRqNBHmBveuME6WhSqqOHUWCmA
+	nsUE5Y0QrPKa5/OVxlblqLlYqXJkSuC79blThRYCd+etWs9x1VkbrzVAJeq34VzJ86Pg+7BKOEY
+	9Yp42nZa3ZUytnuOI11FwMuqDjVybSLjdCb1eFmoM9MfdoARk0fr4EYoriAggfDuem3n3lrK9vf
+	/AdZGicOGuy9JkB89X9Mhn2Vtk
+
+--_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: multipart/alternative;
+	boundary="_000_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_"
+
+--_000_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Sandra
+
+Requerimos lo m=E1s pronto posible la informaci=F3n de diciembre
+
+Cordialmente,
+
+
+[Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3=
+n: Descripci=F3n: Descripci=F3n: http://www.colmedica.com/images/logo_col=
+medica.jpg]
+
+Irma S. Donoso S.
+Directora Financiera
+
+
+[Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3=
+n: Descripci=F3n: Descripci=F3n: http://www.colmedica.com/images/telef.jp=
+g]+(571) 7565656 Ext. 3493
+
+Bogot=E1 - Colombia [Descripci=F3n: Descripci=F3n: Descripci=F3n: Descrip=
+ci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n: http://www.colmedica=
+.com/images/vineta.jpg] www.colmedica.com<http://www.colmedica.com/>
+
+
+
+
+
+De: Sandra Murcia [mailto:smurcia@fundacion-social.com.co]
+Enviado el: martes, 16 de diciembre de 2014 09:49 a.m.
+Para: Elizabeth Romero D=EDaz
+CC: Maria del Pilar Alvarado Casas; Irma Sury Donoso Sanchez; Rafael Segu=
+ra Avellaneda; Maria Ines Velandia Arjona; Vicente Montenegro Charry
+Asunto: RENTABILIDAD PORTAFOLIOS MES NOVIEMBRE 2014
+
+Elizabeth buenos d=EDas.
+
+Anexo remito Rentabilidad correspondiente al mes de Noviembre/2014 de los=
+ portafolios administrados.
+
+Cordial saludo,
+
+SANDRA MURCIA
+Trader Junior Portafolio Propio
+Capitalizadora Colmena
+Tel. 3137125 Ext.11561
+e-mail: smurcia@fundacion-social.com.co<mailto:smurcia@fundacion-social.c=
+om.co>
+
+
+
+Este mensaje y cualquier archivo adjunto son confidenciales, por lo que l=
+a informaci=F3n no puede ser utilizada por personas diferentes a su desti=
+natario, ni esta autorizada su divulgaci=F3n. Si usted no es la persona a=
+ la cual esta dirigido este mensaje, por favor notifique inmediatamente a=
+l remitente con respuesta a este mensaje y, en tal caso, por favor destru=
+ya todas las copias del mismo y los archivos adjuntos. Cualquier uso, div=
+ulgaci=F3n,copia, distribuci=F3n, impresi=F3n o acto derivado del conocim=
+iento total o parcial de este mensaje sin autorizaci=F3n de Colm=E9dica M=
+edicina Prepagada ser=E1 sancionado de acuerdo con las normas legales vig=
+entes. Al destinatario de este mensaje se le considera custodio de la inf=
+ormaci=F3n contenida y debe velar por su confidencialidad, integridad y p=
+rivacidad. Las opiniones contenidas en este mensaje electr=F3nico no rela=
+cionadas con la actividad de nuestra organizaci=F3n, no necesariamente re=
+presentan la opini=F3n de Colm=E9dica Medicina Prepagada. 
+
+http://www.colmedica.com
+
+--_000_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-mi=
+crosoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:wo=
+rd" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D=
+"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<!--[if !mso]><style>vow.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+=09{font-family:Tahoma;
+=09panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+=09{font-family:Verdana;
+=09panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+=09{font-family:"Comic Sans MS";
+=09panose-1:3 15 7 2 3 3 2 2 2 4;}
+@font-face
+=09{font-family:"MS Sans Serif";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:11.0pt;
+=09font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:purple;
+=09text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+=09{mso-style-priority:99;
+=09mso-style-link:"Texto de globo Car";
+=09margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:8.0pt;
+=09font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo17
+=09{mso-style-type:personal;
+=09font-family:"Calibri","sans-serif";
+=09color:windowtext;}
+span.EstiloCorreo18
+=09{mso-style-type:personal-reply;
+=09font-family:"Calibri","sans-serif";
+=09color:#1F497D;}
+span.TextodegloboCar
+=09{mso-style-name:"Texto de globo Car";
+=09mso-style-priority:99;
+=09mso-style-link:"Texto de globo";
+=09font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-size:10.0pt;}
+@page WordSection1
+=09{size:612.0pt 792.0pt;
+=09margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ES-CO" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Sandra<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Requerimos lo m=E1s =
+pronto posible la informaci=F3n de diciembre<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Cordialmente, <o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"762" style=3D"width:571.5pt">
+<tbody>
+<tr style=3D"height:101.25pt">
+<td width=3D"163" nowrap=3D"" style=3D"width:122.55pt;padding:0cm 0cm 0cm=
+ 0cm;height:101.25pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;=
+Times New Roman&quot;,&quot;serif&quot;;color:#1F497D"><img width=3D"148"=
+ height=3D"118" id=3D"Imagen_x0020_1" src=3D"cid:image001.jpg@01D02A96.92=
+075740" alt=3D"Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n=
+: Descripci=F3n: Descripci=F3n: Descripci=F3n: http://www.colmedica.com/i=
+mages/logo_colmedica.jpg"></span><span style=3D"color:#1F497D"><o:p></o:p=
+></span></p>
+</td>
+<td width=3D"599" style=3D"width:448.95pt;padding:0cm 0cm 0cm 0cm;height:=
+101.25pt">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"510" style=3D"width:382.5pt">
+<tbody>
+<tr style=3D"height:108.75pt">
+<td style=3D"padding:0cm 0cm 0cm 0cm;height:108.75pt">
+<table class=3D"MsoNormalTable" border=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&qu=
+ot;Verdana&quot;,&quot;sans-serif&quot;;color:gray">Irma S. Donoso S.</sp=
+an></b><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&q=
+uot;sans-serif&quot;;color:gray">
+</span><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&=
+quot;,&quot;serif&quot;;color:#1F497D"><br>
+</span><i><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;=
+,&quot;sans-serif&quot;;color:#009EE0">Directora Financiera
+</span></i><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:.75pt .75pt .75pt .75pt"></td>
+</tr>
+<tr>
+<td style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;A=
+rial&quot;,&quot;sans-serif&quot;;color:gray"><img width=3D"17" height=3D=
+"14" id=3D"Imagen_x0020_2" src=3D"cid:image002.jpg@01D02A96.92075740" alt=
+=3D"Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=
+=F3n: Descripci=F3n: Descripci=F3n: http://www.colmedica.com/images/telef=
+.jpg">&#43;(571)
+ 7565656 Ext. 3493</span><span style=3D"color:#1F497D"><o:p></o:p></span>=
+</p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:.75pt .75pt .75pt .75pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;A=
+rial&quot;,&quot;sans-serif&quot;;color:gray">Bogot=E1 - Colombia
+<img width=3D"10" height=3D"10" id=3D"Imagen_x0020_3" src=3D"cid:image003=
+.jpg@01D02A96.92075740" alt=3D"Descripci=F3n: Descripci=F3n: Descripci=F3=
+n: Descripci=F3n: Descripci=F3n: Descripci=F3n: Descripci=F3n: http://www=
+.colmedica.com/images/vineta.jpg"><a href=3D"http://www.colmedica.com/">w=
+ww.colmedica.com</a>
+</span><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></s=
+pan></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0c=
+m 0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span l=
+ang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;"> Sandra Murcia [mailto:smurcia@fundacion-social.com.co=
+]
+<br>
+<b>Enviado el:</b> martes, 16 de diciembre de 2014 09:49 a.m.<br>
+<b>Para:</b> Elizabeth Romero D=EDaz<br>
+<b>CC:</b> Maria del Pilar Alvarado Casas; Irma Sury Donoso Sanchez; Rafa=
+el Segura Avellaneda; Maria Ines Velandia Arjona; Vicente Montenegro Char=
+ry<br>
+<b>Asunto:</b> RENTABILIDAD PORTAFOLIOS MES NOVIEMBRE 2014<o:p></o:p></sp=
+an></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Elizabeth buenos d=EDas.<o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-MX">Anexo remito Rentabilidad cor=
+respondiente al mes de Noviembre/2014 de los portafolios administrados.<o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-MX"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Comic Sans MS&quot;">Cordial saludo,</span><span lang=3D"ES">=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Comic Sans MS&quot;">SANDRA MURCIA</span></b><span lang=3D=
+"ES"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Comic Sans MS&quot;">Trader Junior Portafolio Propio</span><s=
+pan lang=3D"ES"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Comic Sans MS&quot;">Capitalizadora Colmena</span><span lang=
+=3D"ES"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Comic Sans MS&quot;">Tel. 3137125 Ext.11561</span><span lang=
+=3D"ES"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;MS Sans Serif&quot;">e-mail:
+</span><span lang=3D"ES"><a href=3D"mailto:smurcia@fundacion-social.com.c=
+o"><span style=3D"font-size:10.0pt;font-family:&quot;MS Sans Serif&quot;"=
+>smurcia@fundacion-social.com.co</span></a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-MX"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-MX"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+<table><tr><td bgcolor=3D#ffffff><font color=3D#000000><pre>Este mensaje =
+y cualquier archivo adjunto son confidenciales, por lo que la informaci=
+=F3n no puede ser utilizada por personas diferentes a su destinatario, ni=
+ esta autorizada su divulgaci=F3n. Si usted no es la persona a la cual es=
+ta dirigido este mensaje, por favor notifique inmediatamente al remitente=
+ con respuesta a este mensaje y, en tal caso, por favor destruya todas la=
+s copias del mismo y los archivos adjuntos. Cualquier uso, divulgaci=F3n,=
+copia, distribuci=F3n, impresi=F3n o acto derivado del conocimiento total=
+ o parcial de este mensaje sin autorizaci=F3n de Colm=E9dica Medicina Pre=
+pagada ser=E1 sancionado de acuerdo con las normas legales vigentes. Al d=
+estinatario de este mensaje se le considera custodio de la informaci=F3n =
+contenida y debe velar por su confidencialidad, integridad y privacidad. =
+Las opiniones contenidas en este mensaje electr=F3nico no relacionadas co=
+n la actividad de nuestra organizaci=F3n, no necesariamente representan l=
+a opini=F3n de Colm=E9dica Medicina Prepagada. 
+
+http://www.colmedica.com</pre></font></td></tr></table>
+
+--_000_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_--
+
+--_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=9872;
+	creation-date="Wed, 07 Jan 2015 21:26:33 GMT";
+	modification-date="Wed, 07 Jan 2015 21:26:33 GMT"
+Content-ID: <image001.jpg@01D02A96.92075740>
+Content-Transfer-Encoding: base64
+
+/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMpaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
+aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4
+OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6
+MzI6MDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5
+OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHht
+bG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6
+Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUu
+Y29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBo
+b3Rvc2hvcCBDUzUgV2luZG93cyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo4MTIwNDZDN0RF
+NDkxMUUwOTFERTk1NEJDOUZERjBBNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo4MTIwNDZD
+OERFNDkxMUUwOTFERTk1NEJDOUZERjBBNSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0
+YW5jZUlEPSJ4bXAuaWlkOjgxMjA0NkM1REU0OTExRTA5MURFOTU0QkM5RkRGMEE1IiBzdFJlZjpk
+b2N1bWVudElEPSJ4bXAuZGlkOjgxMjA0NkM2REU0OTExRTA5MURFOTU0QkM5RkRGMEE1Ii8+IDwv
+cmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJy
+Ij8+/+4ADkFkb2JlAGTAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+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
+PL/9X4dvtYRf/9k=
+
+--_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Description: image002.jpg
+Content-Disposition: inline; filename="image002.jpg"; size=1000;
+	creation-date="Wed, 07 Jan 2015 21:26:33 GMT";
+	modification-date="Wed, 07 Jan 2015 21:26:33 GMT"
+Content-ID: <image002.jpg@01D02A96.92075740>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAOABEDAREA
+AhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAACgUICf/EACUQAAICAgIBAgcAAAAAAAAAAAUGBAcD
+CAECAAkWExQVJVaV1P/EABcBAQADAAAAAAAAAAAAAAAAAAgEBgn/xAAmEQACAgIBBAEEAwAAAAAA
+AAADBAIFAQYTAAcREhQIFVXSJJKT/9oADAMBAAIRAxEAPwDZ26d1djel6bARrB2Te67pSvbV9gIt
+aaj08DLXnO7dDswfz1Lsl41/2ASiYFZEG7Ba11d4ZSBRZFECi/zHBR8M+UtKDt/qudc1iVZqdbab
+DaUv3Oxt93vjg1wccrjJ5Apr1phkYmGzArE2m8qDC0YQWcTanIQylsG/bTG/2rFrtdhWa3UXsKiv
+p9H1+LGyTYlIvGM7t/TxiYkE1z2LKFd8whhjIcJB1w4HahRO2O0BAoTJaubE7h2NGS2dSwOSTsvq
+Mr2OwtC8djn+Y7KrKNBI65aKol5ioIwmkGE+sdRuNohYvvMHnjpGkST6Tp4ghDuOr6LVzsFHpV9l
+qW7uVaijK0lfdRx3ZLFmmdfiFkD4lV2+f4hJfxzY8yhEV3jbSzZNp+wb9aYrnasdlVbfo61g24q7
+B6QnEk6OuDfV6XMmdI7JVMqmYHDEWlZYzyoZ99tn4YU/Tm/5vC79tT/Ig/1B+/Sk+ex+Pa/rj9ui
+qeu2y2izbmqCnwSXCSDWlVCCKqoM8TEYXsR567G8LObIrZMOXBkiciPCF4Ic6XHyZ4H0sfmifAlR
+Mefxo/TcnTKaE+9kLQrK3ujiceTJIDWVq3C0k1xNhOBgIozIaUxwniJOYkZ+0J5j0GvqgsLs+/0q
+Qipkraejg0oi8KDSnzbErI2mjJsLMrHLIIgihIkc8cRxzDEZeZZqz6YbJayX6gGvpsJnRVeG1m8t
+bOYpJAC1QSxprDjJy58IoDXVsKMJTMBD5KePnzOvMuHnEB+mORxFHR4/W594VKV/tjs67EbFyaQI
+WyB7Fkzp1H1chGMgWWm2DChIXIMooZ45xOfzH3LKXVL7IWWwK92dZYHOrTDYYZp7JerTWr13K8oW
+msDMqkkqAhRtREcZ5Y5Y5COHvxx9OnW+ZwdaW9f/2Q==
+
+--_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Description: image003.jpg
+Content-Disposition: inline; filename="image003.jpg"; size=910;
+	creation-date="Wed, 07 Jan 2015 21:26:33 GMT";
+	modification-date="Wed, 07 Jan 2015 21:26:33 GMT"
+Content-ID: <image003.jpg@01D02A96.92075740>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAKAAoDAREA
+AhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAAK/8QAHBAAAwEAAwEBAAAAAAAAAAAABAUGAwIH
+CAkB/8QAFgEBAQEAAAAAAAAAAAAAAAAACAAG/8QAHhEAAwADAAMBAQAAAAAAAAAAAgMEAQUGAAcU
+EhP/2gAMAwEAAhEDEQA/AFX2l2ls6J+rt1d/WX1D0R3L0Z6h9Gz/AJ184z/oG8RIaBDOWj3lFJEk
+nxoOJ7tRRNfzbr5atg9E4fVgabGjosSJ8kQTN1ajU4QPp7X6/wBOcn0Oj6Dk+Yp6bp6eb19FE1FU
+M/3vfZ8380OmT+dk1uxw49ubymmIaRM8hXb7bLy9w7DYe4+s57ec/wBZ083M8xN0mwnnpnluo+BC
+I/p/o9NLv1rVK12UhqAQNNIlMQBjVZ4goH1Z4t8hVVS7b0tPS+XugaCjo6BkY5fUD5z1RJsW7t23
+Y7EsGrdqwJIOZMjiNzDjN9iittd9efPkQe+mnj7rtJJEJlkl6zo5pZZlAieadG4sUlCEqEVpSlYi
+tSliILARABwOMY8X3A00WcLxddb3VV1cnzlNVVLTfRTQ/Txtc97mkTHOcwiY1rCI2GRGZZLOc+VB
+4g8W1j53VVPkLy9S09K3ZUFHR0HQPVDl9QPnJmzFu7dt2MmSwat2rAkg5kyOI3MOM32KK213158+
+VN33dRzokk7TrJZJUqmllm6PcInmnQAqShCVWCtKUrEVqUsRBYCIAOBxjHlTwPC2UPrr4vk6q6nN
+pqqp5zTvopoeZNc97mxkxznMImNawiNhkRmWSznPiKn59DJoUkrLJFE1MTShbPzk5PrQ0yGfQpg8
+VyhIkULsRl6pQqXjDgrVoI+AYIeGIouOWGXDhxzNNNFlD663uqrqc2mqqlpvopoeZNc97mkTHOcw
+iY1rCI2GRGZZLOc+aaaaeOdEkiEyySpVNLLMoETzToAVJQhKhFaUpWIrUpYiCwEQAcDjGPP/2Q==
+
+--_006_AA9CF2648F98F04FA4C26BA23F5D00507747F897COSABOG13SW094c_--
+

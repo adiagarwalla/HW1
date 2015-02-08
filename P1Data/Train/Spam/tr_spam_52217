@@ -1,0 +1,689 @@
+From @..  Thu Jan 22 11:03:04 2015
+Return-Path: <@..>
+X-Original-To: rexgenbathroom@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 77F0BDF; Thu, 22 Jan 2015 11:03:04 +0000 (UTC)
+Received: from mta.gforces.co.uk (mta.gforces.co.uk [176.31.7.9])
+    by .. with SMTP id a4u5y5tvc7h34re9nnagc24mm6;
+    for rexgenbathroom@fs.net;
+    Thu, 22 Jan 2015 11:03:03 +0000 (UTC)
+    (envelope-from mailer@gforces.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=176.31.7.9; envelope-from=<mailer@gforces.co.uk>;
+    helo=mta.gforces.co.uk; mechanism=include:_spf.elasticemail.com
+    (ip4:176.31.7.0/25 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=176.31.7.9; client-port=30571;
+    syn-fingerprint=8192:106:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.14.138 63.146.26.214 195.22.199.5 195.22.199.129
+    178.32.135.208 0.0.0.0 0.0.0.0 91.121.215.141 91.121.215.185;
+    network-path-time=1421924583
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=gforces.co.uk; h=MIME-Version:Subject:Date:From:Reply-To:To:Message-ID:List-Unsubscribe:Content-Type; q=dns/txt; s=api; t=1421924565; bh=RTtLx15o7ptsdLR6ndeqOdRZp9I=; b=
+ bjm0Zx+NzwMSV+oTDvP5TJ3+2gI3S2XkDRNT+PeCAN4Kc2XfPeT5MAfINxcjSoz4MjBcWP+msJGbbPkpW21Ug1yfGYuHWe12Lo/kw5O+dZCbIgg/ISsbl49K5JSzD2C8gnfO8pyXmvq/Z8tnCuogQyd634kiSFkdYPVutrZ0yC4=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=elasticemail.com; h=MIME-Version:Subject:Date:From:Reply-To:To:Message-ID:List-Unsubscribe:Content-Type; q=dns/txt; s=api; t=1421924563; bh=RTtLx15o7ptsdLR6ndeqOdRZp9I=; b=
+ iGLxzWufvuXYZPgot6hgJ0bkB6UHW2dH05WN0LPO/CMlzjXcfPsAT11TLjlRUjitruKZXwejqkl2oIYKTl2LuhM0Hje1HyOK8qNZMhf/yT4gyWTH/rFYxq+jiEEUMmJ6hTZyc4Nx2wnp9Uo3nGQKWZJza5QH/P4nTQRZm2Zh+qQ=
+From: Charters Group <@..>
+To: @..
+Date: Thu, 22 Jan 2015 11:02:45 +0000
+Subject: Latest Stock Updates from Charters Group
+Message-Id: <4tu4lyc1e9z4.ow6e-48ofu252luu25z@email.gforces.co.uk>
+Reply-To: Charters Group <@..>
+Sender: @..
+List-Unsubscribe: 
+ =?us-ascii?q?=3Cmailto=3Aunsubscribe+ow6e-48ofu252luu25z=40bounces=2Eelasticemail=2E?=
+ =?us-ascii?q?net=3Fsubject=3Dunsubscribe=3E=2C?=
+ <http://email.gforces.co.uk/tracking/unsubscribe?msgid=ow6e-48ofu252luu25z>
+X-Mailer: email.gforces.co.uk
+Received: (from apache@localhost)	by Meteor
+	(8.14.4/8.14.4/Submit) id t0MB2c65019595; Thu, 22 Jan 2015 11:02:38 GMT
+X-PHP-Originating-Script: 0:Sendmail.php
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-6V4oC/uoCGwpuO8LnS0z8w=="
+
+--=-6V4oC/uoCGwpuO8LnS0z8w==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Sorry, but this email can only be viewed in HTML, consider upgrading y=
+our email client or consulting it's help documentation for more inform=
+ation.=0D
+
+=0D
+
+You are receiving this email because you signed up for stock updates o=
+n our website.=0D
+
+If you wish to stop receiving these updates, please use this link: htt=
+p://www.chartersgroup.com/stock-updates/remove/?email=3Drexgenbathroom=
+=
+
+--=-6V4oC/uoCGwpuO8LnS0z8w==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:/=
+/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>Charters Group Stock Updates</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8" />
+<style type=3D"text/css">
+<!--
+p {padding:5px 0; margin:0;}
+a:link {text-decoration:underline; font-weight:bold; color: #000000;}
+a:visited {text-decoration:underline; font-weight:bold; color: #000000=
+;}
+a:hover {text-decoration:none;}
+img {border:1px solid;}
+img.header {border:none;}
+-->
+</style>
+</head>
+
+<body style=3D"background-color:#fff; padding:0; margin:0; border:0;">
+<div style=3D"background-color:#fff; padding:0; margin:0; border:0;">
+
+<table width=3D"600" style=3D"width: 600px;" border=3D"0" align=3D"cen=
+ter" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+	<td style=3D"background:#fff; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 11px; color: #fff;">
+		<img class=3D"header" src=3D"http://www.chartersgroup.com//local/ima=
+ges/email/header.gif" alt=3D"Charters Group" />
+	</td>
+</tr>
+<tr>
+	<td style=3D"background:#fff; font-family: Arial, Helvetica, sans-ser=
+if; font-size: 11px; color: #555555; font-weight:bold; text-align:cent=
+er; padding:3px 0px;">
+					Charters Group Latest Stock
+	=09
+	</td>
+</tr>
+<tr>
+	<td style=3D"padding:5px; background:#FFFFFF; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 11px; color: #555555;">
+		<table width=3D"100" cellspacing=3D"0">
+	=09
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3278/citroen-c1=
+-splash">
+
+                       =20
+                            <img src=3D"http://images.capnetwork.co.uk=
+/VehicleImage.aspx?SUBID=3D&amp;HASHCODE=3D5386765046B140D7A368B282CB6=
+C5BC2&amp;DB=3DCAR&amp;CAPID=3D42609&amp;DATE=3D2010-01-30&amp;WIDTH=3D=
+224&amp;HEIGHT=3D168&amp;IMAGETEXT=3D&amp;VIEWPOINT=3D" alt=3D"" width=
+=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Citroen C1 SPLASH				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    White , Manual, 32809 miles, 2010, 5 doors, Petrol=
+, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3278/citr=
+oen-c1-splash ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;4,790				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3279/citroen-c3=
+-e-hdi-egs-airdream-vtr-plus">
+
+                       =20
+                            <img src=3D"http://images.capnetwork.co.uk=
+/VehicleImage.aspx?SUBID=3D&amp;HASHCODE=3D65595B9A74B54BFF2B23D39C1F6=
+69CD4&amp;DB=3DCAR&amp;CAPID=3D53714&amp;DATE=3D2013-03-01&amp;WIDTH=3D=
+224&amp;HEIGHT=3D168&amp;IMAGETEXT=3D&amp;VIEWPOINT=3D" alt=3D"" width=
+=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Citroen C3 E-HDI EGS AIRDREAM VTR PLUS				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Polar White , SEMI AUTO, 19236 miles, 2013, 5 door=
+s, Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3279/citr=
+oen-c3-e-hdi-egs-airdream-vtr-plus ">&gt; Visit our site for more deta=
+ils</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;8,790				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3281/peugeot-20=
+08-16-vti-120bhp-allure">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 2008 1.6 VTi (120bhp) Allure				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Virtual Blue Metallic, Automatic, 5550 miles, 2014=
+, 5 doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3281/peug=
+eot-2008-16-vti-120bhp-allure ">&gt; Visit our site for more details</=
+a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;15,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3282/peugeot-30=
+8-16-hdi-92-active">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 308 1.6 HDi 92 Active				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Nera Black Metallic, Manual, 28501 miles, 2011, 5 =
+doors, Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3282/peug=
+eot-308-16-hdi-92-active ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;8,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3283/peugeot-50=
+08-16-hdi-115-fap-allure">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 5008 1.6 HDi 115 FAP Allure				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Nera Black Metallic, Manual, 13510 miles, 2013, 5 =
+doors, Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3283/peug=
+eot-5008-16-hdi-115-fap-allure ">&gt; Visit our site for more details<=
+/a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;14,990				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3284/peugeot-20=
+7-16-vti-120-allure">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 207 1.6 VTi 120 Allure				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Aluminium Metallic, Manual, 21524 miles, 2010, 2 d=
+oors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3284/peug=
+eot-207-16-vti-120-allure ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;7,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3285/peugeot-30=
+7-20-16v-180-sport">
+
+                       =20
+                            <img src=3D"http://d3bjscact0svdn.cloudfro=
+nt.net/ndstock/images/stock/704152cf9a4137e81b189da31e2605c8d73f05ea/N=
+DS3831913_KM56OPY_9.jpg?resize=3D224x168&amp;bestfit=3Dtrue&amp;ttl=3D=
+14400" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 307 2.0 16v 180 Sport				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Babylon Red Metallic, Manual, 67000 miles, 2007, 2=
+ doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3285/peug=
+eot-307-20-16v-180-sport ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;4,998				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3286/peugeot-30=
+8-16-vti-120-s">
+
+                       =20
+                            <img src=3D"http://images.capnetwork.co.uk=
+/VehicleImage.aspx?SUBID=3D&amp;HASHCODE=3D1D6BD5DA343BE9F1DB4E705E88B=
+17773&amp;DB=3DCAR&amp;CAPID=3D38118&amp;DATE=3D2010-04-07&amp;WIDTH=3D=
+224&amp;HEIGHT=3D168&amp;IMAGETEXT=3D&amp;VIEWPOINT=3D" alt=3D"" width=
+=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 308 1.6 VTi 120 S				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Hurricane Grey Metallic, Automatic, 37200 miles, 2=
+010, 5 doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3286/peug=
+eot-308-16-vti-120-s ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;5,990				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3287/peugeot-20=
+8-12-vti-82-access">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 208 1.2 VTi 82 Access+				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Moroccan Red Metallic, Manual, 13601 miles, 2013, =
+5 doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3287/peug=
+eot-208-12-vti-82-access ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;8,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3288/peugeot-20=
+8-14-hdi-70-fap-active">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 208 1.4 HDi 70 FAP Active				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Bianca White, Manual, 35018 miles, 2013, 5 doors, =
+Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3288/peug=
+eot-208-14-hdi-70-fap-active ">&gt; Visit our site for more details</a=
+>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;8,990				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3289/peugeot-20=
+08-12-e-vti-82bhp-allure-egc">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 2008 1.2 e-VTi (82bhp) Allure EGC				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Cumulus Grey Metallic, SEMI AUTO, 2001 miles, 2014=
+, 5 doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3289/peug=
+eot-2008-12-e-vti-82bhp-allure-egc ">&gt; Visit our site for more deta=
+ils</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;14,990				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3290/peugeot-50=
+08-20-hdi-163-fap-exclusive">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 5008 2.0 HDi 163 FAP Exclusive				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Hurricane Grey Metallic, Automatic, 30601 miles, 2=
+011, 5 doors, Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3290/peug=
+eot-5008-20-hdi-163-fap-exclusive ">&gt; Visit our site for more detai=
+ls</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;11,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3291/peugeot-20=
+8-12-vti-82-active">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 208 1.2 VTi 82 Active				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Bianca White, Manual, 10201 miles, 2013, 5 doors, =
+Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3291/peug=
+eot-208-12-vti-82-active ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;8,990				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3292/peugeot-10=
+7-10-12v-urban">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot 107 1.0 12v Urban				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Carbon Grey Metallic, Manual, 24312 miles, 2012, 3=
+ doors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3292/peug=
+eot-107-10-12v-urban ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;5,490				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3293/peugeot-pa=
+rtner-16-hdi-92-tepee-outdoor">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					Peugeot Partner 1.6 HDi (92) Tepee Outdoor				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Shark Grey Metallic, Manual, 1100 miles, 2014, 5 d=
+oors, Diesel, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3293/peug=
+eot-partner-16-hdi-92-tepee-outdoor ">&gt; Visit our site for more det=
+ails</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;15,499				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+	=09
+            			<tr>
+				<td rowspan=3D"2" width=3D"101px" class=3D"photo">
+					<a href=3D"http://www.chartersgroup.com/used-cars/3294/skoda-yeti=
+-18-tsi-4x4-se">
+
+                       =20
+                            <img src=3D"http://www.chartersgroup.com/l=
+ocal/images/email/noImage150x113.gif" alt=3D"" width=3D"100" />
+
+                       =20
+					</a>
+				</td>
+				<td colspan=3D"2" style=3D"background:#444444; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 11px; color: #ffffff; font-weight:b=
+old; padding-left:7px; height:20px;">
+					SKODA Yeti 1.8 TSI 4x4 SE				</td>
+			</tr>
+			<tr>
+				<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 11px; color: #555555; padding-left:7px;">
+                    Aqua Blue Metallic, Manual, 40000 miles, 2009, 5 d=
+oors, Petrol, <br />
+					<br /><a href=3D"http://www.chartersgroup.com/used-cars/3294/skod=
+a-yeti-18-tsi-4x4-se ">&gt; Visit our site for more details</a>
+				</td>
+				<td style=3D"width:80px; text-align:right; font-family: Arial, Hel=
+vetica, sans-serif;  font-size:18px; color:#555555;">
+					&pound;11,998				</td>
+			</tr>
+			<tr>
+				<td colspan=3D"3" style=3D"height:5px;"></td>
+			</tr>
+				</table>
+	</td>
+</tr>
+
+	<tr>
+		<td style=3D"padding:5px; font-size:11px; font-family: Arial, Helvet=
+ica, sans-serif; color:#555555; text-align:center; background:#dddddd;=
+">
+			You have received this email after having completed the subscriptio=
+n form to be sent our email stock updates. <br />
+			Your subscription can be <a href=3D"http://www.chartersgroup.com/st=
+ock-updates/index/?email=3Drexgenbathroom"Manage your subscription">managed online</a> or if you no longer wish=
+ to receive any emails from us (we'll be sorry to see you go) you can =
+<a href=3D"http://www.chartersgroup.com/stock-updates/remove/?email=3D=
+rexgenbathroomere</a>.
+		</td>
+	</tr>
+
+<tr>
+	<td style=3D"padding:5px; font-size:11px; font-family: Arial, Helveti=
+ca, sans-serif; color:#555555; text-align:center; background:#dddddd;"=
+>
+		&copy; 2015 Charters Group	</td>
+</tr>
+</table>
+
+</div>
+</body>
+</html>
+=
+
+--=-6V4oC/uoCGwpuO8LnS0z8w==--
+

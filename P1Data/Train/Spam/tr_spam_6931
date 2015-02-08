@@ -1,0 +1,604 @@
+From @..  Mon Jan 19 19:06:45 2015
+Return-Path: <@..>
+X-Original-To: yawbonsu@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D1ACBDF; Mon, 19 Jan 2015 19:06:45 +0000 (UTC)
+Received: from mta-dock-front-12.bluestatedigital.com (mta-dock-front-12.bluestatedigital.com [66.151.230.136])
+    by .. with SMTP id zmnf2hmf5fadt6tk26683zd996;
+    for yawbonsu@fs.net;
+    Mon, 19 Jan 2015 19:06:45 +0000 (UTC)
+    (envelope-from CQRUWhYWE19sBAdXAlJRV1MPBVNQVQZQBDBLAkFWWgoWEHZTEEoIURE6BgQGUQ@bounce.bluestatedigital.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.151.230.136;
+    envelope-from=<CQRUWhYWE19sBAdXAlJRV1MPBVNQVQZQBDBLAkFWWgoWEHZTEEoIURE6BgQGUQ@bounce.bluestatedigital.com>;
+    helo=mta-dock-front-12.bluestatedigital.com;
+    mechanism=include:_spf.ip.bluestatedigital.com (ip4:66.151.230.0/24 ->
+    pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.151.230.136; client-port=36090;
+    syn-fingerprint=14600:55:1:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.225
+    208.184.110.70 63.251.128.76 66.151.230.136; network-path-time=1421694405
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.184])
+	by mta-dock-front-12.bluestatedigital.com (Postfix) with ESMTP id 3kR2Xz3636z1S4x4
+	for <yawbonsu@fs.net>; Mon, 19 Jan 2015 19:06:43 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=bounce.bluestatedigital.com; s=bsdkey; t=1421694403;
+	bh=U/NyRfGJIwpz2UUuDUiO8IzzrdT8YD0D8U94pvyiR/c=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=TBFRoNPqD0M5HpTm5It9qeeUHVjWHGddMWyHagYIdmPeZ+RHVM5VZAQ3Wm18G7jaq
+	 RtM6DcW/rzcEXyCMjrDFMLXqWokepfX52MDKTtE60zacZk3Z1Pfu9OwQXRUa8iGDVR
+	 Jl7V07U22knrqkfu+1U8wckUpEMzIs8Vq8xPcKqk=
+Received: from root 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 19 Jan 2015 19:06:43 +0000
+Date: Mon, 19 Jan 2015 19:06:43 +0000
+To: Yaw Bonsu <@..>
+From: Alastair Campbell <@..>
+Reply-to: @..
+Subject: Up for a pub quiz?
+Message-ID: <b10f7064d4d38fbfd47e07c8f5a4bd1d@bounce.bluestatedigital.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 77b37b6065adbccf
+X-rpcampaign: rp_1090617
+X-maillist-guid: CQRUWhYWE19sBAdXAlJRV1MPBVNQVQZQBDBLAkFWWgoWEHZTEEoIURE6BgQGUQ
+List-Unsubscribe: <http://action.labour.org.uk/unsubscribe?email=yawbonsu@fs.net>, <mailto:CQRUWhYWE19sBAdXAlJRV1MPBVNQVQZQBDBLAkFWWgoWEHZTEEoIURE6BgQGUQ@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b10f7064d4d38fbfd47e07c8f5a4bd1d"
+
+
+--b1_b10f7064d4d38fbfd47e07c8f5a4bd1d
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello there Yaw,
+
+Like all of us, I'm up for doing whatever I can to help get this useless =
+government out in May.
+
+So how's this: want to be on a pub quiz team with me?=20
+
+There's a big Labour quiz and party on Monday 9 February in London, and =
+I've agreed to captain a group of four members and supporters. Yaw: I =
+reckon you should be on my team.
+
+Of course, the whole point is to raise money for the election, so I'm =
+asking you first to chuck in a fiver (or more, if you can spare it.) Do =
+that now, and your name will go into the draw to be on my team. Go on -- =
+it's a very painless donation process:
+
+
+https://donation.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_16_pub_=
+quiz_FR1_PT&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3Dlabou=
+rUK&utm_campaign=3D15_01_16_pub_quiz_FR1_PT&default_amt=3D5
+
+If you win, you get to bring a mate along to join the team too. Travel and =
+a night's accommodation is on us if you need it.
+
+We'll be competing against other Labour folk -- party supporters like you, =
+some Shadow Cabinet members, MPs.=20
+
+It's all for fun and to raise money that will help us beat the Tories and =
+elect Ed in May. No need to be University Challenge-level good or anything =
+-- I'm certainly not.
+
+So go on -- what's to lose? The odds are decent as these things go, and =
+even if you don't win, you can consider the donation your good deed for =
+the day:
+
+https://donation.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_16_pub_=
+quiz_FR1_PT&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3Dlabou=
+rUK&utm_campaign=3D15_01_16_pub_quiz_FR1_PT&default_amt=3D5
+
+Cheers. Maybe meet you soon,
+
+AC
+
+P.S. If you would like to enter without donating, please do so here. =
+However, every penny we receive will help us beat the Tories at the next =
+election, so I'd be grateful if you could donate something with your entry =
+-- https://donation.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_16_p=
+ub_quiz_FR1_PT&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3Dla=
+bourUK&utm_campaign=3D15_01_16_pub_quiz_FR1_PT
+---------
+
+The prize draw is open to individuals aged 16 or over who are resident in =
+the UK. Each person may submit one entry to the free prize draw. Every =
+entry will go into the draw, whether or not a donation is made. If you =
+wish to enter without making a donation, please fill in this form =
+(http://action.labour.org.uk/page/s/pub-quiz-entry). You can also enter =
+the draw by writing to Pub Quiz Raffle, One Brewer's Green, London SW1H =
+0RH. There are no tickets but each participant will be allocated a unique =
+number that will be entered into the draw. Automated or third party =
+entries will be disqualified. Labour Party employees are not permitted to =
+enter. The competition will run from 16 January 2015 until 24 January 2015 =
+at 11.59pm. Online entries must be completed by the closing date. Postal =
+entries must be received by the closing date. Winners will be chosen at =
+random from all valid entries within five days of the closing date and =
+will be contacted using the email address or phone number supplied. =
+Winners' names will be published on our website, and winners permit to =
+have their photo taken and video filmed at the event; this content may be =
+published on the Labour Party website or used in other promotional =
+material for the party. The personal details supplied for the prize draw =
+entry will not be passed to any third party in compliance with our privacy =
+policy (http://www.labour.org.uk/privacy) The Labour Party reserves the =
+right to withdraw a prize and to modify, suspend, cancel or terminate the =
+prize draw or extend or resume the entry period or disqualify any =
+participant at any time without giving advance notice and will do so if it =
+cannot be guaranteed that the prize draw can be carried out fairly or =
+correctly for technical, legal or other reasons or if the Labour Party =
+suspects that any person has been manipulating entries or the results or =
+has acted unethically in any other way.
+
+
+----
+
+This email was sent to yawbonsu@fs.net.
+
+To unsubscribe from Labour HQ emails go to =
+http://action.labour.org.uk/page/content/unsubscribe/ We won't pass on =
+your email address to anyone else: see our privacy policy =
+http://www.labour.org.uk/privacy. Reproduced from an email sent by the =
+Labour Party, promoted by Iain McNicol on behalf of the Labour Party both =
+at One Brewer's Green, London SW1H 0RH.
+
+
+
+
+--b1_b10f7064d4d38fbfd47e07c8f5a4bd1d
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html =
+xmlns=3D"http://www.w3.org/1999/xhtml"><head><title>Labour</title><meta =
+http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><meta =
+name=3D"viewport" content=3D"width=3Ddevice-width"><style =
+type=3D"text/css">
+        @media only screen and (max-width:600px){body[yahoo=3Dfix] =
+.wrapper-inner{width:100;-webkit-text-size-adjust:none}body[yahoo=3Dfix] =
+img{max-width:100.content{font-size:13px;padding-top:1em;padding-bottom:1em;margin:0 =
+20px}body[yahoo=3Dfix] =
+.footer{width:100.unsub{width:70.social{width:15a{padding:.5em;display:block}body[yahoo=3Dfix] .footer .social a =
+img{display:block;margin:0 auto}body[yahoo=3Dfix] .footer =
+p{font-size:12px!important;line-height:1.4!important;padding-left:3yahoo=3Dfix] .spacer{display:none}}@media only screen and =
+(max-width:480px){table[class=3Dfooter] =
+p{padding-left:0;text-align:center}table[class=3Dfooter] =
+td{display:block!important}table[class=3Dfooter] =
+.unsub{width:100.gutter{display:none!important}table[class=3Dfooter] .social{width:50ortant;float:left;text-align:center}table[class=3Dcontent] =
+.half-width-button{display:none!important;height:0!important;width:0!impor=
+tant}}.ExternalClass{width:100p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass =
+div{line-height:100    </style></head><body yahoo=3D"fix" style=3D"min-width: 1000; padding: 0; font-family: arial, sans-serif; line-height: 1.4; =
+font-size: 13px; background: #ffffff">
+   =20
+    <table class=3D"wrapper" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 100style=3D"border-collapse: collapse">
+                <table class=3D"wrapper-inner" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"center" style=3D"width: 600px; background: =
+#ffffff; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: =
+auto"><tr><td class=3D"header" style=3D"width: 100collapse">
+                              =20
+                        </td>=20
+                    </tr><tr><td class=3D"spacer" style=3D"padding-top: =
+8px; padding-bottom: 7px; line-height: 0; border-collapse: =
+collapse">&nbsp;</td>
+                    </tr><tr><td style=3D"border-collapse: collapse">
+                            <table cellspacing=3D"0" =
+cellpadding=3D"0"><tr><td class=3D"gutter" style=3D"width: 20px; =
+border-collapse: collapse">&nbsp;</td>
+                                    <td class=3D"content" style=3D"width: =
+560px; font-family: arial, sans-serif; border-collapse: collapse">=20
+=20
+=20
+
+    =20
+    =20
+
+                           =20
+
+
+
+
+
+
+
+
+
+Hello there Yaw,<br><br>
+
+Like all of us, I'm up for doing whatever I can to help get this useless =
+government out in May.<br><br>
+
+So how's this: want to be on a pub quiz team with =
+me?<br><br><strong>There's a big Labour quiz and party on Monday 9 =
+February in London, and I've agreed to captain a group of four members and =
+supporters. Yaw: I reckon you should be on my team.</strong><br><br>
+
+Of course, the whole point is to raise money for the election, so I'm =
+asking you first to chuck in a fiver (or more, if you can spare it.) Do =
+that now, and your name will go into the draw to be on my team. Go on =
+&mdash; it's a very painless donation process:<br><br>
+
+
+<center><table><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D5" style=3D"height:50px;v-text-anchor:middle;width:280px;" =
+stroke=3D"f" fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976daf/2287397264/VEsD/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxNV8=
+wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI6I=
+jUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaSDE=
+5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWFXW=
+jBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6Wlh=
+abGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:#f=
+fffff;display:inline-block;font-family:sans-serif;font-size:15px;font-weig=
+ht:bold;line-height:50px;text-align:center;text-decoration:none;width:280p=
+x;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.uk/=
+index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subsou=
+rce=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;ut=
+m_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x45=
+x55x65&amp;default_amt=3D5&amp;utm_content=3D5+-+Ill+donate+poundask1">I'l=
+l donate &pound;5</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D15" =
+style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976da6/2287397264/VEsA/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxNV8=
+wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI6I=
+jUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaSDE=
+5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWFXW=
+jBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6Wlh=
+abGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:#f=
+fffff;display:inline-block;font-family:sans-serif;font-size:15px;font-weig=
+ht:bold;line-height:50px;text-align:center;text-decoration:none;width:280p=
+x;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.uk/=
+index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subsou=
+rce=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;ut=
+m_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x45=
+x55x65&amp;default_amt=3D15&amp;utm_content=3D6+-+Ill+donate+poundask2">I'=
+ll donate &pound;15</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D25" =
+style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976db2/2287397264/VEsB/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxNV8=
+wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI6I=
+jUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaSDE=
+5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWFXW=
+jBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6Wlh=
+abGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:#f=
+fffff;display:inline-block;font-family:sans-serif;font-size:15px;font-weig=
+ht:bold;line-height:50px;text-align:center;text-decoration:none;width:280p=
+x;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.uk/=
+index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subsou=
+rce=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;ut=
+m_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x45=
+x55x65&amp;default_amt=3D25&amp;utm_content=3D7+-+Ill+donate+poundask3">I'=
+ll donate &pound;25</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5" style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976dcf/2287397264/VEsO/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxNV8=
+wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI6I=
+jUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaSDE=
+5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWFXW=
+jBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6Wlh=
+abGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:#f=
+fffff;display:inline-block;font-family:sans-serif;font-size:15px;font-weig=
+ht:bold;line-height:50px;text-align:center;text-decoration:none;width:280p=
+x;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.uk/=
+index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subsou=
+rce=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;ut=
+m_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x45=
+x55x65&amp;utm_content=3D8+-+Ill+donate+another+amount">I'll donate =
+another amount</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr></table>
+</center><br><strong>If you win, you get to bring a mate along to join the =
+team too. Travel and a night's accommodation is on us if you need =
+it.</strong><br><br>
+
+We'll be competing against other Labour folk &mdash; party supporters like =
+you, some Shadow Cabinet members, MPs.<br><br>
+
+It's all for fun and to raise money that will help us beat the Tories and =
+elect Ed in May. No need to be University Challenge-level good or anything =
+&mdash; I'm certainly not.<br><br><strong>So go on &mdash; what's to lose? =
+The odds are decent as these things go, and even if you don't win, you can =
+consider the donation your good deed for the =
+day:</strong><br><br><center><table><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D5" style=3D"height:50px;v-text-anchor:middle;width:280px;" =
+stroke=3D"f" fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976df7/2287397264/VEsHBg/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxN=
+V8wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI=
+6IjUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaS=
+DE5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWF=
+XWjBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6W=
+lhabGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:=
+#ffffff;display:inline-block;font-family:sans-serif;font-size:15px;font-we=
+ight:bold;line-height:50px;text-align:center;text-decoration:none;width:28=
+0px;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.u=
+k/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subs=
+ource=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;=
+utm_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x=
+45x55x65&amp;default_amt=3D5&amp;utm_content=3D13+-+Ill+donate+poundask1">=
+I'll donate &pound;5</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D15" =
+style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976d0d/2287397264/VEsHAQ/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxN=
+V8wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI=
+6IjUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaS=
+DE5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWF=
+XWjBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6W=
+lhabGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:=
+#ffffff;display:inline-block;font-family:sans-serif;font-size:15px;font-we=
+ight:bold;line-height:50px;text-align:center;text-decoration:none;width:28=
+0px;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.u=
+k/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subs=
+ource=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;=
+utm_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x=
+45x55x65&amp;default_amt=3D15&amp;utm_content=3D14+-+Ill+donate+poundask2"=
+>I'll donate &pound;15</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5&default_amt=3D25" =
+style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976d05/2287397264/VEsHAA/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxN=
+V8wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI=
+6IjUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaS=
+DE5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWF=
+XWjBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6W=
+lhabGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:=
+#ffffff;display:inline-block;font-family:sans-serif;font-size:15px;font-we=
+ight:bold;line-height:50px;text-align:center;text-decoration:none;width:28=
+0px;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.u=
+k/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subs=
+ource=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;=
+utm_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x=
+45x55x65&amp;default_amt=3D25&amp;utm_content=3D15+-+Ill+donate+poundask3"=
+>I'll donate &pound;25</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr><tr><td style=3D"cellspacing:10px">
+<div><!--[if mso]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://donation=
+.labour.org.uk/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatet=
+est2&subsource=3Dlabour_email&utm_medium=3Demail&utm_source=3DlabourUK&utm=
+_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amounts=3D5x15x25x35x45x55x6=
+5" style=3D"height:50px;v-text-anchor:middle;width:280px;" stroke=3D"f" =
+fillcolor=3D"#DA1310">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+      <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5=
+afd4/2976d10/2287397264/VEsHAw/p/eyJlM3R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxN=
+V8wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVzdDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI=
+6IjUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaS=
+DE5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdoOWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWF=
+XWjBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWGgwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6W=
+lhabGJuUm9mWDA9IjoiNjUifQ=3D=3D/" style=3D"background-color:#DA1310;color:=
+#ffffff;display:inline-block;font-family:sans-serif;font-size:15px;font-we=
+ight:bold;line-height:50px;text-align:center;text-decoration:none;width:28=
+0px;-webkit-text-size-adjust:none;" title=3D"https://donation.labour.org.u=
+k/index.php/w/pub-quiz?source=3D15_01_19_pub_quiz_FR1_donatetest2&amp;subs=
+ource=3Dlabour_email&amp;utm_medium=3Demail&amp;utm_source=3DlabourUK&amp;=
+utm_campaign=3D15_01_19_pub_quiz_FR1_donatetest2&amp;amounts=3D5x15x25x35x=
+45x55x65&amp;utm_content=3D16+-+Ill+donate+another+amount">I'll donate =
+another amount</a>
+  <!--[if mso]>
+    </center>
+  </v:rect>
+<![endif]--></div>
+</td>
+</tr></table>
+</center><br>
+
+Cheers. Maybe meet you soon,<br><br>
+
+AC<br><br>
+
+P.S. If you would like to enter without donating, please do so <a =
+href=3D"http://action.labour.org.uk/page/m/6e8ae950/52fe4339/6cc5afd4/2976=
+d2d/2287397264/VEsHAg/" title=3D"http://action.labour.org.uk/page/s/pub-qu=
+iz-entry?&amp;utm_medium=3Demail&amp;utm_source=3Dlabouruk&amp;utm_content=
+=3D17+-+here&amp;utm_campaign=3D15_01_19_pub_quiz_FR1&amp;source=3D15_01_1=
+9_pub_quiz_FR1">here</a>. However, every penny we receive will help us =
+beat the Tories at the next election, so <a href=3D"http://action.labour.o=
+rg.uk/page/m/6e8ae950/52fe4339/6cc5afd4/2976d36/2287397264/VEsHDA/p/eyJlM3=
+R1YjNKdFlXeHpiM1Z5WTJWOWZRPT0iOiIxNV8wMV8xOV9wdWJfcXVpel9GUjFfZG9uYXRldGVz=
+dDIiLCJlM3RoYzJ0MWNteG1hWEp6ZEgxOSI6IjUiLCJlM3RoYzJ0MWNteHpaV052Ym1SOWZRPT=
+0iOiIxNSIsImUzdGhjMnQxY214MGFHbHlaSDE5IjoiMjUiLCJlM3RoYzJ0MWNteG1iM1Z5ZEdo=
+OWZRPT0iOiIzNSIsImUzdGhjMnQxY214bWFXWjBhSDE5IjoiNDUiLCJlM3RoYzJ0MWNteHphWG=
+gwYUgxOSI6IjU1IiwiZTN0aGMydDFjbXh6WlhabGJuUm9mWDA9IjoiNjUifQ=3D=3D/" =
+title=3D"https://donation.labour.org.uk/index.php/w/pub-quiz?source=3D15_0=
+1_19_pub_quiz_FR1_donatetest2&amp;subsource=3Dlabour_email&amp;utm_medium=
+=3Demail&amp;utm_source=3DlabourUK&amp;utm_campaign=3D15_01_19_pub_quiz_FR=
+1_donatetest2&amp;amounts=3D5x15x25x35x45x55x65&amp;utm_content=3D19+-+Id+=
+be+grateful+if+you+could+donate+somet">I'd be grateful if you could donate =
+something with your entry</a>
+.<br><br><font size=3D"1" color=3D"#bdbdbd">The prize draw is open to =
+individuals aged 16 or over who are resident in the UK. Each person may =
+submit one entry to the free prize draw. Every entry will go into the =
+draw, whether or not a donation is made. If you wish to enter without =
+making a donation, please fill in <a href=3D"http://action.labour.org.uk/p=
+age/m/6e8ae950/52fe4339/6cc5afd4/2976d42/2287397264/VEsEBQ/" =
+title=3D"http://action.labour.org.uk/page/s/pub-quiz-entry?&amp;utm_medium=
+=3Demail&amp;utm_source=3Dlabouruk&amp;utm_content=3D20+-+this+form&amp;ut=
+m_campaign=3D15_01_19_pub_quiz_FR1&amp;source=3D15_01_19_pub_quiz_FR1">thi=
+s form</a>. You can also enter the draw by writing to Pub Quiz Raffle, One =
+Brewer's Green, London SW1H 0RH. There are no tickets but each participant =
+will be allocated a unique number that will be entered into the draw. =
+Automated or third party entries will be disqualified. Labour Party =
+employees are not permitted to enter. The competition will run from 16 =
+January 2015 until 24 January 2015 at 11.59pm. Online entries must be =
+completed by the closing date. Postal entries must be received by the =
+closing date. Winners will be chosen at random from all valid entries =
+within five days of the closing date and will be contacted using the email =
+address or phone number supplied. Winners' names will be published on our =
+website, and winners permit to have their photo taken and video filmed at =
+the event; this content may be published on the Labour Party website or =
+used in other promotional material for the party. The personal details =
+supplied for the prize draw entry will not be passed to any third party in =
+compliance with our <a href=3D"http://action.labour.org.uk/page/m/6e8ae950=
+/52fe4339/6cc5afd4/2976d5e/2287397264/VEsEBA/" title=3D"http://www.labour.=
+org.uk/privacy?&amp;utm_medium=3Demail&amp;utm_source=3Dlabouruk&amp;utm_c=
+ontent=3D21+-+privacy+policy&amp;utm_campaign=3D15_01_19_pub_quiz_FR1&amp;=
+source=3D15_01_19_pub_quiz_FR1">privacy policy</a> The Labour Party =
+reserves the right to withdraw a prize and to modify, suspend, cancel or =
+terminate the prize draw or extend or resume the entry period or =
+disqualify any participant at any time without giving advance notice and =
+will do so if it cannot be guaranteed that the prize draw can be carried =
+out fairly or correctly for technical, legal or other reasons or if the =
+Labour Party suspects that any person has been manipulating entries or the =
+results or has acted unethically in any other way.</font></td>=20
+                                    <td class=3D"gutter" style=3D"width: =
+20px; border-collapse: collapse"> &nbsp; </td>
+                                </tr></table></td>
+                    </tr><tr><td class=3D"spacer" style=3D"padding-top: =
+8px; padding-bottom: 7px; line-height: 0; border-collapse: =
+collapse">&nbsp;</td>
+                    </tr><tr><td style=3D"border-collapse: collapse">
+                            <table class=3D"footer" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" height=3D"30" style=3D"background: =
+#ffffff; padding: 0; width: 600px; height: 55px"><tr><td class=3D"gutter" =
+style=3D"width: 20px; border-collapse: collapse">&nbsp;</td>
+                                    <td class=3D"unsub" =
+style=3D"border-collapse: collapse">
+                                            <p style=3D"line-height: 1.4; =
+font-size: 12px"><a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52=
+fe4339/6cc5afd4/2976d54/2287397264/VEsEBw/" style=3D"color: #0072bb; =
+text-decoration: underline; font-weight: normal" title=3D"http://action.la=
+bour.org.uk/page/content/unsubscribe/?&amp;utm_medium=3Demail&amp;utm_sour=
+ce=3Dlabouruk&amp;utm_content=3D22+-+Unsubscribe+from+Labour+HQ+emails&amp=
+;utm_campaign=3D15_01_19_pub_quiz_FR1&amp;source=3D15_01_19_pub_quiz_FR1">=
+Unsubscribe from Labour HQ emails</a>. We won't pass on your email address =
+to anyone else: <a href=3D"http://action.labour.org.uk/page/m/6e8ae950/52f=
+e4339/6cc5afd4/2976d6d/2287397264/VEsEBg/" style=3D"color: #0072bb; =
+text-decoration: underline; font-weight: normal" title=3D"http://www.labou=
+r.org.uk/privacy?&amp;utm_medium=3Demail&amp;utm_source=3Dlabouruk&amp;utm=
+_content=3D23+-+see+our+privacy+policy&amp;utm_campaign=3D15_01_19_pub_qui=
+z_FR1&amp;source=3D15_01_19_pub_quiz_FR1">see our privacy policy</a>. =
+Reproduced from an email sent by the Labour Party, promoted by Iain =
+McNicol on behalf of the Labour Party both at One Brewer's Green, London =
+SW1H 0RH.</p>
+                                    </td>
+                                </tr></table></td>
+                    </tr></table></td>
+        </tr></table><img src=3D"http://action.labour.org.uk/page/o/6e8ae9=
+50/52fe4339/6cc5afd4/2976a27/2287397264/open.gif" width=3D"1" =
+height=3D"1"></body></html>
+
+
+
+--b1_b10f7064d4d38fbfd47e07c8f5a4bd1d--
+
+

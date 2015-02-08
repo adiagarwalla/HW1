@@ -1,0 +1,809 @@
+From @..  Fri Jan 16 13:23:57 2015
+Return-Path: <@..>
+X-Original-To: elmbuilders@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C96EEDE; Fri, 16 Jan 2015 13:23:57 +0000 (UTC)
+Received: from mx1.inboxinsightmail.co.uk (mx1.inboxinsightmail.co.uk [78.136.51.184])
+    by .. with SMTP id 7dw3ys7irz2cdttgytm9mrzdcs;
+    for elmbuilders@fs.net;
+    Fri, 16 Jan 2015 13:23:57 +0000 (UTC)
+    (envelope-from 400.14.+cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe+.elmbuilders=fs.net@industrybulletins.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=78.136.51.184;
+    envelope-from=<400.14.+cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe+.elmbuilders=fs.net@industrybulletins.co.uk>;
+    helo=mx1.inboxinsightmail.co.uk; mechanism=ip4:78.136.51.184
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=78.136.51.184; client-port=56887;
+    syn-fingerprint=8192:116:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 0.0.0.0 64.125.31.69 64.125.20.245
+    64.125.24.33 64.125.21.206 64.125.20.97 94.31.42.254 164.177.137.34
+    164.177.137.19 92.52.76.81; network-path-time=1421414635
+DKIM-Signature: v=1; a=rsa-sha1; d=industrybulletins.co.uk;s=key2;
+	c=relaxed/relaxed; q=dns/txt; t=1421414612;
+	h=list-unsubscribe:mime-version:from:to:date:subject:content-type:content-transfer-encoding;
+	bh=J1p12yv2qQ1P4xqejqQUVff/vPw=;
+	b=XUD3pDbK/7RGGQGY4JNjQDxFzEuHpjc8/Ej5qtxvCjmC/+XvRFf1OUt1qluNtQtl/RxgbIcC2W+xBjQDafz/1JNmD8Z17xdy2HnX9g1S2DQOaXdzJNuX8prnxdX3FI+J2gUiKUbtsro3sa8YrH2R6sc/abMUqF8f7HzrFnJYWnQ=
+X-FBL: NDAwLjE2LmJkMDAwMDAwYzE5MTVlLitjamVyZXAzbWs3ZDhnc211Z3BmZG4xZGtlZnRzYW8xbWZwNXU0eGUrLmVsbWJ1aWxkZXJzPWZzLm5ldA==
+List-Unsubscribe: <mailto:400.54.+cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe+.elmbuilders=fs.net@industrybulletins.co.uk>
+MIME-Version: 1.0
+From: "Construction Sector Bulletin" <@..>
+To: @..
+Date: 16 Jan 2015 13:15:24 +0000
+Subject: How to Combat Fearsome Facial Hair and Crazy Cuts in the Workplace
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <20150116132357.C96EEDE@..>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "h=
+ttp://www.w3.org/TR/html4/loose.dtd">=0D=0A<html>=0D=0A<head>=0D=0A=
+   <meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3Dutf-8" />=0D=0A   <title>Construction Sector Bulletin</title>=
+=0D=0A   <style type=3D"text/css" >=0D=0A   body {=0D=0A      mar=
+gin: 0;=0D=0A      padding: 0;=0D=0A      font-size: 12px;=0D=0A =
+     font-style: normal;=0D=0A      font-weight: normal;=0D=0A   =
+   font-family: Verdana, Geneva, sans-serif;=0D=0A      backgroun=
+d-color: #ffffff;=0D=0A      color: #444444;=0D=0A   }=0D=0A   ta=
+ble=0D=0A   {=0D=0A      color: #444444;=0D=0A      font-size: 12=
+px;=0D=0A      font-style: normal;=0D=0A      font-weight: normal=
+;=0D=0A      font-family: Verdana, Geneva, sans-serif;=0D=0A   }=0D=0A=
+   td=0D=0A   {=0D=0A      color: #444444;=0D=0A      font-style:=
+ normal;=0D=0A      font-weight: normal;=0D=0A      font-family: =
+Verdana, Geneva, sans-serif;=0D=0A   }=0D=0A   li=0D=0A   {=0D=0A=
+      color: #444444;=0D=0A      font-style: normal;=0D=0A      f=
+ont-weight: normal;=0D=0A      font-family: Verdana, Geneva, sans=
+-serif;=0D=0A   }=0D=0A   p=0D=0A   {=0D=0A      margin: 5px 0;=0D=0A=
+      padding: 0;=0D=0A      color: #444444;=0D=0A      font-styl=
+e: normal;=0D=0A      font-weight: normal;=0D=0A      font-family=
+: Verdana, Geneva, sans-serif;=0D=0A   }=0D=0A   a =0D=0A   {=0D=0A=
+      color: #cc0000;=0D=0A      font-style: normal;=0D=0A      f=
+ont-weight: normal;=0D=0A      font-family: Verdana, Geneva, sans=
+-serif;=0D=0A      text-decoration: none;=0D=0A   }=0D=0A   a:vis=
+ited=0D=0A   {=0D=0A      color: #cc0000;=0D=0A   }=0D=0A   a:hov=
+er=0D=0A   {=0D=0A      text-decoration: underline;=0D=0A   }=0D=0A=
+   img=0D=0A   {=0D=0A      border: none;=0D=0A      padding: 0;=0D=0A=
+      margin: 0;=0D=0A   }=0D=0A   .token-error, .token-error * {=
+=0D=0A      color: #f00 !important;=0D=0A      font-weight: bold;=
+=0D=0A   }=0D=0A</style>=0D=0A</head>=0D=0A<body>=0D=0A   <div><a=
+ name=3D"top" id=3D"top"></a></div>=0D=0A		<!-- HideInBrowser -->=
+      =0D=0A   			<table width=3D"750" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0">=0D=0A         		<tr style=3D"font-size:10=
+px;">=0D=0A					<td align=3D"center">=0D=0A						<a href=3D"http:=
+//library.industrybulletins.co.uk/Email/cjerep3mk7d8gsmugpfdn1dke=
+ftsao1mfp5u4xe" style=3D"color:#999999;">View Online</a> |       =
+=0D=0A        				<a href=3D"http://unsubscribe.industrybulletins=
+.co.uk/i/cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe" style=3D"color:=
+#999999;">Unsubscribe</a>                             =0D=0A					=
+</td>=0D=0A                 </tr> =0D=0A                 <tr>    =
+                =0D=0A                    <td height=3D"10"></td>=
+=0D=0A                 </tr>   =0D=0A     		 </table>=0D=0A      =
+   <!-- End:HideInBrowser -->=0D=0A   <table id=3D"page-container=
+" width=3D"750" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+=0D=0A      <tr>=0D=0A         <td colspan=3D"3" height=3D"20">=0D=0A=
+         </td>=0D=0A      </tr>=0D=0A      =0D=0A      <tr>=0D=0A=
+         <td id=3D"left-gutter" width=3D"10">=0D=0A         </td>=
+=0D=0A         =0D=0A         <!-- Sidebar Starts -->=0D=0A      =
+   <td id=3D"sidebar" width=3D"170" align=3D"center" valign=3D"to=
+p"=0D=0A            bgcolor=3D"#993366" =0D=0A            style=3D=
+"background-color: #993366">=0D=0A            =0D=0A            <=
+table width=3D"170" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0D=0A               <tr>=0D=0A                  <td height=3D=
+"60">=0D=0A                  </td>=0D=0A               </tr>=0D=0A=
+                  <tr>=0D=0A                     <td height=3D"30=
+">=0D=0A                     </td>=0D=0A                  </tr>=0D=0A=
+               =0D=0A                     <td align=3D"center">  =
+                      =0D=0A                           <img src=3D=
+"http://resources.industrybulletins.co.uk/assets/Publication/066e=
+4105-e7ff-4534-9ff8-54027a8c7c8f.png"=0D=0A                      =
+        alt=3D""  />=0D=0A                     </td>             =
+       =0D=0A                  </tr>   =0D=0A               =0D=0A=
+            </table>=0D=0A         </td>=0D=0A         <!-- Sideb=
+ar Ends -->=0D=0A         =0D=0A         =0D=0A         <!-- Body=
+ Starts -->=0D=0A         <td align=3D"left" valign=3D"top" width=
+=3D"570">=0D=0A            <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" width=3D"570">=0D=0A               <tr>=0D=0A   =
+               <td colspan=3D"2">=0D=0A                     <img =
+src=3D"http://resources.industrybulletins.co.uk/assets/Publicatio=
+n/6c8e21e5-1710-4f16-8fc2-fc7ebaae13ef.png"=0D=0A                =
+        alt=3D"Construction Sector Bulletin" width=3D"570" height=
+=3D"90" />=0D=0A                  </td>=0D=0A               </tr>=
+=0D=0A               <tr>=0D=0A                  <td colspan=3D"2=
+" height=3D"20"=0D=0A                     bgcolor=3D"#993366" =0D=0A=
+                     style=3D"background-color: #993366">=0D=0A  =
+                </td>=0D=0A               </tr>=0D=0A            =
+   <tr>=0D=0A                  <td id=3D"center-gutter" width=3D"=
+30">=0D=0A                  </td>=0D=0A                  =0D=0A  =
+                <td id=3D"body" width=3D"540" valign=3D"top" alig=
+n=3D"left">=0D=0A                     =0D=0A                     =
+<!-- Intro Section Starts -->=0D=0A                     <table id=
+=3D"intro-container" width=3D"540" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0D=0A                        <tr>=0D=0A        =
+                   <td height=3D"20">=0D=0A                      =
+     </td>=0D=0A                        </tr>=0D=0A              =
+          <tr>=0D=0A                           <td>=0D=0A        =
+                      <p>Welcome to your latest Construction Sect=
+or Bulletin, giving you access to the latest offers, information,=
+ guidance and research to assist you in managing a successful bus=
+iness in the construction industry.</p>=0D=0A                    =
+       </td>=0D=0A                        </tr>=0D=0A            =
+            <tr>=0D=0A                           <td height=3D"10=
+">=0D=0A                           </td>=0D=0A                   =
+     </tr>=0D=0A=0D=0A                     <tr>=0D=0A            =
+            <td>=0D=0A                           <table cellpaddi=
+ng=3D"2" cellspacing=3D"2" border=3D"0">                         =
+        =0D=0A                           =0D=0A                  =
+            <tr>=0D=0A                                 <td valign=
+=3D"top" width=3D"30" align=3D"right">=0D=0A                     =
+               1.=0D=0A                                 </td>=0D=0A=
+                                 <td>=0D=0A                      =
+              <a href=3D"#inclusion_1" style=3D"color:#cc0000; fo=
+nt-weight:bold;">=0D=0A                                       How=
+ to Win Clients with Online Surveys=0D=0A                        =
+            </a>=0D=0A                                 </td>=0D=0A=
+                              </tr>=0D=0A                        =
+   =0D=0A                              <tr>=0D=0A                =
+                 <td valign=3D"top" width=3D"30" align=3D"right">=
+=0D=0A                                    2.=0D=0A               =
+                  </td>=0D=0A                                 <td=
+>=0D=0A                                    <a href=3D"#inclusion_=
+2" style=3D"color:#cc0000; font-weight:bold;">=0D=0A             =
+                          How to Take Card Payments: 6 Step Guide=
+ for Small Businesses=0D=0A                                    </=
+a>=0D=0A                                 </td>=0D=0A             =
+                 </tr>=0D=0A                           =0D=0A    =
+                          <tr>=0D=0A                             =
+    <td valign=3D"top" width=3D"30" align=3D"right">=0D=0A       =
+                             3.=0D=0A                            =
+     </td>=0D=0A                                 <td>=0D=0A      =
+                              <a href=3D"#inclusion_3" style=3D"c=
+olor:#cc0000; font-weight:bold;">=0D=0A                          =
+             Creating Thought Leaders in Your Business=0D=0A     =
+                               </a>=0D=0A                        =
+         </td>=0D=0A                              </tr>=0D=0A    =
+                       =0D=0A                              <tr>=0D=0A=
+                                 <td valign=3D"top" width=3D"30" =
+align=3D"right">=0D=0A                                    4.=0D=0A=
+                                 </td>=0D=0A                     =
+            <td>=0D=0A                                    <a href=
+=3D"#inclusion_4" style=3D"color:#cc0000; font-weight:bold;">=0D=0A=
+                                       How  to Combat Fearsome Fa=
+cial Hair and Crazy Cuts in the Workplace=0D=0A                  =
+                  </a>=0D=0A                                 </td=
+>=0D=0A                              </tr>=0D=0A                 =
+          =0D=0A                           </table>=0D=0A        =
+                </td>=0D=0A                     </tr>=0D=0A=0D=0A=
+                        <tr>=0D=0A                           <td =
+height=3D"20">=0D=0A                           </td>=0D=0A       =
+                 </tr>=0D=0A                     </table>=0D=0A  =
+                   <!-- Intro Section Ends -->=0D=0A             =
+        =0D=0A                     =0D=0A                     <!-=
+- Start Foreach(inclusion) -->=0D=0A                     =0D=0A  =
+                      <!-- Inclusion Starts -->=0D=0A            =
+            <table width=3D"540" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0D=0A                           <tr>=0D=0A     =
+                         <td height=3D"10">=0D=0A                =
+              </td>=0D=0A                           </tr>=0D=0A  =
+                         <tr>=0D=0A                              =
+<td style=3D"border: solid 1px #cccccc;">=0D=0A                  =
+                 <table width=3D"538" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0D=0A                                       <tr>=0D=0A =
+                                         <td colspan=3D"3" height=
+=3D"10">=0D=0A                                          </td>=0D=0A=
+                                       </tr>=0D=0A               =
+                        <tr>=0D=0A                               =
+           <td width=3D"19">=0D=0A                               =
+           </td>=0D=0A                                          <=
+td width=3D"500">=0D=0A                                          =
+   <table width=3D"500" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0">=0D=0A                                                =0D=0A=
+                                                <!-- Inclusion Bo=
+dy Starts -->=0D=0A                                              =
+  <tr>=0D=0A                                                   <t=
+d>=0D=0A                                                      <h2=
+>=0D=0A                                                         <=
+a id=3D"inclusion_1" name=3D"inclusion_1" href=3D"http://response=
+.industrybulletins.co.uk/link/jc5dq4uoceas1atagfbika4ukehsh4dggie=
+u4xe"=0D=0A                                                      =
+      style=3D"color: #cc0000; font:normal normal bold 18px 'Treb=
+uchet MS', Arial, Helvetica, sans-serif; text-decoration: none;">=
+=0D=0A                                                           =
+ 1) How to Win Clients with Online Surveys=0D=0A                 =
+                                        </a>=0D=0A               =
+                                       </h2>=0D=0A               =
+                                    </td>=0D=0A                  =
+                              </tr>=0D=0A                        =
+                     =0D=0A                                      =
+       =0D=0A                                                <!--=
+ Check for Inclusion Banner Starts -->=0D=0A                     =
+                           =0D=0A                                =
+                <!-- Check for Inclusion Banner Ends -->=0D=0A   =
+                                          =0D=0A                 =
+                            =0D=0A                               =
+                 <tr>=0D=0A                                      =
+             <td height=3D"20">=0D=0A                            =
+                       </td>=0D=0A                               =
+                 </tr>=0D=0A                                     =
+           <tr>=0D=0A                                            =
+       <td>=0D=0A                                                =
+      <!-- Body Text -->=0D=0A                                   =
+                   =0D=0A                                        =
+                 <table width=3D"500" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">=0D=0A                                     =
+                       <tr>=0D=0A                                =
+                               <td width=3D"365" align=3D"left" v=
+align=3D"middle">=0D=0A                                          =
+                        <p>Quite often businesses outsource surve=
+y creation, with the aim of acquiring a good quality questionnair=
+e. But what if you could keep costs down by creating sophisticate=
+d surveys inhouse, that are available on a range of platforms?</p=
+>=0D=0A<p>&nbsp; &nbsp; &nbsp;&nbsp; </p>=0D=0A<p>This <a href=3D=
+"http://response.industrybulletins.co.uk/link/jc5dq4uoceas1atagfb=
+ika4ukehsh4dggieu4xe"><strong>case study</strong></a> shows how y=
+ou can win clients by making online surveys available on mobile d=
+evices, enabling on-the-go submissions and easy access to content=
+.</p>=0D=0A                                                      =
+         </td>=0D=0A                                             =
+                  <td width=3D"15">=0D=0A                        =
+                                       </td>=0D=0A               =
+                                                <td width=3D"120"=
+ align=3D"center" valign=3D"middle">=0D=0A                       =
+                                           <a href=3D"http://resp=
+onse.industrybulletins.co.uk/link/jc5dq4uoceas1atagfbika4ukehsh4d=
+ggieu4xe">=0D=0A                                                 =
+                    <img src=3D"http://resources.industrybulletin=
+s.co.uk/assets/Inclusion/a9d815ec-d04c-4243-80db-2171d52032a3.png=
+" align=3D"top" />=0D=0A                                         =
+                         </a>=0D=0A                              =
+                                 </td>=0D=0A                     =
+                                       </tr>=0D=0A               =
+                                          </table>=0D=0A         =
+                                             =0D=0A              =
+                                     </td>=0D=0A                 =
+                               </tr>=0D=0A                       =
+                         <tr>=0D=0A                              =
+                     <td height=3D"20">=0D=0A                    =
+                               </td>=0D=0A                       =
+                         </tr>=0D=0A                             =
+                   <tr>=0D=0A                                    =
+               <td>=0D=0A                                        =
+              <table width=3D"500" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0D=0A                                          =
+               <tr>=0D=0A                                        =
+                 =0D=0A															<td width=3D"300" height=3D=
+"40"colspan=3D"2" style=3D"width:340px;">=0D=0A															<td=
+ width=3D"200" align=3D"right" valign=3D"middle" rowspan=3D"3" st=
+yle=3D"width:200px">=0D=0A															  <img src=3D"http://res=
+ources.industrybulletins.co.uk/assets/Customer/1967c3e7-6ecd-45ff=
+-b022-c4ef20a2e184.png"=0D=0A																 alt=3D"IBM" style=3D=
+"max-height:110px"/>=0D=0A														   </td>=0D=0A											=
+			</tr>=0D=0A														<tr>=0D=0A														   <td width=3D=
+"240" height=3D"30" align=3D"center" valign=3D"middle" bgcolor=3D=
+"#c1272d" style=3D"width:260px; height:30px; background-color:#c1=
+272d;">=0D=0A																<a href=3D"http://response.industryb=
+ulletins.co.uk/link/jc5dq4uoceas1atagfbika4ukehsh4dggieu4xe" styl=
+e=3D"font-weight:bold; color:#ffffff;"><font color=3D"#ffffff" si=
+ze=3D"2">Click here</font></a>=0D=0A														   </td>			   =0D=0A=
+														   <td width=3D"60" style=3D"width:60px;">=0D=0A			=
+											   </td>=0D=0A														<tr>   =0D=0A													=
+		<td width=3D"300" height=3D"40" colspan=3D"2" style=3D"width:34=
+0px;"> =0D=0A														</tr>=0D=0A														=0D=0A=0D=0A =
+                                                        </tr>=0D=0A=
+                                                      </table>=0D=0A=
+                                                   </td>=0D=0A   =
+                                             </tr>=0D=0A         =
+                                       <!-- Inclusion Body Ends -=
+->=0D=0A                                                =0D=0A   =
+                                          </table>=0D=0A         =
+                                 </td>=0D=0A                     =
+                     <td width=3D"19">=0D=0A                     =
+                     </td>=0D=0A                                 =
+      </tr>=0D=0A                                       <tr>=0D=0A=
+                                          <td colspan=3D"3" heigh=
+t=3D"10">=0D=0A                                          </td>=0D=0A=
+                                       </tr>=0D=0A               =
+                     </table>=0D=0A                              =
+</td>=0D=0A                           </tr>=0D=0A                =
+           <tr>=0D=0A                              <td height=3D"=
+15">=0D=0A                              </td>=0D=0A              =
+             </tr>=0D=0A                        </table>=0D=0A   =
+                     <!-- Inclusion Ends -->=0D=0A               =
+      =0D=0A                        <!-- Inclusion Starts -->=0D=0A=
+                        <table width=3D"540" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">=0D=0A                           <tr=
+>=0D=0A                              <td height=3D"10">=0D=0A    =
+                          </td>=0D=0A                           <=
+/tr>=0D=0A                           <tr>=0D=0A                  =
+            <td style=3D"border: solid 1px #cccccc;">=0D=0A      =
+                             <table width=3D"538" cellpadding=3D"=
+0" cellspacing=3D"0">=0D=0A                                      =
+ <tr>=0D=0A                                          <td colspan=3D=
+"3" height=3D"10">=0D=0A                                         =
+ </td>=0D=0A                                       </tr>=0D=0A   =
+                                    <tr>=0D=0A                   =
+                       <td width=3D"19">=0D=0A                   =
+                       </td>=0D=0A                               =
+           <td width=3D"500">=0D=0A                              =
+               <table width=3D"500" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">=0D=0A                                       =
+         =0D=0A                                                <!=
+-- Inclusion Body Starts -->=0D=0A                               =
+                 <tr>=0D=0A                                      =
+             <td>=0D=0A                                          =
+            <h2>=0D=0A                    =20                    =
+                <a id=3D"inclusion_2" name=3D"inclusion_2" href=3D=
+"http://response.industrybulletins.co.uk/link/qf4ra4ubci5grh5r8fb=
+ika4ukehsh4dggieu4xe"=0D=0A                                      =
+                      style=3D"color: #cc0000; font:normal normal=
+ bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif; text-dec=
+oration: none;">=0D=0A                                           =
+                 2) How to Take Card Payments: 6 Step Guide for S=
+mall Businesses=0D=0A                                            =
+             </a>=0D=0A                                          =
+            </h2>=0D=0A                                          =
+         </td>=0D=0A                                             =
+   </tr>=0D=0A                                             =0D=0A=
+                                             =0D=0A              =
+                                  <!-- Check for Inclusion Banner=
+ Starts -->=0D=0A                                                =
+=0D=0A                                                <!-- Check =
+for Inclusion Banner Ends -->=0D=0A                              =
+               =0D=0A                                            =
+ =0D=0A                                                <tr>=0D=0A=
+                                                   <td height=3D"=
+20">=0D=0A                                                   </td=
+>=0D=0A                                                </tr>=0D=0A=
+                                                <tr>=0D=0A       =
+                                            <td>=0D=0A           =
+                                           <!-- Body Text -->=0D=0A=
+                                                      =0D=0A     =
+                                                    <table width=3D=
+"500" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A    =
+                                                        <tr>=0D=0A=
+                                                               <t=
+d width=3D"365" align=3D"left" valign=3D"middle">=0D=0A          =
+                                                        <p>The wa=
+y people spend money has changed, with many now carrying very lit=
+tle cash, instead preferring to use cards for the majority of the=
+ir transactions. This means that accepting card payments has beco=
+me critical for businesses to fully satisfy customer needs and in=
+crease sales.</p>=0D=0A<p>&nbsp;&nbsp;</p>=0D=0A<p>This useful <a=
+ href=3D"http://response.industrybulletins.co.uk/link/qf4ra4ubci5=
+grh5r8fbika4ukehsh4dggieu4xe"><strong>guide</strong></a> will hel=
+p you through the entire process of taking card payments, includi=
+ng choosing a provider, getting set up and staying compliant.</p>=
+=0D=0A                                                           =
+    </td>=0D=0A                                                  =
+             <td width=3D"15">=0D=0A                             =
+                                  </td>=0D=0A                    =
+                                           <td width=3D"120" alig=
+n=3D"center" valign=3D"middle">=0D=0A                            =
+                                      <a href=3D"http://response.=
+industrybulletins.co.uk/link/qf4ra4ubci5grh5r8fbika4ukehsh4dggieu=
+4xe">=0D=0A                                                      =
+               <img src=3D"http://resources.industrybulletins.co.=
+uk/assets/Inclusion/48956dfb-f33d-4591-8cb2-1a621a857ff0.png" ali=
+gn=3D"top" />=0D=0A                                              =
+                    </a>=0D=0A                                   =
+                            </td>=0D=0A                          =
+                                  </tr>=0D=0A                    =
+                                     </table>=0D=0A              =
+                                        =0D=0A                   =
+                                </td>=0D=0A                      =
+                          </tr>=0D=0A                            =
+                    <tr>=0D=0A                                   =
+                <td height=3D"20">=0D=0A                         =
+                          </td>=0D=0A                            =
+                    </tr>=0D=0A                                  =
+              <tr>=0D=0A                                         =
+          <td>=0D=0A                                             =
+         <table width=3D"500" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0">=0D=0A                                             =
+            <tr>=0D=0A                                           =
+              =0D=0A															<td width=3D"300" height=3D"40=
+"colspan=3D"2" style=3D"width:340px;">=0D=0A															<td wi=
+dth=3D"200" align=3D"right" valign=3D"middle" rowspan=3D"3" style=
+=3D"width:200px">=0D=0A															  <img src=3D"http://resour=
+ces.industrybulletins.co.uk/assets/Customer/7350ee9d-3839-481b-97=
+4e-bdd13530e155.png"=0D=0A																 alt=3D"" style=3D"max-=
+height:110px"/>=0D=0A														   </td>=0D=0A														</=
+tr>=0D=0A														<tr>=0D=0A														   <td width=3D"24=
+0" height=3D"30" align=3D"center" valign=3D"middle" bgcolor=3D"#c=
+1272d" style=3D"width:260px; height:30px; background-color:#c1272=
+d;">=0D=0A																<a href=3D"http://response.industrybull=
+etins.co.uk/link/qf4ra4ubci5grh5r8fbika4ukehsh4dggieu4xe" style=3D=
+"font-weight:bold; color:#ffffff;"><font color=3D"#ffffff" size=3D=
+"2">Download</font></a>=0D=0A														   </td>			   =0D=0A		=
+												   <td width=3D"60" style=3D"width:60px;">=0D=0A					=
+									   </td>=0D=0A														<tr>   =0D=0A															=
+<td width=3D"300" height=3D"40" colspan=3D"2" style=3D"width:340p=
+x;"> =0D=0A														</tr>=0D=0A														=0D=0A=0D=0A   =
+                                                      </tr>=0D=0A=
+                                                      </table>=0D=0A=
+                                                   </td>=0D=0A   =
+                                             </tr>=0D=0A         =
+                                       <!-- Inclusion Body Ends -=
+->=0D=0A                                                =0D=0A   =
+                                          </table>=0D=0A         =
+                                 </td>=0D=0A                     =
+                     <td width=3D"19">=0D=0A                     =
+                     </td>=0D=0A                                 =
+      </tr>=0D=0A                                       <tr>=0D=0A=
+                                          <td colspan=3D"3" heigh=
+t=3D"10">=0D=0A                                          </td>=0D=0A=
+                                       </tr>=0D=0A               =
+                     </table>=0D=0A                              =
+</td>=0D=0A                           </tr>=0D=0A                =
+           <tr>=0D=0A                              <td height=3D"=
+15">=0D=0A                              </td>=0D=0A              =
+             </tr>=0D=0A                        </table>=0D=0A   =
+                     <!-- Inclusion Ends -->=0D=0A               =
+      =0D=0A                        <!-- Inclusion Starts -->=0D=0A=
+                        <table width=3D"540" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">=0D=0A                           <tr=
+>=0D=0A                              <td height=3D"10">=0D=0A    =
+                          </td>=0D=0A                           <=
+/tr>=0D=0A                           <tr>=0D=0A                  =
+            <td style=3D"border: solid 1px #cccccc;">=0D=0A      =
+                             <table width=3D"538" cellpadding=3D"=
+0" cellspacing=3D"0">=0D=0A                                      =
+ <tr>=0D=0A                                          <td colspan=3D=
+"3" height=3D"10">=0D=0A                                         =
+ </td>=0D=0A                                       </tr>=0D=0A   =
+                                    <tr>=0D=0A                   =
+                       <td width=3D"19">=0D=0A                   =
+                       </td>=0D=0A                               =
+           <td width=3D"500">=0D=0A                              =
+               <table width=3D"500" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">=0D=0A                                       =
+         =0D=0A                                                <!=
+-- Inclusion Body Starts -->=0D=0A                               =
+                 <tr>=0D=0A                                      =
+             <td>=0D=0A                                          =
+            <h2>=0D=0A                                           =
+              <a id=3D"inclusion_3" name=3D"inclusion_3" href=3D"=
+http://response.industrybulletins.co.uk/link/jpdgc4buktjzch1mmjbi=
+ka4ukehsh4dggieu4xe"=0D=0A                                       =
+                     style=3D"color: #cc0000; font:normal normal =
+bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif; text-deco=
+ration: none;">=0D=0A                                            =
+                3) Creating Thought Leaders in Your Business=0D=0A=
+                                                         </a>=0D=0A=
+                                                      </h2>=0D=0A=
+                                                   </td>=0D=0A   =
+                                             </tr>=0D=0A         =
+                                    =0D=0A                       =
+                      =0D=0A                                     =
+           <!-- Check for Inclusion Banner Starts -->=0D=0A      =
+                                          =0D=0A                 =
+                                  <tr>=0D=0A                     =
+                                 <td height=3D"20">=0D=0A        =
+                                              </td>=0D=0A        =
+                                           </tr>=0D=0A           =
+                                        <tr>=0D=0A               =
+                                       <td>=0D=0A                =
+                                         <a href=3D"http://respon=
+se.industrybulletins.co.uk/link/jpdgc4buktjzch1mmjbika4ukehsh4dgg=
+ieu4xe">=0D=0A                                                   =
+         <img src=3D"http://resources.industrybulletins.co.uk/ass=
+ets/Inclusion/010e8600-8e6b-494e-85da-2c84f95c5689.png"=0D=0A    =
+                                                           alt=3D=
+"" width=3D"500" style=3D"width:500px;"/>=0D=0A                  =
+                                       </a>=0D=0A                =
+                                      </td>=0D=0A                =
+                                   </tr>=0D=0A                   =
+                             =0D=0A                              =
+                  <!-- Check for Inclusion Banner Ends -->=0D=0A =
+                                            =0D=0A               =
+                              =0D=0A                             =
+                   <tr>=0D=0A                                    =
+               <td height=3D"20">=0D=0A                          =
+                         </td>=0D=0A                             =
+                   </tr>=0D=0A                                   =
+             <tr>=0D=0A                                          =
+         <td>=0D=0A                                              =
+        <!-- Body Text -->=0D=0A                                 =
+                     =0D=0A                                      =
+                   <p>Cranfield School of Management&rsquo;s seri=
+es of Thought Leaders in Your Business programmes give you and yo=
+ur senior management team exclusive access to our trusted busines=
+s advisors. New to 2014 and through a series of closed workshops =
+which focus solely on your business, our Thought Leaders will ana=
+lyse your business, understand the issues you face and through th=
+e application of proven tools, techniques and models will guide a=
+nd advise to build functional skills, boost performance and help =
+you formulate a robust action plan.</p>=0D=0A<p>&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;</p>=0D=0A<p>Workshop themes include Strategy Optim=
+isation, Corporate Responsibility and Innovation Performance.&nbs=
+p;<a href=3D"http://response.industrybulletins.co.uk/link/jpdgc4b=
+uktjzch1mmjbika4ukehsh4dggieu4xe"><strong>Click here</strong></a>=
+ to ACCESS your free 60 second film by one of our Thought Leaders=
+, Professor Mark Jenkins.</p>=0D=0A<p></p>=0D=0A                 =
+                                     =0D=0A                      =
+                             </td>=0D=0A                         =
+                       </tr>=0D=0A                               =
+                 <tr>=0D=0A                                      =
+             <td height=3D"20">=0D=0A                            =
+                       </td>=0D=0A                               =
+                 </tr>=0D=0A                                     =
+           <tr>=0D=0A                                            =
+       <td>=0D=0A                                                =
+      <table width=3D"500" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0">=0D=0A                                                =
+         <tr>=0D=0A                                              =
+           =0D=0A															<td width=3D"300" height=3D"40"co=
+lspan=3D"2" style=3D"width:340px;">=0D=0A															<td width=
+=3D"200" align=3D"right" valign=3D"middle" rowspan=3D"3" style=3D=
+"width:200px">=0D=0A															  <img src=3D"http://resources=
+.industrybulletins.co.uk/assets/Customer/26e23ad2-c692-46cc-9edf-=
+2d1724c13c11.png"=0D=0A																 alt=3D"" style=3D"max-hei=
+ght:110px"/>=0D=0A														   </td>=0D=0A														</tr>=
+=0D=0A														<tr>=0D=0A														   <td width=3D"240" =
+height=3D"30" align=3D"center" valign=3D"middle" bgcolor=3D"#c127=
+2d" style=3D"width:260px; height:30px; background-color:#c1272d;"=
+>=0D=0A																<a href=3D"http://response.industrybulleti=
+ns.co.uk/link/jpdgc4buktjzch1mmjbika4ukehsh4dggieu4xe" style=3D"f=
+ont-weight:bold; color:#ffffff;"><font color=3D"#ffffff" size=3D"=
+2">Click here</font></a>=0D=0A														   </td>			   =0D=0A	=
+													   <td width=3D"60" style=3D"width:60px;">=0D=0A				=
+										   </td>=0D=0A														<tr>   =0D=0A														=
+	<td width=3D"300" height=3D"40" colspan=3D"2" style=3D"width:340=
+px;"> =0D=0A														</tr>=0D=0A														=0D=0A=0D=0A  =
+                                                       </tr>=0D=0A=
+                                                      </table>=0D=0A=
+                                                   </td>=0D=0A   =
+                                             </tr>=0D=0A         =
+                                       <!-- Inclusion Body Ends -=
+->=0D=0A                                                =0D=0A   =
+                                          </table>=0D=0A         =
+                                 </td>=0D=0A                     =
+                     <td width=3D"19">=0D=0A                     =
+                     </td>=0D=0A                                 =
+      </tr>=0D=0A                                       <tr>=0D=0A=
+                                          <td colspan=3D"3" heigh=
+t=3D"10">=0D=0A                                          </td>=0D=0A=
+                                       </tr>=0D=0A               =
+                     </table>=0D=0A                              =
+</td>=0D=0A                           </tr>=0D=0A                =
+           <tr>=0D=0A                              <td height=3D"=
+15">=0D=0A                              </td>=0D=0A              =
+             </tr>=0D=0A                        </table>=0D=0A   =
+                     <!-- Inclusion Ends -->=0D=0A               =
+      =0D=0A                        <!-- Inclusion Starts -->=0D=0A=
+                        <table width=3D"540" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">=0D=0A                           <tr=
+>=0D=0A                              <td height=3D"10">=0D=0A    =
+                          </td>=0D=0A                           <=
+/tr>=0D=0A                           <tr>=0D=0A                  =
+            <td style=3D"border: solid 1px #cccccc;">=0D=0A      =
+                             <table width=3D"538" cellpadding=3D"=
+0" cellspacing=3D"0">=0D=0A                                      =
+ <tr>=0D=0A                                          <td colspan=3D=
+"3" height=3D"10">=0D=0A                                         =
+ </td>=0D=0A                                       </tr>=0D=0A   =
+                                    <tr>=0D=0A                   =
+                       <td width=3D"19">=0D=0A                   =
+                       </td>=0D=0A                               =
+           <td width=3D"500">=0D=0A                              =
+               <table width=3D"500" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">=0D=0A                                       =
+         =0D=0A                                                <!=
+-- Inclusion Body Starts -->=0D=0A                               =
+                 <tr>=0D=0A                                      =
+             <td>=0D=0A                                          =
+            <h2>=0D=0A                                           =
+              <a id=3D"inclusion_4" name=3D"inclusion_4" href=3D"=
+http://response.industrybulletins.co.uk/link/pp3r641jpjfsqhddptbi=
+ka4ukehsh4dggieu4xe"=0D=0A                                       =
+                     style=3D"color: #cc0000; font:normal normal =
+bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif; text-deco=
+ration: none;">=0D=0A                                            =
+                4) How  to Combat Fearsome Facial Hair and Crazy =
+Cuts in the Workplace=0D=0A                                      =
+                   </a>=0D=0A                                    =
+                  </h2>=0D=0A                                    =
+               </td>=0D=0A                                       =
+         </tr>=0D=0A                                             =
+=0D=0A                                             =0D=0A        =
+                                        <!-- Check for Inclusion =
+Banner Starts -->=0D=0A                                          =
+      =0D=0A                                                <!-- =
+Check for Inclusion Banner Ends -->=0D=0A                        =
+                     =0D=0A                                      =
+       =0D=0A                                                <tr>=
+=0D=0A                                                   <td heig=
+ht=3D"20">=0D=0A                                                 =
+  </td>=0D=0A                                                </tr=
+>=0D=0A                                                <tr>=0D=0A=
+                                                   <td>=0D=0A    =
+                                                  <!-- Body Text =
+-->=0D=0A                                                      =0D=0A=
+                                                         <p>Offic=
+e-appropriate fashion seems fairly obvious. So why do so many emp=
+loyees still make eyebrow-raising mistakes, especially during sum=
+mer? The problem could be your company's dress code policy, or la=
+ck of one.</p>=0D=0A<p>&nbsp;&nbsp;&nbsp;</p>=0D=0A<p><strong><a =
+href=3D"http://response.industrybulletins.co.uk/link/pp3r641jpjfs=
+qhddptbika4ukehsh4dggieu4xe">This article</a></strong>&nbsp;explo=
+res the major office attire do&rsquo;s and don&rsquo;ts for your =
+employees and top ways to avoid workplace embarrassment.</p>=0D=0A=
+<p></p>=0D=0A<p></p>=0D=0A                                       =
+               =0D=0A                                            =
+       </td>=0D=0A                                               =
+ </tr>=0D=0A                                                <tr>=0D=0A=
+                                                   <td height=3D"=
+20">=0D=0A                                                   </td=
+>=0D=0A                                                </tr>=0D=0A=
+                                                <tr>=0D=0A       =
+                                            <td>=0D=0A           =
+                                           <table width=3D"500" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A           =
+                                              <tr>=0D=0A         =
+                                                =0D=0A											=
+				<td width=3D"300" height=3D"40"colspan=3D"2" style=3D"width:3=
+40px;">=0D=0A															<td width=3D"200" align=3D"right" val=
+ign=3D"middle" rowspan=3D"3" style=3D"width:200px">=0D=0A								=
+							  <img src=3D"http://resources.industrybulletins.co.uk/ass=
+ets/Customer/b007bfda-d345-4141-933b-1d5ede1931a3.PNG"=0D=0A					=
+											 alt=3D"" style=3D"max-height:110px"/>=0D=0A										=
+				   </td>=0D=0A														</tr>=0D=0A														<tr>=0D=0A=
+														   <td width=3D"240" height=3D"30" align=3D"center"=
+ valign=3D"middle" bgcolor=3D"#c1272d" style=3D"width:260px; heig=
+ht:30px; background-color:#c1272d;">=0D=0A																<a href=
+=3D"http://response.industrybulletins.co.uk/link/pp3r641jpjfsqhdd=
+ptbika4ukehsh4dggieu4xe" style=3D"font-weight:bold; color:#ffffff=
+;"><font color=3D"#ffffff" size=3D"2">Read Now</font></a>=0D=0A		=
+												   </td>			   =0D=0A														   <td width=3D"60"=
+ style=3D"width:60px;">=0D=0A														   </td>=0D=0A								=
+						<tr>   =0D=0A															<td width=3D"300" height=3D"40"=
+ colspan=3D"2" style=3D"width:340px;"> =0D=0A														</tr>=0D=0A=
+														=0D=0A=0D=0A                                       =
+                  </tr>=0D=0A                                    =
+                  </table>=0D=0A                                 =
+                  </td>=0D=0A                                    =
+            </tr>=0D=0A                                          =
+      <!-- Inclusion Body Ends -->=0D=0A                         =
+                       =0D=0A                                    =
+         </table>=0D=0A                                          =
+</td>=0D=0A                                          <td width=3D=
+"19">=0D=0A                                          </td>=0D=0A =
+                                      </tr>=0D=0A                =
+                       <tr>=0D=0A                                =
+          <td colspan=3D"3" height=3D"10">=0D=0A                 =
+                         </td>=0D=0A                             =
+          </tr>=0D=0A                                    </table>=
+=0D=0A                              </td>=0D=0A                  =
+         </tr>=0D=0A                           <tr>=0D=0A        =
+                      <td height=3D"15">=0D=0A                   =
+           </td>=0D=0A                           </tr>=0D=0A     =
+                   </table>=0D=0A                        <!-- Inc=
+lusion Ends -->=0D=0A                     =0D=0A                 =
+    <!-- End Foreach(inclusion) -->=0D=0A=0D=0A=0D=0A=0D=0A      =
+               <!-- Footer Section Starts -->=0D=0A              =
+       <table id=3D"footer-container" width=3D"540" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#f7f7f7">=0D=0A    =
+                    <tr>=0D=0A                           <td heig=
+ht=3D"5" bgcolor=3D"#cccccc">=0D=0A                           </t=
+d>=0D=0A                        </tr>=0D=0A                      =
+  <tr>=0D=0A                           <td height=3D"10"><img alt=
+=3D'' width=3D'1' height=3D'1' src=3D'http://response.industrybul=
+letins.co.uk/track/cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe' style=
+=3D'visibility:hidden;' /></td>=0D=0A                        </tr=
+>=0D=0A                        <tr>=0D=0A                        =
+   <td>=0D=0A                              <table width=3D"540" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A           =
+                      <tr>=0D=0A                                 =
+   <td width=3D"10">=0D=0A                                    </t=
+d>=0D=0A                                    <td width=3D"520">=0D=0A=
+                                       <table id=3D"footer" width=
+=3D"520" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A =
+                                <tr>=0D=0A                       =
+             <td colspan=3D"3" align=3D"center" style=3D"font-siz=
+e:12px;">=0D=0A                                       <strong>If =
+you enjoy receiving our bulletins, please be sure to add our emai=
+l address to your safe-senders list, address book or contact list=
+.</strong>=0D=0A                                    </td>=0D=0A		=
+						</tr>=0D=0A                                 <tr=0D=0A      =
+                              <td colspan=3D"3" height=3D"10"> </=
+td>=0D=0A								</tr>	=0D=0A								 <tr>	=0D=0A									<td col=
+span=3D"3" align=3D"center" style=3D"font-size:10px;">=0D=0A     =
+                                  Any direct replies to this emai=
+l will not be received.=0D=0A                                    =
+   Please use the following contact options:=0D=0A               =
+                     </td>									=0D=0A                        =
+         </tr>=0D=0A                                          <tr=
+>=0D=0A                                             <td colspan=3D=
+"3" height=3D"7">=0D=0A                                          =
+   </td>=0D=0A                                          </tr>=0D=0A=
+                                          <tr>=0D=0A             =
+                                <td width=3D"160" align=3D"left" =
+valign=3D"top">=0D=0A                                            =
+    <p>=0D=0A                                                   <=
+strong>Help and support</strong>=0D=0A                           =
+                     </p>=0D=0A                                  =
+           </td>=0D=0A                                           =
+  <td width=3D"20">=0D=0A                                        =
+     </td>=0D=0A                                             <td =
+width=3D"340" align=3D"left" valign=3D"top">=0D=0A               =
+                                 <p>=0D=0A                       =
+                            If you are experiencing any problems =
+or need assistance in=0D=0A                                      =
+             anyway, please email us at:=0D=0A                   =
+                                <a href=3D"mailto:help@industrybu=
+lletins.co.uk">=0D=0A                                            =
+          help@industrybulletins.co.uk=0D=0A                     =
+                              </a>=0D=0A                         =
+                       </p>=0D=0A                                =
+             </td>=0D=0A                                         =
+ </tr>=0D=0A         =0D=0A                                      =
+    <tr>=0D=0A                                             <td wi=
+dth=3D"160" align=3D"left" valign=3D"top">=0D=0A                 =
+                               <p>=0D=0A                         =
+                          <strong>Unsubscribe</strong>=0D=0A     =
+                                           </p>=0D=0A            =
+                                 </td>=0D=0A                     =
+                        <td width=3D"20">=0D=0A                  =
+                           </td>=0D=0A                           =
+                  <td width=3D"340" align=3D"left" valign=3D"top"=
+>=0D=0A                                                <p>=0D=0A =
+                                                  If you no longe=
+r wish to receive this bulletin, please click here to =0D=0A					=
+							   <a href=3D"http://unsubscribe.industrybulletins.co.uk/i=
+/cjerep3mk7d8gsmugpfdn1dkeftsao1mfp5u4xe">unsubscribe</a>.=0D=0A =
+                                               </p>=0D=0A        =
+                                     </td>=0D=0A                 =
+                         </tr>=0D=0A                             =
+             <tr>=0D=0A                                          =
+   <td width=3D"160" align=3D"left" valign=3D"top">=0D=0A        =
+                                        <p>=0D=0A                =
+                                   <strong>Contact Us</strong>=0D=0A=
+                                                </p>=0D=0A       =
+                                      </td>=0D=0A                =
+                             <td width=3D"20">=0D=0A             =
+                                </td>=0D=0A                      =
+                       <td width=3D"340" align=3D"left" valign=3D=
+"top">=0D=0A                                                <p>=0D=0A=
+                                                   For further in=
+formation please email Industry Bulletins at=0D=0A               =
+                                    <a href=3D"mailto:sales@indus=
+trybulletins.co.uk">=0D=0A                                       =
+               sales@industrybulletins.co.uk=0D=0A               =
+                                    </a>=0D=0A                   =
+                                or visit our web site at=0D=0A   =
+                                                <a href=3D"http:/=
+/www.industrybulletins.co.uk">=0D=0A                             =
+                         www.industrybulletins.co.uk=0D=0A       =
+                                            </a>=0D=0A           =
+                                     </p>=0D=0A                  =
+                           </td>=0D=0A                           =
+               </tr>=0D=0A                                       =
+</table>=0D=0A                                    </td>=0D=0A    =
+                                <td width=3D"10">=0D=0A          =
+                          </td>=0D=0A                            =
+     </tr>=0D=0A                              </table>=0D=0A     =
+                      </td>=0D=0A                        </tr>=0D=0A=
+                        <tr>=0D=0A                           <td =
+height=3D"10">=0D=0A                           </td>=0D=0A       =
+                 </tr>=0D=0A                        <tr>=0D=0A   =
+                        <td align=3D"center" style=3D"font-size: =
+10px;">=0D=0A                              You are subscribed to =
+this Insight as=0D=0A                              elmbuilders@fs=
+.net=0D=0A                           </td>=0D=0A                 =
+       </tr>=0D=0A                        <tr>=0D=0A             =
+              <td height=3D"10">=0D=0A                           =
+</td>=0D=0A                        </tr>=0D=0A                   =
+  </table>=0D=0A                     <!-- Footer Section Ends -->=
+=0D=0A                     =0D=0A                  </td>=0D=0A   =
+            </tr>=0D=0A            </table>=0D=0A         </td>=0D=0A=
+         <!-- Body Ends -->=0D=0A         =0D=0A      </tr>=0D=0A=
+      <tr>=0D=0A         <td colspan=3D"3" height=3D"20">=0D=0A  =
+          <div style=3D"margin: 10px 0; font-size: 10px; color:#c=
+ccccc; text-align: center;">=0D=0A               Inbox Insight Li=
+mited is a company registered in England and Wales.<br />=0D=0A  =
+             Registered office: The Old Storehouse, 8 Charlecote =
+Mews, Staple Gardens, Winchester, Hampshire, SO23 8SR.<br />=0D=0A=
+               Registered in England number: 7179598=0D=0A       =
+     </div>=0D=0A         </td>=0D=0A      </tr>=0D=0A   </table>=
+=0D=0A</body>=0D=0A</html>=0D=0A
+

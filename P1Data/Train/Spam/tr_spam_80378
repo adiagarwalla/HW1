@@ -1,0 +1,632 @@
+From @..  Mon Jan 12 20:50:34 2015
+Return-Path: <@..>
+X-Original-To: paulstuart@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9AD0FDE; Mon, 12 Jan 2015 20:50:34 +0000 (UTC)
+Received: from thomson.email-domain.com (thomson.email-domain.com [81.91.104.234])
+    by .. with SMTP id vfj8y4d4f5zk57dmu63zaamj9i;
+    for paulstuart@fs.net;
+    Mon, 12 Jan 2015 20:50:33 +0000 (UTC)
+    (envelope-from bounce-1882292-64740071@thomson.email-domain.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.91.104.234;
+    envelope-from=<bounce-1882292-64740071@thomson.email-domain.com>;
+    helo=thomson.email-domain.com; mechanism=mx
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.91.104.234; client-port=50652;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.110 64.125.31.69 64.125.24.29 64.125.29.37
+    64.125.26.38 64.125.28.22 64.125.21.22 213.152.234.66 81.91.96.14;
+    network-path-time=1421095833
+DKIM-Signature: v=1; a=rsa-sha256; d=email.thomson.co.uk; s=tui2013; c=relaxed/relaxed;
+	q=dns/txt; i=@email.thomson.co.uk; t=1421096237;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=NyJX/nzaOf52CDii8nsEWTNGuu4HKjGvWswDshRJmhE=;
+	b=ktG3wuiWR5LtzT1mRo0PmZs6slAQsvK6QjiXQuvyJ4OCw1kgZcUIQw4NOqcCKerM
+	QEVtDoLs0797LHYugBoOJqxWD7nMJgCC5ZabWtu9HA4T//Ep2AawFwIrY5NCcvQ0
+	LU3dZNjzg2pWrkc79yUnAfLzmFBqk/LVsQElnxm1hcE=;
+Received: from [192.168.123.216] ([192.168.123.216:33367] helo=thomson.email-domain.com)
+	by cm-apps.co.uk (envelope-from <bounce-1882292-64740071@thomson.email-domain.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id F5/41-19481-D2534B45; Mon, 12 Jan 2015 20:57:17 +0000
+From: "Thomson Cruises" <@..>
+To: @..
+Subject: We've got a web exclusive deal just for you...
+Date: Mon, 12 Jan 2015 17:49:47 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-LYRIS-Audit-Types: DELIVERABILITY
+X-Association-Token: 77181befc7a1ca77b9df563e8212bf1f-1882292
+X-LYRIS-Piper-Seed-IDs: 42MWCwB!jMb5 
+X-CompanyName: Lyris:CreatorMail Ltd
+X-Actual-Recipient-Address: paulstuart@fs.net
+X-Send-Reports-To: toby@creatormail.co.uk
+List-Unsubscribe: <mailto:leave-1882292-64740071.799a2dcdba120d1084778c64a6fd0d5e@thomson.email-domain.com>
+Message-ID: <LYRIS-64740071-1882292-2015.01.12-17.49.51--paulstuart#fs.net@thomson.email-domain.com>
+CM-Message-ID: <LYRIS-64740071-1882292-2015.01.12-20.41.43--paulstuart#fs.net@thomson.email-domain.com> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Thomson - Holidays Designed for You.</title>
+<style type="text/css">
+/* Client-specific Styles */
+#outlook a {
+	padding: 0;
+} /* Force Outlook to provide a "view in browser" menu link. */
+body {
+	width: 100	-webkit-text-size-adjust: 100	-ms-text-size-adjust: 100	margin: 0;
+	padding: 0;
+}
+/* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+.ExternalClass {
+	width: 100} /* Force Hotmail to display emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100} /* Force Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */
+#backgroundTable {
+	margin: 0;
+	padding: 0;
+	width: 100	line-height: 100}
+/* End reset */
+		
+img {
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+}
+a img {
+	border: none;
+}
+.image_fix {
+	display: block;
+}
+p {
+	margin: 1em 0;
+}
+table td {
+	border-collapse: collapse;
+}
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+.float-right {
+	float: right;
+}
+.float-left {
+	float: left;
+}
+a {
+	color: inherit;
+}
+a:link {
+	color: inherit;
+}
+a:visited {
+	color: inherit;
+}
+a:hover {
+	color: inherit;
+}
+a.dests:hover {
+	background-color: #fdb32f !important;
+}
+a.EMPtext:hover {
+	color: #74afdc !important;
+}
+
+/* Media queries begin here */
+@media screen {
+/* droid regular */
+@font-face {
+	font-family: 'droid-sans-reg';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.eot?#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.svg#droid_sansregular') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* droid bold */  
+@font-face {
+	font-family: 'droid-sans-bold';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.svg#droid_sansbold') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* tui type */
+@font-face {
+	font-family: 'tui';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.eot?#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.svg#webfont') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+}
+
+/* FONT IMPORTS */
+
+
+@media only screen and (max-width: 480px) {
+/* Prevent iOS from blue linking random elements. */
+
+a[href^="tel"], a[href^="sms"] {
+	text-decoration: none;
+	color: white;
+	pointer-events: none;
+	cursor: default;
+}
+.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+	text-decoration: default;
+	color: white !important;
+	pointer-events: auto;
+	cursor: default;
+}
+/* Container rules */
+
+*[class*="mobile-hide"],  *[class*="mobile-hide"] * {
+	display: none!important;
+	max-height: 0!important;
+	max-width: 0!important;
+	height: 0!important;
+	width: 0px!important;
+	padding: 0!important;
+	margin: 0!important;
+	visibility: hidden!important;
+	line-height: 0px!important;
+	font-size: 0px!important;
+	background: none!important;
+}
+*[class*="mobile-show"],  *[class*="mobile-show"] * {
+	display: inline-block!important;
+	visibility: visible!important;
+	height: auto;
+	width: auto;
+	max-height: none!important;
+	min-height: none!important;
+	max-width: none!important;
+	min-width: none!important;
+}
+table[class="device-width"] {
+	width: 100}
+td[class="device-width"] {
+	width: 100	display: block !important;
+}
+table[class="device-width-90"] {
+	width: 90}
+td[class="device-width-90"] {
+	width: 90	display: block !important;
+}
+/* Inline Attributes */
+.fontsizeXXXL[class="fontsizeXXXL"] {
+	font-size: 42px !important;
+	line-height: 120}
+.fontsizeXXL[class="fontsizeXXL"] {
+	font-size: 32px !important;
+	line-height: 120}
+.fontsizeXL[class="fontsizeXL"] {
+	font-size: 28px !important;
+	line-height: 120}
+.fontsizeL[class="fontsizeL"] {
+	font-size: 24px !important;
+	line-height: 120}
+.fontsizeM[class="fontsizeM"] {
+	font-size: 20px !important;
+	line-height: 120}
+.fontsizeA[class="fontsizeA"] {
+	font-size: 18px !important;
+	line-height: 120}
+.fontsizeB[class="fontsizeB"] {
+	font-size: 16px !important;
+	line-height: 120}
+.fontsizeC[class="fontsizeC"] {
+	font-size: 13px !important;
+	line-height: 120}
+.fontsizeD[class="fontsizeD"] {
+	font-size: 12px !important;
+	line-height: 120}
+*[class*="mobile-center"] {
+	text-align: center!important;
+}
+img[class*="mobile-center"] {
+	display: inline-block!important;
+}
+td.mobile-center table {
+	display: inline-block!important;
+}
+*[class*="mobile-left"] {
+	text-align: left!important;
+}
+*[class*="mobile-right"] {
+	text-align: right!important;
+}
+*[class*="center-block"] {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: center !important;
+}
+*[class*="fluidimage"] {
+	height: auto !important;
+	width: 100}
+/* Generic box model */
+
+*[class*="mobile-border-none"] {
+	border: none !important;
+}
+*[class*="mobile-padding-0"] {
+	padding: 0!important;
+}
+*[class*="mobile-padding-20"] {
+	padding: 20px !important;
+}
+*[class*="mobile-padding-right-20"] {
+	padding-right: 20px!important;
+}
+*[class*="mobile-padding-left-30"] {
+	padding-left: 30px!important;
+}
+*[class*="mobile-padding-left-35"] {
+	padding-left: 35px!important;
+}
+*[class*="mobile-padding-left-15"] {
+	padding-left: 15px!important;
+}
+*[class*="mobile-padding-top-15"] {
+	padding-top: 15px!important;
+}
+*[class*="mobile-padding-bottom-20"] {
+	padding-bottom: 20px !important;
+}
+*[id*="mobile-border-bottom-1"] {
+	border-bottom: 1px solid #fff !important;
+}
+*[id*="mobile-border-right-none"] {
+	border-right: none !important;
+}
+*[class*="mobile-width-200"] {
+	width: 200px!important;
+	height: auto!important;
+}
+*[class*="center-block"] {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+
+/* Floating and column stacking */
+
+ [class=300-width] {
+ display: block !important;
+ width: 300px !important;
+ margin-left:auto !important;
+ margin-right:auto !important;
+}
+[class=mobile-float] {
+	display: block !important;
+	width: 100}
+[class=mobile-float-top] {
+	display: block !important;
+	width: 100	padding-top: 10px !important;
+}
+[class=mobile-float-nopad] {
+	display: block !important;
+	width: 100	padding-top: 0px !important;
+}
+[class=mobile-float-noborder] {
+	display: block !important;
+	width: 100	border-right: none !important;
+}
+/* specific to this email */
+
+.img-shift[class="img-shift"] {
+	background-position: -100px 0px !important;
+	background-size: cover !important;
+}
+.subheader-mobile[class="subheader-mobile"] {
+	font-size: 15px !important;
+	text-align: center !important;
+	padding-left: 3px !important;
+}
+*[class*="mobile-background-swap"] {
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH140723_cruise-eshot/mobImg.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+*[class*="map-background-swap"] {
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/FUP/mobmap.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center;
+	width: 100	height: auto !important;
+	padding-bottom: 500px !important;
+}
+table[class="full-width"] {
+	width: 100}
+}
+</style>
+<!--[if gte mso 9]>
+	<style>
+		/* Target Outlook 2007 and 2010 */
+        table, tr, td { box-sizing: border-box; }        /* Opera/IE 8+ */
+        a.dests {
+        background-color: #faa91a !important;
+        }
+	</style>
+<![endif]-->
+
+</head><body bgcolor="#f0f0f0" text="#333333" style="background:#f0f0f0; min-height:1000px; color:#333333; -webkit-font-smoothing: antialiased;">
+<table width="100  <tr>
+  <tr>
+    <td valign="top" style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:10px;" align="center">Fantastic Savings from Thomson Cruises inside</td>
+  </tr>
+  
+    <td align="center"><table class="device-width" width="750" align="center" height="100        <tr>
+          <td valign="top"><!-- ********** INSIDE WRAPPER  ********** --> 
+            
+            <!-- ********** HEADER  ********** -->
+            
+            <table width="100              <tr>
+                <td><table class="device-width" width="620" border="0" cellspacing="0" cellpadding="0" bgcolor="#a0c8e5" align="center">
+                    <tr>
+                      <td width="150" height="50" style="padding-left:5px; padding-top:10px;" align="left" valign="top"><a href="http://email2.thomson.co.uk/t/1882292/64740071/120447541/1/?a8aed3dd=NjQ3NDAwNzE                      <td class="mobile-hide" align="right" style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; color:#ffffff; padding:12px 8px 12px 0">&nbsp;</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <!--NEW HTML NAV-->
+              <tr>
+                <td align="center" bgcolor="#74afdc" background="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/nav-shad.png" width="100                    <tr>
+                      <td valign="top"  align="center"><table width="98                          <tr>
+                            <td style="height:5px;" height="5px"></td>
+                          </tr>
+                          <tr>
+                            <td><table width="100                                <tr>
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/5224256/2/?a8aed3dd=NjQ3NDAwNzE                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td width="3" valign="middle"><img width="3" src="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" height="24"></td>
+                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/5224257/3/?a8aed3dd=NjQ3NDAwNzE                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td width="3" valign="middle"><img width="3" src="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" height="24"></td>
+                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/5224258/4/?a8aed3dd=NjQ3NDAwNzE                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td width="3" valign="middle" class="mobile-hide"><img width="3" src="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" height="24"></td>
+                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" class="mobile-hide" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/5224259/5/?a8aed3dd=NjQ3NDAwNzE                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td width="3" valign="middle" class="mobile-hide"><img width="3" src="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" height="24"></td>
+                                  
+                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" class="mobile-hide" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/102917405/6/?a8aed3dd=NjQ3NDAwNzE                                  <!-- ********** dot divide ********** -->
+                                  
+                                  <td width="3" valign="middle" class="mobile-hide"><img width="3" src="http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" height="24"></td>
+                                  
+                                  <!-- ********** dot divide ********** -->
+                                  <td style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign="middle" class="mobile-hide" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/102917406/7/?a8aed3dd=NjQ3NDAwNzE                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style="height:5px;" height="5px"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <!--END HTML NAV-->
+            </table>
+            
+            <!-- ********** HEADER  ********** --><!-- ********** SECTION 1  ********** -->
+            
+            <table width="100              <tr>
+                <td align="center" bgcolor="#e5e5e5" style="padding-top:25px; padding-bottom:25px;"><table class="device-width-90" width="620" border="0" cellspacing="0" cellpadding="0">
+                    <!-- ********** MAIN BANNER ********** -->
+                    <tr>
+                      <td class="img-shift" align="center" valign="top" bgcolor="#cbcbcb" height="420" style="background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150112_cruisebb/bgImg-welcome.jpg); background-repeat:no-repeat;" background="http://cslb.creatormail.co.uk/sites/tui/thomson/TH150112_cruisebb/bgImg-welcome.jpg"><!--[if gte mso 9]>
+
+<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:620px;height:440px;">
+
+<v:fill type="tile" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH150112_cruisebb/bgImg-welcome.jpg" color="#cfb296" />
+
+<v:textbox inset="0,0,0,0">
+
+<![endif]-->
+                        
+                        <table width="95                          <tr>
+                            <td colspan="2" height="30">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td class="mobile-float" height="300" align="left" valign="top"><table class="device-width" width="100                                <tr>
+                                  <td class="fontsizeXXL" width="50                                </tr>
+                                <tr>
+                                  <td class="fontsizeM" width="50                                </tr>
+                                <tr>
+                                  <td align="left" style="padding-bottom:10px;"><table bgcolor="#dceffb" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td class="fontsizeC" bgcolor="#dceffb" height="30" valign="middle" style="font-family: 'droid-sans-reg', Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; color:#333; background-color:#dceffb; padding-left:10px; padding-right:2px; vertical-align:middle;" align="left"><a href="http://email2.thomson.co.uk/t/1882292/64740071/124739410/10/?a8aed3dd=NjQ3NDAwNzE                                        <td bgcolor="#dceffb" width="25" align="center" valign="middle" style="vertical-align:middle;"><a href="http://email2.thomson.co.uk/t/1882292/64740071/124739410/11/?a8aed3dd=NjQ3NDAwNzE                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td class="mobile-float-top" align="left" valign="top"><table width="100                                <tr>
+                                  <td height="100" align="right" valign="top" class="mobile-right"><a href="http://email2.thomson.co.uk/t/1882292/64740071/124739411/12/?a8aed3dd=NjQ3NDAwNzE                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>
+                        
+                        <!--[if gte mso 9]>
+
+    </v:textbox>
+
+  </v:rect>
+
+<![endif]--></td>
+                    </tr>
+                    <!-- ********** END MAIN BNR ********** -->
+                    <tr>
+                      <td bgcolor="#faa91a" align="center"><table width="100                          <tr>
+                            <td style="font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; color:#ffffff" class="fontsizeB" align="center"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> </tr>
+                  </table></td>
+                <td bgcolor="#f2b64b" width="30" align="center"><a href="http://email2.thomson.co.uk/t/1882292/64740071/124391329/13/?a8aed3dd=NjQ3NDAwNzE              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td valign="top"><img class="fluidimage" width="620" src="http://cslb.creatormail.co.uk/sites/tui/customer-account/thomson/welcome1/section-shad.png" style="display:block" height="12" alt="" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+
+
+<!-- ********** SECTION 1  ********** --> 
+
+<!-- ********** SECTION 3  ********** -->
+<tr>
+<td>
+<table class="full-width" width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr align="center">
+    <td align="center" bgcolor="#dceffb" style="padding:25px 0px;"><table class="device-width-90" width="620" border="0" cellspacing="0" cellpadding="0">
+        
+        <!-- ********** EMP TILES  ********** --> 
+        <!-- Section title -->
+        <tr align="center">
+          <td align="left" style="padding-bottom:10px;"><table width="95              <tr>
+                <td align="left"><table cellspacing="0" border="0" cellpadding="0">
+                    <tr>
+                      <td class="fontsizeB" height="35" align="left" bgcolor="#fffffe" style="font-family:'tui', 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:19px; line-height:normal; color:#4c7390; padding-left:15px; padding-right:15px; text-transform:uppercase;">NEED SOME CRUISE INSPIRATION...</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- Section title -->
+        
+        <tr>
+          <td style="padding: 10px 0px 0px 0px;"><table width="100              <tr>
+                <td valign="top" class="mobile-float" align="center"><table width="100                    <tr>
+                      <td valign="top" align="left"><a href="http://email2.thomson.co.uk/t/1882292/64740071/115478123/14/?a8aed3dd=NjQ3NDAwNzE                      <td valign="top" align="left"><a href="http://email2.thomson.co.uk/t/1882292/64740071/115478124/15/?a8aed3dd=NjQ3NDAwNzE                    </tr>
+                  </table></td>
+                <td valign="top" class="mobile-float" align="center"><table width="100                    <tr>
+                      <td valign="top" align="left"><a href="http://email2.thomson.co.uk/t/1882292/64740071/115478125/16/?a8aed3dd=NjQ3NDAwNzE                      <td valign="top" align="left"><a href="http://email2.thomson.co.uk/t/1882292/64740071/115478126/17/?a8aed3dd=NjQ3NDAwNzE                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td valign="top"><img class="fluidimage" width="620" src="http://cslb.creatormail.co.uk/sites/tui/customer-account/thomson/welcome1/section-shad.png" style="display:block" height="12" alt="" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+</td>
+</tr>
+
+<!-- ********** SECTION 3  ********** --> 
+
+<!-- ********** FOOTER  ********** -->
+<tr>
+<td>
+<table class="full-width" width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center" bgcolor="#5f99c5"><table class="device-width" width="620" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+          <td align="center" bgcolor="#5f99c5" style="padding-top:15px; padding-bottom:15px"><table width="93              <tr>
+                <td class="mobile-float-noborder" width="55                    <tr>
+                      <td height="28" valign="top" style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:16px; font-weight:bold; color:#ffffff;" align="left"> Visit your local shops: </td>
+                    </tr>
+                    <tr>
+                      <td style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#ffffff;" align="left"> Please use our <a href="http://email2.thomson.co.uk/t/1882292/64740071/5151/18/?a8aed3dd=NjQ3NDAwNzE                        nearest shop </td>
+                    </tr>
+                  </table></td>
+                <td width="5                <td class="mobile-float-top" width="40                    <tr>
+                      <td style="padding-bottom:10px; padding-top:0px"><table width="100                          <tr>
+                            <td width="15                            <td width="85                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table width="100                          <tr>
+                            <td width="15                            <td align="left" width="85                              <span style="font-size:9px"><sup>&dagger;</sup>(Calls cost 10p per minute  plus network extras)</span></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td height="35" align="right" valign="bottom"><img src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH130308/WOTlogo.gif" width="90" height="18" border="0" style="display:block" /></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td>
+</tr>
+<!-- ********** FOOTER  ********** -->
+<tr>
+<td>
+<table width="100  <tr>
+    <td align="center"><table class="device-width" width="620" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td style="font-family:'tui', 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:9px; color:#555555; line-height:11px; padding:20px;"><strong>Terms and Conditions</strong><br/>
+            <br/>
+            *All prices quoted are correct as of 12th January 2015 at 6am. Advertised  offers are subject to very limited availability. Prices are quoted as per  person and based on 2 adults sharing a standard inside cabin on the lowest  available decks on a full board basis, flying from selected airports. Flight  and cabin supplements may apply. Alternative flight arrangements may be available.
+            
+            Cruise and stay board basis prices are based  on full board onboard and as specified within the hotel. Single person  supplements & ctions for additional passengers may apply. Prices are  based on advertised dates only. Offers apply to new web bookings only unless  stated otherwise. Additional supplements and charges may apply to all bookings. <br />
+            <br />
+            <strong>Aegean and the Holy Land from &pound;499: </strong>price is per person based on 2 adults sharing an inside  cabin on decks 1/2 for 7 nights onboard Thomson Spirit, departing 11th May 2015 flying from Bournemouth, Norwich and London Luton. <br>
+            <br />
+            In order to tailor our communications to suit you, we look at your previous interactions with our brand including your activities on our websites, to personalise your emails. If you would prefer to receive un-personalised communication from us instead this is fine, but please <a href="http://access2.creatormail.co.uk/tuiLyris11/TUI.ClientUI/Thomson/UpdateDetails/webopt.aspx?&p=paulstuart@fs.net&v=e78b1ad9c651add313c6c399138891cf&o=1882292&l=thomson_cruise_marketing&b=thomson">click here</a> to let us know.<br/>
+            <br />
+            Many of the flights and flight-inclusive holidays are financially protected by the ATOL scheme. But ATOL protection does not apply to all holiday and travel services listed.  Please ask us to confirm what protection may apply to your booking. If you do not receive an ATOL Certificate then the booking will not be ATOL protected. 
+            
+            
+            
+            If you do receive an ATOL Certificate but all the parts of your trip are not listed on it, those parts will not be ATOL protected. Please see our booking conditions for information, or for more information about financial protection and the ATOL Certificate go to: www.atol.org.uk/ATOLCertificate. TUI UK Limited ATOL 2524.<a href="http://email2.thomson.co.uk/t/1882292/64740071/5155/20/?a8aed3dd=NjQ3NDAwNzE            <br/>
+            <strong>We are unable to respond to replies to this email, please use our </strong><a href="http://email2.thomson.co.uk/t/1882292/64740071/5156/21/?a8aed3dd=NjQ3NDAwNzE            <br />
+            To unsubscribe from  receiving emails from Thomson please <a style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #3250BE; text-decoration: underline;" href="http://access2.creatormail.co.uk/tuiLyris11/tui.clientui/thomson/unsubscribe/default.aspx?&p=paulstuart@fs.net&v=e78b1ad9c651add313c6c399138891cf&o=1882292&l=thomson_cruise_marketing&b=thomson" target="_blank">click here</a>.<br/>
+            <br/>
+            We will hold your details in accordance with our <a href="http://email2.thomson.co.uk/t/1882292/64740071/5157/22/?a8aed3dd=NjQ3NDAwNzE            <br />
+            <table width="90              <tr>
+                <td style="font-family:'tui', 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:9px; color:#555555;">Thomson is a trading name of TUI UK Ltd, a member of the TUI Travel PLC Group of Companies, registered in England and Wales under number 2830117 and whose registered office is at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex, RH10 9QL</td>
+                <td width="55" align="right"><img width="55" src="http://cslb.creatormail.co.uk/sites/tui/thomson/2008general/icons/logo_atol.gif" height="62" style="display:block" border="0" align="right" /></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- ********** CLOSING WRAPPER  ********** -->
+
+<IMG ALT="" SRC="http://email2.thomson.co.uk/db/1882292/64740071/1.gif" WIDTH=1 HEIGHT=1><img src='http://t2e.thomson.co.uk/zag2.gif?Log=1&cmid=64740071&ecamp=w1882292' border='0' width='1' height='1' /><img src='http://access2.creatormail.co.uk/TUI_DeviceDetector/DeviceDetector.ashx?&l=thomson_cruise_marketing&m=64740071&o=1882292&ewid=&c=2' width='1' height='1' /></body>
+</html>
+

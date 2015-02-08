@@ -1,0 +1,74 @@
+From @..  Thu Jan 22 10:59:51 2015
+Return-Path: <@..>
+X-Original-To: avuden@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C48FBDE; Thu, 22 Jan 2015 10:59:51 +0000 (UTC)
+Received: from mail-la0-f54.google.com (mail-la0-f54.google.com [209.85.215.54])
+    by .. with SMTP id 5mprg9hx2ezyspm4v8khig5x2s;
+    for avuden@fs.net;
+    Thu, 22 Jan 2015 10:59:51 +0000 (UTC)
+    (envelope-from kmgreaves34@googlemail.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.215.54; envelope-from=<kmgreaves34@googlemail.com>;
+    helo=mail-la0-f54.google.com; mechanism=include:_netblocks.google.com
+    (ip4:209.85.128.0/17 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.215.54; client-port=39002;
+    syn-fingerprint=42900:42:0:60:M1380,S,T,N,W7; network-hops=17;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 209.85.142.54 216.239.48.5 209.85.143.124
+    209.85.143.123 216.239.48.84 216.239.48.143 209.85.254.199 209.85.241.195
+    72.14.236.159 72.14.233.170 209.85.215.54; network-path-time=1421924391
+Received: by mail-la0-f54.google.com with SMTP id hv19so862994lab.13
+        for <avuden@fs.net>; Thu, 22 Jan 2015 02:59:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=BoBNtH6IaxeEOHNknamyCL7VYzCzZxZH3WEQJ6J35LM=;
+        b=gi1uAP0vIS8heqiyT1FAarX5Q4TFDVTrKGVeCdVWOhiZjtaWBaiVZdMZH+Ulhm4ns8
+         Gys8qotjHOt7sHsI4ucU1e0SiiidrHG9830tRC7kJiA8HLovVhDzZiOPxGf03DP3Oqtc
+         BImTXHs0Y6KHEIkW2tO0KtrcCHPpi+xqdBu6F01UMewMeiZ514GeMxIkS0lURMWPiCHX
+         5fAr9tL8I/MeoiOaCYt4wh0uP6XA7Jvr5SfNsEfOZ6dGP/RNnseG6HpUoBSkXI2NhIFj
+         h3ixMH9ZHwYeRDsyy5ULydug0sxfE7H792yrl6YpCSD3fDDAqdJbViosUic+wCIqs2fz
+         MGfQ==
+MIME-Version: 1.0
+X-Received: by 10.112.180.135 with SMTP id do7mr784871lbc.23.1421924375501;
+ Thu, 22 Jan 2015 02:59:35 -0800 (PST)
+Received: by 10.25.153.20 with HTTP; Thu, 22 Jan 2015 02:59:35 -0800 (PST)
+Date: Thu, 22 Jan 2015 10:59:35 +0000
+Message-ID: <CADLntZ35hWUDdfxTudq2u+ST8O5sP-1OOWej3Fe9j7ckfZyBqg@mail.gmail.com>
+Subject: Jazz Listening Group
+From: Kathleen Greaves <@..>
+To: Andrew Bokor <@..>,
+	Ann Elliot <@..>,
+	Anne Uden <@..>,
+	Brian Ellis <@..>,
+	Devora Coutts <@..>,
+	Eric Morgan <@..>,
+	Frank Serra <@..>,
+	Hazel Kyte <@..>,
+	Peggy Vickers <@..>,
+	Rachel Lewis <@..>,
+	Sylvia Adler <@..>,
+	Trudy Tiernan <@..>
+Content-Type: multipart/alternative; boundary=001a11c25f724c9fe0050d3b916a
+
+--001a11c25f724c9fe0050d3b916a
+Content-Type: text/plain; charset=UTF-8
+
+Dear All
+
+The next Jazz 2 group is next Tuesday 27th Jan. I am hoping that the
+session will be taken by Peggy and Frank.
+
+Regards
+Kathleen
+
+--001a11c25f724c9fe0050d3b916a
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Dear All<div><br></div><div>The next Jazz 2 group is next Tuesday 27th Jan. I am hoping that the session will be taken by Peggy and Frank.</div><div><br></div><div>Regards</div><div>Kathleen</div></div>
+
+--001a11c25f724c9fe0050d3b916a--
+

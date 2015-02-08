@@ -1,0 +1,538 @@
+From @..  Tue Jan 20 01:08:40 2015
+Return-Path: <@..>
+X-Original-To: florenceskinner@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B5B56DE; Tue, 20 Jan 2015 01:08:40 +0000 (UTC)
+Received: from s1-b4bf.socketlabs.email-od.com (s1-b4bf.socketlabs.email-od.com [142.0.180.191])
+    by .. with SMTP id fescfsmw52evzaj8yr3ryv4nes;
+    for florenceskinner@fs.net;
+    Tue, 20 Jan 2015 01:08:40 +0000 (UTC)
+    (envelope-from 1144.1c.This+Week+on+This+Is+Your+Day.TIYDEblast-01-19-2015.florenceskinner=fs.net@mxh2.email-od.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=142.0.180.191;
+    envelope-from=<1144.1c.This+Week+on+This+Is+Your+Day.TIYDEblast-01-19-2015.florenceskinner=fs.net@mxh2.email-od.com>;
+    helo=s1-b4bf.socketlabs.email-od.com; mechanism=include:email-od.com
+    (ip4:142.0.176.0/20 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=142.0.180.191; client-port=63980;
+    syn-fingerprint=8192:113:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 0.0.0.0 64.125.31.69 64.125.20.245
+    64.125.24.33 64.125.31.126 216.200.88.202 67.59.145.37 67.59.145.77;
+    network-path-time=1421716120
+DKIM-Signature: v=1; a=rsa-sha1; d=email-od.com;i=@email-od.com;s=dkim;
+	c=relaxed/relaxed; q=dns/txt; t=1421716112; x=1424308112;
+	h=message-id:date:from:to:subject:mime-version:content-type:content-transfer-encoding;
+	bh=JU44BfhM8fO4JQ1PrfPVk1540so=;
+	b=jYVkG2n4xMqJDlI5TSkowHQ//bBmfTG9iebHhP3RrL8Vd/P+tGmRKpjoqKPqxWwWLvyRQVH6VBqAnILEa8L5hNGwDP2p8H8TBHuk/3fX5FOp1lcm+SPztzVORGW9AmztBcZgoPV7AuuvdCb1fG6y2jIvZJjGuCLRYLP+t8ZPVz0=
+X-Thread-Info: MTE0NC4xZS45ZDAwMDAwMDI4ZGQ1ZC5UaGlzK1dlZWsrb24rVGhpcytJcytZb3VyK0RheS5USVlERWJsYXN0LTAxLTE5LTIwMTUuZmxvcmVuY2Vza2lubmVyPWZzLm5ldA==
+Received: from r2.east.aws.in.socketlabs.com ([23.21.142.50]) by mxh2.email-od.com
+	with ESMTP; Mon, 19 Jan 2015 20:08:14 -0500
+Received: from imail71.imail.bennyhinn.org ([64.215.234.194]) by r2.east.aws.in.socketlabs.com
+	with ESMTP; Mon, 19 Jan 2015 20:08:21 -0500
+Received: from imail71 ([127.0.0.1]) by imail71.imail.bennyhinn.org with Microsoft SMTPSVC(6.0.3790.3959);
+	 Mon, 19 Jan 2015 19:08:20 -0600
+Message-ID: <14659242.1421716100663.JavaMail.mcox@desiredservername>
+Date: Mon, 19 Jan 2015 19:08:20 -0600 (CST)
+From: Benny Hinn Ministries <@..>
+To: @..
+Subject: This Week on This Is Your Day
+Mime-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion MX Application Server
+X-OriginalArrivalTime: 20 Jan 2015 01:08:20.0663 (UTC) FILETIME=[94C24470:01D0344D]
+
+
+    
+    
+    
+    <!DOCTYPE html>
+    <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+      <title>Benny Hinn Ministries</title>
+      <style type="text/css"></style></head>
+      
+      <body>
+        <div style="
+             background-color: #f5f5f5;
+             width:100             -webkit-text-size-adjust:none !important;
+             margin:0;
+             padding: 70px 0 70px 0;
+             ">
+          <table border="0" cellpadding="0" cellspacing="0" height="100            <tbody><tr>
+              <td align="center" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="
+                       -webkit-box-shadow:0 0 0 3px rgba(0,0,0,0.025) !important;
+                       box-shadow:0 0 0 3px rgba(0,0,0,0.025) !important;
+                       background-color: #fdfdfd;
+                       border: 1px solid #dcdcdc;
+                       ">
+                  <tbody><tr>
+                    <td align="center" valign="top">
+                      <!-- Header -->
+                      <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style="
+                             background-color: #ffffff;
+                             color: #202020;
+                             -webkit-border-top-left-radius:6px !important;
+                             -webkit-border-top-right-radius:6px !important;
+                             border-top-left-radius:6px !important;
+                             border-top-right-radius:6px !important;
+                             border-bottom: 0;
+                             font-family:Arial;
+                             font-weight:bold;
+                             line-height:100                             vertical-align:middle;
+                             " bgcolor="#ffffff">
+                        <tbody><tr>
+                          <td style="position:relative; height: 31px; background-color: #1a80b6; border-bottom: 1px solid #8cbfda;">
+                            <p style="
+                               margin: 5px 6px 0px;
+                               color: #fff;
+                               font-weight: lighter;
+                               font-size: 12px;display: inline-block;
+                               float: left;">
+                              <a href="http://www.bennyhinn.org/" style="color: #fff; text-decoration: none;"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/logo.png" alt="Benny Hinn Ministries"></a>
+                            </p>
+                            <p style="
+                               margin: 8px 6px 0px;
+                               color: #fff;
+                               font-weight: lighter;
+                               font-size: 12px;
+                               display: inline-block;
+                               float: left;
+                               ">
+                              <a href="http://www.bennyhinn.org/prayer-requests/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter" style="margin: 0px 8px 0px 0px; color: #fff; text-decoration: none;">prayer</a>&bull;
+                              <a href="http://www.bennyhinn.org/product-category/featured-products/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter" style="margin: 0px 8px; color: #fff; text-decoration: none;">featured products</a>&bull;
+                              <a href="http://www.bennyhinn.org/schoolofministry/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter" style="margin: 0px 0px 0px 8px; color: #fff; text-decoration: none;">school of ministry</a>
+                            </p>
+                            <p style="
+                               margin:0px;
+                               padding:0px;
+                               float:right;
+                               height: 31px;
+                               "><a href="https://www.bennyhinn.org/donation-form-2/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/donate.png" alt="Donate"></a></p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="height: 100px;">
+                            <p style="margin:0px;padding:0px;"><a href="https://www.bennyhinn.org/donation-form-2/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;width: 100                          </td>
+                        </tr>                    
+                      </tbody></table>
+                      <!-- End Header -->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- Body -->
+                      <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                        <tbody><tr>
+                          <td valign="top" style="
+                              background-color: #fdfdfd;
+                              ">
+                            <!-- Content -->
+                            <table border="0" cellpadding="20" cellspacing="0" width="100                              <tbody><tr>
+                                
+                                <td valign="top" width="22                                    padding: 0px 7px 10px 5px;
+                                    ">
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiyd011915.jpg" alt="Monday"></a>
+                                  </div>
+                                </td>
+                                <td valign="top" width="80                                    padding: 4px 5px 0px 7px;
+                                    text-align: left;
+                                    ">
+                                  <h1 style="
+                                      color: #1a80b6;
+                                      font-family: Arial;
+                                      font-size: 17px;
+                                      text-align: left;
+                                      margin: 0px;
+                                      ">Seven Reasons for Divine Healing, Part 1</h1>
+                                  <span style="
+                                        font-weight: bold; 
+                                        font-family: Arial;
+                                        color: #333333;
+                                        font-size: 15px;
+                                        ">Monday</span>
+                                  <span style="
+                                        font-family: Arial;
+                                        color: #949494;
+                                        font-style: italic;
+                                        font-size: 12px;
+                                        margin-left: 8px;
+                                        ">01/19/2015</span>
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <p style="
+                                       margin-top: 6px;
+                                       font-size: 12px;
+                                       color: #333;
+                                       line-height: 19px;
+                                       ">God's will for us to walk in divine health and a right relationship with Him is emphasized throughout His Word. In the Old Testament we see it reflected in His covenant with the children of Israel (Exodus 15:26). This three-part teaching series by Benny Hinn reveals seven biblical reasons for divine healing: He is full of compassion, healing belongs to His children, to bring glory to God, to fulfill His promises, to confirm His Word, to show the power in His blood, and to expose satan's defeat at Calvary! You won't want to miss a single program of this landmark series!</p>
+                                    <span style="
+                                          margin-top: 6px;
+                                          float: right;
+                                          margin: 0px 10px;
+                                          "><a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiydweeklyguidebutton.jpg" alt="Weekly Guide"></a></span>
+                                  </div>
+                                </td>                            
+                              </tr>
+                              <tr>
+                                <td colspan="2" style="padding: 3px 10px;">
+                                  <div style="
+                                       border-top: 1px solid #d6d6d6;
+                                       width: 100                                       ">
+                                  </div>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" width="22                                    padding: 0px 7px 10px 5px;
+                                    ">
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiyd012015.jpg" alt="Tuesday"></a>
+                                  </div>
+                                </td>
+                                <td valign="top" width="80                                    padding: 4px 5px 0px 7px;
+                                    text-align: left;
+                                    ">
+                                  <h1 style="
+                                      color: #1a80b6;
+                                      font-family: Arial;
+                                      font-size: 17px;
+                                      text-align: left;
+                                      margin: 0px;
+                                      ">Seven Reasons for Divine Healing, Part 2</h1>
+                                  <span style="
+                                        font-weight: bold; 
+                                        font-family: Arial;
+                                        color: #333333;
+                                        font-size: 15px;
+                                        ">Tuesday</span>
+                                  <span style="
+                                        font-family: Arial;
+                                        color: #949494;
+                                        font-style: italic;
+                                        font-size: 12px;
+                                        margin-left: 8px;
+                                        ">01/20/2015</span>
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <p style="
+                                       margin-top: 6px;
+                                       font-size: 12px;
+                                       color: #333;
+                                       line-height: 19px;
+                                       ">David acknowledged the covenant of healing in his psalm when he said, "Bless the Lord, O my soul: and all that is within me, bless his holy name. Bless the Lord, O my soul, and forget not all his benefits: Who forgiveth all thine iniquities; who healeth all thy diseases" (Psalm 103:1-3). God wants you to live in divine healing and health. He wants to show mercy and healing toward you. He wants you to understand more and more about divine healing, as Pastor Benny Hinn shares on the continuation of the seven reasons why Jesus Christ heals!</p>
+                                    <span style="
+                                          margin-top: 6px;
+                                          float: right;
+                                          margin: 0px 10px;
+                                          "><a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiydweeklyguidebutton.jpg" alt="Weekly Guide"></a></span>
+                                  </div>
+                                </td>                            
+                              </tr>
+                              <tr>
+                                <td colspan="2" style="padding: 3px 10px;">
+                                  <div style="
+                                       border-top: 1px solid #d6d6d6;
+                                       width: 100                                       ">
+                                  </div>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" width="22                                    padding: 0px 7px 10px 5px;
+                                    ">
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiyd012115.jpg" alt="Wednesday"></a>
+                                  </div>
+                                </td>
+                                <td valign="top" width="80                                    padding: 4px 5px 0px 7px;
+                                    text-align: left;
+                                    ">
+                                  <h1 style="
+                                      color: #1a80b6;
+                                      font-family: Arial;
+                                      font-size: 17px;
+                                      text-align: left;
+                                      margin: 0px;
+                                      ">Seven Reasons for Divine Healing, Part 3</h1>
+                                  <span style="
+                                        font-weight: bold; 
+                                        font-family: Arial;
+                                        color: #333333;
+                                        font-size: 15px;
+                                        ">Wednesday</span>
+                                  <span style="
+                                        font-family: Arial;
+                                        color: #949494;
+                                        font-style: italic;
+                                        font-size: 12px;
+                                        margin-left: 8px;
+                                        ">01/21/2015</span>
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <p style="
+                                       margin-top: 6px;
+                                       font-size: 12px;
+                                       color: #333;
+                                       line-height: 19px;
+                                       ">In the New Testament, Jesus ministered to the sick, doing miracles and healing all who came to Him: "Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people" (Matthew 4:23). Jesus knows everything about you. You are His treasure. He even knows the number of hairs on your head (Matthew 10:29-31). You are so precious that Christ died on the cross for your sin and your infirmities. Let the Great Physician bring healing and deliverance to you today as Pastor Benny Hinn concludes this three-part teaching!</p>
+                                    <span style="
+                                          margin-top: 6px;
+                                          float: right;
+                                          margin: 0px 10px;
+                                          "><a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiydweeklyguidebutton.jpg" alt="Weekly Guide"></a></span>
+                                  </div>
+                                </td>                            
+                              </tr>
+                              <tr>
+                                <td colspan="2" style="padding: 3px 10px;">
+                                  <div style="
+                                       border-top: 1px solid #d6d6d6;
+                                       width: 100                                       ">
+                                  </div>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" width="22                                    padding: 0px 7px 10px 5px;
+                                    ">
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiyd012215.jpg" alt="Thursday"></a>
+                                  </div>
+                                </td>
+                                <td valign="top" width="80                                    padding: 4px 5px 0px 7px;
+                                    text-align: left;
+                                    ">
+                                  <h1 style="
+                                      color: #1a80b6;
+                                      font-family: Arial;
+                                      font-size: 17px;
+                                      text-align: left;
+                                      margin: 0px;
+                                      ">Anointing for Healing</h1>
+                                  <span style="
+                                        font-weight: bold; 
+                                        font-family: Arial;
+                                        color: #333333;
+                                        font-size: 15px;
+                                          ">Thursday</span>
+                                  <span style="
+                                        font-family: Arial;
+                                        color: #949494;
+                                        font-style: italic;
+                                        font-size: 12px;
+                                        margin-left: 8px;
+                                        ">01/22/2015</span>
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <p style="
+                                       margin-top: 6px;
+                                       font-size: 12px;
+                                       color: #333;
+                                       line-height: 19px;
+                                       ">Healing is a wonderful, awe-inspiring faith-builder that should lead to glorifying God. When the Master heals, it is a fulfillment of the prophecy spoken throughout the Bible. Healing was promised by the Father, then declared by Jesus Christ. He said, "If I do not the works of my Father, believe me not. But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him" (John 10:37-38). In fact, the blood of Jesus was shed to forgive sin and provide healing. Get ready for a powerful program of healing miracles!</p>
+                                    <span style="
+                                          margin-top: 6px;
+                                          float: right;
+                                          margin: 0px 10px;
+                                          "><a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiydweeklyguidebutton.jpg" alt="Weekly Guide"></a></span>
+                                  </div>
+                                </td>                            
+                              </tr>
+                              <tr>
+                                <td colspan="2" style="padding: 3px 10px;">
+                                  <div style="
+                                       border-top: 1px solid #d6d6d6;
+                                       width: 100                                       ">
+                                  </div>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" width="22                                    padding: 0px 7px 10px 5px;
+                                    ">
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiyd012315.jpg" alt="Friday"></a>
+                                  </div>
+                                </td>
+                                <td valign="top" width="80                                    padding: 4px 5px 0px 7px;
+                                    text-align: left;
+                                    ">
+                                  <h1 style="
+                                      color: #1a80b6;
+                                      font-family: Arial;
+                                      font-size: 17px;
+                                      text-align: left;
+                                      margin: 0px;
+                                      ">Miracle Highlights</h1>
+                                  <span style="
+                                        font-weight: bold; 
+                                        font-family: Arial;
+                                        color: #333333;
+                                        font-size: 15px;
+                                        ">Friday</span>
+                                  <span style="
+                                        font-family: Arial;
+                                        color: #949494;
+                                        font-style: italic;
+                                        font-size: 12px;
+                                        margin-left: 8px;
+                                        ">01/23/2015</span>
+                                  <div style="
+                                       color: #737373;
+                                       font-family:Arial;
+                                       font-size:14px;
+                                       line-height:150                                       text-align:left;
+                                       ">
+                                    <p style="
+                                       margin-top: 6px;
+                                       font-size: 12px;
+                                       color: #333;
+                                       line-height: 19px;
+                                       ">Again and again during this remarkable service, testimonies poured forth of God's healing power. Time did not allow for all those who had been healed to come to the platform during each service to testify regarding what God had done for them. Miracles that happened during the services included the blind seeing, the deaf hearing, the lame and the crippled walking, and the sick and infirmed made whole. Don't miss this historic broadcast. Call a friend to let them know about today's <em>This Is Your Day</em>, then get ready for a power-packed program!</p>
+                                    <span style="
+                                          margin-top: 6px;
+                                          float: right;
+                                          margin: 0px 10px;
+                                          "><a href="http://www.bennyhinn.org/general/redirecteblast/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=tiydemailletter"><img style="border:none;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/tiydweeklyguidebutton.jpg" alt="Weekly Guide"></a></span>
+                                  </div>
+                                </td>                            
+                              </tr>
+                              <tr>
+                                <td colspan="2" style="padding: 3px 10px;">
+                                  <div style="
+                                       height: 20px;
+                                       width: 100                                       ">
+                                  </div>
+                                </td>
+                              </tr>                          
+                            </tbody></table>
+                            <!-- End Content -->
+                          </td>
+                        </tr>
+                      </tbody></table>
+                      <!-- End Body -->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- Footer -->
+                      <table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer" style="
+                             border-top: 1px solid #d6d6d6;
+                             border-bottom: 2px solid #8cbfda;
+                             background-color: #1a80b6;
+                             ">
+                        <tbody><tr style="
+                            border:0;
+                            color: #ffffff;
+                            font-family: Arial;
+                            font-size:12px;
+                            line-height:125                            background-color: #dedede;
+                            height: 35px;
+                            }
+                            ">
+                          <td width="78                              padding: 6px 10px;
+                              ">
+                            <p style="
+                               color: #333333;
+                               margin: 0px;
+                               font-size: 10px;
+                               line-height: 16px;
+                               ">
+                              You are receiving this email because you signed up to 
+                              receive emails from Benny Hinn Ministries at BennyHinn.org.
+                              If you do not want to receive these emails, <a href="http://www.bennyhinn.org/resources/enewsletterunsubscribe/?emb=4423143205061D1E527553606F37101C0462513F56774747753808231D60453E52755360613D000504625114592B53124D225C6009634C461476023D4B3D164A751938140960403507350C3C0534191853350F335D211E1E4F3E0422783406594F3515764B2717074037043E593F104A43380C7D4F37101C4D294C3C5121011E4F3712&utm_source=tiydnewsletter&utm_medium=email&utm_term=TIYD125B&utm_campaign=unsubscribe&amp;unsub=3">click here</a> to unsubscribe.
+                            </p>
+                          </td>
+                          <td id="social-footer" style="
+                              padding: 7px 10px;
+                              ">
+                            <div style="border-left: 1px solid #a8a8a8; padding: 0px 0px 0px 4px; float:right;">
+                              <a href="http://pinterest.com/bennyhinnorg/">
+                                <img style="border:none;height: 25px;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/pinterest.png" alt="pinterest">
+                              </a>                          
+                            </div>
+                            <div style="border-left: 1px solid #a8a8a8; padding: 0px 5px; float:right;">
+                              <a href="https://twitter.com/BennyHinn_Org">
+                                <img style="border:none;height: 25px;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/twitter.png" alt="twitter">
+                              </a>                          
+                            </div>
+                            <div style="padding: 0px 4px 0px 0px; float:right;">
+                              <a href="http://www.facebook.com/BennyHinnMinistries">
+                                <img style="border:none;height: 25px;" src="http://www.bennyhinn.org/images/enewsletter/tiyd/facebook.png" alt="facebook">
+                              </a>                          
+                            </div>
+                          </td>
+                        </tr>                      
+                        <tr>
+                          <td colspan="2" valign="middle" id="credit" style="
+                              border:0;
+                              border-top: 1px solid #d6d6d6;
+                              color: #ffffff;
+                              font-family: Arial;
+                              font-size: 11px;
+                              line-height:125                              text-align: center;
+                              padding: 7px 10px;
+                              ">
+                            <span style="">&copy; 2014 Bookmark Publishing. Dallas, TX | All Rights Reserved</span>
+                          </td>
+                        </tr>
+                      </tbody></table>
+                      <!-- End Footer -->
+                    </td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+    </body>
+    
+    </html>
+    
+  
+

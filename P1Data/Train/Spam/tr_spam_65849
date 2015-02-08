@@ -1,0 +1,134 @@
+From @..  Wed Jan 21 09:39:40 2015
+Return-Path: <@..>
+X-Original-To: theclosit@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 359E8DF; Wed, 21 Jan 2015 09:39:40 +0000 (UTC)
+Received: from web101016.mail.kks.yahoo.co.jp (web101016.mail.kks.yahoo.co.jp [183.79.100.180])
+    by .. with SMTP id q9afw92grm5xm7uw7p9gid54ki;
+    for theclosit@fs.net;
+    Wed, 21 Jan 2015 09:39:39 +0000 (UTC)
+    (envelope-from jiullus1111@yahoo.co.jp)
+Received-SPF: Pass; receiver=..;
+    client-ip=183.79.100.180; envelope-from=<jiullus1111@yahoo.co.jp>;
+    helo=web101016.mail.kks.yahoo.co.jp; mechanism=include:spf.yahoo.co.jp
+    (include:spf03.yahoo.co.jp (ip4:183.79.100.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=183.79.100.180; client-port=24038;
+    syn-fingerprint=65535:48:1:64:M1380,N,W4,N,N,T,S;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    143.215.193.74 198.32.132.75 184.105.213.113 184.105.222.77 184.105.222.86
+    221.111.203.1 0.0.0.0 61.206.157.74 124.83.252.242;
+    network-path-time=1421833179
+Received: (qmail 29623 invoked by uid 60001); 21 Jan 2015 09:39:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.jp; s=yj20110701; t=1421833162; bh=7DH2ymfTxOej6ilVnCegpD5W2saMKzuQalRBpKDmDug=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:X-YMail-JAS:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=p2qQ1pZIv2axIGX7Y+rd2D/4WVgZjQLSmuKwtzyUHXuYPE4NJlpcPCRkUZ+QLWt6CprfUOa1QJYewtK4UAhZxqjoHCGX9/BWW4Q3Axlb7x0whlkMTLSdrD/TguvAmKzlyTfdoYtg7QIsVNHQklPBz3JSDV3Q2skB07Db8xv3QhM=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=yj20110701; d=yahoo.co.jp;
+  h=Message-ID:X-YMail-OSG:Received:X-Mailer:X-YMail-JAS:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=BjIrZyTz7BxCpp4OXEMQGVfXhon/ftTx4yqZZVCGWcyzhd77dHZLDyWDjEXgX7288fzlYo3bbsCRGYpHhQZwf9x/aYHXA971X5iS4L/pLzVysQ5N5C7k83UoH75PcJvQauCNAqLUvg2T5/mRIWfddPMVlErADYsFienefEDdGwo=;
+Message-ID: <267092.27251.qm@web101016.mail.kks.yahoo.co.jp>
+X-YMail-OSG: uBg4M60VM1krmFkbxNWta5S.8Xu277dQHKTjop1SiFTsdbKsZwHaqMRoQeOR.wGWWH3K_OeVmQ1ahtpTKnOH9x8qfWwR2nzT48MsG.gGXl5xgQ4pG7Es62yjd7Cf4HLvMTawYK75bPkwX8v9RSVKoyYxOoZvgHIszjDdWBHIKJ2Ha0fVnK6Q2YmLqL944fmKFiKN.af9Pza4osRsETf962c_osaxh7A7kyNHXN81hEDj7F5Rs7g6ZbiQO.dKrZUUWdPRAMrN5KCxTLX1ml9OL_vGiuJ9COoTwT7LZpD56_M5P_.gOzo93cuUX80P_3PFsh91XqDrM_4ulXZoq21N7WkVz0IgWN_fMyX1XroZSTWoLEecdalzvHDbUJuEzeoJVUhXLCmTEXQ1gOEKUUf4tbA39lufV8X5AxqElvG6rqFrCswiDgM0wtYxy12DzjnExnoTXWpWuPfPd27LEXnGthKwAh5z5xPU2gd.ekgyxf9INhivriHu1CpOQv0JvgoBfLJoiINoLwVQ11Q_gvVkmifhALBaMbtK9pmtFZ7kLBHaaD6nFvCpNEKvyf5W8C3yyc3WqGGkFmFkxAgg_U5VKmZaubr7FKYI9b7rpsmaB2GOV.flWEFaYfxser62qqbJ5INTpdfqoIme2o8PuLXTbbnJFWK2E0X0XM4QKIbhum2fCceMctCzg3KnOQV1O4FttjZ3Qh.Y3D97GkdWd7D0kuho8XA6
+Received: from [41.207.204.8] by web101016.mail.kks.yahoo.co.jp via HTTP; Wed, 21 Jan 2015 18:39:21 JST
+X-Mailer: YahooMailWebService/0.8.111_57
+X-YMail-JAS: 9MHUHsYVM1m.3AWpPCUi39q2_pCjf8J.2eocG_rqinEUaHATeqGuypNjtegV9ELWEkYQaCqCRJbEs_Scurn9hQzP.uYyNIDSgNfjJCw1EIr4bc4WrsxgJAg7mFUdNcxCLVvK
+Date: Wed, 21 Jan 2015 18:39:21 +0900 (JST)
+From: Mrs Caroline Philip <@..>
+Reply-To: Mrs Caroline Philip <@..>
+Subject: From: Miss.Caroline Philip
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-776816051-1421833161=:27251"
+
+--0-776816051-1421833161=:27251
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+From: Miss.Caroline Philip=0AN 48 villa 03 Rue Des Cocody=0AAbidjan, Cote d=
+' Ivoire.=0A=0ADear Beloved one,=0A=0ABased=0A on your profile i am happy t=
+o request for your assistance because i =0Abelieve that you are not going t=
+o betray the trust which I am going to =0Alay on you, Hope all is well with=
+ you and other members of your family.=0A=0AMy=0A name is Miss Caroline Phi=
+lip,22 years old and the only daughter of my =0Alate parents Mr.and Mrs.Phi=
+lip. My father was a highly. Reputable =0AContractor Engineer who operated =
+in the capital of Ivory Coast during =0Ahis days. It is sad to say that he =
+passed away mysteriously in France =0Aduring one of his business trips abro=
+ad on 6th.November 2010.Though his =0Asudden death was linked or rather sus=
+pected to have been masterminded by=0A an uncle of his who travelled with h=
+im at=0A=A0that time, but God knows the truth!=0A=0AThough=0A I have not me=
+et you before but i believe, one has to risk confiding in =0Asucceed someti=
+mes in life. There is this huge amount of (six million =0AFive hundred thou=
+sand) U.S dollars $6.5 million (US) dollars) which my =0Alate Father Mr.Phi=
+lip David Kept for me in Suspense Account here in =0AAbidjan. My father tol=
+d me that I should not let any of our relations to=0A know about this becau=
+se he was killed by them and if they know about =0Ait, that they will do no=
+thing but to kill me in other to take hold of =0Aevery thing, He told me th=
+at I should seek for a foreign partner abroad =0Awho will help me to transf=
+er this fund overseas and also travel with him=0A or her in other to contin=
+ue my Live and Education and also to start a =0ABusiness relationship with =
+the person whom can take care of me in the =0Afuture.=0A=0AI am just 22 yea=
+rs old and a university undergraduate and=0A really don't know what to do. =
+This is because I have suffered a lot of =0Aset backs as a=0A=A0result of i=
+ncessant political crisis here in Ivory =0Acoast. The death of my father ac=
+tually brought sorrow to my life, my =0Adear, I am in a sincere desire of y=
+our humble assistance in this regards=0A and your suggestions and ideas wil=
+l be highly regarded.=0A=0ANow permit me to ask these few questions:=0A1. C=
+an I completely trust you?=0A2. Can you accept me as your own blood Sister =
+(Or Daughter)?=0A3. What percentage of the total amount in question will be=
+ good for you?=0A=0AAgain i will want you to help me in area of investment =
+like mention below.=0A1).Telecommunication=0A2).The transport Industry=0A3)=
+.Five Star Hotel=0A4).Tourism=0A5).Real Estate=0A=0AConsider=0A this and ge=
+t back to me as soon as possible with your full assurance =0Athat you will =
+not disappoint me in this issue so that I can give you the=0A contact of th=
+e Bank where my late Father deposited the Fund for you to =0Acontact them o=
+n how to transfer the Money into your Account.=0A=0AThank you so much for y=
+our understanding and May almighty God bless you and your Family to the Glo=
+ry of God Almighty,=0A=0ASincere regards,=0AMiss Caroline Philip=0A
+--0-776816051-1421833161=:27251
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:; background-color:; font-family:MS PGothic=
+, sans-serif;font-size:12pt"><div><span style=3D"font-weight: bold;">From: =
+Miss.Caroline Philip<br>N 48 villa 03 Rue Des Cocody<br>Abidjan, Cote d' Iv=
+oire.<br><br>Dear Beloved one,<br><br>Based=0A on your profile i am happy t=
+o request for your assistance because i =0Abelieve that you are not going t=
+o betray the trust which I am going to =0Alay on you, Hope all is well with=
+ you and other members of your family.<br><br>My=0A name is Miss Caroline P=
+hilip,22 years old and the only daughter of my =0Alate parents Mr.and Mrs.P=
+hilip. My father was a highly. Reputable =0AContractor Engineer who operate=
+d in the capital of Ivory Coast during =0Ahis days. It is sad to say that h=
+e passed away mysteriously in France =0Aduring one of his business trips ab=
+road on 6th.November 2010.Though his =0Asudden death was linked or rather s=
+uspected to have been masterminded by=0A an uncle of his who travelled with=
+ him at<br>&nbsp;that time, but God knows the truth!<br><br>Though=0A I hav=
+e not meet you before but i believe, one has to risk confiding in =0Asuccee=
+d sometimes in life. There is this huge amount of (six million =0AFive hund=
+red thousand) U.S dollars $6.5 million (US) dollars) which my =0Alate Fathe=
+r Mr.Philip David Kept for me in Suspense Account here in =0AAbidjan. My fa=
+ther told me that I should not let any of our relations to=0A know about th=
+is because he was killed by them and if they know about =0Ait, that they wi=
+ll do nothing but to kill me in other to take hold of =0Aevery thing, He to=
+ld me that I should seek for a foreign partner abroad =0Awho will help me t=
+o transfer this fund overseas and also travel with him=0A or her in other t=
+o continue my Live and Education and also to start a =0ABusiness relationsh=
+ip with the person whom can take care of me in the =0Afuture.<br><br>I am j=
+ust 22 years old and a university undergraduate and=0A really don't know wh=
+at to do. This is because I have suffered a lot of =0Aset backs as a<br>&nb=
+sp;result of incessant political crisis here in Ivory =0Acoast. The death o=
+f my father actually brought sorrow to my life, my =0Adear, I am in a since=
+re desire of your humble assistance in this regards=0A and your suggestions=
+ and ideas will be highly regarded.<br><br>Now permit me to ask these few q=
+uestions:<br>1. Can I completely trust you?<br>2. Can you accept me as your=
+ own blood Sister (Or Daughter)?<br>3. What percentage of the total amount =
+in question will be good for you?<br><br>Again i will want you to help me i=
+n area of investment like mention below.<br>1).Telecommunication<br>2).The =
+transport Industry<br>3).Five Star Hotel<br>4).Tourism<br>5).Real Estate<br=
+><br>Consider=0A this and get back to me as soon as possible with your full=
+ assurance =0Athat you will not disappoint me in this issue so that I can g=
+ive you the=0A contact of the Bank where my late Father deposited the Fund =
+for you to =0Acontact them on how to transfer the Money into your Account.<=
+br><br>Thank you so much for your understanding and May almighty God bless =
+you and your Family to the Glory of God Almighty,<br><br>Sincere regards,<b=
+r>Miss Caroline Philip</span></div></div></body></html>
+--0-776816051-1421833161=:27251--
+

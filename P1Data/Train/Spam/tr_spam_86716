@@ -1,0 +1,528 @@
+From @..  Fri Jan 16 19:26:14 2015
+Return-Path: <@..>
+X-Original-To: homestyle@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 5A9ECDF; Fri, 16 Jan 2015 19:26:14 +0000 (UTC)
+Received: from mail-253-148.rm0004.net (mail-253-148.rm0004.net [66.251.253.148])
+    by .. with SMTP id qs44t5uxxvjfag7txxhyvwppg6;
+    for homestyle@fs.net;
+    Fri, 16 Jan 2015 19:26:14 +0000 (UTC)
+    (envelope-from errors-homestyle=fs.net@mail10.futurewins.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.251.253.148;
+    envelope-from=<errors-homestyle=fs.net@mail10.futurewins.com>;
+    helo=mail-253-148.rm0004.net; mechanism=include:spf.reachmail.net
+    (ip4:66.251.253.128/27 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.251.253.148; client-port=49958;
+    syn-fingerprint=5840:54:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    143.215.193.74 198.32.132.75 184.105.223.225 216.66.77.98 66.251.252.151
+    66.251.234.26 66.251.252.109; network-path-time=1421436374
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=auth3.rm0001.net;
+ h=From:To:Reply-To:Subject:Date:Message-ID:List-Unsubscribe:MIME-Version:Content-Type;
+ bh=iCPtXbNq2LgG1eHjrY4Vt6XB1TQ=;
+ b=nvpEgp1nyEF8tzbyoTBwldnDrfnyvMeTmNF65M6/DKuQJ7OifAVjBFEzRFOneuRvMzPQOspV13ni
+   4WuBf9UssSpaERsPPVZT6xLbG/40Ed8MdtLFZjq2RPQtistaYxqyF847O3AKzezQOMGgsLJlmSSf
+   wCMZ/UHMjQvPDAc3dfY=
+From: "Glass Times " <@..>
+To: "homestyle@fs.net" <@..>
+Reply-To: <@..>
+Subject: Glass Times Newsletter 16th January 2015
+Date: Fri, 16 Jan 2015 14:25:58 -0500
+X-BPS1: 3580183
+X-Feedback-ID: 3580183:1320761:RM
+X-BPS2: 4302
+Message-ID: <2d5e3272-a24b-45ee-a39a-d01846b6a6ce@mail10.futurewins.com>
+List-Unsubscribe: <mailto:leave-3580183-4302-4581@optout.reachmail.net>
+X-Mailer: RM Mailer (v5.4.368.0)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="------------040206050104020508040001"
+
+This is a multi-part message in MIME format.
+
+--------------040206050104020508040001
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Make sure that you always get our messages: Add bulletin@glasstimes.co.uk to your contacts.
+
+Click here to unsubscribe or update your email address.
+http://link.rm0004.net/r.asp?l=270471&ee=4302;home&s=3580183
+
+
+
+Forward this message to a friend
+http://link.rm0004.net/mail_forward.asp?spool_id=3580183&from_email=homestyle@fs.net&aid=9548
+ 
+This email is being sent to homestyle@fs.net.
+
+Use this link to be deleted or to update your email address
+http://link.rm0004.net/r.asp?l=270471&ee=4302;home&s=3580183
+Trouble with this link? Simply forward this message to rem@link.rm0004.net or call 773-470-0350
+
+This message was sent by  GMS Business Communications | 5 Argent Way Sonora Fields  | Sittingbourne, Kent ME10 5AR
+--------------040206050104020508040001
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <object type="cosymantecnisbfw" cotype="cs" id="cosymantecnisbfw" style="width: 0px; height: 0px; display: block;"></object><object type="cosymantecnisbfw" cotype="bgpage" id="cosymantecnisbfwbg" style="width: 0px; height: 0px; display: block;"></object>
+    <script type="text/javascript" defer="defer" id="NortonInternetSecurityBF" tab="0" browser="0">function NavigateTo(url, newWindow) { var myObject = new Object(); myObject.url = url; myObject.newWindow = newWindow; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('symcBFNavigateTo', false, false, myObject); document.dispatchEvent(theEvent); } function ChangeToolbarIcon(inText, inImage) { var myObject = new Object(); myObject.text = inText; myObject.image = inImage; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('changeToolbarIconEventHandler', false, false, myObject); document.dispatchEvent(theEvent); } function DimPage() { dimElement = document.createElement('div'); dimElement.id = 'coShastaDimDiv'; dimElement.style.cssText = 'z-index:10;width:100NPNNew() { theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('symcBFActivate', false, false, 0); document.dispatchEvent(theEvent); } function UpdatePageStatus(inURL) { var myObject = new Object(); myObject.blockURL = inURL; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('updatePageStatusEventHandler', false, false, myObject); document.dispatchEvent(theEvent);}function UpdateToolbarMenu(inSafeSearch) { var myObject = new Object(); myObject.SafeSearch = inSafeSearch; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('updateToolbarMenuEventHandler', false, false, myObject); document.dispatchEvent(theEvent);}function SetBarVisibility(barstatus) { var myObject = new Object(); myObject.barstatus = barstatus; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('setBarVisibilityEventHandler', false, false, myObject); document.dispatchEvent(theEvent);}function SetCachedStrings(inText, inImage, 
+inTextNA, inImageNA) { var myObject = new Object(); myObject.text = inText; myObject.image = inImage; myObject.textNA = inTextNA; myObject.imageNA = inImageNA; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('setCachedStringsEventHandler', false, false, myObject); document.dispatchEvent(theEvent); } function SetResourceFolder(inFolder) { var myObject = new Object(); myObject.resFolder = inFolder; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('setResourceFolderEventHandler', false, false, myObject); document.dispatchEvent(theEvent); } function SetSafeSearchValues(isSSEinPrefs, isSSEinSafeMgr,isBuzz, showMyAccount) { var myObject = new Object(); myObject.showMyAccount = showMyAccount; myObject.isSSEinPrefs = isSSEinPrefs; myObject.isBuzz=isBuzz; myObject.isSSEinSafeMgr=isSSEinSafeMgr; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('setSafeSearchValuesEventHandler', false, false, myObject); 
+document.dispatchEvent(theEvent); } function ShowSafeSearchOffering() {theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('symcShowSafeSearchOffering', false, false, 0); document.dispatchEvent(theEvent); } function SafeSearchOfferResponded() {theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('symcSafeSearchOfferResponded', false, false, 0); document.dispatchEvent(theEvent); } function SetSearchString(inQuery) { var myObject = new Object(); myObject.query = inQuery; theEvent = document.createEvent('CustomEvent'); theEvent.initCustomEvent('symcSetSearchString', false, false, myObject); document.dispatchEvent(theEvent); } </script>
+    <head><META http-equiv="Content-Type" content="text/html;charset=utf-8">
+        
+        <title>Glass Times Bulletin</title>
+        <style type="text/css">
+            <!--
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.style22 {font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 24px; color: #990000; }
+.style23 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+body {
+	background-color: #E8E8E8;
+	-webkit-box-shadow: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 0px 0px;
+	border-color: #FFFFFF;
+}
+.style3 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	color: #000066;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000066;
+}
+a:hover {
+	text-decoration: none;
+	color: #333366;
+}
+a:active {
+	text-decoration: none;
+}
+.style22 {
+	color: #2E5D8E;
+}
+.style22 .style22 {
+	color: #074983;
+}
+.style22 .style22 .style2 {
+	color: #0A0A10;
+}
+.style28 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; }
+.style22 {
+	color: #F00;
+}
+.style22 {
+	color: #000080;
+}
+.style22 {
+	color: #F1070A;
+	font-size: 16px;
+}
+red {
+	color: #F00;
+}
+.style29 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+h1,h2,h3,h4,h5,h6 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+	font-size: 24px;
+	color: #FBFBFB;
+}
+-->
+        </style>
+    </head>
+    <body>
+<table style="font-family: arial, sans-serif; background-color: #ffffff; font-size: 12px;" width="100<img src="http://link.rm0004.net/open/wr0PvS5i04ndR0LazmawRA2/image.gif" height="1" width="1" border="0"><br>
+
+        <table width="785" height="3784" border="0" align="center" cellpadding="5" bgcolor="#FFFFFF">
+            <tbody>
+                <tr>
+                    <td height="169" colspan="3">
+                    <table width="747" border="0" cellpadding="1" cellspacing="1">
+                        <tbody>
+                            <tr>
+                                <td width="162" height="153"><img src="http://www.glasstimes.co.uk/Adverts/newsletterlogo3.png" width="200" height="124"></td>
+                                <td width="10"><img src="http://glasstimes.co.uk/Adverts/break1.gif.png" width="50" height="20" alt=""></td>
+                                <td width="566">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvUbRtlxo9FcyzC-g3Q2/"><img src="http://www.glasstimes.co.uk/Adverts/K2577-GlassTimes-TL-Web-Banner.gif" width="524" height="132" border="0"></a></div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="14" colspan="3" bgcolor="#FFFFFF"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="780" height="2"></td>
+                </tr>
+                <tr bgcolor="#CCCCCC">
+                    <td height="288" colspan="3" bgcolor="#998B59">
+                    <table border="0" align="right" cellpadding="2" cellspacing="2">
+                        <tbody>
+                            <tr>
+                                <th height="77" class="style23" scope="col"><a href="http://link.rm0004.net/go/wr0PvblhzJuzlmpam0dBnQ2/"><img src="http://glasstimes.co.uk/LeaderPics/Glazpart_2464_1.jpg" width="250" height="166" alt=""></a></th>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h1 class="style23">Glazpart Celebrate 30 Years Supplying Our Loyal Customers 1985 -2015</h1>
+                    <p class="style28"><strong>Glazpart are proud to having completed 30 years of developing its business with its loyal customers since it was registered in February 1985. Glazpart was the evolution of the successful injection mould design and manufacturing business Hanley Precision tools, Ken Hanley made the decision to move into injection moulding.</strong></p>
+                    <p class="style28">Since 1985, the business has gone from strength to strength with custom products, glazing market solutions and the acquisition of Pro mould, whose strengths are in the joinery, steel fabrication and promotional products. More recently the business has seen recognition in being shortlisted in the National Fenestration Awards 2014 and has been investing for the future with over &pound;1,000,000 spent on capital and the launch of many new products... </p>
+                    <p><a href="http://link.rm0004.net/go/wr0PvblhzJuzlmpam0dBnQ2/"><img src="http://www.glasstimes.co.uk/readmorered.fw.png" width="100" height="30"></a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="14" colspan="3"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="780" height="2"></td>
+                </tr>
+                <tr>
+                    <td width="538" height="3285" valign="top">
+                    <table width="535" border="0" cellspacing="2" cellpadding="2">
+                        <tbody>
+                            <tr>
+                                <td width="527" height="89"><a href="http://link.rm0004.net/go/wr0Pvbj_n6pz23K_cK19yg2/"><img src="http://www.glasstimes.co.uk/Adverts/pilkington524x120-GLASS.gif" width="524" height="120" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://glasstimes.co.uk/editorialpictures/Comar Website Relaunch 2015_2466_1.jpg" alt="" width="100" height="66" border="1" align="right">New Comar Website: Mobile, Social Media &amp; BIM Ready...</span><br>
+                                <span class="style3">The latest launch from Comar, the leading British architectural aluminium system company, is their BIM ready website. ...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvbtouSaFK5-TIdSqIA2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://glasstimes.co.uk/editorialpictures/Swish_2465_1.jpg" alt="" width="100" height="124" border="1" align="right">Stedek doubles output in 12 months ...</span><br>
+                                <span class="style3">&ldquo;Small businesses and start-ups are the engine of our economy &ndash; they account for 49 percent of all private sector turnover in the UK and employ an estimated 14.4 million, 59.3 percent of total UK priv...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0Pvbr0v41Pv-U4hmloag2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Long Service_2462_1.jpg" alt="" width="100" height="66" border="1" align="right">450 years' loyal service recognised in awards from The VEKA UK Group...</span><br>
+                                <span class="style3">The VEKA UK Group, the UK arm of family-owned PVC-U fenestration multinational, The VEKA Group, has presented employees with long-service awards constituting over 450 years' loyal service....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0Pvb14pXUl7Xsq2Tu5Uw2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Halo and Listers_2461_1.jpg" alt="" width="100" height="140" border="1" align="right">Discerning dozen join Halo's Approved Installer Scheme on a single day with Listers...</span><br>
+                                <span class="style3">Long-standing Halo fabricator Listers Trade Frames held an open day in December, that welcomed plenty of customers, old and new, to see the latest products and services from the company....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvbxucLatCBBAM9EZsQ2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><a href="http://link.rm0004.net/go/wr0Pvb9PxA2d1Ghui_oCfg2/"><img src="http://www.gms-uk.co.uk/prosecurenewsonline/new/glasstimes/banners/promac_glazine_banner.gif" alt="" width="387" height="119" border="0"></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/SynsealWarmCore_2459_1.jpg" alt="" width="100" height="74" border="1" align="right">WarmCore Stands Up Well to Testing Times...</span><br>
+                                <span class="style3">For the last few months, Synseal&rsquo;s new WarmCore aluminium folding sliding door system has been undergoing extended extreme weather testing in Portugal along with structural strength and enhanced secur...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0Pvb5UVCjNPbqlMC8Bcg2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Network VEKA literature_2458_1.jpg" alt="" width="100" height="66" border="1" align="right">Turning a new leaf with Network VEKA in 2015...</span><br>
+                                <span class="style3">What better way to start the new year than with a fresh new look? ...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvbE4A_1JXTwuQf65tA2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Justin_2457_1.jpg" alt="" width="100" height="66" border="1" align="right">Sunsquare Factory Investment sees Production of four Skylights an hour...</span><br>
+                                <span class="style3">In a year that has seen extraordinary sales growth, Bury St. Edmunds-based skylight manufacturer Sunsquare is now capable of producing four skylights an hour. ...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvbBDZQ4x8lMzwUJ0SA2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8">
+                                <p><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Quad Curve 1000 - 2_2456_1.jpg" alt="" width="100" height="100" border="1" align="right">GGR introduces Quad-Circuit Lifters for Curved Glass to the UK...</span><br>
+                                <span class="style3">Glass lifting solutions specialist GGR Group has introduced the UK&rsquo;s first quad-circuit curved glass vacuum lifters to their expanding range of machines for hire and sale. The high capacity Quad-Curv...</span></p>
+                                <p><a href="http://link.rm0004.net/go/wr0PvbM8KQDms_bgz-P66A2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><a href="http://link.rm0004.net/go/wr0PvbJ4vvq7KWqq_50KaA2/"><img src="http://www.glasstimes.co.uk/Adverts/1403_524x100px-Origin-Glass-Times-MPU3.gif" width="524" height="100" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8">
+                                <p><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/VEKAMaxine Tayor - Assure_2455_1.jpg" alt="" width="100" height="100" border="1" align="right">New staff appointed at Assure to meet rising demand...</span><br>
+                                <span class="style3">Network VEKA's self-certification and Competent Persons Scheme Assure, continues to grow with the appointment of new team member, Maxine Taylor....</span></p>
+                                <p><a href="http://link.rm0004.net/go/wr0PvbV4yWZaRMeJdL86_w2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8">
+                                <p><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/VEKA Slitter1_2454_1.jpg" alt="" width="100" height="100" border="1" align="right">The VEKA UK Group is committed to colour...</span><br>
+                                <span class="style3">The VEKA UK Group is proud to continuously invest in the future of UK Manufacturing and the Group's capital expenditure over the last few years is well in excess of &pound;15m. This latest addition to the B...</span></p>
+                                <p><a href="http://link.rm0004.net/go/wr0PvbS0mYUwsFGkyTz7aQ2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8">
+                                <p><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/DEKKO1_2451_1.jpg" alt="" width="100" height="74" border="1" align="right">Installers succeed in the higher end of the market thanks to R9 from Dekko...</span><br>
+                                <span class="style2">The market for timber alternative windows and doors is flourishing as the number of homeowners choosing to replace their draughty wooden frames with an energy efficient solution continues to increase....</span></p>
+                                <p><a href="http://link.rm0004.net/go/wr0PvbdQM5gjiHdCbzwPrA2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8">
+                                <p><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/switchable-vision-panel_2449_1.jpg" alt="" width="100" height="74" border="1" align="right">Intelligent Glass Reveals Battery Powered Switchable Vision Panels...</span><br>
+                                <span class="style3">Switchable smart glass takes a leap forward and frees itself from mains power with Intelligent Glass's new battery-powered Switchable Vision Panels....</span></p>
+                                <p><a href="http://link.rm0004.net/go/wr0PvbabSpWJXh7KtsIGXw2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><a href="http://link.rm0004.net/go/wr0PvamdGrvvAec7kRdU8A2/" target="_blank"><img src="http://www.glasstimes.co.uk/Adverts/polyframe glass-times-1.jpg" width="524" height="87" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/ALU106image1_2444_1.jpg" alt="" width="100" height="99" border="1" align="right">Aluprof Corners the Sliding Door Market...</span><br>
+                                <span class="style3">Glazed sliding doors have always been popular in residential and high rise residential properties as they take up little room and are cost effective to manufacture and install. Today&rsquo;s lift and slide ...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvajaGtk0PwVLWc29Ew2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/VekaGMM_2447_1.jpg" alt="" width="100" height="78" border="1" align="right">Annual meeting for Heads of The VEKA Group takes place in Burnley...</span><br>
+                                <span class="style3">Heads of the global arms of multinational PVC-U window manufacturer, The VEKA Group, came together in the UK this week for the company's annual General Managers Meeting. ...</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvasBsLEyJDXEBlW6Pg2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/YWC SBD testing_2448_1.jpg" alt="" width="100" height="100" border="1" align="right">YWC Group's low threshold French Door passes the test for security and accessibility...</span><br>
+                                <span class="style3">Halo fabricator YWC Group has announced successful BSI testing and accreditation for its mobility threshold Secured by Design French door....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvaqmtBxJtcl8Un0J0A2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/bowaterAlan_2446_1.jpg" alt="" width="100" height="149" border="1" align="right">Bowater Doors welcomes new National Sales Manager...</span><br>
+                                <span class="style3">As part of The VEKA UK Group's commitment to continuous growth, the industry-leading systems supplier has appointed a new National Sales Manager for Bowater Doors....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0Pva0UT1XJsxSRZxLd9Q2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/WER image 3_2445_1.jpg" alt="" width="100" height="100" border="1" align="right">It all adds up - The VEKA UK Group launches the industry's ONLY Notified ENERGY RATING calculator ...</span><br>
+                                <span class="style3">Well known for beating competitors to the punch, The VEKA UK Group has now unveiled the industry's only BSI notified and BFRC certified window and door energy performance calculator....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0PvazpRzRSV7C1VcQoGg2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><span class="style23"><img src="http://www.glasstimes.co.uk/editorialpictures/Polyframe_2438_1.jpg" alt="" width="100" height="65" border="1" align="right">G14 award rounds off a fantastic year for Halo fabricator, Polyframe ...</span><br>
+                                <span class="style3">Halifax-based Halo fabricator, Polyframe has won its third award in 2014 after collecting the prestigious G14 Award for Fabricator of the Year....</span><br>
+                                <br>
+                                <a href="http://link.rm0004.net/go/wr0Pva-oiutAGKSDMR4OeQ2/"><img src="http://www.glasstimes.co.uk/readmorered.gif" width="100" height="30" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td height="8"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="530" height="4"></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                <div align="center"><span class="style3">Glass Times Bulletin is published by<a href="http://link.rm0004.net/go/wr0Pva6sCNB6PHE6lC0bZA2/"><strong> GMS Business Communication</strong></a> on behalf of <br>
+                                Times Publishing Ltd </span><br>
+                                </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                    <td width="4" valign="top"><img src="http://www.glasstimes.co.uk/Adverts/break.gif" alt="" width="2" height="3200"></td>
+                    <td width="208" valign="top">
+                    <table width="205" border="0" align="left" cellpadding="2" cellspacing="2">
+                        <tbody>
+                            <tr>
+                                <td width="197">
+                                <div align="center"><strong class="style2">December 2014</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><a href="http://link.rm0004.net/go/wr0PvaGCpEu2naJtPEGtew2/"><img src="http://glasstimes.co.uk/images/december2014.gif" width="190" height="268" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td><a href="http://link.rm0004.net/go/wr0PvaBTxJTjawKRVh8lXg2/"><img src="http://www.glasstimes.co.uk/Adverts/THIOVER_Banner_200x190_Engl.gif" width="200" height="190" alt=""></a></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                <div align="center"></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                <p align="center"><a href="http://link.rm0004.net/go/wr0PvaOPaZcWscTeSEoD8Q2/" target="_blank"><img src="http://www.glasstimes.co.uk/Adverts/magsub.gif" width="148" height="250" border="0"></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><strong>December 2014</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvaGCpEu2naJtPEGtew2/"><img src="http://glasstimes.co.uk/images/december2014.gif" width="190" height="268" alt=""></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><strong>November 2014 Issue</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvaJhnsZumzrjtGiaxA2/"><img src="http://glasstimes.co.uk/images/2499_GT_Nov_2014_WEBVIEW.gif" width="190" height="274" alt=""></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><strong>October 2014 Issue</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvaVcDndFAC4NqsHvCg2/"><img src="http://glasstimes.co.uk/images/2484_GT_Oct_2014_WEBVIEW.gif" width="190" height="277" alt=""></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><strong>September 2014 Issue</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvaRbLUUrB_BwXKnw0g2/"><img src="http://glasstimes.co.uk/images/2468_SEPT_2014_WEBVIEW.gif" width="190" height="274" alt=""></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="style2">
+                                <div align="center"><a href="http://link.rm0004.net/go/wr0PvafC7ipfUCtP0EBFKQ2/" target="_blank"><img src="http://www.gms-uk.co.uk/prosecurenewsonline/new/glasstimes/images/newslettersubscribe.gif" width="148" height="200" border="0"></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style2">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td height="925" class="style2">
+                                <p><strong>The Glass Times Bulletin is published weekly by Glass Times Magazine and is part of Times Publishing Ltd. </strong></p>
+                                <p><strong>To Book a place on the Glass Times Bulletin or to place an advert please call <br>
+                                Henry Lott on <br>
+                                Tel 01795 435913 or Email <a href="mailto:henry@glasstimes.co.u">henry@glasstimes.co.uk</a> or <a href="mailto:bulletin@glasstimes.co.uk">bulletin@glasstimes.co.uk</a></strong></p>
+                                <p><img src="http://www.gms-uk.co.uk/prosecurenewsonline/new/glasstimes/images/break.gif" width="190" height="2"></p>
+                                <p><strong>For more information on the Main Glass Times Printed publication please contact:</strong></p>
+                                <p><strong>Andy Westhead</strong><br>
+                                Publisher<br>
+                                Tel: 0161 747 8390<br>
+                                <a href="mailto:andy@glasstimes.co.uk                                <p><strong>Nathan Bushell</strong><br>
+                                Editor<br>
+                                Tel: 07983 449061<br>
+                                <a href="mailto:nathan@glasstimes.co.uk">nathan@glasstimes.co.uk</a></p>
+                                <p><strong>John WestHead</strong><br>
+                                Sales Director<br>
+                                Tel: 01892 836927<br>
+                                <a href="mailto:john@glasstimes.co.uk                                <p><strong>Henry Lott</strong><br>
+                                Classified/Recruitment Ads<br>
+                                Tel 01795 435913<br>
+                                <a href="mailto:henry@glasstimes.co.uk                                <p><strong>Shelia Skinner</strong><br>
+                                Circulation<br>
+                                <a href="mailto:sheila@glasstimes.co.uk                                <p>Glass Times is the Industry Leading Magazine reaching 10,534 professionals each month. 100                                <p><a href="http://link.rm0004.net/go/wr0PvaZixdSD9PvLtzrrIw2/"><img src="http://www.glasstimes.co.uk/Adverts/Business Jan Dec 2012.jpg" width="125" height="125" border="0"></a></p>
+                                <p><br />
+                                </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <object type="cosymantecnisbfw" cotype="cs" id="SILOBFWOBJECTID" style="width: 0px; height: 0px; display: block;"></object>
+    
+<br><div align="center"><table bgcolor="#FFFFFF" cellpadding="0" cellspacing=0 width="100border="0"></a><br></td></tr></table></div>
+</body>
+</html>
+--------------040206050104020508040001--
+

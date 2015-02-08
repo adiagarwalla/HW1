@@ -1,0 +1,28 @@
+From @..  Fri Jan  2 18:32:38 2015
+Return-Path: <@..>
+X-Original-To: spok33@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 97A6BE0; Fri,  2 Jan 2015 18:32:38 +0000 (UTC)
+Received: from static.88-198-2-100.clients.your-server.de (199.114.230.70 [199.114.230.70])
+    by .. with SMTP id rmeh3gpxnq9i5mczwx5kds6vkn;
+    Fri, 02 Jan 2015 18:32:38 +0000 (UTC)
+    (envelope-from ttgmaftm@beekdesign.be)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.114.230.70; envelope-from=<ttgmaftm@beekdesign.be>;
+    helo=static.88-198-2-100.clients.your-server.de; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.114.230.70; client-port=56656;
+    client-dnsfail=199.114.230.70: name server failure;
+    syn-fingerprint=14400:48:1:60:M1380,S,T,N,W2; colon-space;
+    network-hops=18; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 143.215.194.105 143.215.193.74 198.32.132.75
+    184.105.223.225 184.105.213.86 184.105.222.41 184.105.26.66 206.123.202.50
+    206.123.202.50 199.114.231.146 199.114.231.146 0.0.0.0 0.0.0.0
+    199.114.230.70 199.114.230.70; network-path-time=1420223535;
+    RBL=zen..org (127.0.0.4), cbl.abuseat.org (127.0.0.2)
+Received: from 8.215.45.37 by 88.198.2.100; Sat, 03 Jan 2015 00:27:35 +0600
+Message-ID: <W[20
+Date: Fri,  2 Jan 2015 18:32:38 +0000 (UTC)
+From: @.. (root)
+

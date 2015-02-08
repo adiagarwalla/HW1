@@ -1,0 +1,27 @@
+From @..  Thu Jan 22 01:24:44 2015
+Return-Path: <@..>
+X-Original-To: emelvin@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2F9F7DF; Thu, 22 Jan 2015 01:24:44 +0000 (UTC)
+Received: from CPE586d8f37502d-CM18593347a9e2.cpe.net.cable.rogers.com (CPE586d8f37502d-CM18593347a9e2.cpe.net.cable.rogers.com [99.251.115.116])
+    by .. with SMTP id 3mwq985h2gmrx2faqe64auuqp6;
+    Thu, 22 Jan 2015 01:24:43 +0000 (UTC)
+    (envelope-from byurcvwe@ermannodebiagi.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=99.251.115.116; envelope-from=<byurcvwe@ermannodebiagi.com>;
+    helo=CPE586d8f37502d-CM18593347a9e2.cpe.net.cable.rogers.com;
+    mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=99.251.115.116; client-port=1786;
+    syn-fingerprint=5840:53:1:60:M1380,S,T,N,W0 Linux 2.4/2.6 <= 2.6.7;
+    colon-space; network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 206.223.119.105 209.148.228.225 24.156.144.126
+    69.63.251.49 209.148.241.70; network-path-time=1421889882;
+    RBL=bl..net (127.0.0.2), zen..org (127.0.0.11 127.0.0.4
+    127.0.0.3), cbl.abuseat.org (127.0.0.2)
+Received: from 252.240.40.206 by 99.251.115.116; Thu, 22 Jan 2015 05:22:50 -0400
+Message-ID: <Q[20
+Date: Thu, 22 Jan 2015 01:24:44 +0000 (UTC)
+From: @.. (root)
+

@@ -1,0 +1,426 @@
+From @..  Wed Jan  7 09:44:36 2015
+Return-Path: <@..>
+X-Original-To: valfarm@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 93F2EDE; Wed,  7 Jan 2015 09:44:36 +0000 (UTC)
+Received: from so254-63.mailgun.net (so254-63.mailgun.net [198.61.254.63])
+    by .. with SMTP id fmc76rrvqu9sfvqs5fkmetcxhe;
+    for valfarm@fs.net;
+    Wed, 07 Jan 2015 09:44:36 +0000 (UTC)
+    (envelope-from bounce+eff786.ade52b-valfarm=fs.net@genuine-savings.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.63;
+    envelope-from=<bounce+eff786.ade52b-valfarm=fs.net@genuine-savings.com>;
+    helo=so254-63.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.63; client-port=35798;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.131 162.209.19.165;
+    network-path-time=1420623876
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=genuine-savings.com;
+ q=dns/txt; s=pic; t=1420623859; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=dBIQz814r5fixfOJPjgzxaCsfAlRQECKC7TXSdXLai8=; b=VPFFBn52w8BJBLsI/6OciTNYjaVtSoQ/2OajQ7QmyoE8ZmA5lqRKC9IDa9c91+cvldcfZXul
+ PnIidMuSJfX+tHMD9k4fqCp/D038+Wz+MrqL25JJRK1bG+xvUO8i/uE3ZOtjF+fafN3wLsyV
+ qvLDbhJz8iOFdNmAvEIrboGNURU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=genuine-savings.com; s=pic;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=gypVyrDIOftKYXUtzQcd2RyqezTlHs+irB8nKymypy4mcw53rb5PPxUPeGSND7qo3c0jUU
+ HpiEk8cI7DaJpNyJ+WTf9vob/Xtsa+lAZjH4YdD9brGjKf7f5TdJZSHAqsG+BGodW6hIGy5Z
+ sLk0uY0nIC8X7v1eNyX4nl7oPIcKQ=
+Received: from mail.genuine-savings.com (genuine-savings.com [78.47.172.44])
+ by mxa.mailgun.org with ESMTP id 54acff9f.7f7f226297f0-in2; Wed, 07 Jan
+ 2015 09:42:55 -0000 (UTC)
+Received: from mail.genuine-savings.com (localhost [127.0.0.1])	by
+ mail.genuine-savings.com (Postfix) with ESMTP id 4AB671E6D3D	for
+ <valfarm@fs.net>; Wed, 7 Jan 2015 11:42:54 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=genuine-savings.com;	s=dkim;
+ t=1420623774;	bh=dBIQz814r5fixfOJPjgzxaCsfAlRQECKC7TXSdXLai8=;	h=Date:From:To:Subject:From;	b=gw53WDvU9grCox+B8VhJ75I627ulBG2ChnU/9ZW6tErE9Z8f3XsL/qBBfTqEDgKNe	
+ j1H5UmpUIFlDuqQsCWzR1M+gSdtnRKsVuPImpVRl/gPqOyxGYcUA2hsXhju8xvDlUN	
+ KyUJNWyxXjGB1kOSNq9NgZTy/rHAszkbws9uTNtg=
+Date: Wed, 7 Jan 2015 11:42:54 +0200 (EET)
+From: Product Tester <@..>
+To: "valfarm@fs.net" <@..>
+Message-Id: <955647044.1179665.1420623774304.JavaMail.root@mail.genuine-savings.com>
+Subject: Testing a Dyson Vacuum can lead you to keeping it
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1179663_1086573606.1420623774302"
+X-Mailgun-Sid: WyI1MjA4MSIsICJ2YWxmYXJtQGZzLm5ldCIsICJhZGU1MmIiXQ==
+Sender: @..
+
+------=_Part_1179663_1086573606.1420623774302
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1179664_1989145601.1420623774302"
+
+------=_Part_1179664_1989145601.1420623774302
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+Dyson. This message contains useful information. If your e-mail provider bl=
+ocks the images, please enable them for a complete preview. Register to tes=
+t and keep a new Dyson today!?? Wanted: Product Testers for The Dyson DC40!=
+ Union Jack Freebies is giving away a Dyson DC40 and wants your feedback! E=
+nter for a chance to Become one of our Product Testers! If you are selected=
+, you will be able to test a brand new Dyson DC40, and keep the product aft=
+er testing is complete. ? 1. Register (for free) on our site. 2. If you are=
+ selected, we send you a new Dyson DC40! Use the product for 7 days and wri=
+te a thorough review. 3. Keep the product for your own use, if you wish! Si=
+gn up today for your chance to test and keep a new. Dyson DC40 vacuum! Regi=
+ster now!?? Dyson DC40 Features: ??Radial Root Cyclone Technology ??Self Ad=
+justs For All Floor Types ??Lightweight and Durable ??Ball? Technology ? Re=
+gister to test and keep a new Dyson today!?? Wanted: Product Testers for Th=
+e Dyson DC40! Union Jack Freebies is giving away a Dyson DC40 and wants you=
+r feedback! Enter for a chance to Become one of our Product Testers! If you=
+ are selected, you will be able to test a brand new Dyson DC40, and keep th=
+e product after testing is complete. ? 1. Register (for free) on our site. =
+2. If you are selected, we send you a new Dyson DC40! Use the product for 7=
+ days and write a thorough review. 3. Keep the product for your own use, if=
+ you wish! Sign up today for your chance to test and keep a new. Dyson DC40=
+ vacuum! Register now!?? ??Radial Root Cyclone Technology ??Self Adjusts Fo=
+r All Floor Types ??Lightweight and Durable ??Ball? Technology We hope you =
+enjoyed receiving this email. Should you no longer wish to receive emails f=
+rom this company, visit this link to unsubscribe. The advertiser does not m=
+anage your subscription. If you prefer not to receive further communication=
+, here is the way to stop receiving emails. P.O. Box 13629, 10310 Athens - =
+Greece
+------=_Part_1179664_1989145601.1420623774302
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Dyson. </title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+</head>
+
+<body>
+
+<p style="font-weight:bold; font-family:Arial;" align="center">
+This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.
+</p>  
+
+<style type="text/css">
+
+@media only screen and (max-width:320px),
+only screen and (max-device-width:320px)
+{
+/* - - - - - HOTMAIL FIXES*/
+.ReadMsgBody
+{
+	width: 100}
+ExternalClass
+{
+	width: 100}
+a[href^="tel"], a[href^="sms"]
+{
+	text-decoration:none;
+	color:#9ec459; /* or whatever your want */
+	pointer-events:none;
+	cursor:default;
+}
+table[id=container]
+{
+	-webkit-text-size-adjust:100}
+
+div[id=mobile]
+{
+	display:block !important; width:100}
+
+div[id=desktop]
+{
+	display:none !important; width:0px !important; max-height:0px !important; overflow:hidden !important; padding:2px !important; margin:0px !important;
+}
+}	
+</style>
+
+<table id="container" style="font-family:Arial;" align="center" width="98<tr>
+<td align="center">	
+<!-- DESKTOP -->
+<div id="desktop" style="display:block; width:100
+
+<table width="577" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle" height="30" style="font-size:11px; font-family:arial; color:#000000;">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none;">
+<span style="background:#cc9900; display:block; border-radius:5px; color:#ffffff; font-weight:bold; font-size:20px; text-align:center; width:80Register to test and keep a new Dyson today!&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td  style="border:2px solid #330099;  background-repeat:repeat-x; padding:10px 13px 10px 13px; font-family:arial; font-size:31px; " align="center">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none; color:#000000;">
+Wanted: Product Testers for
+<br>
+The Dyson DC40!
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td align="left" valign="bottom">
+<table width="100<tr>
+<td style="padding:10px 10px 0px 10px;">
+
+<table width="100<tr>
+<td align="left" valign="bottom" style="padding-right:10px;">
+
+<table width="100
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">
+Union Jack Freebies is giving away a <b>Dyson DC40</b> and wants your feedback!
+<br><br>
+Enter for a chance to Become one of our Product Testers! If you are selected, you will be able to test a brand new <b>Dyson DC40</b>,
+ and keep the product after testing is complete.
+ </td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td style="padding-left:30px;">
+<table width="100<tr>
+<td width="15" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+1.
+</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">Register</a> (for free) on our site.</td>
+</tr>
+<tr>
+<td width="15" align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">2.</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+If you are selected, we send you a new <b>Dyson DC40</b>! Use the product for 7 days and write a thorough review.
+</td>
+</tr>
+<tr>
+<td width="15" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">3.
+</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">Keep the product for your own use, if you wish!
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">
+Sign up today</a> for your chance to test and keep a new.
+<br>
+<b>Dyson DC40</b> vacuum!</td>
+</tr>
+<tr>
+<td align="left" valign="middle" height="70">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none;">
+<span style="background:#cc9900; display:block; border-radius:10px; color:#ffffff; font-weight:bold; font-size:20px; text-align:center; padding:10px;">
+Register now!&nbsp;&raquo;
+</span>
+</a>
+</td>
+</tr>
+</table>
+
+</td>
+<td align="right" width="224" valign="top">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">
+<img alt="Union Jack Freebies" src="http://genuine-savings.com/c0105_0001c0001" width="224" height="370" border="0" style="display:block; margin:0px; padding:0px;" />
+</a>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top" background="wxnupz7" style="background-image:url('wxnupz7'); background-repeat:repeat-x; background-position:left bottom; border-bottom:5px solid #ffffff; padding:10px;">
+
+<table width="100
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">
+<b>Dyson DC40 Features:</b>
+</td>
+</tr>
+
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding-left:30px; padding-top:10px; color:#000000;">
+&bull;&nbsp;Radial Root Cyclone Technology
+<br>
+&bull;&nbsp;Self Adjusts For All Floor Types
+<br>
+&bull;&nbsp;Lightweight and Durable
+<br>
+&bull;&nbsp;Ball&trade; Technology
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr><td style="border-top:5px solid #330099;">&nbsp;</td></tr>
+
+</table>
+
+</div>
+
+
+<!-- MOBILE -->										
+<!--div id="mobile" style="display:block !important; width:100<div id="mobile" style="display:none; width:0px; max-height:0px; overflow:hidden; padding:2px; ">
+<table align="center" width="300" cellpadding="0" cellspacing="0">		
+
+<tr>
+<td align="center">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none;">
+<span style="background:#cc9900; display:block; border-radius:10px; color:#ffffff; font-weight:bold; font-size:20px; text-align:center; padding:10px;">
+Register to test and keep a new Dyson today!&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td  style="border:2px solid #330099;  background-repeat:repeat-x; padding:10px 13px 10px 13px; font-family:arial; font-size:31px; " align="center">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none; color:#000000;">
+Wanted: Product Testers for
+<br>
+The Dyson DC40!
+</a>
+</td>
+</tr>
+
+
+
+<tr>
+<td style="padding:5px;">
+
+<table width="100
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">
+Union Jack Freebies is giving away a <b>Dyson DC40</b> and wants your feedback!
+<br><br>
+Enter for a chance to Become one of our Product Testers! If you are selected, you will be able to test a brand new <b>Dyson DC40</b>,
+ and keep the product after testing is complete.
+ </td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td style="padding-left:30px;">
+<table width="100<tr>
+<td width="15" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+1.
+</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">Register</a> (for free) on our site.</td>
+</tr>
+
+<tr>
+<td width="15" align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">2.</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">
+If you are selected, we send you a new <b>Dyson DC40</b>! Use the product for 7 days and write a thorough review.
+</td>
+</tr>
+
+<tr>
+<td width="15" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">3.
+</td>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding-bottom:10px;">Keep the product for your own use, if you wish!
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">
+Sign up today</a> for your chance to test and keep a new.
+<br>
+<b>Dyson DC40</b> vacuum!</td>
+</tr>
+
+<tr>
+<td align="center">
+<br/>
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank" style="text-decoration:none;">
+<span style="background:#cc9900; display:block; border-radius:10px; color:#ffffff; font-weight:bold; font-size:20px; text-align:center; padding:10px;">
+Register now!&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding-left:30px; padding-top:10px; color:#000000;">
+<br/>
+&bull;&nbsp;Radial Root Cyclone Technology
+<br>
+&bull;&nbsp;Self Adjusts For All Floor Types
+<br>
+&bull;&nbsp;Lightweight and Durable
+<br>
+&bull;&nbsp;Ball&trade; Technology
+</td>
+</tr>
+
+<tr>
+<td align="center" width="224" valign="top">
+<a href="http://genuine-savings.com/?a=488&c=92229&s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" target="_blank">
+<img alt="Union Jack Freebies" src="http://genuine-savings.com/c0105_0001c0001" width="224" height="370" border="0" style="display:block; margin:0px; padding:0px;" />
+</a>
+</td>
+</tr>
+
+
+</table>
+</div>
+
+</td>
+</tr>
+</table>
+
+<center><div style="font-family: arial, 'trebuchet ms', Helvetica, sans-serif; font-size: 10px; color: #333333; text-align: center; width: 480px;">
+We hope you enjoyed receiving this email. Should you no longer wish to receive emails from this company,
+ <a href="http://genuine-savings.com/unsub?s1=436030&newunsub=1" target="_blank">visit this link</a> to unsubscribe.<br>
+</div></center>
+
+<br/>
+<center>
+<font size="2" face="Arial">
+The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+<a href="http://genuine-savings.com/unsub?s1=436030&newunsub=1"  target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br>
+</font>
+<img src="http://genuine-savings.com/adv" border="0" alt="" style="max-width:100</center>
+
+<div style="color:white; background-color:white; font-size:8px;">
+
+</div>
+
+<img alt="" src="http://genuine-savings.com/record.php?s1=436030&s2=O000005152811_1965&s3=1501071142&S4=213485" width="1" height="1" border="0" /></body>
+</html>
+
+------=_Part_1179664_1989145601.1420623774302--
+
+------=_Part_1179663_1086573606.1420623774302--
+

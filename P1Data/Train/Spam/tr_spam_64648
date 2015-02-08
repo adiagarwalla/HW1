@@ -1,0 +1,455 @@
+From @..  Wed Jan 21 08:48:31 2015
+Return-Path: <@..>
+X-Original-To: tomrickard@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 80F62DE; Wed, 21 Jan 2015 08:48:31 +0000 (UTC)
+Received: from so254-63.mailgun.net (so254-63.mailgun.net [198.61.254.63])
+    by .. with SMTP id euc7kmke35s67dtdxn3bdnya7a;
+    for tomrickard@fs.net;
+    Wed, 21 Jan 2015 08:48:31 +0000 (UTC)
+    (envelope-from bounce+00b3a7.b6fad-tomrickard=fs.net@bold-buys.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.63;
+    envelope-from=<bounce+00b3a7.b6fad-tomrickard=fs.net@bold-buys.com>;
+    helo=so254-63.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.63; client-port=47349;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.131 162.209.19.165;
+    network-path-time=1421830111
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=bold-buys.com; q=dns/txt;
+ s=krs; t=1421830094; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=MRCZmCerEwj8AgqSStB6s6ToCBhWjjmjN0lsATMSOc0=; b=k4k2fkKflPrYWIFaXVEwD/bCna0FnGXs2KSkc4M6rKq9TNusOKZhXKYBiEZH6V/4R+395ZXh
+ 0VFazVoMhE+gQoNv90+vkRwELuGE8S8NEDZPw16vGWO/lRd2M89gvGQcHDnbrxF3sAAFyViV
+ rTkDeFSV1R9m9WuCBLv5x3zCBG4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=bold-buys.com; s=krs;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=Pf/I+5i9GLWlm3Zpf+lctWR0YySB4NyKXYstYlncefn4mwFPMNWymay5hwsP03huTxMExB
+ 6Kd5IV8Fwk2kR8/7GJnuPhW/hHEhk8qd4wC+dn1eOdhZHNh0F6Fa6xuZj9avjqn3pgd9L4+V
+ cA2j49bWoc3m4XYV2NvZMtOtKMr/0=
+Received: from mail.bold-buys.com (bold-buys.com [78.47.71.170]) by
+ mxa.mailgun.org with ESMTP id 54bf67c5.7f821c7863e8-in7; Wed, 21 Jan 2015
+ 08:48:05 -0000 (UTC)
+Received: from mail.bold-buys.com (localhost [127.0.0.1])	by
+ mail.bold-buys.com (Postfix) with ESMTP id 30FF71EED39	for
+ <tomrickard@fs.net>; Wed, 21 Jan 2015 10:48:04 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=bold-buys.com;	s=dkim;
+ t=1421830084;	bh=MRCZmCerEwj8AgqSStB6s6ToCBhWjjmjN0lsATMSOc0=;	h=Date:From:To:Subject:From;	b=Opz+QMbKMHCNxEY/88KDlqy8fv7uh3NhM4kTNOazhOSNcOew10wpxQPTyOYoxLOpt	
+ yWTvy7/rr/bIvg6sRnmw2mI+/VD+awVhjxtojv/aXhAxdRNH3CiQUmsratomt1jHvx	
+ 7YMafwHXLFHL4TcgyBpfnx/a15/WMLoDlCfj+Cqk=
+Date: Wed, 21 Jan 2015 10:48:04 +0200 (EET)
+From: Gas Engineering Courses <@..>
+To: "tomrickard@fs.net" <@..>
+Message-Id: <1288224240.1332392.1421830084199.JavaMail.root@mail.bold-buys.com>
+Subject: Fed up with the 9 to 5 grind? Take control of your career
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1332390_1623409412.1421830084194"
+X-Mailgun-Sid: WyJhZTlhMSIsICJ0b21yaWNrYXJkQGZzLm5ldCIsICJiNmZhZCJd
+Sender: @..
+
+------=_Part_1332390_1623409412.1421830084194
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1332391_862252349.1421830084194"
+
+------=_Part_1332391_862252349.1421830084194
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+TradeCareer. This message contains useful information. If your e-mail provi=
+der blocks the images, please enable them for a complete preview. See where=
+ becoming a trades professional can take you?? Enrol in trades courses and =
+become your own boss Request Career Info?? *Not available in Scotland. Mini=
+mum age requirement is 17 years. See where becoming a trades professional c=
+an take you?? Career options: Enrol in trades courses and become your own b=
+oss Request Career Info?? *Not available in Scotland. Minimum age requireme=
+nt is 17 years. We hope you enjoyed receiving this email. Should you no lon=
+ger wish to receive emails from this company, visit this link to unsubscrib=
+e. The advertiser does not manage your subscription. If you prefer not to r=
+eceive further communication, here is the way to stop receiving emails. P.O=
+. Box 13629, 10310 Athens - Greece will, of course, perceive the necessity =
+of checking this growing evil;for this man went away with very unfavourable=
+ impressions concerningour country, and would, no doubt, prejudice many aga=
+inst us, and makethem suppose we are worse than we are.Nearly allied to thi=
+s is, "Pray remember poor Guy Faux;" which notonly teaches children the art=
+ of begging, but is frequently the meansof their becoming dishonest, for I =
+have known children break downfences, and water-spouts, and, in short, any =
+thing that they could laytheir hands upon, in order to make a bonfire, to t=
+he great danger ofthe inhabitants near it, without producing one good effec=
+t. Yet howeasily might this practice be put down. The ill effects of it are=
+ soself-evident, that there can be no need for further enlargement.I also d=
+isapprove of children going about begging at Christmas; thispractice is cal=
+culated to instil into the children's minds a principleof meanness not beco=
+ming the English character, and the money theyget, seldom, if ever, does th=
+em any good. If persons choose to givechildren any thing at this time of th=
+e year, there can be no objectionto it, but I dislike children going about =
+to ask for money like commonbeggars; it cannot be proper, and should be gen=
+erally discountenanced.All these things, to some men, may appear trifling, =
+but to me andothers they are of consequence; for if we mean to improve the =
+generalcharacter of the labouring population, there is nothing like beginni=
+ngin time; and we should, amongst other things, get rid of all mean andimpr=
+oper customs.Before concluding this chapter I would hint to travellers not =
+to givechildren money for running after a coach. I have seen children of bo=
+thes run until their breath failed, and, completely exhausted, dropdown on =
+the grass; merely because some injudicious persons had thrownhalfpence to t=
+hem. I have also seen little boys turn over and overbefore the horses, for =
+the purpose of getting money, to the danger oftheir own lives and of the pa=
+ssengers; and I recollect an instance ofone boy being, in consequence, kill=
+ed on the spot. In some countieschildren will, in spring and summer, run af=
+ter a carriage with flowersupon a long stick, thrusting it in the coach or =
+the faces of thetravellers, begging halfpence, which habit had been taught =
+them by thesame injudicious means.
+------=_Part_1332391_862252349.1421830084194
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>TradeCareer. </title>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+</head>
+
+<body>
+
+<p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+This message contains useful information. If your e-mail provider blocks th=
+e images, <br> please enable them for a complete preview.
+</p> =20
+
+<style type=3D"text/css">
+
+@media only screen and (max-width:320px),
+only screen and (max-device-width:320px)
+{
+/* - - - - - HOTMAIL FIXES*/
+.ReadMsgBody
+{
+=09width: 100}
+ExternalClass
+{
+=09width: 100}
+a[href^=3D"tel"], a[href^=3D"sms"]
+{
+=09text-decoration:none;
+=09color:#9ec459; /* or whatever your want */
+=09pointer-events:none;
+=09cursor:default;
+}
+table[id=3Dcontainer]
+{
+=09-webkit-text-size-adjust:100}
+
+div[id=3Dmobile]
+{
+=09display:block !important; width:100 max-height:inherit !important; overflow:visible !important;
+}
+
+div[id=3Ddesktop]
+{
+=09display:none !important; width:0px !important; max-height:0px !important=
+; overflow:hidden !important; padding:2px !important; margin:0px !important=
+;
+}
+}=09
+</style>
+
+<table id=3D"container" style=3D"font-family:Arial;" align=3D"center" width=
+=3D"98<tr>
+<td align=3D"center">=09
+<!-- DESKTOP -->
+<div id=3D"desktop" style=3D"display:block; width:100erflow:visible; padding:2px; ">
+
+<table width=3D"100pacing=3D"0">
+
+<tr>
+<td align=3D"center">
+<table width=3D"650">
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002f0001" width=3D"257" height=3D"9=
+8" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping to Cra=
+ft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+<td align=3D"center" width=3D"443">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank" style=3D"text-deco=
+ration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+See where becoming a trades professional<br/> can take you&nbsp;&raquo;
+</span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0002" width=3D"650" height=3D"3=
+15" border=3D"0" alt=3D"Work For Yourself" title=3D"Work For Yourself" styl=
+e=3D" display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0003" width=3D"650" height=3D"1=
+82" border=3D"0" alt=3D"Learn More" title=3D"Learn More" style=3D"display:b=
+lock;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0004" width=3D"650" height=3D"2=
+56" border=3D"0" alt=3D"Career Options" title=3D"Career Options" style=3D"d=
+isplay:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:normal; font-size:25px;">
+Enrol in trades courses and become your own boss
+</span>
+</td>
+</tr>
+
+<tr>
+</td>
+<td align=3D"center">
+<br/>
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank" style=3D"text-deco=
+ration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold; width:300px;">
+Request Career Info&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#dddddd" style=3D"font: norm=
+al 12px Arial, Helvetica, sans-serif; color:#888888; line-height:12px; padd=
+ing-top:20px; text-align:center;">
+&#42;Not available in Scotland&#46;  Minimum age requirement is &#49;&#55; =
+years&#46;<br /><br />
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- MOBILE -->=09=09=09=09=09=09=09=09=09=09
+<!--div id=3D"mobile" style=3D"display:block !important; width:100ant; height:auto !important; max-height:inherit !important; overflow:visibl=
+e !important;"-->
+<div id=3D"mobile" style=3D"display:none; width:0px; max-height:0px; overfl=
+ow:hidden; padding:2px; ">
+
+<table align=3D"center" width=3D"300" cellpadding=3D"0" cellspacing=3D"0">=
+=09
+
+<tr>
+</td>
+<td align=3D"center">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank" style=3D"text-deco=
+ration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+See where becoming<br/> a trades professional<br/> can take you&nbsp;&raquo=
+;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002f0001" width=3D"257" height=3D"9=
+8" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping to Cra=
+ft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0051" width=3D"300" height=3D"2=
+52" border=3D"0" alt=3D"Helping to Craft Your Trade" title=3D"Helping to Cr=
+aft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:bold; font-size:30px; color:#ff8311;">
+Career options:
+</span>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0052" width=3D"240" height=3D"1=
+59" border=3D"0" alt=3D"Electrician - Plumber" title=3D"Helping to Craft Yo=
+ur Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0053" width=3D"240" height=3D"1=
+59" border=3D"0" alt=3D"Green Energy and Gas Engineer" title=3D"Helping to =
+Craft Your Trade" style=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top">
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank">
+<img src=3D"http://bold-buys.com/c0001_0002c0054" width=3D"118" height=3D"1=
+44" border=3D"0" alt=3D"Welder" title=3D"Helping to Craft Your Trade" style=
+=3D"display:block;margin:0px; padding:0px;"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center">
+<span style=3D"font-weight:normal; font-size:22px;">
+Enrol in trades courses and become your own boss
+</span>
+</td>
+</tr>
+
+<tr>
+</td>
+<td align=3D"center">
+<br/>
+<a href=3D"http://bold-buys.com/?a=3D488&c=3D213&s1=3D430001&s2=3DO00001741=
+6340_1989&s3=3D1501211048&S4=3D219131" target=3D"_blank" style=3D"text-deco=
+ration:none;">
+<span style=3D"padding:10px; text-align:center; background:#f29e00; color:#=
+000000; border-radius:3px; display:block; font-weight:bold;">
+Request Career Info&nbsp;&raquo;
+</span>
+</a>
+<br/>
+</td>
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#dddddd" style=3D"font: norm=
+al 12px Arial, Helvetica, sans-serif; color:#888888; padding:20px; text-ali=
+gn:center;">
+&#42;Not available in Scotland&#46;  Minimum age requirement is &#49;&#55; =
+years&#46;
+</td>
+</tr>
+
+</table>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 10px; c=
+olor: #333333; text-align: center;">
+We hope you enjoyed receiving this email. Should you no longer wish to rece=
+ive emails from this company,=20
+<a href=3D"http://bold-buys.com/unsub?s1=3D430001&newunsub=3D1" target=3D"_=
+blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size=3D"2" face=3D"Arial">
+The advertiser does not manage your subscription. If you prefer not to rece=
+ive further communication,<br>
+<a href=3D"http://bold-buys.com/unsub?s1=3D430001&newunsub=3D1"  target=3D"=
+_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310=
+ Athens - Greece<br>
+</font>
+<img src=3D"http://bold-buys.com/adv" border=3D"0" alt=3D"" style=3D"max-wi=
+dth:100<img alt=3D"" src=3D"http://bold-buys.com/record.php?s1=3D430001&s2=3DO0000=
+17416340_1989&s3=3D1501211048&S4=3D219131" width=3D"1" height=3D"1" border=
+=3D"0" />
+</center>
+
+<div style=3D"color:white; background-color:white; font-size:8px;">
+will, of course, perceive the necessity of checking this growing evil;for t=
+his man went away with very unfavourable impressions concerningour country,=
+ and would, no doubt, prejudice many against us, and makethem suppose we ar=
+e worse than we are.Nearly allied to this is, "Pray remember poor Guy Faux;=
+" which notonly teaches children the art of begging, but is frequently the =
+meansof their becoming dishonest, for I have known children break downfence=
+s, and water-spouts, and, in short, any thing that they could laytheir hand=
+s upon, in order to make a bonfire, to the great danger ofthe inhabitants n=
+ear it, without producing one good effect. Yet howeasily might this practic=
+e be put down. The ill effects of it are soself-evident, that there can be =
+no need for further enlargement.I also disapprove of children going about b=
+egging at Christmas; thispractice is calculated to instil into the children=
+'s minds a principleof meanness not becoming the English character, and the=
+ money theyget, seldom, if ever, does them any good. If persons choose to g=
+ivechildren any thing at this time of the year, there can be no objectionto=
+ it, but I dislike children going about to ask for money like commonbeggars=
+; it cannot be proper, and should be generally discountenanced.All these th=
+ings, to some men, may appear trifling, but to me andothers they are of con=
+sequence; for if we mean to improve the generalcharacter of the labouring p=
+opulation, there is nothing like beginningin time; and we should, amongst o=
+ther things, get rid of all mean andimproper customs.Before concluding this=
+ chapter I would hint to travellers not to givechildren money for running a=
+fter a coach. I have seen children of bothes run until their breath failed,=
+ and, completely exhausted, dropdown on the grass; merely because some inju=
+dicious persons had thrownhalfpence to them. I have also seen little boys t=
+urn over and overbefore the horses, for the purpose of getting money, to th=
+e danger oftheir own lives and of the passengers; and I recollect an instan=
+ce ofone boy being, in consequence, killed on the spot. In some countieschi=
+ldren will, in spring and summer, run after a carriage with flowersupon a l=
+ong stick, thrusting it in the coach or the faces of thetravellers, begging=
+ halfpence, which habit had been taught them by thesame injudicious means.
+</div>
+
+</body>
+</html>
+------=_Part_1332391_862252349.1421830084194--
+
+------=_Part_1332390_1623409412.1421830084194--
+

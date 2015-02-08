@@ -1,0 +1,27 @@
+From @..  Wed Jan  7 09:38:42 2015
+Return-Path: <@..>
+X-Original-To: dtib@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 30926DE; Wed,  7 Jan 2015 09:38:42 +0000 (UTC)
+Received: from 143.215.250.87 (195.200.64.2 [195.200.64.2])
+    by .. with SMTP id 2peu6p5y4irqd47qpkqgiqxkjn;
+    Wed, 07 Jan 2015 09:38:41 +0000 (UTC)
+    (envelope-from ajtfuedhsgtd@bandpromo.ca)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.200.64.2; envelope-from=<ajtfuedhsgtd@bandpromo.ca>;
+    helo=143.215.250.87; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.200.64.2; client-port=36624;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; colon-space;
+    network-hops=13; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 63.146.27.198 80.91.248.138
+    62.115.139.42 62.115.137.215 80.239.135.58 80.93.127.193 80.93.125.66
+    195.200.64.2; network-path-time=1420623519; RBL=bl..net
+    (127.0.0.2), dnsbl.sorbs.net (127.0.0.6 127.0.0.7), zen..org
+    (127.0.0.3 127.0.0.4), cbl.abuseat.org (127.0.0.2)
+Received: from 160.149.164.187 by 143.215.250.87; Wed, 07 Jan 2015 15:35:46 +0600
+Message-ID: <X[20
+Date: Wed,  7 Jan 2015 09:38:42 +0000 (UTC)
+From: @.. (root)
+

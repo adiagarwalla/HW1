@@ -1,0 +1,621 @@
+From @..  Tue Jan 13 07:12:06 2015
+Return-Path: <@..>
+X-Original-To: roseandcrowncharlton@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 23330DE; Tue, 13 Jan 2015 07:12:06 +0000 (UTC)
+Received: from o1678922x90.outbound-mail.sendgrid.net (o1678922x90.outbound-mail.sendgrid.net [167.89.22.90])
+    by .. with SMTP id 49dxeng2crhjcknta6ewqvipmi;
+    for roseandcrowncharlton@fs.net;
+    Tue, 13 Jan 2015 07:12:05 +0000 (UTC)
+    (envelope-from bounces+1335981-77aa-roseandcrowncharlton=fs.net@sendgrid.info)
+Received-SPF: Pass; receiver=..;
+    client-ip=167.89.22.90;
+    envelope-from=<bounces+1335981-77aa-roseandcrowncharlton=fs.net@sendgrid.info>;
+    helo=o1678922x90.outbound-mail.sendgrid.net;
+    mechanism=include:sendgrid.net (include:sendgrid.biz (ip4:167.89.0.0/17 ->
+    pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=167.89.22.90; client-port=7542;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 154.54.13.29
+    154.54.0.161 154.54.29.118 154.54.7.54 154.54.27.170 154.54.0.114
+    154.24.14.106; network-path-time=1421133125
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.me; 
+	h=content-type:mime-version:content-transfer-encoding:from:to:subject:list-unsubscribe; 
+	s=smtpapi; bh=tuBua0xJGpkvmmcXAexupTjjfA8=; b=KdiMbgc7842v6n7FCM
+	MQb/rX3S06SjaO/8jyAdtJCylg8nMiHEan5jTHbnOYXt5pBCPYr7IpBYuBBJ5Vpx
+	O5NaFNRkA38bgt/wxhsdWsNGODgC+scbz4tEeBQmjCqnsYH8LQiwwJ1KiON69pQK
+	0c6AioznkZVileJaH+uHk6ffI=
+Received: by filter0178p1mdw1.sendgrid.net with SMTP id filter0178p1mdw1.15341.54B4C50B3
+        2015-01-13 07:11:07.803544783 +0000 UTC
+Received: from MTMzNTk4MQ (unknown [81.89.143.53])
+	by ismtpd-035 (SG) with HTTP id 14ae221b52c.7746.7503d2
+	for <dailyspecials@mjseafood.com>; Tue, 13 Jan 2015 07:11:07 +0000 (UTC)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: M&J Seafood <@..>
+To: @..
+Subject: Daily specials January 13th from Aylesbury Branch
+Message-ID: <14ae221b52c.7746.7503d2@ismtpd-035>
+Date: Tue, 13 Jan 2015 07:11:08 +0000 (UTC)
+List-Unsubscribe: <https://u1335981.ct.sendgrid.net/wf/unsubscribe?upn=EqkDk23pxnRUc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLYXgRequ3x5kEbUJsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1AEYM2bJWcVKT2bpDYyOd6vKq26jFq2NE86RfrwfIclA1plzaFVyivAGlNU24N5jDF1-2FTqMSI2TZ-2Fim7yIzp2FeaZzUV-2BGrfdd2VWZT7jHtHl6eJWhDXfxXBtXP6oCzpl1a581RsA8dGy7lW1d27zWQ3pv1TS159rYLTS-2BDs1X74P8wK8oKalXXw3hHGEdSWBp>, <mailto:unsubscribe@sendgrid.info?subject=https://u1335981.ct.sendgrid.net/wf/unsubscribe*q*upn=EqkDk23pxnRUc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLYXgRequ3x5kEbUJsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1AEYM2bJWcVKT2bpDYyOd6vKq26jFq2NE86RfrwfIclA1plzaFVyivAGlNU24N5jDF1-2FTqMSI2TZ-2Fim7yIzp2FeaZzUV-2BGrfdd2VWZT7jHtHl6eJWhDXfxXBtXP6oCzpl1a581RsA8dGy7lW1d27zWQ3pv1TS159rYLTS-2BDs1X74P8wK8oKalXXw3hHGEdSWBp>
+X-SendGrid-Contentd-ID: {"test_id":"1421133069"}
+X-SG-EID: v1D6iNG7wnKUp8Fq9RpqXEdP/0kxVRgftZcYOY/4fpE0m28ko0gbKOUoDTxzfBqeEnPTfv24+lKa+h
+ t6iUnhEUfrrEcJ1hWFhM/iRqHHzLei2RUHWlRyKnbdEn3C8o3GIZ/VXGw8W5Gh62zX5983hb6iKTTU
+ dkkL0PMYsqOY88iF6ecxW2I6zTb09RC9aAs+
+X-SG-ID: 0TR6qjlD9QQHf3xnnOf1we3OguYK515/c0n8B1kS3T0viKAypaSfBTU6knpF8YACnq+J9qZwPy9CGQ
+ Q2g40huDxpBxN18NDvO0kaeNLlqoM=
+
+<!DOCTYPE html>
+<html lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset=3D"utf-8" />
+    <title></title>
+    <style type=3D"text/css">
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        td, th, p, li {
+            font-family: 'Courier New', courier, arial, sans-serif;
+            font-size: 14px;
+        }
+
+        td {
+            vertical-align: top;
+        }
+
+        p {
+            margin-bottom: 8px;
+            margin-top: 0;
+        }
+
+        img {
+            display: block;
+        }
+
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 0;
+        }
+
+        .twentyleft {
+            width: 22px;
+            background-color: #E1E3E0;
+        }
+
+        .twentyright {
+            width: 21px;
+            background-color: #E1E3E0;
+        }
+    </style>
+    <!--[if IE 7]>
+        <style type=3D"text/css">
+            .twentyleft {
+                width: 20px !important;
+            }
+            .twentyright {
+                width: 20px !important;
+            }
+        </style>
+    <![endif]-->
+    <!--[if (IE 8)&(IE 9)]>
+        <style type=3D"text/css">
+            .twentyleft {
+                width: 21px !important;
+            }
+        </style>
+    <![endif]-->
+    <!--[if lte mso 14]>
+    <style type=3D"text/css">
+        .twentyleft {
+                width: 20px !important;
+            }
+            .twentyright {
+                width: 20px !important;
+            }
+    </style>
+<![endif]-->
+
+</head>
+<body><form action=3D"/campaignsajax/SaveContent/?TemplateId=3D8&CampaignId=
+=3D4308&ThemeId=3D464" method=3D"post" id=3D"form1">
+    <table align=3D"center" style=3D"width: 600px;">
+        <tr class=3D"hide-online">
+            <td style=3D"vertical-align: top; text-align: left; width: 600p=
+x;" width=3D"600">
+               <p style=3D"font-family:'Courier New', courier, arial, sans-=
+serif;font-size: 12px;">Can't see this email? <a href=3D"https://u1335981.c=
+t.sendgrid.net/wf/click?upn=3DwFF6VjFEs7UVzG5gEyr0luFVz5k1yQYqJjtrMApw8gzcq=
+t3s5p2SnyfWDkZfI5BK7DJarkaqXQKEptqPxYKXZHKf6ChJYN93REFCwI8HNZ-2FFEKWRe7wgUE=
+6C-2FexRHzoRhzrbuAD7nC06XjAD6Rhvmr6fhqtP1VnjWQlQodguGtEBnGYLIKwcUiNuRoPhTPM=
+m_EqkDk23pxnRUc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLY=
+XgRequ3x5kEbUJsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1A6Iuoh6=
+P0IMV4UWie4ZA7aB9vXmewfXsMdkyIE8EiMOxXQnEvNwBWF-2FPn-2FXyTMVb5LXxzcytfAt8Sa=
+Xa1DktAfME3hwPx3-2Bm2-2BEpvuMPdjfurSonRuLxhFxMRUJPswzWq-2Fw4oYmd8RdhtgrAli-=
+2FkdQwUaQpwxlxQNEwmozDov46mLosVOcNjmwv2hAUa53gQE">Click here</a>=C2=A0to vi=
+ew online.=20
+                Please do not reply to this email=C2=A0to place your order.=
+</p>
+            </td>
+        </tr>
+        <tr>
+            <td style=3D"height: 209px; width: 600px; vertical-align: top;"=
+ width=3D"600">
+                <img src=3D"https://lmp.mjseafood.com/Templates/daily-speci=
+als/themes/464/header.jpg" alt=3D"Header Image" />
+                <!--<img src=3D"https://lmp.mjseafood.com/Templates/daily-s=
+pecials/images/LMP_Template_Header.jpg" alt=3D"Header Image" />-->
+            </td>
+        </tr>
+        <tr>
+            <td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <table>
+                    <tr>
+                       <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"width: 32px; height: 261px;background-=
+color: #F3F3F3" width=3D"261">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Image_Left.jpg" alt=3D"" />
+                        </td>
+                        <td style=3D"height: 261px; width: 221px;background=
+-color: #F3F3F3" width=3D"221">
+                            <table style=3D"height: 261px; width: 221px;">
+                                <tr>
+                                    <td style=3D"width: 221px; height: 45px=
+;" width=3D"221">
+                                        <img src=3D"https://lmp.mjseafood.c=
+om/Templates/daily-specials/images/LMP_Template_Image_Top.jpg" alt=3D"" /><=
+/td>
+                                </tr>
+                                <tr>
+                                    <td style=3D"width: 221px; height: 170p=
+x;" width=3D"221">
+                                        <img src=3D"https://lmp.mjseafood.c=
+om//Image?ImageUrl=3D635437126814306377.JPG&Width=3D300&Height=3D0" alt=3D"=
+Product Image" class=3D"product-image" data-code=3D"FBW180" style=3D"width:=
+ 221px; height: 170px;" width=3D"221" height=3D"170" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D"width: 221px; height: 46px=
+;" width=3D"221">
+                                        <img src=3D"https://lmp.mjseafood.c=
+om/Templates/daily-specials/images/LMP_Template_Image_Bottom.jpg" alt=3D"" =
+/>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td style=3D"width: 27px; height: 261px; background=
+-color: #F3F3F3" width=3D"261">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Image_Right.jpg" alt=3D"" />
+                        </td>
+                        <td style=3D"width: 36px; height: 261px; background=
+-color: #F3F3F3" width=3D"261"></td>
+                        <td style=3D"vertical-align: bottom; width: 203px; =
+height: 261px; background-color: #F3F3F3" width=3D"261">
+                            <table>
+                                <tr>
+                                    <td style=3D"width: 198px; height: 78px=
+" width=3D"198">
+                                        <img src=3D"https://lmp.mjseafood.c=
+om/Templates/daily-specials/images/LMP_Template_Description_Top.jpg" alt=3D=
+"" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D"width: 198px; height: 180p=
+x; background-color: #F3F3F3" width=3D"198">
+                                        <p style=3D"font-weight: bold; font=
+-size: 18px;">Fresh Whole Brill - 1.8-2.5kg</p>
+                                        <p style=3D"line-height: 18px;">Who=
+le Brill 2-3kg fished of f the South Coast and caught by the Trevessa </p>
+                                        <p style=3D"color: #d2232b; font-si=
+ze: 24px; font-weight: bold;">&pound;13.69/kg</p>
+                                        <p style=3D"color: #000; font-size:=
+ 12px; font-weight: normal;">(Code: FBW180)</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td style=3D"width: 41px; height: 261px; background=
+-color: #F3F3F3" width=3D"41"></td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Fresh Cod Fillets - 908-1810g</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">L=
+arge 2-4lb Cod Fillet ideal for cutting into portions </p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FCK999)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;10.69/kg</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Fresh Whole John Dory - 0.9-1.8kg</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">S=
+outh Coast John Dory 1-2kg </p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FJD999)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;15.99/kg</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Fresh Whole Grey Mullet - 800g+</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">W=
+hole fresh Grey Mullet from France </p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FMG800)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;5.89/kg</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Fresh Whole Hake - 2.5kg+</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">W=
+hole fresh Hake 2-3kg ideal for filleting </p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FHW250)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;7.99/kg</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Fresh Swordfish Supr=C3=AAmes - 140-1=
+70g</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">L=
+ine-caught as a bycatch from Tuna fishing in the Indian Ocean, Swordfish is=
+ great with an apple sauce flavoured with chilli and lemongrass</p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FSW155)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;2.15/each</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Arctic Char portion - 140-170g</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">O=
+ur Artic Char is farmed in low stocked densities in Iceland. close relative=
+ to Salmon and Trout</p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: FACH5E)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;1.99/each</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"background-color: #F3F3F3; width: 360p=
+x; height: 98px; padding-left: 2em;" width=3D"360">
+                            <p style=3D"color: #4d4d4d; font-size: 16px; fo=
+nt-weight: bold; margin-top: 0.25em;">Frozen Salmon Supr=C3=AAmes (skin-on,=
+ boneless) - 140-170g</p>
+                            <p style=3D"font-size: 14px; color: #4d4d4d;">S=
+kin-on, boneless supr=C3=AAmes of Atlantic Salmon</p>
+                            <p style=3D"color: #000; font-size: 12px; font-=
+weight: normal;">(Code: P35018)</p>
+                        </td>
+                        <td style=3D"background-color: #F3F3F3; width: 200p=
+x; height: 98px;" width=3D"200">
+                            <p style=3D"color: #d2232b; font-size: 20px; fo=
+nt-weight: bold; padding-top: 1em; padding-left: 1em">&pound;15.00/10ptn</p>
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td width=3D"560">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/images/LMP_Template_Rule_Space.jpg" alt=3D"" />
+                        </td>
+                        <td class=3D"twentyright" width=3D"20"></td>
+                        </tr>
+                </table>
+            </td>
+        </tr>
+=20=20=20=20=20=20=20=20
+        <tr>
+            <td style=3D"background-color: #F3F3F3;">
+                <table>
+                    <tr>
+                        <td class=3D"twentyleft" width=3D"20"></td>
+                        <td style=3D"width:275px" width=3D"275">
+                            <img src=3D"https://lmp.mjseafood.com/Templates=
+/daily-specials/themes/464/footer.jpg" alt=3D"Footer Image" />
+                        </td>
+                        <td style=3D"width:285px" width=3D"285">
+                            <p style=3D"color:#d2232b; font-weight: bold; f=
+ont-size: 34px;margin-top:35px; font-family: 'Courier New', courier, arial,=
+ sans-serif;">01296 310 700</p>
+                        </td>
+                         <td class=3D"twentyright" width=3D"20"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width=3D"600">
+                <img src=3D"https://lmp.mjseafood.com/Templates/daily-speci=
+als/images/LMP_Template_Footer.jpg" alt=3D"" />
+            </td>
+        </tr>
+        <tr class=3D"hide-online">
+            <td>
+                <p style=3D"text-align: left; margin-top: 10px; color: #999=
+; font-size: 10px;">&copy; M&amp;J Seafood 2014 | <a href=3D"https://u13359=
+81.ct.sendgrid.net/wf/click?upn=3D5KzvaIloHzUCP4bGbwE4dFVORgWaZMekNOEXs3CUa=
+BVzkx540Etn61JZiAYcYf0yyrW3UdiUQNW-2BTyfsz-2FdjYw-3D-3D_EqkDk23pxnRUc8v5l7-=
+2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLYXgRequ3x5kEbUJsX0aRFq=
+Vg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1AonXzTCkFa3G9yQq4tIML-2BRC1v=
+Va6fB06C236U2tw-2FEO5zUFCG8BnqF-2B0eH-2FLypj9yo84t7AREs-2BFHOQpnuTsCR1fMlDT=
+R-2FE4F66ZFzfYk41x08qvngMcKNCuT-2BMpg3zs-2F4iSS-2B4qFi4IlmGgwjN356Dy5zyXdnM=
+1M1H631vyZQcQoEGtz17BFlFwgbtJ5xPB" style=3D"font-family: arial, sans-serif;=
+ color: #999;">Legal disclaimer</a> | <a href=3D"https://u1335981.ct.sendgr=
+id.net/wf/click?upn=3D5KzvaIloHzUCP4bGbwE4dFVORgWaZMekNOEXs3CUaBV1IkGYMcC7-=
+2FFTMsn4Luvis_EqkDk23pxnRUc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyR=
+aonPO-2BcpLYXgRequ3x5kEbUJsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt=
+-2Be1Aobba1hkIO8JGJnI-2BwFpV3g2llQjc5M7vgZO93FXtd5BWLCAMegmIEpG1j9GYGzzW9O0=
+iudKmkQki4eLfEtOQYi2rXWPgQ5-2FEHTnNs1-2Fg3Kr7vLyE9in9FnjYd8SGfCGgWQm5R4QTkT=
+4XcpLS6pMQFGdi-2Bl-2BHCVbr0oM4aXzzD9jcSwa1XBP5XrOU6ORnnTw7" style=3D"font-f=
+amily: arial, sans-serif; color: #999;">Privacy policy</a> | <a href=3D"htt=
+ps://u1335981.ct.sendgrid.net/wf/click?upn=3D5KzvaIloHzUCP4bGbwE4dMh3Jb-2FM=
+VDZJj8-2F4brBFlWCeUEn4IK3l9koegzydOo4s8n7b3kYEBQnUvb8nRfEAq8Mn70ih-2FH2FNx2=
+y-2BWV-2BkKM-3D_EqkDk23pxnRUc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKc=
+yRaonPO-2BcpLYXgRequ3x5kEbUJsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBL=
+Nt-2Be1AqbwwJYrnvj0HaBo3R6r8wMhvth-2FX3mLYUK8zAvjmDSbYjkozySSCVMH53ZaQzrB7P=
+jIO3mRqmClS-2FWCFOIdF6EKNgNAwF9l8HLvT8z-2FZ8SQ7UIPo-2B6jYKA1ZtS31mJbIuXJnfk=
+7eSO9g4TAnP-2BdWR0ZrlQTXzNaiB0ZZYgelE04x-2BXFMNUW-2BuUSXJx3o7Ma2" style=3D"=
+font-family: arial, sans-serif; color: #999;">Standard terms &amp; conditio=
+ns</a></p>
+                <p style=3D"text-align: left; margin-top: 10px; color: #999=
+; font-size: 10px;">M&amp;J Seafood Ltd. Registered office: Enterprise Hous=
+e, Eureka Business Park, Ashford, Kent, TN25 4AG. Registered in England No.=
+ 01750668</p>
+                <p style=3D"text-align: left; margin-top: 10px; color: #999=
+; font-size: 10px;">To unsubscribe from future email communication please <=
+a href=3D"https://u1335981.ct.sendgrid.net/wf/unsubscribe?upn=3DEqkDk23pxnR=
+Uc8v5l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLYXgRequ3x5kEbU=
+JsX0aRFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1A6UMC8Wr3-2BFHs1Tk9d=
+i-2BoORKEd-2BMZEp99W6jRDS0WylsGVxQEsSKRLPhMRe3jZ5IrPOO-2FW9jmLvMYL-2FBFjC5f=
+sVjoZypa68UaEIStXq8nsy-2F1Xd5hn7RmpvTPHJ-2BaIofD0PiKXLQ6tOSkTS29bNMbp0g-2BD=
+hauIAb8AIUS6Kr-2Bqw0JX4gRIJb-2FoKlEcXQw5Pne" style=3D"font-family: arial, s=
+ans-serif; color: #999; text-decoration: none; font-weight: bold;">click he=
+re</a>.</p>
+                <p style=3D"text-align: left; margin-top: 10px; color: #999=
+; font-size: 10px;">Terms & Conditions: M&amp;J Seafood standard terms and =
+conditions apply. Offers are subject to availability and while stocks last.=
+ Normal discounts do not apply to offers. usual minimum order conditions ap=
+ply. Offers only valid for delivery the day following this email being sent=
+ by M&amp;J Seafood. VAT at the standard rate will be charged on products w=
+here applicable.</p>
+            </td>
+        </tr>
+    </table>
+</form>
+<img src=3D"https://u1335981.ct.sendgrid.net/wf/open?upn=3DEqkDk23pxnRUc8v5=
+l7-2BXaLmQ7WK39y-2FakV-2B68H6O2YycnKD3XXeKcyRaonPO-2BcpLYXgRequ3x5kEbUJsX0a=
+RFqVg-2FT0lYl5hkyg-2F4oWbVuKWKYuFp12YNVhSBLNt-2Be1AgUF2XY370WPDxH-2FJnO9j4a=
+uD0A33V0e9DD4crX20O1CPXZ8s9LZKQF4OpFVWjIp-2FC1j-2FRywkvqzzpAC6LPUmax8El4Aqz=
+9AtENrAnSfMhTj8BSV3AGg0DDAzHKNrXBsvtKnluSGYTjqTfTIO4lV04SqUGed2XRtGRa0-2Fin=
+-2FrOnCvOqTYqALh6AQA6Io0bZQc" alt=3D"" width=3D"1" height=3D"1" border=3D"0=
+" style=3D"height:1px !important;width:1px !important;border-width:0 !impor=
+tant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !imp=
+ortant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !=
+important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+

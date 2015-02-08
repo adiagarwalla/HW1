@@ -1,0 +1,97 @@
+From @..  Tue Jan 13 22:51:41 2015
+Return-Path: <@..>
+X-Original-To: cybnaut@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id AB8B1DE; Tue, 13 Jan 2015 22:51:41 +0000 (UTC)
+Received: from mail-we0-f193.google.com (mail-we0-f193.google.com [74.125.82.193])
+    by .. with SMTP id der3x3p4f6usi55mxg9pa7ky96;
+    for cybnaut@fs.net;
+    Tue, 13 Jan 2015 22:51:41 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=74.125.82.193; envelope-from=<>; helo=mail-we0-f193.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=74.125.82.193; client-port=57901;
+    syn-fingerprint=42900:46:0:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 209.85.142.138 209.85.142.59 64.233.174.10
+    216.239.50.227 72.14.242.220 66.249.95.238 74.125.82.193;
+    network-path-time=1421189501; RBL=dnsbl.sorbs.net (127.0.0.6)
+Received: by mail-we0-f193.google.com with SMTP id k11so1393873wes.0
+        for <cybnaut@fs.net>; Tue, 13 Jan 2015 14:51:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type;
+        bh=ObDbHtzOiknhgUvWQhgKR/QBP2ArRBt2yoMShxUpDkM=;
+        b=zv7/WmzojMXsziw3v0z7LnO5UlLJtJN3x3IKaNHehjwDLZ0pnfFiQOJzWWZZxV9Hmt
+         fxsBoqtivabJ4J2RRfX/WesP/39bXGN43VfoWk5JpJ6nw7xKCYFQzJ5JSWV+a6lh+4ih
+         zAUH8tPOesrWU0Hp8JNz11prSHCU+3eOhyLKgQJ8hgxj1gwj5xU4U6g8GQuTPcBjBQCE
+         1DFJYmIrEkiiyu37yf2cPwoRO47TKRm5fJnIrjwU2owY4v0MtYijqMTrwuD+9ZYNlq9j
+         SJpWji2UshkfD/vxZHtB0VPO0vKBl8WYBInWNGYG8DxD/l+lN9sqtDT8ccL4bx3gBT0x
+         JSLg==
+X-Received: by 10.180.37.142 with SMTP id y14mr44975869wij.47.1421189485909;
+        Tue, 13 Jan 2015 14:51:25 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.180.37.142 with SMTP id y14mr27307669wij.47; Tue, 13 Jan 2015
+ 14:51:25 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+Subject: Delivery Status Notification (Delay)
+Message-ID: <e89a8f647387775557050c9076d6@google.com>
+Date: Tue, 13 Jan 2015 22:51:25 +0000
+Content-Type: text/plain; charset=UTF-8
+
+This is an automatically generated Delivery Status Notification
+
+THIS IS A WARNING MESSAGE ONLY.
+
+YOU DO NOT NEED TO RESEND YOUR MESSAGE.
+
+Delivery to the following recipient has been delayed:
+
+     censuresemite@lonelyplanet.com
+
+Message will be retried for 2 more day(s)
+
+----- Original message -----
+
+X-Received: by 10.180.37.142 with SMTP id y14mr34716772wij.47.1421100808001;
+        Mon, 12 Jan 2015 14:13:28 -0800 (PST)
+Return-Path: <cybnaut@fs.net>
+Received: from host-31-193-33-80-dynamic.telecomitaliasm.net (host-31-193-33-80-dynamic.telecomitaliasm.net. [31.193.33.80])
+        by mx.google.com with ESMTP id fz7si38174531wjb.100.2015.01.12.14.13.26
+        for <censuresemite@lonelyplanet.com>;
+        Mon, 12 Jan 2015 14:13:27 -0800 (PST)
+Received-SPF: none (google.com: cybnaut@fs.net does not designate permitted sender hosts) client-ip=31.193.33.80;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: cybnaut@fs.net does not designate permitted sender hosts) smtp.mail=cybnaut@fs.net
+Message-ID: <4AFE85813931FA3D89F2F64E468D4AFE@WDVAQO8UK>
+From: <cybnaut@fs.net>
+To: <censuresemite@lonelyplanet.com>
+Subject: Staff Wanted
+Date: 12 Jan 2015 22:48:27 +0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration on the our site: www.webscareer.com
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+

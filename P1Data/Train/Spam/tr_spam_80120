@@ -1,0 +1,570 @@
+From @..  Tue Jan 13 10:45:53 2015
+Return-Path: <@..>
+X-Original-To: lizdow@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id EE3DDDE; Tue, 13 Jan 2015 10:45:53 +0000 (UTC)
+Received: from so254-156.mailgun.net (so254-156.mailgun.net [198.61.254.156])
+    by .. with SMTP id q7vbgyie4fa4wrzrkpj8j67xw6;
+    for lizdow@fs.net;
+    Tue, 13 Jan 2015 10:45:53 +0000 (UTC)
+    (envelope-from bounce+de0485.9fa4a-lizdow=fs.net@protectedpersons.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.156;
+    envelope-from=<bounce+de0485.9fa4a-lizdow=fs.net@protectedpersons.com>;
+    helo=so254-156.mailgun.net; mechanism=+include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.156; client-port=51577;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.135 162.209.19.163;
+    network-path-time=1421145952
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=protectedpersons.com;
+ q=dns/txt; s=krs; t=1421145935; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=3Xcd6PSpQwzsufhzZE09IxkRRZHO5QdX2n1GoRDNTUs=; b=eWYrvtZp9ljzipM0I5bZ0juzXsbugPWdEpVojbzsCSadXYLf/gWy1rCv+iLoTetb+E0G5aHw
+ KEtpNfm9+YEse7EtzPYneUAnryonDjDgWf9hrylAjVj/n7n2GNsaNdOkNy0i8/3SSmJfmHHs
+ ezzd3MHYLtTUw72bRUwLOaDro2E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=protectedpersons.com;
+ s=krs; q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=VU4myEvDXbF5svG7VsAHoc5g4++sN9yu05OQ+Eq2DNhVG0rT4FTD2uwcGHSVTd7EKOZCZa
+ CeNACiyAQ7eVM1Z2CpfbZTTdPABzzOxYPZtQYB/fNcl4atj5eeMMDnNN0PIgATYhTk+sYOoW
+ Le7ukIkmnCO3+AmDt/hDNY67Uxg68=
+Received: from mail.protectedpersons.com (protectedpersons.com
+ [78.47.203.238]) by mxa.mailgun.org with ESMTP id
+ 54b4f73d.7f2650d3dcf0-in1; Tue, 13 Jan 2015 10:45:17 -0000 (UTC)
+Received: from mail.protectedpersons.com (localhost [127.0.0.1])	by
+ mail.protectedpersons.com (Postfix) with ESMTP id E47F3142CF6	for
+ <lizdow@fs.net>; Tue, 13 Jan 2015 12:45:15 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256;
+ c=relaxed/relaxed;	d=protectedpersons.com; s=dkim;
+ t=1421145915;	bh=3Xcd6PSpQwzsufhzZE09IxkRRZHO5QdX2n1GoRDNTUs=;	h=Date:From:To:Subject:From;	b=j9zoj4NRlgfj+7r5FYXQTer2jUmXaN5NRdNXZid3SgzT9fnQzEhPOLdEeiz5vhWxt	
+ sytGPCz5M42J8PYFVjBjPklVgw4qQDcj0C0CoW19TST5O8inmXwb2BASDk/qJJV2os	
+ iM1WkU+eve4j0u3y+5bhVcRPK5DCafCVhdGkG0iQ=
+Date: Tue, 13 Jan 2015 12:45:15 +0200 (EET)
+From: Credit Card offers <@..>
+To: "lizdow@fs.net" <@..>
+Message-Id: <913199247.2568416.1421145915934.JavaMail.root@mail.protectedpersons.com>
+Subject: Get a Fresh Start with an aqua Card
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2568414_797169241.1421145915932"
+X-Mailgun-Sid: WyIwN2FlZSIsICJsaXpkb3dAZnMubmV0IiwgIjlmYTRhIl0=
+Sender: @..
+
+------=_Part_2568414_797169241.1421145915932
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2568415_2020443501.1421145915932"
+
+------=_Part_2568415_2020443501.1421145915932
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+This message contains useful information. If your e-mail provider blocks th=
+e images, please enable them for a complete preview. Looking for a credit C=
+ard? Apply for Aqua Classic. ? If you can say "Yes" to these questions... L=
+ooking for a credit card? ? Worried about applying or been turned down befo=
+re? ? Want your application to be treated individually? ? Want the chance t=
+o improve your credit rating? ? ...we could say "YES!" to you today. ? Repr=
+esentative 39.9t only available to over 18s resident in the UK and subject to status. Fail=
+ure to make payment on time or to stay within your credit limit may make ob=
+taining credit in the future more expensive and difficult. *Interest rates =
+and credit limits will vary depending on your individual circumstances. Ter=
+ms and conditions apply. Credit is provided by NewDay Ltd. NewDay Ltd and N=
+ewDay Cards Ltd are companies registered in England and Wales with register=
+ed numbers 7297722 and 4134880 respectively and form part of the NewDay gro=
+up of companies. The registered office for these companies is: First Floor,=
+ 11 Tower View, Kings Hill, West Malling, Kent ME19 4RL (until 31/10/2014);=
+ Two Pancras Square, London N1C 4AG (from 01/11/2014). NewDay Ltd and NewDa=
+y Cards Ltd are authorised and regulated by the Financial Conduct Authority=
+ with numbers 0638085 and 0510571 respectively. NewDay Ltd is also authoris=
+ed by the Financial Conduct Authority under the Payment Services Regulation=
+s 2009 (reference number 555318) for the provision of payment services. aqu=
+a is a trademark of NewDay Cards Ltd, which is used under licence by NewDay=
+ Ltd. Looking for a credit Card? Apply for Aqua Classic. If you can say "Ye=
+s" to these questions... Looking for a credit card? ? Worried about applyin=
+g or been turned down before? ? Want your application to be treated individ=
+ually? ? Want the chance to improve your credit rating? ? ...we could say "=
+YES!" to you today. ? Representative 39.9assic? Let's go! ? Credit only available to over 18s resident in the UK and=
+ subject to status. Failure to make payment on time or to stay within your =
+credit limit may make obtaining credit in the future more expensive and dif=
+ficult. *Interest rates and credit limits will vary depending on your indiv=
+idual circumstances. Terms and conditions apply. Credit is provided by NewD=
+ay Ltd. NewDay Ltd and NewDay Cards Ltd are companies registered in England=
+ and Wales with registered numbers 7297722 and 4134880 respectively and for=
+m part of the NewDay group of companies. The registered office for these co=
+mpanies is: First Floor, 11 Tower View, Kings Hill, West Malling, Kent ME19=
+ 4RL (until 31/10/2014); Two Pancras Square, London N1C 4AG (from 01/11/201=
+4). NewDay Ltd and NewDay Cards Ltd are authorised and regulated by the Fin=
+ancial Conduct Authority with numbers 0638085 and 0510571 respectively. New=
+Day Ltd is also authorised by the Financial Conduct Authority under the Pay=
+ment Services Regulations 2009 (reference number 555318) for the provision =
+of payment services. aqua is a trademark of NewDay Cards Ltd, which is used=
+ under licence by NewDay Ltd. The advertiser does not manage your subscript=
+ion. If you prefer not to receive further communication, here is the way to=
+ stop receiving emails. P.O. Box 13629, 10310 Athens - Greece
+------=_Part_2568415_2020443501.1421145915932
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+
+<p style="font-weight:bold; font-family:Arial;" align="center">
+This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.<br/>
+</p>                                                                                                  
+
+<style type="text/css">
+
+@media only screen and (max-width:320px),
+only screen and (max-device-width:320px)
+{
+table[id=container]
+{
+-webkit-text-size-adjust:100}
+
+div[id=mobile]
+{
+display:block !important; width:100}
+
+div[id=desktop]
+{
+display:none !important; width:0px !important; max-height:0px !important; overflow:hidden !important; padding:2px !important; margin:0px !important;
+}
+}		
+
+</style>
+
+<table id="container" style="font-family:Arial;" align="center" width="98<tr>
+<td align="center">
+<!-- DESKTOP -->
+<div id="desktop" style="display:block; width:100<table border="0" cellpadding="0" cellspacing="0" width="100<tr>
+<td valign="top" align="center" bgcolor="#3f464a" style="border-bottom:1px solid #383e42;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" style="display:block; color:#FFFFFF; text-decoration:none; font-weight:500; font-size:25px; padding:5px;" target="_blank">
+Looking for a credit Card?<br/><br/>
+<span style="width:250px; text-decoration:none; font-size:20px; text-align:center; display:block; border:2px #FFFFFF solid; border-radius:5px; padding:15px;  background:#4da8d5;">Apply for Aqua Classic.</span>
+</a>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100<tr>
+<td valign="top" bgcolor="#535c61" align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="568" align="center">
+<tr>
+<td align="left" valign="top" style=" padding:0 0 0 0;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010h00010001" width="568" height="54" style="display:block;  padding:0px; border:0;" alt="aqua card application" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table width="568" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="34">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010002" width="34" height="57" style="display:block;  padding:0px; border:0;" alt="aqua card application" usemap="#map"/>
+</a>
+</td>
+<td valign="top" width="534">
+<table width="534" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="left" width="120">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010001" width="120" height="57" alt="AQUA" style="border:0; display:block;  padding:0px;" usemap="#map" />
+</a>
+</td>
+<td valign="top" align="left" width="414">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010003" width="414" height="57" style="border:0; display:block;  padding:0px;" alt="Aqua card application" usemap="#map"/>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr> 
+<tr>
+<td valign="top" align="center" width="568">
+<table width="562" border="0" cellspacing="0" cellpadding="0" bgcolor="#F2F2F2">	
+<tr>
+<td valign="top" width="20">
+&nbsp;
+</td>
+<td valign="top" width="318">
+<table width="318" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" style="padding:0 0 0 0px; ">
+<table width="318" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-weight:bold; font-size:24px; color:#3b3b3b;  padding:22px 0 0 0;">
+If you can say "Yes"<br />to these questions...
+</td>
+</tr> 
+<tr>
+<td valign="top" style="padding:22px 0 0px 2px; ">
+<table width="316" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" width="17">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block;  padding:0px; border:0;" alt="" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b;  padding:0 0 0 0;">Looking for a credit card?</td>
+</tr>
+<tr>
+<td colspan="2" height="13">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="17">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block;  padding:0px; border:0;" alt="" usemap="#map" />
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b;  padding:0 0 0 0;">Worried about applying or been <br />turned down before?</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" height="11" style="padding:0 0 0 0; ">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="17">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block;  padding:0px; border:0;" alt="" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b; padding:0 0 0 0;">Want your application to be treated individually?</td>
+</tr>
+<tr>
+<td colspan="2" height="12" style="padding:0 0 0 0; ">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="17">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block;  padding:0px; border:0;" alt="" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b; padding:0 0 0 0;">Want the chance to improve your <br />credit rating?</td>
+</tr>
+<tr>
+<td colspan="2" height="12" style="padding:0 0 0 0; ">
+&nbsp;
+</td>
+</tr>
+</table>	
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Geneva, sans-serif; font-weight:bold; font-size:20px; color:#3b3b3b; padding:22px 0 0 0;">...we could say "YES!"<br /> to you today.</td>
+</tr> 
+</table>
+</td>
+</tr> 
+</table>
+</td>
+<td width="222">
+<table width="222" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010004" alt="Aqua card" width="222" height="184" style="display:block;  padding:0px; border:0;" alt="Aqua card application" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank" title="APPLY FOR AQUA CLASSIC TODAY" style="text-decoration:none; border:0; margin:0 0 0; padding:0 0 0;">
+<img src="http://protectedpersons.com/c010c00010006" width="222" height="56" alt="Apply for Aqua Classic today" style="display:block;  padding:0px; border:0;" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table width="222" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="27">
+&nbsp;
+</td>																												
+<td width="195">
+<table width="195" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:10px; color:#5e5e5e; line-height:100</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:34px; font-weight:bold; color:#3b3b3b;  padding:0 0 0 0px;">39.9</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:10px; color:#5e5e5e; line-height:100</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3" height="15">&nbsp;</td>
+</tr>																						
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style=" padding:0 0 0 0;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010f00010002" width="568" height="42" style="display:block;  padding:0px; border:0;" alt="Aqua Card application" usemap="#map"/>
+</a>
+</td>
+</tr> 
+<tr>
+<td align="center">
+<br/>
+<a style=" width:80Apply for Aqua Classic? Let's go!
+</a>
+</td>											
+</tr>
+<tr>
+<td align="center" valign="top" style="padding:5px 0 90px 0; ">
+<table width="400" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style=" padding:0 0 0 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff">
+<b>Credit only available to over 18s resident in the UK and subject to status. Failure to make payment on time or to stay within your credit limit may make obtaining credit in the future more expensive and difficult.</b><br />
+<br />
+*Interest rates and credit limits will vary depending on your individual circumstances. Terms and conditions apply.<br />
+<br />
+Credit is provided by NewDay Ltd. NewDay Ltd and NewDay Cards Ltd are companies registered in England and Wales with registered numbers 7297722 and 4134880 respectively and form part of the NewDay group of companies. The registered office for these companies is: First Floor, 11 Tower View, Kings Hill, West Malling, Kent ME19 4RL (until 31/10/2014); Two Pancras Square, London N1C 4AG (from 01/11/2014). NewDay Ltd and NewDay Cards Ltd are authorised and regulated by the Financial Conduct Authority with numbers 0638085 and 0510571 respectively. NewDay Ltd is also authorised by the Financial Conduct Authority under the Payment Services Regulations 2009 (reference number 555318) for the provision of payment services. aqua is a trademark of NewDay Cards Ltd, which is used under licence by NewDay Ltd.
+</td>
+</tr>
+</table>
+</td>
+</tr> 
+</table>
+</td>
+</tr> 
+</table>
+</div>
+
+<!-- MOBILE -->										
+<!--div id="mobile" style="display:block !important; width:100<div id="mobile" style="display:none; width:0px; max-height:0px; overflow:hidden; padding:2px; ">
+<table border="0" cellpadding="0" cellspacing="0" width="100<tr>
+<td valign="top" align="center" bgcolor="#3f464a" style="border-bottom:1px solid #383e42;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" style="display:block; color:#FFFFFF; text-decoration:none; font-weight:500; font-size:25px; padding:5px;" target="_blank">
+Looking for a credit Card?<br/> <br/>
+<span style="width:250px; text-decoration:none; font-size:20px; text-align:center; display:block; border:2px #FFFFFF solid; border-radius:5px; padding:15px;  background:#4da8d5;">Apply for Aqua Classic.</span>
+</a>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100<tr>
+<td valign="top" align="center" bgcolor="#535c61">
+<table border="0" cellpadding="0" cellspacing="0" width="320" align="center">
+<tr>
+<td align="center" valign="top" style=" padding:0 0 0 0;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010h00010011" width="320" height="54" style="display:block;  padding:0px; border:0;" alt="aqua card application" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<table width="316"  bgcolor="#F2F2F2">
+<tr>
+<td align="center">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010001" width="120" height="57" alt="AQUA" style="border:0; display:block;  padding:0px;" usemap="#map" />
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr> 
+<tr>
+<td valign="top" align="center">
+<table width="316" border="0" cellspacing="0" cellpadding="0" bgcolor="#F2F2F2">	
+<tr>
+<td valign="top">
+<table  border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, sans-serif; font-weight:bold; font-size:24px; color:#3b3b3b; padding-left:10px;">
+<br/>
+If you can say "Yes"<br />to these questions...
+<br/>
+<br/>
+</td>
+</tr> 
+<tr>
+<td valign="top" style="padding-left:10px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top" >
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block; border:0;" alt="Aqua card application" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b;">Looking for a credit card?</td>
+</tr>
+<tr>
+<td colspan="2" height="13">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block; border:0;" alt="Apply for aqua card clasic" usemap="#map" />
+</td>
+<td valign="top" align="left">Worried about applying or been <br />turned down before?</td>
+</tr>
+<tr>
+<td colspan="2" height="11">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block; border:0;" alt="Aqua card" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b;">Want your application to be treated individually?</td>
+</tr>
+<tr>
+<td colspan="2" height="12">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" >
+<img src="http://protectedpersons.com/c010c00010005" width="17" height="16" style="display:block;  padding:0px; border:0;" alt="Aqua card application" usemap="#map"/>
+</td>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:15px; color:#3b3b3b;  padding:0 0 0 0;">Want the chance to improve your <br />credit rating?</td>
+</tr>
+<tr>
+<td colspan="2" height="12" style="padding:0 0 0 0; ">
+&nbsp;
+</td>
+</tr>
+</table>	
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Geneva, sans-serif; font-weight:bold; font-size:20px; color:#3b3b3b;  padding-left:10px;">
+...we could say "YES!"<br /> to you today.
+</td>
+</tr> 
+</table>
+</td>
+</tr> 
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="222" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010c00010004" alt="Aqua card" width="222" height="184" style="display:block; padding:0px; border:0;" alt="Aqua card application" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank" title="APPLY FOR AQUA CLASSIC TODAY" style="text-decoration:none; border:0; padding:0 0 0;">
+<img src="http://protectedpersons.com/c010c00010006" width="222" height="56" alt="Apply for Aqua Classic today" style="display:block; padding:0px; border:0;" usemap="#map"/>
+</a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table width="222" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="27">
+&nbsp;
+</td>																												
+<td width="195">
+<table width="195" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:10px; color:#5e5e5e; line-height:100</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:34px; font-weight:bold; color:#3b3b3b;  padding:0 0 0 0px;">39.9</tr>
+<tr>
+<td valign="top" align="left" style="font-family:Verdana, Arial, sans-serif; font-size:10px; color:#5e5e5e; line-height:100</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>																				
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" style=" padding:0 0 0 0;">
+<a href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank">
+<img src="http://protectedpersons.com/c010f00010011" width="320" height="24" style="display:block;  padding:0px; border:0;" alt="Aqua Card application" usemap="#map"/>
+</a>
+</td>
+</tr> 
+<tr>
+<td align="center">
+<br/>
+<a style="width:80Apply for Aqua Classic? Let's go!
+</a>
+</td>											
+</tr>
+<tr>
+<td align="center" valign="top" style="padding:5px 0 90px 0; ">
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style=" padding:0 0 0 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff">
+<b>Credit only available to over 18s resident in the UK and subject to status. Failure to make payment on time or to stay within your credit limit may make obtaining credit in the future more expensive and difficult.</b><br />
+<br />
+*Interest rates and credit limits will vary depending on your individual circumstances. Terms and conditions apply.<br />
+<br />
+Credit is provided by NewDay Ltd. NewDay Ltd and NewDay Cards Ltd are companies registered in England and Wales with registered numbers 7297722 and 4134880 respectively and form part of the NewDay group of companies. The registered office for these companies is: First Floor, 11 Tower View, Kings Hill, West Malling, Kent ME19 4RL (until 31/10/2014); Two Pancras Square, London N1C 4AG (from 01/11/2014). NewDay Ltd and NewDay Cards Ltd are authorised and regulated by the Financial Conduct Authority with numbers 0638085 and 0510571 respectively. NewDay Ltd is also authorised by the Financial Conduct Authority under the Payment Services Regulations 2009 (reference number 555318) for the provision of payment services. aqua is a trademark of NewDay Cards Ltd, which is used under licence by NewDay Ltd.
+</td>
+</tr>
+</table>
+</td>
+</tr> 
+</table>
+</td>
+</tr> 
+</table>
+</div>
+
+<p style="text-align:center;">
+<font size="2" face="Arial">
+The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+<a href="http://protectedpersons.com/unsub?s1=434011&newunsub=1"  target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece <br>
+</font>
+</p>
+</td>
+</tr>
+</table>
+
+<map name="map">
+<area shape="rect" coords="0,0,600,1000" href="http://protectedpersons.com/?a=488&p=c&c=82807&s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" target="_blank" >
+</map>
+
+<br><br>
+<center><img src="http://protectedpersons.com/c010f00010001" border="0" style="max-width:100<img alt="" src="http://protectedpersons.com/record.php?s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" width="1" height="1" border="0" />
+
+<div style="color:white; background-color:white; font-size:8px;">
+
+</div>
+
+<img alt="" src="http://protectedpersons.com/record.php?s1=434011&s2=O000005230343_1965&s3=1501131245&S4=216188" width="1" height="1" border="0" /></body>
+</html>
+------=_Part_2568415_2020443501.1421145915932--
+
+------=_Part_2568414_797169241.1421145915932--
+

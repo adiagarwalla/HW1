@@ -1,0 +1,27 @@
+From @..  Mon Jan  5 01:42:50 2015
+Return-Path: <@..>
+X-Original-To: cvwyo@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4083BDE; Mon,  5 Jan 2015 01:42:50 +0000 (UTC)
+Received: from [180.164.213.223] (180.164.213.223 [180.164.213.223])
+    by .. with SMTP id e9xthkujsibighw96r89s7nbi6;
+    for cvwyo@fs.net;
+    Mon, 05 Jan 2015 01:42:50 +0000 (UTC)
+    (envelope-from cvwyo@fs.net)
+Received-SPF: None; receiver=..;
+    client-ip=180.164.213.223; envelope-from=<cvwyo@fs.net>;
+    helo=[180.164.213.223]
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=180.164.213.223; client-port=16874;
+    syn-fingerprint=8192:112:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-hops=16; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.168 64.57.20.222
+    64.57.20.90 202.97.49.194 202.97.51.245 202.97.33.253 202.97.33.73
+    202.101.63.233 124.74.215.166 124.74.122.146 180.164.213.223;
+    network-path-time=1420422170; RBL=zen..org (127.0.0.11 127.0.0.4),
+    cbl.abuseat.org (127.0.0.2)
+Message-Id: <20150105014250.4083BDE@..>
+Date: Mon,  5 Jan 2015 01:42:50 +0000 (UTC)
+From: @.. (root)
+

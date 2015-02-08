@@ -1,0 +1,118 @@
+From @..  Sat Jan 17 03:04:43 2015
+Return-Path: <@..>
+X-Original-To: learxsy@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A84ACDF; Sat, 17 Jan 2015 03:04:43 +0000 (UTC)
+Received: from s1.dttservers.com (static.167.61.9.5.clients.your-server.de [5.9.61.167])
+    by .. with SMTP id e6ki7d6aq4vsed84zvu46dffne;
+    for learxsy@fs.net;
+    Sat, 17 Jan 2015 03:04:43 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=5.9.61.167; envelope-from=<>; helo=s1.dttservers.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=5.9.61.167; client-port=60112;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.250
+    198.32.118.38 77.109.140.193 77.109.140.254 77.109.140.254 77.109.135.102
+    213.239.203.137 213.239.245.222 213.239.245.146 213.239.233.68;
+    network-path-time=1421463883
+Received: from mailnull by s1.dttservers.com with local (Exim 4.84)
+	id 1YCJgW-0034vp-Px
+	for learxsy@fs.net; Sat, 17 Jan 2015 06:04:26 +0300
+X-Failed-Recipients: iffebqdx637@amalalkhair.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <@..>
+To: @..
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YCJgW-0034vp-Px@s1.dttservers.com>
+Date: Sat, 17 Jan 2015 06:04:24 +0300
+X-OutGoing-Spam-Status: No, score=4.2
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s1.dttservers.com
+X-AntiAbuse: Original Domain - fs.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: s1.dttservers.com: none
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  iffebqdx637@amalalkhair.com
+    (generated from iffebqdx637@amalalkhair.com.sa)
+    SMTP error from remote mail server after RCPT TO:<iffebqdx637@amalalkhair.com>:
+    host aspmx.l.google.com [173.194.65.26]: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 l5si7715746wiy.6 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <learxsy@fs.net>
+Received: from [115.78.112.75] (port=26782)
+	by s1.dttservers.com with esmtp (Exim 4.84)
+	(envelope-from <learxsy@fs.net>)
+	id 1YCJgT-0034vh-FC
+	for iffebqdx637@amalalkhair.com.sa; Sat, 17 Jan 2015 06:04:24 +0300
+Message-ID: <54BA33A3.4080802@fs.net>
+Date: Sat, 17 Jan 2015 16:04:19 +0600
+From: "iffebqdx637@amalalkhair.com.sa" <learxsy@fs.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9pre) Gecko/2008050715 Thunderbird/3.0a1
+MIME-Version: 1.0
+To: <iffebqdx637@amalalkhair.com.sa>
+Subject: Meddstore 0nl|ne Chaep
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Subject: ***SPAM*** Meddstore 0nl|ne Chaep
+X-Spam-Status: Yes, score=18.7
+X-Spam-Score: 187
+X-Spam-Bar: ++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "s1.dttservers.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root 
+ Content preview:  0n|ine shhopping faast http://mypharmacymedicare.ru/?errthasdfrg
+    [...] 
+ 
+ Content analysis details:   (18.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mypharmacymedicare.ru]
+  3.5 BAYES_99               BODY: Bayes spam probability is 99 to 100                             [score: 1.0000]
+  0.6 URIBL_SC_SURBL         Contains an URL listed in the SC SURBL blocklist
+                             [URIs: mypharmacymedicare.ru]
+  1.2 URIBL_JP_SURBL         Contains an URL listed in the JP SURBL blocklist
+                             [URIs: mypharmacymedicare.ru]
+  1.6 URIBL_WS_SURBL         Contains an URL listed in the WS SURBL blocklist
+                             [URIs: mypharmacymedicare.ru]
+  1.4 RCVD_IN_BRBL_LASTEXT   RBL: No description available.
+                             [115.78.112.75 listed in bb.barracudacentral.org]
+  3.0 RCVD_IN_MSPIKE_L5      RBL: Very bad reputation (-5)
+                             [115.78.112.75 listed in bl.mailspike.net]
+  1.9 DATE_IN_FUTURE_06_12   Date: is 6 to 12 hours after Received: date
+  0.2 BAYES_999              BODY: Bayes spam probability is 99.9 to 100                             [score: 1.0000]
+  0.9 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+                             above 50                             [cf: 100]
+  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50                             [cf: 100]
+  0.0 RCVD_IN_MSPIKE_BL      Mailspike blacklisted
+  0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.1 NAME_EMAIL_DIFF        Sender NAME is an unrelated email address
+  0.0 TVD_SPACE_RATIO        No description available.
+X-Spam-Flag: YES
+
+0n|ine shhopping faast
+http://mypharmacymedicare.ru/?errthasdfrg
+

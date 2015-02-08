@@ -1,0 +1,101 @@
+From @..  Tue Jan 13 07:27:48 2015
+Return-Path: <@..>
+X-Original-To: darl@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id E0CB7DE; Tue, 13 Jan 2015 07:27:48 +0000 (UTC)
+Received: from business229.co.nz (203.118.131.193 [203.118.131.193])
+    by .. with SMTP id hwzm3bxr4pv98bxiuubfjr3qjn;
+    for darl@fs.net;
+    Tue, 13 Jan 2015 07:27:48 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=203.118.131.193; envelope-from=<>; helo=business229.co.nz
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=203.118.131.193; client-port=35315;
+    syn-fingerprint=65535:113:0:48:M1380,N,N,S; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.74
+    198.32.132.75 184.105.213.113 72.52.92.153 184.105.222.14 72.52.92.117
+    64.71.184.46 114.31.199.138 203.109.180.209 203.109.180.210 0.0.0.0
+    203.118.131.193; network-path-time=1421134068
+From: @..
+To: @..
+Date: Tue, 13 Jan 2015 20:14:59 +1300
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CFFEB7DEB7D5B6000095E6business229.co.n"
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <cgfkwSsCH00003f48@business229.co.nz>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CFFEB7DEB7D5B6000095E6business229.co.n
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       a4243c32a@business229.co.nz
+
+
+
+
+--9B095B5ADSN=_01CFFEB7DEB7D5B6000095E6business229.co.n
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;business229.co.nz
+Received-From-MTA: dns;dynamic.vdc.vn
+Arrival-Date: Tue, 13 Jan 2015 20:14:55 +1300
+
+Final-Recipient: rfc822;a4243c32a@business229.co.nz
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01CFFEB7DEB7D5B6000095E6business229.co.n
+Content-Type: message/rfc822
+
+Received: from dynamic.vdc.vn ([113.163.19.252]) by business229.co.nz with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 13 Jan 2015 20:14:55 +1300
+Message-ID: <2393C23F12726EEF5F0EF3DEBEA22393@IU5C8VEEAFS>
+From: <darl@fs.net>
+To: <a4243c32a@business229.co.nz>
+Subject: Employment invitation
+Date: 13 Jan 2015 08:51:00 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+Return-Path: darl@fs.net
+X-OriginalArrivalTime: 13 Jan 2015 07:14:58.0281 (UTC) FILETIME=[A3782590:01D02F00]
+X-TM-AS-Product-Ver: SMEX-8.2.0.1103-5.600.1016-16726.006
+X-TM-AS-Result: Yes-24.988300-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+
+--9B095B5ADSN=_01CFFEB7DEB7D5B6000095E6business229.co.n--
+

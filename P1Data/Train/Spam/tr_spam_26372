@@ -1,0 +1,565 @@
+From @..  Thu Jan 22 15:18:19 2015
+Return-Path: <@..>
+X-Original-To: setron@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 52163DF; Thu, 22 Jan 2015 15:18:19 +0000 (UTC)
+Received: from cesium-onon.emv9.net (cesium-onon.emv9.net [81.92.126.11])
+    by .. with SMTP id vfqvhptuhv2qsw5kyvxjms5h2a;
+    for setron@fs.net;
+    Thu, 22 Jan 2015 15:18:18 +0000 (UTC)
+    (envelope-from alex@newsletter.spabreaks.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.92.126.11; envelope-from=<alex@newsletter.spabreaks.com>;
+    helo=cesium-onon.emv9.net; mechanism=include:spf-a.emailvision.net
+    (ip4:81.92.124.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.92.126.11; client-port=43795;
+    syn-fingerprint=5840:52:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=17; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 154.54.10.61 154.54.0.165
+    154.54.31.106 154.54.31.126 154.54.28.110 130.117.51.82 130.117.1.230
+    154.25.0.193 149.11.0.66 130.117.1.230 193.25.198.82 81.92.126.11;
+    network-path-time=1421939898
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=newsletter.spabreaks.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=alex@newsletter.spabreaks.com;
+ bh=GWc5uKF5hs3wty4aGt7R48NT81Q=;
+ b=IL++WkBOIrCiawdGBZv6ZJd2LSiZrCRzEBH5RuR21uEaR59y0M4DB7seewrWmyqff6MSqepxqOb6
+   y6xqX5aydPH7jGiaoCfqgzcdG2PkuT4PImzz46+T+YtqLMOXMTo/OLURMRtNvFJI/rElMf6PMp4t
+   WJlr6bzevaQtlWO2F1k=
+Received: by cesium-onon.emv9.net id ho4abk16758l for <setron@fs.net>; Thu, 22 Jan 2015 16:18:16 +0100 (envelope-from <alex@newsletter.spabreaks.com>)
+Date: Thu, 22 Jan 2015 16:18:16 +0100 (CET)
+From: "Alex at Spabreaks.com" <@..>
+Reply-To: "Alex at Spabreaks.com" <@..>
+To: <@..>
+Message-ID: <2.1.5.1100046065.1115128684.1132328609210@newsletter.spabreaks.com>
+Subject: Grab your Friends for a Perfect Spa Day or Break
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=11151286841132328609210
+X-EMV-Platform: cce.campaigncommander.com$
+X-EMV-CampagneId: 1115128684$
+X-EMV-MemberId: 1132328609210$
+List-Unsubscribe: <http://newsletter.spabreaks.com/HD?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVBm0fvcStGb5lw8W0bBhOG5mpqVsje_HheED0lMa>, <mailto:unsubscribe@newsletter.spabreaks.com?subject=unsubscribe-5-ENX7C66ChlRV8SA9MOA4WJbnGHxKVBm0fvcStGb5lw8W0bBhOG5mpqVsje_HheED0lMa>
+X-CSA-Complaints: whitelist-complaints@eco.de
+
+--11151286841132328609210
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+Spabreaks.com Newsletter Newsletter looking jumbled?Click here: http://newsletter.spabreaks.com/HM?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ou_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOq
+Spabreaks.com
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oufcStGb5lw8W0bBhOG5mpqVsje_HheED0lOo
+Call us now 0800 043 6600
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOp
+Home: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ov_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOu
+Offers: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOv
+Last Minute: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovfcStGb5lw8W0bBhOG5mpqVsje_HheED0lOs
+Online: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOt
+Vouchers: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7os_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOy
+Breaks: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOz
+Spa Days: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osfcStGb5lw8W0bBhOG5mpqVsje_HheED0lOw
+Hen and Groups: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOx
+
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ot_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO2
+Specials
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO3
+Dear  Spa Breaker,
+
+ At Spabreaks.com we are celebrating all things group related this 
+month. To that end, join in our celebration and grab your pals for a 
+getaway! Book a group this month and receive one of four spectacular 
+rewards! 
+
+ Your Spabreaks.com team Spa of the Week
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO0
+Why not check out some of our best group offers!! The Thistle Hotel The Thistle Hotel
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO1
+Brands Hatch, Kent
+
+Comedy Night Spa Break
+ One Night Bed & Breakfast, 2 course dinner, Admission to the Comedy 
+Night,1 treatment and full use of the facilities.
+Package from �85pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oS_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO6
+Macdonald Berystede Hotel Macdonald Berystede Hotel
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO7
+Berkshire
+
+Girly Getaway Spa Break
+ One Nights Dinner, Bed & Breakfast, Cocktail and Canap� before, 45 
+minute treatment and full use of the facilities.
+Package from �139pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO4
+The Malvern The Malvern
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO5
+Worcestershire 
+
+Sunday Retreat
+ One Nights Bed & Breakfast, choice of one express treatment and full 
+use of the spa facilities for the duration of your stay.
+Package from �77pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oT_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO-
+Fistral Beach Hotel & Fistral Beach Hotel & Spa
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO_
+Cornwall
+
+Domestic Goddess Break
+ Two Nights Dinner, Bed & Breakfast, Two group activities from either 
+Chocolate making, Cocktail making, Surf lesson at Quiksilver Surf 
+School, or Group facial workshop at Fistral Spa.
+Package from �189.50pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO8
+Apex City Quay Hotel Apex City Quay Hotel
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO9
+Dundee
+
+Girly Get Together
+ Includes 30 mins Elemis taster facial, 30 mins Elemis deep tissue, 
+neck & shoulders massage,30 mins file & polish, 3 course lunch, glass 
+of prosecco and use of facilities.
+Package from �99pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQ_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPC
+Norton House Hotel The Scotsman
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPD
+Edinburgh
+
+Parties and Celebrations Break
+ One Nights Dinner, Bed and Breakfast, Private dining room, Pre-dinner 
+glass of Champagne and canap�, 55 minute spa combo treatment and full 
+use of facilities.
+Package from �161pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPA
+Mercure Holland House Mercure Holland House Hotel
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPB
+Cardiff
+
+One Night Spa Reviver
+ One Nights Dinner, Bed & Breakfast, Choice of 1 x 25 minute treatment 
+and full use of the facilities.
+Packages from �74.50pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oR_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPG
+Macdonald Portal Macdonald Portal
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPH
+Cheshire
+
+Sugar and Spice Break
+ One Nights Dinner, Bed & Breakfast, Hot Chocolate and Homemade cake, 2 
+x 30 minute treatments and use of facilities.
+Packages from �119pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPE
+Whitewater Hotel Whitewater Hotel
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPF
+Cumbria
+
+Time 4 Two
+ Includes choice of three of the treatments, Glass of sparkling wine 
+and nibbles and full use of facilities.
+Packages from �70pp >
+More information: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oW_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPK
+Don't forget, we also offer
+>
+Online Bookable: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPL
+>
+Hen nights: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPI
+>
+Recovery Retreats: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPJ
+>
+Bootcamps: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oX_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPO
+>
+Last minute offers: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPP
+>
+Tribute & Party Nights: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPM
+Hot Tub Blog � Hot Tub Blog
+Make-up Guide: Girls' Night out Sixties Style : http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPN
+
+ Our resident make-up guru, Emma Hales Make Up, is on hand once again. 
+This time she's bringing Twiggy's swinging 60's style back with a 
+vengeance! 
+Read full article >: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oU_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPS
+Separator
+Five Reasons to Visit...Ragdale Hall: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPT
+
+ As if you need an excuse to visit a spa, here we bring you five 
+reasons to visit Ragdale Hall from our Senior Product Manager, Sarah!
+Read full article >: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPQ
+To read more venue reviews, gossip, health and beauty tips, visit our Hot Tub Blog: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPR
+>
+Detox
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oV_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPW
+Special
+: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPX
+If you no longer wish to receive our newsletters, click here: http://newsletter.spabreaks.com/HD?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ouPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOr
+Whether you are looking to treat someone special, relax yourself or you 
+are searching for that ideal gift Spabreaks.com has something for 
+everyone. With over 500 spas in the UK and Worldwide, Spabreaks.com: http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPU
+ can create the perfect package for you looking after every detail so 
+that you can relax and enjoy the pampering. 
+--11151286841132328609210
+Content-Type: text/html; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+ <html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Spabreaks.com Newsletter</title>
+</head>
+
+<body bgcolor="#DDEDF0" style="background-color:#DDEDF0;">
+<center>
+  <!-- MIRROR LINK -->
+  
+  <table width="595" border="0" cellspacing="0" cellpadding="4">
+    <tbody><tr>
+      <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Newsletter looking jumbled?<a href="http://newsletter.spabreaks.com/HM?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ou_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOq" style="color:#66679F;">Click here</a></td>
+    </tr>
+  </tbody></table>
+  
+  <!-- CONTENT -->
+  
+  <table width="595" cellspacing="0" cellpadding="0" style="border:1px solid #6DC5C0;">
+    <tbody><tr>
+      <td bgcolor="#FFFFFF" style="text-align:center;"><!-- HEADER -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFFFFF" width="282" height="92"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oufcStGb5lw8W0bBhOG5mpqVsje_HheED0lOo" style="font-family:Arial, Helvetica, sans-serif; font-size:25px;"><img src="http://public.spabreaks.com/email-images/200115/spabreaks-logo.jpg" alt="Spabreaks.com" width="297" height="92" border="0"></a></td>
+            <td bgcolor="#FFFFFF" width="282" height="92" align="right" style="font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#6CC5BF;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOp"><img src="http://public.spabreaks.com/email-images/200115/spabreaks-logos.jpg" alt="Call us now 0800 043 6600" width="297" height="92" border="0"></a></td>
+          </tr>
+        </tbody></table>
+        
+        <!-- LINKS -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="4">
+          <tbody><tr>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ov_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOu" style="color:#67689F; text-decoration:none"><b>Home</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOv" style="color:#67689F; text-decoration:none;"><b>Offers</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ovfcStGb5lw8W0bBhOG5mpqVsje_HheED0lOs" style="color:#67689F; text-decoration:none;"><b>Last Minute</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOt" style="color:#67689F; text-decoration:none;"><b>Online</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7os_cStGb5lw8W0bBhOG5mpqVsje_HheED0lOy" style="color:#67689F; text-decoration:none;"><b>Vouchers</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOz" style="color:#67689F; text-decoration:none;"><b>Breaks</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7osfcStGb5lw8W0bBhOG5mpqVsje_HheED0lOw" style="color:#67689F; text-decoration:none;"><b>Spa Days</b></a></td>
+            <td bgcolor="#FFFFFF" align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otvcStGb5lw8W0bBhOG5mpqVsje_HheED0lOx" style="color:#67689F; text-decoration:none;"><b>Hen and Groups</b></a></td>
+          </tr>
+        </tbody></table>
+        
+        <!-- MAIN BANNER -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+ <td bgcolor="#FFFFFF" width="297" height="208" style="font-size:20px; color:#66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ot_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO2"><img src="http://public.spabreaks.com/email-images/200115/group1.jpg" "Group" width="297" height="208" border="0"></a></td>
+            <td bgcolor="#FFFFFF" width="298" height="208" style="font-size:20px; color:#66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO3"><img src="http://public.spabreaks.com/email-images/200115/group2.jpg" alt="Specials" width="298" height="208" border="0"></a></td>
+          </tr>
+        </tbody></table>
+        
+        <!-- COPY -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#FFFFFF" width="297" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; padding:10px;">Dear  Spa Breaker,<br>
+              <br>
+                 At Spabreaks.com we are celebrating all things group related this month. To that end, join in our celebration and grab your pals for a getaway! Book a group this month and receive one of four spectacular rewards! <br>
+              <br>
+              Your Spabreaks.com team</td>
+            <td bgcolor="#FFFFFF" width="298" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; text-align:right;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7otfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO0" style="color:#6CC5BF; text-decoration:none;"> <img name="Promotion" src="http://public.spabreaks.com/email-images/200115/comp.jpg" width="298" height="195" border="0" alt="Spa of the Week"></a></td>
+          </tr>
+        </tbody></table>
+        
+        <!-- SPECIAL OFFERS -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+            <td bgcolor="#FFFFFF" width="595" colspan="7" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#6CC5BF; padding:10px; text-align:center;">Why not check out some of our best group offers!!</td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">The Thistle Hotel</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO1" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/brand.jpg" alt="The Thistle Hotel" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Brands Hatch, Kent</b></a><br>
+         <b>Comedy Night Spa Break</b><br>
+               
+				   One Night Bed & Breakfast, 2 course dinner, Admission to the Comedy Night,1 treatment and full use of the facilities.<br>
+				   
+                    <b>Package from �85pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oS_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO6" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Macdonald Berystede Hotel</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO7" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/bery.jpg" alt="Macdonald Berystede Hotel" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Berkshire</b></a><br>
+         <b>Girly Getaway Spa Break</b><br>
+               
+				  One Nights Dinner, Bed & Breakfast, Cocktail and Canap� before, 45 minute treatment and full use of the facilities.<br>
+				   
+                    <b>Package from �139pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oSfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO4" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:14px; color:#FFFFFF; padding:5px;">The Malvern</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO5" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/malvern.jpg" alt="The Malvern" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Worcestershire </b></a><br>
+         <b>Sunday Retreat</b><br>
+               
+				 One Nights Bed & Breakfast, choice of one express treatment and full use of the spa facilities for the duration of your stay.<br>
+				   
+                    <b>Package from �77pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oT_cStGb5lw8W0bBhOG5mpqVsje_HheED0lO-" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" colspan="7" width="595" height="10">&nbsp;</td>
+          </tr>
+        </tbody></table>
+        <table width="595" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+                     <tr>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Fistral Beach Hotel &</td><td>
+                </td></tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTPcStGb5lw8W0bBhOG5mpqVsje_HheED0lO_" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/fistral.jpg" alt="Fistral Beach Hotel & Spa" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Cornwall</b></a><br>
+                       <b>Domestic Goddess Break</b><br>
+				  Two Nights Dinner, Bed & Breakfast, Two group activities from either Chocolate making, Cocktail making, Surf lesson at Quiksilver Surf School, or Group facial workshop at Fistral Spa.<br>
+                    <b>Package from �189.50pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oTfcStGb5lw8W0bBhOG5mpqVsje_HheED0lO8" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Apex City Quay Hotel</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQvcStGb5lw8W0bBhOG5mpqVsje_HheED0lO9" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/apex.jpg" alt="Apex City Quay Hotel" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Dundee</b></a><br>
+                      <b>Girly Get Together</b><br>
+				  Includes 30 mins Elemis taster facial, 30 mins Elemis deep tissue, neck & shoulders massage,30 mins file & polish, 3 course lunch, glass of prosecco and use of facilities.<br>
+                    <b>Package from �99pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQ_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPC" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Norton House Hotel </td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPD" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/norton.jpg" alt="The Scotsman" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Edinburgh</b></a><br>
+                       <b>Parties and Celebrations Break</b><br>
+					   	One Nights Dinner, Bed and Breakfast, Private dining room, Pre-dinner glass of Champagne and canap�, 55 minute spa combo treatment and full use of facilities.<br>
+			
+                    <b>Package from �161pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oQfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPA" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" colspan="7" width="595" height="10">&nbsp;</td>
+          </tr>
+        </tr></tbody></table>
+		<table width="595" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+                     <tr>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Mercure Holland House</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPB" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/cardiff.jpg" alt="Mercure Holland House Hotel" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Cardiff</b></a><br>
+                       <b>One Night Spa Reviver</b><br>
+					   	One Nights Dinner, Bed & Breakfast, Choice of 1 x 25 minute treatment and full use of the facilities.<br>
+                    <b>Packages from �74.50pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oR_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPG" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Macdonald Portal</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPH" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/portal.jpg" alt="Macdonald Portal" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Cheshire</b></a><br>
+<b>Sugar and Spice Break</b><br>
+					   	One Nights Dinner, Bed & Breakfast, Hot Chocolate and Homemade cake, 2 x 30 minute treatments and use of facilities.<br>
+                    <b>Packages from �119pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oRfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPE" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#ffffff" width="3">&nbsp;</td>
+            <td bgcolor="#ffffff" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; text-align:left;"><table bgcolor="#FFFFFF" width="190" cellspacing="0" cellpadding="0" style="border:1px solid #E8F3F3;">
+                <tbody><tr>
+                  <td bgcolor="#6CC5BF" valign="middle" style="font-size:15px; color:#FFFFFF; padding:5px;">Whitewater Hotel</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#6CC5BF" style="text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPF" style="color:#66679F; text-decoration:none;"><img src="http://public.spabreaks.com/email-images/200115/white.jpg" alt="Whitewater Hotel" width="190" height="120" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff" style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><a style="color:#66679F; text-decoration:none;"><b>Cumbria</b></a><br>
+<b>Time 4 Two</b><br>
+					   	Includes choice of three of the treatments, Glass of sparkling wine and nibbles and full use of facilities.<br>
+                    <b>Packages from �70pp</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #66669F; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oW_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPK" style="color:#66679F; text-decoration:none; padding-left:5px;"><b>More information</b></a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" colspan="7" width="595" height="10">&nbsp;</td>
+          </tr>
+        </tr></tbody></table>
+        <!-- ALTERNATIVE OFFERS -->
+        
+        <table width="575" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+            <td bgcolor="#E8F3F3" width="191" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#6CC5BF;"><img src="http://public.spabreaks.com/email-images/200115/alternative.jpg" alt="Don't forget, we also offer" name="Alternative" width="191" height="90" id="Alternative"></td>
+            <td bgcolor="#E8F3F3" style="font-family:Arial, Helvetica, sans-serif; text-align:left;"><table width="192" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPL" style="color:#66679F; text-decoration:none;"><b>Online Bookable</b></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oWfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPI" style="color:#66679F; text-decoration:none;"><b>Hen nights</b></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPJ" style="color:#66679F; text-decoration:none;"><b>Recovery Retreats</b></a></td>
+                </tr>
+              </tbody></table></td>
+            <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; text-align:left;"><table width="205" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oX_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPO" style="color:#66679F; text-decoration:none;"><b>Bootcamps</b></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPP" style="color:#66679F; text-decoration:none;"><b>Last minute offers</b></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#E8F3F3" width="192" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px;"><img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oXfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPM" style="color:#66679F; text-decoration:none;"><b>Tribute &amp; Party Nights</b></a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" width="575" height="10">&nbsp;</td>
+          </tr>
+        </tbody></table>
+        
+        
+        
+        <!-- EDITORIAL -->
+        
+        <table width="575" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+            <td bgcolor="#66679F" width="575" colspan="2" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#FFFFFF; padding:5px; text-align:left;"><b>Hot Tub Blog �</b></td>
+          </tr>
+          <tr>
+            <td bgcolor="#F9F7FA" width="288" height="215" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#6CC5BF; text-align:left;"><img src="http://public.spabreaks.com/email-images/250913/blog.jpg" alt="Hot Tub Blog" width="288" height="220"Blog"></td>
+            <td bgcolor="#F9F7FA" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left;"><table bgcolor="#F9F7FA" width="287" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td bgcolor="#F9F7FA" width="287" style="padding:5px 10px; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPN" style="color:#66679F; text-align:left; text-decoration:none;"><b>Make-up Guide: Girls' Night out Sixties Style </b></a><br>
+                        Our resident make-up guru, Emma Hales Make Up, is on hand once again. This time she's bringing Twiggy's swinging 60's style back with a vengeance!
+
+ 
+
+ 
+<br>
+                    <a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oU_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPS" style="color:#66679F; text-align:left; text-decoration:none;"><b>Read full article &gt;</b></a></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#F9F7FA" width="287" style="padding:5px; font-size:12px;"><img src="http://public.spabreaks.com/email-images/200115/separator.png" alt="Separator" width="287" height="10" id="separator"></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#F9F7FA" width="287" style="padding:5px 10px; font-size:12px;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPT" style="color:#66679F; text-align:left; text-decoration:none;"><b>Five Reasons to Visit...Ragdale Hall</b></a><br>
+                         As if you need an excuse to visit a spa, here we bring you five reasons to visit Ragdale Hall from our Senior Product Manager, Sarah!<br>
+                    <a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oUfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPQ" style="color:#66679F; text-align:left; text-decoration:none;"><b>Read full article &gt;</b></a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF" width="575" colspan="2" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:10px;">To read more venue reviews, gossip, health and beauty tips, visit our <a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVvcStGb5lw8W0bBhOG5mpqVsje_HheED0lPR" style="color:#66679F; text-align:left; text-decoration:none;"><b>Hot Tub Blog</b></a> <img src="http://public.spabreaks.com/email-images/200115/bullet.png" width="10" height="10" alt="&gt;" style="color: #66669F; padding:0 10px;"></td>
+          </tr>
+        </tbody></table>
+        
+        <!-- PROMOTIONS/INCENTIVES -->
+        
+        <table width="595" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+<td bgcolor="#FFFFFF" width="297" height="208" style="font-size:20px; color:#66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oV_cStGb5lw8W0bBhOG5mpqVsje_HheED0lPW"><img src="http://public.spabreaks.com/email-images/200115/Detox1.jpg" alt="Detox" width="297" height="208" border="0"></a></td>
+            <td bgcolor="#FFFFFF" width="298" height="208" style="font-size:20px; color:#66669F;"><a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVPcStGb5lw8W0bBhOG5mpqVsje_HheED0lPX"><img src="http://public.spabreaks.com/email-images/200115/Detox2.jpg" alt="Special" width="298" height="208" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+  <!-- FOOTER -->
+  
+  <table width="595" border="0" cellspacing="0" cellpadding="10">
+    <tbody><tr>
+      
+    </tr>
+  </tbody></table>
+  <table width="595" border="0" cellspacing="0" cellpadding="10">
+    <tbody><tr>
+      <td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">If you no longer wish to receive our newsletters, click <a href="http://newsletter.spabreaks.com/HD?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7ouPcStGb5lw8W0bBhOG5mpqVsje_HheED0lOr" style="color:#66679F;"><b>here</b></a></td>
+    </tr>
+  </tbody></table>
+  <table width="595" border="0" cellspacing="0" cellpadding="10">
+    <tbody><tr>
+      <td align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666;">Whether you are looking to treat someone special, relax yourself or you are searching for that ideal gift Spabreaks.com has something for everyone. With over 500 spas in the UK and Worldwide, <a href="http://newsletter.spabreaks.com/HS?a=ENX7C66ChlRV8SA9MOA4WJbnGHxKVB7oVfcStGb5lw8W0bBhOG5mpqVsje_HheED0lPU" style="color:#66679F;">Spabreaks.com</a> can create the perfect package for you looking after every detail so that you can relax and enjoy the pampering.</td>
+    </tr>
+  </tbody></table>
+</center>
+
+
+<img src="http://newsletter.spabreaks.com/HO?DdX7C66ChlRV8SA9MOPehQvnGHxKbupwpgjtS5lEBNXCKOM.gif" border="0" alt="" width="1" height="1" /></body>
+</html>
+--11151286841132328609210--
+

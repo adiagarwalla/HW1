@@ -1,0 +1,362 @@
+From @..  Thu Jan  8 13:07:07 2015
+Return-Path: <@..>
+X-Original-To: jiu8kd@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2496EE0; Thu,  8 Jan 2015 13:07:07 +0000 (UTC)
+Received: from 105-64.mta.dotmailer.com (105-64.mta.dotmailer.com [94.143.105.64])
+    by .. with SMTP id pfdanuwxe4ug5je3pn5jamun26;
+    for jiu8kd@fs.net;
+    Thu, 08 Jan 2015 13:07:06 +0000 (UTC)
+    (envelope-from bo-1VTU-33P7Y-ID6LZW-BZVXM@mail-sage.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=94.143.105.64;
+    envelope-from=<bo-1VTU-33P7Y-ID6LZW-BZVXM@mail-sage.com>;
+    helo=105-64.mta.dotmailer.com; mechanism=include:spf.dotmailer.com
+    (ip4:94.143.105.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=94.143.105.64; client-port=40821;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.110
+    64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.206 64.125.21.2
+    94.31.40.154 80.249.97.18 80.249.97.61 80.249.97.118;
+    network-path-time=1420722426
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim1024; d=mail-sage.com;
+ h=From:To:Subject:MIME-Version:Content-Type:Date:List-Unsubscribe:Reply-To:Message-ID; i=news@mail-sage.com;
+ bh=dl00N4RWPAG0Y/OY28rP2z95UcA=;
+ b=FWurQtBYoluhn7lD9JxQb9jW4yTh+YpVq7KGOhUSktW1sddf73HxCjplCL6mkRqBM2ZRJQ4bp95f
+   ZF7c5b8t5yaU6NpcIzG26GilF4eLQwXk31NYlsnPI1oPB8HH20lB2SrpwgoGVayFS9xdDrj0/WDC
+   G9QneWW0MuCkX83c/zY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim1024; d=mail-sage.com;
+ b=FzSPs8O4nEdwZsLMEglwpX4e49ZKG+ZYRc1KL4TDHPfCck6BoOBz5DLN67ceDpmlWgQ/v+JZP1fH
+   Yjn8I3yya3EeuvRzZi02K4n7G31PTn/R31Ru02nwJe5HSFjL9eMdfpKzxbI8y5+dwUNsP4b/BNZN
+   9178977IMC6FoDrVyMU=;
+From: "Sage UKI" <@..>
+To: "jiu8kd@fs.net" <@..>
+Subject: Staying Safe In The Cloud
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="A2ID6LZWC2:20150108130705051"
+X-Mailer: dmDroid
+Date: Thu, 08 Jan 2015 13:07:05 +0000
+X-CampaignID: LKNIK
+X-dmid: 1VTU-33P7Y-ID6LZW
+List-Unsubscribe: <http://mail-sage.com/1VTU-33P7Y-A2ID6LZWC2/uauto.aspx>
+Bounces-to: bo-1VTU-33P7Y-ID6LZW-BZVXM@mail-sage.com
+Reply-To: "Sage UKI" <@..>
+Message-ID: <33P7Y.A2ID6LZWC2.20150108130705051@mail-sage.com>
+
+--A2ID6LZWC2:20150108130705051
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B0-0/c.aspx )
+View online http://mail-sage.com/1VTU-33P7Y-A2ID6LZWC2/cr.aspx | T&Cs ( h=
+ttp://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B2-0/c.aspx ) | Unsubscribe htt=
+p://mail-sage.com/1VTU-33P7Y-A2ID6LZWC2/uns.aspx
+
+( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B7-0/c.aspx )
+( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B6-0/c.aspx )
+( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B8-0/c.aspx )
+( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B5-0/c.aspx )
+
+56
+
+Cloud computing is quickly becoming a basis for many businesses because i=
+t offers great flexibility, accessibility and capacity compared to more t=
+raditional methods.
+
+However, with what seems like the whole world now moving to the cloud wha=
+t is best for your business? One of the biggest business worries about th=
+e cloud is security: how can you ensure you're safe?
+
+Take a look at infographic to help you better understand the risks and ho=
+w they can be mitigated >> ( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B=
+3-0/c.aspx )
+
+Sage 200 Online
+Giving you peace of mind
+
+Sage 200 Online is a cloud-based business management solution for growing=
+ business that want more than just accounts software.
+
+Running on the Microsoft Azure platform, Sage 200 Online will help you ma=
+nage and coordinate your business with the added peace of mind that your =
+data is secure, automatically backed-up and can be accessed anywhere and =
+anytime.
+
+See if for yourself >> ( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B9-0/=
+c.aspx )
+
+Call us on 0845 111 9988
+Find out more online ( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B4-0/c.=
+aspx )
+
+Download our brochure ( http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83B1-0/c=
+.aspx )
+
+* NTT Group
+
+--A2ID6LZWC2:20150108130705051
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<title>Staying Safe In The Cloud</title><style>=0Abody { background-color=
+:#e7e7e7; width:100size-adjust:100}=0A	.ExternalClass * {line-height: 100: inherit; font-weight: bold; text-decoration: none; }=0A	img { outline:n=
+one; text-decoration:none; border:none; -ms-interpolation-mode: bicubic; =
+mso-line-height-rule: exactly;}=0A=0A	a:hover { text-decoration: underlin=
+e !important; }=0A@media all and (max-width: 480px), all and (max-device-=
+width: 480px){=0A	*[id=3Dcolumn] {=0A		width: 310px !important;=0A	}=0A	*=
+[id=3Dheader] {=0A		font-size: 22px !important;=0A	}=0A	*[class=3Drespons=
+ive] {=0A		display: block !important;=0A		width:	100	*[class=3Dresponsive-two] {=0A		display: block !important;=0A		width:	29=
+0px !important;=0A	}=0A 	*[id=3Dresponsive-two] {=0A		display: block !imp=
+ortant;=0A		width:	290px !important;=0A	}=0A    *[class=3Dpush] {=0A     =
+   height:210px !important;=0A    }=0A    *[class=3Ds-r-pad] {=0A        =
+padding-right:5px !important;=0A    }=0A    *[class=3Dr-pad] {=0A        =
+padding-right:10px !important;=0A    }=0A    *[class=3Dr-pad2] {=0A      =
+  padding-right:150px !important;=0A    }=0A    *[class=3Dr-pad3] {=0A   =
+     padding-right:17px !important;=0A    }=0A    *[class=3Dl-pad2] {=0A =
+       padding-left:15px !important;=0A    }=0A    *[class=3Dl-pad] {=0A =
+       padding-left:10px !important;=0A    }=0A    *[class=3Db-pad] {=0A =
+       padding-bottom:10px !important;=0A        padding-right:0 !importa=
+nt;=0A    }=0A    *[class=3Dcenter] {=0A        margin:10px 10t;=0A        float:none !important;=0A    }=0A    *[class=3Dno-width] {=0A=
+        width:0 !important;=0A    }=0A	*[class=3Dresponsive-three] {=0A		=
+width: 310px !important;=0A		float: left !important;=0A		clear: both !imp=
+ortant;=0A	}=0A	*[class=3Dresponsive-four] {=0A		display: block !importan=
+t;=0A		width:	274px !important;=0A	}=0A    *[class=3Dresponsive-five] {=0A=
+        display: block !important;=0A        width:  130px !important;=0A=
+    }=0A    *[class=3Dresponsive-280] {=0A        display: block !importa=
+nt;=0A        width:  280px !important;=0A    }=0A    *[class=3Dresponsiv=
+e-318] {=0A        display: block !important;=0A        width:  318px !im=
+portant;=0A    }=0A	*[class=3Dcollapse] {=0A		display: none !important;=0A=
+		visibility: hidden !important;=0A		opacity: 0 !important;=0A		height: 0=
+ !important;=0A		width: 0 !important;=0A	}=0A	*[class=3Dside-padding] {=0A=
+		width: 10px !important;=0A	}=0A    *[class=3Dno-side-padding] {=0A     =
+   width: 0px !important;=0A    }=0A    *[class=3Dno-padding] {=0A       =
+ padding-right: 0 !important;=0A    }=0A    *[class=3Dsmaller-padding] {=0A=
+        padding:8px !important;=0A    }=0A	*[id=3Dbullet-list] {=0A		bord=
+er: 0 !important;=0A	}=0A	=0A    *[id=3Dbanner] {=0A        text-align: r=
+ight !important;=0A        vertical-align: bottom !important;=0A        b=
+ackground: url('https://i.emlfiles.com/cmpimg/6/0/9/7/8/files/5665233_ban=
+ner.jpg') no-repeat right top    !important;=0A    }=0A	*[id=3Dbanner-tex=
+t-area] {=0A		width: 100ortant;=0A		-moz-border-radius: 0px !important;=0A		border-radius: 0px !i=
+mportant;=0A	}=0A	*[id=3Dbanner-text-area-2] {=0A		width: 100;=0A		-webkit-border-radius: 0px !important;=0A		-moz-border-radius: 0px =
+!important;=0A		border-radius: 0px !important;=0A	}=0A	*[id=3Dbanner-text=
+] {=0A		font-size: 18px !important;=0A		line-height: 22px !important;=0A	=
+}=0A	*[id=3Dbanner-text-2] {=0A		font-size: 16px !important;=0A		line-hei=
+ght: 20px !important;=0A	}=0A	*[id=3Dbanner-text-area-holder]{=0A		width:=
+ 100100<body>
+=0A=0A=0A<!-- ved document -->=0A<table style=3D"background-color: rgb(23=
+1, 231, 231); table-layout: auto;" class=3D"ee_mobiletemplate" bgcolor=3D=
+"#e7e7e7" border=3D"0" cellspacing=3D"0" width=3D"100=0A<td align=3D"center" valign=3D"top">=0A<table style=3D"background-colo=
+r: rgb(255, 255, 255); table-layout: auto;" id=3D"column" bgcolor=3D"#fff=
+fff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><!-- =
+Header -->=0A<tbody>=0A<tr>=0A<td style=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1=
+px" height=3D"15">&nbsp;</td></tr>=0A<tr>=0A<td>=0A<table style=3D"table-=
+layout: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100/td>=0A<td align=3D"left" valign=3D"middle" width=3D"96"><a title=3D"Visi=
+t Sage online" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BA-1/c.=
+aspx"><img style=3D"BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block;=
+ BORDER-TOP: 0px; BORDER-RIGHT: 0px" alt=3D"Sage" src=3D"http://i.emlfile=
+s8.com/cmpimg/6/0/9/7/8/files/4557749_logo.png" height=3D"41" width=3D"96=
+"></a></td>=0A<td align=3D"right">=0A<table style=3D"table-layout: auto;"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"200">=0A<tbody=
+>=0A<tr>=0A<td align=3D"right" valign=3D"top"><span style=3D"LINE-HEIGHT:=
+ 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #4f5155; FONT-SI=
+ZE: 11px"><a style=3D"COLOR: #37b14a; FONT-WEIGHT: bold; TEXT-DECORATION:=
+ none" title=3D"View this email in your browser" href=3D"http://mail-sage=
+.com/1VTU-33P7Y-A2ID6LZWC2/cr.aspx">View online</a> | <a style=3D"COLOR: =
+#37b14a; FONT-WEIGHT: bold; TEXT-DECORATION: none" title=3D"Terms and con=
+ditions" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BC-1/c.aspx">=
+T&amp;Cs</a> | <a style=3D"COLOR: #37b14a; FONT-WEIGHT: bold; TEXT-DECORA=
+TION: none" title=3D"Unsubscribe from this email list" href=3D"http://mai=
+l-sage.com/1VTU-33P7Y-A2ID6LZWC2/uns.aspx">Unsubscribe</a></span></td></t=
+r>=0A<tr>=0A<td style=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1px" height=3D"5">&=
+nbsp;</td></tr>=0A<tr>=0A<td>=0A<table style=3D"table-layout: auto;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"200">=0A<tbody>=0A<=
+tr>=0A<td width=3D"70">&nbsp;</td>=0A<td width=3D"25"><a title=3D"Follow =
+us on Twitter" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BH-1/c.=
+aspx"><img style=3D"BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block;=
+ BORDER-TOP: 0px; BORDER-RIGHT: 0px" alt=3D"Twitter" src=3D"http://i.emlf=
+iles8.com/cmpimg/6/0/9/7/8/files/4557752_twitter.png" height=3D"25" width=
+=3D"25"></a></td>=0A<td width=3D"10">&nbsp;</td>=0A<td width=3D"25"><a ti=
+tle=3D"Like us on Facebook" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZ=
+W-1F83BG-1/c.aspx"><img style=3D"BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DI=
+SPLAY: block; BORDER-TOP: 0px; BORDER-RIGHT: 0px" alt=3D"Facebook" src=3D=
+"http://i.emlfiles8.com/cmpimg/6/0/9/7/8/files/4557747_facebook.png" heig=
+ht=3D"25" width=3D"25"></a></td>=0A<td width=3D"10">&nbsp;</td>=0A<td wid=
+th=3D"25"><a title=3D"Follow us on LinkedIn" href=3D"http://mail-sage.com=
+/1VTU-33P7Y-ID6LZW-1F83BI-1/c.aspx"><img style=3D"BORDER-BOTTOM: 0px; BOR=
+DER-LEFT: 0px; DISPLAY: block; BORDER-TOP: 0px; BORDER-RIGHT: 0px" alt=3D=
+"LinkedIn" src=3D"http://i.emlfiles8.com/cmpimg/6/0/9/7/8/files/4557748_l=
+inkedin.png" height=3D"25" width=3D"25"></a></td>=0A<td width=3D"10">&nbs=
+p;</td>=0A<td width=3D"25"><a title=3D"Subscribe on YouTube" href=3D"http=
+://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BF-1/c.aspx"><img style=3D"BORDER-=
+BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block; BORDER-TOP: 0px; BORDER-RI=
+GHT: 0px" alt=3D"Youtube" src=3D"http://i.emlfiles8.com/cmpimg/6/0/9/7/8/=
+files/4557753_youtube.png" height=3D"25" width=3D"25"></a></td></tr></tbo=
+dy></table></td></tr></tbody></table></td>=0A<td class=3D"side-padding" w=
+idth=3D"20">&nbsp;</td></tr></tbody></table></td></tr>=0A<tr>=0A<td style=
+=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1px" height=3D"15">&nbsp;</td></tr><!-- =
+End header --><!-- Title-->=0A<tr>=0A<td>=0A<div class=3D"ee_editable">=0A=
+<table style=3D"table-layout: auto;" data-pw=3D"600" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100=3D"BACKGROUND: url(http://i.emlfiles8.com/cmpimg/6/0/9/7/8/files/5665233=
+_banner.jpg) no-repeat left top" id=3D"banner" class=3D"responsive-318" a=
+lign=3D"left" background=3D"http://i.emlfiles8.com/cmpimg/6/0/9/7/8/files=
+/5665233_banner.jpg" height=3D"268" valign=3D"top"><!--[if gte mso 9]><v:=
+rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"fa=
+lse" style=3D"width:600px;height:268px;"><v:fill type=3D"frame" src=3D"ht=
+tp://i.emlfiles8.com/cmpimg/6/0/9/7/8/files/5665233_banner.jpg" color=3D"=
+#e7e7e7"></v:fill><v:textbox inset=3D"0,0,0,0"><![endif]-->=0A<table styl=
+e=3D"table-layout: auto;" id=3D"banner-text-area-holder" class=3D"respons=
+ive vedig" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"303"=
+>=0A<tbody>=0A<tr>=0A<td class=3D"push" height=3D"45" width=3D"303">&nbsp=
+;</td></tr>=0A<tr>=0A<td>=0A<table style=3D"table-layout: auto;" id=3D"ba=
+nner-text-area-holder-2" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"295">=0A<tbody>=0A<tr>=0A<td style=3D"PADDING-BOTTOM: 10px; BAC=
+KGROUND-COLOR: #475155; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-=
+TOP: 10px; opacity: 0.8" id=3D"banner-text-area-2" align=3D"left" height=3D=
+"15" valign=3D"top" width=3D"295"><span style=3D"LINE-HEIGHT: 32px; FONT-=
+FAMILY: Arial, Helvetica, sans-serif; COLOR: white; FONT-SIZE: 21px" id=3D=
+"banner-text-2">56ng to the cloud* </span></td></tr></tbody></table></td></tr></tbody></tab=
+le><!--[if gte mso 9]></v:textbox></v:rect><![endif]--></td></tr></tbody>=
+</table></div></td></tr><!-- 			2 Columns + Image / Overlay Text			 -->=0A=
+<tr>=0A<td>=0A<table style=3D"table-layout: auto;" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100"side-padding" width=3D"15">&nbsp;</td>=0A<td class=3D"responsive" align=3D=
+"left" valign=3D"top">=0A<table style=3D"table-layout: auto;" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<td style=3D"PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px=
+; PADDING-TOP: 15px" align=3D"left" valign=3D"top">=0A<table style=3D"tab=
+le-layout: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100 valign=3D"top">=0A<div class=3D"ee_editable"><span style=3D"LINE-HEIGHT:=
+ 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #41a940; FONT-SI=
+ZE: 16px; FONT-WEIGHT: bold">Cloud computing is quickly becoming a basis =
+for many businesses because it offers great flexibility, accessibility an=
+d capacity compared to more traditional methods.</span> </div></td></tr><=
+/tbody></table></td></tr></tbody></table></td>=0A<td class=3D"responsive-=
+two" align=3D"left" valign=3D"top" width=3D"280">=0A<table style=3D"table=
+-layout: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tr>=0A<td style=3D"PADDING-BOTTOM: 15px; LINE-HEIGHT: 22px; PADDING-RIGH=
+T: 0px; PADDING-TOP: 15px" align=3D"left" valign=3D"top">=0A<div class=3D=
+"ee_editable"><span style=3D"LINE-HEIGHT: 22px; DISPLAY: block; FONT-FAMI=
+LY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px">However, with what see=
+ms like the whole world now moving to the cloud what is best for your bus=
+iness? One of the biggest business worries about the cloud is security: h=
+ow can you ensure you're safe?</span> </div></td></tr></tbody></table></t=
+d>=0A<td class=3D"side-padding" width=3D"15">&nbsp;</td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr>=0A<tr>=0A<td style=3D"LINE-HEIGH=
+T: 1px; FONT-SIZE: 1px" height=3D"15">&nbsp;</td></tr>=0A<tr>=0A<td>=0A<t=
+able style=3D"table-layout: auto;" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100width=3D"15">&nbsp;</td>=0A<td style=3D"LINE-HEIGHT: 16px; BACKGROUND-COL=
+OR: #37b14a; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: rgb(34,34,=
+34); FONT-SIZE: 12px" align=3D"left" valign=3D"top" width=3D"352">=0A<tab=
+le style=3D"table-layout: auto;" class=3D"responsive" align=3D"left" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"335">=0A<tbody>=0A<=
+tr width=3D"100; BACKGROUND-COLOR: #37b14a; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PAD=
+DING-TOP: 15px" align=3D"left" valign=3D"top" width=3D"100"LINE-HEIGHT: 29px; DISPLAY: block; FONT-FAMILY: Arial, Helvetica, sans-s=
+erif; COLOR: white; FONT-SIZE: 20px"><a style=3D"COLOR: #fff; TEXT-DECORA=
+TION: none" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BD-1/c.asp=
+x">Take a look at infographic to help you better understand the risks and=
+ how they can be mitigated &gt;&gt;</a></span></td></tr></tbody></table><=
+/td>=0A<td style=3D"LINE-HEIGHT: 16px; FONT-FAMILY: Arial, Helvetica, san=
+s-serif; COLOR: #222222; FONT-SIZE: 12px" class=3D"collapse" align=3D"lef=
+t" valign=3D"top" width=3D"218"><span style=3D"LINE-HEIGHT: 16px; FONT-FA=
+MILY: Arial, Helvetica, sans-serif; COLOR: #222222; FONT-SIZE: 12px" clas=
+s=3D"collapse"><img style=3D"DISPLAY: block" alt=3D"" src=3D"http://i.eml=
+files8.com/cmpimg/6/0/9/7/8/files/5666737_pic_safe.jpg" height=3D"127" wi=
+dth=3D"218"></span></td>=0A<td class=3D"side-padding" width=3D"15">&nbsp;=
+</td></tr></tbody></table></td></tr>=0A<tr>=0A<td>=0A<table style=3D"tabl=
+e-layout: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100</td>=0A<td style=3D"PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIG=
+HT: 10px; PADDING-TOP: 10px" align=3D"left">=0A<div class=3D"ee_editable"=
+><span style=3D"FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #41a940=
+; FONT-SIZE: 22px; FONT-WEIGHT: bold">Sage 200 Online </span><br><span st=
+yle=3D"LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT=
+-SIZE: 16px"><span>Giving you peace of mind </span></span><br><br><span s=
+tyle=3D"LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; FON=
+T-SIZE: 14px">Sage 200 Online is a cloud-based business management soluti=
+on for growing business that want more than just accounts software. </spa=
+n></div></td>=0A<td class=3D"side-padding" width=3D"15">&nbsp;</td></tr><=
+/tbody></table></td></tr>=0A<tr>=0A<td>=0A<table style=3D"table-layout: a=
+uto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tbody>=0A<tr>=0A<td class=3D"side-padding" width=3D"15">&nbsp;</td>=0A<t=
+d class=3D"responsive" align=3D"left" valign=3D"top" width=3D"320">=0A<ta=
+ble style=3D"table-layout: auto;" class=3D"r-pad" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100"PADDING-RIGHT: 10px">=0A<table style=3D"table-layout: auto;" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100LINE-HEIGHT: 24px" valign=3D"top">=0A<div class=3D"ee_editable"><span sty=
+le=3D"LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-=
+SIZE: 14px">Running on the Microsoft Azure platform, Sage 200 Online will=
+ help you manage and coordinate your business with the added peace of min=
+d that your data is secure, automatically backed-up and can be accessed a=
+nywhere and anytime.</span> </div></td></tr></tbody></table></td></tr>=0A=
+<tr>=0A<td style=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1px" height=3D"15">&nbsp=
+;</td></tr>=0A<tr>=0A<td style=3D"PADDING-BOTTOM: 10px; BACKGROUND-COLOR:=
+ #ff5800; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 10px" ali=
+gn=3D"center"><span style=3D"FONT-FAMILY: Arial, Helvetica, sans-serif; C=
+OLOR: white; FONT-SIZE: 15px"><a style=3D"COLOR: #ffffff; TEXT-DECORATION=
+: none" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BJ-1/c.aspx">S=
+ee it for yourself &gt;&gt;</a></span> </td></tr>=0A<tr>=0A<td align=3D"c=
+enter">&nbsp;</td></tr></tbody></table></td>=0A<td class=3D"responsive" a=
+lign=3D"left" valign=3D"top" width=3D"270">=0A<table style=3D"table-layou=
+t: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100>=0A<tbody>=0A<tr>=0A<td align=3D"center"><a href=3D"http://mail-sage.com=
+/1VTU-33P7Y-ID6LZW-1F83BJ-1/c.aspx"><img alt=3D"Watch video" src=3D"http:=
+//i.emlfiles8.com/cmpimg/6/0/9/7/8/files/5665236_play_vid.jpg" height=3D"=
+133" width=3D"242"></a></td>=0A<td class=3D"no-side-padding no-width" wid=
+th=3D"15">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td>=
+</tr>=0A<tr>=0A<td>=0A<table style=3D"table-layout: auto;" class=3D"respo=
+nsive-two" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100">=0A<tbody>=0A<tr style=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1px">=0A<td clas=
+s=3D"side-padding" width=3D"15">&nbsp;</td>=0A<td style=3D"BORDER-BOTTOM:=
+ #000 1px solid" align=3D"left" height=3D"0" valign=3D"top">&nbsp;</td>=0A=
+<td class=3D"side-padding" width=3D"15">&nbsp;</td></tr></tbody></table><=
+/td></tr>=0A<tr>=0A<td style=3D"PADDING-BOTTOM: 20px; PADDING-LEFT: 20px;=
+ PADDING-RIGHT: 20px; PADDING-TOP: 20px" align=3D"center" valign=3D"middl=
+e"><span style=3D"LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-=
+serif; FONT-SIZE: 16px">Call us on<br><span style=3D"LINE-HEIGHT: 45px; F=
+ONT-SIZE: 36px">0845 111 9988</span> </span></td></tr>=0A<tr>=0A<td style=
+=3D"LINE-HEIGHT: 1px; FONT-SIZE: 1px" height=3D"15">=0A<table style=3D"ta=
+ble-layout: auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100nsive" width=3D"264">=0A<table style=3D"background-color: rgb(80, 81, 85)=
+; table-layout: auto;" align=3D"left" bgcolor=3D"#505155" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100style=3D"BACKGROUND-COLOR: #37b14a" align=3D"center" height=3D"54" valign=
+=3D"middle">=0A<div class=3D"ee_editable"><span style=3D"LINE-HEIGHT: 16p=
+x; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ffffff; FONT-SIZE: =
+16px"><span style=3D"LINE-HEIGHT: 22px; COLOR: #ffffff">Find out more <a =
+style=3D"COLOR: #ffffff" href=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1=
+F83BE-1/c.aspx">online</a></span></span></div></td></tr>=0A<tr>=0A<td sty=
+le=3D"BACKGROUND-COLOR: #ffffff" height=3D"5">&nbsp;</td></tr></tbody></t=
+able></td>=0A<td class=3D"collapse" width=3D"72">=0A<table style=3D"backg=
+round-color: rgb(80, 81, 85); table-layout: auto;" class=3D"collapse" ali=
+gn=3D"left" bgcolor=3D"#505155" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"72">=0A<tbody>=0A<tr>=0A<td style=3D"BACKGROUND-COLOR: #=
+37b14a" align=3D"center" height=3D"54" valign=3D"middle"><img style=3D"DI=
+SPLAY: block" alt=3D"" src=3D"http://i.emlfiles8.com/cmpimg/6/0/9/7/8/fil=
+es/5665234_or.jpg" height=3D"54" width=3D"71"></td></tr>=0A<tr>=0A<td sty=
+le=3D"BACKGROUND-COLOR: #ffffff" class=3D"collapse" align=3D"center" heig=
+ht=3D"5" valign=3D"middle">&nbsp;</td></tr></tbody></table></td>=0A<td st=
+yle=3D"DISPLAY: block" class=3D"responsive" width=3D"264">=0A<table style=
+=3D"background-color: rgb(80, 81, 85); table-layout: auto;" align=3D"left=
+" bgcolor=3D"#505155" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100align=3D"center" height=3D"54" valign=3D"middle">=0A<div class=3D"ee_edit=
+able"><span style=3D"LINE-HEIGHT: 16px; FONT-FAMILY: Arial, Helvetica, sa=
+ns-serif; COLOR: #ffffff; FONT-SIZE: 16px"><a style=3D"COLOR: #ffffff" hr=
+ef=3D"http://mail-sage.com/1VTU-33P7Y-ID6LZW-1F83BB-1/c.aspx">Download</a=
+> our brochure</span></div></td></tr>=0A<tr>=0A<td style=3D"BACKGROUND-CO=
+LOR: #ffffff" class=3D"collapse" align=3D"center" height=3D"5" valign=3D"=
+middle">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></=
+tr>=0A<tr>=0A<td>=0A<table style=3D"table-layout: auto;" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100lass=3D"side-padding" width=3D"15">&nbsp;</td>=0A<td align=3D"left" valig=
+n=3D"middle"><span style=3D"LINE-HEIGHT: 14px; DISPLAY: block; FONT-FAMIL=
+Y: Arial, Helvetica, sans-serif; COLOR: #222222; FONT-SIZE: 10px">* NTT G=
+roup</span></td>=0A<td class=3D"side-padding" width=3D"15">&nbsp;</td></t=
+r></tbody></table></td></tr>=0A<tr>=0A<td style=3D"LINE-HEIGHT: 1px; FONT=
+-SIZE: 1px" height=3D"15">&nbsp;</td></tr><!--            4 Square Boxes =
+          --></tbody></table></td></tr></tbody></table><img src=3D"http:/=
+/mail-sage.com/1VTU-33P7Y-ID6LZW/o.gif" width=3D"1" height=3D"1" alt=3D""=
+ style=3D"display:block;"></img><font color=3D"#423169DC"></font>
+</body></html>
+
+--A2ID6LZWC2:20150108130705051--
+

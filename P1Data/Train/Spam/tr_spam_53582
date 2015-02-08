@@ -1,0 +1,119 @@
+From @..  Wed Jan  7 19:46:17 2015
+Return-Path: <@..>
+X-Original-To: randy@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D5BEFDE; Wed,  7 Jan 2015 19:46:17 +0000 (UTC)
+Received: from mx02-ptk.mlink.net.id (mx02-ptk.mlink.net.id [119.47.92.254])
+    by .. with SMTP id yc4bsh3nu2cndq89tmz6cu3k32;
+    for randy@fs.net;
+    Wed, 07 Jan 2015 19:46:17 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=119.47.92.254; envelope-from=<>; helo=mx02-ptk.mlink.net.id
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=119.47.92.254; client-port=59298;
+    syn-fingerprint=14600:48:1:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.48 63.218.229.110 202.43.176.93 0.0.0.0
+    180.240.193.54 119.47.88.253 119.47.94.10 119.47.92.254;
+    network-path-time=1420659977
+Received: by mx02-ptk.mlink.net.id (Postfix)
+	id 24884563A2C; Thu,  8 Jan 2015 02:46:10 +0700 (WIB)
+Date: Thu,  8 Jan 2015 02:46:10 +0700 (WIB)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="118D8563A1B.1420659970/mx02-ptk.mlink.net.id"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20150107194610.24884563A2C@mx02-ptk.mlink.net.id>
+
+This is a MIME-encapsulated message.
+
+--118D8563A1B.1420659970/mx02-ptk.mlink.net.id
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mx02-ptk.mlink.net.id.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<sib.42@mail.ru>: host mxs.mail.ru[217.69.139.150] said: 550 spam message
+    rejected. Please visit
+    http://help.mail.ru/notspam-support/id?c=DBUF7-e2Np-e4J1bI9yWXcBHAVy0FVYgOn9Ja1xRKf4fglhep3v63g8AAABsnAAAh068Lw~~
+    or  report details to abuse@corp.mail.ru. Error code:
+    EF05150C9F36B6E75B9DE09E5D96DC235C0147C0205615B46B497F3AFE29515C5E58821FDEFA7BA7.
+    ID: 0000000F00009C6C2FBC4E87. (in reply to end of DATA command)
+
+--118D8563A1B.1420659970/mx02-ptk.mlink.net.id
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx02-ptk.mlink.net.id
+X-Postfix-Queue-ID: 118D8563A1B
+X-Postfix-Sender: rfc822; randy@fs.net
+Arrival-Date: Thu,  8 Jan 2015 02:46:02 +0700 (WIB)
+
+Final-Recipient: rfc822; sib.42@mail.ru
+Original-Recipient: rfc822;sib.42@mail.ru
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mxs.mail.ru
+Diagnostic-Code: smtp; 550 spam message rejected. Please visit
+    http://help.mail.ru/notspam-support/id?c=DBUF7-e2Np-e4J1bI9yWXcBHAVy0FVYgOn9Ja1xRKf4fglhep3v63g8AAABsnAAAh068Lw~~
+    or  report details to abuse@corp.mail.ru. Error code:
+    EF05150C9F36B6E75B9DE09E5D96DC235C0147C0205615B46B497F3AFE29515C5E58821FDEFA7BA7.
+    ID: 0000000F00009C6C2FBC4E87.
+
+--118D8563A1B.1420659970/mx02-ptk.mlink.net.id
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 7bit
+
+Return-Path: <randy@fs.net>
+Received: from localhost (localhost [127.0.0.1])
+	by mx02-ptk.mlink.net.id (Postfix) with ESMTP id 118D8563A1B
+	for <sib.42@mail.ru>; Thu,  8 Jan 2015 02:46:02 +0700 (WIB)
+Received: from mx02-ptk.mlink.net.id ([127.0.0.1])
+	by localhost (mx02-ptk.mlink.net.id [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id PP13C-IS0W9G for <sib.42@mail.ru>;
+	Thu,  8 Jan 2015 02:46:00 +0700 (WIB)
+Received: from localhost (localhost [127.0.0.1])
+	by mx02-ptk.mlink.net.id (Postfix) with ESMTP id 24CD4563A24
+	for <sib.42@mail.ru>; Thu,  8 Jan 2015 02:46:00 +0700 (WIB)
+X-Virus-Scanned: amavisd-new at pontianakpost.com
+Received: from mx02-ptk.mlink.net.id ([127.0.0.1])
+	by localhost (mx02-ptk.mlink.net.id [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id wRetflUCTPW5 for <sib.42@mail.ru>;
+	Thu,  8 Jan 2015 02:46:00 +0700 (WIB)
+Received: from 82.151.222.152 (unknown [82.151.222.152])
+	by mx02-ptk.mlink.net.id (Postfix) with ESMTPSA id 1681B563A1B
+	for <sib.42@mail.ru>; Thu,  8 Jan 2015 02:45:57 +0700 (WIB)
+Message-ID: <956F2129EC381BE8343178C4D07D4F6F@82.151.222.152>
+From: =?windows-1251?B?0eXsuO0gz+D56O0=?= <randy@fs.net>
+To: <sib.42@mail.ru>
+Subject: =?windows-1251?B?zeXs5fbq6Okg8eDs7uPu7e376SDg7+/g8ODy?=
+	=?windows-1251?B?ICLB4OLg8Oj/Ig==?=
+Date: Thu, 8 Jan 2015 00:45:52 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0A34_01D02ADC.7428FF80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8117.416
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8117.416
+
+--118D8563A1B.1420659970/mx02-ptk.mlink.net.id--
+

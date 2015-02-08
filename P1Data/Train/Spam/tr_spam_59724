@@ -1,0 +1,59 @@
+From @..  Sat Jan 17 12:42:37 2015
+Return-Path: <@..>
+X-Original-To: barryatkinson@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A60FFDE; Sat, 17 Jan 2015 12:42:37 +0000 (UTC)
+Received: from o1678924x46.outbound-mail.sendgrid.net (o1678924x46.outbound-mail.sendgrid.net [167.89.24.46])
+    by .. with SMTP id pjugs9attjp3t6er4dv2ikscza;
+    for barryatkinson@fs.net;
+    Sat, 17 Jan 2015 12:42:37 +0000 (UTC)
+    (envelope-from admin@peoplestuffuk.com)
+Received-SPF: PermError; receiver=..;
+    client-ip=167.89.24.46; envelope-from=<admin@peoplestuffuk.com>;
+    helo=o1678924x46.outbound-mail.sendgrid.net;
+    mechanism=include:sendgrid.net~all (unknown)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=167.89.24.46; client-port=14597;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 154.54.13.29
+    154.54.0.161 154.54.29.18 154.54.7.54 154.54.27.170 154.54.0.114
+    154.24.14.102; network-path-time=1421498557
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:sender; 
+	s=smtpapi; bh=YKwzVY7NBmD394ZA9BqEsI3/TcY=; b=Eke9TvplybT6En9b15
+	SvWFOo5/NoUQIPjWx8HCx9ewJ0M/yLB/j7TePMS3DG+3WkuNPfM5oSWMKarRY78c
+	YvzgNeUJI1h3w7eVV1jRjQlAqZ4eBpBwzojf1XTh4GCYhanYr8+AvFsP+EccRy4U
+	VJvEVdzezIq6EVu1MmAA1lfWQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=sendgrid.me; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:sender; 
+	q=dns; s=smtpapi; b=y+u9eOf44j+wwW7/auOumW7DVlIVHVYQkaocx/QM0+nb
+	ZToUSfv4ogmYJ4Esv117aKohWkNUpFmQo+lvtEcu0CF1v8+LGMI8eWloszBb20m1
+	QxyCKS/4CPWurlPjo6v/KiJoLnuWfytxgwHpPwluJCEWgxBYJlJiZhspLZunLiY=
+Received: by filter0303p1mdw1.sendgrid.net with SMTP id filter0303p1mdw1.21950.54BA58A94
+        2015-01-17 12:42:19.464467583 +0000 UTC
+Received: from 545751-app4.reflexisinc.co.uk (unknown [31.222.145.104])
+	by ismtpd-015 (SG) with ESMTP id 14af7ea5ccc.2f0e.8592b
+	for <barryatkinson@fs.net>; Sat, 17 Jan 2015 12:42:19 +0000 (UTC)
+Received: from 545751-app4.reflexisinc.co.uk (545751-app4.reflexisinc.co.uk [192.168.200.104])
+	by 545751-app4.reflexisinc.co.uk (Postfix) with ESMTP id 286E04C1942
+	for <barryatkinson@fs.net>; Sat, 17 Jan 2015 12:42:19 +0000 (GMT)
+Date: Sat, 17 Jan 2015 12:42:19 +0000 (GMT)
+From: @..
+To: @..
+Message-ID: <860244725.40491.1421498539164.JavaMail.appadmin@545751-app4.reflexisinc.co.uk>
+Subject: ESS
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: msgsend
+X-SG-EID: kV8K6cqLKh/DddkLk/v2eUZRjY3hOVNEgOJQ/AGkgYzIfAsDOaS2m0v66zKwNSTy4U7szy0o75lfY7
+ 7PaC2BhhVBTyNvLnt6gWdPs9HGCK/ttxGkrMuc+2xoelv5c+YII42sveAZAiYLdxv+qHcFPPA4hssz
+ bfgdNgFuXKrR8RU=
+Sender: @..
+
+Can anyone work the following shifts? Sun 4-9pm, next tue 2.15-8.15pm, Wed 15.00-19.30 and Thursday 15.00-19.30. Please ringthe store if you would like to pick up any of these shifts.
+
+Regards
+Mark scholes
+

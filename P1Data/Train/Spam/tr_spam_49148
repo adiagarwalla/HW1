@@ -1,0 +1,1364 @@
+From @..  Sun Jan 25 10:27:39 2015
+Return-Path: <@..>
+X-Original-To: saf@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 003B4DE; Sun, 25 Jan 2015 10:27:38 +0000 (UTC)
+Received: from mta134s1.r.grouponmail.cl (50.115.208.134 [50.115.208.134])
+    by .. with SMTP id rd2wgjng2rrnavsx58vik7uqfa;
+    for saf@fs.net;
+    Sun, 25 Jan 2015 10:27:38 +0000 (UTC)
+    (envelope-from 42431219b4af46f5363ac401a2b79011ea74244b83a73d82218f34b13316c3eb@bounce.r.grouponmail.cl)
+Received-SPF: Pass; receiver=..;
+    client-ip=50.115.208.134;
+    envelope-from=<42431219b4af46f5363ac401a2b79011ea74244b83a73d82218f34b13316c3eb@bounce.r.grouponmail.cl>;
+    helo=mta134s1.r.grouponmail.cl; mechanism=include:r.grouponmail.cl
+    (ip4:50.115.208.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=50.115.208.134; client-port=61855;
+    client-dnsfail=50.115.208.134: name server failure;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.20.245 64.125.20.242 64.125.25.22
+    209.66.114.170; network-path-time=1422181658; RBL-errors=zen..org
+    (name server failure), dul.dnsbl.sorbs.net (name server failure),
+    bl..net (name server failure)
+DKIM-Signature: v=1; a=rsa-sha1; d=r.grouponmail.cl; s=s1024d20130206; c=relaxed/simple;
+	q=dns/txt; i=@r.grouponmail.cl; t=1422181641; x=1422786441;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=yBmRq0RCLNxrN1kAH86QzDfTijc=;
+	b=Fh+VftsukGTb8FOUVH9pgwcP+sc0nRPD6MfiTDp4gxhGRpCop9/kJiWh3UZGwj3X
+	AFNLaL4VEghpEy+YF6EFOjxXtDu/+NdT/XsWWI84w8QXjmL44KbqoSs3RZO6IcBI
+	Riyz6TlTDDj3wIcRx+A16UvyPNBfufo71EzBzG2EXrI=;
+Date: Sun, 25 Jan 2015 10:27:21 +0000 (UTC)
+From: Groupon Las Condes <@..>
+To: @..
+Message-ID: <745263250.193585590.1422181641433.JavaMail.rocketman@rocketman7.snc1>
+Subject: =?UTF-8?Q?Bowling_en_Aventura_Center_/_Lasa=C3=B1a_+_Postre_par?=
+ =?UTF-8?Q?a_6_/_D=C3=ADa_de_Piscina_/_Men=C3=BA_para_2_en_Madam_Tusan?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_193585178_2130892540.1422181640606"
+X-RM-SendId: 07bca49c-91cb-447f-a61b-5a66efdfddf6
+X-RM-EmailName: daily-email_las-condes_rm
+X-RM-UserHash: 42431219b4af46f5363ac401a2b79011ea74244b83a73d82218f34b13316c3eb
+X-MSFBL: c2FmQGZzLm5ldDpiYXRjaDowN2JjYTQ5Yy05MWNiLTQ0N2YtYTYxYi01YTY2ZWZkZmRkZjY6cm06Q0w=
+List-Unsubscribe: <mailto:42431219b4af46f5363ac401a2b79011ea74244b83a73d82218f34b13316c3eb@unsub.r.grouponmail.cl?subject=c2FmQGZzLm5ldDpiYXRjaDowN2JjYTQ5Yy05MWNiLTQ0N2YtYTYxYi01YTY2ZWZkZmRkZjY6cm06Q0w=>
+X-RPCampaign: Groupondailyemaillascondesrm20150125
+X-RPTags: daily-email_las-condes_rm
+X-Recruiting: Interested in headers? Join us: www.groupon.com/techjobs/
+List-Id: <daily-email_las-condes_rm_20150125.groupon>
+X-Feedback-ID: r.grouponmail.cl:daily-email_las-condes_rm:07bca49c-91cb-447f-a61b-5a66efdfddf6:groupon
+
+------=_Part_193585178_2130892540.1422181640606
+Content-Type: multipart/related; 
+	boundary="----=_Part_193585179_326138761.1422181640606"
+
+------=_Part_193585179_326138761.1422181640606
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <style type=3D"text/css"> .ReadMsgBody {width: 100=
+color:none; border:none;} span.yshortcuts:hover, span.yshortcuts:active, sp=
+an.yshortcuts:focus {color:#000; background-color:none; border:none;} a {co=
+lor:#0185C6; text-decoration:none; !important;} .description a{color:#33333=
+3; !important;} @media screen and (max-device-width: 480px) { *[class].titl=
+eFont{font-size:20px !important;} *[class].channelPricePadding{padding-top:=
+5px !important;} *[class].dButtonPadding{padding-right:5px !important;} *[c=
+lass].primaryLocation {font-size:17px !important;} *[class].buttonPadding{p=
+adding: 10px 10px 5px 10px !important; text-align: center;} *[class].button=
+Padding2{padding: 10px 10px 5px 0 !important; text-align: center;} *[class]=
+.buttonPadding3 {padding: 10px 10px 5px 10px !important;} *[class].viewButt=
+on {padding: 20px 10px !important; font-family: Arial, verdana, sans-serif;=
+ background: #82b548 url(http://cl.static.groupon-content.net/mail_img/glob=
+al/cta_btn_green_gradient.gif) 0 0 repeat-x; font-weight: bold;text-align: =
+center; display: inline-block;line-height: 1.1; text-shadow: 0px -1px 0px #=
+3F8C23; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px=
+ 4px 4px; -khtml-border-radius: 4px 4px 4px 4px; border-radius: 4px 4px 4px=
+ 4px; border:1px solid #72a30f; font-size: 24px !important; width:245px !im=
+portant;} *[class].viewButton a {color:#FFFFFF !important; font-size: 24px =
+!important;} *[class].divisionButtonPadding {padding: 0 20px 30px !importan=
+t;} *[class].divisionButton {font-size:20px !important; padding: 20px !impo=
+rtant; width:526px; text-align:center !important;} *[class].mobileHidden {d=
+isplay:none !important;} } </style> <meta http-equiv=3D"Content-Type" conte=
+nt=3D"text/html; charset=3Dutf-8" /> <title>Groupon</title> </head> <body s=
+tyle=3D"margin: 0;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100nt-size:12px; font-family: Arial, Verdana, sans-serif; color:#939393; line-=
+height:14px; padding:10px 0;">Tu Groupon diario para Las Condes&nbsp;&nbsp;=
+&nbsp;|&nbsp;&nbsp;&nbsp;Agrega "<a href=3D"#" style=3D"color:#0185C6; text=
+-decoration:none;">noreply@r.grouponmail.cl</a>" a tu lista de direcciones.=
+ <img src=3D"http://www.groupon.cl/analytic/trackintl.gif?p=3D1&utm_domain=
+=3Dfs.net&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&u=
+h=3DaLw61M7o01&sender=3Drm&s=3Dbody&c=3Dtracking_pixel&d=3Dnone" height=3D"1" width=3D"=
+1" /></td> </tr> <tr> <td style=3D"font-family:Arial, Verdana, sans-serif; =
+padding:0px 10px 10px 10px; font-size:12px; color:#939393; line-height:14px=
+;" align=3D"center" >Si quieres ajustar tus otras suscripciones haz <a href=
+=3D"http://www.groupon.cl/follower/manage?from=3Dlas-condes&nlp=3D&CID=3DCL=
+_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91c=
+b-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dfooter&c=
+=3Dlink&d=3Dsubscription_center" style=3D"color:#0185C6; text-decoration:no=
+ne;">click aqui</a>, o si quieres cancelar tus suscripciones a Groupon haz =
+<a href=3D"http://www.groupon.cl/follower/subscriptioncenter/?from=3Dlas-co=
+ndes&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demai=
+l&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw=
+61M7oer=3Drm&s=3Dfooter&c=3Dlink&d=3Dunsub" style=3D"color:#0185C6; text-decorat=
+ion:none;">click aqu=C3=AD</a>.</td> </tr> </table> <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" bgcolor=3D#82b548 width=3D"100 valign=3D"top" bgcolor=3D#82b548 style=3D"border-top:1px solid #82b548; li=
+ne-height:0px; padding-right:5px;">&nbsp;</td> <td width=3D"600" valign=3D"=
+top" bgcolor=3D#82b548 style=3D"padding-bottom:20px;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px;"> <tr> <td bgco=
+lor=3D#82b548 width=3D"120" valign=3D"top"> <a href=3D "http://www.groupon.=
+cl/all-deals/las-condes?nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewslette=
+r&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3D=
+las-condes&uh=3DaLw61M7oate=3D20152501&sender=3Drm&s=3Dheader&c=3Dgroupon_logo&d=3Dall_deals-page"t=
+arget=3D"_blank"><img src=3D"http://s3.grouponcdn.com/email/images/global_i=
+mages/groupon_logo_white.png" width=3D"150" height=3D"25" style=3D"display:=
+ block; border: none; font:25px Arial, Verdana, sans-serif; color:#FFFFFF; =
+padding: 20px 0 0 20px;" alt=3D"Groupon" /></a></td> <td valign=3D"middle" =
+align=3D"right" width=3D"480" bgcolor=3D#82b548 style=3D"border-top: 1px so=
+lid #82b548; padding: 0 10px 0 0;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"> <tr> <td align=3D"right" style=3D"padding:14px 10px 0 0; =
+font:16px Arial, Verdana, sans-serif; color:#FFFFFF; line-height:20px;"> Tu=
+s Groupones de hoy para&nbsp;<span style=3D"font:bold 18px Arial, Verdana, =
+sans-serif;"><nobr>Las Condes</nobr></span> </td> </tr> </table> </td> </tr=
+> </table> </td> <td valign=3D"top" bgcolor=3D#82b548 style=3D"border-top:1=
+px solid #82b548; line-height:0px; padding-left:5px;">&nbsp;</td> </tr> </t=
+able> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100"> <tr> <td valign=3D"top" style=3D"line-height:0px; padding-right:5px;" bg=
+color=3D#82b548>&nbsp;</td> <td bgcolor=3D"#FFFFFF" width=3D"598" height=3D=
+"20" style=3D"border-right: 1px solid #82b548; border-left: 1px solid #82b5=
+48; line-height:0px;">&nbsp;</td> <td valign=3D"top" style=3D"line-height:0=
+px; padding-left:5px;" bgcolor=3D#82b548>&nbsp;</td> </tr> </table> <table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100=3D"http://cl.static.groupon-content.net/mail_img/global/G1_bgTile.gif" bgc=
+olor=3D"#e2e2e2"> <tr> <td>&nbsp;</td> <td width=3D"600" style=3D"padding:0=
+ 5px 20px 5px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <=
+tr> <td align=3D"center" width=3D"598" style=3D"border-right: 1px solid #c1=
+c1c1; border-left: 1px solid #c1c1c1; border-bottom:1px solid #c1c1c1;"> <t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td bgcolor=3D"=
+#FFFFFF" valign=3D"top"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" bgcolor=3D"#FFFFFF" style=3D"width:598px;"> <tr> <td valign=3D"top" =
+bgcolor=3D"#FFFFFF" width=3D"280" style=3D"padding-left:20px;"> <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont" =
+width=3D"280" align=3D'left' style=3D"-webkit-text-size-adjust:none; font-s=
+ize:18px; font-style:normal; font-variant:normal; font-weight:bold; font-fa=
+mily:Arial, Verdana, sans-serif; color:#0185c6; padding-right:10px;"><a hre=
+f=3D"http://www.groupon.cl/go/1002342957?p=3D1&nlp=3D&CID=3DCL_CRM_1_0_0_25=
+&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5=
+a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=
+=3Ddeal-page&utm_campaign=3D1002342957" style=3D"color:#0185C6; text-decora=
+tion:none;" target=3D"_blank"> Bowling en Aventura Center </a></td> </tr> <=
+tr> <td class=3D"titleFont" align=3D'left' style=3D"font-size:14px;font-sty=
+le:normal;font-variant:normal;font-weight:normal;font-family:Arial, Verdana=
+, sans-serif; color:#333333; padding:4px 10px 0px 0px;"> Aventura Center (A=
+LC, La Florida, =C3=91u=C3=B1oa) </td> </tr> <tr> <td align=3D'left' style=
+=3D"font-size:12px; font-style:normal; font-variant:normal; font-weight:nor=
+mal; font-family:Arial, Verdana, sans-serif; color:#666666; padding:5px 10p=
+x 5px 0; line-height:18px;"> <div class=3D"mobileHidden"> El bowling pone a=
+ prueba la empat=C3=ADa si se considera que, para jugarlo, hay que ponerse =
+en los zapatos de los dem=C3=A1s. Con... <a href=3D"http://www.groupon.cl/g=
+o/1002342957?p=3D1&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm=
+_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-c=
+ondes&uh=3DaLw61M7o=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_more&d=3Ddeal-page&utm_campaign=
+=3D1002342957" style=3D"color:#0185C6; text-decoration:none;" target=3D"_bl=
+ank">m=C3=A1s</a>. </div> </td> </tr> </table> </td> <td rowspan=3D"2" vali=
+gn=3D"top" width=3D"290" style=3D"padding-right:20px; padding-bottom:20px;"=
+><a href=3D"http://www.groupon.cl/go/1002342957?p=3D1&nlp=3D&CID=3DCL_CRM_1=
+_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f=
+-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oJVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_=
+img&d=3Ddeal-page&utm_campaign=3D1002342957" title=3D"font-size:26px !impor=
+tant; font-weight:bold;" target=3D"_blank"><img src=3D"http://clande-produc=
+ts.s3.amazonaws.com/medium_443319-1.jpg" width=3D"290" height=3D"194" alt=
+=3D" Bowling en Aventura Center " title=3D" Bowling en Aventura Center " st=
+yle=3D"display: block; border: none; font-family:Arial, verdana, sans-serif=
+; color:#0891be; font-size:14px; font-weight:bold;" border=3D"0" align=3D'l=
+eft' /></a></td> </tr> <tr> <td align=3D'left' valign=3D"bottom" style=3D"p=
+adding:0 10px 20px 20px;"> <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"> <tr> <td height=3D"36" bgcolor=3D#82b548 width=3D"115" valign=3D"m=
+iddle" align=3D"center" style=3D"vertical-align: middle; background: #82b54=
+8 url(http://cl.static.groupon-content.net/mail_img/global/cta_btn_green_gr=
+adient.gif) 0 0 repeat-x; -moz-border-radius: 5px 5px 5px 5px; -webkit-bord=
+er-bottom-right-radius: 5px; -webkit-border-top-right-radius: 5px; -webkit-=
+border-bottom-left-radius: 5px; -webkit-border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-top-left-ra=
+dius: 5px; border-bottom-left-radius: 5px; border: 1px solid #72a30f; text-=
+align: center; font-weight: bold; font-size: 18px; font-family: Arial,Helve=
+tica,sans-serif; color:#ffffff;"><a class=3D"titleFont" href=3D"http://www.=
+groupon.cl/go/1002342957?p=3D1&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dne=
+wsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&divi=
+sion=3Dlas-condes&uh=3DaLw61M7oj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&ut=
+m_campaign=3D1002342957" style=3D"color: #ffffff; font-weight: bold; font-s=
+ize: 18px; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px -1px 0=
+px #3F8C23; text-decoration: none; display:block; line-height:30px;"target=
+=3D"_blank">Ver Groupon</a></td> <td width=3D"10">&nbsp;</td> <td> <span st=
+yle=3D"-webkit-text-size-adjust:none; font-family:Arial, Verdana, sans-seri=
+f; font-size:16px; font-weight:normal; color:#848484; text-decoration:line-=
+through; padding-right:5px;">$12.000</span> <span style=3D"font-family:Aria=
+l, Verdana, sans-serif; font-size:18px; font-weight:bold; color:#82b548;">$=
+5.000</span> </td> </tr> </table> </td> </tr> </table> </td> </tr> </table>=
+ </td> </tr> </table> </td> <td>&nbsp;</td> </tr> </table> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100/cl.static.groupon-content.net/mail_img/global/G1_bgTile.gif" bgcolor=3D"#e=
+2e2e2"> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"width: 100" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1p=
+x solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://w=
+ww.groupon.cl/go/1002348113?p=3D2&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6=
+&division=3Dlas-condes&uh=3DaLw61M7oIe6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&=
+utm_campaign=3D1002348113" target=3D"_blank" style=3D"color:#0185C6; text-d=
+ecoration:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium=
+_444540-006c000000wanwhia01.jpg" width=3D"288" border=3D"0"></a></td> </tr>=
+ <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px=
+ 10px; width:100" style=3D"width:100=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Hel=
+vetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font=
+-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002348113=
+?p=3D2&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Dem=
+ail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3Da=
+Lw61M7onder=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002348113" =
+target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">Lasa=C3=B1=
+a + Postre para 6</a></td> </tr> </table> </td> </tr> </table> </td> <td wi=
+dth=3D"20"><img src=3D"http://cl.static.groupon-content.net/mail_img/global=
+/spacer_10.gif" width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolo=
+r=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid =
+#c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.group=
+on.cl/go/1002347477?p=3D3&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewslet=
+ter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=
+=3Dlas-condes&uh=3DaLw61M7oo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campa=
+ign=3D1002347477" target=3D"_blank" style=3D"color:#0185C6; text-decoration=
+:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_444010-0=
+06c000000wbb0diag1.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td=
+ valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; wi=
+dth:100=3D"width:100-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica N=
+eue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 1=
+2px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002347477?p=3D3&n=
+lp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=
+=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o=
+rm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002347477" target=
+=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">D=C3=ADa de Pisc=
+ina</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valig=
+n=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px sol=
+id #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100 valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padding-bot=
+tom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Aria=
+l, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1; color:=
+#333; width:290px;">Santa Cocina</td> </tr> <tr> <td class=3D"titleFont" st=
+yle=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica'=
+, Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-hei=
+ght: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> <=
+/td> </tr> </table> </td> <td width=3D"10"><img src=3D"http://cl.static.gro=
+upon-content.net/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /=
+></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; bor=
+der-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10p=
+x;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+:100llspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" styl=
+e=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica',=
+ Helvetica, Arial, sans-serif; font-weight: normal;font-size: 12px;line-hei=
+ght: 1.1; color:#333; width:290px;">Nuevo Rancho del Sol</td> </tr> <tr> <t=
+d class=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helv=
+etica Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;=
+font-size: 12px;line-height: 1.1; color:#666; width:290px;"> Santiago &nbsp=
+; </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"=
+top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-rig=
+ht:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;=
+"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:1=
+00nt:12px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; paddin=
+g: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPrice=
+Padding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;">=
+ <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, He=
+lvetica, sans-serif; font-size:14px !important; line-height:19px !important=
+; color:#333;"> <tr> <td align=3D"left" class=3D"titleFont" valign=3D"top" =
+style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; font-weigh=
+t:normal; color:#848484; text-decoration:line-through; line-height:1.1; pad=
+ding-right:7px">$21.800</td> <td valign=3D"top" class=3D"titleFont" style=
+=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; font-weight:bol=
+d; color:#82b548; padding:0 7px 0 0; line-height:1.1;">$14.990</td> </tr> <=
+/table> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=
+=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.cl/go/100=
+2348113?p=3D2&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medi=
+um=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes=
+&uh=3DaLw61M7o2501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002=
+348113" target=3D"_blank" style=3D"color: #FFF; text-decoration: none; curs=
+or: pointer; display: inline-block;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=
+=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px=
+; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_blank" =
+style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.groupon.c=
+l/go/1002348113?p=3D2&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&=
+utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dla=
+s-condes&uh=3DaLw61M7oe=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaig=
+n=3D1002348113">Ver</a></td> </tr> </table> </a> </td> </tr> </table> </td>=
+ <td width=3D"10"><img src=3D"http://cl.static.groupon-content.net/mail_img=
+/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top"=
+ bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1=
+px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100> <tr> <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:1=
+2px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0=
+ 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadd=
+ing" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <ta=
+ble cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvet=
+ica, sans-serif; font-size:14px !important; line-height:19px !important; co=
+lor:#333;"> <tr> <td valign=3D"top" class=3D"titleFont" style=3D"font-famil=
+y:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b5=
+48; padding:0 7px 0 0; line-height:1.1;">$3.000</td> </tr> </table> </td> <=
+/tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=
+=3D"padding:0 10px;"> <a href=3D"http://www.groupon.cl/go/1002347477?p=3D3&=
+nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=
+=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o=
+rm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002347477" target=
+=3D"_blank" style=3D"color: #FFF; text-decoration: none; cursor: pointer; d=
+isplay: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"bottom" sty=
+le=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; font-weight:b=
+old; color:#666666; line-height:14px;"><a target=3D"_blank" style=3D"color:=
+#0185C6; text-decoration:none;" href=3D"http://www.groupon.cl/go/1002347477=
+?p=3D3&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Dem=
+ail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3Da=
+Lw61M7onder=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002347477"=
+>Ver</a></td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td=
+ height=3D"20" style=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> =
+<td>&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 100 valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; =
+border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a hr=
+ef=3D"http://www.groupon.cl/go/1002344649?p=3D4&nlp=3D&CID=3DCL_CRM_1_0_0_2=
+5&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-=
+5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7of4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=
+=3Ddeal-page&utm_campaign=3D1002344649" target=3D"_blank" style=3D"color:#0=
+185C6; text-decoration:none;"><img src=3D"http://clande-products.s3.amazona=
+ws.com/medium_441077-006c000000urvqaiak1.jpg" width=3D"288" border=3D"0"></=
+a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:=
+10px 10px 5px 10px; width:100" border=3D"0" style=3D"width:100'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue =
+Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weigh=
+t: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.cl/g=
+o/1002344649?p=3D4&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm=
+_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-c=
+ondes&uh=3DaLw61M7o=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=
+=3D1002344649" target=3D"_blank" style=3D"color:#0185C6; text-decoration:no=
+ne;">Men=C3=BA para 2 en Madam Tusan</a></td> </tr> </table> </td> </tr> </=
+table> </td> <td width=3D"20"><img src=3D"http://cl.static.groupon-content.=
+net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" /></td> <td va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; bor=
+der-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=
+=3D"http://www.groupon.cl/go/1002346690?p=3D5&nlp=3D&CID=3DCL_CRM_1_0_0_25&=
+utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a=
+66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oQPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3D=
+deal-page&utm_campaign=3D1002346690" target=3D"_blank" style=3D"color:#0185=
+C6; text-decoration:none;"><img src=3D"http://clande-products.s3.amazonaws.=
+com/medium_443066-006c000000ut7tiiac1.jpg" width=3D"288" border=3D"0"></a><=
+/td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10p=
+x 10px 5px 10px; width:100order=3D"0" style=3D"width:100ft' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Lig=
+ht', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: =
+bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1=
+002346690?p=3D5&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_me=
+dium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-cond=
+es&uh=3DaLw61M7o152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D100=
+2346690" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">B=
+lanqueamiento Dental Led</a></td> </tr> </table> </td> </tr> </table> </td>=
+ </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px=
+; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0p=
+x 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+width:1000" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description"=
+ style=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvet=
+ica', Helvetica, Arial, sans-serif; font-weight: normal;font-size: 12px;lin=
+e-height: 1.1; color:#333; width:290px;">Madam Tusan</td> </tr> <tr> <td cl=
+ass=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetic=
+a Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font=
+-size: 12px;line-height: 1.1; color:#666; width:290px;"> Santiago &nbsp; </=
+td> </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"=
+http://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=
+=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px solid =
+#c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"width:100ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"tit=
+leFont description" style=3D"padding-bottom:5px; font-family: Arial, 'Helve=
+tica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal;=
+font-size: 12px;line-height: 1.1; color:#333; width:290px;">Grupo Uno Salud=
+ S<span>.</span>A<span>.</span></td> </tr> <tr> <td class=3D"titleFont" sty=
+le=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica',=
+ Helvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-heig=
+ht: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </=
+td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" =
+style=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; bor=
+der-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" style=3D"width:100eft' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, s=
+ans-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> <=
+/tr> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" st=
+yle=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size:14px !important; line-height:19px !important; color:#333;"> <tr> <td =
+align=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Aria=
+l, Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; =
+text-decoration:line-through; line-height:1.1; padding-right:7px">$29.200</=
+td> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verd=
+ana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0=
+ 7px 0 0; line-height:1.1;">$18.900</td> </tr> </table> </td> </tr> <tr> <t=
+d class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 =
+10px;"> <a href=3D"http://www.groupon.cl/go/1002344649?p=3D4&nlp=3D&CID=3DC=
+L_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91=
+cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7ovS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=
+=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002344649" target=3D"_blank" s=
+tyle=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inlin=
+e-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <t=
+d class=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-fami=
+ly:Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666=
+666; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-d=
+ecoration:none;" href=3D"http://www.groupon.cl/go/1002344649?p=3D4&nlp=3D&C=
+ID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca=
+49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7orsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Db=
+ody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002344649">Ver</a></td> <=
+/tr> </table> </a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"=
+http://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=
+=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-b=
+ottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"width:100class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans-s=
+erif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> =
+<tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=
+=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze:14px !important; line-height:19px !important; color:#333;"> <tr> <td ali=
+gn=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; tex=
+t-decoration:line-through; line-height:1.1; padding-right:7px">$208.500</td=
+> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdan=
+a, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7=
+px 0 0; line-height:1.1;">$32.000</td> </tr> </table> </td> </tr> <tr> <td =
+class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10=
+px;"> <a href=3D"http://www.groupon.cl/go/1002346690?p=3D5&nlp=3D&CID=3DCL_=
+CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb=
+-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3D=
+deal_button&d=3Ddeal-page&utm_campaign=3D1002346690" target=3D"_blank" styl=
+e=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-b=
+lock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td c=
+lass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666=
+; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-deco=
+ration:none;" href=3D"http://www.groupon.cl/go/1002346690?p=3D5&nlp=3D&CID=
+=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49=
+c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbod=
+y&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002346690">Ver</a></td> </t=
+r> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" st=
+yle=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> <=
+/tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"width: 100gcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px s=
+olid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.=
+groupon.cl/go/1002346827?p=3D6&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dne=
+wsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&divi=
+sion=3Dlas-condes&uh=3DaLw61M7oj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_c=
+ampaign=3D1002346827" target=3D"_blank" style=3D"color:#0185C6; text-decora=
+tion:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_4432=
+49-006c000000wafnhiao1.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr>=
+ <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px=
+; width:100le=3D"width:100nt-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica=
+ Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size:=
+ 12px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002346827?p=3D6=
+&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&si=
+d=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7=
+o=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002346827" targ=
+et=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">Acceso Libre a=
+ Gimnasio</a></td> </tr> </table> </td> </tr> </table> </td> <td width=3D"2=
+0"><img src=3D"http://cl.static.groupon-content.net/mail_img/global/spacer_=
+10.gif" width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FF=
+FFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1;=
+ border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.cl/go=
+/1002346867?p=3D7&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_=
+medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-co=
+ndes&uh=3DaLw61M7o20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D100=
+2346867" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><=
+img src=3D"http://clande-products.s3.amazonaws.com/medium_442401-006c000000=
+uqetmia01.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=
+=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100=
+:100Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Hel=
+vetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; colo=
+r:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002346867?p=3D7&nlp=3D&CID=
+=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49=
+c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbod=
+y&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002346867" target=3D"_blank"=
+ style=3D"color:#0185C6; text-decoration:none;">Paella para Cuatro</a></td>=
+ </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bg=
+color=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; =
+border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" style=3D"width:100op" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+> <tr> <td class=3D"titleFont description" style=3D"padding-bottom:5px; fon=
+t-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-seri=
+f; font-weight: normal;font-size: 12px;line-height: 1.1; color:#333; width:=
+290px;">Gym Squash</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding=
+-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, A=
+rial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; colo=
+r:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> </t=
+able> </td> <td width=3D"10"><img src=3D"http://cl.static.groupon-content.n=
+et/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td val=
+ign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px s=
+olid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padding-b=
+ottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Ar=
+ial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1; colo=
+r:#333; width:290px;">Guria</td> </tr> <tr> <td class=3D"titleFont" style=
+=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height=
+: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td=
+> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" st=
+yle=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; borde=
+r-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100t' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, san=
+s-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </t=
+r> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" styl=
+e=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-s=
+ize:14px !important; line-height:19px !important; color:#333;"> <tr> <td al=
+ign=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial,=
+ Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; te=
+xt-decoration:line-through; line-height:1.1; padding-right:7px">$43.900</td=
+> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdan=
+a, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7=
+px 0 0; line-height:1.1;">$21.900</td> </tr> </table> </td> </tr> <tr> <td =
+class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10=
+px;"> <a href=3D"http://www.groupon.cl/go/1002346827?p=3D6&nlp=3D&CID=3DCL_=
+CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb=
+-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3D=
+deal_button&d=3Ddeal-page&utm_campaign=3D1002346827" target=3D"_blank" styl=
+e=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-b=
+lock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td c=
+lass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666=
+; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-deco=
+ration:none;" href=3D"http://www.groupon.cl/go/1002346827?p=3D6&nlp=3D&CID=
+=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49=
+c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbod=
+y&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002346827">Ver</a></td> </t=
+r> </table> </a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"ht=
+tp://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"=
+10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"bo=
+rder-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:=
+1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" style=3D"width:100=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif;=
+ color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> <tr> =
+<td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"pad=
+ding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14px=
+ !important; line-height:19px !important; color:#333;"> <tr> <td valign=3D"=
+top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-serif; f=
+ont-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line-hei=
+ght:1.1;">$38.500</td> </tr> </table> </td> </tr> <tr> <td class=3D"buttonP=
+adding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a href=3D=
+"http://www.groupon.cl/go/1002346867?p=3D7&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm=
+_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66e=
+fdfddf6&division=3Dlas-condes&uh=3DaLw61M7oWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3D=
+deal-page&utm_campaign=3D1002346867" target=3D"_blank" style=3D"color: #FFF=
+; text-decoration: none; cursor: pointer; display: inline-block;"> <table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButt=
+on" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, =
+sans-serif; font-size:12px; font-weight:bold; color:#666666; line-height:14=
+px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" hr=
+ef=3D"http://www.groupon.cl/go/1002346867?p=3D7&nlp=3D&CID=3DCL_CRM_1_0_0_2=
+5&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-=
+5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7of4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button=
+&d=3Ddeal-page&utm_campaign=3D1002346867">Ver</a></td> </tr> </table> </a> =
+</td> </tr> </table> </td> </tr> <tr> <td height=3D"20" style=3D"line-heigh=
+t:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr> <td>&nb=
+sp;</td> <td width=3D"600"> <table cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D"width: 100" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; bor=
+der-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.cl/go/100=
+2347108?p=3D8&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medi=
+um=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes=
+&uh=3DaLw61M7o2501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D1002347=
+108" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img =
+src=3D"http://clande-products.s3.amazonaws.com/medium_438273-006c000000uqh0=
+aiaw1.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"to=
+p" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100"> <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: Arial,=
+ 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica=
+, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; color:#018=
+5c6;"><a href=3D"http://www.groupon.cl/go/1002347108?p=3D8&nlp=3D&CID=3DCL_=
+CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb=
+-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3D=
+deal_title&d=3Ddeal-page&utm_campaign=3D1002347108" target=3D"_blank" style=
+=3D"color:#0185C6; text-decoration:none;">Desayuno u Once</a></td> </tr> </=
+table> </td> </tr> </table> </td> <td width=3D"20"><img src=3D"http://cl.st=
+atic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1=
+px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1=
+c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td w=
+idth=3D"280"><a href=3D"http://www.groupon.cl/go/1002346916?p=3D9&nlp=3D&CI=
+D=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca4=
+9c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7osa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbo=
+dy&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D1002346916" target=3D"_blank" =
+style=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://clande-pr=
+oducts.s3.amazonaws.com/medium_442981-006c000000uteddia41.jpg" width=3D"288=
+" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" =
+style=3D"padding:10px 10px 5px 10px; width:100 cellspacing=3D"0" border=3D"0" style=3D"width:100tleFont" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light',=
+ 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-heigh=
+t: 1.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http:/=
+/www.groupon.cl/go/1002346916?p=3D9&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6=
+&division=3Dlas-condes&uh=3DaLw61M7oIe6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-pag=
+e&utm_campaign=3D1002346916" target=3D"_blank" style=3D"color:#0185C6; text=
+-decoration:none;">Tenedor Libre en Havana Salsa</a></td> </tr> </table> </=
+td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" =
+style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px s=
+olid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" style=3D"width:100> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;">La Cafet=
+er=C3=ADa del Caj=C3=B3n - San Jos=C3=A9 de Maipo</td> </tr> <tr> <td class=
+=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial, 'Helvetica N=
+eue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: normal;font-si=
+ze: 12px;line-height: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td>=
+ </tr> </table> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"htt=
+p://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"1=
+0" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max=
+-width:294px; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1=
+; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" style=3D"width:100lpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont =
+description" style=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Ne=
+ue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal;font-si=
+ze: 12px;line-height: 1.1; color:#333; width:290px;">Havana Salsa - Recolet=
+a</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;font-=
+family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;=
+font-weight: normal;font-size: 12px;line-height: 1.1; color:#666; width:290=
+px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> </table> </td> </tr>=
+ <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid=
+ #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; =
+padding-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"width:100=3D"280" style=3D"font:12px Arial, Verdana, sans-serif; color:#666666; line=
+-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' c=
+lass=3D"channelPricePadding" width=3D"280" style=3D"padding:5px 0 5px 10px;=
+ line-height:14px;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:14px !important; line-he=
+ight:19px !important; color:#333;"> <tr> <td align=3D"left" class=3D"titleF=
+ont" valign=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; font-s=
+ize:14px; font-weight:normal; color:#848484; text-decoration:line-through; =
+line-height:1.1; padding-right:7px">$17.100</td> <td valign=3D"top" class=
+=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-serif; font-size:1=
+4px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line-height:1.1;">=
+$8.900</td> </tr> </table> </td> </tr> <tr> <td class=3D"buttonPadding" ali=
+gn=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://www=
+.groupon.cl/go/1002347108?p=3D8&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dn=
+ewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&div=
+ision=3Dlas-condes&uh=3DaLw61M7odj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&u=
+tm_campaign=3D1002347108" target=3D"_blank" style=3D"color: #FFF; text-deco=
+ration: none; cursor: pointer; display: inline-block;"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=
+=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-seri=
+f; font-size:12px; font-weight:bold; color:#666666; line-height:14px;"><a t=
+arget=3D"_blank" style=3D"color:#0185C6; text-decoration:none;" href=3D"htt=
+p://www.groupon.cl/go/1002347108?p=3D8&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_sou=
+rce=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfd=
+df6&division=3Dlas-condes&uh=3DaLw61M7oQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal=
+-page&utm_campaign=3D1002347108">Ver</a></td> </tr> </table> </a> </td> </t=
+r> </table> </td> <td width=3D"10"><img src=3D"http://cl.static.groupon-con=
+tent.net/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <=
+td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c=
+1; border-right:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding=
+-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width:100" style=3D"font:12px Arial, Verdana, sans-serif; color:#666666; line-height=
+: 1.1; padding: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D=
+"channelPricePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-h=
+eight:14px;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size:14px !important; line-height:19=
+px !important; color:#333;"> <tr> <td align=3D"left" class=3D"titleFont" va=
+lign=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14p=
+x; font-weight:normal; color:#848484; text-decoration:line-through; line-he=
+ight:1.1; padding-right:7px">$11.990</td> <td valign=3D"top" class=3D"title=
+Font" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; font=
+-weight:bold; color:#82b548; padding:0 7px 0 0; line-height:1.1;">$5.990</t=
+d> </tr> </table> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'rig=
+ht' width=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.=
+cl/go/1002346916?p=3D9&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter=
+&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dl=
+as-condes&uh=3DaLw61M7ote=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campai=
+gn=3D1002346916" target=3D"_blank" style=3D"color: #FFF; text-decoration: n=
+one; cursor: pointer; display: inline-block;"> <table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" =
+valign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-siz=
+e:12px; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_b=
+lank" style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.gro=
+upon.cl/go/1002346916?p=3D9&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsl=
+etter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&divisio=
+n=3Dlas-condes&uh=3DaLw61M7oUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_c=
+ampaign=3D1002346916">Ver</a></td> </tr> </table> </a> </td> </tr> </table>=
+ </td> </tr> <tr> <td height=3D"20" style=3D"line-height:0px;">&nbsp;</td> =
+</tr> </table> </td> <td>&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td width=
+=3D"600"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+width: 100top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-right:1px soli=
+d #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> =
+<td width=3D"280"><a href=3D"http://www.groupon.cl/go/1002332178?p=3D10&nlp=
+=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oNnhmVrsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&=
+s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D1002332178" target=3D"_b=
+lank" style=3D"color:#0185C6; text-decoration:none;"><img src=3D"http://cla=
+nde-products.s3.amazonaws.com/medium_443207-006c000000ustxqiac1.jpg" width=
+=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#F=
+FFFFF" style=3D"padding:10px 10px 5px 10px; width:100g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100s=3D"titleFont" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-=
+Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;lin=
+e-height: 1.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D=
+"http://www.groupon.cl/go/1002332178?p=3D10&nlp=3D&CID=3DCL_CRM_1_0_0_25&ut=
+m_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66=
+efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3D=
+deal-page&utm_campaign=3D1002332178" target=3D"_blank" style=3D"color:#0185=
+C6; text-decoration:none;">Depilaci=C3=B3n IPL</a></td> </tr> </table> </td=
+> </tr> </table> </td> <td width=3D"20"><img src=3D"http://cl.static.groupo=
+n-content.net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" /></=
+td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c=
+1c1c1; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <ta=
+ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280=
+"><a href=3D"http://www.groupon.cl/go/1002325539?p=3D11&nlp=3D&CID=3DCL_CRM=
+_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-44=
+7f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddea=
+l_img&d=3Ddeal-page&utm_campaign=3D1002325539" target=3D"_blank" style=3D"c=
+olor:#0185C6; text-decoration:none;"><img src=3D"http://clande-products.s3.=
+amazonaws.com/medium_437982-006c000000uqcaviaw1.jpg" width=3D"288" border=
+=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D=
+"padding:10px 10px 5px 10px; width:100cing=3D"0" border=3D"0" style=3D"width:100 align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvet=
+ica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;f=
+ont-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www.gro=
+upon.cl/go/1002325539?p=3D11&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnews=
+letter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&divisi=
+on=3Dlas-condes&uh=3DaLw61M7oBUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_c=
+ampaign=3D1002325539" target=3D"_blank" style=3D"color:#0185C6; text-decora=
+tion:none;">Depilaci=C3=B3n Cuerpo Completo</a></td> </tr> </table> </td> <=
+/tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px solid =
+#c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"width:100ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"tit=
+leFont description" style=3D"padding-bottom:5px; font-family: Arial, 'Helve=
+tica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal;=
+font-size: 12px;line-height: 1.1; color:#333; width:290px;">Qtis Centro de =
+Est=C3=A9tica - Providencia</td> </tr> <tr> <td class=3D"titleFont" style=
+=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height=
+: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td=
+> </tr> </table> </td> <td width=3D"10"><img src=3D"http://cl.static.groupo=
+n-content.net/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></=
+td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border=
+-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:10=
+0pacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=
+=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', =
+Helvetica, Arial, sans-serif; font-weight: normal;font-size: 12px;line-heig=
+ht: 1.1; color:#333; width:290px;">Integra Laser - Providencia</td> </tr> <=
+tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: n=
+ormal;font-size: 12px;line-height: 1.1; color:#666; width:290px;"> Santiago=
+ &nbsp; </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td vali=
+gn=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; bord=
+er-right:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom=
+:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"w=
+idth:100=3D"font:12px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; =
+padding: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channe=
+lPricePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:1=
+4px;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Ari=
+al, Helvetica, sans-serif; font-size:14px !important; line-height:19px !imp=
+ortant; color:#333;"> <tr> <td valign=3D"top" class=3D"titleFont" style=3D"=
+font-family:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; c=
+olor:#82b548; padding:0 7px 0 0; line-height:1.1;">$29.000</td> </tr> </tab=
+le> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"2=
+80" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.cl/go/10023321=
+78?p=3D10&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&u=
+h=3DaLw61M7o01&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D100233=
+2178" target=3D"_blank" style=3D"color: #FFF; text-decoration: none; cursor=
+: pointer; display: inline-block;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"b=
+ottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; fon=
+t-weight:bold; color:#666666; line-height:14px;"><a target=3D"_blank" style=
+=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.groupon.cl/go/=
+1002332178?p=3D10&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_=
+medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-co=
+ndes&uh=3DaLw61M7o20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D=
+1002332178">Ver</a></td> </tr> </table> </a> </td> </tr> </table> </td> <td=
+ width=3D"10"><img src=3D"http://cl.static.groupon-content.net/mail_img/glo=
+bal/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgc=
+olor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-right:1px s=
+olid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100r> <td align=3D'left' class=3D"titleFont" width=3D"280" style=3D"font:12px =
+Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; padding: 0 10p=
+x;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPricePadding"=
+ width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"> <table =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size:14px !important; line-height:19px !important; color:=
+#333;"> <tr> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Ar=
+ial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:#82b548; =
+padding:0 7px 0 0; line-height:1.1;">$199.000</td> </tr> </table> </td> </t=
+r> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"=
+padding:0 10px;"> <a href=3D"http://www.groupon.cl/go/1002325539?p=3D11&nlp=
+=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oNnhmVrsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&=
+s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002325539" target=3D=
+"_blank" style=3D"color: #FFF; text-decoration: none; cursor: pointer; disp=
+lay: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D=
+"font-family:Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; =
+color:#666666; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185=
+C6; text-decoration:none;" href=3D"http://www.groupon.cl/go/1002325539?p=3D=
+11&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&=
+sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61=
+M7o=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002325539">Ver=
+</a></td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td hei=
+ght=3D"20" style=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>=
+&nbsp;</td> </tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 100ign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; bord=
+er-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=
+=3D"http://www.groupon.cl/go/1002344408?p=3D12&nlp=3D&CID=3DCL_CRM_1_0_0_25=
+&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5=
+a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=
+=3Ddeal-page&utm_campaign=3D1002344408" target=3D"_blank" style=3D"color:#0=
+185C6; text-decoration:none;"><img src=3D"http://clande-products.s3.amazona=
+ws.com/medium_442060-431619-006c000000srgkniae1-thumb.jpg" width=3D"288" bo=
+rder=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" styl=
+e=3D"padding:10px 10px 5px 10px; width:100lspacing=3D"0" border=3D"0" style=3D"width:100ont" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'He=
+lvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1=
+.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://www=
+.groupon.cl/go/1002344408?p=3D12&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3D=
+newsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&di=
+vision=3Dlas-condes&uh=3DaLw61M7oTdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&u=
+tm_campaign=3D1002344408" target=3D"_blank" style=3D"color:#0185C6; text-de=
+coration:none;">Plasma Rico en Plaquetas</a></td> </tr> </table> </td> </tr=
+> </table> </td> <td width=3D"20"><img src=3D"http://cl.static.groupon-cont=
+ent.net/mail_img/global/spacer_10.gif" width=3D"20" height=3D"1" /></td> <t=
+d valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1;=
+ border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1;"> <table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a h=
+ref=3D"http://www.groupon.cl/go/1002349183?p=3D13&nlp=3D&CID=3DCL_CRM_1_0_0=
+_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61=
+b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7obLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&=
+d=3Ddeal-page&utm_campaign=3D1002349183" target=3D"_blank" style=3D"color:#=
+0185C6; text-decoration:none;"><img src=3D"http://clande-products.s3.amazon=
+aws.com/medium_444981-444529-006c000000war9ziaw2-thumb.jpg" width=3D"288" b=
+order=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" sty=
+le=3D"padding:10px 10px 5px 10px; width:100llspacing=3D"0" border=3D"0" style=3D"width:100Font" align=3D'left' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'H=
+elvetica Neue Light', 'Helvetica Neue', Helvetica, sans-serif;line-height: =
+1.4;font-weight: bold;font-size: 12px; color:#0185c6;"><a href=3D"http://ww=
+w.groupon.cl/go/1002349183?p=3D13&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6=
+&division=3Dlas-condes&uh=3DaLw61M7oIe6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-pag=
+e&utm_campaign=3D1002349183" target=3D"_blank" style=3D"color:#0185C6; text=
+-decoration:none;">D=C3=ADa de Actividades Outdoor</a></td> </tr> </table> =
+</td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF=
+" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-right:1px=
+ solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width:100t'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"titleFont description" style=3D"padding-bottom:5px; font-family: Arial,=
+ 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;">Havanast=
+etic</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;fo=
+nt-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-ser=
+if;font-weight: normal;font-size: 12px;line-height: 1.1; color:#666; width:=
+290px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> </table> </td> <t=
+d width=3D"10"><img src=3D"http://cl.static.groupon-content.net/mail_img/gl=
+obal/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bg=
+color=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; =
+border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" style=3D"width:100op" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+> <tr> <td class=3D"titleFont description" style=3D"padding-bottom:5px; fon=
+t-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-seri=
+f; font-weight: normal;font-size: 12px;line-height: 1.1; color:#333; width:=
+290px;">Parques de Farellones</td> </tr> <tr> <td class=3D"titleFont" style=
+=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height=
+: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td=
+> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" st=
+yle=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; borde=
+r-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100t' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, san=
+s-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </t=
+r> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" styl=
+e=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-s=
+ize:14px !important; line-height:19px !important; color:#333;"> <tr> <td al=
+ign=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial,=
+ Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; te=
+xt-decoration:line-through; line-height:1.1; padding-right:7px">$250.000</t=
+d> <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verda=
+na, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 =
+7px 0 0; line-height:1.1;">$55.000</td> </tr> </table> </td> </tr> <tr> <td=
+ class=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 1=
+0px;"> <a href=3D"http://www.groupon.cl/go/1002344408?p=3D12&nlp=3D&CID=3DC=
+L_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91=
+cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7ovS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=
+=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002344408" target=3D"_blank" s=
+tyle=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inlin=
+e-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <t=
+d class=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-fami=
+ly:Arial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666=
+666; line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-d=
+ecoration:none;" href=3D"http://www.groupon.cl/go/1002344408?p=3D12&nlp=3D&=
+CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bc=
+a49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oVrsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3D=
+body&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002344408">Ver</a></td> =
+</tr> </table> </a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D=
+"http://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=
+=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-b=
+ottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"width:100class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans-s=
+erif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> =
+<tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=
+=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze:14px !important; line-height:19px !important; color:#333;"> <tr> <td ali=
+gn=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, =
+Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; tex=
+t-decoration:line-through; line-height:1.1; padding-right:7px">$16.000</td>=
+ <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana=
+, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7p=
+x 0 0; line-height:1.1;">$4.990</td> </tr> </table> </td> </tr> <tr> <td cl=
+ass=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px=
+;"> <a href=3D"http://www.groupon.cl/go/1002349183?p=3D13&nlp=3D&CID=3DCL_C=
+RM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-=
+447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7obLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Dd=
+eal_button&d=3Ddeal-page&utm_campaign=3D1002349183" target=3D"_blank" style=
+=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-bl=
+ock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td cl=
+ass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:A=
+rial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666;=
+ line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decor=
+ation:none;" href=3D"http://www.groupon.cl/go/1002349183?p=3D13&nlp=3D&CID=
+=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49=
+c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbod=
+y&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002349183">Ver</a></td> </t=
+r> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" st=
+yle=3D"line-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> <=
+/tr> <tr> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"width: 100gcolor=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px s=
+olid #c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.=
+groupon.cl/go/1002344328?p=3D14&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dn=
+ewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&div=
+ision=3Dlas-condes&uh=3DaLw61M7odj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_=
+campaign=3D1002344328" target=3D"_blank" style=3D"color:#0185C6; text-decor=
+ation:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_432=
+307-424414-006c000000rewrjiae1-thumb.jpg" width=3D"288" border=3D"0"></a></=
+td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px=
+ 10px 5px 10px; width:100rder=3D"0" style=3D"width:100t' style=3D"font-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Ligh=
+t', 'Helvetica Neue', Helvetica, sans-serif;line-height: 1.4;font-weight: b=
+old;font-size: 12px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/10=
+02344328?p=3D14&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_me=
+dium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-cond=
+es&uh=3DaLw61M7o152501&sender=3Drm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D100=
+2344328" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">A=
+uriculoterapia</a></td> </tr> </table> </td> </tr> </table> </td> <td width=
+=3D"20"><img src=3D"http://cl.static.groupon-content.net/mail_img/global/sp=
+acer_10.gif" width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #=
+c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupo=
+n.cl/go/1002346949?p=3D15&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewslet=
+ter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=
+=3Dlas-condes&uh=3DaLw61M7oo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campa=
+ign=3D1002346949" target=3D"_blank" style=3D"color:#0185C6; text-decoration=
+:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_444516-1=
+.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top" bg=
+color=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100 cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100r> <td class=3D"titleFont" align=3D'left' style=3D"font-family: Arial, 'Hel=
+veticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, san=
+s-serif;line-height: 1.4;font-weight: bold;font-size: 12px; color:#0185c6;"=
+><a href=3D"http://www.groupon.cl/go/1002346949?p=3D15&nlp=3D&CID=3DCL_CRM_=
+1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447=
+f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal=
+_title&d=3Ddeal-page&utm_campaign=3D1002346949" target=3D"_blank" style=3D"=
+color:#0185C6; text-decoration:none;">Alfajores Havanna</a></td> </tr> </ta=
+ble> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#F=
+FFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; border-righ=
+t:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width:100=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <t=
+d class=3D"titleFont description" style=3D"padding-bottom:5px; font-family:=
+ Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-w=
+eight: normal;font-size: 12px;line-height: 1.1; color:#333; width:290px;">S=
+aint Amelie</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom=
+:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, s=
+ans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; color:#666;=
+ width:290px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> </table> <=
+/td> <td width=3D"10"><img src=3D"http://cl.static.groupon-content.net/mail=
+_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"=
+top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c=
+1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100gn=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padding-bottom:5=
+px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sa=
+ns-serif; font-weight: normal;font-size: 12px;line-height: 1.1; color:#333;=
+ width:290px;">Havanna</td> </tr> <tr> <td class=3D"titleFont" style=3D"pad=
+ding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; =
+color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr>=
+ </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"=
+border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-botto=
+m:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" style=3D"width:100s=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif=
+; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> <tr>=
+ <td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"pa=
+dding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14p=
+x !important; line-height:19px !important; color:#333;"> <tr> <td valign=3D=
+"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-serif; =
+font-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; line-he=
+ight:1.1;">$20.900</td> </tr> </table> </td> </tr> <tr> <td class=3D"button=
+Padding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a href=
+=3D"http://www.groupon.cl/go/1002344328?p=3D14&nlp=3D&CID=3DCL_CRM_1_0_0_25=
+&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5=
+a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&=
+d=3Ddeal-page&utm_campaign=3D1002344328" target=3D"_blank" style=3D"color: =
+#FFF; text-decoration: none; cursor: pointer; display: inline-block;"> <tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"view=
+Button" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Verda=
+na, sans-serif; font-size:12px; font-weight:bold; color:#666666; line-heigh=
+t:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;=
+" href=3D"http://www.groupon.cl/go/1002344328?p=3D14&nlp=3D&CID=3DCL_CRM_1_=
+0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-=
+a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_b=
+utton&d=3Ddeal-page&utm_campaign=3D1002344328">Ver</a></td> </tr> </table> =
+</a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"http://cl.stat=
+ic.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"10" height=
+=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:=
+1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:1px solid =
+#c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"width:100nt" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif; color:#666=
+666; line-height: 1.1; padding: 0 10px;"><span style=3D'color: #e47838; fon=
+t-weight: normal;'>Mas de 50 comprados</span> &nbsp;&nbsp;</td> </tr> <tr> =
+<td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"pad=
+ding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14px=
+ !important; line-height:19px !important; color:#333;"> <tr> <td align=3D"l=
+eft" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Verdana=
+, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-decor=
+ation:line-through; line-height:1.1; padding-right:7px">$6.500</td> <td val=
+ign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-s=
+erif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; l=
+ine-height:1.1;">$3.900</td> </tr> </table> </td> </tr> <tr> <td class=3D"b=
+uttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a h=
+ref=3D"http://www.groupon.cl/go/1002346949?p=3D15&nlp=3D&CID=3DCL_CRM_1_0_0=
+_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61=
+b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7obLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_butt=
+on&d=3Ddeal-page&utm_campaign=3D1002346949" target=3D"_blank" style=3D"colo=
+r: #FFF; text-decoration: none; cursor: pointer; display: inline-block;"> <=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"v=
+iewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, Ve=
+rdana, sans-serif; font-size:12px; font-weight:bold; color:#666666; line-he=
+ight:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:no=
+ne;" href=3D"http://www.groupon.cl/go/1002346949?p=3D15&nlp=3D&CID=3DCL_CRM=
+_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-44=
+7f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddea=
+l_button&d=3Ddeal-page&utm_campaign=3D1002346949">Ver</a></td> </tr> </tabl=
+e> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" style=3D"li=
+ne-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr>=
+ <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" style=3D"width: 100"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c=
+1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.c=
+l/go/1002344323?p=3D16&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter=
+&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dl=
+as-condes&uh=3DaLw61M7ote=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=
+=3D1002344323" target=3D"_blank" style=3D"color:#0185C6; text-decoration:no=
+ne;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_444075-006c=
+000000wax2vias1.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td va=
+lign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width=
+:100idth:100ly: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',=
+ Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; =
+color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002344323?p=3D16&nlp=
+=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oNnhmVrsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&=
+s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002344323" target=3D"=
+_blank" style=3D"color:#0185C6; text-decoration:none;">Entrada al Planetari=
+o</a></td> </tr> </table> </td> </tr> </table> </td> <td width=3D"20"><img =
+src=3D"http://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" =
+width=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" st=
+yle=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-=
+right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.cl/go/1002344=
+462?p=3D17&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&u=
+h=3DaLw61M7o01&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D100234446=
+2" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img sr=
+c=3D"http://clande-products.s3.amazonaws.com/medium_432367-418428-006c00000=
+0qji0uiag1-thumb.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td v=
+align=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; widt=
+h:100width:100ily: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue'=
+, Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px;=
+ color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002344462?p=3D17&nlp=
+=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D=
+07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oNnhmVrsa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&=
+s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002344462" target=3D"=
+_blank" style=3D"color:#0185C6; text-decoration:none;">Sesi=C3=B3n Fotogr=
+=C3=A1fica de =C3=89poca</a></td> </tr> </table> </td> </tr> </table> </td>=
+ </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px=
+; border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0p=
+x 10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+width:1000" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description"=
+ style=3D"padding-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvet=
+ica', Helvetica, Arial, sans-serif; font-weight: normal;font-size: 12px;lin=
+e-height: 1.1; color:#333; width:290px;">Planetario - Estaci=C3=B3n Central=
+</td> </tr> <tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;font-f=
+amily: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;f=
+ont-weight: normal;font-size: 12px;line-height: 1.1; color:#666; width:290p=
+x;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> </table> </td> <td wi=
+dth=3D"10"><img src=3D"http://cl.static.groupon-content.net/mail_img/global=
+/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D"top" bgcolo=
+r=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1; bord=
+er-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"width:100align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <t=
+r> <td class=3D"titleFont description" style=3D"padding-bottom:5px; font-fa=
+mily: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; f=
+ont-weight: normal;font-size: 12px;line-height: 1.1; color:#333; width:290p=
+x;">El Ba=C3=BAl de la Abuela</td> </tr> <tr> <td class=3D"titleFont" style=
+=3D"padding-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height=
+: 1.1; color:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td=
+> </tr> </table> </td> </tr> <tr> <td valign=3D"top" bgcolor=3D"#FFFFFF" st=
+yle=3D"border-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; borde=
+r-bottom:1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100t' class=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, san=
+s-serif; color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </t=
+r> <tr> <td align=3D'left' class=3D"channelPricePadding" width=3D"280" styl=
+e=3D"padding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-s=
+ize:14px !important; line-height:19px !important; color:#333;"> <tr> <td al=
+ign=3D"left" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial,=
+ Verdana, sans-serif; font-size:14px; font-weight:normal; color:#848484; te=
+xt-decoration:line-through; line-height:1.1; padding-right:7px">$3.000</td>=
+ <td valign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana=
+, sans-serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7p=
+x 0 0; line-height:1.1;">$1.500</td> </tr> </table> </td> </tr> <tr> <td cl=
+ass=3D"buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px=
+;"> <a href=3D"http://www.groupon.cl/go/1002344323?p=3D16&nlp=3D&CID=3DCL_C=
+RM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-=
+447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7obLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Dd=
+eal_button&d=3Ddeal-page&utm_campaign=3D1002344323" target=3D"_blank" style=
+=3D"color: #FFF; text-decoration: none; cursor: pointer; display: inline-bl=
+ock;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td cl=
+ass=3D"viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:A=
+rial, Verdana, sans-serif; font-size:12px; font-weight:bold; color:#666666;=
+ line-height:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decor=
+ation:none;" href=3D"http://www.groupon.cl/go/1002344323?p=3D16&nlp=3D&CID=
+=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49=
+c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oa05cvS1bLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbod=
+y&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002344323">Ver</a></td> </t=
+r> </table> </a> </td> </tr> </table> </td> <td width=3D"10"><img src=3D"ht=
+tp://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" width=3D"=
+10" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"bo=
+rder-left:1px solid #c1c1c1; border-right:1px solid #c1c1c1; border-bottom:=
+1px solid #c1c1c1; padding-bottom:10px;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" style=3D"width:100=3D"titleFont" width=3D"280" style=3D"font:12px Arial, Verdana, sans-serif;=
+ color:#666666; line-height: 1.1; padding: 0 10px;">&nbsp;</td> </tr> <tr> =
+<td align=3D'left' class=3D"channelPricePadding" width=3D"280" style=3D"pad=
+ding:5px 0 5px 10px; line-height:14px;"> <table cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:14px=
+ !important; line-height:19px !important; color:#333;"> <tr> <td align=3D"l=
+eft" class=3D"titleFont" valign=3D"top" style=3D"font-family:Arial, Verdana=
+, sans-serif; font-size:14px; font-weight:normal; color:#848484; text-decor=
+ation:line-through; line-height:1.1; padding-right:7px">$10.000</td> <td va=
+lign=3D"top" class=3D"titleFont" style=3D"font-family:Arial, Verdana, sans-=
+serif; font-size:14px; font-weight:bold; color:#82b548; padding:0 7px 0 0; =
+line-height:1.1;">$4.900</td> </tr> </table> </td> </tr> <tr> <td class=3D"=
+buttonPadding" align=3D'right' width=3D"280" style=3D"padding:0 10px;"> <a =
+href=3D"http://www.groupon.cl/go/1002344462?p=3D17&nlp=3D&CID=3DCL_CRM_1_0_=
+0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a6=
+1b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_but=
+ton&d=3Ddeal-page&utm_campaign=3D1002344462" target=3D"_blank" style=3D"col=
+or: #FFF; text-decoration: none; cursor: pointer; display: inline-block;"> =
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"=
+viewButton" align=3D"right" valign=3D"bottom" style=3D"font-family:Arial, V=
+erdana, sans-serif; font-size:12px; font-weight:bold; color:#666666; line-h=
+eight:14px;"><a target=3D"_blank" style=3D"color:#0185C6; text-decoration:n=
+one;" href=3D"http://www.groupon.cl/go/1002344462?p=3D17&nlp=3D&CID=3DCL_CR=
+M_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-4=
+47f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Dde=
+al_button&d=3Ddeal-page&utm_campaign=3D1002344462">Ver</a></td> </tr> </tab=
+le> </a> </td> </tr> </table> </td> </tr> <tr> <td height=3D"20" style=3D"l=
+ine-height:0px;">&nbsp;</td> </tr> </table> </td> <td>&nbsp;</td> </tr> <tr=
+> <td>&nbsp;</td> <td width=3D"600"> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width: 100=3D"#FFFFFF" style=3D"border-top:1px solid #c1c1c1; border-left:1px solid #=
+c1c1c1; border-right:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupo=
+n.cl/go/1002331487?p=3D18&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewslet=
+ter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=
+=3Dlas-condes&uh=3DaLw61M7oo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campa=
+ign=3D1002331487" target=3D"_blank" style=3D"color:#0185C6; text-decoration=
+:none;"><img src=3D"http://clande-products.s3.amazonaws.com/medium_442985-0=
+06c000000uspmjias1.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td=
+ valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; wi=
+dth:100=3D"width:100-family: Arial, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica N=
+eue', Helvetica, sans-serif;line-height: 1.4;font-weight: bold;font-size: 1=
+2px; color:#0185c6;"><a href=3D"http://www.groupon.cl/go/1002331487?p=3D18&=
+nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=
+=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7o=
+rm&s=3Dbody&c=3Ddeal_title&d=3Ddeal-page&utm_campaign=3D1002331487" target=
+=3D"_blank" style=3D"color:#0185C6; text-decoration:none;">Clases de Tenis<=
+/a></td> </tr> </table> </td> </tr> </table> </td> <td width=3D"20"><img sr=
+c=3D"http://cl.static.groupon-content.net/mail_img/global/spacer_10.gif" wi=
+dth=3D"20" height=3D"1" /></td> <td valign=3D"top" bgcolor=3D"#FFFFFF" styl=
+e=3D"border-top:1px solid #c1c1c1; border-left:1px solid #c1c1c1; border-ri=
+ght:1px solid #c1c1c1;"> <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td width=3D"280"><a href=3D"http://www.groupon.cl/go/10023411=
+27?p=3D19&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&u=
+h=3DaLw61M7o01&sender=3Drm&s=3Dbody&c=3Ddeal_img&d=3Ddeal-page&utm_campaign=3D100234112=
+7" target=3D"_blank" style=3D"color:#0185C6; text-decoration:none;"><img sr=
+c=3D"http://clande-products.s3.amazonaws.com/medium_443910-006c000000wanpvi=
+a41.jpg" width=3D"288" border=3D"0"></a></td> </tr> <tr> <td valign=3D"top"=
+ bgcolor=3D"#FFFFFF" style=3D"padding:10px 10px 5px 10px; width:100ble cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100 <tr> <td class=3D"titleFont" align=3D'left' style=3D"font-family: Arial, '=
+HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, =
+sans-serif;line-height: 1.4;font-weight: bold;font-size: 12px; color:#0185c=
+6;"><a href=3D"http://www.groupon.cl/go/1002341127?p=3D19&nlp=3D&CID=3DCL_C=
+RM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-=
+447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7obLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Dd=
+eal_title&d=3Ddeal-page&utm_campaign=3D1002341127" target=3D"_blank" style=
+=3D"color:#0185C6; text-decoration:none;">Vuelo en Parapente Biplaza</a></t=
+d> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"top" =
+bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1px solid #c1c1c1=
+; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" style=3D"width:100"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0"> <tr> <td class=3D"titleFont description" style=3D"padding-bottom:5px; f=
+ont-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-se=
+rif; font-weight: normal;font-size: 12px;line-height: 1.1; color:#333; widt=
+h:290px;">Summer Tpro</td> </tr> <tr> <td class=3D"titleFont" style=3D"padd=
+ing-bottom:5px;font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetica=
+, Arial, sans-serif;font-weight: normal;font-size: 12px;line-height: 1.1; c=
+olor:#666; width:290px;"> Santiago &nbsp; </td> </tr> </table> </td> </tr> =
+</table> </td> <td width=3D"10"><img src=3D"http://cl.static.groupon-conten=
+t.net/mail_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td =
+valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"max-width:294px; border-left:1p=
+x solid #c1c1c1; border-right:1px solid #c1c1c1; padding:0px 10px;"> <table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100> <td valign=3D"top" align=3D'left'> <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"titleFont description" style=3D"padd=
+ing-bottom:5px; font-family: Arial, 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; font-weight: normal;font-size: 12px;line-height: 1.1;=
+ color:#333; width:290px;">Escuela de Parapente Gravedad Cero G</td> </tr> =
+<tr> <td class=3D"titleFont" style=3D"padding-bottom:5px;font-family: Arial=
+, 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;font-weight: =
+normal;font-size: 12px;line-height: 1.1; color:#666; width:290px;"> Santiag=
+o &nbsp; </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td val=
+ign=3D"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; bor=
+der-right:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-botto=
+m:10px;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+width:100e=3D"font:12px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1;=
+ padding: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"chann=
+elPricePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:=
+14px;"> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Ar=
+ial, Helvetica, sans-serif; font-size:14px !important; line-height:19px !im=
+portant; color:#333;"> <tr> <td align=3D"left" class=3D"titleFont" valign=
+=3D"top" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; f=
+ont-weight:normal; color:#848484; text-decoration:line-through; line-height=
+:1.1; padding-right:7px">$28.000</td> <td valign=3D"top" class=3D"titleFont=
+" style=3D"font-family:Arial, Verdana, sans-serif; font-size:14px; font-wei=
+ght:bold; color:#82b548; padding:0 7px 0 0; line-height:1.1;">$9.900</td> <=
+/tr> </table> </td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' =
+width=3D"280" style=3D"padding:0 10px;"> <a href=3D"http://www.groupon.cl/g=
+o/1002331487?p=3D18&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&ut=
+m_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-=
+condes&uh=3DaLw61M7o=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=
+=3D1002331487" target=3D"_blank" style=3D"color: #FFF; text-decoration: non=
+e; cursor: pointer; display: inline-block;"> <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" va=
+lign=3D"bottom" style=3D"font-family:Arial, Verdana, sans-serif; font-size:=
+12px; font-weight:bold; color:#666666; line-height:14px;"><a target=3D"_bla=
+nk" style=3D"color:#0185C6; text-decoration:none;" href=3D"http://www.group=
+on.cl/go/1002331487?p=3D18&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsle=
+tter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=
+=3Dlas-condes&uh=3DaLw61M7oo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_ca=
+mpaign=3D1002331487">Ver</a></td> </tr> </table> </a> </td> </tr> </table> =
+</td> <td width=3D"10"><img src=3D"http://cl.static.groupon-content.net/mai=
+l_img/global/spacer_10.gif" width=3D"10" height=3D"1" /></td> <td valign=3D=
+"top" bgcolor=3D"#FFFFFF" style=3D"border-left:1px solid #c1c1c1; border-ri=
+ght:1px solid #c1c1c1; border-bottom:1px solid #c1c1c1; padding-bottom:10px=
+;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:=
+100ont:12px Arial, Verdana, sans-serif; color:#666666; line-height: 1.1; paddi=
+ng: 0 10px;">&nbsp;</td> </tr> <tr> <td align=3D'left' class=3D"channelPric=
+ePadding" width=3D"280" style=3D"padding:5px 0 5px 10px; line-height:14px;"=
+> <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size:14px !important; line-height:19px !importan=
+t; color:#333;"> <tr> <td valign=3D"top" class=3D"titleFont" style=3D"font-=
+family:Arial, Verdana, sans-serif; font-size:14px; font-weight:bold; color:=
+#82b548; padding:0 7px 0 0; line-height:1.1;">$29.900</td> </tr> </table> <=
+/td> </tr> <tr> <td class=3D"buttonPadding" align=3D'right' width=3D"280" s=
+tyle=3D"padding:0 10px;"> <a href=3D"http://www.groupon.cl/go/1002341127?p=
+=3D19&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Dema=
+il&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaL=
+w61M7oder=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D1002341127" =
+target=3D"_blank" style=3D"color: #FFF; text-decoration: none; cursor: poin=
+ter; display: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"> <tr> <td class=3D"viewButton" align=3D"right" valign=3D"bottom"=
+ style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; font-weig=
+ht:bold; color:#666666; line-height:14px;"><a target=3D"_blank" style=3D"co=
+lor:#0185C6; text-decoration:none;" href=3D"http://www.groupon.cl/go/100234=
+1127?p=3D19&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=
+=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&u=
+h=3DaLw61M7o01&sender=3Drm&s=3Dbody&c=3Ddeal_button&d=3Ddeal-page&utm_campaign=3D100234=
+1127">Ver</a></td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr=
+> <td height=3D"20" style=3D"line-height:0px;">&nbsp;</td> </tr> </table> <=
+/td> <td>&nbsp;</td> </tr> </table> <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" width=3D"100ent.net/mail_img/global/G1_bgTile.gif" bgcolor=3D"#e2e2e2"> <tr> <td>&nbsp;=
+</td> <td width =3D"600" align=3D"right"> <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td class=3D"divisionButtonPadding" style=3D"p=
+adding:0 5px 30px 0;"> <a href=3D"http://www.groupon.cl/all-deals/las-conde=
+s?nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&s=
+id=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M=
+7o=3Drm&s=3Dbody&c=3Dlink&d=3Dall-deals-page&utm_campaign=3Dlas-condes" targe=
+t=3D"_blank" style=3D"color: #FFF;text-decoration: none;cursor: pointer;dis=
+play: inline-block;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0"> <tr> <td align=3D"right" bgcolor=3D"#EDEDED" class=3D"divisionButton" s=
+tyle=3D"font-family: Arial, Verdana, sans-serif; font-size:12px; padding: 1=
+0px; background: #EDEDED url(http://cl.static.groupon-content.net/mail_img/=
+global/cta_btn_grey_gradient.gif) 0 0 repeat-x; text-align: center; display=
+: inline-block;line-height: 1.1; -moz-border-radius: 4px 4px 4px 4px; -webk=
+it-border-radius: 4px 4px 4px 4px; -khtml-border-radius: 4px 4px 4px 4px; b=
+order-radius: 4px 4px 4px 4px; border:1px solid #CBCBCB;"><a href=3D"http:/=
+/www.groupon.cl/all-deals/las-condes?nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_sourc=
+e=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf=
+6&division=3Dlas-condes&uh=3DaLw61M7o7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dbody&c=3Dlink&d=3Dall-deals-pag=
+e&utm_campaign=3Dlas-condes" target=3D"_blank" style=3D"color:#666666; text=
+-decoration:none;"> Ver todos los Groupones para Las Condes </a></td> </tr>=
+ </table> </a> </td> </tr> </table> </td> <td>&nbsp;</td> </tr> </table> <t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"font-family:=
+ Arial, Helvetica, sans-serif; font-size:14px !important; line-height:19px =
+!important; color:#333; width: 100ackground: #82b548; border-top: 2px solid #82b548; line-height:0px;" height=
+=3D"7">&nbsp;</td> </tr> </table> <table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" width=3D"100" bgcolor=3D"#FFFFFF"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#FFFFFF"> <tr> <td style=3D"padding:8px 10px 7px 0;"><a href=
+=3D"https://www.facebook.com/groupon.chile" target=3D"_blank" style=3D"colo=
+r:#0185C6; text-decoration:none;"><img src=3D"http://cl.static.groupon-cont=
+ent.net/mail_img/global/Icon-FB.gif" width=3D"20" height=3D"20" border=3D"0=
+" style=3D"display:block;" /></a></td> <td style=3D"padding:8px 0 7px 0;"><=
+a href=3D"http://twitter.com/groupon_stgo" target=3D"_blank" style=3D"color=
+:#0185C6; text-decoration:none;"><img src=3D"http://cl.static.groupon-conte=
+nt.net/mail_img/global/Icon-Twitter.gif" width=3D"20" height=3D"20" border=
+=3D"0" style=3D"display:block;" /></a></td> </tr> </table> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF" width=3D"100 <tr> <td align=3D"center" style=3D"color:#333333; padding-bottom:10px; fon=
+t-size:13px; font-family:Arial, Verdana, sans-serif; border-bottom: 1px sol=
+id #CCCCCC;">=C2=BFNecesitas ayuda? =C2=BFTienes comentarios? <a href=3D"ht=
+tp://www.ayudagroupon.com/help/CL?nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=
+=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6=
+&division=3Dlas-condes&uh=3DaLw61M7oIe6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dfooter&c=3Dlink&d=3Dcontact" sty=
+le=3D"color:#0185C6; text-decoration:none;" target=3D"_blank">No dudes en c=
+ontactarnos</a>.</td> </tr> <tr> <td align=3D"center"> <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600"> <tr> <td width=3D"600"=
+ align=3D'left' style=3D"line-height:14px; color:#666666; padding:20px; fon=
+t-size:10px; font-family:Arial, Verdana, sans-serif;"> Si quieres ajustar t=
+us otras suscripciones, haz <a href=3D"http://www.groupon.cl/follower/manag=
+e?from=3Dlas-condes&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&ut=
+m_medium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-=
+condes&uh=3DaLw61M7o=3D20152501&sender=3Drm&s=3Dfooter&c=3Dlink&d=3Dsubscription_center" style=
+=3D"color:#0185C6; text-decoration:none;">click aqui</a>. <br /> Est=C3=A1s=
+ recibiendo este email porque saf@fs.net se suscribi=C3=B3 al newsletter de=
+ Groupon. <br /><br /> &copy; Groupon.cl es un servicio de Needish SRL &nbs=
+p;|&nbsp; <a href=3D"http://www.ayudagroupon.com/help/CL?nlp=3D&CID=3DCL_CR=
+M_1_0_0_25&utm_source=3Dnewsletter&utm_medium=3Demail&sid=3D07bca49c-91cb-4=
+47f-a61b-5a66efdfddf6&division=3Dlas-condes&uh=3DaLw61M7oLS1JVi1bLf4QPMWeDZQd7Ie6Tdj7BUo&date=3D20152501&sender=3Drm&s=3Dfooter&c=3D=
+link&d=3Dcontact" style=3D"color:#0185C6; text-decoration:none;" target=3D"=
+_blank">Contacto</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> =
+</table> <img src=3D"http://www.groupon.cl/analytic/trackintl.gif?p=3D2&utm=
+_domain=3Dfs.net&nlp=3D&CID=3DCL_CRM_1_0_0_25&utm_source=3Dnewsletter&utm_m=
+edium=3Demail&sid=3D07bca49c-91cb-447f-a61b-5a66efdfddf6&division=3Dlas-con=
+des&uh=3DaLw61M7o0152501&sender=3Drm&s=3Dbody&c=3Dtracking_pixel&d=3Dnone" height=3D"1" widt=
+h=3D"1" /></body> </html>
+------=_Part_193585179_326138761.1422181640606--
+
+------=_Part_193585178_2130892540.1422181640606--
+

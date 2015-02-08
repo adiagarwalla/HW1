@@ -1,0 +1,320 @@
+From @..  Sun Jan  4 11:51:41 2015
+Return-Path: <@..>
+X-Original-To: carolwallis@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D1E83DE; Sun,  4 Jan 2015 11:51:41 +0000 (UTC)
+Received: from out61169.topica-gold-y.com (out61177.topica-gold-y.com [66.227.61.177])
+    by .. with SMTP id f63yv9hf3pyyj53e2b48r5ry92;
+    for carolwallis@fs.net;
+    Sun, 04 Jan 2015 11:51:41 +0000 (UTC)
+    (envelope-from aaao4p_t6_qnl63432x8g455n6bvslzsut51_2peedffxf@adall6.b.topica.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.227.61.177;
+    envelope-from=<aaao4p_t6_qnl63432x8g455n6bvslzsut51_2peedffxf@adall6.b.topica.com>;
+    helo=out61169.topica-gold-y.com; mechanism=ip4:66.227.60.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.227.61.177; client-port=37739;
+    syn-fingerprint=5840:52:1:60:M1380,S,T,N,W0 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.218 206.126.236.141 85.95.26.14 85.95.26.30
+    62.216.147.66 66.7.159.202; network-path-time=1420372301;
+    RBL=dnsbl.sorbs.net (127.0.0.6)
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+To: @..
+From: BrightHouse Stores <@..>
+Subject: BrightHouse Credit gets you what you need when you need it
+Date: Sun, 04 Jan 2015 02:15:00 -0800
+Message-ID: <1027002695-1463747838-1420366184@adall6.b.topica.com>
+Errors-To: <@..>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Brighthouse</title>
+<style>
+	#outlook a {
+        padding: 0;
+    }
+    /* Force Outlook to provide a "view in browser" menu link. */
+    body {
+        width: 100        -webkit-text-size-adjust: 100        -ms-text-size-adjust: 100        margin: 0;
+        padding: 0;
+		 -webkit-font-smoothing: antialiased;
+    }
+    /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+    .ExternalClass {
+        width: 100    }
+
+    /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100    }
+
+    /* Force Hotmail to display normal line spacing. */
+    #backgroundTable {
+        margin: 0;
+        padding: 0;
+        width: 100        line-height: 100    }
+</style>
+<style>
+	/* MobileCode */
+	/* outlook */
+	#outlook a {
+		padding: 0;
+	}
+	body {
+		-webkit-text-size-adjust: 100		-ms-text-size-adjust: 100
+	}
+	.ExternalClass {
+		width: 100	}
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+		line-height: 100	}
+	.image_fix {
+		display: block;
+	}
+	@media only screen and (max-device-width: 480px) {
+		/* Part one of controlling phone number linking for mobile. */
+		a[href^="tel"], a[href^="sms"] {
+			text-decoration: none;
+			color: blue; /* or whatever your want */
+			pointer-events: none;
+			cursor: default;
+		}
+
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+			text-decoration: default;
+			color: orange !important;
+			pointer-events: auto;
+			cursor: default;
+		}
+
+	}
+	/* More Specific Targeting */
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		/* You guessed it, ipad (tablets, smaller screens, etc) */
+		/* repeating for the ipad */
+		a[href^="tel"], a[href^="sms"] {
+			text-decoration: none;
+			color: blue; /* or whatever your want */
+			pointer-events: none;
+			cursor: default;
+		}
+
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+			text-decoration: default;
+			color: orange !important;
+			pointer-events: auto;
+			cursor: default;
+		}
+	}
+
+	@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+		/* Put your iPhone 4g styles in here */
+		img {
+			width: auto !important;
+			height: auto !important;
+		}
+		/* Android targeting */
+		@media only screen and (-webkit-device-pixel-ratio:.75){
+			/* Put CSS for low density (ldpi) Android layouts in here */
+			img {
+				width: auto !important;
+				height: auto !important;
+			}
+		}
+		@media only screen and (-webkit-device-pixel-ratio:1){
+			/* Put CSS for medium density (mdpi) Android layouts in here */
+			img {
+				width: auto !important;
+				height: auto !important;
+			}
+		}
+		@media only screen and (-webkit-device-pixel-ratio:1.5){
+			/* Put CSS for high density (hdpi) Android layouts in here */
+			img {
+				width: auto !important;
+				height: auto !important;
+			}
+		}
+		/* end Android targeting */
+		@media only screen and (min-device-width: 601px) {
+			.content {width: 600px !important;}
+		}
+
+</style></head>
+
+ <body style="font-family: Tahoma; font-size: 11px; color: #828282; background: url('images/bg-pattern.jpg') 0 0 repeat;">
+<p></p>
+<!-- DO NOT REMOVE THIS TRACKING PIXEL (Tracking provided by ClearReports - www.clear-reports.com) -->
+<p><img src="http://tracking.9-4fce4-clab.co.uk/track/view.php?wcc=52f38dcfc309f73fbccc49ea1b079d6d&wchwci=29591&pp_subid=XXX&pp_custom1=YYY" alt="" height="1" width="1" /></p>
+<!-- END OF PIXEL -->
+<table style="width: 100<tbody>
+<tr>
+<td style="padding-bottom: 30px;" align="center">
+<table style="max-width: 550px; width: 100<tbody>
+<tr>
+<td style="padding: 20px; text-align: center;">if you can't view the images, <a id="cr_link1" style="color: #e63115;" href="http://adall6.c.topica.com/maarDfQackBxXb28bJzcafp1nL/">click here</a></td>
+</tr>
+<tr>
+<td style="background-color: #fff;"><img style="display: block; border: none; width: 100</tr>
+<tr>
+<td style="background-color: #fff; padding: 20px 0; border-left: solid 1px #dedede; border-right: solid 1px #dedede;" align="center"><a id="cr_link2" target="_blank" href="http://adall6.c.topica.com/maarDfQackBxYb28bJzcafp1nL/"><img style="border: none;" alt="Bright House logo" src="http://www.skynet3mail.co.uk/bhxmas/logo.jpg" /></a></td>
+</tr>
+<tr>
+<td><img style="display: block;" src="http://www.skynet3mail.co.uk/bhxmas/banner-top.png" /> <a id="cr_link3" target="_blank" href="http://adall6.c.topica.com/maarDfQackBxYb28bJzcafp1nL/"><img style="border: none; display: block;" alt="Get credit now" src="http://www.skynet3mail.co.uk/bhxmas/products.jpg" /></a></td>
+</tr>
+<tr>
+<td style="background-color: #fff; padding: 30px 0; border-left: solid 1px #dcdcdc; border-right: solid 1px #dcdcdc;" align="center"><img src="http://www.skynet3mail.co.uk/bhxmas/brands.png" /></td>
+</tr>
+<tr>
+<td style="background-color: #fff; padding: 0 42px 20px 47px; border-left: solid 1px #dcdcdc; border-right: solid 1px #dcdcdc;">
+<table style="font-family: Helvetica; width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 30px;"><img style="display: block;" alt="&pound;26 per week" src="http://www.skynet3mail.co.uk/bhxmas/item-1.jpg" /></td>
+<td style="padding-left: 30px; border-bottom: solid 1px #dcdcdc;">
+<p style="margin-bottom: 15px; line-height: 1.3em; text-transform: uppercase; font-size: 16px; color: #9f2211;"><b>Samsung 55" curved ultra hd smart tv</b></p>
+<a id="cr_link4" target="_blank" href="http://adall6.c.topica.com/maarDfQackBxYb28bJzcafp1nL/" style="font-size: 12px; display: block; float: left; padding: 15px 25px; text-transform: uppercase; text-decoration: none; color: #fff; font-weight: bold; background-color: #1e8f30;">Get the product now</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background-color: #fff; padding: 0 42px 20px 47px; border-left: solid 1px #dcdcdc; border-right: solid 1px #dcdcdc;">
+<table style="font-family: Helvetica; width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc;">
+<p style="padding-right: 20px; margin-bottom: 15px; line-height: 1.3em; text-transform: uppercase; font-size: 16px; color: #9f2211;"><b>LG 55" 4k ultra hd smart cinema 3d tv</b></p>
+<a id="cr_link5" target="_blank" href="http://adall6.c.topica.com/maarDfQackBxYb28bJzcafp1nL/" style="font-size: 12px; display: block; float: left; padding: 15px 25px; text-transform: uppercase; text-decoration: none; color: #fff; font-weight: bold; background-color: #1e8f30;">Get the product now</a></td>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 30px;"><img style="display: block;" alt="&pound;26 per week" src="http://www.skynet3mail.co.uk/bhxmas/item-2.jpg" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background-color: #fff; padding: 0 15px 20px 47px; border-left: solid 1px #dcdcdc; border-right: solid 1px #dcdcdc;">
+<table style="font-family: Helvetica; width: 100<tbody>
+<tr>
+<td><img style="display: block;" alt="&pound;26 per week" src="http://www.skynet3mail.co.uk/bhxmas/item-3.jpg" /></td>
+<td style="padding-left: 20px;">
+<p style="padding-right: 20px; margin-bottom: 15px; line-height: 1.3em; text-transform: uppercase; font-size: 16px; color: #9f2211;"><b>LG home <br />entertainment bundle</b></p>
+<a id="cr_link6" target="_blank" href="http://adall6.c.topica.com/maarDfQackBxYb28bJzcafp1nL/" style="font-size: 12px; display: block; float: left; padding: 15px 25px; text-transform: uppercase; text-decoration: none; color: #fff; font-weight: bold; background-color: #1e8f30;">Get the product now</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background-color: #fff; padding: 0 25px 20px 43px; border-left: solid 1px #dcdcdc; border-right: solid 1px #dcdcdc;">
+<p style="margin: 30px 0; text-align: center; font-size: 13px; color: #a8449c;"><b>Samsung 55" Curved Ultra HD Smart TV</b></p>
+<table style="color: #e42b26; font-weight: bold; width: 100<tbody>
+<tr>
+<td style="padding-right: 15px;" width="50<table style="width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 5px;">Product with 5 star service</td>
+<td style="text-align: right; border-bottom: solid 1px #dcdcdc; padding-bottom: 5px; font-size: 14px;">&pound;2113.26</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="50<table style="width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 5px;">Representative APR*</td>
+<td style="text-align: right; border-bottom: solid 1px #dcdcdc; padding-bottom: 5px; font-size: 14px;">64.7</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 15px 0 0;" width="50<table style="width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 5px;">Weekly payment</td>
+<td style="text-align: right; border-bottom: solid 1px #dcdcdc; padding-bottom: 5px; font-size: 14px;">&pound;26.00</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-top: 10px;" width="50<table style="width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 5px;">Total payable</td>
+<td style="text-align: right; border-bottom: solid 1px #dcdcdc; padding-bottom: 5px; font-size: 14px;">&pound;4056.00</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 15px 0 0;" width="50<table style="width: 100<tbody>
+<tr>
+<td style="border-bottom: solid 1px #dcdcdc; padding-bottom: 5px;">Number of weeks</td>
+<td style="text-align: right; border-bottom: solid 1px #dcdcdc; padding-bottom: 5px; font-size: 14px;">156</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p style="line-height: 1.4em;">*The interest rate offered will be fixed for the length of the agreement and will depend on your financial status & length of the agreement</p>
+</td>
+</tr>
+<!-- footer -->
+<tr>
+<td style="color: #999;" align="center"><img style="display: block;" src="http://www.skynet3mail.co.uk/bhxmas/banner-btm.jpg" />
+<p style="padding-top: 15px;">1 7 day delivery applies to warehouse and stock only. non-stick items may take longer.</p>
+<p>2 During period of hire purchase agreement.</p>
+<p>3 Cover for accidental damage, fire & theft. Subject to acceptance, cover is provided at no additional cost by way of insurance from Caversham Insurance (Malta) Ltd which is incorporated in Malta and regulated in respect of its insurance business by the Malta Financial Services Authority. The insurer falls within the jurisdiction of the UK Financial Services Compensation Scheme. The insurance is arranged through Caversham Finance Limited, trading as BrightHouse, 5 Hercules Way, Leavesden Park, Watford, WD25 7GS. Registered in England 785922. <br />BrightHouse reserve the right not to extend credit. Terms and conditions apply.</p>
+&copy; 2014 Copyright BrightHouse. All rights reserved</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="http://www.trkiy1.com/image/688/3831/884/" height="1" border="0" width="1" /></p>
+<p><img src="http://TOUGHQUARTZITE.COM/imp.ashx?CID=249130&AFID=268099&ADID=1223491&SID=" border="0" /></p>
+<!-- 0x0fa9bafd8b87adf4ab0a121bfdabe341000 -->
+<img src="http://adall6.c.topica.com/naarDfQackBxZb28bJzcafp1nL/" width=1 height=1>
+<!-- 0x012390fa6570193887fff02398eeaa99283 -->
+
+
+<!-- Begin Footer -->
+<BR CLEAR=ALL>
+<CENTER>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=580>
+<TR><TD HEIGHT=10></td></tr>
+<TR>
+<TD WIDTH=1><IMG SRC="http://topica.com/images/footer_cap3.gif" WIDTH="1" HEIGHT="24" BORDER="0"></td>
+<TD NOWRAP BGCOLOR="WHITE" STYLE="border-top: 1px solid #CCCCCC; border-bottom: 1px solid #CCCCCC;"><SPAN 
+	STYLE="font: 10px verdana, sans-serif; color: black;">&nbsp;
+<NOBR><A 
+STYLE="font: 10px verdana, sans-serif; color: #0000FF; text-decoration: none;"
+HREF="http://topica.com/f/unsub.html/aaao4p_t6_qnl63432x8g455n6bvslzsut51_2peedffxf">Unsubscribe</a></nobr>
+| 
+<NOBR><A
+STYLE="font: 10px verdana, sans-serif; color: #0000FF; text-decoration: none;"
+HREF="http://topica.com/f/?a8420P.b28bJz.Y2Fyb2x3">Update Profile</a></nobr>
+| 
+<NOBR><A 
+STYLE="font: 10px verdana, sans-serif; color: #0000FF; text-decoration: none;"
+HREF="http://topica.com/f/?a8420P.b28bJz.Y2Fyb2x3.c">Confirm</a></nobr>
+| 
+<NOBR><A 
+STYLE="font: 10px verdana, sans-serif; color: #0000FF; text-decoration: none;"
+HREF="http://www.topica.com/f/abuse.html?aaao4p_t6_qnl63432x8g455n6bvslzsut51_2peedffxf">Complain</a></nobr>
+</td>
+<TD WIDTH=1><IMG SRC="http://topica.com/images/footer_cap3.gif" WIDTH="1" HEIGHT="24" BORDER="0"></td>
+</tr>
+</table>
+</center>
+<BR><BR><BR><BR>
+</body></html>
+
+

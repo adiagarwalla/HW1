@@ -1,0 +1,178 @@
+From @..  Wed Jan  7 20:08:54 2015
+Return-Path: <@..>
+X-Original-To: BOOPIE@FS.NET
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 35DE3DE; Wed,  7 Jan 2015 20:08:54 +0000 (UTC)
+Received: from outbound03.geopostuk.com (outbound03.geopostuk.com [89.207.48.212])
+    by .. with SMTP id 2rpqehbia5x5vf42jepwgiifve;
+    for BOOPIE@FS.NET;
+    Wed, 07 Jan 2015 20:08:53 +0000 (UTC)
+    (envelope-from yourorder@dpd.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=89.207.48.212; envelope-from=<yourorder@dpd.co.uk>;
+    helo=outbound03.geopostuk.com; mechanism=include:_spfold.geopostuk.com
+    (ip4:89.207.48.212 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=89.207.48.212; client-port=34954;
+    syn-fingerprint=14600:46:1:60:M1380,S,T,N,W5; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.138 129.250.8.193
+    129.250.2.44 129.250.4.165 129.250.3.85 0.0.0.0 129.250.4.125
+    129.250.5.197 129.250.5.41 81.25.207.38 89.207.49.133 89.207.50.166
+    0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0
+    0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0
+    0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0
+    0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 89.207.50.66 0.0.0.0 89.207.50.66 0.0.0.0
+    89.207.50.66 0.0.0.0 89.207.50.66 0.0.0.0 89.207.50.66 0.0.0.0
+    89.207.50.66 0.0.0.0 89.207.50.66 0.0.0.0 89.207.50.66 0.0.0.0
+    89.207.50.66; network-path-time=1420661333
+Received: from geopostuk.com (unknown [172.24.82.109])
+	by outbound03.geopostuk.com (Postfix) with ESMTPS id D8D0FA1915
+	for <BOOPIE@FS.NET>; Wed,  7 Jan 2015 20:08:50 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dpd.co.uk;
+	s=relay2013a; t=1420661330;
+	bh=9tv8NdImYjBNpZzMaOrtxFda2a561nYJ3bYVQD8qe2M=;
+	h=Date:To:Subject:From:From;
+	b=bb5uWO5WnetML535eU+3CXKCcE5aHHNcLbEAco2Bv7puGfENU07fsz07N9nYjQ3Q0
+	 JGco5M+/2fVVVwQQxx9KFxFnG/FhP542pGUYgAOgr2SrsMyXQTT6Jluz0KqNXPTg75
+	 lqQTL4vHSuwWPOeR0cRp8+SsWuSnkIAuwOk5K/sk=
+Received: (from geopost@localhost)
+	by geopostuk.com (8.14.7+Sun/8.14.5/Submit) id t07K8oqY022321;
+	Wed, 7 Jan 2015 20:08:50 GMT
+Date: Wed, 7 Jan 2015 20:08:50 GMT
+Message-Id: <201501072008.t07K8oqY022321@geopostuk.com>
+X-Authentication-Warning: uvdata.live.geopostuk.com: geopost set sender to Anovo <yourorder@dpd.co.uk> using -f
+To: @..
+Subject: Your Anovo order is due for delivery on Thursday 8th January
+From: Anovo <@..>
+Content-Type: multipart/related;
+ boundary="------------090303020209010600070908"
+
+This is a multi-part message in MIME format.
+
+--------------090303020209010600070908
+Content-Type: text/html; charset=ISO-8859-15
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta name="viewport" content="width=device-width">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Email Notification</title>
+
+</head>
+
+
+
+<body style="background-color:#FFFFFF;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;width:100
+
+
+<!-- HEADER -->
+
+<table style="width:100
+  <tr>
+
+    <td><div style="max-width:600px;min-width:320px;margin:0 auto;display:block;">
+
+        <table width="100
+          <tr>
+
+            <td width="70
+            <td align="right"><img src="http://www.dpd.co.uk/_assets/email/predict_logo_email.png" border="0" style="max-width:90
+          </tr>
+
+        </table>
+
+      </div></td>
+
+  </tr>
+
+</table>
+
+<!-- /HEADER -->
+
+<!-- BODY -->
+
+<table style="width:100
+  <tr>
+
+    <td style="display:block;max-width:600px;min-width:320px;margin:0 auto;clear:both;background-color:#FFFFFF;"><div style="padding:0px 15px 0px 15px;max-width:600px;min-width:320px;margin:0 auto;display:block;">
+
+        <table style="border:1px solid #ccc;padding:15px;">
+
+          <tr>
+
+              <td></td>
+
+              <td></td>
+
+              <td width="50
+          </tr>
+
+          <tr>
+
+            <td colspan="3"><table cellpadding="0px" cellspacing="0px" width="100
+                <tr>
+
+                  <td width="70
+                </tr>
+
+              </table></td>
+
+          </tr>
+
+          <tr>
+
+            <td colspan="3"><p style="text-align:left;line-height:130<a style="text-decoration:none;color:#FFF;background-color:#e3002a;padding:10px 16px;font-weight:bold;margin-right:5px;text-align:center;cursor:pointer;margin-bottom:10px;display:inline-block;font-size:14px" href="http://www.dpd.co.uk/d/6ddtDPQof#OPTS" target="_blank">Change my delivery now</a><br/> </td> <!--Change Delivery Date--> </tr> <tr><td colspan="3"><p style="text-align:left;line-height:130 your order.</p><br/><span style="font-weight: bold; font-size: 14px;"> Anovo</span><br><br></p></td>
+
+          </tr>
+
+          <tr>
+
+            <td width="60
+                <tr>
+
+                  <td><table width="100
+                      <tr>
+
+                        <td width="10
+                        <td><a style="color:#e3002a;" href="http://twitter.com/dpd_uk" target="_blank"><p style="text-align:left;line-height:130
+                      </tr>
+
+                      <tr>
+
+                        <td width="10
+                        <td><p style="text-align:left;line-height:130
+                      </tr>
+
+                    </table></td>
+
+                </tr>
+
+              </table></td>
+
+            <td align="right"><img style="max-width:90
+          </tr>
+
+        </table>
+
+      </div></td>
+
+  </tr>
+
+</table>
+
+<!--/BODY-->
+
+</body>
+
+</html>
+
+--------------090303020209010600070908--
+

@@ -1,0 +1,762 @@
+From @..  Mon Jan 19 12:51:47 2015
+Return-Path: <@..>
+X-Original-To: hazelsamuel@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 5DD3BDE; Mon, 19 Jan 2015 12:51:47 +0000 (UTC)
+Received: from mail-182-33.perfect-price.co.uk (mail-182-33.perfect-price.co.uk [23.253.182.33])
+    by .. with SMTP id paggfhtp4fnkxs3gxbd6mtkr5i;
+    for hazelsamuel@fs.net;
+    Mon, 19 Jan 2015 12:51:46 +0000 (UTC)
+    (envelope-from bounce+e4981c.7786a-hazelsamuel=fs.net@perfect-price.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=23.253.182.33;
+    envelope-from=<bounce+e4981c.7786a-hazelsamuel=fs.net@perfect-price.co.uk>;
+    helo=mail-182-33.perfect-price.co.uk; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:23.253.182.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=23.253.182.33; client-port=52927;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 0.0.0.0
+    64.125.31.69 64.125.24.110 64.125.24.94 208.185.125.6 0.0.0.0 50.56.6.255
+    50.56.6.133 162.209.19.163; network-path-time=1421671906
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=perfect-price.co.uk;
+ q=dns/txt; s=smtp; t=1421671889; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=dpZpKTsfKbbLqnN900wGYLVMQU9AMswrBW/7vhCUuI8=; b=ovHt1aSHK1xnLcL5ZunTifB0ZeXySpqjqILY8pZ1RkS1Zs4+iplNZW7HXRpBtMeO8io+xpMg
+ 7LKNK61Bzo4gXqXTX+shPsdPQQDA0mLoXcFuiVmIoYWYVHIX66otX3b498dIs7SkG2neNyuT
+ QSm73/ajwweSbhRGFfyh7QcKC+4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=perfect-price.co.uk;
+ s=smtp; q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=LMA4vBQI5476YYEl/V7bjw2YRJVr1Zdhc8H2be44AMq/EZyXjmzZhk5fQc4lUwgVa3YcxD
+ 3sgXymiALXpwNS2ZEslKhtUB6e9juqZyu2gz86mvt6tn+3A5B2jLIC39N1v+8GmNP4Wabbqq
+ hYBl5XuZ6gUsfWmXQN6U49gQ6BXzc=
+Received: from mail.perfect-price.co.uk (perfect-price.co.uk [78.47.70.114])
+ by mxa.mailgun.org with ESMTP id 54bcfdb1.7fb5cccf1af0-in1; Mon, 19 Jan
+ 2015 12:50:57 -0000 (UTC)
+Received: from mail.perfect-price.co.uk (localhost [127.0.0.1])	by
+ mail.perfect-price.co.uk (Postfix) with ESMTP id 1DB8B24924	for
+ <hazelsamuel@fs.net>; Mon, 19 Jan 2015 14:50:56 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=perfect-price.co.uk;	s=dkim;
+ t=1421671856;	bh=dpZpKTsfKbbLqnN900wGYLVMQU9AMswrBW/7vhCUuI8=;	h=Date:From:To:Subject:From;	b=IuwtiuuEi3mKp9tltCOV8PFbPYxV0R7Pr8Pn7MmwJXVuRYY+IrJppzh+B3Ds2C//O	
+ /RMj6HCt/9ejmr878HZS1RDXOM33XUZVq0JcFORNwWs+5d2fOeGgcTCulCHTtchfr7	
+ MFLwhiDtM4/Gka0WHZ2jnA1c5PYjdve1ElAa1WnQ=
+Date: Mon, 19 Jan 2015 14:50:56 +0200 (EET)
+From: Life Cover For Less <@..>
+To: "hazelsamuel@fs.net" <@..>
+Message-Id: <1652676618.1252055.1421671856120.JavaMail.root@mail.perfect-price.co.uk>
+Subject: Take Care of What?s Important Today
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1252053_987562933.1421671856115"
+X-Mailgun-Sid: WyJmMjZkYyIsICJoYXplbHNhbXVlbEBmcy5uZXQiLCAiNzc4NmEiXQ==
+Sender: @..
+
+------=_Part_1252053_987562933.1421671856115
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1252054_69107268.1421671856115"
+
+------=_Part_1252054_69107268.1421671856115
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+LifeCoverForLess This message contains useful information. If your e-mail p=
+rovider blocks the images, please enable them for a complete preview. Life =
+cover from just 17p per day - Click Here Compare Life Insurance quotes from=
+ the UK's top insurers 30 second application - its simple and quick! Choose=
+ the cheapest Life Insurance Policy that suits you FREE affordable quotes w=
+ith no obligation Cheapest Life Insurance Cover starts from just 17p per da=
+y! Insurance details published on this site are for information purposes on=
+ly and do not constitute financial advice nor financial promotions under th=
+e Financial Services and Markets Act 2000 or The (Financial Promotions) Ord=
+er 2005. By Submitting the enquiry form you agree that: The information pro=
+vided is true and accurate and that LifeCoverForLess.co.uk may send the det=
+ails of this enquiry to an appropriate and authorised advisor for the purpo=
+se of providing life insurance quotes and advice and that the advisor may c=
+ontact you for further information as required. Quoted rates are based on ?=
+75,000 of level term life cover for a 28 year old non-smoking female in goo=
+d health. Prices are correct at June 2013, actual prices will vary dependin=
+g on individual circumstances. Life cover from just 17p per day - Click Her=
+e Compare Life Insurance quotes from the UK's top insurers 30 second applic=
+ation - its simple and quick! Choose the cheapest Life Insurance Policy tha=
+t suits you FREE affordable quotes with no obligation Cheapest Life Insuran=
+ce Cover starts from just 17p per day! Insurance details published on this =
+site are for information purposes only and do not constitute financial advi=
+ce nor financial promotions under the Financial Services and Markets Act 20=
+00 or The (Financial Promotions) Order 2005. By Submitting the enquiry form=
+ you agree that: The information provided is true and accurate and that Lif=
+eCoverForLess.co.uk may send the details of this enquiry to an appropriate =
+and authorised advisor for the purpose of providing life insurance quotes a=
+nd advice and that the advisor may contact you for further information as r=
+equired. Quoted rates are based on ?75,000 of level term life cover for a 2=
+8 year old non-smoking female in good health. Prices are correct at June 20=
+13, actual prices will vary depending on individual circumstances. The adve=
+rtiser does not manage your subscription. If you prefer not to receive furt=
+her communication, here is the way to stop receiving emails. P.O. Box 13629=
+, 10310 Athens - Greece banks. Q. What harm did this do? A. It made all the=
+ nice grass wet andmarshy. Q. What more? A. It rotted the roots of the tree=
+s. Q. Whathappened then? A. They all fell down. Q. In some hundred years, w=
+hatdid all those forests become? A. Great bogs. Q. Are any of the trunksor =
+bodies of those old trees ever found? A. Yes; many hundreds are yetfar unde=
+r the bogs. Q. Are they of any use? A. Yes; they are useful tomake chairs, =
+tables, and presses. Q. What colour are they? A. As blackas a piece of coal=
+. Q. When they are polished, do they look nice? A.Yes; so bright you can se=
+e your face in them. Q. What is this woodcalled? A. Bog-oak. Q. Will you al=
+l try to remember this lesson? A.We will. Teacher. That is right; for littl=
+e children should alwaysremember the pretty things that their teacher takes=
+ such trouble totell them.In places where coal is most burned, a piece of i=
+t may be made themedium of a very useful and instructive lesson, being so f=
+amiliar anobject, their attention will be arrested by its being made the su=
+bjectof a lesson; and their curiosity aroused to know every thing aboutit. =
+When the teacher asks what is this, the simultaneous shout, of"a piece of c=
+oal," will convince him that he has arrested theirattention; and a few ques=
+tions will exhaust their stock of informationon the subject--they will tell=
+ him its uses are to make fires to boilup their dinners, &c. &c. He may the=
+n proceed as follows:--You see,little children, this piece of coal; look at=
+ it attentively; it isblack and shining; and you all know will burn very qu=
+ickly. The placesfrom whence all coal is brought are called _coal mines_; t=
+he men whodig it out of the ground, and the ships that carry it over the se=
+a,are called colliers, and the place where the coals are got is calleda col=
+liery. The coal mines are deep holes made very far under theground, in orde=
+r to get at the coal; some of them go under the sea.The colliers live a gre=
+at part of their life, in those dark holes,in order to get us coal to make =
+us fires to dress our food, and veryoften are killed, either by the falling=
+ in of the roof from above, orfrom a sort of air called fire-damp, which, i=
+f touched with any fire,will blow up like gunpowder, and will kill any pers=
+on that is near it;the poor colliers are also often smothered by the bad ai=
+r that is inthose damp, dark holes; so you see, little children, what dange=
+rs theygo through, in order to get us coal, which we could very badly dowit=
+hout.
+------=_Part_1252054_69107268.1421671856115
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+    <title> LifeCoverForLess </title>
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+</head>
+<body>
+    <p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+        This message contains useful information. If your e-mail provider b=
+locks the images, <br> please enable them for a complete preview.
+    </p>
+    <style type=3D"text/css">
+        @media only screen and (max-width:320px), only screen and (max-devi=
+ce-width:320px) {
+            /* - - - - - HOTMAIL FIXES*/
+            .ReadMsgBody {
+                width: 100            }
+
+            ExternalClass {
+                width: 100            }
+
+            a[href^=3D"tel"], a[href^=3D"sms"] {
+                text-decoration: none;
+                color: #9ec459; /* or whatever your want */
+                pointer-events: none;
+                cursor: default;
+            }
+
+            table[id=3Dcontainer] {
+                -webkit-text-size-adjust: 100            }
+
+            div[id=3Dmobile] {
+                display: block !important;
+                width: 100                height: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+            }
+
+            div[id=3Ddesktop] {
+                display: none !important;
+                width: 0px !important;
+                max-height: 0px !important;
+                overflow: hidden !important;
+                padding: 2px !important;
+                margin: 0px !important;
+            }
+        }
+    </style>
+
+    <table id=3D"container" style=3D"font-family:Arial;" align=3D"center" w=
+idth=3D"98        <tr>
+            <td align=3D"center">
+                <!-- DESKTOP -->
+                <div id=3D"desktop" style=3D"display:block; width:100-height:auto; overflow:visible; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"600" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"48">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"16" height=3D"=
+48"></td>
+                                                    <td align=3D"left" styl=
+e=3D"font-family: Arial, sans-serif; font-weight: normal; font-style: norma=
+l; text-align: left; color: rgb(69, 114, 143); font-size: 12px; line-height=
+: 15px; background-color: rgb(255, 255, 255);" width=3D"290" height=3D"48">=
+<a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=3D488&c=3D11929&=
+s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D218633" style=3D"c=
+olor:#0089d0">Life cover from just 17p per day - Click Here</a></td>
+                                                    <td align=3D"left" styl=
+e=3D"background-color: #FFFFFF;" width=3D"279" height=3D"48"><a target=3D"_=
+blank" href=3D"http://perfect-price.co.uk/?a=3D488&c=3D11929&s1=3D482058&s2=
+=3DO000018848160_1977&s3=3D1501191450&S4=3D218633" title=3D"Live Cover for =
+Less.co.uk"><img style=3D"display: block; margin:0px; padding:0px; border: =
+0" alt=3D"Live Cover for Less.co.uk" src=3D"http://perfect-price.co.uk/bmsb=
+ntptzvp5" width=3D"279" height=3D"48" border=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"15" height=3D"=
+48"></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"674">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td align=3D"center" wi=
+dth=3D"14" height=3D"674">
+                                                        <table align=3D"cen=
+ter" width=3D"14" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"=
+14" height=3D"269"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #FFFFFF;" width=3D"14" height=3D"60"><img style=3D"di=
+splay: block; margin:0px; padding:0px; border: 0" src=3D"http://perfect-pri=
+ce.co.uk/mrfvm2uist" alt=3D"" width=3D"14" height=3D"60" border=3D"0" /></t=
+d>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"=
+14" height=3D"345"></td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                    <td align=3D"center" wi=
+dth=3D"573" height=3D"674">
+                                                        <table align=3D"cen=
+ter" width=3D"573" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td align=
+=3D"left" valign=3D"top" style=3D"background-color: #408AB1;" width=3D"573"=
+ height=3D"381"><a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=
+=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D2=
+18633" title=3D"Take care of your family this winter with live cover from j=
+ust 17p per day"><img style=3D"display: block; margin:0px; padding:0px; bor=
+der: 0" alt=3D"Take care of your family this winter with live cover from ju=
+st 17p per day" src=3D"http://perfect-price.co.uk/u2ozwablvx" width=3D"573"=
+ height=3D"381" border=3D"0" /></a></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align=
+=3D"center" width=3D"573" height=3D"226">
+                                                                    <table =
+align=3D"center" width=3D"573" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #FFFFFF">
+                                                                        <tr=
+>
+                                                                           =
+ <td style=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;"=
+ width=3D"2" height=3D"226"></td>
+                                                                           =
+ <td align=3D"center" width=3D"569" height=3D"226">
+                                                                           =
+     <table align=3D"center" width=3D"569" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"background-color: #FFFFFF">
+                                                                           =
+         <tr>
+                                                                           =
+             <td align=3D"center" style=3D"font-family: Arial, sans-serif; =
+font-weight: normal; font-style: normal; color: rgb(109, 110, 113); text-al=
+ign: center; font-size: 18px; line-height: 30px; background-color: rgb(255,=
+ 255, 255);" width=3D"569" height=3D"168">
+                                                                           =
+                 Compare Life Insurance quotes from the UK's top insurers
+                                                                           =
+                 <br>
+                                                                           =
+                 <strong style=3D"color:#0089d0">30 second application</str=
+ong> - its simple and quick!
+                                                                           =
+                 <br>
+                                                                           =
+                 Choose the cheapest Life Insurance Policy that suits you
+                                                                           =
+                 <br>
+                                                                           =
+                 <strong style=3D"color:#0089d0">FREE</strong> affordable q=
+uotes with no obligation
+                                                                           =
+                 <br>
+                                                                           =
+                 Cheapest Life Insurance Cover starts from just <strong sty=
+le=3D"color:#0089d0">17p per day!</strong>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td align=3D"center" width=3D"569" height=3D"42">
+                                                                           =
+                 <table align=3D"center" width=3D"569" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"background-color: #FFFFFF">
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td style=3D"background-color: #FFFFFF; font-size:=
+ 1px; line-height: 1px;" width=3D"179" height=3D"42"></td>
+                                                                           =
+                         <td align=3D"center" style=3D"background-color: #F=
+FFFF8;" width=3D"209" height=3D"42"><a target=3D"_blank" href=3D"http://per=
+fect-price.co.uk/?a=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=
+=3D1501191450&S4=3D218633" title=3D"Apply now"><img style=3D"display: block=
+; margin:0px; padding:0px; border: 0" alt=3D"Apply now" src=3D"http://perfe=
+ct-price.co.uk/skr7xx2" width=3D"209" height=3D"42" border=3D"0" /></a></td=
+>
+                                                                           =
+                         <td style=3D"background-color: #FFFFFF; font-size:=
+ 1px; line-height: 1px;" width=3D"177" height=3D"42"></td>
+                                                                           =
+                     </tr>
+                                                                           =
+                 </table>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D"background-color: #FFFFFF; font-size: 1px; line-h=
+eight: 1px;" width=3D"569" height=3D"16"></td>
+                                                                           =
+         </tr>
+                                                                           =
+     </table>
+                                                                           =
+ </td>
+                                                                           =
+ <td style=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;"=
+ width=3D"2" height=3D"226"></td>
+                                                                        </t=
+r>
+                                                                    </table=
+>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;" width=3D"=
+573" height=3D"4"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align=
+=3D"center" valign=3D"top" style=3D"background-color: #1B80B6;" width=3D"57=
+3" height=3D"63"><a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=
+=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D2=
+18633" title=3D"-"><img style=3D"display: block; margin:0px; padding:0px; b=
+order: 0" alt=3D"-" src=3D"http://perfect-price.co.uk/xihrmwehk" width=3D"5=
+73" height=3D"63" border=3D"0" /></a></td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                    <td align=3D"center" wi=
+dth=3D"13" height=3D"674">
+                                                        <table align=3D"cen=
+ter" width=3D"13" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"=
+13" height=3D"269"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #AAE1FF;" width=3D"13" height=3D"60"><img style=3D"di=
+splay: block; margin:0px; padding:0px; border: 0" src=3D"http://perfect-pri=
+ce.co.uk/8kjxkt" alt=3D"" width=3D"13" height=3D"60" border=3D"0" /></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"=
+13" height=3D"345"></td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"193">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"15" height=3D"=
+193"></td>
+                                                    <td align=3D"left" styl=
+e=3D"font-family: Arial, sans-serif; font-weight: normal; font-style: norma=
+l; text-align: left; color: rgb(110, 110, 112); font-size: 10px; line-heigh=
+t: 12px; background-color: rgb(255, 255, 255);" width=3D"555" height=3D"193=
+">
+                                                        <br>
+                                                        Insurance details p=
+ublished on this site are for information purposes only and do not constitu=
+te financial advice nor financial promotions under the Financial Services a=
+nd Markets Act 2000 or The (Financial Promotions) Order 2005.
+                                                        <br>
+                                                        <br>
+                                                        By Submitting the e=
+nquiry form you agree that:
+                                                        <br>
+                                                        <br>
+                                                        The information pro=
+vided is true and accurate and that LifeCoverForLess.co.uk may send the det=
+ails of this enquiry to an appropriate and authorised advisor for the purpo=
+se of providing life insurance quotes and advice and that the advisor may c=
+ontact you for further information as required.
+                                                        <br>
+                                                        <br>
+                                                        Quoted rates are ba=
+sed on &pound;75,000 of level term life cover for a 28 year old non-smoking=
+ female in good health. Prices are correct at June 2013, actual prices will=
+ vary depending on individual circumstances.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"30" height=3D"=
+193"></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>  <!-- DESKTOP -->
+                <!-- MOBILE -->
+               <!--  <div id=3D"mobile" style=3D"display:block !important; =
+width:100t; overflow:visible !important;">-->
+                     <div id=3D"mobile" style=3D"display:none; width:0px; m=
+ax-height:0px; overflow:hidden; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"300" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"48">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                 =20
+                                                    <td align=3D"left" styl=
+e=3D"font-family: Arial, sans-serif; font-weight: normal; font-style: norma=
+l; text-align: left; color: rgb(69, 114, 143); font-size: 12px; line-height=
+: 15px; background-color: rgb(255, 255, 255);" width=3D"290" height=3D"48">=
+<a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=3D488&c=3D11929&=
+s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D218633" style=3D"c=
+olor:#0089d0">Life cover from just 17p per day - Click Here</a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" styl=
+e=3D"background-color: #FFFFFF;" width=3D"279" height=3D"48"><a target=3D"_=
+blank" href=3D"http://perfect-price.co.uk/?a=3D488&c=3D11929&s1=3D482058&s2=
+=3DO000018848160_1977&s3=3D1501191450&S4=3D218633" title=3D"Live Cover for =
+Less.co.uk"><img style=3D"display: block; margin:0px; padding:0px; border: =
+0" alt=3D"Live Cover for Less.co.uk" src=3D"http://perfect-price.co.uk/bmsb=
+ntptzvp5" width=3D"279" height=3D"48" border=3D"0" /></a></td>
+                                                 =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"199">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                   =20
+                                                    <td align=3D"center" wi=
+dth=3D"300" height=3D"199">
+                                                        <table align=3D"cen=
+ter" width=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td align=
+=3D"left" valign=3D"top" style=3D"background-color: #408AB1;" width=3D"300"=
+ height=3D"199"><a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=
+=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D2=
+18633" title=3D"Take care of your family this winter with live cover from j=
+ust 17p per day">
+                                                                    <img st=
+yle=3D"display: block; margin:0px; padding:0px; border: 0" alt=3D"Take care=
+ of your family this winter with live cover from just 17p per day" src=3D"h=
+ttp://perfect-price.co.uk/u2ozwablvx_2" width=3D"300" height=3D"199" border=
+=3D"0" /></a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align=
+=3D"center" width=3D"300" height=3D"226">
+                                                                    <table =
+align=3D"center" width=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #FFFFFF">
+                                                                        <tr=
+>
+                                                                           =
+ <td style=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;"=
+ width=3D"2" height=3D"226"></td>
+                                                                           =
+ <td align=3D"center" width=3D"300" height=3D"226">
+                                                                           =
+     <table align=3D"center" width=3D"300" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"background-color: #FFFFFF">
+                                                                           =
+         <tr>
+                                                                           =
+             <td align=3D"center" style=3D"font-family: Arial, sans-serif; =
+font-weight: normal; font-style: normal; color: rgb(109, 110, 113); text-al=
+ign: center; font-size: 13px; line-height: 22px; background-color: rgb(255,=
+ 255, 255);" width=3D"300" height=3D"168">
+                                                                           =
+                 Compare Life Insurance quotes from the UK's top insurers
+                                                                           =
+                 <br>
+                                                                           =
+                 <strong style=3D"color:#0089d0">30 second application</str=
+ong> - its simple and quick!
+                                                                           =
+                 <br>
+                                                                           =
+                 Choose the cheapest Life Insurance Policy that suits you
+                                                                           =
+                 <br>
+                                                                           =
+                 <strong style=3D"color:#0089d0">FREE</strong> affordable q=
+uotes with no obligation
+                                                                           =
+                 <br>
+                                                                           =
+                 Cheapest Life Insurance Cover starts from just <strong sty=
+le=3D"color:#0089d0">17p per day!</strong>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td align=3D"center" width=3D"300" height=3D"42">
+                                                                           =
+                 <table align=3D"center" width=3D"300" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"background-color: #FFFFFF">
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td style=3D"background-color: #FFFFFF; font-size:=
+ 1px; line-height: 1px;" width=3D"179" height=3D"42"></td>
+                                                                           =
+                         <td align=3D"center" style=3D"background-color: #F=
+FFFF8;" width=3D"209" height=3D"42"><a target=3D"_blank" href=3D"http://per=
+fect-price.co.uk/?a=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=
+=3D1501191450&S4=3D218633" title=3D"Apply now"><img style=3D"display: block=
+; margin:0px; padding:0px; border: 0" alt=3D"Apply now" src=3D"http://perfe=
+ct-price.co.uk/skr7xx2" width=3D"209" height=3D"42" border=3D"0" /></a></td=
+>
+                                                                           =
+                         <td style=3D"background-color: #FFFFFF; font-size:=
+ 1px; line-height: 1px;" width=3D"177" height=3D"42"></td>
+                                                                           =
+                     </tr>
+                                                                           =
+                 </table>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D"background-color: #FFFFFF; font-size: 1px; line-h=
+eight: 1px;" width=3D"300" height=3D"16"></td>
+                                                                           =
+         </tr>
+                                                                           =
+     </table>
+                                                                           =
+ </td>
+                                                                           =
+ <td style=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;"=
+ width=3D"2" height=3D"226"></td>
+                                                                        </t=
+r>
+                                                                    </table=
+>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style=
+=3D"background-color: #0E84C2; font-size: 1px; line-height: 1px;" width=3D"=
+300" height=3D"4"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align=
+=3D"center" valign=3D"top" style=3D"background-color: #1B80B6;" width=3D"30=
+0" height=3D"33"><a target=3D"_blank" href=3D"http://perfect-price.co.uk/?a=
+=3D488&c=3D11929&s1=3D482058&s2=3DO000018848160_1977&s3=3D1501191450&S4=3D2=
+18633" title=3D"-"><img style=3D"display: block; margin:0px; padding:0px; b=
+order: 0" alt=3D"-" src=3D"http://perfect-price.co.uk/xihrmwehk_2" width=3D=
+"300" height=3D"33" border=3D"0" /></a></td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                  =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"193">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"15" height=3D"=
+193"></td>
+                                                    <td align=3D"left" styl=
+e=3D"font-family: Arial, sans-serif; font-weight: normal; font-style: norma=
+l; text-align: left; color: rgb(110, 110, 112); font-size: 10px; line-heigh=
+t: 12px; background-color: rgb(255, 255, 255);" width=3D"300" height=3D"193=
+">
+                                                        <br>
+                                                        Insurance details p=
+ublished on this site are for information purposes only and do not constitu=
+te financial advice nor financial promotions under the Financial Services a=
+nd Markets Act 2000 or The (Financial Promotions) Order 2005.
+                                                        <br>
+                                                        <br>
+                                                        By Submitting the e=
+nquiry form you agree that:
+                                                        <br>
+                                                        <br>
+                                                        The information pro=
+vided is true and accurate and that LifeCoverForLess.co.uk may send the det=
+ails of this enquiry to an appropriate and authorised advisor for the purpo=
+se of providing life insurance quotes and advice and that the advisor may c=
+ontact you for further information as required.
+                                                        <br>
+                                                        <br>
+                                                        Quoted rates are ba=
+sed on &pound;75,000 of level term life cover for a 28 year old non-smoking=
+ female in good health. Prices are correct at June 2013, actual prices will=
+ vary depending on individual circumstances.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"30" height=3D"=
+193"></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <br />
+    <center>
+        <font size=3D"2" face=3D"Arial">
+            The advertiser does not manage your subscription. If you prefer=
+ not to receive further communication,<br>
+            <a href=3D"http://perfect-price.co.uk/unsub?s1=3D482058&newunsu=
+b=3D1" target=3D"_blank">here is the way</a> to stop receiving emails. P.O.=
+ Box 13629, 10310 Athens - Greece<br>
+        </font>
+        <img src=3D "http://perfect-price.co.uk/adv" border=3D"0" alt=3D"" =
+style=3D"max-width:100x;">
+    </center>
+    <div style=3D"color:white; background-color:white; font-size:8px;">
+        banks. Q. What harm did this do? A. It made all the nice grass wet =
+andmarshy. Q. What more? A. It rotted the roots of the trees. Q. Whathappen=
+ed then? A. They all fell down. Q. In some hundred years, whatdid all those=
+ forests become? A. Great bogs. Q. Are any of the trunksor bodies of those =
+old trees ever found? A. Yes; many hundreds are yetfar under the bogs. Q. A=
+re they of any use? A. Yes; they are useful tomake chairs, tables, and pres=
+ses. Q. What colour are they? A. As blackas a piece of coal. Q. When they a=
+re polished, do they look nice? A.Yes; so bright you can see your face in t=
+hem. Q. What is this woodcalled? A. Bog-oak. Q. Will you all try to remembe=
+r this lesson? A.We will. Teacher. That is right; for little children shoul=
+d alwaysremember the pretty things that their teacher takes such trouble to=
+tell them.In places where coal is most burned, a piece of it may be made th=
+emedium of a very useful and instructive lesson, being so familiar anobject=
+, their attention will be arrested by its being made the subjectof a lesson=
+; and their curiosity aroused to know every thing aboutit. When the teacher=
+ asks what is this, the simultaneous shout, of"a piece of coal," will convi=
+nce him that he has arrested theirattention; and a few questions will exhau=
+st their stock of informationon the subject--they will tell him its uses ar=
+e to make fires to boilup their dinners, &c. &c. He may then proceed as fol=
+lows:--You see,little children, this piece of coal; look at it attentively;=
+ it isblack and shining; and you all know will burn very quickly. The place=
+sfrom whence all coal is brought are called _coal mines_; the men whodig it=
+ out of the ground, and the ships that carry it over the sea,are called col=
+liers, and the place where the coals are got is calleda colliery. The coal =
+mines are deep holes made very far under theground, in order to get at the =
+coal; some of them go under the sea.The colliers live a great part of their=
+ life, in those dark holes,in order to get us coal to make us fires to dres=
+s our food, and veryoften are killed, either by the falling in of the roof =
+from above, orfrom a sort of air called fire-damp, which, if touched with a=
+ny fire,will blow up like gunpowder, and will kill any person that is near =
+it;the poor colliers are also often smothered by the bad air that is inthos=
+e damp, dark holes; so you see, little children, what dangers theygo throug=
+h, in order to get us coal, which we could very badly dowithout.
+    </div>
+
+<img alt=3D"" src=3D"http://perfect-price.co.uk/record.php?s1=3D482058&s2=
+=3DO000018848160_1977&s3=3D1501191450&S4=3D218633" width=3D"1" height=3D"1"=
+ border=3D"0" /></body>
+</html>
+------=_Part_1252054_69107268.1421671856115--
+
+------=_Part_1252053_987562933.1421671856115--
+

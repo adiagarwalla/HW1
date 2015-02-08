@@ -1,0 +1,919 @@
+From @..  Mon Jan 19 15:10:51 2015
+Return-Path: <@..>
+X-Original-To: shahid@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 06CBCDF; Mon, 19 Jan 2015 15:10:50 +0000 (UTC)
+Received: from strongmail1.multiview.com (strongmail1.multiview.com [50.84.243.124])
+    by .. with SMTP id 643aw6etpypgckua3ixtpt7mz2;
+    for shahid@fs.net;
+    Mon, 19 Jan 2015 15:10:46 +0000 (UTC)
+    (envelope-from bounce@strongmail.multiview.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=50.84.243.124; envelope-from=<bounce@strongmail.multiview.com>;
+    helo=strongmail1.multiview.com; mechanism=ip4:50.84.243.112/28
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=50.84.243.124; client-port=50654;
+    syn-fingerprint=5840:49:1:60:M1380,N,N,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 0.0.0.0
+    107.14.17.195 107.14.19.5 66.109.9.41 66.109.6.89 24.175.49.1
+    24.175.36.209 24.175.50.165 97.77.1.225 50.84.151.226;
+    network-path-time=1421680246
+Received: from PSM-IRV-01 ([172.19.9.35])
+	by strongmail1.multiview.com (-); Mon, 19 Jan 2015 09:10:18 -0600
+X-Destination-ID: shahid@fs.net
+X-SMFBL: c2hhaGlkQGZzLm5ldA==
+X-VirtualServer: Default, strongmail1.multiview.com, 172.19.9.43
+X-VirtualServerGroup: Default
+X-MailingID: 17315160::2123089::Mailing.DS123089.2123089.106438::2123089::30070166::620
+X-SMHeaderMap: mid="X-MailingID"
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=briefs;
+ d=multibriefs.com;
+ q=dns;
+ b=DiB/+5GPGKty/h6QiPqK/PSSwts7Y5esNGNao/J+6UVTRPa8ebUsEnN9IUGW31/mpv3pZcAh9bIX6UVJbajUYjBJ77Mr/npYialTTauAU7wcvRmWxOwwpN25tVvamg0Cv34IAnJuBNaN9nvAertzJA/yLYcIsvTHS3fHyEb63KE=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=multibriefs.com;
+	s=briefs; i=@multibriefs.com; h=Content-Transfer-Encoding:
+	Content-Disposition:Content-Type:Reply-To:MIME-Version:
+	Message-ID:X-PVIQ:Subject:Date:To:From; bh=Wf7Z+5i1IHVW5zlRqH2mb
+	YwWQ1A=; b=jqOX3DzxSO9zTq0ITEEjYtJ6j8Xe/+X9A3OwSE07XRHzHBrtv3vcL
+	ykiQG16lr+droIGS695uu162EPeugJzFCbE0vfmiw5YlKBS75giEeIaCk7SFnqp9
+	q+XFxsc04iHi3X3ofXl7pIp6JcANFzNe0uJrluh03rQaNaeqWlEB3c=
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Content-Type: text/html;
+	charset="UTF-8"
+Reply-To: @..
+MIME-Version: 1.0
+Message-ID: <17315160.620@multibriefs.com>
+X-PVIQ: 000320-001085-000002-123089-000000
+Subject: Is this the year digital grocery shopping returns?
+Date: Mon, 19 Jan 2015 09:10:16 -0600
+To: @..
+From: "Supermarket Executive Briefing" <@..>
+
+<IMG SRC=3D"http://strongmail1.multiview.com:80/track?eas=3D1&mailingid=3D=
+2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&=
+type=3Dopen&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&t=
+argetid=3D&fl=3D&extra=3DMultivariateId=3D&&&" WIDTH=3D"1" HEIGHT=3D"1" S=
+TYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/><html><body bgcol=
+or=3D"#cccccc" link=3D"#00577F" vlink=3D"#00577F"><center><table><tr><td>=
+=0A<center>=0A=0A<table width=3D"800" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0">=0A<tr><td align=3D"center" id=3D"ContentSection1"><span cl=
+ass=3D"CustomCode"><center><span style=3D"font-family: verdana,arial,sans=
+-serif; font-size: 10px; text-decoration: none; color: rgb(102, 102, 102)=
+; font-weight: normal;">This message contains images. If you don't see im=
+ages, <b><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclic=
+k&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS=
+123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2000&&&http://www.=
+multibriefs.com/briefs/mv-GroceryEB/mv-GroceryEB011915.php" style=3D"font=
+-family: verdana,arial,sans-serif; font-size: 10px; text-decoration: none=
+; color: rgb(102, 102, 102); font-weight: normal;">click here</a></b> to =
+view.<br><span style=3D"font-family: verdana,arial,sans-serif; font-size:=
+ 12px; color: rgb(102, 102, 102); font-weight: normal;"><b><a href=3D"htt=
+p://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2=
+123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&s=
+erial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=
+=3D&extra=3DMultivariateId=3D&&&2001&&&http://multibriefs.com/briefs/mv-g=
+roceryEB/?ireq" target=3D"_blank">Advertise</a></b> in this news brief.=0A=
+ </span>=0A</span></center>=0A<br><br></span>
+<center><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+728" height=3D"90">=0A<tbody>=0A=09<tr>=0A=09<td valign=3D"top" width=3D"=
+728" height=3D"90"><a href=3D"http://strongmail1.multiview.com:80/track?t=
+ype=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3D=
+Mailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net=
+&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2002&&&h=
+ttp://hoppcompanies.com" rel=3D"nofollow" target=3D"" title=3D"" class=3D=
+"AdLink"><img src=3D"http://www.multibriefs.com/briefs/mv-groceryeb/MV-Gr=
+oceryEB_Hopps_728X90[1].gif" alt=3D"" border=3D"0" class=3D"ImageURL"></a=
+></td>=0A=09</tr>=0A</tbody>=0A</table>=0A</center>
+</td></tr></table>=0A<br><br>=0A<table width=3D"800" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">=0A<tr>=0A<td colspan=3D=
+"4" width=3D"800" id=3D"ContentSection2"><span class=3D"CustomCode"><tabl=
+e bgcolor=3D"#efefef" cellpadding=3D"3" width=3D"800">=0A<tbody><tr><td v=
+align=3D"top">=0A<a href=3D"http://strongmail1.multiview.com:80/track?typ=
+e=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMa=
+iling.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&u=
+serid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2003&&&htt=
+p://www.multibriefs.com/briefs/mv-GroceryEB/011915.html" style=3D"font-fa=
+mily: verdana,arial,sans-serif; font-size: 8pt; text-decoration: none; co=
+lor: rgb(102, 102, 102); font-weight: normal;">Text  Version</a>&#160;&#1=
+60;&#160;<a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclic=
+k&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS=
+123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2004&&&http://www.=
+multibriefs.com/briefs/mv-GroceryEB/mv-GroceryEB.xml" style=3D"font-famil=
+y: verdana,arial,sans-serif; font-size: 8pt; text-decoration: none; color=
+: rgb(102, 102, 102); font-weight: normal;">RSS</a>&#160;&#160;&#160;<a h=
+ref=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mai=
+lingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.212308=
+9.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targ=
+etid=3D&fl=3D&extra=3DMultivariateId=3D&&&2005&&&http://www.multibriefs.c=
+om/optin.php?MV-GroceryEB" style=3D"font-family: verdana,arial,sans-serif=
+; font-size: 8pt; text-decoration: none; color: rgb(102, 102, 102); font-=
+weight: normal;">Subscribe</a>&#160;&#160;&#160;<a href=3D"http://strongm=
+ail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&mess=
+ageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D173=
+15160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3D=
+MultivariateId=3D&&&2006&&&http://www.multibriefs.com/unsubscribe.php?MV-=
+GroceryEB&#38;shahid@fs.net" style=3D"font-family: verdana,arial,sans-ser=
+if; font-size: 8pt; text-decoration: none; color: rgb(102, 102, 102); fon=
+t-weight: normal;">Unsubscribe</a>&#160;&#160;&#160;<a href=3D"http://str=
+ongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&=
+messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D=
+17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extr=
+a=3DMultivariateId=3D&&&2007&&&http://www.multibriefs.com/briefs/mv-Groce=
+ryEB" style=3D"font-family: verdana,arial,sans-serif; font-size: 8pt; tex=
+t-decoration: none; color: rgb(102, 102, 102); font-weight: normal;">Arch=
+ive</a>&#160;&#160;&#160;<a href=3D"http://strongmail1.multiview.com:80/t=
+rack?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databas=
+eid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@=
+fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&20=
+08&&&http://www.multibriefs.com/briefs/mv-GroceryEB/mediakit.pdf" style=3D=
+"font-family: verdana,arial,sans-serif; font-size: 8pt; text-decoration: =
+none; color: rgb(102, 102, 102); font-weight: bold;">Media Kit</a>=0A</td=
+>=0A<td align=3D"right" valign=3D"top"><span style=3D"font-family: verdan=
+a,arial,sans-serif; font-size: 8pt; text-decoration: none; color: rgb(102=
+, 102, 102); font-weight: normal;"><span class=3D"BriefDate">January 19, =
+2015</span></span><br></td></tr></tbody></table>=0A=0A=0A=0A=0A<img src=3D=
+"http://www.multibriefs.com/briefs/mv-groceryeb/MV-grocery_EB_Header.gif"=
+ border=3D"0" width=3D"800"><br></span>
+<span class=3D"CustomCode"></span>
+</td>=0A</tr>=0A=0A<tr>=0A<td width=3D"145" style=3D"border-right: 1px so=
+lid #cccccc;" valign=3D"top" id=3D"ContentSection7" align=3D"center"><spa=
+n class=3D"CustomCode"><center><img src=3D"http://www.multibriefs.com/bri=
+efs/MV-GroceryEB/Sky1.gif" width=3D"120" height=3D"600" alt=3D"" border=3D=
+"0"></center><br><br></span>
+<a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1=
+&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.21=
+23089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&=
+targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2009&&&http://www.solutions=
+grocerstrust.com/crs/index.php?option=3Dcom_content&view=3Darticle&id=3D3=
+3:completeperformance-guarantee&catid=3D2:general&Itemid=3D26" target=3D"=
+" title=3D"" class=3D"AdLink"><img src=3D"http://www.multibriefs.com/brie=
+fs/mv-groceryeb/ibm.gif" border=3D"0" class=3D"ImageURL" width=3D"120" he=
+ight=3D"600"></a> =0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"120">=0A<tr><td width=3D"120" height=3D"12"></td></tr>=0A</t=
+able>
+</td>=0A<td width=3D"10">&nbsp;</td>=0A<td width=3D"635" valign=3D"top">=0A=
+<table width=3D"635" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=
+<tr><td id=3D"ContentSection3"><span class=3D"CustomCode"><br><br>=0A<tab=
+le width=3D"100rder-left: 1px solid #cccccc; border-right: 1px solid #cccccc; border-bot=
+tom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE">=0A=0A<tr><td>=0A<span style=
+=3D"font-family:arial, sans-serif; font-size:10pt; color: #666666; font-w=
+eight:bold; text-decoration:none;">TOP STORIES</span>=0A</td></tr></table=
+></span>
+<br><table width=3D"635" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ bgcolor=3D"#EEEEEE">=0A<tr>=0A<td colspan=3D"3">=0A<center><table width=3D=
+"98e=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMa=
+iling.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&u=
+serid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2010&&&htt=
+p://multibriefs.com/ViewLink.php?i=3D54b948cc85011" target=3D"_blank" cla=
+ss=3D"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"=
+ArticleTitle" style=3D"font-family:arial, sans-serif; font-size:15pt; fon=
+t-weight:bold; text-decoration:none; color: #000000;">Is this the year di=
+gital grocery shopping returns?</span>=0A</a> =0A<br> =0A<span class=3D"A=
+rticleSource" style=3D"font-family:arial, sans-serif; font-size:9pt; colo=
+r: #666666; font-weight:bold; text-decoration:none;">HLM</span>=0A  =0A<b=
+r>=0A<span class=3D"ArticleDescription" style=3D"font-family:arial, sans-=
+serif; font-size:11pt;">It's been promised to us for years: Online grocer=
+y shopping with speedy delivery straight to our kitchens. Remember when t=
+he futuristic Jetsons family ordered their meats and veggies with a press=
+ of a button? Or the Internet fridge in the movie "The 6th Day" that remi=
+nds Arnold Schwarzenegger to order more milk?=0A=0AIt's 2015, folks, wher=
+e's our instagrocery service?=0A=0AWell, it sounds like we may finally be=
+ getting there.</span>=0A</td></tr></table></center>=0A</td></tr>=0A<tr>=0A=
+<td width=3D"513"><span style=3D"font-family:verdana, arial, sans-serif; =
+font-size:8pt; color: #666666;">&nbsp;&nbsp;&nbsp;Share this article:&nbs=
+p;&nbsp;</span>=0A<span class=3D"LinkShare"><a href=3D"http://strongmail1=
+.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messagei=
+d=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D1731516=
+0&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMul=
+tivariateId=3D&&&2011&&&http://www.facebook.com/sharer.php?u=3Dhttp://mul=
+tibriefs.com/ViewLink.php?i=3D54b948cc85011" title=3D"Share on Facebook">=
+<img src=3D"http://multibriefs.com/images/facebook2.png" border=3D"0" alt=
+=3D"Share on Facebook"></a><a href=3D"http://strongmail1.multiview.com:80=
+/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&datab=
+aseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahi=
+d@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&=
+2012&&&http://twitter.com/?status=3Dhttp://multibriefs.com/ViewLink.php?i=
+=3D54b948cc85011" title=3D"Share on Twitter"><img src=3D"http://multibrie=
+fs.com/images/twitter2.png" border=3D"0" alt=3D"Twitter"></a><a href=3D"h=
+ttp://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D=
+2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&=
+serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&f=
+l=3D&extra=3DMultivariateId=3D&&&2013&&&http://www.linkedin.com/shareArti=
+cle?mini=3Dtrue&url=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b948cc850=
+11" title=3D"Share on Linkedin"><img src=3D"http://multibriefs.com/images=
+/linkedin2.png" border=3D"0" alt=3D"Share on Linkedin"></a><a href=3D"htt=
+p://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2=
+123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&s=
+erial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=
+=3D&extra=3DMultivariateId=3D&&&2014&&&http://multibriefs.com/ShareArticl=
+e.php?54b948cc85011" title=3D"Send this article to a friend"><img src=3D"=
+http://multibriefs.com/images/email.png" border=3D"0" alt=3D"E-mail artic=
+le"></a></span></td>=0A=0A<td width=3D"125" align=3D"right"><table width=3D=
+"125" border=3D"0" cellpadding=3D"0" bgcolor=3D"#EEEEEE"><tr><td align=3D=
+"right"><span style=3D"font-family:arial, sans-serif; font-size:9pt; font=
+-weight:bold; text-decoration:none;"><a href=3D"http://strongmail1.multiv=
+iew.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D212=
+3089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&email=
+id=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivaria=
+teId=3D&&&2015&&&http://multibriefs.com/ViewLink.php?i=3D54b948cc85011" t=
+arget=3D"_blank" class=3D"ArticleLink" style=3D"font-family: arial, sans-=
+serif; font-size:10pt; font-weight:bold; text-decoration:none;">READ MORE=
+</a>&nbsp;&nbsp;</span></td></tr></table></td>=0A<td width=3D"22" align=3D=
+"right"><img src=3D"http://www.multibriefs.com/briefs/img/pageCurl.png" b=
+order=3D"0">=0A</td></tr></table>
+<br><br><span style=3D"font-family:arial, sans-serif; font-size:10pt; col=
+or: #666666; font-weight:bold; text-decoration:none;">PRODUCT SHOWCASE</s=
+pan>=0A<table width=3D"100#cccccc; border-left: 1px solid #cccccc; border-right: 1px solid #cccccc;=
+ border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE">=0A<tr>=0A<td wid=
+th=3D"175" height=3D"125" style=3D"border-right: 1px solid #cccccc; borde=
+r-left: 1px solid #cccccc; border-top: 1px solid #cccccc; border-bottom: =
+1px solid #cccccc;" align=3D"center"><a href=3D"http://strongmail1.multiv=
+iew.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D212=
+3089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&email=
+id=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivaria=
+teId=3D&&&2016&&&http://www.magnamixer.com/" class=3D"AdLink" target=3D"_=
+blank"><img src=3D"http://www.multibriefs.com/briefs/mv-groceryeb/magnane=
+wlogo2.jpg" border=3D"0" width=3D"175" height=3D"125" alt=3D"" class=3D"I=
+mageURL"></a></td>=0A<td width=3D"10">&nbsp;</td>=0A<td valign=3D"top">=0A=
+<a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1=
+&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.21=
+23089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&=
+targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2017&&&http://www.magnamixe=
+r.com/" class=3D"AdLink" target=3D"_blank"><span class=3D"HeaderText" sty=
+le=3D"font-family: arial, sans-serif; font-size:14px; line-height:16px; f=
+ont-weight:bold; text-decoration:underline;" target=3D"_blank">Quality eq=
+uipment to meet your needs. </span></a>=0A=09=09<br> <span class=3D"AdTex=
+t" style=3D"font-family:arial, sans-serif; font-size:13px;"><br>At Magna =
+Mixer, we produce bakery equipment of the highest quality. Depending on y=
+our bakery needs we can provide standard or custom designed machines. In =
+addition to our bakery line, we have been providing a complete line of do=
+uble arm sigma blade mixers and laboratory mixers for three decades.</spa=
+n>  =0A=09</td> =0A<td width=3D"10">&nbsp;</td>=0A</tr> =0A</table>
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2018&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b949ba4c27b" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">Apple Pay goes live at a=
+nother grocery chain</span>=0A</a> =0A<br> =0A<span class=3D"ArticleSourc=
+e" style=3D"font-family:arial, sans-serif; font-size:9pt; color: #666666;=
+ font-weight:bold; text-decoration:none;">PYMNTS.com</span>=0A  =0A<br>=0A=
+<span class=3D"ArticleDescription" style=3D"font-family:arial, sans-serif=
+; font-size:11pt;">Apple Pay has gone live at yet another regional grocer=
+y group. The 217 Lucky, Save Mart and FoodMaxx supermarkets in Northern C=
+alifornia and Nevada now all officially support Apple's mobile payment sy=
+stem, their corporate parent announced recently.</span>=0A<br>=0A<table w=
+idth=3D"100=0A<span style=3D"font-family:verdana, arial, sans-serif; font-size:8pt; =
+color: #666666;">Share this article:&nbsp;&nbsp;</span>=0A<span class=3D"=
+LinkShare"><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dcl=
+ick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.=
+DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2019&&&http://www.=
+facebook.com/sharer.php?u=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b94=
+9ba4c27b" title=3D"Share on Facebook"><img src=3D"http://multibriefs.com/=
+images/facebook2.png" border=3D"0" alt=3D"Share on Facebook"></a><a href=3D=
+"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=
+=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.1064=
+38&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D=
+&fl=3D&extra=3DMultivariateId=3D&&&2020&&&http://twitter.com/?status=3Dht=
+tp://multibriefs.com/ViewLink.php?i=3D54b949ba4c27b" title=3D"Share on Tw=
+itter"><img src=3D"http://multibriefs.com/images/twitter2.png" border=3D"=
+0" alt=3D"Twitter"></a><a href=3D"http://strongmail1.multiview.com:80/tra=
+ck?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databasei=
+d=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs=
+.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2021=
+&&&http://www.linkedin.com/shareArticle?mini=3Dtrue&url=3Dhttp://multibri=
+efs.com/ViewLink.php?i=3D54b949ba4c27b" title=3D"Share on Linkedin"><img =
+src=3D"http://multibriefs.com/images/linkedin2.png" border=3D"0" alt=3D"S=
+hare on Linkedin"></a><a href=3D"http://strongmail1.multiview.com:80/trac=
+k?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=
+=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.=
+net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2022&=
+&&http://multibriefs.com/ShareArticle.php?54b949ba4c27b" title=3D"Send th=
+is article to a friend"><img src=3D"http://multibriefs.com/images/email.p=
+ng" border=3D"0" alt=3D"E-mail article"></a></span> </td>=0A<td align=3D"=
+right">=0A<table width=3D"125" border=3D"0" style=3D"border-top: 1px soli=
+d #cccccc; border-left: 1px solid #cccccc; border-right: 1px solid #ccccc=
+c; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE"><tr><td align=3D=
+"center"><span style=3D"font-family:arial, sans-serif; font-size:9pt; fon=
+t-weight:bold; text-decoration:none;"><a href=3D"http://strongmail1.multi=
+view.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D21=
+23089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emai=
+lid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivari=
+ateId=3D&&&2023&&&http://multibriefs.com/ViewLink.php?i=3D54b949ba4c27b" =
+target=3D"_blank" class=3D"ArticleLink" style=3D"font-family:arial, sans-=
+serif; font-size:9pt; font-weight:bold; text-decoration:none;">READ MORE<=
+/a></span></td></tr></table>=0A</td></tr></table>=0A=0A<img src=3D"http:/=
+/www.multibriefs.com/briefs/img/635line.png" border=3D"0">
+<span class=3D"CustomCode"><br><br>=0A<table width=3D"100style=3D"border-top: 1px solid #cccccc; border-left: 1px solid #cccccc; b=
+order-right: 1px solid #cccccc; border-bottom: 1px solid #cccccc;" bgcolo=
+r=3D"#EEEEEE">=0A=0A<tr><td>=0A<span style=3D"font-family:arial, sans-ser=
+if; font-size:10pt; color: #666666; font-weight:bold; text-decoration:non=
+e;">HOT TOPICS</span>=0A</td></tr></table></span>
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2024&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b946d3ef06f" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">5 new technologies that =
+may change how you shop</span>=0A</a> =0A<br> =0A<span class=3D"ArticleSo=
+urce" style=3D"font-family:arial, sans-serif; font-size:9pt; color: #6666=
+66; font-weight:bold; text-decoration:none;">The Washington Post </span>=0A=
+  =0A<br>=0A<span class=3D"ArticleDescription" style=3D"font-family:arial=
+, sans-serif; font-size:11pt;">As more shopping moves online, retailers a=
+re looking for ways to step up the in-store experience to make sure it re=
+mains compelling and convenient. </span>=0A<br>=0A<table width=3D"100order=3D"0" cellpadding=3D"0">=0A<tr>=0A<td width=3D"50"font-family:verdana, arial, sans-serif; font-size:8pt; color: #666666;">=
+Share this article:&nbsp;&nbsp;</span>=0A<span class=3D"LinkShare"><a hre=
+f=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&maili=
+ngid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.=
+106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&target=
+id=3D&fl=3D&extra=3DMultivariateId=3D&&&2025&&&http://www.facebook.com/sh=
+arer.php?u=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b946d3ef06f" title=
+=3D"Share on Facebook"><img src=3D"http://multibriefs.com/images/facebook=
+2.png" border=3D"0" alt=3D"Share on Facebook"></a><a href=3D"http://stron=
+gmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&me=
+ssageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D1=
+7315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=
+=3DMultivariateId=3D&&&2026&&&http://twitter.com/?status=3Dhttp://multibr=
+iefs.com/ViewLink.php?i=3D54b946d3ef06f" title=3D"Share on Twitter"><img =
+src=3D"http://multibriefs.com/images/twitter2.png" border=3D"0" alt=3D"Tw=
+itter"></a><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dcl=
+ick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.=
+DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2027&&&http://www.=
+linkedin.com/shareArticle?mini=3Dtrue&url=3Dhttp://multibriefs.com/ViewLi=
+nk.php?i=3D54b946d3ef06f" title=3D"Share on Linkedin"><img src=3D"http://=
+multibriefs.com/images/linkedin2.png" border=3D"0" alt=3D"Share on Linked=
+in"></a><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick=
+&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS1=
+23089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D3=
+0070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2028&&&http://multi=
+briefs.com/ShareArticle.php?54b946d3ef06f" title=3D"Send this article to =
+a friend"><img src=3D"http://multibriefs.com/images/email.png" border=3D"=
+0" alt=3D"E-mail article"></a></span> </td>=0A<td align=3D"right">=0A<tab=
+le width=3D"125" border=3D"0" style=3D"border-top: 1px solid #cccccc; bor=
+der-left: 1px solid #cccccc; border-right: 1px solid #cccccc; border-bott=
+om: 1px solid #cccccc;" bgcolor=3D"#EEEEEE"><tr><td align=3D"center"><spa=
+n style=3D"font-family:arial, sans-serif; font-size:9pt; font-weight:bold=
+; text-decoration:none;"><a href=3D"http://strongmail1.multiview.com:80/t=
+rack?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databas=
+eid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@=
+fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&20=
+29&&&http://multibriefs.com/ViewLink.php?i=3D54b946d3ef06f" target=3D"_bl=
+ank" class=3D"ArticleLink" style=3D"font-family:arial, sans-serif; font-s=
+ize:9pt; font-weight:bold; text-decoration:none;">READ MORE</a></span></t=
+d></tr></table>=0A</td></tr></table>=0A=0A<img src=3D"http://www.multibri=
+efs.com/briefs/img/635line.png" border=3D"0">
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2030&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b94afd9523b" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">What we can learn from T=
+arget's Canadian disaster</span>=0A</a> =0A<br> =0A<span class=3D"Article=
+Source" style=3D"font-family:arial, sans-serif; font-size:9pt; color: #66=
+6666; font-weight:bold; text-decoration:none;">Supermarket News</span>=0A=
+  =0A<br>=0A<span class=3D"ArticleDescription" style=3D"font-family:arial=
+, sans-serif; font-size:11pt;">In a monumental decision, Target announced=
+ that it will pull out of the Canadian market less than two years after a=
+ much hyped entry. The magnitude of the loss is staggering: 133 stores, m=
+ore than 17,000 associates and a write-off that is being estimated at ove=
+r &#36;5.4 billion.=0A=0AThe obvious questions: What went wrong? And how =
+might retailers learn from this?=0A=0AThere are a number of already publi=
+shed commentaries on what went wrong, as this business struggled from the=
+ very outset. We'll boil it down to a few key points.</span>=0A<br>=0A<ta=
+ble width=3D"100508pt; color: #666666;">Share this article:&nbsp;&nbsp;</span>=0A<span clas=
+s=3D"LinkShare"><a href=3D"http://strongmail1.multiview.com:80/track?type=
+=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMai=
+ling.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&us=
+erid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2031&&&http=
+://www.facebook.com/sharer.php?u=3Dhttp://multibriefs.com/ViewLink.php?i=3D=
+54b94afd9523b" title=3D"Share on Facebook"><img src=3D"http://multibriefs=
+.com/images/facebook2.png" border=3D"0" alt=3D"Share on Facebook"></a><a =
+href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&ma=
+ilingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.21230=
+89.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&tar=
+getid=3D&fl=3D&extra=3DMultivariateId=3D&&&2032&&&http://twitter.com/?sta=
+tus=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b94afd9523b" title=3D"Sha=
+re on Twitter"><img src=3D"http://multibriefs.com/images/twitter2.png" bo=
+rder=3D"0" alt=3D"Twitter"></a><a href=3D"http://strongmail1.multiview.co=
+m:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&d=
+atabaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Ds=
+hahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D=
+&&&2033&&&http://www.linkedin.com/shareArticle?mini=3Dtrue&url=3Dhttp://m=
+ultibriefs.com/ViewLink.php?i=3D54b94afd9523b" title=3D"Share on Linkedin=
+"><img src=3D"http://multibriefs.com/images/linkedin2.png" border=3D"0" a=
+lt=3D"Share on Linkedin"></a><a href=3D"http://strongmail1.multiview.com:=
+80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&dat=
+abaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dsha=
+hid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&=
+&&2034&&&http://multibriefs.com/ShareArticle.php?54b94afd9523b" title=3D"=
+Send this article to a friend"><img src=3D"http://multibriefs.com/images/=
+email.png" border=3D"0" alt=3D"E-mail article"></a></span> </td>=0A<td al=
+ign=3D"right">=0A<table width=3D"125" border=3D"0" style=3D"border-top: 1=
+px solid #cccccc; border-left: 1px solid #cccccc; border-right: 1px solid=
+ #cccccc; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE"><tr><td =
+align=3D"center"><span style=3D"font-family:arial, sans-serif; font-size:=
+9pt; font-weight:bold; text-decoration:none;"><a href=3D"http://strongmai=
+l1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messag=
+eid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315=
+160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DM=
+ultivariateId=3D&&&2035&&&http://multibriefs.com/ViewLink.php?i=3D54b94af=
+d9523b" target=3D"_blank" class=3D"ArticleLink" style=3D"font-family:aria=
+l, sans-serif; font-size:9pt; font-weight:bold; text-decoration:none;">RE=
+AD MORE</a></span></td></tr></table>=0A</td></tr></table>=0A=0A<img src=3D=
+"http://www.multibriefs.com/briefs/img/635line.png" border=3D"0">
+<span class=3D"CustomCode"><br><br>=0A<table style=3D"border-top: 1px sol=
+id #cccccc; border-left: 1px solid #cccccc; border-right: 1px solid #cccc=
+cc; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE" border=3D"0" w=
+idth=3D"635">=0A<tbody><tr><td>=0A<span style=3D"font-family:arial, sans-=
+serif; font-size:10pt; color: #666666; font-weight:normal; text-decoratio=
+n:none;">=0A<b>Miss an issue of Supermarket Executive Briefing?</b> <a hr=
+ef=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mail=
+ingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089=
+.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targe=
+tid=3D&fl=3D&extra=3DMultivariateId=3D&&&2036&&&http://www.multibriefs.co=
+m/briefs/mv-groceryEB/">Click here</a> to visit Supermarket Executive Bri=
+efing archive page.=0A</span>=0A</td></tr></tbody></table></span>
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2037&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b9495ed5576" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">Are Chicago's new grocer=
+y deliverers here to stay?</span>=0A</a> =0A<br> =0A<span class=3D"Articl=
+eSource" style=3D"font-family:arial, sans-serif; font-size:9pt; color: #6=
+66666; font-weight:bold; text-decoration:none;">Crain's Chicago Business<=
+/span>=0A  =0A<br>=0A<span class=3D"ArticleDescription" style=3D"font-fam=
+ily:arial, sans-serif; font-size:11pt;">Grocery delivery is having a mome=
+nt.=0A=0AInstacart, the San Francisco startup that came to Chicago in 201=
+3, announced that it has raised &#36;220 million in its latest round of f=
+inancing. The company is now valued at &#36;2 billion.=0A=0AFounded in Ju=
+ly 2012 by entrepreneur Apoorva Mehta, Instacart promises same-day delive=
+ry of groceries from chains in the Chicago area, including Whole Foods, J=
+ewel and Mariano's.=0A=0ALike Uber and other members of the sharing econo=
+my, Instacart employs a network of contractors and matches them with dema=
+nd. The company's personal shoppers receive customers' grocery lists on t=
+heir phones, collect the items and deliver them within a specified timefr=
+ame. </span>=0A<br>=0A<table width=3D"100">=0A<tr>=0A<td width=3D"50l, sans-serif; font-size:8pt; color: #666666;">Share this article:&nbsp;&=
+nbsp;</span>=0A<span class=3D"LinkShare"><a href=3D"http://strongmail1.mu=
+ltiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2038&&&http://www.facebook.com/sharer.php?u=3Dhttp://multibr=
+iefs.com/ViewLink.php?i=3D54b9495ed5576" title=3D"Share on Facebook"><img=
+ src=3D"http://multibriefs.com/images/facebook2.png" border=3D"0" alt=3D"=
+Share on Facebook"></a><a href=3D"http://strongmail1.multiview.com:80/tra=
+ck?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databasei=
+d=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs=
+.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2039=
+&&&http://twitter.com/?status=3Dhttp://multibriefs.com/ViewLink.php?i=3D5=
+4b9495ed5576" title=3D"Share on Twitter"><img src=3D"http://multibriefs.c=
+om/images/twitter2.png" border=3D"0" alt=3D"Twitter"></a><a href=3D"http:=
+//strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D212=
+3089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&ser=
+ial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D=
+&extra=3DMultivariateId=3D&&&2040&&&http://www.linkedin.com/shareArticle?=
+mini=3Dtrue&url=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b9495ed5576" =
+title=3D"Share on Linkedin"><img src=3D"http://multibriefs.com/images/lin=
+kedin2.png" border=3D"0" alt=3D"Share on Linkedin"></a><a href=3D"http://=
+strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D21230=
+89&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&seria=
+l=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&=
+extra=3DMultivariateId=3D&&&2041&&&http://multibriefs.com/ShareArticle.ph=
+p?54b9495ed5576" title=3D"Send this article to a friend"><img src=3D"http=
+://multibriefs.com/images/email.png" border=3D"0" alt=3D"E-mail article">=
+</a></span> </td>=0A<td align=3D"right">=0A<table width=3D"125" border=3D=
+"0" style=3D"border-top: 1px solid #cccccc; border-left: 1px solid #ccccc=
+c; border-right: 1px solid #cccccc; border-bottom: 1px solid #cccccc;" bg=
+color=3D"#EEEEEE"><tr><td align=3D"center"><span style=3D"font-family:ari=
+al, sans-serif; font-size:9pt; font-weight:bold; text-decoration:none;"><=
+a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&=
+mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.212=
+3089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&t=
+argetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2042&&&http://multibriefs.co=
+m/ViewLink.php?i=3D54b9495ed5576" target=3D"_blank" class=3D"ArticleLink"=
+ style=3D"font-family:arial, sans-serif; font-size:9pt; font-weight:bold;=
+ text-decoration:none;">READ MORE</a></span></td></tr></table>=0A</td></t=
+r></table>=0A=0A<img src=3D"http://www.multibriefs.com/briefs/img/635line=
+.png" border=3D"0">
+<span class=3D"CustomCode"><br><br>=0A<table width=3D"100style=3D"border-top: 1px solid #cccccc; border-left: 1px solid #cccccc; b=
+order-right: 1px solid #cccccc; border-bottom: 1px solid #cccccc;" bgcolo=
+r=3D"#EEEEEE">=0A=0A<tr><td>=0A<span style=3D"font-family:arial, sans-ser=
+if; font-size:10pt; color: #666666; font-weight:bold; text-decoration:non=
+e;">IN THE NEWS</span>=0A</td></tr></table></span>
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2043&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b946f634292" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">Food trends cater to you=
+th in 2015</span>=0A</a> =0A<br> =0A<span class=3D"ArticleSource" style=3D=
+"font-family:arial, sans-serif; font-size:9pt; color: #666666; font-weigh=
+t:bold; text-decoration:none;">USA TODAY </span>=0A  =0A<br>=0A<span clas=
+s=3D"ArticleDescription" style=3D"font-family:arial, sans-serif; font-siz=
+e:11pt;">So, what's on your plate for 2015? Some surprising culinary tren=
+ds will take shape in the new year as America's foodies and young foodies=
+-in-training drive the evolution of the nation's appetite. USA TODAY cont=
+acted food and culinary gurus and reviewed some year-end projections by f=
+ood experts to highlight these top 10 food trends for 2015. </span>=0A<br=
+>=0A<table width=3D"100dth=3D"50t-size:8pt; color: #666666;">Share this article:&nbsp;&nbsp;</span>=0A<sp=
+an class=3D"LinkShare"><a href=3D"http://strongmail1.multiview.com:80/tra=
+ck?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databasei=
+d=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs=
+.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2044=
+&&&http://www.facebook.com/sharer.php?u=3Dhttp://multibriefs.com/ViewLink=
+.php?i=3D54b946f634292" title=3D"Share on Facebook"><img src=3D"http://mu=
+ltibriefs.com/images/facebook2.png" border=3D"0" alt=3D"Share on Facebook=
+"></a><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&e=
+as=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123=
+089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D300=
+70166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2045&&&http://twitter=
+.com/?status=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b946f634292" tit=
+le=3D"Share on Twitter"><img src=3D"http://multibriefs.com/images/twitter=
+2.png" border=3D"0" alt=3D"Twitter"></a><a href=3D"http://strongmail1.mul=
+tiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2046&&&http://www.linkedin.com/shareArticle?mini=3Dtrue&url=3D=
+http://multibriefs.com/ViewLink.php?i=3D54b946f634292" title=3D"Share on =
+Linkedin"><img src=3D"http://multibriefs.com/images/linkedin2.png" border=
+=3D"0" alt=3D"Share on Linkedin"></a><a href=3D"http://strongmail1.multiv=
+iew.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D212=
+3089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&email=
+id=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivaria=
+teId=3D&&&2047&&&http://multibriefs.com/ShareArticle.php?54b946f634292" t=
+itle=3D"Send this article to a friend"><img src=3D"http://multibriefs.com=
+/images/email.png" border=3D"0" alt=3D"E-mail article"></a></span> </td>=0A=
+<td align=3D"right">=0A<table width=3D"125" border=3D"0" style=3D"border-=
+top: 1px solid #cccccc; border-left: 1px solid #cccccc; border-right: 1px=
+ solid #cccccc; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE"><t=
+r><td align=3D"center"><span style=3D"font-family:arial, sans-serif; font=
+-size:9pt; font-weight:bold; text-decoration:none;"><a href=3D"http://str=
+ongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&=
+messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D=
+17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extr=
+a=3DMultivariateId=3D&&&2048&&&http://multibriefs.com/ViewLink.php?i=3D54=
+b946f634292" target=3D"_blank" class=3D"ArticleLink" style=3D"font-family=
+:arial, sans-serif; font-size:9pt; font-weight:bold; text-decoration:none=
+;">READ MORE</a></span></td></tr></table>=0A</td></tr></table>=0A=0A<img =
+src=3D"http://www.multibriefs.com/briefs/img/635line.png" border=3D"0">
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2049&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b946925df75" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">Expert column: Top retai=
+l trends in 2015</span>=0A</a> =0A<br> =0A<span class=3D"ArticleSource" s=
+tyle=3D"font-family:arial, sans-serif; font-size:9pt; color: #666666; fon=
+t-weight:bold; text-decoration:none;">Progressive Grocer </span>=0A  =0A<=
+br>=0A<span class=3D"ArticleDescription" style=3D"font-family:arial, sans=
+-serif; font-size:11pt;">As deep-pocketed online players, big box retaile=
+rs and convenience and drug stores ramp up their efforts to steal share o=
+f wallet from grocery stores, the most successful grocers will be those t=
+hat can anticipate impending changes and capitalize on the opportunities =
+they create. Here are five trends to watch over the coming year. </span>=0A=
+<br>=0A<table width=3D"100 width=3D"50font-size:8pt; color: #666666;">Share this article:&nbsp;&nbsp;</span>=0A=
+<span class=3D"LinkShare"><a href=3D"http://strongmail1.multiview.com:80/=
+track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databa=
+seid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid=
+@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2=
+050&&&http://www.facebook.com/sharer.php?u=3Dhttp://multibriefs.com/ViewL=
+ink.php?i=3D54b946925df75" title=3D"Share on Facebook"><img src=3D"http:/=
+/multibriefs.com/images/facebook2.png" border=3D"0" alt=3D"Share on Faceb=
+ook"></a><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclic=
+k&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS=
+123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2051&&&http://twit=
+ter.com/?status=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b946925df75" =
+title=3D"Share on Twitter"><img src=3D"http://multibriefs.com/images/twit=
+ter2.png" border=3D"0" alt=3D"Twitter"></a><a href=3D"http://strongmail1.=
+multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=
+=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160=
+&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMult=
+ivariateId=3D&&&2052&&&http://www.linkedin.com/shareArticle?mini=3Dtrue&u=
+rl=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b946925df75" title=3D"Shar=
+e on Linkedin"><img src=3D"http://multibriefs.com/images/linkedin2.png" b=
+order=3D"0" alt=3D"Share on Linkedin"></a><a href=3D"http://strongmail1.m=
+ultiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2053&&&http://multibriefs.com/ShareArticle.php?54b946925df75=
+" title=3D"Send this article to a friend"><img src=3D"http://multibriefs.=
+com/images/email.png" border=3D"0" alt=3D"E-mail article"></a></span> </t=
+d>=0A<td align=3D"right">=0A<table width=3D"125" border=3D"0" style=3D"bo=
+rder-top: 1px solid #cccccc; border-left: 1px solid #cccccc; border-right=
+: 1px solid #cccccc; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEE=
+E"><tr><td align=3D"center"><span style=3D"font-family:arial, sans-serif;=
+ font-size:9pt; font-weight:bold; text-decoration:none;"><a href=3D"http:=
+//strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D212=
+3089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&ser=
+ial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D=
+&extra=3DMultivariateId=3D&&&2054&&&http://multibriefs.com/ViewLink.php?i=
+=3D54b946925df75" target=3D"_blank" class=3D"ArticleLink" style=3D"font-f=
+amily:arial, sans-serif; font-size:9pt; font-weight:bold; text-decoration=
+:none;">READ MORE</a></span></td></tr></table>=0A</td></tr></table>=0A=0A=
+<img src=3D"http://www.multibriefs.com/briefs/img/635line.png" border=3D"=
+0">
+<span class=3D"CustomCode"><br><br><!--Banner-->=0A<center><a href=3D"htt=
+p://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2=
+123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&s=
+erial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=
+=3D&extra=3DMultivariateId=3D&&&2055&&&https://www.youtube.com/watch?v=3D=
+5VwEkzb9I5g&list=3DPLHqlCHf6aBMuWuK4-cVxYxhPuqL8fENGu"><img src=3D"http:/=
+/www.multibriefs.com/briefs/MV-GroceryEB/SquattyPotty_468x60v3.gif" alt=3D=
+"" border=3D"1" width=3D"468" height=3D"60"></a></center>=0A<!--End Banne=
+r--></span>
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2056&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b946b5a2af9" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">Frozen food segment to p=
+ick up steam</span>=0A</a> =0A<br> =0A<span class=3D"ArticleSource" style=
+=3D"font-family:arial, sans-serif; font-size:9pt; color: #666666; font-we=
+ight:bold; text-decoration:none;">Food Business News </span>=0A  =0A<br>=0A=
+<span class=3D"ArticleDescription" style=3D"font-family:arial, sans-serif=
+; font-size:11pt;">After several years of declining sales, the frozen foo=
+ds segment is expected to climb from &#36;22 billion in 2014 to &#36;23 b=
+illion in 2019, said Packaged Facts, a Rockville-based market research fi=
+rm. </span>=0A<br>=0A<table width=3D"100>=0A<tr>=0A<td width=3D"50, sans-serif; font-size:8pt; color: #666666;">Share this article:&nbsp;&n=
+bsp;</span>=0A<span class=3D"LinkShare"><a href=3D"http://strongmail1.mul=
+tiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2057&&&http://www.facebook.com/sharer.php?u=3Dhttp://multibr=
+iefs.com/ViewLink.php?i=3D54b946b5a2af9" title=3D"Share on Facebook"><img=
+ src=3D"http://multibriefs.com/images/facebook2.png" border=3D"0" alt=3D"=
+Share on Facebook"></a><a href=3D"http://strongmail1.multiview.com:80/tra=
+ck?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databasei=
+d=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs=
+.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2058=
+&&&http://twitter.com/?status=3Dhttp://multibriefs.com/ViewLink.php?i=3D5=
+4b946b5a2af9" title=3D"Share on Twitter"><img src=3D"http://multibriefs.c=
+om/images/twitter2.png" border=3D"0" alt=3D"Twitter"></a><a href=3D"http:=
+//strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D212=
+3089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&ser=
+ial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D=
+&extra=3DMultivariateId=3D&&&2059&&&http://www.linkedin.com/shareArticle?=
+mini=3Dtrue&url=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b946b5a2af9" =
+title=3D"Share on Linkedin"><img src=3D"http://multibriefs.com/images/lin=
+kedin2.png" border=3D"0" alt=3D"Share on Linkedin"></a><a href=3D"http://=
+strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D21230=
+89&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&seria=
+l=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&=
+extra=3DMultivariateId=3D&&&2060&&&http://multibriefs.com/ShareArticle.ph=
+p?54b946b5a2af9" title=3D"Send this article to a friend"><img src=3D"http=
+://multibriefs.com/images/email.png" border=3D"0" alt=3D"E-mail article">=
+</a></span> </td>=0A<td align=3D"right">=0A<table width=3D"125" border=3D=
+"0" style=3D"border-top: 1px solid #cccccc; border-left: 1px solid #ccccc=
+c; border-right: 1px solid #cccccc; border-bottom: 1px solid #cccccc;" bg=
+color=3D"#EEEEEE"><tr><td align=3D"center"><span style=3D"font-family:ari=
+al, sans-serif; font-size:9pt; font-weight:bold; text-decoration:none;"><=
+a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&=
+mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.212=
+3089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&t=
+argetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2061&&&http://multibriefs.co=
+m/ViewLink.php?i=3D54b946b5a2af9" target=3D"_blank" class=3D"ArticleLink"=
+ style=3D"font-family:arial, sans-serif; font-size:9pt; font-weight:bold;=
+ text-decoration:none;">READ MORE</a></span></td></tr></table>=0A</td></t=
+r></table>=0A=0A<img src=3D"http://www.multibriefs.com/briefs/img/635line=
+.png" border=3D"0">
+<br>=0A<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2062&&&http://=
+multibriefs.com/ViewLink.php?i=3D54b9479538394" target=3D"_blank" class=3D=
+"ArticleLink" style=3D"text-decoration:none;">=0A    <span class=3D"Artic=
+leTitle" style=3D"font-family:arial, sans-serif; font-size:13pt; font-wei=
+ght:bold; text-decoration:none; color: #000000;">UK supermarkets prepare =
+for new cooling landscape</span>=0A</a> =0A<br> =0A<span class=3D"Article=
+Source" style=3D"font-family:arial, sans-serif; font-size:9pt; color: #66=
+6666; font-weight:bold; text-decoration:none;">By Andrew Gaved</span>=0A =
+ =0A<br>=0A<span class=3D"ArticleDescription" style=3D"font-family:arial,=
+ sans-serif; font-size:11pt;"><img src=3D"http://www.multibriefs.com/brie=
+fs/img/exclusive_content.png" border=3D"0" align=3D"right" hspace=3D"5" v=
+space=3D"2"> Major supermarkets in the United Kingdom are calling upon th=
+e cooling industry to come up with solutions that will help them face a n=
+ew landscape characterized by tight margins, smaller store footprints and=
+ new refrigerant choices imposed by the European F-gas regulations. U.K. =
+supermarket refrigeration engineers are united in their belief that inten=
+se competition in the sector and changing customer behavior will have an =
+influence on the way they do business.</span>=0A<br>=0A<table width=3D"10=
+0tyle=3D"font-family:verdana, arial, sans-serif; font-size:8pt; color: #66=
+6666;">Share this article:&nbsp;&nbsp;</span>=0A<span class=3D"LinkShare"=
+><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D=
+1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2=
+123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166=
+&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2063&&&http://www.facebook=
+.com/sharer.php?u=3Dhttp://multibriefs.com/ViewLink.php?i=3D54b9479538394=
+" title=3D"Share on Facebook"><img src=3D"http://multibriefs.com/images/f=
+acebook2.png" border=3D"0" alt=3D"Share on Facebook"></a><a href=3D"http:=
+//strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D212=
+3089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&ser=
+ial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D=
+&extra=3DMultivariateId=3D&&&2064&&&http://twitter.com/?status=3Dhttp://m=
+ultibriefs.com/ViewLink.php?i=3D54b9479538394" title=3D"Share on Twitter"=
+><img src=3D"http://multibriefs.com/images/twitter2.png" border=3D"0" alt=
+=3D"Twitter"></a><a href=3D"http://strongmail1.multiview.com:80/track?typ=
+e=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMa=
+iling.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&u=
+serid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2065&&&htt=
+p://www.linkedin.com/shareArticle?mini=3Dtrue&url=3Dhttp://multibriefs.co=
+m/ViewLink.php?i=3D54b9479538394" title=3D"Share on Linkedin"><img src=3D=
+"http://multibriefs.com/images/linkedin2.png" border=3D"0" alt=3D"Share o=
+n Linkedin"></a><a href=3D"http://strongmail1.multiview.com:80/track?type=
+=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMai=
+ling.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&us=
+erid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2066&&&http=
+://multibriefs.com/ShareArticle.php?54b9479538394" title=3D"Send this art=
+icle to a friend"><img src=3D"http://multibriefs.com/images/email.png" bo=
+rder=3D"0" alt=3D"E-mail article"></a></span> </td>=0A<td align=3D"right"=
+>=0A<table width=3D"125" border=3D"0" style=3D"border-top: 1px solid #ccc=
+ccc; border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; bor=
+der-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE"><tr><td align=3D"cent=
+er"><span style=3D"font-family:arial, sans-serif; font-size:9pt; font-wei=
+ght:bold; text-decoration:none;"><a href=3D"http://strongmail1.multiview.=
+com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089=
+&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3D=
+shahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D=
+&&&2067&&&http://multibriefs.com/ViewLink.php?i=3D54b9479538394" target=3D=
+"_blank" class=3D"ArticleLink" style=3D"font-family:arial, sans-serif; fo=
+nt-size:9pt; font-weight:bold; text-decoration:none;">READ MORE</a></span=
+></td></tr></table>=0A</td></tr></table>=0A=0A<img src=3D"http://www.mult=
+ibriefs.com/briefs/img/635line.png" border=3D"0">
+<br><br>=0A<table width=3D"100lid #cccccc; border-left: 1px solid #cccccc; border-right: 1px solid #ccc=
+ccc; border-bottom: 1px solid #cccccc;" bgcolor=3D"#EEEEEE">=0A=0A<tr><td=
+>=0A<span style=3D"font-family:arial, sans-serif; font-size:10pt; color: =
+#666666; font-weight:bold; text-decoration:none;">TRENDING ARTICLES</span=
+>=0A</td></tr></table>=0A=0A<span style=3D"font-family:arial, sans-serif;=
+ font-size:10pt; color: #666666; font-weight:bold; text-decoration:none;"=
+>Missed last week's issue? See which articles your colleagues read most.<=
+/span>=0A  <br><br>=0A<table width=3D"635" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0A=0A<tr>=0A<td width=3D"3" bgcolor=3D"#E6AD00">&nbsp;<=
+/td>=0A<td width=3D"10" bgcolor=3D"#FFFFFF">&nbsp;</td>=0A<td bgcolor=3D"=
+#FFFFFF"><span class=3D"CustomCode" style=3D"font-family:arial, sans-seri=
+f; font-size:11pt;"><span style=3D"font-family:arial, sans-serif; font-si=
+ze:11pt;">=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2068&&&http://=
+www.wsj.com/articles/supermarkets-convenience-stores-now-woo-diners-too-1=
+419899444">Supermarkets, convenience stores now woo diners, too</a> (The =
+Wall Street Journal)<br>=0A<a href=3D"http://strongmail1.multiview.com:80=
+/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&datab=
+aseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahi=
+d@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&=
+2069&&&http://supermarketnews.com/retail-financial/what-s-ahead-industry-=
+experts-and-sn-editors-make-2015-predictions">What's ahead: Industry expe=
+rts, Supermarket News editors make 2015 predictions</a> (Supermarket News=
+)<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick=
+&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS1=
+23089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D3=
+0070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2070&&&http://bango=
+rdailynews.com/2015/01/01/news/nation/effort-to-kill-californias-ban-on-p=
+lastic-grocery-bags-moves-forward/">Effort to kill California's ban on pl=
+astic grocery bags moves forward</a> (Supermarket News)<br>=0A<a href=3D"=
+http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D=
+2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&=
+serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&f=
+l=3D&extra=3DMultivariateId=3D&&&2071&&&http://www.businessinsider.com/e-=
+commerce-disrupting-huge-grocery-market-2014-12">How e-commerce finally i=
+s disrupting the &#36;600 billion-a-year grocery industry</a> (Undercurre=
+nt News)<br>=0A<a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2072&&&http://=
+supermarketnews.com/retail-financial/united-walmart-profit-gift-card-exch=
+anges">United, Wal-Mart profit from gift card exchanges</a> (Fast Company=
+)<br>=0A=0A<br>=0A Don't be left behind. <a href=3D"http://strongmail1.mu=
+ltiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2073&&&http://www.multibriefs.com/briefs/MV-GroceryEB/" targ=
+et=3D"_blank">Click here</a> to see what else you missed.=0A    </span></=
+span></td>=0A</tr></table>=0A<img src=3D"http://www.multibriefs.com/brief=
+s/img/635line.png" border=3D"0">=0A=0A=0A
+</td></tr></table>=0A=0A=0A=0A=0A<!--FEATURED COMPANIES-->=0A=0A=0A<!--EN=
+D FEATURED COMPANIES-->=0A=0A=0A=0A=0A<td width=3D"10">&nbsp;</td></td></=
+tr>=0A=0A=0A=0A<tr>=0A<td colspan=3D"4" width=3D"800" id=3D"ContentSectio=
+n10"><span class=3D"CustomCode"><br><table width=3D"100FEF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody><tr>=0A<t=
+d width=3D"100gn=3D"center" bgcolor=3D"#EFEFEF" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">=0A=0A<tbody><tr><td colspan=3D"5" height=3D"20" width=3D"800">=
+</td></tr>=0A=0A<tr>=0A=0A<td width=3D"36" bgcolor=3D"#EFEFEF"></td>=0A=0A=
+<td valign=3D"top" width=3D"588" align=3D"left">=0A<span style=3D"font-fa=
+mily:verdana, arial, sans-serif; font-size:12pt; color: #000000; text-dec=
+oration:none;"><b>Supermarket Executive Briefing</b></span>=0A=0A=0A<tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td height=3D=
+"5" width=3D"588"></td></tr></tbody></table>=0A=0A=0A=0A<span style=3D"fo=
+nt-family:verdana, arial, sans-serif; font-size:9pt; text-decoration:none=
+; color: #000000;">For more information about this brief, or to contribut=
+e content for future issues, contact:<br><a href=3D"http://strongmail1.mu=
+ltiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2074&&&mailto:chorton@multibriefs.com" style=3D"font-family:=
+verdana, arial, sans-serif; font-size:9pt;">Colby Horton</a>, Vice Presid=
+ent of Publishing, 469.420.2601<br>=0A<br><a href=3D"http://strongmail1.m=
+ultiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2075&&&mailto:reberhardt@multibriefs.com" style=3D"font-fami=
+ly: verdana,arial,sans-serif; font-size: 9pt;">Rebecca Eberhardt</a>, Con=
+tent Editor, 469.420.2608<br>=0A<a href=3D"http://strongmail1.multiview.c=
+om:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&=
+databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&emailid=3D=
+shahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D=
+&&&2076&&&http://www.multibriefs.com/briefs/MV-GroceryEB/mediakit.pdf" st=
+yle=3D"font-family:verdana, arial, sans-serif; font-size:10pt; text-decor=
+ation:none;"><b>Download media kit</b></a></span>=0A=0A<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td height=3D"8" width=3D=
+"588"></td></tr></tbody></table>=0A=0A<br><span style=3D"font-family:verd=
+ana, arial, sans-serif; font-size:10pt; line-height:14px; text-decoration=
+:none; color: #000000;">=0A=0AThis edition of the Supermarket Executive B=
+riefing was sent to shahid@fs.net. To unsubscribe, <a href=3D"http://stro=
+ngmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&m=
+essageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D=
+17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extr=
+a=3DMultivariateId=3D&&&2077&&&http://www.multibriefs.com/unsubscribe.php=
+?MV-GroceryEB&shahid@fs.net">click here</a>. Did someone forward this edi=
+tion to you? <a href=3D"http://strongmail1.multiview.com:80/track?type=3D=
+click&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailin=
+g.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&useri=
+d=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2078&&&http://=
+multibriefs.com/optin.php?MV-GroceryEB">Subscribe here</a> -- it's free!=0A=
+=0A</span>=0A</td>=0A=0A<td width=3D"20"></td>=0A=0A<td valign=3D"top" wi=
+dth=3D"120" align=3D"left"><span style=3D"font-family:verdana, arial, san=
+s-serif; font-size:10pt; text-decoration:none; color: #000000; font-weigh=
+t:bold;"><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclic=
+k&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS=
+123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D=
+30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2079&&&http://www.=
+multibriefs.com/briefs/mv-groceryEB">Recent issues</a></span><br>=0A=0A<t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td heig=
+ht=3D"5" width=3D"120"></td></tr></tbody></table>=0A<span class=3D"Previo=
+us_1" style=3D"font-family:verdana, arial, sans-serif; font-size:10pt; li=
+ne-height:14px; text-decoration:none; font-weight:normal;"><a href=3D"htt=
+p://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2=
+123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123089.106438&s=
+erial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=
+=3D&extra=3DMultivariateId=3D&&&2080&&&http://multibriefs.com/briefs/MV-G=
+roceryEB/MV-GroceryEB011215.php">Jan. 12, 2015</a></span><br>=0A<span cla=
+ss=3D"Previous_2" style=3D"font-family:verdana, arial, sans-serif; font-s=
+ize:10pt; line-height:14px; text-decoration:none; font-weight:normal;"><a=
+ href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&eas=3D1&m=
+ailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS123089.2123=
+089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30070166&ta=
+rgetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2081&&&http://multibriefs.com=
+/briefs/MV-GroceryEB/MV-GroceryEB010515.php">Jan. 5, 2014</a></span><br>=0A=
+<span class=3D"Previous_3" style=3D"font-family:verdana, arial, sans-seri=
+f; font-size:10pt; line-height:14px; text-decoration:none; font-weight:no=
+rmal;"><a href=3D"http://strongmail1.multiview.com:80/track?type=3Dclick&=
+eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3DMailing.DS12=
+3089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net&userid=3D30=
+070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2082&&&http://multib=
+riefs.com/briefs/MV-GroceryEB/MV-GroceryEB122914.php">Dec. 29, 2014</a></=
+span><br>=0A<span class=3D"Previous_4" style=3D"font-family:verdana, aria=
+l, sans-serif; font-size:10pt; line-height:14px; text-decoration:none; fo=
+nt-weight:normal;"><a href=3D"http://strongmail1.multiview.com:80/track?t=
+ype=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D2123089&databaseid=3D=
+Mailing.DS123089.2123089.106438&serial=3D17315160&emailid=3Dshahid@fs.net=
+&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultivariateId=3D&&&2083&&&h=
+ttp://multibriefs.com/briefs/MV-GroceryEB/MV-GroceryEB122214.php">Dec. 22=
+, 2014</a></span>=0A</td>=0A=0A<td width=3D"36" bgcolor=3D"#EFEFEF"></td>=
+=0A=0A</tr>=0A=0A=0A<tr><td colspan=3D"5" height=3D"20" width=3D"800"></t=
+d></tr>=0A=0A</tbody></table>=0A=0A</td>=0A</tr>=0A</tbody></table>=0A=0A=
+<table width=3D"800" align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A=0A=0A<tr>=0A<td colspan=3D=
+"3" height=3D"21" width=3D"800"></td>=0A</tr>=0A</tbody></table></span>
+</td>=0A</tr>=0A=0A=0A</table>=0A<br><br><a href=3D"http://strongmail1.mu=
+ltiview.com:80/track?type=3Dclick&eas=3D1&mailingid=3D2123089&messageid=3D=
+2123089&databaseid=3DMailing.DS123089.2123089.106438&serial=3D17315160&em=
+ailid=3Dshahid@fs.net&userid=3D30070166&targetid=3D&fl=3D&extra=3DMultiva=
+riateId=3D&&&2084&&&http://www.multibriefs.com"><img style=3D"width: 177p=
+x; height: 25px;" src=3D"http://www.multibriefs.com/briefs/aasa/daily/pow=
+ered_by.png" border=3D"0"></a>   <br>   <span style=3D"font-size: 8pt; fo=
+nt-family: arial;"><font color=3D"#000000">7701 Las Colinas Ridge, Ste. 8=
+00, Irving, TX 75063</font></span>=0A</center></td></tr></table>=0A</cent=
+er></body></html>
+

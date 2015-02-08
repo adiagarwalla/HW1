@@ -1,0 +1,109 @@
+From @..  Mon Jan 12 06:48:35 2015
+Return-Path: <@..>
+X-Original-To: vmh@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 72626DF; Mon, 12 Jan 2015 06:48:35 +0000 (UTC)
+Received: from cerber.suekag.com (cerber.suekag.com [195.65.163.3])
+    by .. with SMTP id f7vc7fhcjbgkw52d6qk2xny8rs;
+    for vmh@fs.net;
+    Mon, 12 Jan 2015 06:48:35 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.65.163.3; envelope-from=<>; helo=cerber.suekag.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.65.163.3; client-port=32967;
+    syn-fingerprint=5840:53:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.82 138.187.159.54 138.187.129.63 138.187.129.23
+    138.187.132.239 217.193.42.142; network-path-time=1421045315
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by cerber.suekag.com (Postfix) with ESMTP id 185A7243806E
+	for <vmh@fs.net>; Mon, 12 Jan 2015 07:48:18 +0100 (CET)
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="----------=_1421045298-1224-0"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Subject: Considered UNSOLICITED BULK EMAIL, apparently from you
+In-Reply-To: <C361F31B129667FECE2DA1F9213E1002@fs.net>
+Message-ID: <SSIv+uknZA4BZQ@cerber.suekag.com>
+From: "Content-filter at cerber.suekag.com" <@..>
+To: <@..>
+Date: Mon, 12 Jan 2015 07:48:16 +0100 (CET)
+
+This is a multi-part message in MIME format...
+
+------------=_1421045298-1224-0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+A message from <vmh@fs.net>
+to: garulin@suekag.com
+
+was considered unsolicited bulk e-mail (UBE).
+
+Our internal reference code for your message is 01224-04/Iv+uknZA4BZQ
+
+The message carried your return address, so it was either a genuine mail
+from you, or a sender address was faked and your e-mail address abused
+by third party, in which case we apologize for undesired notification.
+
+We do try to minimize backscatter for more prominent cases of UBE and
+for infected mail, but for less obvious cases some balance between
+losing genuine mail and sending undesired backscatter is sought,
+and there can be some collateral damage on either side.
+
+First upstream SMTP client IP address: [121.224.25.152] unknown
+According to a 'Received:' trace, the message apparently originated at:
+  [121.224.25.152], fs.net unknown [121.224.25.152]
+
+Return-Path: <vmh@fs.net>
+From: =?utf-8?B?5Luk54uQ5Li56JCx?= <vmh@fs.net>
+Message-ID: <C361F31B129667FECE2DA1F9213E1002@fs.net>
+
+Delivery of the email was stopped!
+
+------------=_1421045298-1224-0
+Content-Type: message/delivery-status; name="dsn_status"
+Content-Disposition: inline; filename="dsn_status"
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; cerber.suekag.com
+Received-From-MTA: smtp; cerber.suekag.com ([127.0.0.1])
+Arrival-Date: Mon, 12 Jan 2015 07:48:16 +0100 (CET)
+
+Original-Recipient: rfc822;garulin@suekag.com
+Final-Recipient: rfc822;garulin@suekag.com
+Action: failed
+Status: 5.7.0
+Diagnostic-Code: smtp; 554 5.7.0 Reject, id=01224-04 - SPAM
+Last-Attempt-Date: Mon, 12 Jan 2015 07:48:16 +0100 (CET)
+Final-Log-ID: 01224-04/Iv+uknZA4BZQ
+
+------------=_1421045298-1224-0
+Content-Type: text/rfc822-headers; name="header"
+Content-Disposition: inline; filename="header"
+Content-Transfer-Encoding: 7bit
+Content-Description: Message header section
+
+Return-Path: <vmh@fs.net>
+Received: from fs.net (unknown [121.224.25.152])
+	by cerber.suekag.com (Postfix) with ESMTP id 499292438069
+	for <garulin@suekag.com>; Mon, 12 Jan 2015 07:48:10 +0100 (CET)
+Message-ID: <C361F31B129667FECE2DA1F9213E1002@fs.net>
+From: =?utf-8?B?5Luk54uQ5Li56JCx?= <vmh@fs.net>
+To: <garulin@suekag.com>
+Subject: 
+Date: Mon, 12 Jan 2015 14:48:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_046E_017323F9.1EBE0880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+------------=_1421045298-1224-0--
+

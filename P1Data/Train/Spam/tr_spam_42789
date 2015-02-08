@@ -1,0 +1,168 @@
+From @..  Tue Jan 13 02:52:57 2015
+Return-Path: <@..>
+X-Original-To: gym@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2E9F5DE; Tue, 13 Jan 2015 02:52:57 +0000 (UTC)
+Received: from ihins3.ihi.co.jp (ihins3.ihi.co.jp [202.248.84.136])
+    by .. with SMTP id r8k52c2b8rb3g7ut8r6i2jnhzi;
+    for gym@fs.net;
+    Tue, 13 Jan 2015 02:52:56 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=202.248.84.136; envelope-from=<>; helo=ihins3.ihi.co.jp
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=202.248.84.136; client-port=6100;
+    syn-fingerprint=5840:43:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 129.250.8.193 129.250.2.180 0.0.0.0 129.250.4.154
+    129.250.2.19 129.250.6.16 61.213.160.54; network-path-time=1421117576
+Received: from Y8SV0854.ihi.local (securemail [150.73.3.118])
+	by ihins3a.ihi.co.jp (Postfix) with SMTP id 621AD1B9532
+	for <gym@fs.net>; Tue, 13 Jan 2015 11:52:39 +0900 (JST)
+Received: from inettns1a.hq.ihi.co.jp (150.73.3.48)
+	by Y8SV0854.ihi.local (HIBUN MailGuard Server)
+	with SMTP id 021ffe44; Tue, 13 Jan 2015 11:52:39 +0900
+Received: from inettns1a.hq.ihi.co.jp (localhost [127.0.0.1])
+	by localhost.hq.ihi.co.jp (Postfix) with ESMTP id B5B0E18FE160
+	for <gym@fs.net>; Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+Received: by inettns1a.hq.ihi.co.jp (Postfix, from userid 1058)
+	id A5D0718FE08A; Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+Received: from inettns2a.hq.ihi.co.jp (unknown [192.168.5.141])
+	by inettns1a.hq.ihi.co.jp (Postfix) with ESMTP id 8536318FE177
+	for <gym@fs.net>; Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+Received: from ihimfw1b.ihi.co.jp (unknown [202.248.84.135])
+	by inettns2a.hq.ihi.co.jp (Postfix) with ESMTP id 7D0421F1E3C0
+	for <gym@fs.net>; Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+Received: by ihimfw1b.ihi.co.jp (Postfix)
+	id 4685BA23C80CD40D; Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+Date: Tue, 13 Jan 2015 11:52:38 +0900 (JST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp"
+Message-Id: <19740412024625.4685BA23C80CD40D@ihimfw1b.ihi.co.jp>
+Received-SPF: none
+
+This is a MIME-encapsulated message.
+
+--1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+
+This is an automated message from the Postfix
+at host ihimfw1b.ihi.co.jp.
+
+The message returned below could not be delivered to its intended
+destinations.
+
+For further assistance, please ask your helpdesk.
+
+If you do so, please include this problem report. You can delete
+your own text from the message returned below.
+
+Reason:
+
+--1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp
+
+<yukio_matsushita@ikk.co.jp>: host 150.73.3.212[150.73.3.212] said: 550 Denied
+    by policy (in reply to end of DATA command)
+
+--1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ihimfw1b.ihi.co.jp
+X-Postfix-Queue-ID: 1819A932C83D7AE6
+X-Postfix-Sender: rfc822; gym@fs.net
+Arrival-Date: Tue, 13 Jan 2015 11:52:36 +0900 (JST)
+
+Final-Recipient: rfc822; yukio_matsushita@ikk.co.jp
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 150.73.3.212[150.73.3.212] said: 550 Denied by
+    policy (in reply to end of DATA command)
+
+--1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: Quoted-Printable
+
+Received: from fs.net (unknown [183.95.66.220])
+	by ihimfw1b.ihi.co.jp (Postfix) with ESMTP id 1819A932C83D7AE6
+	for <yukio_matsushita@ikk.co.jp>; Tue, 13 Jan 2015 11:52:36 +0900 (JST)
+Message-ID: <5448BB504E75C80E562B72E4C807697C@fs.net>
+From: =?utf-8?B?6LSd6ZOQ?= <gym@fs.net>
+To: <yukio_matsushita@ikk.co.jp>
+Subject: =?utf-8?B?5Lqy77yM5aSa5LmF5rKh5YGa5LqG77yf?=
+Date: Tue, 13 Jan 2015 10:52:42 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ1MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFk+DQo8UD7jgIDjgIDnjrDk
+u6PkvIHkuJrnrqHnkIbvvIzmm7Tms6jph43igJzku6XkurrkuLrmnKzigJ3nmoTkurrmgKfljJbn
+rqHnkIbmqKHlvI/vvIzkvIHkuJrnrqHnkIbnmoTph43ngrnkuZ/ml6XotovkvZPnjrDlnKjlr7nk
+urrnmoTnrqHnkIbnrZbnlaU8QlI+5LiK44CC5L2c5Li6546w5Luj5LyB5Lia55qE5Lq65Yqb6LWE
+5rqQ566h55CG6ICF77yM5bqU5Lul5oiY55Wl6auY5bqm5p6E5bu66auY5pWI5a6e55So55qE5Lq6
+5Yqb6LWE5rqQ566h55CG57O757uf77yM5bu656uL56eR5a2m6ICD5qC45r+A5YqxPEJSPuWItuW6
+puWSjOWFiOi/m+eahOS8geS4muiWqumFrOS9k+ezu++8jOS7peacgOWkp+mZkOW6puWcsOa/gOWP
+keS6uuaJjea9nOiDve+8jOadpeWIm+W7uuS8mOengOWboumYn++8jOW5tuaOqOWKqOe7hOe7h+WP
+mOmdqeS4juWIm+aWsO+8jOacgOe7iDxCUj7lrp7njrDnu4Tnu4fnmoTmjIHnu63lj5HlsZXjgILm
+iJHku6zpkojlr7nkuK3lm73kvIHkuJrlnKjmjqjooYzopb/mlrnnrqHnkIbmqKHlvI/kuK3nmoTn
+p43np43lvIrnq6/lkoznlpHmg5HvvIzku6Xlj4rkuK3lm73kvIHkuJrnm67liY3mraPlpIQ8QlI+
+5LqO5pS56Z2p5LiO5Yib5paw5pe25pyf77yM54m55Li+5Yqe4oCc5LyB5Lia57up5pWI6ICD5qC4
+5LiO6Jaq6YWs566h55CG5a6e5oiY54m56K6t54+t4oCd44CC55Sx6JGX5ZCN5Lq65Yqb6LWE5rqQ
+5LiT5a626JSh5beN6K6y5o6I77yM5peo5ZyoPEJSPuW4ruWKqeS8geS4muWutuOAgeS6uuWKm+i1
+hOa6kOe7j+eQhuW8gOmYlOaAnei3r++8jOa/gOWPkeeBteaEn++8jOWfueWFu+W4pumihuS8geS4
+muaMgee7reWBpeW6t+WPkeWxleeahOWNk+i2iuS6uuWKm+i1hOa6kOeuoeeQhuS6uuaJje+8jOas
+ojxCUj7ov47lj4LliqDvvIE8L1A+DQo8UD7kvIHkuJrnu6nmlYjogIPmoLjkuI7olqrphazkvZPn
+s7vorr7orqEtLS0x5pyIMTUtMTfml6XkuIrmtbfjgIEx5pyIMjMtMjXml6XljJfkuqzjgIEx5pyI
+MzAtMuaciDHml6Xlub/lt548L1A+DQo8UD7lj4LCt+WKoMK35a+5wrfosaHvvJrkuovkuJrljZXk
+vY3okaPkuovplb/jgIHmgLvnu4/nkIbjgIHkurrlipvotYTmupDmgLvnm5HjgIHkurrlipvotYTm
+upDnu4/nkIbjgIHnu6nmlYjjgIHolqrphaznrYk8L1A+DQo8UD7lrabCt+S5oMK36LS5wrfnlKjv
+vJo1NDAw5YWDL+S6uu+8iOWQq+ivvueoi+iusuS5ieOAgeWNiOmkkOOAgeeojui0ueOAgeiMtueC
+ueetie+8iTwvUD4NCjxQPuaKpeWQjeWSqOivojsmbmJzcDsg5rex5Zyz77yaMDc1NS02MTI477yM
+ODAzNSZuYnNwOyDljJfkuqzvvJowMTAtNTEyOe+8jDk4MTQmbmJzcDsgDQrkuIrmtbfvvJowMjEt
+MzEwMO+8jDEwNzAmbmJzcDsg6ZmI5bCP5aeQPC9QPg0KPFA+5Z+5wrforq3Ct+aUtsK355uK77ya
+PEJSPjEu5LqG6Kej6Jaq6YWs5pS56Z2p6IOM5pmv77yM5pu05paw6KeC5b+177yM55CG5riF5pS5
+6Z2p5oCd6Lev77yM5piO56Gu5pS56Z2p55uu5qCH77yMPEJSPjIu6Kej5bKX5L2N5rWL6K+E55qE
+55u45YWz55+l6K+G77yM56eR5a2m6L+b6KGM5bKX5L2N5rWL6K+E77ybPEJSPjMu6K6k6K+G57up
+5pWI566h55CG55qE6YeN6KaB5oCn44CB5bm25q2j56Gu55CG6Kej57up5pWI566h55CG77yMPEJS
+PjQu5a2m5Lmg6ICD5qC455qE5pa55rOV77yM5YWo6Z2i5LqG6Kej57up5pWI566h55CG55qE6L+Q
+5L2c56iL5bqP5ZKM6K6+6K6h5pa55rOV77yMPEJSPjUu6YeN54K55a2m5LmgS1BJ44CB5bm25LuL
+57uN5bmz6KGh6K6h5YiG5Y2h77yMPEJSPjYu5LqG6Kej57up5pWI566h55CG5o6o6L+b5Lit55qE
+6Zeu6aKY44CB5bm26YG/5YWN6L+Q5L2c5Lit55qE6K+v5Yy644CCPC9QPg0KPFA+6K6ywrfluIjC
+t+S7i8K357uN77yaWyDolKHCt+W3jSANCl08QlI+44CA44CA5Zu95YaF55+l5ZCN55qE5Lq65Yqb
+6LWE5rqQ566h55CG5a6e5Yqh5LiT5a6277yM5bel5ZWG566h55CG56GV5aOr77yM5p2D5aiB5Lq6
+5Yqb6LWE5rqQ566h55CG5a6e5oiY5LiT5a6277yM54m55Yir5Zyo57up5pWI5LiO6Jaq6YWs5L2T
+PEJSPuezu+iuvuiuoeaWuemdouacieW+iOa3seeahOmAoOivo++8jOW9ouaIkOS6huiHquW3seeJ
+ueacieeahOWunuaImOaWueazle+8m+abvuS4uuWkp+Wei+S8geS4mumbhuWbouOAgeS4iuW4guWF
+rOWPuOOAgei/numUgeS4mumbhuWbouOAgemrmOenkTxCUj7mioDlhazlj7jnrYnlpJrkuKrooYzk
+uJrnmoTkvJflpJrkvIHkuJrov5vooYzov4flhajpnaLnmoTkurrlipvotYTmupDlkqjor6LmnI3l
+iqHjgILmmK/jgIrkuK3lm73nu4/okKXmiqXjgIvjgIHjgIrkurrlipvotYTmnKzjgIvnrYnlpJrl
+rrblqpI8QlI+5L2T5LiT5qCP55qE54m557qm5pKw56i/5Lq65ZKM5LiT5a626K+E6K665ZGYPEJS
+PuOAgOOAgOiUoeWFiOeUn+i/keWHoOW5tOWHuueJiOeahOS5puexjeacie+8muOAiuWllOi3keea
+hOiciOiao++8muWmguS9leS7peiAg+aguOS/g+i/m+aIkOmVv+OAi+OAgeOAiuWQueWPo+WTqOea
+hOm7hOeJm++8muS7peiWqumFrOeVmeS9j+S6ujxCUj7miY3jgIvjgIHjgIpLUEnvvIzigJzlhbPp
+lK7nu6nmlYjigJ3mjIflvJXmiJDlip/jgIvjgIHjgIpCU0PvvIzigJzlubPooaHorqHliIbigJ3k
+v53or4Hlj5HlsZXjgIvvvIzlj5fliLDkvIHkuJrnmoTpq5jluqbph43op4bvvIzlkoznu5nkuog8
+QlI+5p6B6auY55qE6K+E5LuL44CCPC9QPg0KPFA+6K++wrfnqIvCt+Wkp8K357qy77yaPEJSPue7
+qeaViOiAg+aguOivvueoi+Wkp+e6su+8mjxCUj7kuIDjgIHmjqjooYxLUEnkuI7nu6nmlYjnrqHn
+kIbkvZPns7vpnIDopoHop6PlhrPnmoTkuInlpKfpl67popg8QlI+MeOAgeS8geS4muW7uueri+e7
+qeaViOS9k+ezu+aJgOmdouS4tOeahOaWueazlemXrumimO+8mzxCUj4mbmJzcDsmbmJzcDsgDQrk
+u6XmhJ/op4nkuLrln7rnoYDliKTmlq3ov5jmmK/ku6Xkuovlrp7kuLrln7rnoYDliKTmlq3vvJ88
+QlI+Jm5ic3A7Jm5ic3A7IOefreacn+iAg+aguOi/mOaYr+mVv+acn+iAg+aguO+8nzxCUj4mbmJz
+
+--1819A932C83D7AE6.1421117558/ihimfw1b.ihi.co.jp--
+

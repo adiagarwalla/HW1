@@ -1,0 +1,607 @@
+From @..  Wed Jan 21 09:46:44 2015
+Return-Path: <@..>
+X-Original-To: martinbell@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 8DA8FDE; Wed, 21 Jan 2015 09:46:44 +0000 (UTC)
+Received: from ms-poc-002 (mx.momentum.cm-apps.co.uk [81.91.104.227])
+    by .. with SMTP id mjssvm3n9qk95nfjrg7nmjmi7n;
+    for martinbell@fs.net;
+    Wed, 21 Jan 2015 09:46:44 +0000 (UTC)
+    (envelope-from bounce-1896802-56187140@cruisedeals.email-domain.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.91.104.227;
+    envelope-from=<bounce-1896802-56187140@cruisedeals.email-domain.com>;
+    helo=ms-poc-002; mechanism=ip4:81.91.104.0/24
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.91.104.227; client-port=58426;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.206
+    64.125.21.22 213.152.234.66 81.91.96.14; network-path-time=1421833604
+DKIM-Signature: v=1; a=rsa-sha256; d=email.cruisedeals.co.uk; s=tui2013; c=relaxed/relaxed;
+	q=dns/txt; i=@email.cruisedeals.co.uk; t=1421834018;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=iWxBgxg3GrxAMLLq7oOuFEZuiR+ISB0K4E8OGtIzQTA=;
+	b=dXjlGP3HkizHKUqwj/mU01iHYRBciAfWt2Jtm1M+9OiCWV0ei+X/+fLCKdYSXigB
+	iGKdj5hv3AWDqmGonn3ZeMXgSudA5Ldv5lphmsu36BAX1YZeGONtfdTTw5X/OC93
+	6083gtfOC6ur5SU8+2Yw7x2C2T1mQEbtccu7Hz3kQYI=;
+Received: from [192.168.122.71] ([192.168.122.71:18409] helo=cruisedeals.email-domain.com)
+	by cm-apps.co.uk (envelope-from <bounce-1896802-56187140@cruisedeals.email-domain.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id 10/C4-30907-2277FB45; Wed, 21 Jan 2015 09:53:38 +0000
+From: "cruisedeals.co.uk" <@..>
+To: @..
+Subject: =?iso-8859-1?Q?Get_packing,_don't_miss_out_on_our_great_deals_from_=A3679?=
+Date: Wed, 21 Jan 2015 09:32:21 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-LYRIS-Audit-Types: DELIVERABILITY
+X-Association-Token: f6112234515fb5ab3a75dc416dd8377a-1896802
+X-LYRIS-Piper-Seed-IDs: 42MWCwB!jMb5 
+X-CompanyName: Lyris:CreatorMail Ltd
+X-Actual-Recipient-Address: martinbell@fs.net
+X-Send-Reports-To: toby@creatormail.co.uk
+List-Unsubscribe: <mailto:leave-1896802-56187140.c83e95c6ddb7efb2fd8502f5b69f195a@cruisedeals.email-domain.com>
+Message-ID: <LYRIS-56187140-1896802-2015.01.21-09.32.28--martinbell#fs.net@cruisedeals.email-domain.com>
+CM-Message-ID: <LYRIS-56187140-1896802-2015.01.21-09.32.48--martinbell#fs.net@cruisedeals.email-domain.com> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CruiseDeals</title>
+<style type="text/css">
+/* General styles and reset */
+body {
+	width: 100}
+.ReadMsgBody {
+	width: 100}
+.ExternalClass {
+	width: 100} /* Force Hotmail to display emails at full width and center content */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100}
+body {
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+} /* Prevent Webkit and Windows Mobile platforms from changing default font sizes plus webkit font weight correction. */
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 1000px;
+}
+img {
+	line-height: 100	outline: none;
+	text-decoration: none;
+	display: block;
+}
+table, table td {
+	border-collapse: collapse !important;
+}
+.style1 {
+	font-size: 18px
+}
+</style>
+</head>
+<body style="background:#f1f1f1; min-height:1000px; color:#333333; font-size:12px; -webkit-font-smoothing: antialiased;" bgcolor="#f1f1f1" text="#333333">
+<table width="100  <tr>
+    <td style="padding:10px 0;"><table width="620" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+        <tr>
+          <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250772/1/?a8aed3dd=NTYxODcxNDA        </tr>
+        <tr>
+          <td style="padding-bottom:10px"><table width="620" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250773/2/?a8aed3dd=NTYxODcxNDA                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250774/3/?a8aed3dd=NTYxODcxNDA                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250775/4/?a8aed3dd=NTYxODcxNDA                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250776/5/?a8aed3dd=NTYxODcxNDA              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Start Main banner -->
+        <tr>
+          <td align="center" bgcolor="#ffffff"><table width="590" border="0" cellspacing="0" cellpadding="0">
+              
+                <tr>
+                  <td><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r1i1.jpg" alt="" width="590" height="314" style="display:block" border="0" /></td>
+                </tr>
+                <tr>
+                  <td><table width="100                      
+                        <tr>
+                          <td width="30" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r2i1.jpg" alt="" width="30" height="100" style="display:block" border="0" /></td>
+                          <td bgcolor="#dfdfdf" width="260" valign="top"><table width="100                              
+                                <tr>
+                                  <td width="10" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="10" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td width="240" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:14px; line-height:15px; color:#000000; padding-top:10px;"><span style="font-size:14px; font-weight:bold; line-height:18px;"><span class="style1"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423280/6/?a8aed3dd=NTYxODcxNDA </a></span></span></td>
+                                  <td width="10" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="10" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td align="right"><table width="100                                      <tr>
+                                        <td width="67                                          7 nights</a></td>
+                                        <td width="33                                      </tr>
+                                    </table></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                              
+                            </table></td>
+                          <td width="10" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r2i2.jpg" alt="" width="10" height="100" style="display:block" border="0" /></td>
+                          <td bgcolor="#dfdfdf" width="260" valign="top"><table width="100                              
+                                <tr>
+                                  <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; line-height:15px; color:#000000; padding-top:7px;" align="left"><span style="font-size:14px; font-weight:bold; line-height:18px;"><span class="style1"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423281/10/?a8aed3dd=NTYxODcxNDA                                  <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                 <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td align="right"><table width="100                                      <tr>
+                                        <td width="67                                    <span style="font-size:14px; line-height:15px;"><strong>from &pound;1809</strong></span></a><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423281/12/?a8aed3dd=NTYxODcxNDA                                    14 nights</a></td>
+                                        <td width="33                                      </tr>
+                                    </table></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                              
+                            </table></td>
+                          <td width="30"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r2i3.jpg" alt="" width="30" height="100" style="display:block" border="0" /></td>
+                        </tr>
+                      
+                    </table></td>
+                </tr>
+              <tr>
+                <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r3i1.jpg" alt="" width="590" height="10" style="display:block" border="0" /></td>
+              </tr>
+              <tr>
+                <td><table width="100                    
+                      <tr>
+                        <td width="30" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r4i1.jpg" alt="" width="30" height="100" style="display:block" border="0" /></td>
+                        <td bgcolor="#dfdfdf" width="260" valign="top"><table width="100                            
+                              <tr>
+                                <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                <td style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; line-height:15px; color:#000000; padding-top:7px;" align="left"><span style="font-size:14px; font-weight:bold; line-height:18px;"><span class="style1"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423282/14/?a8aed3dd=NTYxODcxNDA                                <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                              </tr>
+                               <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td align="right"><table width="100                                      <tr>
+                                        <td width="67                                        <td width="33                                    </tr>
+                                    </table></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                            
+                          </table></td>
+                        <td width="10" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r4i2.jpg" alt="" width="10" height="100" style="display:block" border="0" /></td>
+                        <td bgcolor="#dfdfdf" width="260" valign="top"><table width="100                            
+                              <tr>
+                                <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                <td style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; line-height:15px; color:#000000; padding-top:7px;" align="left"><span style="font-size:14px; font-weight:bold; line-height:18px;"><span class="style1"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423283/18/?a8aed3dd=NTYxODcxNDA                                <td width="7" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                              </tr>
+                               <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                  <td align="right"><table width="100                                      <tr>
+                                        <td width="67                                        <td width="33                                    </tr>
+                                    </table></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="1" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                  <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="5" alt="" border="0" style="display:block" /></td>
+                                </tr>
+                            
+                          </table></td>
+                        <td width="30" style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/r4i3.jpg" alt="" width="30" height="100" style="display:block" border="0" /></td>
+                      </tr>
+                    
+                  </table></td>
+              </tr>
+              <tr>
+                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129460560/22/?a8aed3dd=NTYxODcxNDA              </tr>
+                
+              
+            </table></td>
+        </tr>
+        <!-- End main banner --> 
+        
+        <!-- Start sub banner -->
+        <tr>
+          <td><table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tr>
+          <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="20" alt="" border="0" style="display:block" /></td>
+          </tr>
+              <tr>
+                <td><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129086285/23/?a8aed3dd=NTYxODcxNDA              </tr>
+              <tr>
+          <td style="font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD140207/spacer.gif" width="7" height="20" alt="" border="0" style="display:block" /></td>
+          </tr>
+            </table></td>
+        </tr>
+        <!-- End sub banner --> 
+        
+        <!-- Start 2 of 1 col section -->
+        <tr>
+          <td style="padding-bottom:0px" align="center"><table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td width="295" align="left" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#dfdfdf">
+                    <tr>
+                      <td height="46"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#641e8e">
+                          <tr>
+                            <td style="padding:10px; font-family:sans-serif, Helvetica, Arial; font-size:18px; color:#ffffff;"><strong><a style="text-decoration:none; color:#ffffff;" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423284/24/?a8aed3dd=NTYxODcxNDA                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="100" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#333333; padding:0 15px;"><strong><br />
+                        Western Europe from &pound;649*</strong>.<br />
+                        Book by 31st January 2015 and enjoy double onboard spending money on selected P&amp;O Cruises holidays*.<br>
+                        <br></td>
+                    </tr>
+                    <tr>
+                      <td height="218"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423284/25/?a8aed3dd=NTYxODcxNDA"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/teaser1.jpg" width="290" height="218" alt="P and O Cruises" border="0" style="display:block" /></a></td>
+                    </tr>
+                  </table></td>
+                <td width="295" align="right" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#dfdfdf">
+                    <tr>
+                      <td height="46"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#641e8e">
+                          <tr>
+                            <td style="padding:10px; font-family:sans-serif, Helvetica, Arial; font-size:18px; color:#ffffff;"><strong><a style="text-decoration:none; color:#ffffff;" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423285/26/?a8aed3dd=NTYxODcxNDA                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="100" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#333333; padding:0 15px;"><br>
+                        <strong>Canaries and Azores from &pound;1299</strong>* <br>
+                        123GO! Upgrade and you can enjoy up to three benefits, including free drinks, gratuities and onboard spending money*.</td>
+                    </tr>
+                    <tr>
+                      <td height="218"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423285/27/?a8aed3dd=NTYxODcxNDA"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/teaser2.jpg" width="290" height="218" alt="Celebrity Cruises" border="0" style="display:block" /></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- End 2 of 1 col section --> 
+        
+        <!-- Start 2 of 2 col section -->
+        <tr>
+          <td style="padding-bottom:0px" align="center"><table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td width="295" align="left" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#dfdfdf">
+                    <tr>
+                      <td height="46"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#641e8e">
+                          <tr>
+                            <td style="padding:10px; font-family:sans-serif, Helvetica, Arial; font-size:18px; color:#ffffff;"><strong><a style="text-decoration:none; color:#ffffff;" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/127861905/28/?a8aed3dd=NTYxODcxNDA                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="100" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#333333; padding:0 15px;"><br />
+                        <strong>Aegean &amp; The Holy Land from &pound;679*</strong><br />
+                        Explore the beauty of the Eastern Mediterranean where you can discover Turkey, Greece, Cyprus and many more destinations*. </td>
+                    </tr>
+                    <tr>
+                      <td height="218"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/127861905/29/?a8aed3dd=NTYxODcxNDA"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/teaser3.jpg" width="290" height="218" alt="Thomson Cruises" border="0" style="display:block" /></a></td>
+                    </tr>
+                  </table></td>
+                <td width="295" align="right" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#dfdfdf">
+                    <tr>
+                      <td height="46"><table width="290" border="0" cellspacing="0" cellpadding="0" bgcolor="#641e8e">
+                          <tr>
+                            <td style="padding:10px; font-family:sans-serif, Helvetica, Arial; font-size:18px; color:#ffffff;"><strong><a style="color:#ffffff; text-decoration:none" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/122967654/30/?a8aed3dd=NTYxODcxNDA                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="100" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#333333; padding:0 15px;"><br>
+                        <strong>Western Europe from &pound;949*</strong><br />
+                        Join in Cunard&rsquo;s 175th anniversary celebrations. Look forward to gala dinners, afternoon tea and themed evening balls.<br /></td>
+                    </tr>
+                    <tr>
+                      <td height="218"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/128663739/31/?a8aed3dd=NTYxODcxNDA"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD150120/teaser4.jpg" width="290" height="218" alt="Cunard" border="0" style="display:block" /></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- End 2 of 2 col section -->
+        <tr>
+          <td height="30" valign="top" align="center"><table width="590" height="26" cellspacing="0" tdstyle="padding-top:20px" border="0" cellpadding="" align="center">
+              <tr>
+                <td width="120" style="font-family:Arial, Helvetica, sans-serif; font-size:20px; padding-top:10px; line-height:20px; font-weight:bold; color:#9d0087;" valign="top" height="26" align="left">&nbsp;
+                  Some of our best offers</td>
+                <td width="130" valign="top">&nbsp;</td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td style="padding:10px 0px 10px 0px"> <!--CMOK: Offer table start-->
+<table width="620" border="0" cellspacing="0" cellpadding="0" style="font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:11px; line-height:13px; color:#333333">
+  <tr>
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Itinerary:</td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Date:</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Cruise line:</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Nts:</td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Departing from:</td>
+    <td colspan="2" width="79" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#582684; padding: 0px 0px 0px 5px;">Price from:</td>
+  </tr>
+  <tr valign="middle" bgcolor="#f3f2f0">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423286/0/">Eastern Caribbean</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">02 Mar 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Carnival</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">5nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Miami</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423286/0/">&pound;289</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423286/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423287/0/">Canary Islands Adventure</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">24 Apr 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Royal Caribbean</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">10nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Southampton</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423287/0/">&pound;799</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423287/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle" bgcolor="#f3f2f0">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423288/0/">Med Adventure</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">12 May 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Island Cruises</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">7nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Stansted</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423288/0/">&pound;669</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423288/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423289/0/">Ancient Wonders</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">18 May 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Thomson Cruises</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">7nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Bournemouth</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423289/0/">&pound;759</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423289/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle" bgcolor="#f3f2f0">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423290/0/">Baltic Heritage</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">14 Jun 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Princess Cruises</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">12nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Southampton</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423290/0/">&pound;1099</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423290/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423291/0/">Italy and Croatia</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">24 Jun 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">P&amp;O Cruises</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">7nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">London</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423291/0/">&pound;699</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423291/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle" bgcolor="#f3f2f0">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423292/0/">Scandinavia and Russia</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">25 Jul 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Celebrity Cruises</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">14nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Southampton</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423292/0/">&pound;1249</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423292/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423293/0/">Iberian Peninsula</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">20 Sep 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Norwegian Cruise Line</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">6nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Gatwick</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423293/0/">&pound;640</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423293/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle" bgcolor="#f3f2f0">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423294/0/">Iberian Cathedrals and Museums</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">19 Oct 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Fred Olsen</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">6nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Southampton</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423294/0/">&pound;539</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423294/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="middle">
+    <td width="135" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold; color:#a3238e; padding: 5px 0px 5px 5px;">
+      <a style="color:#a3238e; text-decoration:none" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423295/0/">Atlantic Islands</a>
+    </td>
+    <td width="76" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">12 Dec 2015</td>
+    <td width="116" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; font-weight:bold; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Cunard</td>
+    <td width="44" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">10nts              </td>
+    <td width="170" align="left" valign="middle" style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:11px; line-height:13px; color:#9d9fa1; padding: 5px 0px 5px 5px;">Southampton</td>
+    <td width="56" align="center" style="padding: 5px 0px 5px 5px;">
+      <a style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#a3238e; text-decoration:underline" TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423295/0/">&pound;699</a>
+    </td>
+    <td width="23" align="right" style="padding: 5px 0px 5px 5px;">
+      <a TARGET="_blank" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/129423295/0/">
+        <img style="display:block" src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/W090915/Deals_Arrow.gif" width="13" height="15" border="0" valign="middle" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!--CMOK: Offer table end--></td>
+        </tr>
+        <tr>
+          <td height="56" align="right"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/102182875/32/?a8aed3dd=NTYxODcxNDA        </tr>
+        <tr>
+          <td align="center" valign="top" style="padding-top:5px"><table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td height="146" align="center" bgcolor="#d6d7d9"><table width="590" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="195" align="center"><table width="175" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="70" valign="top"><img src="http://cslb.creatormail.co.uk/sites/tui/CruiseDeals/CD_New/logo_footer.gif" width="175" height="55" alt="CruiseDeals" border="0" style="display:block" /></td>
+                          </tr>
+                          <tr>
+                            <td align="right"><table width="160" height="50" border="0" cellspacing="0" cellpadding="0" bgcolor="#f4f4f4">
+                                <tr>
+                                  <td width="79" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#65208b; padding:0 5px;"> For more offers and news follow us on: </td>
+                                  <td width="40" align="left"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/35613794/33/?a8aed3dd=NTYxODcxNDA                                  <td width="41" align="left"><a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/35613795/34/?a8aed3dd=NTYxODcxNDA                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td width="395" align="left"><table width="395" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="36" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#65208b;"> For more great deals visit <a style="color:#65208b; font-weight:bold; text-decoration:underline;" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/49250801/35/?a8aed3dd=NTYxODcxNDA                          </tr>
+                          <tr>
+                            <td height="36" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#65208b; border-top:1px solid #65208b; border-bottom:1px solid #65208b;"> Call us 7 days a week on <span style="font-weight:bold;">0808 163 9622</span></td>
+                          </tr>
+                          <tr>
+                            <td height="36" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#65208b;"> Or pop into your local <a style="color:#65208b; font-weight:bold; text-decoration:underline;" href="http://email2.cruisedeals.co.uk/t/1896802/56187140/11444/36/?a8aed3dd=NTYxODcxNDA                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="left" style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:9px; color:#555555; padding:15px 20px"><p><strong>Terms and Conditions</strong><br />
+                    <br />
+                    All offers correct as of 06:00 20th January 2015 and apply to new bookings only. Prices are per person based on 2 adults sharing the lowest grade inside stateroom unless otherwise stated. Offers are subject to very limited availability and can be changed/withdrawn at any time without notice. Additional supplement/charges may apply. Itineraries show ports of call only and are subject to change. Flights, where applicable are based on London airports unless otherwise stated and may be indirect. 
+                    
+                    Regional departures may be available at a supplement. If relevant, onboard spend, unless otherwise stated, is applicable to the first 2 adults sharing a stateroom and is credited to the onboard account. It can only be spent onboard the ship. All cruises are bound by the terms and conditions of the above cruise line(s) which are available on request. A fee of 2.0                    <br />
+                    <strong>Princess Cruises</strong><br />
+                    <strong>Scandinavia from &pound;699: </strong>price is per person based on 2 adults sharing an inside cabin for 7 nights onboard Caribbean Princess departing 23rd May 2015 from Southampton. <br />
+                    <strong>Mediterranean Adventurer from &pound;1809: </strong>price is per person based on 2 adults sharing an inside cabin for 14 nights onboard Caribbean Princess departing 9th May 2015 from Southampton.<br />
+                    <strong>Norway from &pound;699: </strong>price is per person based on 2 adults sharing an inside cabin for 7 nights onboard Caribbean Princess departing 11th July 2015 from Southampton.<br />
+                    <strong>British Isles from &pound;1559:</strong> price is per person based on 2 adults sharing an inside cabin for 12 nights onboard Royal Princess departing 20th July 2015 from Southampton.<br />
+                    <strong>For $50 onboard spending money plus low deposits of &pound;50</strong> terms and conditions please <a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/122627852/37/?a8aed3dd=NTYxODcxNDA                    <br />
+                    <strong>Royal Caribbean &reg;</strong><br />
+                    <strong> Norwegian  Fjords from &pound;899</strong>: price is per person based on 2 adults sharing an  inside cabin for 8 nights onboard Explorer of the Seas departing 26th  May 2015 from Southampton.<br />
+                    <strong>For &pound;50 deposits per person, plus free All Inclusive including free tips and drinks </strong> terms and conditions please <a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/122627852/38/?a8aed3dd=NTYxODcxNDA                    <br />
+                    <strong>P&amp;O Cruises </strong><br />
+                    <strong>Western Europe from &pound;649: </strong>price is per person based on 2 adults sharing an inside cabin for 7 nights onboard Ventura departing 25th April 2015 from Southampton.<br />
+                    <strong>For double onboard spending money</strong> terms and conditions please <a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/122627852/39/?a8aed3dd=NTYxODcxNDA                    <br />
+                    <strong>Celebrity  Cruises &reg; </strong><br />
+                    <strong>Canaries and Azores from &pound;1299: </strong>price is per person based on 2 adults sharing an inside cabin for 13 nights onboard Celebrity Eclipse departing 27th September from Southampton. <br />
+                    <strong>For All Inclusive upgrades </strong>terms and conditions please <a href="http://email2.cruisedeals.co.uk/t/1896802/56187140/122627852/40/?a8aed3dd=NTYxODcxNDA                    <br />
+                    <strong>Thomson Cruises</strong><br />
+                    <strong>Aegean & The Holy Land from &pound;679: </strong>price is per person based on 2 adults sharing an  inside cabin for 7 nights onboard Thomson Spirit departing 11th May  2015 from Bournemouth. <br />
+                    <br />
+                    <strong>Cunard</strong><br />
+                    <strong>Western Europe from &pound;949</strong> - price is per person  based on 2 adults sharing an inside cabin for 7 nights onboard Queen Victoria  departing 3rd May 2015 from Southampton.<br />
+                    <br />
+                    <a href="http://access2.creatormail.co.uk/tuiLyris11/TUI.ClientUI/CruiseDeals/CruiseDealsUnsubscribe.aspx?&p=martinbell@fs.net&v=6e5630120d5ecfd60bf0d8db8b1c4e51&o=1896802&l=cruisedeals_marketing&b=cruisedeals">If you no longer wish to receive these emails please click here</a> <br />
+                    <br />
+                    In order to tailor our communications to suit you, we look at your previous interactions with our brand including your activities on our websites, to personalise your emails. If you would prefer to receive un-personalised communication from us instead this is fine, but please <a href="http://access2.creatormail.co.uk/tuiLyris11/TUI.ClientUI/Thomson/UpdateDetails/webopt.aspx?&p=martinbell@fs.net&v=6e5630120d5ecfd60bf0d8db8b1c4e51&o=1896802&l=cruisedeals_marketing&b=cruisedeals">click here</a> to let us know. <br />
+                    <br />
+                    Many of the flights and flight-inclusive holidays are financially protected by the ATOL scheme. But ATOL protection does not apply to all holiday and travel services listed.  Please ask us to confirm what protection may apply to your booking. If you do not receive an ATOL Certificate then the booking will not be ATOL protected. If you do receive an ATOL Certificate but all the parts of your trip are not listed on it, those parts will not be ATOL protected. Please see  booking conditions for information, or for more information about financial protection and the ATOL Certificate go to: www.atol.org.uk/ATOLCertificate. <br />
+                    <br />
+                    TUI UK Ltd trading as Thomson Cruises - ATOL 2524 <br />
+                    Oceania Cruises is a trading name of Oceana Cruises Ltd Inc ATOL number - 10527 <br />
+                    Thomson Cruises is a trading name of TUI UK Ltd. ATOL number - 2524 <br />
+                    Island Cruises is a trading name of Sunshine Cruises Limited. ATOL  number - 5726 <br />
+                    Norwegian Cruise Line is a trading name of NCL (Bahamas) Ltd ATOL number -2752 <br />
+                    Azamara Cruises is a trading name of Royal Caribbean Cruises Ltd. ATOL number - 3088 <br />
+                    Royal Caribbean is a trading name of Royal Caribbean Cruises Ltd. ATOL number - 3088 <br />
+                    River Cruise Line Ltd ATOL number - 9357<br />
+                    MSC Cruises Ltd ATOL number - 4316 <br />
+                    SeaVacations UK Ltd trading as Holland America Line and Carnival Cruise Line Ltd. ATOL number - 5223 <br />
+                    Fred.Olsen Travel Ltd ATOL number - 944<br />
+                    Oceania Cruises Inc Ltd. ATOL number - 10527 <br />
+                    Silversea Cruises (UK) Ltd ATOL number - 4681 <br />
+                    South Quay Travel and Leisure Ltd trading as Cruise &amp; Maritime Ltd ATOL number - 4619 <br />
+                    Seven Seas Cruises S. DE R.L trading as Regent Seven Seas Ltd ATOL number - 10297 <br />
+                    Hurtigruten Ltd ATOL number - 3584 <br />
+                    Costa Crociere S.p.A trading as Costa Cruises Ltd. ATOL number - 2575<br />
+                    <br />
+                    Cruise Deals  is a trading name of TUI UK Ltd, a member of the TUI Travel AG Group of Companies, registered in England and Wales under number 2830117 and whose registered office is at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex, RH10 9QL<br />
+                    <br />
+                </p></td>
+              </tr>
+              <tr>
+                <td style="font-family:Arial, Verdana, Geneva, sans-serif; font-size:10px; line-height:13px; color:#9d9fa1; padding-top:15px"></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<IMG ALT="" SRC="http://email2.cruisedeals.co.uk/db/1896802/56187140/1.gif" WIDTH=1 HEIGHT=1><img src='http://access2.creatormail.co.uk/TUI_DeviceDetector/DeviceDetector.ashx?&l=cruisedeals_marketing&m=56187140&o=1896802&ewid=&c=2' width='1' height='1' /></body>
+</html>
+

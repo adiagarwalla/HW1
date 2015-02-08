@@ -1,0 +1,96 @@
+From @..  Mon Jan 12 17:36:55 2015
+Return-Path: <@..>
+X-Original-To: upwfc@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C00BADF; Mon, 12 Jan 2015 17:36:55 +0000 (UTC)
+Received: from mail.belink.com (mail.belink.com [106.37.230.5])
+    by .. with SMTP id 637qmntnkkz2b6ke348mf2wr66;
+    for upwfc@fs.net;
+    Mon, 12 Jan 2015 17:36:55 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=106.37.230.5; envelope-from=<>; helo=mail.belink.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=106.37.230.5; client-port=47246;
+    syn-fingerprint=5840:47:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=17; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.168 64.57.20.222
+    64.57.20.90 202.97.49.198 202.97.52.85 202.97.58.113 202.97.53.161
+    219.141.158.114 219.141.162.194 106.37.230.5 106.37.230.5 106.37.230.5;
+    network-path-time=1421084215
+Received: by mail.belink.com (Postfix)
+	id AFAB44001A; Tue, 13 Jan 2015 01:56:30 +0800 (CST)
+Date: Tue, 13 Jan 2015 01:56:30 +0800 (CST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="AD74440016.1421085390/mail.belink.com"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20150112175630.AFAB44001A@mail.belink.com>
+
+This is a MIME-encapsulated message.
+
+--AD74440016.1421085390/mail.belink.com
+Content-Description: Notification
+Content-Type: text/plain; charset=gb2312
+
+Server:  mail.belink.com
+Message:  Your email could not be delivered to one or more recipients!
+Reason:  
+
+<zhangxy1@belink.com>: user unknown. Command output: Invalid user specified.
+
+--AD74440016.1421085390/mail.belink.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.belink.com
+X-Postfix-Queue-ID: AD74440016
+X-Postfix-Sender: rfc822; upwfc@fs.net
+Arrival-Date: Tue, 13 Jan 2015 01:56:30 +0800 (CST)
+
+Final-Recipient: rfc822; zhangxy1@belink.com
+Original-Recipient: rfc822;zhangxy1@belink.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: x-unix; Invalid user specified.
+
+--AD74440016.1421085390/mail.belink.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 7bit
+
+Received: from localhost (mail.belink.com [127.0.0.1])
+	by mail.belink.com (Postfix) with ESMTP id AD74440016
+	for <zhangxy1@belink.com>; Tue, 13 Jan 2015 01:56:30 +0800 (CST)
+X-Spam-Flag: NO
+X-Spam-Score: 6.385
+X-Spam-Level: ******
+X-Spam-Status: No, score=6.385 tagged_above=6 required=10
+	tests=[FH_DATE_PAST_20XX=3.384, HTML_FONT_SIZE_LARGE=0.001,
+	HTML_MESSAGE=0.001, RDNS_NONE=0.1, TVD_SPACE_RATIO=2.899]
+Received: from mail.belink.com ([127.0.0.1])
+	by localhost (mail.belink.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NcVCEHMYgdrd for <zhangxy1@belink.com>;
+	Tue, 13 Jan 2015 01:56:27 +0800 (CST)
+Received: by mail.belink.com (Postfix, from userid 2529)
+	id 0319F4000D; Tue, 13 Jan 2015 01:56:27 +0800 (CST)
+Received: from fs.net (unknown [116.25.8.60])
+	by mail.belink.com (Postfix) with ESMTP id 7E2A74000D
+	for <zhangxy1@belink.com>; Tue, 13 Jan 2015 01:56:26 +0800 (CST)
+Message-ID: <20150113013649706350@fs.net>
+From: "ztxgzew" <upwfc@fs.net>
+To: <zhangxy1@belink.com>
+Subject: =?utf-8?B?5Lq65Yqb6LWE5rqQLuWItuW6puiuvuiuoS7kuI7po47pmanop4Tpgb8=?=
+Date: Tue, 13 Jan 2015 01:36:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0D97_01938D1A.1B1C8210"
+X-mailer: Jazczebvhd 1
+
+--AD74440016.1421085390/mail.belink.com--
+

@@ -1,0 +1,117 @@
+From @..  Sat Jan  3 19:52:35 2015
+Return-Path: <@..>
+X-Original-To: TakeMeOff@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B8172DF; Sat,  3 Jan 2015 19:52:35 +0000 (UTC)
+Received: from nm35.bullet.mail.bf1.yahoo.com (nm35.bullet.mail.bf1.yahoo.com [72.30.238.197])
+    by .. with SMTP id ajhzrga75scq3bb2syk8wqnyja;
+    for TakeMeOff@fs.net;
+    Sat, 03 Jan 2015 19:52:35 +0000 (UTC)
+    (envelope-from ify_chukwu2014@yahoo.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=72.30.238.197; envelope-from=<ify_chukwu2014@yahoo.com>;
+    helo=nm35.bullet.mail.bf1.yahoo.com; mechanism=ptr:yahoo.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=72.30.238.197; client-port=57819;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.42 216.115.101.231 216.115.100.73 98.139.232.103
+    98.139.128.37 72.30.232.13 72.30.238.197; network-path-time=1420314755
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1420314740; bh=20qStamsrsz06rwBXMgYLgqfGX9fjjmtpUOch29xgzc=; h=Date:From:Reply-To:Subject:From:Subject; b=j7vHSNX18Nk4LHD85jl9ZKudTjH491fjJ5GnTuSswZ8VXE6vlJgJcOKptjW/rTKkDvFnkWXqyFOHoTZ28fLdL2urDwMnqZPbFprUM4ayuG2oprPYl8iNYfORigg14kOoYxSCnWBR4o8He6E8259OaX7jhZGjhK+avC9toOdY+KOioCS4SpGd8lHeXrS3bBNW0HUICWJzKRivJD4AZI54p8+vVfd91nRZSa78qbB7sDciCey83V4A8ye4FyTm8aBFU/lgClHLlzftLBw7TRtfIa+LAfkupJA9DvB2WLAsOmAbNGpIP3UHzBvCTdrVeE2LyJ4K0DfutTdE8W9r0og2Pg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.com;
+	b=eprsKQ722O8iEoz3IKwa0OHrV/Tg4tAr3dlZofVg3p+rYE21g7mC8u8SqSbmLrCVDYIQWhO+I29uTAg4VQm2p8u82PnYaOIDPPP0wggngnfwC4vwizD8TVNHxBgBKwMafwSODQP6Z7uVp1QoFIcRF5QXbeadmukJd469NPdYbsh603gHo/i5FSomEBtqyMrY2fP0lmjT/QTm4FOrl+SG9tuWFtKKLejq9mer+AIGnqH5KwlRL/b769CXUW85EtW4hawX/MUsxVi11ZEYKzG/6PqOYsFpzPfQWQDCazPO5pBBiU4YZYV0d/nikCT9v76cYoVJDIi7d3uhv9JHWLcO2A==;
+Received: from [66.196.81.174] by nm35.bullet.mail.bf1.yahoo.com with NNFMP; 03 Jan 2015 19:52:20 -0000
+Received: from [98.139.215.248] by tm20.bullet.mail.bf1.yahoo.com with NNFMP; 03 Jan 2015 19:52:20 -0000
+Received: from [127.0.0.1] by omp1061.mail.bf1.yahoo.com with NNFMP; 03 Jan 2015 19:52:20 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 649817.43691.bm@omp1061.mail.bf1.yahoo.com
+X-YMail-OSG: rPW2lbgVM1kJ6h.KDb5A.cjfFRqa9v7Kg2dqBupsNwwvem_lhBQb.n7thNK6CAf
+ wl6TLCA3QHlW8T0PrIHZs.bqUQ01feG9y6Ro7Do1OnjIxwqCChcEbuik6jiIZoAx7VDk6l5zQfVd
+ RqkAGtI9r8SX94QmV4zJnEBsASFHTAy.rWK0E5BXyy4qDKkGyuTCHtG5SmwX.cnhj2wgbytPlN3x
+ MVlWu3DzNMx8WdmR5L3BeLBFhD_vrKfkqx2mua.Nuy7PPl9ck4I1.4yqqwOkD0Gz7nbVnMtwmkVX
+ RiCDh5s52EMJiO7PDpkAECeUmWCp0V3pVxjC9ZdTviv9BGV6_U9WGg9Ef3wlVJ2abMvudM43jO2C
+ HLmVXG5Z_slClPHPKBZeg2MJPhdLuDkvcpgFc2N4XxGxIYeEBd5wpW8vwTM3vJxYKBO11Mmk3ts2
+ k6EUUiy.GzRm7Msvk6H6ddxkEQS08wAdH_gTZyt20VH_TjHYHWJFT7YGMViCG6Krg50bnlw--
+Received: by 66.196.81.108; Sat, 03 Jan 2015 19:52:20 +0000 
+Date: Sat, 3 Jan 2015 19:52:19 +0000 (UTC)
+From: Miss Rosy Damba <@..>
+Reply-To: Miss Rosy Damba <@..>
+Message-ID: <958473119.4052069.1420314739629.JavaMail.yahoo@jws10648.mail.bf1.yahoo.com>
+Subject: I NEED YOUR HELP FOR THIS TRANSFER(US$6.5M DOLLARS).
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4052068_1187108803.1420314739625"
+
+------=_Part_4052068_1187108803.1420314739625
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Good day,
+
+Thanks you for reading my mail and I am contacting you concerning a custome=
+r and an abandoned huge amount of money placed under our banks management y=
+ears ago, I contacted you independently of my investigation and no one is i=
+nformed of this communication and I would like to intimate you with certain=
+ facts that I believe would be of interest to you and me and the family in =
+future.
+
+My name is Miss Rosy Damba, I am in the Auditing and Accounting Manager wit=
+h Bank of Africa Ouagadougou Burkina Faso. In my department i discovered an=
+ abandoned sum of (US$6.5M DOLLARS) in an account that belongs to one of ou=
+r foreign customer (MR. RICHARD BURSON from Florida, U.S.A) who died along =
+with his entire family on November 1999 in a plane crash. This money has be=
+en dormant for years in our Bank without claim, and I don't want the money =
+to go into the Reserve Bank of Burkina Faso (RBBF),
+
+As an abandoned fund. So this is the reason why I contacted you so that the=
+ bank can release the money to you as the next of kin to the deceased custo=
+mer. Please I would like you to keep this transfer as a top secret between =
+me and you alone ok. I promise you that i will direct you on how this trans=
+fer will go successfully if only you can abide to my Instruction. Upon rece=
+ipt of your reply I will give you full details on how the business will be =
+done. Kindly send me this information below to have trust in you that you w=
+ould betrayed me after the success.
+
+(1.)Your full name...
+(2)Your address...
+(3)Country..
+(4)Age...
+(5)Occupation...
+(6)Private telephone number...
+
+l will send you the details of this transaction as soon as i hear from you =
+thanks, trusting to hear from you immediately with your contact information=
+,
+
+
+My regards.
+
+Miss Rosy Damba.
+------=_Part_4052068_1187108803.1420314739625
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px"><div id="yui_3_16_0_1_1420294153201_259091"><span></span></div><div id="yui_3_16_0_1_1420294153201_260945">&nbsp;</div><div id="yui_3_16_0_1_1420294153201_260947"><div id="yui_3_16_0_1_1420294153201_260946">Good day,
+<br>
+<br>Thanks you for reading my mail and I am contacting you concerning a customer and an abandoned huge amount of money placed under our banks management years ago, I contacted you independently of my investigation and no one is informed of this communication and I would like to intimate you with certain facts that I believe would be of interest to you and me and the family in future.
+<br>
+<br>My name is Miss Rosy Damba, I am in the Auditing and Accounting Manager with Bank of Africa Ouagadougou Burkina Faso. In my department i discovered an abandoned sum of (US$6.5M DOLLARS) in an account that belongs to one of our foreign customer (MR. RICHARD BURSON from Florida, U.S.A) who died along with his entire family on November 1999 in a plane crash. This money has been dormant for years in our Bank without claim, and I don't want the money to go into the Reserve Bank of Burkina Faso (RBBF),
+<br>
+<br>As an abandoned fund. So this is the reason why I contacted you so that the bank can release the money to you as the next of kin to the deceased customer. Please I would like you to keep this transfer as a top secret between me and you alone ok. I promise you that i will direct you on how this transfer will go successfully if only you can abide to my Instruction. Upon receipt of your reply I will give you full details on how the business will be done. Kindly send me this information below to have trust in you that you would betrayed me after the success.
+<br>
+<br>(1.)Your full name...
+<br>(2)Your address...
+<br>(3)Country..
+<br>(4)Age...
+<br>(5)Occupation...
+<br>(6)Private telephone number...
+<br>
+<br>l will send you the details of this transaction as soon as i hear from you thanks, trusting to hear from you immediately with your contact information,
+<br>
+<br>
+<br>My regards.
+<br>
+<br>Miss Rosy Damba.</div></div></div></body></html>
+------=_Part_4052068_1187108803.1420314739625--
+

@@ -1,0 +1,279 @@
+From @..  Wed Jan 21 17:53:54 2015
+Return-Path: <@..>
+X-Original-To: maureeenbutchard@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id BE1A8DF; Wed, 21 Jan 2015 17:53:54 +0000 (UTC)
+Received: from mailer1.expert-agent.co.uk (mailer1.expert-agent.co.uk [84.45.42.161])
+    by .. with SMTP id wyk7ejcb59hu2a9tcqttigkv4s;
+    for maureeenbutchard@fs.net;
+    Wed, 21 Jan 2015 17:53:54 +0000 (UTC)
+    (envelope-from 3e9.10.maureeenbutchard=fs.net@expert-agent.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=84.45.42.161;
+    envelope-from=<3e9.10.maureeenbutchard=fs.net@expert-agent.co.uk>;
+    helo=mailer1.expert-agent.co.uk; mechanism=ip4:84.45.42.0/23
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=84.45.42.161; client-port=63710;
+    syn-fingerprint=8192:109:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.14.134 129.250.8.193 129.250.2.44 129.250.4.165
+    129.250.3.85 129.250.6.177 129.250.4.125 129.250.5.197 129.250.5.41
+    83.231.235.146 84.45.27.135 84.45.21.185 84.45.23.19 84.45.23.24
+    84.45.90.69 84.45.90.113 109.104.114.101 84.45.90.146 84.45.90.122
+    84.45.90.214; network-path-time=1421862834
+domainkey-signature: a=rsa-sha1; c=nofws; s=key1; d=expert-agent.co.uk; q=dns; 
+	h=reply-to:from:to:message-id:date:subject:mime-version:content-type:content-transfer-encoding; 
+	b=Uz/ZC86181iIwT5miQpA4+NYIH+hosmfc1q3Mz9jON1QhVTDrB+K2t9kDs9x3v/uWzp6Hq59IomBfBlhPBLTQqF7spo3tR73aNaEHrEDQ9ujcsbC8oScnzJFjkg4C72RZP50GIjCy/+1sDAVVrHbDEq/v8UsqFlfc6NLR9XN4wE=;
+DKIM-Signature: v=1; a=rsa-sha1; d=expert-agent.co.uk;s=key1;
+	c=relaxed/relaxed; q=dns/txt; t=1421862835;
+	h=reply-to:from:to:message-id:date:subject:mime-version:content-type:content-transfer-encoding;
+	bh=W7sUsWDgYBJWV8IPs9KjDQfkb6U=;
+	b=WxGT1yggvJsiHu7f6BIucTeRsPY/N4X9okrRBgfCmZzNh5IOEWMGvHnMqni/sPpjpsGd9oXezTWfjZSfjJ40CYuf3pf+WjDT5pQ51z3PvXcRuDQofJVTK74U6Yq31qD0yFElqlqjHLqxJ25O+6M2Txg/3Tkn5v3RR1vElmE5KAQ=
+X-FBL: M2U5LjEyLjE5ZTAwMDAwMDQ3M2Y3My5tYXVyZWVlbmJ1dGNoYXJkPWZzLm5ldA==
+Reply-To: "Ian Crane Estate Agents" <@..>
+From: "Ian Crane Estate Agents" <@..>
+To: "0" <@..>
+Message-ID: <6b7c449bb748434abd04c9b9fe9f2e24@expert-agent.co.uk>
+Date: Wed, 21 Jan 2015 17:40:15 +0000
+Subject: Property Update from Ian Crane Estate Agents
+MIME-Version: 1.0
+Content-type: text/html; charset=Windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http:=
+//www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+<title>Untitled Document</title>
+<style>
+body{
+=09background-color: #e3e3e3;
+=09font-family: Arial, Helvetica, sans-serif;
+=09color: #333;
+}
+a{
+=09color: #333;
+}
+=2Ewrapper{
+=09border: 5px solid #939393;=20
+=09background-color: #fff;
+=09width: 760px;
+}
+=2EheaderLeft{
+=09border-bottom: solid 5px #424242;
+}
+=2EheaderRight{
+=09border-bottom: solid 5px #424242;
+}
+=2EagentLogo{
+=09width: 350px;
+=09padding: 15px;
+=09float: left;
+}
+=2EagentDetails{
+=09width: 350px;
+=09padding: 15px;
+=09text-align: right;
+=09font-size: 12px;
+}
+=2EagentName{
+}
+=2EagentAddress{
+}
+=2EagentContact{
+}
+=2Econtent{
+=09border-top: solid 15px #e1e1e1;
+=09padding: 20px 15px 15px 15px;
+=09font-size: 13px;
+=09line-height: 17px;
+}
+=2Esalutation{
+=09font-size: 24px;
+=09font-weight: bold;
+=09line-height: 32px;
+}
+=2EviewProps{
+=09margin: 15px 7px 15px 15px;
+=09border-top: solid 2px #333;
+=09border-bottom: solid 2px #333;
+=09background-color: #e1e1e1;
+}
+=2Eunsubscribe{
+=09margin: 15px 15px 15px 7px;
+=09border-top: solid 2px #333;
+=09border-bottom: solid 2px #333;
+=09background-color: #e1e1e1;
+}
+=2EeaLogo{
+=09padding-top: 10px;
+=09text-align: center;
+}
+
+/* Matched Property Styles */
+
+h1{
+=09font-size: 20px;
+=09font-weight: bold;
+=09line-height: 24px;
+=09margin: 30px 0 15px 0;
+}
+=2EpropContainer{
+=09background-color: #f0f0f0;
+=09border: solid 1px #CCC;
+=09padding: 15px;
+}
+=2EpropImage{
+=09width: 300px;
+=09height: 200px;
+}
+=2EpropImage img{
+=09margin: 0px;
+=09padding: 5px;
+=09width: 300px!important;
+=09height: 200px!important;
+=09border: solid 1px #999;
+=09background-color: #FFF;
+}
+=2EpropTextContainer{
+=09padding: 0 0 0 15px;
+}
+=2EpropHeader{
+=09font-size: 16px;
+=09line-height: 20px;
+=09font-weight: bold;
+}
+=2EpropPrice{
+=09font-size: 14px;
+=09line-height: 20px;
+=09font-weight: bold;
+}
+=2EpropDesc{
+=09font-size: 11px;
+=09line-height: 16px;
+=09font-weight: normal;
+=09text-align: justify;
+=09padding-top: 5px;
+}
+=2EpropRefContainer{
+=09margin: 10px 0 0 0;
+=09padding: 5px;
+=09width: 300px;
+=09border-top: solid 1px #999;
+=09border-bottom: solid 1px #999;
+=09font-size: 11px;
+}
+=2EpropRef{
+=09font-size: 11px!important;
+}
+=2EpropLink a{
+=09font-size: 11px!important;
+}
+=2EpropDivide{
+=09padding: 2px;
+}
+=2EGrid
+{
+=09border: 1px solid #adadad;=09
+}
+
+=2EGridHeader
+{
+    color:#324f62;
+    background-color: #cecece;
+    border-bottom: 1px solid #000000;
+    background-image:url(http://rack1=2Eexpertagent=2Eco=2Euk/img/propg=
+rid_headerDevide=2Egif) ;
+    background-repeat: repeat-y;
+    background-position: right;
+    padding: 0 2 0 2;
+    height: 24px;
+    font-size: 11px;
+}
+=2EGridRow
+{
+=09height: 10px;
+=09border-top: 1px solid #cbcbcb;
+=09border-left: 1px solid #cbcbcb;
+=09color: Black;
+=09padding: 0 2 0 2;
+=09font-size: 11px;
+}
+
+</style>
+</head>
+
+<body>
+<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"wrapper">
+  <tr>
+    <td width=3D"50"agentLogo" style=3D"margin: 15px;"><a href=3D"[AgencyWebsiteLink]"><im=
+g src=3D"http://www=2Eexpertagent=2Eco=2Euk/in4glestates/{52ce9530-8c5d=
+-430a-99da-8f4d608db45f}/ianc=2Ejpg" alt=3D"" border=3D"0" width=3D"365=
+px"/></a></div></td>
+    <td width=3D"50"agentDetails" style=3D"margin: 15px;">
+      <div><strong>Ian Crane Estate Agents</strong></div>
+      <div>21 Westway<br /> Maghull<br /> Liverpool<br /> Merseyside<br=
+ /> L31 2PQ</div>
+      <div>0151 527 2700<br />
+        E: <a href=3D'mailto:sales@iancrane=2Ecom' class=3D'agentEmail'=
+>sales@iancrane=2Ecom</a><br />
+        <a href=3D'www=2Eiancrane=2Ecom' class=3D'agentEmail'>www=2Eian=
+crane=2Ecom</a></div>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan=3D"2" valign=3D"top" class=3D"content"><p><span class=3D=
+"salutation">Dear </span></p>
+      I am pleased to be able to send you your latest personalised prop=
+erty bulletin=2E Please do not hesitate to contact us if you would like=
+ us to post you full details or an appointment to view=2E<BR><BR>To vie=
+w our company video please follow the link below:-<BR>
+<P><FONT size=3D2 face=3DArial><SPAN style=3D"FONT-FAMILY: Arial; FONT-=
+SIZE: 10pt"><A title=3Dblocked::http://www=2Echristinsleytv=2Eco=2Euk/i=
+ancrane href=3D"http://www=2Echristinsleytv=2Eco=2Euk/iancrane"><FONT c=
+olor=3D#800080>http://www=2Echristinsleytv=2Eco=2Euk/iancrane</FONT></A=
+></SPAN></FONT></P><br />
+     =20
+      <p>Ian Crane Estate Agents<br />
+        <br />
+        <br />
+        T: 0151 527 2700<br />
+        E: sales@iancrane=2Ecom<br />
+      </p>
+     =20
+      </td>
+  </tr>
+    <tr style=3D"display: table-row">
+        <td>
+            <div class=3D'viewProps'>
+                <a href=3D'http://powering=2Eexpertagent=2Eco=2Euk/Matc=
+hes/Matches_Frame=2Easpx?filter=3Dnew&cid=3DA01E4C95-892F-4526-A066-91C=
+4CEB4DEB0'><img src=3D'http://media=2Eexpertagent=2Eco=2Euk/in4glestate=
+s/Images/viewProps=2Epng' alt=3D'View Properties' width=3D'360' height=3D=
+'100' border=3D'0' /></a>
+            </div>
+        </td>
+        <td>
+            <div class=3D'unsubscribe'>
+                <a href=3D'http://powering=2Eexpertagent=2Eco=2Euk/Matc=
+hes/Matches_Frame=2Easpx?filter=3Dreq&cid=3DA01E4C95-892F-4526-A066-91C=
+4CEB4DEB0'><img src=3D'http://media=2Eexpertagent=2Eco=2Euk/in4glestate=
+s/Images/unsubscribe=2Epng' alt=3D'Unsubscribe' width=3D'360' height=3D=
+'100' border=3D'0' /></a>
+            </div>
+        </td>
+    </tr>
+</table>
+<div class=3D"eaLogo"><a href=3D"http://www=2Eexpertagent=2Eco=2Euk"><i=
+mg src=3D"http://media=2Eexpertagent=2Eco=2Euk/in4glestates/Images/eaLo=
+go=2Epng" alt=3D"Expert Agent software for estate agents" width=3D"141"=
+ border=3D"0" title=3D"Expert Agent software for estate agents"/></a></=
+div>
+</body>
+</html>
+
+

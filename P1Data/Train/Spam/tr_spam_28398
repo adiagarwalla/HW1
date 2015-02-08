@@ -1,0 +1,28 @@
+From @..  Fri Jan  2 10:20:51 2015
+Return-Path: <@..>
+X-Original-To: ackean@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B7ADCDF; Fri,  2 Jan 2015 10:20:51 +0000 (UTC)
+Received: from 111-255-111-222.dynamic.hinet.net (111-255-111-222.dynamic.hinet.net [111.255.111.222])
+    by .. with SMTP id ybabuq987bfgr8b7j5zb4nidew;
+    Fri, 02 Jan 2015 10:20:50 +0000 (UTC)
+    (envelope-from spegdkqyavz@blueblazers.org)
+Received-SPF: Pass; receiver=..;
+    client-ip=111.255.111.222; envelope-from=<spegdkqyavz@blueblazers.org>;
+    helo=111-255-111-222.dynamic.hinet.net; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=111.255.111.222; client-port=46633;
+    syn-fingerprint=5760:49:1:60:M1380,S,T,N,W2; colon-space; network-hops=16;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.168 64.57.20.132 64.57.20.124 64.57.20.131
+    206.223.123.39 211.72.108.10 220.128.26.246 220.128.24.230 220.128.24.25
+    168.95.56.21 111.255.111.222; network-path-time=1420194040;
+    RBL=bl..net (127.0.0.2), dnsbl.sorbs.net (127.0.0.10),
+    dul.dnsbl.sorbs.net (127.0.0.10), cbl.abuseat.org (127.0.0.2),
+    zen..org (127.0.0.4 127.0.0.11)
+Received: from 146.77.0.48 by 111.255.111.222; Fri, 02 Jan 2015 13:20:49 +0300
+Message-ID: <Y[20
+Date: Fri,  2 Jan 2015 10:20:51 +0000 (UTC)
+From: @.. (root)
+

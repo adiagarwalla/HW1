@@ -1,0 +1,852 @@
+From @..  Thu Jan 22 04:21:54 2015
+Return-Path: <@..>
+X-Original-To: rf@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 91B1CDA; Thu, 22 Jan 2015 04:21:54 +0000 (UTC)
+Received: from chimney.mktdns.com (chimney.mktdns.com [199.15.212.85])
+    by .. with SMTP id kzbm8hsrufafiu274x67pwe5va;
+    for rf@fs.net;
+    Thu, 22 Jan 2015 04:21:54 +0000 (UTC)
+    (envelope-from 149-WFZ-676.0.1448.0.0.25.7.6804561@mailconnect.avid.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.15.212.85;
+    envelope-from=<149-WFZ-676.0.1448.0.0.25.7.6804561@mailconnect.avid.com>;
+    helo=chimney.mktdns.com; mechanism=include:mktomail.com
+    (ip4:199.15.212.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.15.212.85; client-port=43636;
+    syn-fingerprint=5840:53:1:60:M1380,N,N,T,N,W8; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.110
+    64.125.31.69 64.125.24.29 64.125.26.105 64.125.20.122 64.125.31.150
+    208.184.82.178; network-path-time=1421900514
+X-MSFBL: cmZAZnMubmV0QGR2cC0xOTktMTUtMjEyLTg1QGJnLWFiZC0xNjJAMTQ5LVdGWi02
+	NzY6MzU3OjE0NDg6MjE2NDowOjI1Ojc6NjgwNDU2MQ==
+Received: from [10.1.8.1] ([10.1.8.1:58186] helo=abmas02.marketo.org)
+	by abmta02.marketo.org (envelope-from <no-reply-mkto@avid.com>)
+	(ecelerity 3.6.4.44580 r(Platform:3.6.4.1)) with ESMTP
+	id E9/AB-47045-2DA70C45; Wed, 21 Jan 2015 22:21:38 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1421900498;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=nuIkoVFH29TnqCDetvxB2Bcxf6dQPejHCAz22wld+eg=;
+	b=HsLplrDofzNfywwo712DpNur144z6+IjvgQkSCpaJvskNyMKe17WJTXHhrz7xEoS
+	OJV3RrELLE1o6BtIcZe9YuVoTneSo/0t+G/4waiFjCAgykw/mucmMHbCZ6hEe4ejyZ0
+	aqa/HgQ38wSC68o2f5fkLVu4yxYEoghSgq38rUzA=
+Date: Wed, 21 Jan 2015 22:21:38 -0600 (CST)
+From: Avid Customer Association <@..>
+Reply-To: @..
+To: @..
+Message-ID: <1518098639.1883559201.1421900498192.JavaMail.root@abmas02.marketo.org>
+Subject: =?UTF-8?Q?We_want_you_with_us_at_Avid_Connect_=E2=80=9915--SAVE_$300?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1883559200_1920973270.1421900498192"
+X-PVIQ: 000326-001616-000001-000000-000501
+X-Binding: bg-abd-162
+X-MarketoID: 149-WFZ-676:357:1448:2164:0:25:7:6804561
+List-Unsubscribe: <mailto:ORLFQMLOPBQXUZT2G5YXAVLQLJLUW22SLFAT2PI.1448.25.7@unsub-ab.mktomail.com>
+X-Mailfrom: 149-WFZ-676.0.1448.0.0.25.7.6804561@mailconnect.avid.com
+X-MktMailDKIM: true
+
+------=_Part_1883559200_1920973270.1421900498192
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<http://www.avid.com>
+SAVE $300 On An Event You Can't Miss:
+AVID CONNECT 2015
+Register Now <http://www.avidcustomerassociation.com/2015>
+AVID CONNECT 2015
+We want you with us. That's why we're offering you an exciting opportunity =
+to SAVE $300 on registration until January 31.
+Register now <http://www.avidcustomerassociation.com/2015> at the early bir=
+d rate of just $395 to join the world's most visionary gathering of media i=
+ndustry talent at Caesar's Palace in Las Vegas, April 10-12, 2015. The medi=
+a event of the year, Avid Connect will draw over 1,500 people from 50 count=
+ries to:
+
+
+
+
+ - Contribute to shaping the future of Avid and the industry
+ - Connect with, learn from and be inspired by industry experts, top perfor=
+mers and professionals across broadcast, film and audio
+ - Strengthen your craft with exposure to the latest information and traini=
+ng=20
+ - Celebrate doing what you love with passionate, Avid community members=20
+
+
+
+Last year sold out. Be there for 36 amazing hours dedicated to creating our=
+ future together.
+
+Best regards,
+
+
+ACA Executive Board
+ Avid Customer Association
+REGISTER <http://www.avidcustomerassociation.com/2015>
+AVID CONNECT 2015
+Copyright =C2=A9 2014 Avid Technology, Inc.
+<http://www.avidblogs.com/avidconnect>   <http://www.facebook.com/avidtechn=
+ology>   <http://www.twitter.com/avidconnect>
+All rights reserved. Product features, specifications, system requirements =
+and availability are subject to change without notice. Avid, the Avid logo,=
+ and other Avid trademarks are either registered trademarks or trademarks o=
+f Avid Technology, Inc. or its subsidiaries in the United States and/or oth=
+er countries. All other trademarks contained herein are the property of the=
+ir respective owners. All prices are USMSRP for the U.S. and Canada only an=
+d are subject to change without notice. Contact your local Avid office or r=
+eseller for prices outside the U.S. and Canada.
+
+This email was sent to rf@fs.net. If you no longer wish to receive these em=
+ails you may unsubscribe here: http://connect.avid.com/Subscription-Prefere=
+nces.html?mkt_unsubscribe=3D1&mkt_tok=3D3RkMMJWWfF9wsRonv6jBZKXonjHpfsX
+------=_Part_1883559200_1920973270.1421900498192
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<title>Avid Technology</title>
+
+<style type=3D"text/css">
+a:hover {
+color: #2795b6 !important;
+}
+a:active {
+color: #2795b6 !important;
+}
+a:visited {
+color: #2ba6cb !important;
+}
+h1 a:active {
+color: #2ba6cb !important;
+}
+h2 a:active {
+color: #2ba6cb !important;
+}
+h3 a:active {
+color: #2ba6cb !important;
+}
+h4 a:active {
+color: #2ba6cb !important;
+}
+h5 a:active {
+color: #2ba6cb !important;
+}
+h6 a:active {
+color: #2ba6cb !important;
+}
+h1 a:visited {
+color: #2ba6cb !important;
+}
+h2 a:visited {
+color: #2ba6cb !important;
+}
+h3 a:visited {
+color: #2ba6cb !important;
+}
+h4 a:visited {
+color: #2ba6cb !important;
+}
+h5 a:visited {
+color: #2ba6cb !important;
+}
+h6 a:visited {
+color: #2ba6cb !important;
+}
+table.button:hover td a {
+color: #fff !important;
+}
+table.button:visited td a {
+color: #fff !important;
+}
+table.button:active td a {
+color: #fff !important;
+}
+table.button:hover td a {
+color: #ffffff !important;
+}
+table.button:active td a {
+color: #ffffff !important;
+}
+table.button td a:visited {
+color: #ffffff !important;
+}
+table.tiny-button:hover td a {
+color: #ffffff !important;
+}
+table.tiny-button:active td a {
+color: #ffffff !important;
+}
+table.tiny-button td a:visited {
+color: #ffffff !important;
+}
+table.small-button:hover td a {
+color: #ffffff !important;
+}
+table.small-button:active td a {
+color: #ffffff !important;
+}
+table.small-button td a:visited {
+color: #ffffff !important;
+}
+table.medium-button:hover td a {
+color: #ffffff !important;
+}
+table.medium-button:active td a {
+color: #ffffff !important;
+}
+table.medium-button td a:visited {
+color: #ffffff !important;
+}
+table.large-button:hover td a {
+color: #ffffff !important;
+}
+table.large-button:active td a {
+color: #ffffff !important;
+}
+table.large-button td a:visited {
+color: #ffffff !important;
+}
+table.secondary:hover td {
+background: #d0d0d0 !important; color: #555;
+}
+table.secondary:hover td a {
+color: #555 !important;
+}
+table.secondary td a:visited {
+color: #555 !important;
+}
+table.secondary:active td a {
+color: #555 !important;
+}
+table.success:hover td {
+background: #457a1a !important;
+}
+table.alert:hover td {
+background: #970b0e !important;
+}
+*[id]#logo img
+{
+        outline: none; text-decoration: none; -ms-interpolation-mode: bicub=
+ic; width: auto; float: left; clear: both; display: block;
+}
+*[id]#banner img
+{
+        width: 100n-mode: bicubic; float: left; clear: both; display: block;
+}
+*[id]#icon-one img, *[id]#icon-two img, *[id]#icon-three img, *[id]#image-o=
+ne img, *[id]#image-two img
+{
+        outline: none; text-decoration: none; -ms-interpolation-mode: bicub=
+ic; width: auto; float: left; clear: both; display: block;
+}
+*[id]#social-icons img
+{
+        outline: none; text-decoration: none; -ms-interpolation-mode: bicub=
+ic; width: auto; float: none; clear: both; display: inline; border: none;
+}
+@media only screen and (max-width: 600px) {
+  table[class=3D"body"] img {
+    width: auto !important; height: auto !important;
+  }
+  table[class=3D"body"] center {
+    min-width: 0 !important;
+  }
+  table[class=3D"body"] .container {
+    width: 95  }
+  table[class=3D"body"] .row {
+    width: 100  }
+  table[class=3D"body"] .wrapper {
+    display: block !important; padding-right: 0 !important;
+  }
+  table[class=3D"body"] .columns {
+    table-layout: fixed !important; float: none !important; width: 100portant; padding-right: 0px !important; padding-left: 0px !important; displ=
+ay: table !important;
+  }
+  table[class=3D"body"] .column {
+    table-layout: fixed !important; float: none !important; width: 100portant; padding-right: 0px !important; padding-left: 0px !important; displ=
+ay: table !important;
+  }
+  table[class=3D"body"] .wrapper.first .columns {
+    display: table !important;
+  }
+  table[class=3D"body"] .wrapper.first .column {
+    display: table !important;
+  }
+  table[class=3D"body"] table.columns td {
+    width: 100  }
+  table[class=3D"body"] table.column td {
+    width: 100  }
+  table[class=3D"body"] .columns td.one {
+    width: 8.333333  }
+  table[class=3D"body"] .column td.one {
+    width: 8.333333  }
+  table[class=3D"body"] .columns td.two {
+    width: 16.666666  }
+  table[class=3D"body"] .column td.two {
+    width: 16.666666  }
+  table[class=3D"body"] .columns td.three {
+    width: 25  }
+  table[class=3D"body"] .column td.three {
+    width: 25  }
+  table[class=3D"body"] .columns td.four {
+    width: 33.333333  }
+  table[class=3D"body"] .column td.four {
+    width: 33.333333  }
+  table[class=3D"body"] .columns td.five {
+    width: 41.666666  }
+  table[class=3D"body"] .column td.five {
+    width: 41.666666  }
+  table[class=3D"body"] .columns td.six {
+    width: 50  }
+  table[class=3D"body"] .column td.six {
+    width: 50  }
+  table[class=3D"body"] .columns td.seven {
+    width: 58.333333  }
+  table[class=3D"body"] .column td.seven {
+    width: 58.333333  }
+  table[class=3D"body"] .columns td.eight {
+    width: 66.666666  }
+  table[class=3D"body"] .column td.eight {
+    width: 66.666666  }
+  table[class=3D"body"] .columns td.nine {
+    width: 75  }
+  table[class=3D"body"] .column td.nine {
+    width: 75  }
+  table[class=3D"body"] .columns td.ten {
+    width: 83.333333  }
+  table[class=3D"body"] .column td.ten {
+    width: 83.333333  }
+  table[class=3D"body"] .columns td.eleven {
+    width: 91.666666  }
+  table[class=3D"body"] .column td.eleven {
+    width: 91.666666  }
+  table[class=3D"body"] .columns td.twelve {
+    width: 100  }
+  table[class=3D"body"] .column td.twelve {
+    width: 100  }
+  table[class=3D"body"] td.offset-by-one {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-two {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-three {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-four {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-five {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-six {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-seven {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-eight {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-nine {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-ten {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] td.offset-by-eleven {
+    padding-left: 0 !important;
+  }
+  table[class=3D"body"] table.columns td.expander {
+    width: 1px !important;
+  }
+  table[class=3D"body"] .right-text-pad {
+    padding-left: 10px !important;
+  }
+  table[class=3D"body"] .text-pad-right {
+    padding-left: 10px !important;
+  }
+  table[class=3D"body"] .left-text-pad {
+    padding-right: 10px !important;
+  }
+  table[class=3D"body"] .text-pad-left {
+    padding-right: 10px !important;
+  }
+  table[class=3D"body"] .hide-for-small {
+    display: none !important;
+  }
+  table[class=3D"body"] .show-for-desktop {
+    display: none !important;
+  }
+  table[class=3D"body"] .show-for-small {
+    display: inherit !important;
+  }
+  table[class=3D"body"] .hide-for-desktop {
+    display: inherit !important;
+  }
+  *[id]#banner {
+    width: 286px !important; margin: 0 auto !important;
+  }
+  *[id]#banner-content {
+    width: 286px !important; margin: 0 auto !important;
+  }
+  *[class].center-image-table {
+    width: 250px; margin: 0 auto !important; padding-left: 0px !important;
+  }
+  *[class].top-pad {
+    padding-top: 15px !important;
+        padding-bottom:15px !important;
+  }
+  *[class].bg-white
+  {
+          background:#fff !important;
+  }
+}
+</style>
+</head>
+<body style=3D"width:100ust:100, 'Arial', sans-serif; font-weight:normal; text-align:left; line-height:19p=
+x; font-size:14px; margin:0; padding:0; background:#ffffff; " ><table class=
+=3D"body" style=3D"border-spacing:0; border-collapse:collapse; vertical-ali=
+gn:top; text-align:left; height:100y:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; f=
+ont-size:14px; margin:0; padding:0; " ><tr style=3D"vertical-align:top; tex=
+t-align:left; padding:0; " align=3D"left" ><td class=3D"center" align=3D"ce=
+nter" valign=3D"top" style=3D"word-break:break-word; -webkit-hyphens:auto; =
+-moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; verti=
+cal-align:top; text-align:center; color:#222222; font-family:'Helvetica', '=
+Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; m=
+argin:0; padding:0; " ><center style=3D"width:100ble class=3D"container" style=3D"border-spacing:0; border-collapse:collapse=
+; vertical-align:top; text-align:inherit; width:580px; margin:0 auto; paddi=
+ng:0; border:1px solid #bcc0be; " ><tr style=3D"vertical-align:top; text-al=
+ign:left; padding:0; " align=3D"left" ><td style=3D"word-break:break-word; =
+-webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:coll=
+apse !important; vertical-align:top; text-align:left; color:#222222; font-f=
+amily:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19p=
+x; font-size:14px; margin:0; padding:0; " align=3D"left" valign=3D"top" ><t=
+able class=3D"row" style=3D"border-spacing:0; border-collapse:collapse; ver=
+tical-align:top; text-align:left; width:100ock; padding:0px; " ><tr style=3D"vertical-align:top; text-align:left; padd=
+ing:0; " align=3D"left" ><td class=3D"wrapper last" style=3D"word-break:bre=
+ak-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-coll=
+apse:collapse !important; vertical-align:top; text-align:left; position:rel=
+ative; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-we=
+ight:normal; line-height:19px; font-size:14px; margin:0; padding:0px; " ali=
+gn=3D"left" valign=3D"top" ><table class=3D"twelve columns" style=3D"border=
+-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; =
+width:580px; padding:0; " ><tr style=3D"vertical-align:top; text-align:left=
+; padding:0; " align=3D"left" ><td style=3D"word-break:break-word; -webkit-=
+hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !im=
+portant; vertical-align:top; text-align:left; color:#222222; font-family:'H=
+elvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-=
+size:14px; margin:0; padding:25px 0px 20px 15px; " align=3D"left" valign=3D=
+"top" ><div class=3D"mktEditable" id=3D"logo" ><a href=3D
+"http://mgo.avid.com/K00ysWF008xx0tCaZ00W0Z0"
+><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/avid-logo-=
+190x55.jpg" alt=3D"logo" border=3D"0"></a></div>
+</td>
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; visibility: hidden; width: 0px; co=
+lor: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: n=
+ormal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D=
+"left" valign=3D"top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; margin:0; paddin=
+g:0; " align=3D"left" valign=3D"top" ><table class=3D"row" style=3D"display=
+:table !important; border-spacing:0; border-collapse:collapse; vertical-ali=
+gn:top; text-align:left; width:100 style=3D"vertical-align:top; text-align:left; padding:0; background:#00000=
+0; " class=3D"bg-white" align=3D"left" ><td class=3D"wrapper" style=3D"word=
+-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; b=
+order-collapse:collapse !important; vertical-align:top; text-align:left; po=
+sition:relative; color:#222222; font-family:'Helvetica', 'Arial', sans-seri=
+f; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:=
+0px; " align=3D"left" valign=3D"top" ><table class=3D"six columns" width=3D=
+"280" style=3D"width:280px; border-spacing:0; border-collapse:collapse; ver=
+tical-align:top; text-align:left; padding:0; " ><tr style=3D"vertical-align=
+:top; text-align:left; padding:0; " align=3D"left" ><td style=3D"word-break=
+:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-=
+collapse:collapse !important; vertical-align:top; text-align:left; color:#2=
+22222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; li=
+ne-height:1px; font-size:14px; margin:0; padding:0px; " class=3D"center-tab=
+le" align=3D"left" valign=3D"top" ><div class=3D"mktEditable" id=3D"banner"=
+ ><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/ACA_Want-=
+you-with-us_286x179.jpg" alt=3D"We want you with us!" height=3D"179" width=
+=3D"286"></div>
+</td>
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; visibility: hidden; width: 0px; co=
+lor: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: n=
+ormal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D=
+"left" valign=3D"top"></td>
+</tr>
+</table>
+</td>
+<td class=3D"wrapper last" id=3D"banner-content" style=3D"word-break:break-=
+word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collaps=
+e:collapse !important; vertical-align:top; text-align:left; position:relati=
+ve; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weigh=
+t:normal; line-height:19px; font-size:14px; background:#000000; margin:0; p=
+adding:0px; " align=3D"left" bgcolor=3D"#0687C5" valign=3D"top" ><table cla=
+ss=3D"six columns" style=3D"border-spacing:0; border-collapse:collapse; ver=
+tical-align:top; text-align:left; width:280px; padding:0; " ><tr style=3D"v=
+ertical-align:top; text-align:left; padding:0; " align=3D"left" ><td style=
+=3D"color:#fff; font-size:15px; font-family:Arial, Helvetica, sans-serif; l=
+ine-height:24px; word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; font-weight:normal; margin:0; padding:20px 0px 0px 20px;=
+ " class=3D"center-table" align=3D"left" valign=3D"top" ><div class=3D"mktE=
+ditable" id=3D"content-one" ><h6 style=3D"color: #fff; font-family: 'Helvet=
+ica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-heig=
+ht: 1.3; word-break: normal; font-size: 20px; margin: 0; padding: 0;" align=
+=3D"left">SAVE $300 On An Event You Can't Miss:<br />AVID CONNECT <span sty=
+le=3D"color: #6e2a8d;">2015</span></h6></div>
+</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"color:#fff; font-size:15px; font-family:Arial, Helvetica, =
+sans-serif; line-height:24px; word-break:break-word; -webkit-hyphens:auto; =
+-moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; verti=
+cal-align:top; text-align:left; font-weight:normal; margin:0; padding:5px 0=
+px 10px 20px; " align=3D"left" valign=3D"top" ><div class=3D"mktEditable" i=
+d=3D"content-two" ></div>
+</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; margin:0; paddin=
+g:0px 0px 10px 20px; " align=3D"left" valign=3D"top" ><table class=3D"butto=
+n" width=3D"130" style=3D"width:130px !important; border-spacing:0; border-=
+collapse:collapse; vertical-align:top; text-align:left; overflow:hidden; pa=
+dding:0; " ><tr style=3D"vertical-align:top; text-align:left; padding:0; " =
+align=3D"left" ><td style=3D"width:130px !important; text-transform:upperca=
+se; word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens=
+:auto; border-collapse:collapse !important; vertical-align:top; text-align:=
+center; color:#ffffff; font-family:'Helvetica', 'Arial', sans-serif; font-w=
+eight:normal; line-height:19px; font-size:14px; display:block; background:#=
+0687c5; margin:0; padding:8px 0; border:1px solid #0687c5; " align=3D"cente=
+r" bgcolor=3D"#0687C5" valign=3D"top" ><div class=3D"mktEditable" id=3D"CTA=
+" ><a href=3D
+"http://mgo.avid.com/tCZZ0y0xWa08u00WFs0000y" target=3D"_blank"
+><span style=3D"color: #ffffff; text-decoration: none; font-weight: normal;=
+ font-family: Helvetica, Arial, sans-serif; font-size: 15px;">Register Now<=
+/span></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">
+<td height=3D"20" style=3D"line-height: 1px; font-size: 1px; word-break: br=
+eak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-=
+collapse: collapse !important; vertical-align: top; text-align: left; color=
+: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: norm=
+al; margin: 0; padding: 0px;" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; margin:0; paddin=
+g:0; " align=3D"left" valign=3D"top" ><table class=3D"row" style=3D"border-=
+spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; w=
+idth:100ertical-align:top; text-align:left; padding:0; " align=3D"left" ><td class=
+=3D"wrapper last" style=3D"word-break:break-word; -webkit-hyphens:auto; -mo=
+z-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical=
+-align:top; text-align:left; position:relative; color:#222222; font-family:=
+'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; fon=
+t-size:14px; margin:0; padding:0px; " align=3D"left" valign=3D"top" ><table=
+ class=3D"twelve columns" style=3D"border-spacing:0; border-collapse:collap=
+se; vertical-align:top; text-align:left; width:580px; padding:0; " ><tr sty=
+le=3D"vertical-align:top; text-align:left; padding:0; " align=3D"left" ><td=
+ style=3D"font-family:Arial, Helvetica, sans-serif; color:#2f4967; line-hei=
+ght:14px; text-transform:uppercase; word-break:break-word; -webkit-hyphens:=
+auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important;=
+ vertical-align:top; text-align:left; font-weight:normal; font-size:14px; m=
+argin:0; padding:0px 15px 10px; " align=3D"left" valign=3D"top" ><div class=
+=3D"mktEditable" id=3D"heading" ><h4 style=3D"color: #6e2a8d; font-family: =
+'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; li=
+ne-height: 28px; word-break: normal; font-size: 26px; margin: 0; padding-bo=
+ttom: 10px;" align=3D"left"><span style=3D"color: #000000;">AVID CONNECT</s=
+pan> 2015</h4></div>
+<hr style=3D"color: #d9d9d9; height: 1px; background: #d9d9d9; border: none=
+; margin:0px; vertical-align:top;"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">
+<td height=3D"20" style=3D"line-height: 1px; font-size: 1px; word-break: br=
+eak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-=
+collapse: collapse !important; vertical-align: top; text-align: left; color=
+: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: norm=
+al; margin: 0; padding: 0px;" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; margin:0; paddin=
+g:0; " align=3D"left" valign=3D"top" ><table class=3D"row" style=3D"border-=
+spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; w=
+idth:100ertical-align:top; text-align:left; padding:0; " align=3D"left" ><td class=
+=3D"wrapper" style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyp=
+hens:auto; hyphens:auto; border-collapse:collapse !important; vertical-alig=
+n:top; text-align:left; position:relative; color:#222222; font-family:'Helv=
+etica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-siz=
+e:14px; margin:0; padding:0px; " align=3D"left" valign=3D"top" ><table clas=
+s=3D"two columns" style=3D"border-spacing:0; border-collapse:collapse; vert=
+ical-align:top; text-align:left; width:80px; padding:0; " ><tr style=3D"ver=
+tical-align:top; text-align:left; padding:0; " align=3D"left" ><td style=3D=
+"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:au=
+to; border-collapse:collapse !important; vertical-align:top; text-align:lef=
+t; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight=
+:normal; line-height:19px; font-size:14px; margin:0; padding:0px 0px 10px 1=
+5px; " align=3D"left" valign=3D"top" ><div class=3D"mktEditable" id=3D"icon=
+-one" ><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/ACA_=
+CTA_65x71.jpg" alt=3D"Register Now" height=3D"71" width=3D"65"></div>
+</td>
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; visibility: hidden; width: 0px; co=
+lor: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: n=
+ormal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D=
+"left" valign=3D"top"></td>
+</tr>
+</table>
+</td>
+<td class=3D"wrapper last" style=3D"word-break:break-word; -webkit-hyphens:=
+auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important;=
+ vertical-align:top; text-align:left; position:relative; color:#222222; fon=
+t-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:=
+19px; font-size:14px; margin:0; padding:0px; " align=3D"left" valign=3D"top=
+" ><table class=3D"ten columns" style=3D"border-spacing:0; border-collapse:=
+collapse; vertical-align:top; text-align:left; width:480px; padding:0; " ><=
+tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"left=
+" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:a=
+uto; hyphens:auto; border-collapse:collapse !important; vertical-align:top;=
+ text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-ser=
+if; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding=
+:0px 15px 5px; " align=3D"left" valign=3D"top" ><div class=3D"mktEditable" =
+id=3D"heading-one" ><h5 style=3D"color: #6e2a8d; font-family: 'Helvetica', =
+'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 1.=
+3; word-break: normal; font-size: 22px; margin: 0; padding: 0;" align=3D"le=
+ft">We want you with us. That's why we're offering you an exciting opportun=
+ity to <strong>SAVE $300 on registration until January 31</strong>.</h5></d=
+iv>
+</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"color:#7e7e7e; font-size:14px; line-height:18px; font-fami=
+ly:Arial, Helvetica, sans-serif; word-break:break-word; -webkit-hyphens:aut=
+o; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; ve=
+rtical-align:top; text-align:left; font-weight:normal; margin:0; padding:0p=
+x 15px 10px; " align=3D"left" valign=3D"top" ><div class=3D"mktEditable" id=
+=3D"content-part-one" ><p><a href=3D
+"http://mgo.avid.com/tCZZ0y0xWa08u00WFs0000y" target=3D"_blank"
+>Register now</a> at the <strong>early bird rate</strong> of just $395 to j=
+oin the world's most visionary gathering of media industry talent at Caesar=
+'s Palace in Las Vegas, April 10-12, 2015. The media event of the year, Avi=
+d Connect will draw over 1,500 people from 50 countries to:<br /><br /></p>
+<ul>
+<li><strong>Contribute</strong> to shaping the future of Avid and the indus=
+try</li>
+<li><strong>Connect with, learn from and be inspired by</strong> industry e=
+xperts, top performers and professionals across broadcast, film and audio</=
+li>
+<li><strong>Strengthen your craft</strong> with exposure to the latest info=
+rmation and training </li>
+<li><strong>Celebrate</strong> doing what you love with passionate, Avid co=
+mmunity members </li>
+</ul>
+<p>Last year sold out. Be there for 36 amazing hours dedicated to creating =
+our future together.</p>
+<p>Best regards,</p>
+<p><br />ACA Executive Board<br /> Avid Customer Association</p></div>
+</td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; margin:0; paddin=
+g:0px 0px 10px 15px; " align=3D"left" valign=3D"top" ><table class=3D"butto=
+n" width=3D"90" style=3D"width:90px !important; border-spacing:0; border-co=
+llapse:collapse; vertical-align:top; text-align:left; overflow:hidden; padd=
+ing:0; " ><tr style=3D"vertical-align:top; text-align:left; padding:0; " al=
+ign=3D"left" ><td style=3D"width:90px !important; word-break:break-word; -w=
+ebkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collap=
+se !important; vertical-align:top; text-align:center; color:#ffffff; font-f=
+amily:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19p=
+x; font-size:14px; display:block; background:#0687c5; margin:0; padding:2px=
+ 0; border:1px solid #0687c5; " align=3D"center" bgcolor=3D"#304F6D" valign=
+=3D"top" ><div class=3D"mktEditable" id=3D"CTA1" ><a href=3D
+"http://mgo.avid.com/tCZZ0y0xWa08u00WFs0000y" target=3D"_blank"
+><span style=3D"font-size: 14px; color: #ffffff; text-decoration: none; fon=
+t-weight: normal; font-family: Helvetica, Arial, sans-serif;">REGISTER</spa=
+n></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">
+<td height=3D"30" style=3D"line-height: 1px; font-size: 1px; word-break: br=
+eak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-=
+collapse: collapse !important; vertical-align: top; text-align: left; color=
+: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: norm=
+al; margin: 0; padding: 0px;" align=3D"left" valign=3D"top"></td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:=
+auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top=
+; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-se=
+rif; font-weight:normal; line-height:19px; font-size:14px; background:#0000=
+00; margin:0; padding:0; " align=3D"left" bgcolor=3D"#000000" valign=3D"top=
+" ><table class=3D"row" style=3D"border-spacing:0; border-collapse:collapse=
+; vertical-align:top; text-align:left; width:100ay:block; padding:0px; " ><tr style=3D"vertical-align:top; text-align:left;=
+ padding:0; " align=3D"left" ><td class=3D"wrapper last" style=3D"word-brea=
+k:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border=
+-collapse:collapse !important; vertical-align:top; text-align:left; positio=
+n:relative; color:#000000; font-family:'Helvetica', 'Arial', sans-serif; fo=
+nt-weight:normal; line-height:19px; font-size:14px; margin:0; padding:10px =
+0px 0px; " align=3D"left" valign=3D"top" ><table class=3D"twelve columns" s=
+tyle=3D"border-spacing:0; border-collapse:collapse; vertical-align:top; tex=
+t-align:left; width:580px; padding:0; " ><tr style=3D"vertical-align:top; t=
+ext-align:left; padding:0; " align=3D"left" ><td style=3D"text-align:center=
+; word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:a=
+uto; border-collapse:collapse !important; vertical-align:top; color:#OOO; f=
+ont-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-heigh=
+t:19px; font-size:14px; margin:0; padding:0px 15px; " colspan=3D"2" align=
+=3D"center" valign=3D"top" ><div class=3D"mktEditable" id=3D"number" ><h4 s=
+tyle=3D"color: #fff; text-align: center; font-family: 'Helvetica', 'Arial',=
+ sans-serif; font-weight: normal; line-height: 1.3; word-break: normal; fon=
+t-size: 26px; margin: 0; padding: 0;" align=3D"center">AVID CONNECT <span s=
+tyle=3D"color: #6e2a8d;">2015</span></h4></div>
+</td>
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; visibility: hidden; width: 0px; co=
+lor: #000000; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: n=
+ormal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D=
+"left" valign=3D"top"></td>
+</tr>
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">
+<td height=3D"20" style=3D"line-height: 1px; font-size: 1px; word-break: br=
+eak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-=
+collapse: collapse !important; vertical-align: top; text-align: left; color=
+: #000000; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: norm=
+al; margin: 0; padding-top:8px;" colspan=3D"2" align=3D"left" valign=3D"top=
+">
+<hr style=3D"color: #6d6e71; height: 1px; background: #6d6e71; border: none=
+;"></td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td height=3D"41" align=3D"left" valign=3D"top" class=3D"six sub-column=
+s" style=3D"color:#fff; font-size:11px; word-break:break-word; -webkit-hyph=
+ens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !import=
+ant; vertical-align:top; text-align:left; min-width:0px; width:50mily:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px=
+; margin:0; padding:0px 0px 10px 15px; " ><div class=3D"mktEditable" id=3D"=
+copyright" >Copyright =C2=A9 2015 Avid Technology, Inc.</div>
+</td>
+<td class=3D"six sub-columns last" style=3D"word-break:break-word; -webkit-=
+hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !im=
+portant; vertical-align:top; text-align:left; min-width:0px; width:50or:#000000; font-family:'Helvetica', 'Arial', sans-serif; font-weight:norma=
+l; line-height:19px; font-size:14px; margin:0; padding:0px 15px 5px 0px; " =
+align=3D"left" valign=3D"top" ><div id=3D"social-icons" class=3D"mktEditabl=
+e" style=3D"text-align:right; " align=3D"right" ><a href=3D
+"http://mgo.avid.com/VaFv000Cx00Z000W8syZzW0" target=3D"_blank"
+><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/avid-blog.=
+png" alt=3D"Avid Blogs" border=3D"0" height=3D"25" width=3D"25"></a>&nbsp; =
+<a href=3D
+"http://mgo.avid.com/m000Ww00s0yC08ZaFxA0WZ0" target=3D"_blank"
+><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/avid-faceb=
+ook.png" alt=3D"Facebook" border=3D"0" height=3D"25" width=3D"25"></a>&nbsp=
+; <a href=3D
+"http://mgo.avid.com/MW0Z0y0aWxs0C00x80ZF0B0" target=3D"_blank"
+><img src=3D"http://connect.avid.com/rs/avidtechnologyinc/images/avid-twitt=
+er.png" alt=3D"Twitter" border=3D"0" height=3D"25" width=3D"25"></a></div>
+</td>
+<td class=3D"expander" style=3D"word-break: break-word; -webkit-hyphens: au=
+to; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important=
+; vertical-align: top; text-align: left; visibility: hidden; width: 0px; co=
+lor: #000000; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: n=
+ormal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D=
+"left" valign=3D"top"></td>
+</tr>
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t" ><td colspan=3D"3" height=3D"41" align=3D"left" valign=3D"top" class=3D"=
+six sub-columns" style=3D"color:#fff; font-size:11px; word-break:break-word=
+; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:co=
+llapse !important; vertical-align:top; text-align:left; min-width:0px; widt=
+h:50ne-height:19px; margin:0; padding:0px 0px 10px 15px; " ><div class=3D"mktEd=
+itable" id=3D"copyright2" >All rights reserved. Product features, specifica=
+tions, system requirements and availability are subject to change without n=
+otice. Avid, the Avid logo, and other Avid trademarks are either registered=
+ trademarks or trademarks of Avid Technology, Inc. or its subsidiaries in t=
+he United States and/or other countries. All other trademarks contained her=
+ein are the property of their respective owners. All prices are USMSRP for =
+the U.S. and Canada only and are subject to change without notice. Contact =
+your local Avid office or reseller for prices outside the U.S. and Canada.<=
+/div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+
+<IMG SRC=3D"http://mgo.avid.com/trk?t=3D1&mid=3DMTQ5LVdGWi02NzY6MzU3OjE0NDg=
+6MjE2NDowOjI1Ojc6NjgwNDU2MTpyZkBmcy5uZXQR=3D"0" ALT=3D"" />
+
+<p><font face=3D"Verdana" size=3D"1">This email was sent to rf@fs.net. If y=
+ou no longer wish to receive these emails you may <a href=3D
+"http://mgo.avid.com/u/P000W0CW8F0ZCs0x0ayZ0y0"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
+------=_Part_1883559200_1920973270.1421900498192--
+

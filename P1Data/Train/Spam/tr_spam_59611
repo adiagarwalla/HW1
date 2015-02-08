@@ -1,0 +1,550 @@
+From @..  Fri Jan 23 17:08:09 2015
+Return-Path: <@..>
+X-Original-To: nanamish@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A6CB0DE; Fri, 23 Jan 2015 17:08:09 +0000 (UTC)
+Received: from shopdirect.outbound.ed10.com (shopdirect.outbound.ed10.com [96.47.31.104])
+    by .. with SMTP id w62irs55jyazv54uq7p7xidbr2;
+    for nanamish@fs.net;
+    Fri, 23 Jan 2015 17:08:09 +0000 (UTC)
+    (envelope-from IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a@shopdirect.bounce.ed10.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=96.47.31.104;
+    envelope-from=<IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a@shopdirect.bounce.ed10.net>;
+    helo=shopdirect.outbound.ed10.com;
+    mechanism=a:shopdirect.outbound.ed10.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=96.47.31.104; client-port=27692;
+    syn-fingerprint=5840:53:1:52:M1380,N,N,S,N,W10 Linux 2.4 w/o timestamps;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    198.71.47.165 64.57.20.106 64.125.20.121 64.125.20.29 64.124.178.6;
+    network-path-time=1422032889
+DKIM-Signature: v=1; a=rsa-sha1; d=emails.very.co.uk; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@emails.very.co.uk; t=1422032873;
+	h=From;
+	bh=gdi/kqcMUj6qqZcxlfbG8Tf+UQk=;
+	b=FdhgZB3GkYacNYe9X9h/fbrwizFBdGYNqir9iyF2mPTQpIy4Wn2h0nvoBvAfXDZ9
+	dxFCDEZnEkIO82MRbJ12iR6e/oQWD7JXqHb9gorA5w20LI2GQVyIH+ISSikyKX7E
+	1PjzWzAxwdMWbgUVmSo9oS7i0wGh/XoFjznwa2Lmk7M=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2012-07; d=emails.very.co.uk;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer;
+	b=rUaJmJai3PVjntgkkqu0ag1SfTj2YtUZPI8mhOjTZqn0+EcpXV4iNbuQxHv4hPc5
+	Q/33zavUGbn0tCVFolh4jdH9LYeBBtbjwftL+UD9yNiUU90yzYgTezWpCVCTTH/8
+Received: from [127.0.0.1] ([127.0.0.1:45820])
+	by bm1-08.bo3.e-dialog.com (envelope-from <IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a@shopdirect.bounce.ed10.net>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 31/DD-17121-8EF72C45; Fri, 23 Jan 2015 12:07:52 -0500
+Date: Fri, 23 Jan 2015 12:07:52 -0500
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "Very.co.uk" <@..>
+Reply-To: "Very.co.uk" <@..>
+To: @..
+Subject: Looking for a bargain? Here's
+ something for the weekend!
+Message-Id: <21730-337-IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a@e-dialog.com>
+X-Mail-From: IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a@shopdirect.bounce.ed10.net
+X-Match: shopdirect.bounce.ed10.net
+X-RCPT-To: nanamish@fs.net
+X-Mailer: EDMAIL R6.00.02
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+If you are unable to see the message below, click here to view.
+http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/MEC29/4V/t?a=IQBRWZR&b=PSON4&c=KUASOOE&d=IURP4S&e=1&f=66de1559b64e30ae8974&g=AVEDESHO&h=23492553&i=2312015&j=AVEDESHO&k=AVEDESHO&l=AVEDESHO
+
+************************************************************ 
+
+Very
+
+************************************************************ 
+
+If you want to unsubscribe from marketing emails please click here.
+http://link.very.co.uk/u/IQBRWZR/FDTH4/DREJAY/R76XSM/ZV/XyNFRERFQ1JZUFRBRVMoMDAwM0IwRTY5MjNFREVCQzkxQjVGMzhDNjhBOTZFRjgpX18=/
+
+STAY SAFE, STAY SECURE: We never ask for your personal account details by email.
+
+Please allow up to 28 days to process any requests sent through these links. 
+Responses not sent through these links are in danger of being misdirected.
+
+Credit is provided, subject to status, by Shop Direct Finance Company Limited. Registered office: 
+Aintree Innovation Centre, Park Lane, Netherton, Bootle. L30 1SL. Authorised and regulated by the 
+Financial Services Authority in respect of arranging insurance products. Goods/services provided by 
+Shop Direct Home Shopping Limited. Registered office: First Floor, Skyways House, Speke Road, Speke, Liverpool, L70 1AB 
+
+Click here for a full explanation of our Privacy Policy.
+http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/SFM4P/4V/t?a=AVEDESHO&b=AVEDESHO&c=23492553&d=2312015&e=AVEDESHO&f=AVEDESHO&g=AVEDESHO
+
+[[IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<title>Looking for a bargain? Here's something for the weekend!</title>
+<style type="text/css">
+ 
+/* Email Client BUG Fixes */
+.ReadMsgBody, .ExternalClass { width: 100.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none;}
+body { margin: 0; padding: 0;}
+* { margin: 0; padding: 0;}
+table { border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+table td { border-collapse: collapse;}
+img { border: 0;}
+html { width: 100.applelinks a { color: #3b3b3b !important; text-decoration: none !important;}
+
+              
+               
+/* Clickable phone numbers */
+a[href^="tel"], a[href^="sms"] {  text-decoration: none; color: #000001; pointer-events: none; cursor: default;}
+.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] { text-decoration: default;  color: #000001 !important; pointer-events: auto;  cursor: default;}
+ 
+  
+/* Media Queries */ 
+@media screen {
+/* Embeded Fonts */
+}
+
+@media only screen and (max-width: 639px) {
+ 
+/* Default */
+* {line-height: normal!important;}
+body {width: auto!important;}
+body[yahoo] .nomob {display:none !important;}            
+body[yahoo] .nobg { background: none !important;}    
+body[yahoo] .nopadding { padding: 0 0 0 0 !important;}   
+body[yahoo] .noheight { height: auto !important;}   
+body[yahoo] .image_resize {width: 100body[yahoo] .alignmiddle { margin: 0 auto !important;}
+
+
+/* Show Mobile content only  */
+body[yahoo] .showMob {display: block!important; max-height: none !important; height: auto!important; 	width: 100
+/* Adjust table widths at smaller screen sizes */
+
+
+/* Adjust table heights at smaller screen sizes */
+body[yahoo] .table {width: 100body[yahoo] .table94per {width: 94body[yahoo] .table100per {width: 100
+/* Adjust font size */
+body[yahoo] .font13 { font-size: 13px!important; line-height: 18px !important;}
+body[yahoo] .font14 { font-size: 14px!important; line-height: 22px !important;}
+
+/* Header */ 
+body[yahoo] .ssl {text-align: center!important; font-size: 13px!important; line-height: 18px!important; color: #707070!important;}
+body[yahoo] .navLinkLeft { padding: 0 11px 0 0 !important;}
+body[yahoo] .navLinkCenter { padding: 0 14px 0 14px !important;}
+body[yahoo] .navLinkRight { padding: 0 0 0 11px !important;}
+body[yahoo] .navPadding { padding: 10px 0 10px 0px !important;}
+body[yahoo] .logo { width: 70px !important; height:auto !important;}
+body[yahoo] .socialPad { margin-top: 20px !important;}
+
+
+/* Body Content*/
+body[yahoo] .modPadding10px { padding: 0 10px 10px 10px !important;}
+body[yahoo] .modPadding16px { padding: 0 16px 10px 16px !important;}
+body[yahoo] .paddingB10px { padding: 0 0 10px 0 !important;}
+body[yahoo] .paddingB8px { padding: 0 0 8px 0 !important;}
+body[yahoo] .paddingT10px { padding: 28px 0 0 0 !important;}
+body[yahoo] .paddingT6px { padding:4px 0 0 0 !important;}
+body[yahoo] .paddingT8px { padding: 8px 0 0 0 !important;}
+body[yahoo] .paddingLR6px { padding: 0 0 0 0 !important;}
+body[yahoo] .paddingSingleMod { padding: 7px 7px 0 0 !important;}
+body[yahoo] .modPadding6px { padding: 0 6px 10px 6px !important;}
+
+body[yahoo] .height48 { padding-top: 14px !important;}
+body[yahoo] .floatRight { float:right!important;}
+body[yahoo] .floatLeft { float:left!important;}
+
+body[yahoo] .mod4Col { width: 48body[yahoo] .modCTA { display: block !important; width: 100
+
+
+/* Footer */
+body[yahoo] .footerCTA {display:block !important; background-color:#ffffff!important; text-decoration: none!important;  margin: 0 0 10px 0px!important; padding: 10px !important; font-size: 14px !important; line-height: 20px !important; border: 1px solid #e3e3e3 !important;}
+body[yahoo] .footerCTALast {display:block !important; background-color:#ffffff!important; text-decoration: none!important;  margin: 0 0 0px 0px!important; padding: 10px !important; font-size: 14px !important; line-height: 20px !important; border: 1px solid #e3e3e3 !important;}
+body[yahoo] .footerPadding {padding: 0 10px !important;}
+
+}
+
+
+</style>
+</head>
+ 
+<body style="width:100<!--  Master template  --><!--  Module Header  -->
+<table style="margin: 0px; width: 100<tr>
+<td class="nopadding" style="padding: 20px 0 0" align="center" valign="top">
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#ffffff">
+<tr>
+<td style="padding: 0 0 10px 0;">
+<table class="table" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#ffffff">
+<tr>
+<td style="padding: 15px 10px 0px;" align="left" valign="top"><!--  Module Super subject line  -->
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" width="370" align="left">
+<tr>
+<td class="ssl" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 12px; line-height: 16px; text-decoration: none; " align="left" valign="top"><b>Great savings on selected fashion and electricals</b></td>
+</tr>
+</table>
+<table class="table" border="0" cellspacing="0" cellpadding="0" width="300" align="right">
+<tr>
+<td class="ssl" style="font-family:Arial, Helvetica, sans-serif; color: #707070; font-size: 12px; line-height: 16px; text-decoration: none; " align="right" valign="top">Trouble viewing? <a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/NQVAR/4V/h?a=IQBRWZR&b=PSON4&c=KUASOOE&d=IURP4S&e=1&f=66de1559b64e30ae8974&g=AVEDESHO&h=23492553&i=2312015&j=AVEDESHO&k=AVEDESHO&l=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #707070; font-size: 12px; line-height: 16px; text-decoration: underline; " target="_blank"
+><b>click here</b></a>.</td>
+</tr>
+</table>
+<!--  End Module Super subject line  --></td>
+</tr>
+<tr>
+<td style="padding: 17px 10px 17px 10px;" align="left" valign="middle">
+<table border="0" cellspacing="0" cellpadding="0" align="left">
+<tr>
+<td align="left" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/VPWKH/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 20px; line-height: 26px; text-decoration: none;" target="_blank"
+><img class="logo" style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2014_Q2/SDG_2014_Q2_PROJ_Module_Consolidation/html/images/logo/very.png" alt="Very" width="84" height="84" /></a></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" align="right">
+<tr>
+<td class="noheight" height="84" align="right" valign="middle">
+<table class="socialPad" border="0" cellspacing="0" cellpadding="0" align="right">
+<tr class="nomob">
+<td style="padding: 0 0 6px 6px; " align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/1BE9C/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/blog.gif" alt="Blog" width="25" height="25" /></a></td>
+<td style="padding: 0 0 6px 6px;" align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/DMLHY/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/pinterest.gif" alt="Pin Interest" width="25" height="25" /></a></td>
+<td style="padding: 0 0 6px 6px; " align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/AAP1K/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/instagram.gif" alt="Instagram" width="25" height="25" /></a></td>
+<td style="padding: 0 0 6px 6px;" align="right" valign="top"></td>
+</tr>
+<tr>
+<td style="padding: 0 0 0px 6px;" align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/923UK/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/facebook.gif" alt="Facebook" width="25" height="25" /></a></td>
+<td style="padding: 0 0 0px 6px;" align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/5OJF4/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/twitter.gif" alt="Twitter" width="25" height="25" /></a></td>
+<td class="nomob" style="padding: 0 0 0px 6px;" align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/389J5/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/youtube.gif" alt="YouTube" width="25" height="25" /></a></td>
+<td class="nomob" style="padding: 0 0 0px 6px; " align="right" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/WUXDV/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" target="_blank"
+><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/shopdirectgroup/2013_Q1/SDG_RE_Email_Template_RollOut/Very/html/images/google_plus.gif" alt="Google +" width="25" height="25" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="nomob">
+<td class="navPadding" style="padding: 10px 10px;" align="center" valign="middle">
+<table border="0" cellspacing="0" cellpadding="0" width="100<tr>
+<td class="navLinkCenter" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/O92ZB/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Women</a></td>
+<td width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="navLinkCenter" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/LI0VT/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Men</a></td>
+<td width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="navLinkCenter" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/IK8O1/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Child&nbsp;&&nbsp;Baby</a></td>
+<td width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="navLinkCenter" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/60RNE/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Sports</a></td>
+<td class="nomob" width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="nomob" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/O92ZO/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Home&nbsp;&&nbsp;Furniture</a></td>
+<td class="nomob" width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="nomob" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/E5TBU/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Electricals</a></td>
+<td class="nomob" width="1" align="center" valign="top" bgcolor="#ffffff"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="1" height="31" /></td>
+<td class="nomob" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none; padding: 0 21px 0 21px;" align="right" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/WUXD4/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #000001; font-size: 13px; line-height: 17px; text-decoration: none;" target="_blank"
+>Offers</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--  End Module Header  --><!-- Body --><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/VPXHY/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="10width="710" height="154" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/YLY8S/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Women's value shop from only &pound;5" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_02.jpg" alt="Women's value shop from only &pound;5" 
+width="710" height="484" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/QJ7PM/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Editor's budget style picks" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_03.jpg" alt="Editor's budget style picks" width="710" height="100" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="margin: 0px; width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td class="modPadding10px" style="padding: 0 10px 10px;" align="center" valign="top">
+<table class="table" border="0" cellspacing="0" cellpadding="0" width="350" align="left">
+<tr>
+<td class="paddingB10px" align="left" valign="top">
+<table class="mod4Col" border="0" cellspacing="0" cellpadding="0" width="170" align="left">
+<tr>
+<td style="padding-bottom: 8px; " align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/60FZG/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Club L Asymmetric Floral Scuba Dress - &pound;30" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_04.jpg" alt="Club L Asymmetric Floral Scuba Dress 
+- &pound;30" width="170" height="318" /></a></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 12px; line-height: 18px; text-decoration: none; padding: 0 7px 0px" height="65" align="center" valign="top">Club L Floral Dress<br />&pound;30</td>
+</tr>
+<tr>
+<td style="padding: 8px 7px 0px;">
+<table class="table" border="0" cellspacing="0" cellpadding="0" align="center">
+</table>
+</td>
+</tr>
+</table>
+<table class="mod4Col" border="0" cellspacing="0" cellpadding="0" width="170" align="right">
+<tr>
+<td style="padding-bottom: 8px; " align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/7CN76/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Club L Bardot Dress - &pound;22" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_05.jpg" alt="Club L Bardot Dress - &pound;22" width="170" 
+height="319" /></a></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 12px; line-height: 18px; text-decoration: none; padding: 0 7px 0px" height="65" align="center" valign="top">Club L Bardot Dress<br />&pound;22</td>
+</tr>
+<tr>
+<td style="padding: 8px 7px 0px;">
+<table class="table" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td align="center" valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #666666; font-size: 11px; line-height: 14px; text-decoration: none; " align="left" valign="bottom"><br /></td>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #cb242b; font-size: 12px; line-height: 14px; text-decoration: none; " align="right" valign="bottom"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="table" border="0" cellspacing="0" cellpadding="0" width="350" align="right">
+<tr>
+<td align="left" valign="top">
+<table class="mod4Col" border="0" cellspacing="0" cellpadding="0" width="170" align="left">
+<tr>
+<td style="padding-bottom: 8px; " align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/TN4LR/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Club L Monochrome Floral Drop Waist Dress - &pound;30" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_06.jpg" alt="Club L Monochrome Floral Drop 
+Waist Dress - &pound;30" width="170" height="319" /></a></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 12px; line-height: 18px; text-decoration: none; padding: 0 7px 0px" height="65" align="center" valign="top">Club L Monochrome Dress<br />&pound;30</td>
+</tr>
+<tr>
+<td style="padding: 8px 7px 0px;"><br /></td>
+</tr>
+</table>
+<table class="mod4Col" border="0" cellspacing="0" cellpadding="0" width="170" align="right">
+<tr>
+<td style="padding-bottom: 8px; " align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/C7LXZ/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Club L Lace Panel Midi Dress - &pound;35" src="http://content.very.co.uk/assets/static/2015/01/emails/22-kvi-fashion/22-kvi-email_07.jpg" alt="Club L Lace Panel Midi Dress - &pound;35" 
+width="170" height="318" /></a></td>
+</tr>
+<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 12px; line-height: 18px; text-decoration: none; padding: 0 7px 0px" height="65" align="center" valign="top">Club L Lace Panel Dress<br />&pound;35</td>
+</tr>
+<tr>
+<td style="padding: 8px 7px 0px;">
+<table class="table" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td align="center" valign="top"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/RRMU7/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Save 30height="484" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/38SW7/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="From laptops to washing machines, we've lots of big brands at amazing prices!" src="http://content.very.co.uk/assets/static/2015/01/emails/23-elec-offer/v2s/23-elec-offer-mod01-v2s.jpg" 
+alt="From laptops to washing machines, we've lots of big brands at amazing prices!" width="710" height="606" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table style="width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+     
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#FFFFFF">
+<tr>
+<td style="padding: 0 8px 10px;" align="center" valign="top"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/C7LI8/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO"
+><img class="image_resize" style="display:block; border:none; outline:none; text-decoration:none;" title="Save up to 50width="710" height="125" /></a>
+          
+          
+          </td>
+</tr>
+</table>
+</td>
+</tr>
+</table> <!-- End Body --><!-- Module Footer -->
+<table style="margin: 0px; width: 100<tr>
+<td class="nopadding" style="padding: 0px 0 0" align="center" valign="top">
+<table class="table100per" border="0" cellspacing="0" cellpadding="0" width="730" bgcolor="#ffffff">
+<tr>
+<td style="padding: 0px 0px 0;" align="left" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="100<tr>
+<td class="footerPadding" style="padding: 0px 0 0 10px;" align="left" valign="top">
+<table class="table" style="border: 1px solid #e3e3e3;" border="0" cellspacing="0" cellpadding="0" width="230" align="left">
+<tr>
+<td class="nopadding" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none; padding:4px 0;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/C71TU/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none;" class="footerCTA" target="_blank"
+><b>Free Delivery with Collect+</b></a></td>
+</tr>
+</table>
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" align="left">
+<tr>
+<td width="10" align="center" valign="top"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="10" height="10" /></td>
+</tr>
+</table>
+<table class="table" style="border: 1px solid #e3e3e3;" border="0" cellspacing="0" cellpadding="0" width="230" align="left">
+<tr>
+<td class="nopadding" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none; padding:4px 0;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/WUXDX/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family: Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none;" class="footerCTA"
+><b>Shop New In</b></a></td>
+</tr>
+</table>
+<table class="nomob" border="0" cellspacing="0" cellpadding="0" align="left">
+<tr>
+<td width="10" align="center" valign="top"><img style="display:block; border:none; outline:none; text-decoration:none;" src="http://img.ed4.net/spacer1.gif" alt="" width="10" height="10" /></td>
+</tr>
+</table>
+<table class="table" style="border: 1px solid #e3e3e3;" border="0" cellspacing="0" cellpadding="0" width="230" align="left">
+<tr>
+<td class="nopadding" style="font-family:Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none; padding:4px 0;" align="center" valign="middle"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/1BE9Q/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family: Arial, Helvetica, sans-serif; color: #ec008c; font-size: 14px; line-height: 20px; text-decoration: none;" class="footerCTALast"
+><b>Account Sign In</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="100<tr>
+<td style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 11px; line-height: 16px; text-decoration: none; padding: 20px 23px;">This email was sent to you by <font class="applelinks">Very.co.uk</font>. To ensure delivery to your inbox (not bulk or junk folders), please add <a
+ href="mailto:info@emails.very.co.uk" style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 11px; line-height: 16px; text-decoration: underline; " target="_blank"
+><b>info@emails.very.co.uk</b></a> to your address book.<br /><br />If you want to unsubscribe from marketing emails please <a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/LI0VV/4V/h?a=http://link.very.co.uk/u/IQBRWZR/FDTH4/DREJAY/R76XSM/ZV/XyNFRERFQ1JZUFRBRVMoMDAwM0IwRTY5MjNFREVCQzkxQjVGMzhDNjhBOTZFRjgpX18=/&b=AVEDESHO&c=23492553&d=2312015&e=AVEDESHO&f=AVEDESHO&g=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 11px; line-height: 16px; text-decoration: underline; " target="_blank"
+>click here</a>.<br /><br />STAY SAFE, STAY SECURE: We never ask for your personal account details by email.<br /><br />*The offer cannot be used on Sale items or in conjunction with any other discount code.  Financial Services products and delivery services are excluded from the offer.  We reserve the right to amend or withdraw this offer. Further terms apply, visit www.very.co.uk/terms <br /><br />Credit is provided, subject to status, by Shop Direct Finance Company Limited. Aintree Innovation Centre, Park Lane, Netherton, Bootle. L30 1SL. Authorised and regulated by the Financial Conduct Authority. Goods/services provided by Shop Direct Home Shopping Limited. First Floor, Skyways House, Speke Road, Liverpool, L70 1AB.<br /><br 
+/><span style="color: #3b3b3b; font-size: 11px; font-family:Arial, Helvetica, sans-serif; line-height: 16px; text-decoration:underline;"><a
+ href="http://link.very.co.uk/r/IQBRWZR/FDTH4/DREJAY/R76XSM/60RN3/4V/h?a=AVEDESHO&b=23492553&c=2312015&d=AVEDESHO&e=AVEDESHO&f=AVEDESHO" style="font-family:Arial, Helvetica, sans-serif; color: #3b3b3b; font-size: 11px; line-height: 16px; text-decoration: underline; " target="_blank"
+><b>Click here</b></a> for a full explanation of our Privacy Policy.</span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer --><!-- End Master template  -->
+<img height="1" width="1" src="http://link.very.co.uk/o/IQBRWZR/FDTH4/DREJAY/R76XSM/XB17/MS"><img height="1" width="1" src="http://link.very.co.uk/o/IQBRWZR/FDTH4/DREJAY/R76XSM/XB17/52"><!-- [[IQBRWZR-PSON4-FDTH4-DREJAY-R76XSM-M-M2-20150123-615f8e07aab3ae1a]] --></body>
+</html>
+
+---_-_-_-_-_1234567890--
+

@@ -1,0 +1,1183 @@
+From @..  Thu Jan  8 14:25:09 2015
+Return-Path: <@..>
+X-Original-To: clarewarrington@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D1D4CDE; Thu,  8 Jan 2015 14:25:09 +0000 (UTC)
+Received: from dmx1.bfi0.com (dmailer931476.dmx1.bfi0.com [93.191.147.6])
+    by .. with SMTP id h8b537rmbgcf78z5yrv5xjk38e;
+    for clarewarrington@fs.net;
+    Thu, 08 Jan 2015 14:25:09 +0000 (UTC)
+    (envelope-from 1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa@email.uk.pampers.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=93.191.147.6;
+    envelope-from=<1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa@email.uk.pampers.com>;
+    helo=dmx1.bfi0.com; mechanism=include:dmx1.bfi0.com (ip4:93.191.146.0/23
+    -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=93.191.147.6; client-port=34983;
+    syn-fingerprint=4380:245:1:64:M1380,N,W0,N,N,T,S;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.36 66.192.243.226 74.202.254.242 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2
+    146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2 146.82.220.2;
+    network-path-time=1420727109
+DKIM-Signature: v=1; a=rsa-sha1; d=email.uk.pampers.com; s=ei; c=simple/simple;
+	q=dns/txt; i=@email.uk.pampers.com; t=1420727092;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=EMWI2j4oKbeRpvaNRJsSSo8NS6s=;
+	b=IFGytQgHgsZJIl5ZH0JQX8+9CV6ViUGnwlJVghbOrqUGPBGQl4y4DCZxhLGcwLWw
+	dIa27yv/dEfuyFdO+0JoklkCHEPg9MOQ5fF15/mhq9/QyWpv5bTGWx9giq8xtFM/
+	9LpkMseKqHBX/yY8hcf5pcz9LOTlXcfdz+spfRGQKMY=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ei; d=email.uk.pampers.com;
+	h=Received:Reply-To:Bounces_to:Message-ID:X-SS:X-BFI:Date:From:Subject:To:MIME-Version:Content-Type;
+	b=KuU81YB1Ba3GkofsL7iohanbSM70rwCKTge4ESM5zyfp4eGQPhTxEqpt1wEkYfRo
+	P9lIWFQXH1t3s7PYZDGL0/EjTdi95MczMQ0AsSOs3oaTU1ihbm8CRkpXZkpZhx+k
+	m0zeguckDeZ2tRioeS/Y2rRP05eKVoiIJDj/88VgNHM=
+Received: from [10.150.20.158] ([10.150.20.158:36407] helo=dlspvimailer08)
+	by dmx1.bfi0.com (envelope-from <1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa@email.uk.pampers.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 02/5F-10569-4339EA45; Thu, 08 Jan 2015 09:24:52 -0500
+Reply-To: =?utf-8?B?IlBhbXBlcnMi?= <@..>
+Bounces_to: bounce.1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa@email.uk.pampers.com
+Message-ID: <1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa.1566.5133.dlspvimailer08.DumpShot.2@email.uk.pampers.com>
+X-SS: 1-2-2480014-170176509
+X-BFI: 1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa
+Date: Thu, 08 Jan 2015 09:21:40 EST
+From: =?utf-8?B?UGFtcGVycw==?= <@..>
+Subject:  =?utf-8?B?RGV2ZWxvcGluZyBhIHNlbnNlIG9mIHNlbGY=?=
+To: @..
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="ABCD-1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa-EFGH"
+
+--ABCD-1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa-EFGH
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Developing a sense of self
+
+Hi Clare,
+
+Self-awareness is something that grows along with your child. You might s=
+uddenly notice that your toddler starts demanding clothes and toys that a=
+re "for boys" or "for girls, Mummy!"  Or your child may - at last - deman=
+d to use the potty. Changes like these may make you wonder what your chil=
+d is thinking. Listening to your little one's babble is a good way to fin=
+d out!
+
+Your child's developing sense of self
+
+Bedtime chatter
+
+Is your child ready for potty-training?
+
+
+Your child's developing sense of self
+
+At this age, your toddler is probably just as happy to play with dolls as=
+ with toy cars. Their gender awareness has yet to develop. But look more =
+closely over the next few months and you'll start to notice little habits=
+ and preferences creeping in.
+ Read More http://email.uk.pampers.com/1213bb5a8layfiusuaqjbhgyaaaaaawk73=
+azoo4zyueyaaaaa =
+
+___________________________________________________________________
+
+Bedtime chatter
+
+Children sometimes talk to themselves when they're alone in bed, or at ot=
+her times. These monologues, it turns out, may help them make sense of th=
+eir day and process new experiences. Sssh, don't interrupt your little on=
+e!
+ Read More http://email.uk.pampers.com/1334e9c15layfiusuaqjbhhaaaaaaawk73=
+azoo4zyueyaaaaa =
+
+___________________________________________________________________
+
+Is your child ready for potty-training?
+
+You've heard the stories: Potty-training is scary, it's hard, and it take=
+s forever. But with patience, the right attitude, and some helpful hints =
+and tips, your toddler can be potty-trained in no time at all.
+ Read More http://email.uk.pampers.com/1d05aa841layfiusuaqjbhhiaaaaaawk73=
+azoo4zyueyaaaaa =
+
+___________________________________________________________________      =
+                                            =
+
+Contact Us  : http://email.uk.pampers.com/152e02022layfiusuaqjbjwqaaaaaaw=
+k73azoo4zyueyaaaaa
+Login       : http://email.uk.pampers.com/1b1f41476layfiusuaqjbjwyaaaaaaw=
+k73azoo4zyueyaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExNDk5NDUzNDkwAXppcF9j=
+b2RlAQFfV0FWRV9JRF8BMTcwMTc2NTA5AV9QTElTVF9JRF8BMTIzMTU0NzEBZ19pbmRleAEBZ=
+W1haWxfYWRkcgFjbGFyZXdhcnJpbmd0b25AZnMubmV0AV9TQ0hEX1RNXwEyMDE1MDEwODA5Mj=
+A0MQFwcm9maWxlX2tleQEyMTA3ODQ5OTEUnsubscribe :http://email.uk.pampers.com/1a3813dcblayfiusuaqjbjxaaaaaaawk=
+73azoo4zyueyaaaaa                                                =
+
+
+To stop your subscription to Pampers newsletter and prevent further commu=
+nication from Pampers in any form, please click here http://email.uk.pamp=
+ers.com/14095099flayfiusuaqjbjxiaaaaaawk73azoo4zyueyaaaaa . =
+
+
+If you would like to update your profile or unsubscribe from only part of=
+ the Pampers program (Pampers email newsletter, Pampers email offers or p=
+ostal communication)click here. http://email.uk.pampers.com/1bed85322layf=
+iusuaqjbjxqaaaaaawk73azoo4zyueyaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExND=
+k5NDUzNDkwAXppcF9jb2RlAQFfV0FWRV9JRF8BMTcwMTc2NTA5AV9QTElTVF9JRF8BMTIzMTU=
+0NzEBZ19pbmRleAEBZW1haWxfYWRkcgFjbGFyZXdhcnJpbmd0b25AZnMubmV0AV9TQ0hEX1RN=
+XwEyMDE1MDEwODA5MjA0MQFwcm9maWxlX2tleQEyMTA3ODQ5OTEnoIQ .
+
+If you have a question for Pampers - you can get instant answers here htt=
+p://email.uk.pampers.com/15dcc6776layfiusuaqjbjxyaaaaaawk73azoo4zyueyaaaa=
+a .
+
+
+
+
+
+
+--ABCD-1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa-EFGH
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1" />
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>
+<title>Pampers</title>
+	=
+
+<!--[if !gte mso 9]><!-- -->
+<style>
+
+/* These styles will be ignored by Outlook 2007+ */
+/* IMPORTANT - ensure when sending this email that all links to images ar=
+e absolute references. */
+
+
+@font-face {
+    font-family: 'proxima-nova-soft';
+    src: url('https://www.pampers.com/webfonts/proximanovasoft-medium-web=
+font.eot');
+    src: url('https://www.pampers.com/webfonts/proximanovasoft-medium-web=
+font.eot?#iefix') format('embedded-opentype'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-medium-web=
+font.woff') format('woff'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-medium-web=
+font.ttf') format('truetype'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-medium-web=
+font.svg#proxima-nova-soft') format('svg');
+    font-weight: 500;
+    font-style: }
+
+@font-face {
+    font-family: 'proxima-nova-soft';
+    src: url('https://www.pampers.com/webfonts/proximanovasoft-semibold-w=
+ebfont.eot');
+    src: url('https://www.pampers.com/webfonts/proximanovasoft-semibold-w=
+ebfont.eot?#iefix') format('embedded-opentype'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-semibold-w=
+ebfont.woff') format('woff'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-semibold-w=
+ebfont.ttf') format('truetype'),
+         url('https://www.pampers.com/webfonts/proximanovasoft-semibold-w=
+ebfont.svg#proxima-nova-soft') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+html,body { font-family: "proxima-nova-soft", Arial; color: #8e8e90; back=
+ground-color: #c6cacb; font-weight: 500; }
+
+img { =
+
+	max-width: 100
+}
+=2Ecollapse {
+	margin:0;
+	padding:0;
+}
+body {
+	-webkit-font-smoothing:antialiased; =
+
+	-webkit-text-size-adjust:none; =
+
+	width: 100
+	height: 100	margin:0;
+	padding: 0;
+}
+
+ul{
+	list-style-type: none;
+	-webkit-margin-before:0;
+	-webkit-margin-after: 0;
+	-webkit-padding-start:0;
+	padding-left: 0;
+	margin-left: 0;
+}
+
+
+=2Edesktop-only{
+	display:block;
+}
+=2Emobile-only{
+	display: none;
+}
+
+
+
+a { color: #2BA6CB;}
+
+
+
+table.head-wrap { width: 100
+
+table.head-wrap img{
+	width:389px;
+	height: auto;
+}
+
+
+table.body-wrap { width: 100
+
+table.social-wrap { width: 100table.social-wrap .card{
+	margin-top: 0;
+}
+
+
+table.footer-wrap { width: 100ransparent;}
+table.footer-wrap .card{
+	margin: 0;
+}
+=2Efooter-button-container {
+	display: block;
+	border-radius: 8px;
+}
+=2Efooter-button-container ul{
+	min-height: 45px;
+	margin: 0 auto;
+	position: relative;
+	width: 408px;
+}
+=2Efooter-button-container ul li {
+	float: left;
+	padding-top: 3px;
+}
+=2Efooter-button-container ul li a font{
+	margin: 5px;
+	padding: 5px;
+	height: 18px;
+	width: 116px;
+	color: white;
+	border-radius: 7px;
+	background-color: #1ca196;
+	font-size: 12px;
+	font-weight: 600;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	=
+
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/images=
+/button_l.gif') no-repeat -8px top #1ca296;
+	=
+
+	background-size: 200px 100	box-shadow: 1px 1px 2px rgba(0,0,0,.3);
+	font-family: 'proxima-nova-soft', Arial;
+	font-weight: 500;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+ line-height: 1.1; margin-bottom:15px;
+	-webkit-margin-before:0;
+}
+
+h1 font, .card.social span.social-header font { font-weight:600; font-siz=
+e: 28px; color: #00a69d;font-family: 'proxima-nova-soft', Arial;}
+h2 font { font-weight:600; font-size: 14px;font-family: 'proxima-nova-sof=
+t', Arial;}
+
+=2Ecollapse { margin:0!important;}
+
+p font, a font { =
+
+	margin-bottom: 10px; =
+
+	font-weight: 500; =
+
+	font-size:14px; =
+
+	line-height:1.6;
+	font-family: 'proxima-nova-soft', Arial;
+}
+
+
+
+table.footer-wrap p font{
+	color: #343434;
+	font-size: 12px;
+}
+
+
+
+table.content-wrap{
+	width: 100}
+=2Einner-content {
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background: url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/ppi_bk.jpg') repeat-x top center;
+	=
+
+	display:block!important;
+	max-width:800px!important;
+	width: 100	overflow: hidden;
+}
+=2Econtainer {
+	display:block!important;
+	max-width:586px!important;
+	margin:0 auto!important;  /* makes it centered */
+	clear:both!important;
+}
+=2Econtainer.wide{
+	max-width:800px!important;
+        background-color: #c6cacb;
+}
+
+
+=2Ecard {
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background: url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/heart.gif') no-repeat 452px -40px;
+	background-color: #ffffff;
+	background-size: 165px auto;
+	max-width:566px;
+	margin:13px auto;
+	display:block; =
+
+	border-radius:10px;
+	padding:5px;
+	position: relative;
+}
+=2Ecard.intro, .card.footer{
+	background: white;
+}
+
+=2Ecard > table{
+	border:1px dashed #CCCCCC;
+	border-radius: 10px;
+	padding:10px 15px 15px 15px;
+}
+
+=2Ecard table { width: 100
+
+=2Eclear { display: block; clear: both; }
+
+
+=2Ecard p{
+	line-height: 18px;
+}
+=2Ecard a{
+	text-decoration: none;
+	color: #1ca196;
+	font-weight: 600;
+}
+
+=2Ecard.social {
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background: url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/card_gn_bg.jpg') top left no-repeat #1ca196;
+	=
+
+	background-size: 100}
+=2Ecard.social > table{
+	border: none;padding-top: 0;
+	padding-left:10px;
+	padding-right:10px;
+}
+=2Ecard.social span.social-header{
+	max-width: none;
+	display: block;
+	margin-bottom:5px;
+}
+=2Ecard.social span.social-header font{
+	color:white;
+	max-width:none;
+	font-weight: 600;
+}
+	=
+
+=2Ecard.social table.social-pills td{
+	border-radius: 10px;
+}
+
+=2Ecard.social table.social-pills td a.block-link{
+	padding: 5px;
+	height: 40px;
+	display: block;
+}
+=2Ecard.social table.social-pills td a.block-link font{
+	line-height: 1.3;
+}
+=2Ecard.social table.social-pills td a.block-link img{
+	margin-right: 10px;
+}
+
+a.social-screenshot-link{
+	display: inline-block;
+}
+img.social-screenshot{
+	width:265px;
+	border-radius: 10px 10px 0 0;
+}
+
+a.card-link{
+	display: inline-block;
+}
+a.card-link span{
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/images=
+/arrow.gif') no-repeat left top;
+	=
+
+	display:inline-block;
+	width:9px;
+	height:10px;
+	margin-right: 5px;
+}
+a.card-link.arrow-right span{
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+img.card-image{
+	float:right;
+	display: block;
+	margin:0px 0px 0px 10px;
+	border: 3px solid #ffe512;
+	border-radius: 5px;
+}
+
+=2Ecard h1{
+	max-width:400px;
+	display: inline-block;
+	float: left;
+}
+
+=2Ecategory-lozenge{
+	background-color: #1ca296;
+	border-radius: 5px;
+	padding: 6px 13px;
+	text-align: center;
+	display: inline-block;
+	max-width: 120px;
+	word-wrap: break-word;
+	word-break: break-word;
+	float: right;
+	position: absolute;
+	=
+
+	/* IMPORTANT - ensure this is an absolute reference pointing to your liv=
+e server URL */
+	background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/images=
+/button_l.gif') no-repeat -8px top #1ca296;
+	=
+
+	background-size: auto 100	box-shadow: 1px 1px 2px rgba(0,0,0,.3);
+
+
+
+}
+
+=2Elozenge-title font, .lozenge-sub font{
+	color: white;
+	font-family: 'proxima-nova-soft', Arial;
+}
+=2Elozenge-title font{
+	font-weight: 600;
+	font-size: 14px;
+}
+=2Elozenge-sub font{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+=2Ecard .category-lozenge{
+	right:-10px;
+}
+
+=2Ecard.intro .category-lozenge{
+	border-radius: 0 0 5px 5px;
+	text-align: right;
+	width: 110px;
+	top: 0;
+	right: 20px;
+	background-image: none;
+}
+
+=2Enocss-only{
+	display: none !important;
+}
+=2Ecard.footer td.card-content-column p > font{
+	font-size: 12px;
+}
+
+/* Phone styles */
+@media only screen and (max-width: 640px) {
+
+	/* note - the inclusion of body[yahoo] before each style is deliberate. =
+*/
+	/* It prevents yahoo mail from processing these mobile-only styles and b=
+reaking. */
+
+	html,body[yahoo]{
+		padding: 0 !important;
+		margin: 0 !important;
+		background-color: white !important;
+		font-family: Arial !important;
+	}
+	body[yahoo] .footer-button-container ul li a font, body[yahoo] h1 font, =
+body[yahoo] h2 font, body[yahoo] p font, body[yahoo] a font, body[yahoo] =
+=2Elozenge-title font, body[yahoo] .lozenge-sub font, body[yahoo] a.card-=
+link font{
+		=
+
+		font-family: Arial !important;
+	}
+	=
+
+	body[yahoo] .inner-content{
+		background: none !important;
+	}
+	=
+
+	body[yahoo] table.head-wrap{
+		padding-bottom: 20px !important;
+		=
+
+		/* IMPORTANT - ensure this is an absolute reference pointing to your li=
+ve server URL */
+		background: url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/imag=
+es/heart.gif') no-repeat 112		=
+
+		background-size: 42	}
+	body[yahoo] table.head-wrap img{
+		margin-left: -20		width:91	}
+
+	body[yahoo] .container, body[yahoo] .card {
+		border:none !important;
+		border-radius: 0 !important;
+		padding: 0 !important;
+		margin: 0 !important;
+		max-width: 640px !important;
+	}
+	body[yahoo] .card{
+		background: white !important;
+		width: 100		max-width: none;
+	}
+	=
+
+	body[yahoo] table.body-wrap div.card:not(:first-child) {
+		margin-top: 25px !important;
+	} =
+
+	=
+
+	=
+
+	body[yahoo] .card > table{
+		border:none !important;
+		border-radius: 0 !important;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+	body[yahoo] img.card-image{
+		float:left !important;
+		width: 98		height: auto !important;
+		margin: 0 !important;
+		=
+
+	}
+
+	body[yahoo] .card h1{
+		padding: 0 20px !important;
+	}
+	body[yahoo] .card h2, body[yahoo] .card p, body[yahoo] .card ul{
+		padding: 0 10px !important;
+	}
+	body[yahoo] .card-content-column{
+		padding:0 10px !important;
+	}
+	=
+
+	=
+
+	body[yahoo] .category-lozenge{
+		display: none !important;
+	}
+	=
+
+	body[yahoo] p .card-link{
+		margin-top:20px !important;
+	}
+	body[yahoo] li:first-child a.card-link {
+		margin-top:30px !important;
+	}
+
+	body[yahoo] a.card-link{
+		padding:6px 12px !important;
+		display: block !important;
+		height:auto !important;
+		=
+
+		/* IMPORTANT - ensure this is an absolute reference pointing to your li=
+ve server URL */
+		background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/button_l.gif') no-repeat left top #1ca196 !important;
+		=
+
+		background-size: auto 36px !important;
+		border-radius: 5px !important;
+		margin-bottom: 6px !important;
+		max-width: none !important;
+	}
+	=
+
+	body[yahoo] a.card-link font{
+		display: inline-block !important;
+		color: white !important;
+		font-weight: 600 !important;
+		width: 90		max-width: none !important;
+		letter-spacing: -1px !important;
+		margin-bottom: 0 !important;
+		=
+
+	}
+	body[yahoo] a.card-link span{
+		width:13px !important;
+		height:13px !important;
+		float: right !important;
+		margin:5px 0 0 0 !important;
+	}
+	body[yahoo] a.card-link.arrow-down span{
+	=
+
+		/* IMPORTANT - ensure this is an absolute reference pointing to your li=
+ve server URL */
+		background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/arrow_white_d.gif') no-repeat top left !important; /* down arrow */
+		=
+
+		background-size: 13px auto !important;
+	}
+	body[yahoo] a.card-link.arrow-right span{
+	=
+
+		/* IMPORTANT - ensure this is an absolute reference pointing to your li=
+ve server URL */
+		background:url('http://media25.pampers.co.uk/en_GB/nlv5images/LSP/image=
+s/arrow_white_r.gif') no-repeat top left !important; /* right arrow */
+		=
+
+		background-size: 13px auto !important;
+	}
+	=
+
+	/* adjust these styles to fit text on to one line for each button */
+	body[yahoo] a.card-link.button1 font{
+		font-size: 14px !important;
+		line-height:1.6 !important;
+	}
+	body[yahoo] a.card-link.button2 font{
+		font-size: 15px !important;
+		line-height:1.6 !important;
+	}
+	body[yahoo] a.card-link.button3 font{
+		font-size: 14px !important;
+		line-height:1.6 !important;
+	}
+	body[yahoo] a.card-link.button4 font{
+		font-size: 11px !important;
+		line-height:2.1 !important;
+	}
+	body[yahoo] a.card-link.button5 font{
+		font-size: 15px !important;
+		line-height:1.6 !important;
+	}
+	body[yahoo] a.card-link.button6 font{
+		font-size: 15px !important;
+		line-height:1.6 !important;
+	}
+	/* --- */
+	=
+
+	=
+
+	body[yahoo] .card.footer{
+		background-color:#CCCCCC !important;
+	}
+	=
+
+	=
+
+	body[yahoo] .card.footer > table{
+		border-top:solid 1px #343434 !important;
+		padding-top: 20px !important;
+	}
+	body[yahoo] .card.footer > table p font{
+		font-size: 13px !important;
+	}
+	body[yahoo] .card.footer > table p {
+	=
+
+		padding-bottom: 10px !important;
+	}
+
+	body[yahoo] .desktop-only{
+		display:none !important;
+	}
+	body[yahoo] .mobile-only{
+		display: inherit !important;
+	}
+	=
+
+	=
+
+	body[yahoo] h1 font { font-weight:600; font-size: 19px; display: inline-=
+block; letter-spacing: -1px;}
+	body[yahoo] .card.intro h1 font {font-size: 25px; letter-spacing: 0px;}
+	body[yahoo] .card.intro h2 font { font-weight:600; font-size: 17px; marg=
+in-top: 0px; margin-bottom: 0px; display: inline-block;}
+	body[yahoo] .card.intro p{
+		-webkit-margin-after: 0 !important;
+		margin-bottom: 0 !important;
+		margin-top: 22px !important;
+	}
+	body[yahoo] .card.intro h1, body[yahoo] .card.intro h2{
+		margin-bottom: 5px !important;
+	}
+	=
+
+	body[yahoo] h2 font { font-weight:600; font-size: 15px; margin-top: 20px=
+; display: inline-block;}
+
+	body[yahoo] p font, body[yahoo] a font { =
+
+		font-size:14px; =
+
+		line-height:1.3;
+	}
+
+	body[yahoo] table.body-wrap div.card:not(:first-child) p{
+		margin-bottom: 0 !important;
+		margin-top: 0 !important;
+	}
+
+}
+/* android mail client only */
+@media only screen and (max-width: 300px) and (orientation: portrait) {
+	=
+
+	body[yahoo] .card h1, body[yahoo] .card h2, body[yahoo] .card p, body[ya=
+hoo] .card ul, body[yahoo] .card-content-column {
+		padding: 0 !important;
+	}
+	body[yahoo] .card.footer p{
+		padding: 0 10px !important;
+	}
+	body[yahoo] .card-content-column > img{
+		max-width: 280px !important;
+	}
+	body[yahoo] img.card-image{
+		width: 98	}
+}
+
+/* android mail client only - landscape */
+@media only screen and (min-width: 321px) and (max-width : 640px) and (or=
+ientation: landscape)  {
+
+	/* adjust these styles to (typically) increase the text size for landsca=
+pe android phones */
+	body[yahoo] a.card-link.button1 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+	body[yahoo] a.card-link.button2 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+	body[yahoo] a.card-link.button3 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+	body[yahoo] a.card-link.button4 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+	body[yahoo] a.card-link.button5 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+	body[yahoo] a.card-link.button6 font{
+		font-size: 18px !important;
+		line-height:1.4 !important;
+	}
+}
+</style>
+<!--<![endif]-->
+<!--[endif]--> =
+
+<!--[if gt mso 9]><!-- -->
+<style>
+=2Ecard.social span.social-header{
+	margin-bottom:15px;
+}
+</style>
+
+<!--<![endif]-->
+<!--[endif]--> =
+
+</head>
+ =
+
+<body bgcolor=3D"#c6cacb" yahoo=3D"fix">
+<table border=3D"0" class=3D"content-wrap" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"800" align=3D"center">
+		<tr>
+			<td align=3D"center" valign=3D"top" class=3D"container wide">
+				<div class=3D"inner-content">
+					<!-- HEADER -->
+					<table border=3D"0" class=3D"head-wrap" cellpadding=3D"0" cellspacin=
+g=3D"0" align=3D"center" width=3D"640">
+						<tr>
+							<td align=3D"left">
+								<!-- IMPORTANT - ensure this is an absolute reference pointing to=
+ your live server URL -->
+								<img src=3D"http://media25.pampers.co.uk/en_GB/nlv5images/LSP/ima=
+ges/logo_multi.png" alt=3D"Pampers Love Sleep &amp; Play" width=3D"50lign=3D"left"/>
+							</td>
+						</tr>
+					</table>
+<table border=3D"0" class=3D"body-wrap" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center" width=3D"640">
+						<tr>
+							<td class=3D"container">
+<div class=3D"card intro">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#ffffff">
+										<tr>
+											<td align=3D"left">
+												<h1><font face=3D"Arial" size=3D"6" color=3D"#00a69d">Hi Clar=
+e,</font></h1>
+												<span class=3D"category-lozenge">
+													<span class=3D"lozenge-sub"><font face=3D"Arial" size=3D"2" =
+color=3D"#000000">Developing a sense of self</font></span>
+													=
+
+											</td>
+										</tr>
+										<tr>
+											<td colspan=3D"2" class=3D"card-content-column" align=3D"left"=
+>
+												<img src=3D"http://media251.pampers.co.uk/en_GB/nlv5images/LS=
+P/images/post_m29_intro.jpg" width=3D"260" height=3D"176" border=3D"0" al=
+ign=3D"right" class=3D"card-image desktop-only" alt=3D"Your child's sense=
+ of self" />
+												<p><font face=3D"Arial" size=3D"3" color=3D"#757575">Self-awa=
+reness is something that grows along with your child. You might suddenly =
+notice that your toddler starts demanding clothes and toys that are "for =
+boys" or "for girls, Mummy!"  Or your child may - at last - demand to use=
+ the potty. Changes like these may make you wonder what your child is thi=
+nking. Listening to your little one's babble is a good way to find out!</=
+font></p>
+												=
+
+												<ul>
+													<li><a href=3D"#card1" class=3D"card-link button1 arrow-down=
+"><span></span><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Your chi=
+ld's developing sense of self</font></a></li>
+													<li><a href=3D"#card2" class=3D"card-link button2 arrow-down=
+"><span></span><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Bedtime =
+chatter</font></a></li>
+													<li><a href=3D"#card3" class=3D"card-link button3 arrow-down=
+"><span></span><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Is your =
+child ready for potty-training?</font></a></li>				=
+
+												</ul>
+											=
+
+											</td>
+										</tr>
+									</table>
+								</div>
+		=
+
+		<div class=3D"card" id=3D"card1">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffff=
+ff" width=3D"100		<tr>
+			<td align=3D"left">
+			<h1><font face=3D"Arial" size=3D"6" color=3D"#00a69d"><a name=3D"card1=
+">Your child's developing sense of self</a></font></h1>
+												<span class=3D"category-lozenge">
+													<a href=3D"http://email.uk.pampers.com/1e52f2284layfiusiaqjb=
+hhqaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank" class=3D"lozenge-title"><=
+font face=3D"Arial" size=3D"2" color=3D"#000000">Development</font></a>
+												</span>
+			</td>
+		</tr>
+		<tr>
+											<td colspan=3D"2" class=3D"card-content-column" align=3D"left"=
+>
+												<img src=3D"http://media252.pampers.co.uk/en_GB/nlv5images/LS=
+P/images/post_m29_t1.jpg" width=3D"260" height=3D"176"  border=3D"0" alig=
+n=3D"right" class=3D"card-image" alt=3D"Your child's developing sense of =
+self" />
+											=
+
+												<p><font face=3D"Arial" size=3D"3" color=3D"#757575">At this =
+age, your toddler is probably just as happy to play with dolls as with to=
+y cars. Their gender awareness has yet to develop. But look more closely =
+over the next few months and you'll start to notice little habits and pre=
+ferences creeping in.</font></p>
+												<p><a href=3D"http://email.uk.pampers.com/1063b16d0layfiusiaq=
+jbhhyaaaaaawk73azoo4zyueyaaaaa" class=3D"card-link button4 arrow-right" t=
+arget=3D"_blank"><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Read m=
+ore</font><span></span></a></p>						=
+
+											</td>
+										</tr>
+										<tr class=3D"nocss-only">
+											<td class=3D"nocss-only">
+												&nbsp;
+											</td>
+										</tr>
+	</table>
+
+</div>
+		=
+
+		<div class=3D"card" id=3D"card2">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffff=
+ff" width=3D"100		<tr>
+			<td align=3D"left">
+			<h1><font face=3D"Arial" size=3D"6" color=3D"#00a69d"><a name=3D"card2=
+">Bedtime chatter</a></font></h1>
+												<span class=3D"category-lozenge">
+													<a href=3D"http://email.uk.pampers.com/1ce84dc9elayfiusiaqjb=
+hiaaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank" class=3D"lozenge-title"><=
+font face=3D"Arial" size=3D"2" color=3D"#000000">Development</font></a>
+												</span>
+			</td>
+		</tr>
+		<tr>
+											<td colspan=3D"2" class=3D"card-content-column" align=3D"left"=
+>
+												<img src=3D"http://media252.pampers.co.uk/en_GB/nlv5images/LS=
+P/images/post_m29_t2.jpg" width=3D"260" height=3D"176"  border=3D"0" alig=
+n=3D"right" class=3D"card-image" alt=3D"Bedtime chatter" />
+											=
+
+												<p><font face=3D"Arial" size=3D"3" color=3D"#757575">Children=
+ sometimes talk to themselves when they're alone in bed, or at other time=
+s. These monologues, it turns out, may help them make sense of their day =
+and process new experiences. Sssh, don't interrupt your little one!</font=
+></p>
+												<p><a href=3D"http://email.uk.pampers.com/12d90e8calayfiusiaq=
+jbhiiaaaaaawk73azoo4zyueyaaaaa" class=3D"card-link button4 arrow-right" t=
+arget=3D"_blank"><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Read m=
+ore</font><span></span></a></p>						=
+
+											</td>
+										</tr>
+										<tr class=3D"nocss-only">
+											<td class=3D"nocss-only">
+												&nbsp;
+											</td>
+										</tr>
+	</table>
+
+</div>
+		=
+
+		<div class=3D"card" id=3D"card3">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffff=
+ff" width=3D"100		<tr>
+			<td align=3D"left">
+			<h1><font face=3D"Arial" size=3D"6" color=3D"#00a69d"><a name=3D"card3=
+">Is your child ready for potty-training?</a></font></h1>
+												<span class=3D"category-lozenge">
+													<a href=3D"http://email.uk.pampers.com/1d3ddb277layfiusiaqjb=
+hiqaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank" class=3D"lozenge-title"><=
+font face=3D"Arial" size=3D"2" color=3D"#000000">Potty training</font></a=
+>
+												</span>
+			</td>
+		</tr>
+		<tr>
+											<td colspan=3D"2" class=3D"card-content-column" align=3D"left"=
+>
+												<img src=3D"http://media252.pampers.co.uk/en_GB/nlv5images/LS=
+P/images/post_m29_t3.jpg" width=3D"260" height=3D"176"  border=3D"0" alig=
+n=3D"right" class=3D"card-image" alt=3D"Is your child ready for potty-tra=
+ining?" />
+											=
+
+												<p><font face=3D"Arial" size=3D"3" color=3D"#757575">You've h=
+eard the stories: Potty-training is scary, it's hard, and it takes foreve=
+r. But with patience, the right attitude, and some helpful hints and tips=
+, your toddler can be potty-trained in no time at all.</font></p>
+												<p><a href=3D"http://email.uk.pampers.com/130c98623layfiusiaq=
+jbhiyaaaaaawk73azoo4zyueyaaaaa" class=3D"card-link button4 arrow-right" t=
+arget=3D"_blank"><font face=3D"Arial" size=3D"3" color=3D"#00a69d">Read m=
+ore</font><span></span></a></p>						=
+
+											</td>
+										</tr>
+										<tr class=3D"nocss-only">
+											<td class=3D"nocss-only">
+												&nbsp;
+											</td>
+										</tr>
+	</table>
+
+</div>
+<div class=3D"card social desktop-only">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100										<tr>
+											<td align=3D"left">
+												<span class=3D"social-header"><font face=3D"Arial" size=3D"6"=
+ color=3D"#000000">Visit us on Youtube and Facebook</font></span>
+											</td>
+										</tr>
+										<tr>
+											<td align=3D"center">
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"social-pills">
+													<tr>
+														<td width=3D"265" bgcolor=3D"white" align=3D"left">
+															<a href=3D"http://email.uk.pampers.com/1af2a60a9layfiusiaq=
+jbjvqaaaaaawk73azoo4zyueyaaaaa" title=3D"Link to Pampers on YouTube" clas=
+s=3D"social-screenshot-link" target=3D"_blank"><img src=3D"http://media25=
+=2Epampers.co.uk/en_GB/nlv5images/LSP/images/social_yt_image.jpg" width=3D=
+"265" height=3D"128"  border=3D"0" alt=3D"Youtube screenshot" class=3D"so=
+cial-screenshot" /></a><!-- IMPORTANT - ensure this is an absolute refere=
+nce pointing to your live server URL -->
+															<a href=3D"http://email.uk.pampers.com/14c3e54fdlayfiusiaq=
+jbjvyaaaaaawk73azoo4zyueyaaaaa" class=3D"block-link" title=3D"Link to Pam=
+pers on YouTube" target=3D"_blank"><img src=3D"http://media25.pampers.co.=
+uk/en_GB/nlv5images/LSP/images/social_yt.gif" width=3D"80" height=3D"40" =
+border=3D"0" align=3D"left" alt=3D"Pampers on Youtube" /><font face=3D"Ar=
+ial" size=3D"3" color=3D"#757575">Watch videos about babycare and parenti=
+ng</font></a><!-- IMPORTANT - ensure this is an absolute reference pointi=
+ng to your live server URL -->
+														</td>
+														<td width=3D"16">
+															&nbsp;
+														</td>
+														<td width=3D"265" bgcolor=3D"white" align=3D"left">
+															<a href=3D"http://email.uk.pampers.com/184819eb3layfiusiaq=
+jbjwaaaaaaawk73azoo4zyueyaaaaa" title=3D"Link to Pampers on Facebook" cla=
+ss=3D"social-screenshot-link" target=3D"_blank"><img src=3D"http://media2=
+5.pampers.co.uk/en_GB/nlv5images/LSP/images/social_fb_image.jpg" width=3D=
+"265" height=3D"128" border=3D"0" alt=3D"Facebook screenshot" class=3D"so=
+cial-screenshot" /></a><!-- IMPORTANT - ensure this is an absolute refere=
+nce pointing to your live server URL -->
+															<a href=3D"http://email.uk.pampers.com/16795aae7layfiusiaq=
+jbjwiaaaaaawk73azoo4zyueyaaaaa" class=3D"block-link" title=3D"Link to Pam=
+pers on Facebook" target=3D"_blank"><img src=3D"http://media25.pampers.co=
+=2Euk/en_GB/nlv5images/LSP/images/social_fb.gif" width=3D"42"  height=3D"=
+40" border=3D"0" align=3D"left" alt=3D"Pampers on Facebook" /><font face=3D=
+"Arial" size=3D"3" color=3D"#757575">Join our community of mums</font></a=
+><!-- IMPORTANT - ensure this is an absolute reference pointing to your l=
+ive server URL -->
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</div><!-- /social card -->
+	<!-- FOOTER -->
+								<div class=3D"card footer">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#ffffff" class=3D"footer-wrap">
+										<tr class=3D"desktop-only">
+											<td class=3D"footer-button-container" bgcolor=3D"#e5f7f7" alig=
+n=3D"left">
+												<ul>
+													<li><a href=3D"http://email.uk.pampers.com/15e4b7d40layfiusi=
+aqjbjyaaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank"><font face=3D"Arial" =
+size=3D"2" color=3D"#757575">Contact Us</font></a></li>
+													<li><a href=3D"http://email.uk.pampers.com/1bd5f4914layfiusi=
+aqjbjyiaaaaaawk73azoo4zyueyaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExNDk5ND=
+UzNDkwAXppcF9jb2RlAQFfV0FWRV9JRF8BMTcwMTc2NTA5AV9QTElTVF9JRF8BMTIzMTU0NzE=
+BZ19pbmRleAEBZW1haWxfYWRkcgFjbGFyZXdhcnJpbmd0b25AZnMubmV0AV9TQ0hEX1RNXwEy=
+MDE1MDEwODA5MjA0MQFwcm9maWxlX2tleQEyMTA3ODQ5OTE" target=3D"_blank"><font face=3D"Arial" size=3D"2" color=3D"#757575">Log=
+in</font></a></li>
+													<li><a href=3D"http://email.uk.pampers.com/1431213a9layfiusi=
+aqjbjyqaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank"><font face=3D"Arial" =
+size=3D"2" color=3D"#757575">Unsubscribe</font></a></li>
+												</ul>
+											</td>
+										</tr>
+										<tr>
+											<td class=3D"card-content-column" align=3D"left">
+												<p><font face=3D"Arial" size=3D"2" color=3D"#757575">To stop =
+your subscription to Pampers newsletter and prevent further communication=
+ from Pampers in any form, please <a href=3D"http://email.uk.pampers.com/=
+1a00627fdlayfiusiaqjbjyyaaaaaawk73azoo4zyueyaaaaa" target=3D"_blank">clic=
+k here</a>.</font></p>
+												<p><font face=3D"Arial" size=3D"2" color=3D"#757575">If you w=
+ould like to update your profile or unsubscribe from only part of the Pam=
+pers program (Pampers email newsletter, Pampers email offers or postal co=
+mmunication) <a href=3D"http://email.uk.pampers.com/1055ccc55layfiusiaqjb=
+jzaaaaaaawk73azoo4zyueyaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExNDk5NDUzND=
+kwAXppcF9jb2RlAQFfV0FWRV9JRF8BMTcwMTc2NTA5AV9QTElTVF9JRF8BMTIzMTU0NzEBZ19=
+pbmRleAEBZW1haWxfYWRkcgFjbGFyZXdhcnJpbmd0b25AZnMubmV0AV9TQ0hEX1RNXwEyMDE1=
+MDEwODA5MjA0MQFwcm9maWxlX2tleQEyMTA3ODQ5OTErget=3D"_blank">click here</a>.</font></p>
+												<p><font face=3D"Arial" size=3D"2" color=3D"#757575">If you h=
+ave a question for Pampers - you can get instant answers <a href=3D"http:=
+//email.uk.pampers.com/1e648f801layfiusiaqjbjziaaaaaawk73azoo4zyueyaaaaa"=
+ target=3D"_blank">here</a>.</font></p>
+											</td>
+										</tr>
+									</table>
+								</div><!-- /content -->
+
+</td>
+							<td></td>
+						</tr>
+					</table><!-- /BODY -->
+</div>
+			</td>
+		</tr>
+	</table><!-- /CONTENT -->
+
+<IMG SRC=3D"http://email.uk.pampers.com/1e7f2dd63layfir2iact6aliaaaaaawk7=
+3azoo4zyueyaaaaa"></body>
+</html>
+--ABCD-1cf9301a6layfivciact6aliaaaaaawk73azoo4zyueyaaaaa-EFGH--
+

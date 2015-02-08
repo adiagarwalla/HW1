@@ -1,0 +1,113 @@
+From @..  Tue Jan 20 02:31:41 2015
+Return-Path: <@..>
+X-Original-To: danielmarkovitch@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 7A096DE; Tue, 20 Jan 2015 02:31:41 +0000 (UTC)
+Received: from mx20.techonlinecorp.com (mx20.techonlinecorp.com [66.212.230.184])
+    by .. with SMTP id vth5igvbvunq2ukthiggn4et9a;
+    for danielmarkovitch@fs.net;
+    Tue, 20 Jan 2015 02:31:41 +0000 (UTC)
+    (envelope-from bounce@mail2.carnivalcasino.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.212.230.184; envelope-from=<bounce@mail2.carnivalcasino.com>;
+    helo=mx20.techonlinecorp.com; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.212.230.184; client-port=18985;
+    syn-fingerprint=49640:48:1:52:M1380,N,W0,N,N,S Solaris 10 (beta);
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 129.250.8.193 129.250.2.44 129.250.4.165 129.250.2.148
+    129.250.4.69 128.241.2.82 5.62.85.32 5.62.85.24 66.212.224.224
+    66.212.224.154; network-path-time=1421721101
+Received: from mx20.techonlinecorp.com (localhost [127.0.0.1])
+	by mx20.techonlinecorp.com (Postfix) with ESMTP id CE523498B2C2
+	for <danielmarkovitch@fs.net>; Mon, 19 Jan 2015 22:31:24 -0400 (GMT+4)
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=carnivalcasino.com; h=date:from
+	:to:subject:mime-version:content-type:content-transfer-encoding:
+	message-id; q=dns; s=public; b=2QsX7vxJW4WQAxgiqDP6YiKNVKwVGaqJ8
+	hUAGf8lygtOmuQw4yHHvTUE7prShK29jm0byMCOt2A5TqJK/bqdXg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=carnivalcasino.com; h=
+	date:from:to:subject:mime-version:content-type
+	:content-transfer-encoding:message-id; s=public; bh=GOvHaw+nbFSx
+	f7UKEY0mhahrzWHX46B3jkWxB2EqJiM=; b=BuAvFWyVDpq6pHzLZuphouU9CSxi
+	yycRjV/KDKkA4wo2ZPcIpaNScDq8ZWveQl63t+N5rVbELzBbTOOBa15dDg==
+Received: from backup.playtech.internal (unknown [192.168.165.42])
+	by mx20.techonlinecorp.com (Postfix) with SMTP id 91E7C6E59C21
+	for <danielmarkovitch@fs.net>; Mon, 19 Jan 2015 22:31:24 -0400 (GMT+4)
+Date: Tue, 20 Jan 2015 02:31:24 +0000
+From: "Carnival casino" <@..>
+To: "Daniel Markovitch" <@..>
+X-Code: 10672190141
+Subject:You forgot something
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="PMC------919dfaa7cbedbf7498f5d18c6230ac1c"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20150120023124.91E7C6E59C21@mx20.techonlinecorp.com>
+
+Your e-mail reader doesn't support MIME encoding!
+
+
+--PMC------919dfaa7cbedbf7498f5d18c6230ac1c
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25h
+bC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KPGhl
+YWQ+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsg
+Y2hhcnNldD11dGYtOCIgLz4NCjx0aXRsZT5IYXZlIGEgQm9udXMgVGltZSE8L3RpdGxlPg0KPC9o
+ZWFkPg0KPGJvZHkgc3R5bGU9ImZvbnQtc2l6ZToxMXB4O2NvbG9yOiMwMDAwMDA7YmFja2dyb3Vu
+ZC1jb2xvcjo7Ij4NCjxmb250IGZhY2U9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiPg0K
+PGNlbnRlcj4NCjxkaXYgc3R5bGU9IndpZHRoOjUwMHB4O2JhY2tncm91bmQtY29sb3I6I0VCRUJF
+Qjtmb250LXNpemU6MTFweDtjb2xvcjojNkQ2RDZEOyI+SWYgeW91IGFyZSB1bmFibGUgdG8gc2Vl
+IHRoaXMgZW1haWwsIHBsZWFzZSA8YSBocmVmPSJodHRwOi8vd3d3LmNhcm5pdmFsY2FzaW5vLmNv
+bS9wcm9tb3Rpb25zL0VOLzc0OC9pbmRleC5odG1sIiB0aXRsZT0iTFBTIDQgVGltZSB0byBQbGF5
+Ij5jbGljayBoZXJlPC9hPjwvZGl2Pg0KPGRpdj48YSBocmVmPSJodHRwOi8vYmFubmVyLmNhcm5p
+dmFsY2FzaW5vLmNvbS9jZ2ktYmluL1NldHVwQ2FzaW5vLmV4ZT9tZW1iZXI9RFByb21vJnByb2Zp
+bGU9ZHBlbiI+PGltZyBzcmM9Imh0dHA6Ly93d3cuY2Fybml2YWxjYXNpbm8uY29tL3Byb21vdGlv
+bnMvRU4vNzQ4L2hlYWRlci5naWYiIGJvcmRlcj0iMCI+PC9hPjwvZGl2PiANCjxkaXY+PGEgaHJl
+Zj0iaHR0cDovL2Jhbm5lci5jYXJuaXZhbGNhc2luby5jb20vY2dpLWJpbi9TZXR1cENhc2luby5l
+eGU/bWVtYmVyPURQcm9tbyZwcm9maWxlPWRwZW4iIHRpdGxlPSJIYXZlIGEgQm9udXMgVGltZSEi
+PjxpbWcgc3JjPSJodHRwOi8vd3d3LmNhcm5pdmFsY2FzaW5vLmNvbS9wcm9tb3Rpb25zL0VOLzc0
+OC8xMzk1MS5qcGciIGFsdD0iSGF2ZSBhIEJvbnVzIFRpbWUhIiBib3JkZXI9IjAiPjwvYT48L2Rp
+dj4gDQo8ZGl2IHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiMwMDJmMjg7cGFkZGluZzo2cHggMHB4
+IDZweCAwcHg7d2lkdGg6NTAwcHg7Zm9udC1zaXplOjEycHg7dGV4dC1hbGlnbjpjZW50ZXI7Ij4N
+CiAgICA8c3Bhbj48cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZTogc21hbGw7Ij48c3Ryb25nPjxzcGFuIHN0eWxlPSJjb2xvcjogI2ZmZmZmZjsiPjxi
+ciAvPldlIHRoaW5rIHlvdSBmb3Jnb3Qgc29tZXRoaW5nIGFmdGVyIHlvdXI8YnIgLz5sYXN0IHZp
+c2l0IGF0IENhcm5pdmFsIENhc2lubyZoZWxsaXA7PGJyIC8+PGJyIC8+WW91IGZvcmdvdCBob3cg
+bXVjaCBmdW4geW91IGhhZCBwbGF5aW5nITxiciAvPjxiciAvPkl0J3MgdGltZSBmb3IgeW91IHRv
+IHBsYXkgYWdhaW4hPGJyIC8+PGJyIC8+VmlzaXQgdGhlIGNhc2lubyB0b2RheSBhbmQgZW5qb3k8
+L3NwYW4+PGJyIC8+PC9zdHJvbmc+PC9zcGFuPjwvcD4KPHAgc3R5bGU9InRleHQtYWxpZ246IGNl
+bnRlcjsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IHNtYWxsOyI+PHN0cm9uZz48c3BhbiBzdHls
+ZT0iZm9udC1zaXplOiBsYXJnZTsgY29sb3I6ICNmZmZmOTk7Ij5hIHNwZWNpYWw8L3NwYW4+PHNw
+YW4gc3R5bGU9ImZvbnQtc2l6ZTogeC1sYXJnZTsgY29sb3I6ICNmZmZmOTk7Ij4gMTUwJSBib251
+czwvc3Bhbj48YnIgLz48YnIgLz48c3BhbiBzdHlsZT0iY29sb3I6ICNmZmZmZmY7Ij5BbmQgZG9u
+J3QgZXZlciBmb3JnZXQgYWdhaW48YnIgLz5ob3cgbXVjaCBmdW4gaXQgaXMgdG8gcGxheSB3aXRo
+IHVzITxiciAvPjxiciAvPjxiciAvPjwvc3Bhbj48L3N0cm9uZz48c3BhbiBzdHlsZT0iY29sb3I6
+ICNmZmZmZmY7Ij5UaGlzIG9mZmVyIGlzIHZhbGlkIGZvciB5b3VyIENSUjY2MTY5MzkyIGFjY291
+bnQuPGJyIC8+PGJyIC8+PGJyIC8+PGJyIC8+PC9zcGFuPjwvc3Bhbj48L3A+PC9zcGFuPg0KICAg
+IDxwPjxhIGhyZWY9Imh0dHA6Ly93d3cuY2Fybml2YWxjYXNpbm8uY29tL3Byb21vdGlvbnMvRU4v
+NzQ4L2RldGFpbHMuaHRtbCIgdGl0bGU9IkxQUyA0IFRpbWUgdG8gUGxheSIgc3R5bGU9ImNvbG9y
+OiNGRkZGNjYiOz5DbGljayBIZXJlIEZvciBNb3JlIERldGFpbHM8L2E+PC9wPg0KICAgIDxwPjxh
+IGhyZWY9Imh0dHA6Ly9iYW5uZXIuY2Fybml2YWxjYXNpbm8uY29tL2NnaS1iaW4vU2V0dXBDYXNp
+bm8uZXhlP21lbWJlcj1EUHJvbW8mcHJvZmlsZT1kcGVuIiB0aXRsZT0iTFBTIDQgVGltZSB0byBQ
+bGF5IiBzdHlsZT0iY29sb3I6I0ZGRkY2NiI7PkNsaWNrIEhlcmUgVG8gRG93bmxvYWQ8L2E+PC9w
+Pg0KICAgIDxwPjxhIGhyZWY9Imh0dHA6Ly9iYW5uZXIuY2Fybml2YWxjYXNpbm8uY29tL2NnaS1i
+aW4vcmVkaXIuY2dpP2lkPU4mbWVtYmVyPURQcm9tbyZwcm9maWxlPWRwZW4mbGFuZz1lbiIgdGl0
+bGU9IkxQUyA0IFRpbWUgdG8gUGxheSIgc3R5bGU9ImNvbG9yOiNGRkZGNjYiOz53d3cuY2Fybml2
+YWxjYXNpbm8uY29tPC9hPjxici8+PC9wPg0KPC9kaXY+DQo8ZGl2IHN0eWxlPSJ3aWR0aDo1MDBw
+eDtiYWNrZ3JvdW5kLWNvbG9yOiNFQkVCRUI7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZENkQ2RDsi
+PklmIHlvdSBoYXZlIGZvcmdvdHRlbiB5b3VyIHVzZXJuYW1lIG9yIHBhc3N3b3JkLCA8YSBocmVm
+PSJtYWlsdG86c3VwcG9ydEBjYXJuaXZhbGNhc2luby5jb20iIHRpdGxlPSJMUFMgNCBUaW1lIHRv
+IFBsYXkiPmNsaWNrIGhlcmU8L2E+PC9kaXY+DQo8ZGl2IHN0eWxlPSJ3aWR0aDo1MDBweDtiYWNr
+Z3JvdW5kLWNvbG9yOiNFQkVCRUI7Zm9udC1zaXplOjExcHg7Y29sb3I6IzZENkQ2RDsiPjxhIGhy
+ZWY9Imh0dHA6Ly93d3cuY2Fybml2YWxjYXNpbm8uY29tL3Vuc3Vic2NyaWJlLmh0bWwiIHRpdGxl
+PSJMUFMgNCBUaW1lIHRvIFBsYXkiPlVuc3Vic2NyaWJlPC9hPjwvZGl2Pg0KPC9jZW50ZXI+DQo8
+L2ZvbnQ+DQo8L2JvZHk+DQo8L2h0bWw+
+
+
+--PMC------919dfaa7cbedbf7498f5d18c6230ac1c--
+

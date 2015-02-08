@@ -1,0 +1,422 @@
+From @..  Fri Jan  2 15:22:26 2015
+Return-Path: <@..>
+X-Original-To: snipcole@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 64EBADE; Fri,  2 Jan 2015 15:22:26 +0000 (UTC)
+Received: from ccm168.constantcontact.com (ccm168.constantcontact.com [208.75.123.168])
+    by .. with SMTP id tm9ietmi5xintdczqmn5nqscze;
+    for snipcole@fs.net;
+    Fri, 02 Jan 2015 15:22:26 +0000 (UTC)
+    (envelope-from ABcQ3GEFETfm9gAA30+PmXA==_1103963291440_3wGx8LQVEeO8I9SuUpAOAA==@in.constantcontact.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=208.75.123.168;
+    envelope-from=<ABcQ3GEFETfm9gAA30+PmXA==_1103963291440_3wGx8LQVEeO8I9SuUpAOAA==@in.constantcontact.com>;
+    helo=ccm168.constantcontact.com; mechanism=ip4:208.75.120.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=208.75.123.168; client-port=41889;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 67.111.23.153 207.88.13.14 207.88.12.73 216.156.0.26
+    216.55.4.170; network-path-time=1420212146
+Received: from p2-jbsvcs5199.ad.prodcc.net (p2-pen7.ad.prodcc.net [10.252.0.107])
+	by p2-mail224.ccm168.constantcontact.com (Postfix) with ESMTP id B50A4A6D80A
+	for <snipcole@fs.net>; Fri,  2 Jan 2015 10:22:10 -0500 (EST)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=to:X-Feedback-ID:subject:mime-version:message-id:from:date:list-unsubscribe:reply-to; bh=XQy9zjf1n/TErrx7Divlg13G3G5T40DY1pvIPKw95w4=; b=YMA4r6hjR8MBAIFg066JqUgZwDdTOxRNC3pwuBi2Zfi2ZdBDylEilyV1EeaqkGi+PpFBjGi/1pEix8sPmpYzx5Bxd+yk+MenlAZJE8AIDK1dJVewHm6HAdSb5weJ9EQxGlcLTduFZ+Agh6yaVvVRKD/U2JWCDgf8//u6N1FMGbs=
+Message-ID: <1119647153381.1103963291440.46602.0.171019JL.1002@scler.constantcontact.com>
+Date: Fri, 2 Jan 2015 10:22:10 -0500 (EST)
+From: Triathlete Europe <@..>
+Reply-To: @..
+To: @..
+Subject: T-Time: Understanding your bike FTP + Mark Allen's tips
+Cc: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_200494827_675329294.1420212130732"
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&m=001T_6ey9KUVZttRVoqwjyUjgX-Campaign-Activity-ID: 05c43718-4144-4df9-bd80-0037d3e3e65c
+X-Channel-ID: df01b1f0-b415-11e3-bc23-d4ae52900e00
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: ABcQ3GEFETfm9gAA30+PmXA==_1103963291440_3wGx8LQVEeO8I9SuUpAOAA==@in.constantcontact.com
+X-Roving-Campaignid: 1119647153381
+X-Roving-Id: 1103963291440.46602
+X-Feedback-ID: df01b1f0-b415-11e3-bc23-d4ae52900e00:05c43718-4144-4df9-bd80-0037d3e3e65c:1103963291440:CTCT
+X-CTCT-ID: dd9b4420-b415-11e3-bba8-d4ae52900e00
+
+------=_Part_200494827_675329294.1420212130732
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+T-Time
+Your daily dose of everything triathlon and Ironman
+triathlete-europe.com [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvoCNHwzgfPXiLAECMM5xXnxWPud3Ps4ycwtcV1OsgVg9jKBc6p1k5SDcv5kOn91phvm9S0Rm7UvcFLTwn2Q-k7xcZZ4H5lCGRhPwCkZKQpeZZ8QwvUn_dGMY_zuJ_GYXPA==&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Follow us on Twitter [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvndLR53F_Q8wz399QFF2DifMxTdQ8uaLAqOzywxIa-Bgn726weeiorR20RncLi3gPVvBkl0KuegY_Aqjz7d9fCrtRSZhnHUbdGDZCY5oohbaAmf0suYU45-S_BQSyWH0b0zpl_BImouHzjMe4zKKvV0=&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+                                 Like us on Facebook [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_Wvoj_A8SOD4FYiKpa0rRKiJZ_GFLxZ8_si51iyTwzvTbY1U5YK3qhWqlGCY3Oe5pfQXfxq7-xS4-lfv7v9N4hXF073RNMsC04ndIBZX9PHX9DC_Gn6uU-Lhzhb5bTVGJ0En6Xc0kIq9ai&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Understanding functional threshold power [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN7ApTGqbh05phWlOGrmIo2sNR22xqAmF_t2eU8euYTmc2OUCoA5A69r6S_65LUl5eYFCn8H4y0PjXSUJBx_RjEyo1jYqKtERaU8k7u1_12M_eLJjBY1PlP7EBVTAibrQWtK5krSIDyCPIu9_o4LMu62Q==&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+
+If you've been in triathlon for any length of time, you've probably heard a lot 
+about functional threshold power (FTP) and testing. Perhaps you've wondered...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+60 minute session: No gym required strength training [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN7qvuqSA9-0TKTR4ogColexu3DufEhHhyZjLgIpo1M84kdTmtvItcm_mAqIzroYXxiK_bEC_J321karaxeq2xquZC794GTqf4gh_wxsqa4ODOa8QuFO81LgZlbkKXwCCpzCxJdz2VxsLkZ5jYCHIqL9Q==&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+
+"This workout is great for triathletes who don't belong to a gym or who might be
+ traveling and not have access to their regular gym equipment," Simone says...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mark Allen's Tips For Triathlon Success [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN77J-MgiV8DZX-b3uqjs_2Xj17JxW-91ukFJW6xOqyuS9ZCslfz-EDwvnjSKjIzoMGEp4W4WV-rH0-oqQKB8iFbMJ_rHj24vZdRh4WNOF3E7f75WWciljMW7H6-AJjC4q9QZ8fQOP42bjp45spAS885ecC8ctrNEBXrExcZeUhWJGF7t6xhBbE5Ga_OH2HURRZn7cHn572b_I=&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+
+You might know Mark Allen as a six-time Ironman world champ; Canadian pro Angela
+ Naeth knows him as "Coach." After almost a year of emailed pleas...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tim DeBoom: An ode to the off-season [http://r20.rs6.net/tn.jsp?f=0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN7syamO5KoOSrT3-0j5sG3rdVqvQglpfpQsHQ61WOWN8OPBG7LecOUKLU_eClCdjik5Qit4BBFFNvEBcqPY6-nd2v3fQbICKskc3vKMOIo8YmzJb2p_1rvqft2BdhUaiktEWWJh2YKhqUo3jcPQTQTbQ==&c=W2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ==&ch=GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw==]
+
+Two-time Ironman world champion Tim DeBoom provides sage advice for avoiding burnout
+and striking a healthy life balance in the coming months...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Forward this email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=qz4nveeab&m=1103963291440&ea=$snipcole@fs.net$&a=1119647153381
+
+This email was sent to snipcole@fs.net by info@competitormedia.co.uk.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=oo&m=001T_6ey9KUVZttRVoqwjyUjg
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=un&m=001T_6ey9KUVZttRVoqwjyUjg
+
+Privacy Policy:
+http://ui.constantcontact.com/roving/CCPrivacyPolicy.jsp
+
+Online Marketing by
+Constant Contact(R)
+www.constantcontact.com
+
+
+
+Triathlete Europe Magazine | 5 Hutchcombe Farm Close | Oxford | OX2 9HG | United Kingdom
+------=_Part_200494827_675329294.1420212130732
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+<body topmargin=3D"0" leftmargin=3D"0" rightmargin=3D"0"><!--Copyright (c) =
+1996-2015 Constant Contact. All rights reserved.  Except as permitted under=
+ a separate
+written agreement with Constant Contact, neither the Constant Contact softw=
+are, nor any content that appears on any Constant Contact site,
+including but not limited to, web pages, newsletters, or templates may be r=
+eproduced, republished, repurposed, or distributed without the
+prior written permission of Constant Contact.  For inquiries regarding repr=
+oduction or distribution of any Constant Contact material, please
+contact legal@constantcontact.com.--><div id=3D"rootDiv"><img src=3D"http:/=
+/r20.rs6.net/on.jsp?ca=3D05c43718-4144-4df9-bd80-0037d3e3e65c&a=3D110396329=
+1440&d=3D1119647153381&r=3D3&o=3Dhttp://ui.constantcontact.com/images/p1x1.=
+gif&c=3Ddd9b4420-b415-11e3-bba8-d4ae52900e00&ch=3Ddf01b1f0-b415-11e3-bc23-d=
+4ae52900e00" height=3D"1" width=3D"1" />
+<div align=3D"center">
+<table style=3D"background-color:#ffffff;margin:0;" bgcolor=3D"#ffffff" bor=
+der=3D"0" width=3D"100<tr>
+    <td valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"center">
+    <table style=3D"width:600px;" border=3D"0" width=3D"600" cellspacing=3D=
+"0" cellpadding=3D"0">
+    <tr>
+        <td width=3D"100       =20
+       =20
+        <table border=3D"0" width=3D"100=3D"0" id=3D"content_LETTER.BLOCK1"><tr><td style=3D"text-align: left; font=
+-size: 12pt; color: #000000;" valign=3D"top" rowspan=3D"1" colspan=3D"1" al=
+ign=3D"left"><a class=3D"imgCaptionAnchor" track=3D"on" shape=3D"rect" href=
+=3D"http://r20.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1z=
+obKqoFYLjBbg_WvhnizZ7BCEvm3eFrDC1rvyL0LUHpPLXSqUl2X-oNoIV-zM8_EbOkGq0EBHh5V=
+iWB-L_I7-fB23dqQZ6RLUFXVqFH-FZPAoVSJbEO1VS1wAkUUHuuUUS9j59p4mdtiJrygCTz2nPK=
+xlzDOc1F4l5h6NexP3DLKvYfbA=3D=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj=
+9_laPGpzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAY=
+b6vHBbw=3D=3D" target=3D"_blank"><img height=3D"220" vspace=3D"5" border=3D=
+"0" name=3D"ACCOUNT.IMAGE.1057" hspace=3D"5" width=3D"650" src=3D"http://ih=
+.constantcontact.com/fs148/1103963291440/img/1057.jpg" /></a>
+<div style=3D"font-size: 18pt; font-family: Arial, Helvetica, sans-serif; c=
+olor: #000000; letter-spacing: -1px; text-align: center;" align=3D"center">
+<div><span style=3D"font-size: 16pt; color: #000000;"><strong style=3D"lett=
+er-spacing: -1px;"><span style=3D"font-size: 28pt;">T-Time</span>&nbsp;</st=
+rong></span></div>
+<div><span style=3D"font-size: 16pt;"><strong>Your daily dose of everything=
+ triathlon and Ironman&nbsp;</strong></span></div>
+</div>
+<div style=3D"text-align: center; font-family: Arial, Helvetica, sans-serif=
+;" align=3D"center"><span style=3D"font-size: 16pt;"><strong><a style=3D"co=
+lor: blue; text-decoration: underline;" track=3D"on" href=3D"http://r20.rs6=
+.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvoCN=
+HwzgfPXiLAECMM5xXnxWPud3Ps4ycwtcV1OsgVg9jKBc6p1k5SDcv5kOn91phvm9S0Rm7UvcFLT=
+wn2Q-k7xcZZ4H5lCGRhPwCkZKQpeZZ8QwvUn_dGMY_zuJ_GYXPA=3D=3D&c=3DW2gyfnpz7b5Qa=
+YJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiMHqND=
+9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw=3D=3D" shape=3D"rect" linktype=3D"1" targe=
+t=3D"_blank">triathlete-europe.com</a></strong></span></div>
+</td></tr></table>
+        </td>
+    </tr>
+    <tr>
+        <td width=3D"100        <table border=3D"0" width=3D"100"0">
+        <tr>
+        =09<td height=3D"20" rowspan=3D"1" colspan=3D"3" />
+        </tr>
+        <tr>
+            <td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" wid=
+th=3D"35" rowspan=3D"2" colspan=3D"1"><img height=3D"1" border=3D"0" width=
+=3D"35" src=3D"http://img.constantcontact.com/letters/images/spacer.gif" />=
+</td>
+            <td style=3D"width:530px;background-color:#ffffff;" bgcolor=3D"=
+#ffffff" valign=3D"top" width=3D"530" rowspan=3D"1" colspan=3D"1">
+            <table border=3D"0" width=3D"100g=3D"0">
+            <tr>
+                <td valign=3D"top" width=3D"1001">
+               =20
+               =20
+               =20
+                               =20
+               =20
+               =20
+               =20
+               =20
+                <table border=3D"0" width=3D"100pacing=3D"0" id=3D"content_LETTER.BLOCK2"><tr><td style=3D"font-family: 'Ti=
+mes New Roman', Times; text-align: left; color: #000000;" valign=3D"top" ro=
+wspan=3D"1" colspan=3D"1" align=3D"left"><a track=3D"on" href=3D"http://r20=
+.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_W=
+vndLR53F_Q8wz399QFF2DifMxTdQ8uaLAqOzywxIa-Bgn726weeiorR20RncLi3gPVvBkl0Kueg=
+Y_Aqjz7d9fCrtRSZhnHUbdGDZCY5oohbaAmf0suYU45-S_BQSyWH0b0zpl_BImouHzjMe4zKKvV=
+0=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3D=
+GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw=3D=3D" shape=3D"rect=
+" linktype=3D"twitter" target=3D"_blank"><img height=3D"27" border=3D"0" wi=
+dth=3D"160" alt=3D"Follow us on Twitter" title=3D"Follow us on Twitter" src=
+=3D"https://imgssl.constantcontact.com/ui/images1/btn_twit_160.png" align=
+=3D"null" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;<a style=3D"text-align: justify; " track=3D"on" href=
+=3D"http://r20.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1z=
+obKqoFYLjBbg_Wvoj_A8SOD4FYiKpa0rRKiJZ_GFLxZ8_si51iyTwzvTbY1U5YK3qhWqlGCY3Oe=
+5pfQXfxq7-xS4-lfv7v9N4hXF073RNMsC04ndIBZX9PHX9DC_Gn6uU-Lhzhb5bTVGJ0En6Xc0kI=
+q9ai&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3D=
+GWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw=3D=3D" shape=3D"rect=
+" linktype=3D"facebook" target=3D"_blank"><img height=3D"27" border=3D"0" w=
+idth=3D"160" alt=3D"Like us on Facebook" title=3D"Like us on Facebook" src=
+=3D"https://imgssl.constantcontact.com/ui/images1/btn_fbk_160_a.png" /></a>=
+</td></tr></table><table style=3D"background-color:#CECECE;" bgcolor=3D"#CE=
+CECE" border=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table><table style=3D"background-color: #ffffac; display:=
+ table;" bgcolor=3D"#FFFFAC" border=3D"0" width=3D"100 cellspacing=3D"0" id=3D"content_LETTER.BLOCK28"><tr><td style=3D"font-fami=
+ly: 'Times New Roman', Times; text-align: left; color: #000000;" valign=3D"=
+top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"font-family: Arial, Helvetica, sans-serif;"><span style=3D"fo=
+nt-size: 14pt;"><a style=3D"font-weight: bold; color: rgb(0, 0, 0); text-de=
+coration: underline;" track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.ne=
+t/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrn=
+LpDN7ApTGqbh05phWlOGrmIo2sNR22xqAmF_t2eU8euYTmc2OUCoA5A69r6S_65LUl5eYFCn8H4=
+y0PjXSUJBx_RjEyo1jYqKtERaU8k7u1_12M_eLJjBY1PlP7EBVTAibrQWtK5krSIDyCPIu9_o4L=
+Mu62Q=3D=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ=3D=
+=3D&ch=3DGWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw=3D=3D" link=
+type=3D"1" target=3D"_blank">Understanding functional threshold power</a></=
+span><span><br /></span><span style=3D"font-size: 11pt;">
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span><span>If you've bee=
+n in triathlon for any length of time, you've probably heard a lot about fu=
+nctional threshold power (FTP) and testing. Perhaps you've wondered</span>.=
+..</span></p>
+</span></div>
+</td></tr></table><table style=3D"background-color:#CECECE;" bgcolor=3D"#CE=
+CECE" border=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table><table style=3D"display: table; background-color: #=
+ffffff;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100cellpadding=3D"10" id=3D"content_LETTER.BLOCK6"><tr><td style=3D"font-famil=
+y: 'Times New Roman', Times; text-align: left; color: #000000;" valign=3D"t=
+op" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"font-family: Arial, Helvetica, sans-serif;"><span style=3D"te=
+xt-decoration: underline; font-size: 14pt;"><a style=3D"font-weight: bold; =
+color: rgb(0, 0, 0); text-decoration: underline;" track=3D"on" shape=3D"rec=
+t" href=3D"http://r20.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFO=
+vd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN7qvuqSA9-0TKTR4ogColexu3DufEhHhyZjLgIpo1M84=
+kdTmtvItcm_mAqIzroYXxiK_bEC_J321karaxeq2xquZC794GTqf4gh_wxsqa4ODOa8QuFO81Lg=
+ZlbkKXwCCpzCxJdz2VxsLkZ5jYCHIqL9Q=3D=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5yd=
+fvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByK=
+xCgZtAYb6vHBbw=3D=3D" linktype=3D"1" target=3D"_blank">60 minute session: N=
+o gym required strength training</a></span><br /></div>
+<div style=3D"font-size: 11pt; font-family: Arial, Helvetica, sans-serif;">=
+<span>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Arial, Helvet=
+ica, sans-serif;">"This workout is great for triathletes who don't belong t=
+o a gym or who might be traveling and not have access to their regular gym =
+equipment," Simone says...</p>
+</span></div>
+</td></tr></table><table style=3D"background-color:#CECECE;" bgcolor=3D"#CE=
+CECE" border=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table><table style=3D"background-color: #ffffac; display:=
+ table;" bgcolor=3D"#FFFFAC" border=3D"0" width=3D"100cellpadding=3D"10" id=3D"content_LETTER.BLOCK22"><tr><td style=3D"font-fami=
+ly: 'Times New Roman', Times; text-align: left; color: #000000;" valign=3D"=
+top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"font-family: Arial, Helvetica, sans-serif;"><span style=3D"fo=
+nt-size: 14pt;"><a style=3D"font-weight: bold; color: rgb(0, 0, 0); text-de=
+coration: underline;" track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.ne=
+t/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFOvd_ze1zobKqoFYLjBbg_WvjWbzrn=
+LpDN77J-MgiV8DZX-b3uqjs_2Xj17JxW-91ukFJW6xOqyuS9ZCslfz-EDwvnjSKjIzoMGEp4W4W=
+V-rH0-oqQKB8iFbMJ_rHj24vZdRh4WNOF3E7f75WWciljMW7H6-AJjC4q9QZ8fQOP42bjp45spA=
+S885ecC8ctrNEBXrExcZeUhWJGF7t6xhBbE5Ga_OH2HURRZn7cHn572b_I=3D&c=3DW2gyfnpz7=
+b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiM=
+HqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBbw=3D=3D" linktype=3D"1" target=3D"_blank=
+">Mark Allen's Tips For Triathlon Success</a></span><span><br /></span><spa=
+n style=3D"font-size: 11pt;">
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span><span>You might kno=
+w Mark Allen as a six-time Ironman world champ; Canadian pro Angela Naeth k=
+nows him as "Coach." After almost a year of emailed pleas</span>...</span><=
+/p>
+</span></div>
+</td></tr></table><table style=3D"background-color:#CECECE;" bgcolor=3D"#CE=
+CECE" border=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table><table style=3D"display: table; background-color: #=
+ffffff;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100cellpadding=3D"10" id=3D"content_LETTER.BLOCK20"><tr><td style=3D"font-fami=
+ly: 'Times New Roman', Times; text-align: left; color: #000000;" valign=3D"=
+top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"font-family: Arial, Helvetica, sans-serif;"><span style=3D"te=
+xt-decoration: underline; font-size: 14pt;"><a style=3D"font-weight: bold; =
+color: rgb(0, 0, 0); text-decoration: underline;" track=3D"on" shape=3D"rec=
+t" href=3D"http://r20.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaFO=
+vd_ze1zobKqoFYLjBbg_WvjWbzrnLpDN7syamO5KoOSrT3-0j5sG3rdVqvQglpfpQsHQ61WOWN8=
+OPBG7LecOUKLU_eClCdjik5Qit4BBFFNvEBcqPY6-nd2v3fQbICKskc3vKMOIo8YmzJb2p_1rvq=
+ft2BdhUaiktEWWJh2YKhqUo3jcPQTQTbQ=3D=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5yd=
+fvoJDGj9_laPGpzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByK=
+xCgZtAYb6vHBbw=3D=3D" linktype=3D"1" target=3D"_blank">Tim DeBoom: An ode t=
+o the off-season</a></span><br /></div>
+<div style=3D"font-size: 11pt; font-family: Arial, Helvetica, sans-serif;">=
+<span>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Arial, Helvet=
+ica, sans-serif;"><span><span>Two-time Ironman world champion Tim DeBoom pr=
+ovides sage advice for avoiding burnout and striking a healthy life balance=
+ in the coming months</span>.</span>..</p>
+</span></div>
+</td></tr></table><table style=3D"background-color:#CECECE;" bgcolor=3D"#CE=
+CECE" border=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table><table style=3D"display: table; background-color: #=
+ffffff;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100cellpadding=3D"10" id=3D"content_LETTER.BLOCK18"><tr><td style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; color: #000000;" valign=3D"top" rowspan=
+=3D"1" colspan=3D"1"><a class=3D"imgCaptionAnchor" track=3D"on" shape=3D"re=
+ct" href=3D"http://r20.rs6.net/tn.jsp?f=3D0012Vd_U6FtaWZodo6fDqQMx9CVmhLeaF=
+Ovd_ze1zobKqoFYLjBbg_WvtLdxYoQvwy8gZNNtVtHlHtglv72zWblGN1R8JkvV1eRK0GFKIe-z=
+DUj0dub8cRK6j8zGkai3Fz4sBAQ7IPL_ZLIpKtXTQDScVLFYJ3ic2v7YEenzfgSyG0T-PG4xZjj=
+hyWy3Ghtfpht15x49keb84U=3D&c=3DW2gyfnpz7b5QaYJGXa-DhW7ledXF5ydfvoJDGj9_laPG=
+pzvHXEHybQ=3D=3D&ch=3DGWRjDt1QcRpERiYxiMHqND9n3tSl7vh2RhvmVByKxCgZtAYb6vHBb=
+w=3D=3D" target=3D"_blank"><img height=3D"219" vspace=3D"5" border=3D"0" na=
+me=3D"ACCOUNT.IMAGE.1076" hspace=3D"5" width=3D"571" src=3D"http://ih.const=
+antcontact.com/fs148/1103963291440/img/1076.jpg" /></a> <br /></td></tr></t=
+able><table style=3D"background-color:#CECECE;" bgcolor=3D"#CECECE" border=
+=3D"0" width=3D"100                <tr>
+                    <td style=3D"color:#000000;font-family:Georgia,Times Ne=
+w Roman,Times,serif;font-size:12pt;" height=3D"1" rowspan=3D"1" colspan=3D"=
+1" align=3D"left" />
+                </tr>
+                </table></td>
+            </tr>           =20
+            </table>
+            </td>
+            <td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" wid=
+th=3D"35" rowspan=3D"2" colspan=3D"1"><img height=3D"1" border=3D"0" width=
+=3D"35" src=3D"http://img.constantcontact.com/letters/images/spacer.gif" />=
+</td>
+        </tr>       =20
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td valign=3D"top" width=3D"100=3D"left">
+       =20
+       =20
+       =20
+       =20
+        </td>
+    </tr>
+    </table>
+    </td>
+</tr>
+</table>
+</div>
+<div align=3D"center" style=3D"background-color:#ffffff;">
+<table style=3D"background-color:#ffffff;" border=3D"0" width=3D"100padding=3D"0" cellspacing=3D"0" id=3D"footerPanelWrap">
+<tr>
+<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+<table style=3D"background-color:#ffffff" border=3D"0" width=3D"100pacing=3D"0" cellpadding=3D"0"><tr><td valign=3D"top" rowspan=3D"1" colspan=
+=3D"1" align=3D"left"><div style=3D"max-width:620px;margin-left:auto;margin=
+-right:auto;" align=3D"center"><table style=3D"margin-left:auto;margin-righ=
+t:auto;" border=3D"0" width=3D"100r><td rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=3D"0" border=3D"=
+0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"https://imgssl.constantcontact.=
+com/letters/images/1101116784221/S.gif" /></td><td valign=3D"top" width=3D"=
+620" rowspan=3D"1" colspan=3D"1" align=3D"center"><table style=3D"font-fami=
+ly:verdana,arial; font-size:8pt; color:#000000;" border=3D"0" width=3D"100" cellspacing=3D"0" cellpadding=3D"0"><tr><td rowspan=3D"1" colspan=3D"2"><=
+span style=3D"font-family:verdana,arial; font-weight:bold; font-size:8pt; c=
+olor:#000000;"><a shape=3D"rect" href=3D"http://ui.constantcontact.com/sa/f=
+wtf.jsp?llr=3Dqz4nveeab&m=3D1103963291440&ea=3Dsnipcole7153381" target=3D"_blank">Forward this email</a></span></td></tr><tr><td w=
+idth=3D"100" rowspan=3D"1" colspan=3D"1"><span style=3D"font-family:verdana=
+,arial; font-size:8pt; color:#000000;"><br /><a shape=3D"rect" href=3D"http=
+://visitor.constantcontact.com/do?p=3Dun&m=3D001T_6ey9KUVZttRVoqwjyUjgD&ch=3Ddf01b1f0-b415-11e3-bc23-d4ae52900e00&ca=3D05c43718-4144-4df9-bd80-00=
+37d3e3e65c" target=3D"_blank"><img border=3D"0" src=3D"http://img.constantc=
+ontact.com/letters/images/SafeUnsubscribe_Footer_Logo_New.png" /></a><br />=
+<br /><div>This email was sent to snipcole@fs.net by <a style=3D"color:#000=
+0ff;" shape=3D"rect" href=3D"mailto:info@competitormedia.co.uk" target=3D"_=
+blank">info@competitormedia.co.uk</a> <span style=3D"color: #bababa;"> | </=
+span> &nbsp; </div><div><a style=3D"color:#0000ff;" shape=3D"rect" href=3D"=
+http://visitor.constantcontact.com/do?p=3Doo&m=3D001T_6ey9KUVZttRVoqwjyUjg3D0-0037d3e3e65c" target=3D"_blank">Update Profile/Email Address</a> <span st=
+yle=3D"color: #bababa;">|</span> Rapid removal with <a style=3D"color:#0000=
+ff;" shape=3D"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&m=
+=3D001T_6ey9KUVZttRVoqwjyUjg0&ca=3D05c43718-4144-4df9-bd80-0037d3e3e65c" target=3D"_blank">SafeUnsubscr=
+ibe</a>&trade;  <span style=3D"color: #bababa;">|</span>  <a style=3D"color=
+:#0000ff;" shape=3D"rect" href=3D"http://ui.constantcontact.com/roving/CCPr=
+ivacyPolicy.jsp" target=3D"_blank">Privacy Policy</a>.</div></span></td></t=
+r><tr><td style=3D"padding: 15px 0px 0px 0px ;" width=3D"100" colspan=3D"1"><span style=3D"font-family:verdana,arial; font-size:8pt; co=
+lor:#000000;"><a shape=3D"rect" href=3D"http://www.constantcontact.com/inde=
+x.jsp?cc=3DTEM_RSS_001" target=3D"_blank"><img border=3D"0" src=3D"http://i=
+mg.constantcontact.com/letters/images/CC_Footer_Logo_New.png" /></a></span>=
+<br /></td></tr><tr><td rowspan=3D"1" colspan=3D"1"><div style=3D"font-fami=
+ly:verdana,arial; font-size:8pt; color:#000000;" id=3D"LETTER.PHYSICALADDRE=
+SS"><br />Triathlete Europe Magazine<span style=3D"color: #bababa;"> | </sp=
+an>5 Hutchcombe Farm Close<span style=3D"color: #bababa;"> | </span>Oxford<=
+span style=3D"color: #bababa;"> | </span>OX2 9HG<span style=3D"color: #baba=
+ba;"> | </span>United Kingdom</div></td></tr></table></td><td rowspan=3D"1"=
+ colspan=3D"1"><img height=3D"5" vspace=3D"0" border=3D"0" hspace=3D"0" wid=
+th=3D"1" alt=3D"" src=3D"https://imgssl.constantcontact.com/letters/images/=
+1101116784221/S.gif" /></td></tr></table></div></td></tr></table>
+</td>
+</tr>
+</table>
+</div></div></body>
+
+------=_Part_200494827_675329294.1420212130732--
+

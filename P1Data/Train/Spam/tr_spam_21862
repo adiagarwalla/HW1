@@ -1,0 +1,1132 @@
+From @..  Sun Jan 18 06:52:48 2015
+Return-Path: <@..>
+X-Original-To: paulne_jones_1957@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 40F3DDE; Sun, 18 Jan 2015 06:52:48 +0000 (UTC)
+Received: from thomson.email-domain.com (thomson.email-domain.com [81.91.104.234])
+    by .. with SMTP id u6wiyq498i5cdbyf5khvppy32e;
+    for paulne_jones_1957@fs.net;
+    Sun, 18 Jan 2015 06:52:47 +0000 (UTC)
+    (envelope-from bounce-1891123-57001954@thomson.email-domain.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.91.104.234;
+    envelope-from=<bounce-1891123-57001954@thomson.email-domain.com>;
+    helo=thomson.email-domain.com; mechanism=mx
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.91.104.234; client-port=57531;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.206
+    64.125.21.22 213.152.234.66 81.91.96.14; network-path-time=1421563967
+DKIM-Signature: v=1; a=rsa-sha256; d=email.thomson.co.uk; s=tui2013; c=relaxed/relaxed;
+	q=dns/txt; i=@email.thomson.co.uk; t=1421564378;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=9t4Kax+snhltLJsGyyKEidpdjS9gOgV0VmQtDwyapoo=;
+	b=WKcLDWVKm+kZkgcWfcLlXa1Q8zIebKB+PwBx6BWAyPNmHJxXaHBsIYgEktfDoezg
+	YGyY062EuhnGampWMQERcFRnegeG9QxpjASVnfU9hgKCa3r489nQKfqzlsveetVE
+	rx55/Hw634SlZhpGdX4y+huzQ6M+S7i3wWXjavYqBrQ=;
+Received: from [192.168.123.216] ([192.168.123.216:18743] helo=firstchoice.email-domain.com)
+	by cm-apps.co.uk (envelope-from <bounce-1891123-57001954@thomson.email-domain.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id E1/12-30907-AD95BB45; Sun, 18 Jan 2015 06:59:38 +0000
+From: "Thomson" <@..>
+To: @..
+Subject: =?ISO-8859-1?Q?Summer_sun_from_=A3208._Time_to_hit_the_beach?=
+Date: Sat, 17 Jan 2015 18:10:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-LYRIS-Audit-Types: DELIVERABILITY
+X-Association-Token: 06b972c65dd4a27ad962a24d9eac677e-1891123
+X-LYRIS-Piper-Seed-IDs: 42MWCwB!jMb5 
+X-CompanyName: Lyris:CreatorMail Ltd
+X-Actual-Recipient-Address: paulne_jones_1957@fs.net
+X-Send-Reports-To: toby@creatormail.co.uk
+List-Unsubscribe: <mailto:leave-1891123-57001954.126e78b390045ea52b98dd707d1c9272@thomson.email-domain.com>
+Message-ID: <LYRIS-57001954-1891123-2015.01.17-18.10.16--paulne_jones_1957#fs.net@thomson.email-domain.com>
+CM-Message-ID: <LYRIS-57001954-1891123-2015.01.18-04.54.53--paulne_jones_1957#fs.net@thomson.email-domain.com> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml">
+
+
+
+
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0" />
+<meta name=3D"format-detection" content=3D"telephone=3Dno" />
+<title>Thomson - Holidays Designed for You.</title>
+<style type=3D"text/css">
+/* General styles and reset */
+
+
+
+
+
+body {
+	width: 100}
+.ReadMsgBody {
+	width: 100}
+.ExternalClass {
+	width: 100} /* Force Hotmail to display emails at full width and center content */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100}
+body {
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+} /* Prevent Webkit and Windows Mobile platforms from changing default font sizes plus webkit font weight correction. */
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 1000px;
+}
+img {
+	line-height: 100	outline: none;
+	text-decoration: none;
+	display: block;
+}
+table, table td {
+	border-collapse: collapse !important;
+}
+.appleLinks a {
+	color: #000000 !important;
+	text-decoration: none;
+}
+.appleLinksWhite a {
+	color: #ffffff !important;
+	text-decoration: none;
+}
+
+/* Media queries begin here */
+@media screen {
+/* droid regular */
+@font-face {
+	font-family: 'droid-sans-reg';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.eot=3F#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.svg#droid_sansregular') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* droid bold */  
+@font-face {
+	font-family: 'droid-sans-bold';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.eot=3F#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.svg#droid_sansbold') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/DroidSans-Bold-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* tui type */
+@font-face {
+	font-family: 'tui';
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.eot=3F#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.svg#webfont') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/tuitype-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+}
+
+@media only screen and (max-width: 480px) {
+[class=3Dgifheight] {
+	height: 160px !important;
+}
+table[class=3D"hide"], img[class=3D"hide"], td[class=3D"hide"], tr[class=3D"hide"] {
+	display: none !important;
+}
+table[class=3D"full-width"] {
+	width: 100}
+td[class=3D"full-width"] {
+	width: 100	display: block !important;
+}
+td[class=3D"full-width-beige"] {
+	width: 100	display: block !important;
+	background-color: #f5f0e4 !important;
+}
+.fontsizeA[class=3D"fontsizeA"] {
+	font-size: 18px !important;
+}
+.fontsizeB[class=3D"fontsizeB"] {
+	font-size: 16px !important;
+}
+.fontsizeC[class=3D"fontsizeC"] {
+	font-size: 13px !important;
+}
+.fontsize14[class=3D"fontsize14"] {
+	font-size: 14px !important;
+}
+.widthTeaser[class=3D"widthTeaser"] {
+	width: 95}
+.widthTeasercopy[class=3D"widthTeasercopy"] {
+	width: 90}
+.widthOfferrow[class=3D"widthOfferrow"] {
+	width: 95}
+[class=3Doffers-width] {
+	display: block !important;
+	width: 280px !important;
+ height:: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+[class=3Dmobile-float] {
+	display: block !important;
+	width: 100}
+[class=3Dmobile-float-nopad] {
+	display: block !important;
+	width: 100	height: auto !important;
+	padding: 0px !important;
+}
+[class=3Dmobile-float-pad] {
+	display: block !important;
+	width: 100	height: auto !important;
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+[class=3Dmobile-floattop] {
+	display: block !important;
+	width: 100	padding-top: 10px !important;
+}
+[class=3Dmobile-float-ht] {
+	display: block !important;
+	padding-bottom: 10px !important;
+	width: 100}
+[class=3Dmobile-float-noborder] {
+	display: block !important;
+	width: 100	border-right: none !important;
+}
+[class=3Dofferrow-ht] {
+	height: 70px !important;
+}
+[class=3Doffercell-ht] {
+	height: 45px !important;
+}
+[class=3Dmainheight] {
+	height: 110px !important;
+}
+.mobTeaserimg[class=3D"mobTeaserimg"] {
+	width: 100	height: auto !important;
+}
+.resizebnr[class=3D"resizebnr"] {
+	height: auto !important;
+	width: 100}
+.img-shift[class=3D"img-shift"] {
+	background-position: -70px 0px !important;
+}
+table[class=3D"hide"], img[class=3D"hide"], td[class=3D"hide"], tr[class=3D"hide"] {
+	display: none !important;
+}
+.mobheadertxt[class=3D"mobheadertxt"] {
+	font-size: 24px !important;
+	line-height: 26px !important;
+	width: 280px !important;
+}
+.mobheaderprice-td[class=3D"mobheaderprice-td"] {
+	margin-bottom: 10px !important;
+	display: block !important;
+}
+.mobheaderprice[class=3D"mobheaderprice"] {
+	font-size: 24px !important;
+}
+.mobheaderadj[class=3D"mobheaderadj"] {
+	display: block !important;
+}
+.fontsizeA[class=3D"fontsizeA"] {
+	font-size: 18px !important;
+}
+.fontsizeB[class=3D"fontsizeB"] {
+	font-size: 16px !important;
+}
+.fontsizeC[class=3D"fontsizeC"] {
+	font-size: 13px !important;
+}
+.pricesize[class=3D"pricesize"] {
+	font-size: 24px !important;
+}
+.nobgcolor[class=3D"nobgcolor"] {
+	background: none !important;
+	padding: 0px !important;
+}
+.nopadbtm[class=3D"nopadbtm"] {
+	padding: 0px !important;
+}
+.padtop[class=3D"padtop"] {
+	padding-top: 15px !important;
+}
+.mobcontainer[class=3D"mobcontainer"] {
+	width: 100	position: relative;
+}
+.mobheader[class=3D"mobheader"] {
+	background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH140620/mobImg.jpg) !important;
+	background-repeat: no-repeat !important;
+	background-size: 185px 43px !important;
+	background-position: 10px 15px !important;
+	width: 720px !important;
+	height: 63px !important;
+	padding-bottom: 10px !important;
+}
+.mobMaincopy[class=3D"mobMaincopy"] {
+	width: 290px !important;
+}
+.mobHotelTbls[class=3D"mobHotelTbls"] {
+	width: 100}
+.mobHotelsubTbls[class=3D"mobHotelsubTbls"] {
+	width: 95	padding-top: 10px !important;
+}
+.mobDiffTblp[class=3D"mobDiffTblp"] {
+	width: 100	padding-bottom: 15px !important;
+}
+.mobDiffTbl[class=3D"mobDiffTbl"] {
+	width: 100}
+.mobDiffsubtd[class=3D"mobDiffsubtd"] {
+	width: 100	padding: 10px 0 0 0 !important;
+}
+.mobDiffsubtbl[class=3D"mobDiffsubtbl"] {
+	width: 95}
+.mobDifftitle[class=3D"mobDifftitle"] {
+	background-image: url(http://cslb.creatormail.co.uk/sites/tui/fc/FCWeekly_new2012/HVlogo_mob.gif) !important;
+	background-repeat: no-repeat !important;
+	background-size: 200px 40px !important;
+	width: 320px !important;
+	height: 40px !important;
+}
+.mobTeaseradjH[class=3D"mobTeaseradjH"] {
+	height: auto !important;
+	padding-top: 10px !important;
+}
+.mobTeaseradjW[class=3D"mobTeaseradjW"] {
+	width: 95}
+.mobTeaserimg[class=3D"mobTeaserimg"] {
+	width: 100	height: auto !important;
+}
+.dotdTop[class=3D"dotdTop"] {
+	padding-top: 15px !important;
+}
+.dotdWidthA[class=3D"dotdWidthA"] {
+	width: 50}
+.dotdWidthB[class=3D"dotdWidthB"] {
+	width: 100}
+.dotdWidthC[class=3D"dotdWidthC"] {
+	width: 100}
+.dotdWidthD[class=3D"dotdWidthD"] {
+	width: 95}
+.dotdTitle[class=3D"dotdTitle"] {
+	height: 40px !important;
+	font-size: 18px !important;
+}
+.dotdCopy[class=3D"dotdCopy"] {
+	height: 60px !important;
+	font-size: 14px !important;
+}
+.dotdPriceH[class=3D"dotdPriceH"] {
+	height: 50px !important;
+}
+.dotdPriceW[class=3D"dotdPriceW"] {
+	width: 100}
+.dotdPriceSize[class=3D"dotdPriceSize"] {
+	font-size: 24px !important;
+}
+.widthOfferrow[class=3D"widthOfferrow"] {
+	width: 95}
+[class=3Dmobile-float] {
+	display: block !important;
+	width: 100}
+[class=3Dmobile-float-ht] {
+	display: block !important;
+	padding-bottom: 5px !important;
+	width: 100}
+[class=3Dofferrow-ht] {
+	height: 70px !important;
+}
+[class=3Doffercell-ht] {
+	height: 45px !important;
+}
+[class=3Dresizebnr] {
+	height: auto !important;
+	width: 100}
+<!--
+MOBILE NAV STYLES--> .full-width[class=3D"full-width"] {
+	width: 100}
+table[class=3D"full-width"] {
+	width: 100}
+td[class=3D"full-width"] {
+	width: 100	display: block !important;
+}
+tr[class=3D"navhidden"] {
+	width: 100	display: block !important;
+}
+div[class=3D"nav"] {
+	margin: 0 0 1px 0;
+	background: #38607c;
+	width: 100	display: block !important;
+}
+div[class=3D"navfooter"] {
+	margin: 0 0 10px 0;
+	background: #dceffb;
+	border-top: solid 5px #66CCCC;
+	width: 100}
+div[class=3D"navLeft"] {
+	margin: 0 0 0 10px !important;
+	float: left !important;
+	width: 220px !important;
+	font-size: 16px !important;
+	line-height: 18px !important;
+	font-family: 'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif !important;
+	height: 50px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navTitle"] {
+	margin: 0 0 0 10px !important;
+	float: left !important;
+	width: 310px !important;
+	font-size: 16px !important;
+	line-height: 18px !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	height: 40px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navRight"] {
+	margin: 0 10px 0 0 !important;
+	float: right !important;
+	width: 75px !important;
+	height: 50px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navAlign"] {
+ #position: absolute !important;
+ #top: 50	display: table-cell !important;
+	vertical-align: middle !important;
+}
+div[class=3D"navcontent"] {
+ #position: relative !important;
+ #top: -50	font-size: 16px !important;
+}
+div a[class=3D"navcontent"] {
+	font-size: 16px !important;
+	color: #FFD400 !important;
+}
+.mobBtn[class=3D"mobBtn"] {
+	background: #f8f8f8 !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#d2d3d5)) !important;
+	border-radius: 15px !important;
+	-webkit-border-radius: 15px !important;
+	width: 75px !important;
+	height: 30px !important;
+	display: inline-block !important;
+	color: #38607c !important;
+	font-family: arial !important;
+	font-size: 15px !important;
+	text-align: center !important;
+	line-height: 30px !important;
+	text-decoration: none !important;
+}
+.align-fix[class=3D"align-fix"] {
+	width: 0px !important;
+}
+.buttonfloat[class=3D"buttonfloat"] {
+	width: 280px;
+	display: block;
+}
+.subheader-mobile[class=3D"subheader-mobile"] {
+	font-size: 20px !important;
+	text-align: center !important;
+	padding-left: 3px !important;
+}
+.mobMainbnr[class=3D"mobMainbnr"] {
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/mob-main-banner.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+.fixed-width[class=3D"fixed-width"] {
+	width: 200px !important;
+}
+[class=3Dmobile-floattop] {
+	display: block !important;
+	width: 100	padding-top: 10px !important;
+}
+table[class=3D"offer-container"] {
+	width: 278px!important;
+	margin: 0 auto 0 auto!important;
+}
+/* main banner image switch */
+*[class*=3D"mobile-background-swap"] {
+	background-position: center !important;
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH140822/main-banner.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+*[class*=3D"sub-background-swap"] {
+	background-position: right !important;
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/mobcouples.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+*[class*=3D"sub-background-swap2"] {
+	background-position: right !important;
+	background: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/mobfamily.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+[class=3Dcubeht] {
+	height: 150px !important;
+}
+[class=3Dsub-bannertable] {
+	display: block !important;
+	width: 100	border-bottom:1px #ffffff solid;
+}
+}
+</style>
+<!--[if gte mso 9]>
+		<style>
+		td {
+        font-family:'Lucida Sans', 'Lucida Grande', Helvetica, arial, sans-serif !important;
+}
+		</style>
+	<![endif]-->
+
+</head>
+
+<body bgcolor=3D"#ffffff" text=3D"#333333" style=3D"background:#ffffff; min-height:1000px; color:#333333; -webkit-font-smoothing: antialiased;">
+<table width=3D"100  <tr>
+    <td style=3D"font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:10px;" valign=3D"top" align=3D"center">Top late deals, All Inclusive getaways. Book your next holiday today.</td>
+  </tr>
+  <tr>
+    <td style=3D"padding-top:5px;"><!-- ********** WRAPPER TABLE ABOVE  ********** -->
+      
+      <table width=3D"620" cellspacing=3D"0" class=3D"full-width" border=3D"0" align=3D"center" cellpadding=3D"0">
+        
+       
+        
+             <!-- ********** START MASTHEAD  ********** -->
+        
+        <tr>
+          <td style=3D"font-family: Helvetica, Arial, sans-serif; font-size:10px; line-height:12px; color:#6c6c6c; padding-bottom:10px" align=3D"center"> Email not looking right=3F&nbsp; <a style=3D"color:#6c6c6c; text-decoration:underline;" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/1991/1/">Click here</a> to view it in your browser</td>
+        </tr>
+       <tr><td><table bgcolor=3D"#a0c8e5" width=3D"100<td width=3D"175"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/3283/2/"><img width=3D"320" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/THBoxing-Day-14/images/logo-smile.png" style=3D"display:block" alt=3D"Thomson" height=3D"78" border=3D"0"></a></td>
+<td width=3D"445" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; color:#ffffff; padding:15px 0 0 0;" valign=3D"top" class=3D"hide" align=3D"right">&nbsp;</td>
+</tr></table></td></tr>
+        
+        <!-- ********** END MASTHEAD  ********** --> 
+        
+   
+        
+        <!--NEW HTML NAV-->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px;"><table width=3D"620" cellspacing=3D"0" class=3D"full-width" border=3D"0" cellpadding=3D"0">
+              
+              <!-- ********** Dark blue NAV ********** -->
+              
+              <tr>
+                <td width=3D"100                    <tr>
+                      <td height=3D"8px" style=3D"height:8px;"></td>
+                    </tr>
+                    <tr>
+                      <td><table width=3D"100                          <tr>
+                            <td valign=3D"middle" style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128320553/3/=3Fa8aed3dd=3DNTcwMDE5NTQ                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td width=3D"3" valign=3D"middle"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" width=3D"3" height=3D"24"></td>
+                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td valign=3D"middle" style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/93266073/4/=3Fa8aed3dd=3DNTcwMDE5NTQ                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td width=3D"3" valign=3D"middle"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" width=3D"3" height=3D"24"></td>
+                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td valign=3D"middle" style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129232397/5/=3Fa8aed3dd=3DNTcwMDE5NTQ                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td width=3D"3" valign=3D"middle" class=3D"hide"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" width=3D"3" height=3D"24"></td>
+                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td valign=3D"middle" style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" class=3D"hide" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/58498628/6/=3Fa8aed3dd=3DNTcwMDE5NTQ                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td width=3D"3" valign=3D"middle" class=3D"hide"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2014/isl-dot_divide.png" width=3D"3" height=3D"24"></td>
+                            
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td valign=3D"middle" style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px;" class=3D"hide" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128320554/7/=3Fa8aed3dd=3DNTcwMDE5NTQ                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              
+              <!-- ********** Dark blue NAV ********** -->
+              
+            </table></td>
+        </tr>
+        
+        <!--END HTML NAV--> 
+        
+        <!-- ********** MAIN BANNER ********** -->
+        <tr>
+          <td background=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/main-banner.jpg" bgcolor=3D"#00a7e2" style=3D"background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/main-banner.jpg);" valign=3D"top" class=3D"mobMainbnr" align=3D"center"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:620px;height:570px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/main-banner.jpg" color=3D"#00a7e2" />
+    <v:textbox inset=3D"0,0,0,0">
+<![endif]-->
+            
+            <table width=3D"100              <tr>
+                <td style=3D"padding-top:25px; padding-bottom:0px;" valign=3D"top" align=3D"center"><table width=3D"100                    <tr>
+                      <td width=3D"50                            <td><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129232398/8/=3Fa8aed3dd=3DNTcwMDE5NTQ                          </tr>
+                          <tr class=3D"hide">
+                            <td><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129232398/9/=3Fa8aed3dd=3DNTcwMDE5NTQ                          </tr>
+                      </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td style=3D"padding-top:0px" align=3D"center"><table width=3D"95                    <tr>
+                      <td width=3D"280" valign=3D"top" class=3D"offers-width" align=3D"center"><table width=3D"100                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table width=3D"100                                <tr>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:18px; font-weight:normal; color:#ffffff; text-transform:uppercase;" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128985999/10/=3Fa8aed3dd=3DNTcwMDE5NTQ                                 
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td class=3D"hide">&nbsp;</td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td style=3D"padding-top:0px" align=3D"center"><table width=3D"95                    <tr>
+                      <td width=3D"280" valign=3D"top" class=3D"offers-width" align=3D"center"><table width=3D"100                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128985999/11/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128985999/12/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128985999/13/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/14/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/15/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/16/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/17/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/18/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127989477/19/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td class=3D"hide">&nbsp;</td>
+                      <td width=3D"280" class=3D"offers-width" align=3D"center"><table width=3D"100                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980864/20/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980864/21/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980864/22/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980865/23/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980865/24/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980865/25/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding-bottom:6px; padding-top:0px;"><table bgcolor=3D"#f8f4ee" width=3D"100                                <tr>
+                                  <td width=3D"15" valign=3D"middle" height=3D"50"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" width=3D"15" height=3D"40" style=3D"display:block" border=3D"0" /></td>
+                                  <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:normal; color:#14295e" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980866/26/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"4"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" width=3D"2" height=3D"32" style=3D"display:block" border=3D"0" /></td>
+                                  <td width=3D"100" style=3D"padding-left:3px;" align=3D"right"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#14295e"> FROM </font> <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980866/27/=3Fa8aed3dd=3DNTcwMDE5NTQ                                  <td width=3D"17" style=3D"padding-left:2px;" valign=3D"middle"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127980866/28/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align=3D"center"><table width=3D"95                    <tr>
+                      <td style=3D"padding-top:10px; padding-bottom:20px" align=3D"right"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128320559/29/=3Fa8aed3dd=3DNTcwMDE5NTQ                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+<![endif]--></td>
+        </tr>
+        <tr>
+          <td valign=3D"top" style=3D"padding-bottom:0px;"><img width=3D"620" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131226-boxingday/div-shad.gif" style=3D"display:block" alt=3D"" height=3D"15" border=3D"0" class=3D"resizebnr" /></td>
+        </tr>
+        <!-- ********** END MAIN BNR ********** --> 
+        
+         
+      
+       
+      
+          <!-- Start dynamic Scotland retail  banner -->
+      
+        
+
+     <!-- End dynamic Scotland retail  banner  -->
+      <!-- start duyanmic couples  title -->
+        
+       
+        
+        <!--  END duyanmic couplesitle --> 
+       <!-- ********** START DYNAMIC COUPLES BANNER ********** -->
+        
+        
+        <!-- ********** END SUB BNR COUPLES ********** -->
+         <!-- start duyanmic family  title -->
+        
+        
+<tr><td style=3D"padding-bottom:10px;"><table width=3D"100<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:620px;height:253px;"><v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/couples.jpg" color=3D"#007bc3" /><v:textbox inset=3D"0,0,0,0"><![endif]--><table width=3D"95<tr><td align=3D"center"><a  href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223164/28/=3Fa8aed3dd=3DNTcwMDE5NTQ<tr><td width=3D"12"><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td><td width=3D"226"><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td><td width=3D"12"><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td></tr><tr><td><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"15" border=3D"0" /></td>
+<td style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:17px; font-weight:normal; color:#FFFFFF;  text-transform:uppercase;" align=3D"left"><a  href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223164/29/=3Fa8aed3dd=3DNTcwMDE5NTQ</tr><tr><td><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td><td><img width=3D"15" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td><td><img width=3D"12" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"12" border=3D"0" /></td></tr></table></td><td class=3D"hide"><img width=3D"87" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"1" border=3D"0" /></td>
+</tr></table></td><td class=3D"mobile-float" width=3D"249" align=3D"center" valign=3D"top"><table width=3D"249" cellspacing=3D"0" border=3D"0" cellpadding=3D"0"><tr><td width=3D"249" align=3D"center" style=3D"padding-bottom:20px;"><table width=3D"249" cellspacing=3D"0" border=3D"0" cellpadding=3D"0"><tr><td><table width=3D"249" cellspacing=3D"0" border=3D"0" cellpadding=3D"0" bgcolor=3D"#eee9da"><tr><td width=3D"15"><img width=3D"15" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"44" border=3D"0" /></td>
+<td width=3D"135" style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:15px; font-weight:normal; color:#333333" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223165/30/=3Fa8aed3dd=3DNTcwMDE5NTQ<td width=3D"70" align=3D"left" bgcolor=3D"#f2eadc"><font style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#787878"> FROM </font><br><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223165/31/=3Fa8aed3dd=3DNTcwMDE5NTQ<td bgcolor=3D"#f2eadc" width=3D"17"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223165/32/=3Fa8aed3dd=3DNTcwMDE5NTQ<tr><td width=3D"15"><img width=3D"15" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"44" border=3D"0" /></td><td width=3D"135" style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:15px; font-weight:normal; color:#333333" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223166/33/=3Fa8aed3dd=3DNTcwMDE5NTQ<td align=3D"left" width=3D"10"><img width=3D"2" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style=3D"display:block" height=3D"32" border=3D"0" /></td><td width=3D"70" align=3D"left"><font style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#787878"> FROM </font><br>
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223166/34/=3Fa8aed3dd=3DNTcwMDE5NTQ<td width=3D"17"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223166/35/=3Fa8aed3dd=3DNTcwMDE5NTQ<tr><td width=3D"15"><img width=3D"15" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"44" border=3D"0" /></td><td width=3D"135" style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:15px; font-weight:normal; color:#333333" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223167/36/=3Fa8aed3dd=3DNTcwMDE5NTQ<td align=3D"left" width=3D"10"><img width=3D"2" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style=3D"display:block" height=3D"32" border=3D"0" /></td><td width=3D"70" align=3D"left" bgcolor=3D"#f2eadc"><font style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#787878"> FROM </font><br>
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223167/37/=3Fa8aed3dd=3DNTcwMDE5NTQ<td bgcolor=3D"#f2eadc" width=3D"17"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223167/38/=3Fa8aed3dd=3DNTcwMDE5NTQ<tr><td width=3D"15"><img width=3D"15" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"44" border=3D"0" /></td><td width=3D"135" style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:15px; font-weight:normal; color:#333333" align=3D"left"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223168/39/=3Fa8aed3dd=3DNTcwMDE5NTQ<td align=3D"left" width=3D"10"><img width=3D"2" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style=3D"display:block" height=3D"32" border=3D"0" /></td><td width=3D"70" align=3D"left"><font style=3D"font-family: 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:11px; color:#787878"> FROM </font><br>
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223168/40/=3Fa8aed3dd=3DNTcwMDE5NTQ<td width=3D"17"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223168/41/=3Fa8aed3dd=3DNTcwMDE5NTQ<td align=3D"right" style=3D"padding-top:10px;"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223164/42/=3Fa8aed3dd=3DNTcwMDE5NTQ</v:rect><![endif]--></td></tr><tr><td><img width=3D"10" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" height=3D"20" style=3D"display:block" alt=3D"" border=3D"0"></td></tr>
+
+        
+        <!--  END  duyanmic family couplesitle --> 
+         <!-- ********** START SUB BANNER FAMILY ********** -->
+        
+         
+        <!-- ********** END SUB BNR FAMILY ********** -->
+        
+        
+        <!-- Section title -->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px;"><table width=3D"100              <tr>
+                <td style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #5c96c2; padding-bottom:7px;" class=3D"subheader-mobile"> Some of our best summer HOLIDAY deals </td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Section title --> 
+        
+        <!-- Headers -->
+        
+        <tr>
+          <td height=3D"25" valign=3D"top" align=3D"center"><table width=3D"100              <tr>
+                <td width=3D"38                <td width=3D"22                    <tr>
+                      <td width=3D"60                      <td width=3D"40                    </tr>
+                  </table></td>
+                <td width=3D"20                    <tr>
+                      <td width=3D"50                      <td width=3D"50                    </tr>
+                  </table></td>
+                <td width=3D"20              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Headers --> 
+        
+        <!-- * OFFERS * -->
+        
+        <tr>
+          <td><table width=3D"100               
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100SC</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/117802439/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/117802439/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">London Gatwick
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100AI</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237707/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237707/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">London Gatwick
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100SC</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237434/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237434/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">London Gatwick
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100AI</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129263388/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129263388/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">Birmingham
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100SC</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/124180273/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/124180273/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">Birmingham
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100AI</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127700363/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127700363/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">Manchester
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100SC</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237285/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237285/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">Manchester
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100SC</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/125342774/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/125342774/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">Birmingham
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100AI</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/122291695/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/122291695/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">London Gatwick
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+<tr><td align=3D"center" class=3D"offerrow-ht" width=3D"100<td width=3D"38<td width=3D"22</tr></table></td><td width=3D"20<table width=3D"100AI</td></tr></table></td><td class=3D"mobile-float" width=3D"50</td></tr></table></td><td width=3D"20<td class=3D"offercell-ht" align=3D"right" valign=3D"middle"><a class=3D"fontsizeB" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127468028/132/=3Fd74a0f2a=3DNTcwMDE5NTQ<td class=3D"hide" width=3D"16" align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; color:#333333">
+<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/127468028/133/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr></table></td></tr><tr><td align=3D"center"><table width=3D"100</td><td align=3D"left" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:11px; text-transform:uppercase; color:#666666">London Gatwick
+</td><td align=3D"right" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:10px; font-weight:bold; color:#D63434"></td>
+</tr></table></td></tr></table></td></tr>
+
+
+            </table></td>
+        </tr>
+        
+        <!-- * OFFERS * --> 
+        
+        <!-- Legend -->
+        
+        <tr class=3D"">
+          <td bgcolor=3D"#f5f0e4" style=3D"padding-bottom:10px" align=3D"center"><table width=3D"95              <tr>
+                <td width=3D"70                    <tr>
+                      <td style=3D"padding-bottom:5px;"><table width=3D"100                          <tr>
+                            <td><table width=3D"50" cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td width=3D"25" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:11px; color:#333333" align=3D"left">1-5</td>
+                                  <td width=3D"25" align=3D"left"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/offers_Ticon_lightsand.gif" width=3D"13" height=3D"13" style=3D"display:block" border=3D"0" /></td>
+                                </tr>
+                              </table></td>
+                            <td width=3D"354" style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:11px; color:#333333" align=3D"left"> - T rating (based on appraisals and customer views) </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><table width=3D"100                          <tr>
+                            <td width=3D"50" align=3D"left"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/Sharing/sharing_4_lightsand.gif" width=3D"32" height=3D"19" style=3D"display:block" border=3D"0" /></td>
+                            <td style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:11px; color:#333333" align=3D"left"> - based on 4 adults sharing </td>
+                            <td style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:11px; color:#333333; border-left:1px solid #999999; padding-left:10px;" align=3D"left"> All prices stated are per person </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+                <td valign=3D"bottom" height=3D"30" class=3D"mobile-floattop" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/122664281/30/=3Fa8aed3dd=3DNTcwMDE5NTQ              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"10" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td>
+        </tr>
+        
+        <!-- Legend --> 
+        
+        <!-- ********** END x10 OFFERS TABLE ********** --> 
+         <!-- Section title -->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px;"><table width=3D"100              <tr>
+                <td style=3D"font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:20px; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #5c96c2; padding-bottom:7px;" class=3D"subheader-mobile"> Discover the beautiful Balearic islands </td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- End section title --> 
+        <!-- Start sub banner -->
+        <tr>
+          <td><table width=3D"620" cellspacing=3D"0" class=3D"full-width" border=3D"0" align=3D"center" cellpadding=3D"0">
+              <tr>
+                <td><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223175/31/=3Fa8aed3dd=3DNTcwMDE5NTQ              </tr>
+              <tr>
+                <td bgcolor=3D"#73AFDC" style=3D"padding-bottom:5px"><table width=3D"100                    <tr>
+                      <td class=3D"sub-bannertable"><table width=3D"100                          <tr>
+                            <td><table bgcolor=3D"#73AFDC" width=3D"100                                <tr>
+                                <td width=3D"152" class=3D"full-width"><table width=3D"100  <tbody>
+    <tr>
+      <td width=3D"8"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"8" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td><td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#FFFFFF; padding:8px 0; font-weight:bold;"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223176/32/=3Fa8aed3dd=3DNTcwMDE5NTQ    </tr>
+  </tbody>
+</table>
+</td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-left:8px; padding-bottom:8px;"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#FFFFFF;">FR0M</font> <a style=3D"color:#FFFFFF; text-decoration:none;" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223176/33/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:8px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223176/34/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                            <td><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/dots.png" style=3D"display:block" height=3D"52" border=3D"0" /></td>
+                            <td><table bgcolor=3D"#73AFDC" width=3D"100                                <tr>
+                                <td width=3D"153" class=3D"full-width"><table width=3D"100  <tbody>
+    <tr>
+      <td width=3D"8"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"8" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td><td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#FFFFFF; padding:8px 0; font-weight:bold;"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223177/35/=3Fa8aed3dd=3DNTcwMDE5NTQ
+    </tr>
+  </tbody>
+</table>
+</td>
+                                                                  </tr>
+                                <tr>
+                                  <td style=3D"padding-left:8px; padding-bottom:8px;"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#FFFFFF;">FR0M</font> <a style=3D"color:#FFFFFF; text-decoration:none;" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223177/36/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:8px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223177/37/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                                                    <td class=3D"hide"><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/dots.png" style=3D"display:block" height=3D"52" border=3D"0" /></td>
+                      <td class=3D"mobile-float"><table width=3D"100                          <tr>
+                            <td><table bgcolor=3D"#73AFDC" width=3D"100                                <tr>
+                                  <td width=3D"153" class=3D"full-width"><table width=3D"100  <tbody>
+    <tr>
+      <td width=3D"8"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"8" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td><td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#FFFFFF; padding:8px 0; font-weight:bold;"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223179/38/=3Fa8aed3dd=3DNTcwMDE5NTQ
+    </tr>
+  </tbody>
+</table>
+</td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-left:8px; padding-bottom:8px;"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#FFFFFF;">FR0M</font> <a style=3D"color:#FFFFFF; text-decoration:none;" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223179/39/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:8px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223179/40/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                            <td><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH150116/dots.png" style=3D"display:block" height=3D"52" border=3D"0" /></td>
+                            <td><table width=3D"100                          <tr>
+                          
+                            <td><table bgcolor=3D"#73AFDC" width=3D"100                                <tr>
+                                <td width=3D"152" class=3D"full-width"><table width=3D"100  <tbody>
+    <tr>
+      <td width=3D"8"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"8" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td>
+<td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#FFFFFF; padding:8px 0; font-weight:bold;"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223178/41/=3Fa8aed3dd=3DNTcwMDE5NTQ    </tr>
+  </tbody>
+</table>
+</td>
+                                  
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-left:8px; padding-bottom:8px;"><font style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#FFFFFF;">FR0M</font> <a style=3D"color:#FFFFFF; text-decoration:none;" href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223178/42/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:8px;" align=3D"center"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129223178/43/=3Fa8aed3dd=3DNTcwMDE5NTQ                                </tr>
+                              </table></td>
+                            
+                          </tr>
+                        </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td style=3D"padding-bottom:5px; font-size:0px; line-height:0px;" valign=3D"top" align=3D"center"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140829/div-shad.png" width=3D"620" height=3D"15" alt=3D"" style=3D"display:block" class=3D"resizebnr" border=3D"0" /></td>
+        </tr>
+        
+        <!-- End sub banner --> 
+       
+   <tr>
+          <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"10" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td>
+        </tr>
+         <!-- Start scene banner -->
+        <tr>
+                <td><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/129237171/45/=3Fa8aed3dd=3DNTcwMDE5NTQ                </tr>
+                <tr>
+  <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" width=3D"10" alt=3D"" style=3D"display:block" height=3D"20" border=3D"0"></td>
+  </tr>
+        <!-- End scene banner -->
+     
+        <!-- Section title -->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px"><table width=3D"100              <tr>
+                <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:20px; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #5c96c2; padding-bottom:7px;" class=3D"subheader-mobile"> WHAT  HOLIDAY ARE YOU LOOKING FOR=3F </td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Section title --> 
+        <!-- ********** START EMP ********** -->
+        <tr>
+          <td style=3D"padding-bottom:10px;" align=3D"center"><table width=3D"100              <tr>
+                <td width=3D"50                    <tr>
+                      <td width=3D"50                      <td width=3D"50                    </tr>
+                  </table></td>
+                <td width=3D"50                    <tr>
+                      <td width=3D"50                      <td width=3D"50                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- ********** END EMP ********** --> 
+        
+        <!-- ********** START SOCIAL LINKS ********** -->
+        
+        <tr class=3D"hide">
+          <td style=3D"padding:10px 0; border-top:1px solid #e2e2e2; border-bottom:1px solid #e2e2e2;"><table width=3D"100              <tr>
+                <td width=3D"120"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/8640/50/=3Fa8aed3dd=3DNTcwMDE5NTQ                <td width=3D"131"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/8641/51/=3Fa8aed3dd=3DNTcwMDE5NTQ                <td width=3D"127"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/8642/52/=3Fa8aed3dd=3DNTcwMDE5NTQ                <td width=3D"128"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/8643/53/=3Fa8aed3dd=3DNTcwMDE5NTQ                <td width=3D"114"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/8644/54/=3Fa8aed3dd=3DNTcwMDE5NTQ              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- ********** END SOCIAL LINKS ********** --> 
+        
+        <!--FOOTER--> 
+        
+        
+<tr><td><table width=3D"100<tr><td width=3D"335" style=3D"border-right:1px solid #8db6d5;" valign=3D"top" class=3D"hide" align=3D"left"><table width=3D"335" cellspacing=3D"0" border=3D"0" cellpadding=3D"0"><tr><td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:16px; font-weight:bold; color:#ffffff;" valign=3D"top" height=3D"28" align=3D"left"> Visit your local shops: </td></tr><tr>
+<td style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; color:#ffffff;" align=3D"left"> Please use our <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/115206542/744/=3Fd74a0f2a=3DNTcwMDE5NTQ<td width=3D"245" valign=3D"top" class=3D"full-width" align=3D"right"><table width=3D"225" cellspacing=3D"0" border=3D"0" class=3D"full-width" cellpadding=3D"0">
+<tr><td style=3D"padding-bottom:10px"><table width=3D"225" cellspacing=3D"0" border=3D"0" class=3D"full-width" cellpadding=3D"0"><tr><td width=3D"40" align=3D"center"><img width=3D"26" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH120702_NewFooter/screen.gif" style=3D"display:block" height=3D"16" border=3D"0" /></td>
+<td width=3D"185"><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/115206531/744/=3Fd74a0f2a=3DNTcwMDE5NTQ</tr></table></td></tr><tr><td><table width=3D"225" cellspacing=3D"0" border=3D"0" class=3D"full-width" cellpadding=3D"0"><tr><td width=3D"40" align=3D"center"><img width=3D"14" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH120702_NewFooter/phone.gif" style=3D"display:block" height=3D"21" border=3D"0" /></td><td width=3D"185" style=3D"font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:13px; font-weight:bold; color:#ffffff;">0871 231 4124<sup>&dagger;</sup><br/>
+<span style=3D"font-size:9px"><sup>&dagger;</sup>(Calls cost 10p per minute  plus network extras)</span></td></tr></table></td></tr><tr><td style=3D"padding-top:5px" align=3D"right"><img width=3D"90" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH130308/WOTlogo.gif" style=3D"display:block" height=3D"18" border=3D"0" /></td></tr></table></td></tr></table></td></tr></table></td></tr>
+ 
+        
+        <!--END FOOTER--> 
+        
+        <!-- ********** START TERMS AND CONDITIONS ********** -->
+        
+        <tr>
+          <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:9px; color:#555555; line-height:11px; padding:20px;"><strong>Terms and Conditions</strong><br/>
+            <br/>
+            *All prices quoted are correct as of 15th January 2015 at 6am. Advertised offers are subject to very limited availability. Prices quoted are per person for the dates, accommodation, board basis, departure points and number of persons sharing specified only and cannot be combined with any other offer. Price includes accommodation, flights, taxes,estimated fuel charges and are per person, based on maximum occupancy and the lowest priced room available on the date of departure unless stated otherwise. 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            Offers apply to new web bookings only unless stated otherwise. Additional supplements and charges may apply to all bookings. Thomson reserves the right to withdraw these offers without notice. Full booking terms and conditions apply, please <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/13414/55/">click here</a> for full details or see the relevant brochure. 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            Terms and conditions apply to all offers, for full terms and conditions specific to the advertised offers please click on the advertised offer.<br>
+            <br>
+            Additional supplements may apply. Not combinable with any other offer. We  reserve the right to withdraw all offers without notice at any time. See  thomson.co.uk or ask in store for offer details. Booking terms and conditions  apply. <br>
+            <br>
+            <strong>All Inclusive: </strong>all activities are subject to availability and may not be available at all hotels. All Inclusive drinks may vary and will only apply to locally produced alcoholic drinks which excludes exports. Please check at the time of booking. <br>
+            <br>
+            <Strong> holiday deals: </Strong><br/>
+                  <strong> Spain from &pound;219:</strong> departs Luton to Costa Dorada, Spain on 12th May 2015 for 7 nights, based on 2 adults sharing at SunClub Apartments  on a SC basis.<br>
+                  <strong> Greece from &pound;208:</strong> departs Luton to Corfu on 1st May 2015 for 7 nights based on 2 adults sharing at Kaloudis Village Apartments on a SC basis.<br>
+                  <strong> Cyprus from &pound;304:</strong> departs Gatwick to Cyprus on 3rd May 2015 for 7 nights based on 2 adults sharing at Loutsiana Apartments on a SC basis.<br>
+                  <strong> Greece from &pound;403:</strong> departs Manchester to Greece on 41st May 2015 for 7 nights based on 2 adults sharing at Hotel Louis Corcyra Beach  on an AI basis.<br>
+                  <strong> Canary Islands from &pound;230:</strong> departs Gatwick to Gran Canaria on 2nd May 2015 for 7 nights based on 2 adults sharing at Jardin Del Sol Apartments on a SC basis.<br>
+                   <strong> Egypt from &pound;605:</strong> departs Gatwick to Egypt on 4th May 2015 for 7 nights based on 2 adults sharing at Mercure Hurghada on an AI basis.<br>
+                   <strong> Florida from &pound;637:</strong> departs Gatwick to Florida on 2nd May 2015 for 7 nights based on 2 adults sharing at Rosen Inn International Drive on a RO basis.<br><br/>
+                  <strong> Sale now on: </strong> Refers to the discounted price available on selected Thomson holidays for a limited period, available on new bookings only. Offer available on bookings made online, over the telephone or in our retail shops. Sale price is automatically offered when booking online at thomson.co.uk, subject to limited availability. Our sale just got bigger refers to the second edition of our sale paper, which launched on 9th January. This sale paper contains more sale package holidays then the first edition of our sale paper which launched on 26th December 2014. To  view our sales brochure, please <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128839724/56/=3Fa8aed3dd=3DNTcwMDE5NTQ                  <strong> Save &pound;50 on summer 2015 holidays: </strong>The &pound;50 saving is a per booking discount code that is valid on package holidays departing between 1 May =96 31 October 2015. The offer applies to holidays booked on thomson.co.uk or booked in our travel shops or though the call centre. <br/>
+The offer is valid for new bookings made from 16th January 2015. A minimum spend of &pound;950 per booking applies. The offer does not apply to hotel only, flight only, cruise or ski bookings. This offer can only be redeemed once per booking. If booking on our website enter the code 49251 on to the holiday payment page on our website when making your booking. If booking in store quote code 49157 or if booking via the call centre quote code 49141. Please note that if booking in one of shops or via the call centre the discount code can only be used on the shop price and cannot be used on the price shown on any website. <br/>
+Normal booking terms and conditions apply. Offer is subject to availability and may change or be withdrawn without notice. This promotional code is non-transferable. Not valid in conjunction with any other discount code. For full terms and conditions please <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/128820897/57/=3Fa8aed3dd=3DNTcwMDE5NTQ                  <br/>
+                   <strong> Balearic Holidays</strong><br>
+                  <strong> Majorca from &pound;411:</strong> departs Cardiff to Majorca on 30th July 2015 for 7 nights, based on 2 adults sharing at Protur Bahia Azul Apartments on a SC basis.<br>
+                  <strong> Menorca from &pound;253:</strong> departs Gatwick to Menorca on 1st May 2015 for 7 nights, based on 2 adults sharing atSon Bou Gardens on a SC basis.<br>
+                  <strong> Ibiza from &pound;257:</strong> departs Gatwick to Ibiza on 2nd May 2015 for 7 nights, based on 2 adults sharing at Marian  on a SC basis.<br> 
+                  <STRONG>Formentera from &pound;473:</strong> departs Gatwick to Ibiza (followed by a ferry transfer to Formentera) on 2nd May 2015 for 7 nights, based on 2 adults sharing at Insotel Hotel Formentera Playa  on on a HB basis.<br><br/>
+                 <strong>Couples holidays</strong><br/>
+<strong>The Balearic Islands from &pound;445: </strong>departs Gatwick to Menorca on 4th May 2015 for 7 nights, based on 2 adults sharing at Hotel Audax & Wellness Centre on a HB basis.<br/>
+<strong>Portugal from &pound;404:</strong> departs Gatwick to Madeira, Portugal on 4th May 2015 for 7 nights, based on 2 adults sharing at Hotel Savoy Gardens  on a HB basis.<br/>
+<strong>Turkey from &pound;500:</strong> departs Gatwick to Turkey on 5th October 2015 for 7 nights, based on 2 adults sharing at Sensimar Bodrum  on a AI basis.<br/>
+<strong>Morocco from &pound;291:</strong> departs Gatwick to Morocco on 23rd January 2015 for 7 nights, based on 2 adults sharing at Medina Gardens  on a HB basis.<br/><br/>
+
+    
+                  <strong> School holiday deals:</strong><br/>
+                  <strong>Majorca from &pound;411:</strong> departs Cardiff to Majorca on 30th July 2015 for 7 nights, based on 2 adults sharing at Protur Bahia Azul Apartments on a SC basis.<br>
+                  <strong>The Canaries from &pound;412:</strong> departs Gatwick to Gran Caneria on 30th July 2015 for 7 nights, based on 2 adults sharing at Rocamar on a SC basis.<br>
+                  <strong>Turkey  from &pound;348:</strong> departs Gatwick to Turkey on 30th July 2015 for 7 nights, based on 2 adults sharing at Sun Apartments  on a SC basis.<br> 
+                    <strong>Greece from &pound;363:</strong> departs Leeds Bradford to Corfu, Greece on 3rd August 2015 for 7 nights, based on 2 adults sharing at Spiros Apartments  on a SC basis.<br>
+                    <STRONG>free child places:</STRONG> subject to limited availability. Offer applies to new bookings only. Valid
+on selected Thomson holidays departing between 1st May 2015 =96 31st October 2015. Free kids places are available in selected hotels and apartments only. Only one free child's place is available in each hotel room or selected apartment type or villa where one child is sharing with two full fare paying adults, other children must pay the full brochure price.<br/><br/>
+                    
+                     <strong> Save &pound;50 on Thomson Scene summer 2015 holidays: </strong>The &pound;50 saving is a per booking discount code that is valid on package holidays departing between 1 May =96 31 October. The offer applies to holidays booked in our travel shops or though the call centre only. <br/>
+The offer is valid for new bookings made from 16th January 2015. A minimum spend of &pound;500 per booking applies. The offer does not apply to hotel only, flight only, cruise or ski bookings. This offer can only be redeemed once per booking. If booking on our website enter the code 49196 on to the holiday payment page on our website when making your booking  If booking in store quote code 49200 or if booking via the call centre quote code 49216. Please note that if booking in one of shops or via the call centre the discount code can only be used on the shop price and cannot be used on the price shown on any website. <br/>
+                   All advertised shop opening times are subject to change.<br/><br/>
+                   
+                   <strong> Save &pound;80 on summer 2015 holidays departing from Glasgow: </strong>The &pound;80 saving is a per booking discount code that is valid on package holidays departing between 1 May =96 31 October from 2015 Glasgow airport. The offer applies to holidays booked oin our travel shops or though the call centre only. <br/>
+The offer is valid for new bookings made from 16th January 2015 until 19th January 2015. A minimum spend of &pound;900 per booking applies. The offer does not apply to hotel only, flight only, cruise or ski bookings. This offer can only be redeemed once per booking.  If booking in store quote code 49255 or if booking via the call centre quote code 49287. Please note that if booking in one of shops or via the call centre the discount code can only be used on the shop price and cannot be used on the price shown on any website. <br/>
+Normal booking terms and conditions apply.<BR/><BR/>
+All advertised shop opening times are subject to change.<br/><br/>
+            Calls to 0871 numbers cost 10p per minute plus network extras. Calls may be recorded for quality monitoring and training purposes. Our call centre is open weekdays from 8am-9pm and weekends from 9am-7pm. There are no additional charges when paying by Maestro, MasterCard Debit, Visa Debit and Delta debit cards. A  fee of 2            <br>
+            In order to tailor our communications to suit you, we look at your previous interactions with our brand including your activities on our websites, to personalise your emails. If you would prefer to receive un-personalised communication from us instead this is fine, but please <a href=3D"http://access2.creatormail.co.uk/tuiLyris11/TUI.ClientUI/Thomson/UpdateDetails/webopt.aspx=3F&p=3Dpaulne_jones_1957@fs.net&v=3D1a7c7beae4c67567f52cef6bfe2376ae&o=3D1891123&l=3Dthomson_marketing&b=3Dthomson">click here</a> to let us know.<br/>
+            <br>
+            Many of the flights and flight-inclusive holidays are financially protected by the ATOL scheme. But ATOL protection does not apply to all holiday and travel services listed.  Please ask us to confirm what protection may apply to your booking. If you do not receive an ATOL Certificate then the booking will not be ATOL protected.<br/>
+            If you do receive an ATOL Certificate but all the parts of your trip are not listed on it, those parts will not be ATOL protected. Please see our booking conditions for information, or for more information about financial protection and the ATOL Certificate go to: www.atol.org.uk/ATOLCertificate. TUI UK Limited ATOL 2524.<a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/5155/58/=3Fa8aed3dd=3DNTcwMDE5NTQ            <br/>
+            <strong>We are unable to respond to replies to this email, please use our </strong><a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/5156/59/=3Fa8aed3dd=3DNTcwMDE5NTQ            <br>
+            To unsubscribe from  receiving emails from Thomson please <a style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #3250BE; text-decoration: underline;" href=3D"http://access2.creatormail.co.uk/tuiLyris11/tui.clientui/thomson/unsubscribe/default.aspx=3F&p=3Dpaulne_jones_1957@fs.net&v=3D1a7c7beae4c67567f52cef6bfe2376ae&o=3D1891123&l=3Dthomson_marketing&b=3Dthomson" target=3D"_blank">click here</a>.<br/>
+            <br/>
+            We will hold your details in accordance with our <a href=3D"http://email2.thomson.co.uk/t/1891123/57001954/5157/60/=3Fa8aed3dd=3DNTcwMDE5NTQ            <br>
+            <table width=3D"90              <tr>
+                <td style=3D"font-family:'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:9px; color:#555555;">Thomson is a trading name of TUI UK Ltd, a member of the TUI AG group of companies, registered in England and Wales under number 2830117 and whose registered office is at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex, RH10 9QL</td>
+                <td width=3D"55" align=3D"right"><img width=3D"55" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/2008general/icons/logo_atol.gif" height=3D"62" style=3D"display:block" border=3D"0" align=3D"right" /></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- ********** END TERMS AND CONDITIONS ********** -->
+      </table>
+      
+    <!-- ********** WRAPPER TABLE ENDS BELOW  ********** --></td>
+  </tr>
+</table>
+<IMG ALT=3D"" SRC=3D"http://email2.thomson.co.uk/db/1891123/57001954/1.gif" WIDTH=3D1 HEIGHT=3D1><img src=3D'http://t2e.thomson.co.uk/zag2.gif=3FLog=3D1&cmid=3D57001954&ecamp=3Dw1891123' border=3D'0' width=3D'1' height=3D'1' /><img src=3D'http://access2.creatormail.co.uk/TUI_DeviceDetector/DeviceDetector.ashx=3F&l=3Dthomson_marketing&m=3D57001954&o=3D1891123&ewid=3D&c=3D2' width=3D'1' height=3D'1' /></body>
+</html>
+

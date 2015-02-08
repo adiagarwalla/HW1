@@ -1,0 +1,286 @@
+From @..  Tue Jan 20 01:47:11 2015
+Return-Path: <@..>
+X-Original-To: reenosherratt@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 80EEFDE; Tue, 20 Jan 2015 01:47:11 +0000 (UTC)
+Received: from mail140.wdc04.mandrillapp.com (mail140.wdc04.mandrillapp.com [205.201.131.140])
+    by .. with SMTP id 6wj73bt52vraygbtzfknt37vcn;
+    for reenosherratt@fs.net;
+    Tue, 20 Jan 2015 01:47:11 +0000 (UTC)
+    (envelope-from bounce-md_30245610.54bdb38f.v1-1c5fe6de06aa4784bcfea70fded798dc@mandrillapp.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=205.201.131.140;
+    envelope-from=<bounce-md_30245610.54bdb38f.v1-1c5fe6de06aa4784bcfea70fded798dc@mandrillapp.com>;
+    helo=mail140.wdc04.mandrillapp.com; mechanism=include:spf.mandrillapp.com
+    (ip4:205.201.131.128/25 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=205.201.131.140; client-port=48222;
+    syn-fingerprint=14600:55:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 129.250.8.193
+    129.250.5.188 204.2.241.42 173.192.18.152 173.192.18.203 208.43.118.159;
+    network-path-time=1421718431
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail140.wdc04.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=ventas@mail140.wdc04.mandrillapp.com;
+ bh=lR261bcLI/vYrCPyafrxdlvv1jg=;
+ b=T0hVlVOLBXXeiQ9U0NwvM/QDpdwY0P5+0jpf99y4f4UkU1hq6m/ney/xFRbxHnfY53pHROKzx2MF
+   mzQ1oSkDoLyOiPYv3ypyWTGe6mHZXT9d9+1w36jNc5tWLAQXv11pciZBNgCDcUBNzHngXglzKNG4
+   ey4yIeaakUl4636DF84=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail140.wdc04.mandrillapp.com;
+ b=msVG0TciUck5e0upJs4pg41pgs/WE9xPZTJ9naPJ1hISejCY+c5ewYnamY4vLIRhpr7feYb1oPT6
+   eiM6V01ITaP/Buy2gPrHZLeV+2hLjD6DUAfdBJT8sDzVucA7zkviqIXnrqd3D3ue2FxumXtMs80D
+   SG4Y+Js+z2nt+znbT4E=;
+Received: from pmta05.wdc01.mailchimp.com (127.0.0.1) by mail140.wdc04.mandrillapp.com id hnmppu1jvjg0 for <reenosherratt@fs.net>; Tue, 20 Jan 2015 01:46:55 +0000 (envelope-from <bounce-md_30245610.54bdb38f.v1-1c5fe6de06aa4784bcfea70fded798dc@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1421718415; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : From : Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=k7eJPajRH+0pQSjfwPRu+gjRseIhlrsbOFTNfvHgjVk=; 
+ b=XD3NAPCX82vrjqg5VXY/AC/qBo5bbNz4B4xbPelJrjYhyzJRRRoL88Icnv4rdaVkHNVUEj
+ dLdyNtYA9VvjlJsi8pSUxO2ek2X7gzGr8R2P59N3E6F1K9yh4LL0fWy6XXqY9pkf3TYy4CYG
+ 8VGGG/Fyzy6MWxiyvk93nmt+fBF5I=
+From: Super Market 50 <@..>
+Sender: Super Market 50 <@..>
+Subject: =?utf-8?Q?Recarga=20Doble=20de=20Cubacel=20!!=20Del=2020=20al=2023=20de=20Enero!!!=20Comienza=20hoy!!!=20Gana=20una=20reservaci=C3=B3n=20en=20El=20Palenque!!=20?=
+To: <@..>
+Received: from [198.58.87.6] by mandrillapp.com id 1c5fe6de06aa4784bcfea70fded798dc; Tue, 20 Jan 2015 01:46:55 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30245610.1c5fe6de06aa4784bcfea70fded798dc
+X-Mandrill-User: md_30245610
+Message-Id: <30245610.20150120014655.54bdb38faeec38.34693349@mail140.wdc04.mandrillapp.com>
+Date: Tue, 20 Jan 2015 01:46:55 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-Wmh3NhEadI3aAFopOTMxVw"
+
+--_av-Wmh3NhEadI3aAFopOTMxVw
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ <http://www.recargamovilencuba.com> <http://www.recargamovilencuba.com>
+<http://www.recargamovilencuba.com> <http://www.recargamovilencuba.com>
+<http://www.recargamovilencuba.com> <http://www.recargamovilencuba.com>
+<http://www.recargamovilencuba.com> <http://www.recargamovilencuba.com>    
+           Pol=C3=ADtica de privacidad
+<httphttp://www.recargamovilencuba.com/es/recargas-politica-de-privacidad>
+| Condiciones de Uso
+<http://www.recargamovilencuba.com/es/recargas-condiciones-de-uso> |
+Qui=C3=A9nes Somos
+<http://www.recargamovilencuba.com/es/recargas-quienes-somos>    
+ Inicio <http://www.recargamovilencuba.com/es/> | Ayuda
+<http://www.recargamovilencuba.com/es/recargas-ayuda> | Contacto
+<http://www.recargamovilencuba.com/es/contactus>    
+ Si no desea recibir este tipo de correos electr=C3=B3nicos de
+RecargaMovilEnCuba, cancele su suscripci=C3=B3n.
+<www.supermarket50.com/newsletter/subscriptionactivation/8343e6b6-9f3e-42fb=
+-82fb-faa418bac4de/false>
+   
+ 2014 RecargaMovilEnCuba. =C2=A9 Todos los derechos reservados.
+
+--_av-Wmh3NhEadI3aAFopOTMxVw
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"0" width=3D"590" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td>
+<table id=3D"Tabla_01" border=3D"0" width=3D"590" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"http://mandrillapp.com/track/click/30245610/www.recargamovil=
+encuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIiwidiI6MSwicCI6=
+IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2F=
+yZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZW=
+Q3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ3NGY1NjVkOTZjM=
+mNjY2Y5NGFcIl19In0" target=3D"_self"><img src=3D"http://www.supermarket50.c=
+om/content/images/uploaded/campaign/1-general-imgs/head-recharges_01.jpg" a=
+lt=3D"www.recargamovilencuba.com" width=3D"197" height=3D"83" border=3D"0" =
+/></a></td>
+<td><img src=3D"http://www.supermarket50.com/content/images/uploaded/campai=
+gn/1-general-imgs/head-recharges_02.jpg" alt=3D"" width=3D"393" height=3D"8=
+3" border=3D"0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table id=3D"Tabla_01" border=3D"0" width=3D"590" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td colspan=3D"4"><img src=3D"http://www.supermarket50.com/content/images/u=
+ploaded/campaign/rec-20150119/bol-rec20150119_01.jpg" alt=3D"" width=3D"590=
+" height=3D"296" border=3D"0" /></td>
+</tr>
+<tr>
+<td colspan=3D"4"><a href=3D"http://mandrillapp.com/track/click/30245610/ww=
+w.recargamovilencuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIi=
+widiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cX=
+Fwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0=
+YmNmZWE3MGZkZWQ3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ=
+3NGY1NjVkOTZjMmNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/=
+content/images/uploaded/campaign/rec-20150119/bol-rec20150119_02.jpg" alt=
+=3D"" width=3D"590" height=3D"153" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td colspan=3D"4"><a href=3D"http://mandrillapp.com/track/click/30245610/ww=
+w.recargamovilencuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIi=
+widiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cX=
+Fwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0=
+YmNmZWE3MGZkZWQ3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ=
+3NGY1NjVkOTZjMmNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/=
+content/images/uploaded/campaign/rec-20150119/bol-rec20150119_03.jpg" alt=
+=3D"" width=3D"590" height=3D"269" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td colspan=3D"4"><a href=3D"http://mandrillapp.com/track/click/30245610/ww=
+w.recargamovilencuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIi=
+widiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cX=
+Fwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0=
+YmNmZWE3MGZkZWQ3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ=
+3NGY1NjVkOTZjMmNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/=
+content/images/uploaded/campaign/rec-20150119/bol-rec20150119_04.jpg" alt=
+=3D"" width=3D"590" height=3D"180" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://mandrillapp.com/track/click/30245610/www.recargamovil=
+encuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIiwidiI6MSwicCI6=
+IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2F=
+yZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZW=
+Q3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ3NGY1NjVkOTZjM=
+mNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/content/images=
+/uploaded/campaign/rec-20150119/bol-rec20150119_05.jpg" alt=3D"" width=3D"1=
+40" height=3D"61" border=3D"0" /></a></td>
+<td><a href=3D"http://mandrillapp.com/track/click/30245610/www.recargamovil=
+encuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIiwidiI6MSwicCI6=
+IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2F=
+yZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZW=
+Q3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ3NGY1NjVkOTZjM=
+mNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/content/images=
+/uploaded/campaign/rec-20150119/bol-rec20150119_06.jpg" alt=3D"" width=3D"1=
+55" height=3D"61" border=3D"0" /></a></td>
+<td><a href=3D"http://mandrillapp.com/track/click/30245610/www.recargamovil=
+encuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIiwidiI6MSwicCI6=
+IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2F=
+yZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZW=
+Q3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ3NGY1NjVkOTZjM=
+mNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/content/images=
+/uploaded/campaign/rec-20150119/bol-rec20150119_07-1.jpg" alt=3D"" width=3D=
+"139" height=3D"61" border=3D"0" /></a></td>
+<td><a href=3D"http://mandrillapp.com/track/click/30245610/www.recargamovil=
+encuba.com?p=3DeyJzIjoiZVVHdmFWRXNBVl9TZmpqVXZaQUkyRGgtU19zIiwidiI6MSwicCI6=
+IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2F=
+yZ2Ftb3ZpbGVuY3ViYS5jb21cIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZW=
+Q3OThkY1wiLFwidXJsX2lkc1wiOltcIjBmMWY3ZTgxMGMzODZkYWE4OTIwMmQ3NGY1NjVkOTZjM=
+mNjY2Y5NGFcIl19In0"><img src=3D"http://www.supermarket50.com/content/images=
+/uploaded/campaign/rec-20150119/bol-rec20150119_08-1.jpg" alt=3D"" width=3D=
+"156" height=3D"61" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#333333">
+<table border=3D"0" width=3D"590" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td style=3D"font-family: geneva, verdana, arial, helvetica, sans-serif; fo=
+nt-size: 9px; color: #333; line-height: 12px;" align=3D"left">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"font-family: geneva, verdana, arial, helvetica, sans-serif; fo=
+nt-size: 9px; color: #fff; line-height: 12px;" align=3D"left"><span style=
+=3D"display: block; padding: 0px 19px 0px 18px; text-align: center; margin:=
+ 0px; line-height: 12px;"> <a style=3D"font-family: geneva, verdana, arial,=
+ helvetica, sans-serif; font-size: 9px; line-height: 12px; color: #fff; tex=
+t-decoration: underline;" href=3D"httphttp://www.recargamovilencuba.com/es/=
+recargas-politica-de-privacidad" target=3D"_blank">Pol&iacute;tica de priva=
+cidad</a> | <a style=3D"font-family: geneva, verdana, arial, helvetica, san=
+s-serif; font-size: 9px; line-height: 12px; color: #fff; text-decoration: u=
+nderline;" href=3D"http://mandrillapp.com/track/click/30245610/www.recargam=
+ovilencuba.com?p=3DeyJzIjoiRFdyODdWOTFtY0RZRk0wWHp5emhJcmd2a1JjIiwidiI6MSwi=
+cCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJ=
+lY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cXFwvZXNcXFwvcmVjYXJnYXMtY29uZGljaW9uZXMtZGUtdX=
+NvXCIsXCJpZFwiOlwiMWM1ZmU2ZGUwNmFhNDc4NGJjZmVhNzBmZGVkNzk4ZGNcIixcInVybF9pZ=
+HNcIjpbXCI4ZTMwYTk1ZTQyMmE5NjQ3OTdiNWEzYWYwNmM0ZDY3M2Y1NTVmNmNiXCJdfSJ9" ta=
+rget=3D"_blank">Condiciones de Uso</a> | <a style=3D"font-family: geneva, v=
+erdana, arial, helvetica, sans-serif; font-size: 9px; line-height: 12px; co=
+lor: #fff; text-decoration: underline;" href=3D"http://mandrillapp.com/trac=
+k/click/30245610/www.recargamovilencuba.com?p=3DeyJzIjoiVDA5VmxmVzYyZU4yem1=
+xcTlkTi1jdE1hbEJJIiwidiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXC=
+I6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cXFwvZXNcXFwvcmVjY=
+XJnYXMtcXVpZW5lcy1zb21vc1wiLFwiaWRcIjpcIjFjNWZlNmRlMDZhYTQ3ODRiY2ZlYTcwZmRl=
+ZDc5OGRjXCIsXCJ1cmxfaWRzXCI6W1wiNWJiOWMwYmU2NmFiOTZiZTQzYzNjNTkxYjBhMDk3NDU=
+1ZmU3OGE1NFwiXX0ifQ" target=3D"_blank">Qui&eacute;nes Somos</a></span></td>
+</tr>
+<tr>
+<td style=3D"font-family: geneva, verdana, arial, helvetica, sans-serif; fo=
+nt-size: 9px; color: #cccccc; line-height: 12px;" align=3D"left"><span styl=
+e=3D"display: block; padding: 0px 19px 0px 18px; text-align: center; margin=
+: 0px; line-height: 12px; color: #fff;"> <br /> <a style=3D"font-family: ge=
+neva, verdana, arial, helvetica, sans-serif; font-size: 9px; line-height: 1=
+2px; color: #fff; text-decoration: underline;" href=3D"http://mandrillapp.c=
+om/track/click/30245610/www.recargamovilencuba.com?p=3DeyJzIjoiaURxanpSNDlR=
+OUkwaEpGRmM1LVpsR1Fub29zIiwidiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFw=
+idXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cXFwvZXNcXF=
+wvXCIsXCJpZFwiOlwiMWM1ZmU2ZGUwNmFhNDc4NGJjZmVhNzBmZGVkNzk4ZGNcIixcInVybF9pZ=
+HNcIjpbXCJhOTc3ODNkYjRiNWFhMzU5NDhlMmE2ZDVhNGVkYjhkODcwNzM4OGE5XCJdfSJ9" ta=
+rget=3D"_blank">Inicio</a> | <a style=3D"font-family: geneva, verdana, aria=
+l, helvetica, sans-serif; font-size: 9px; line-height: 12px; color: #fff; t=
+ext-decoration: underline;" href=3D"http://mandrillapp.com/track/click/3024=
+5610/www.recargamovilencuba.com?p=3DeyJzIjoiald4cTk5Q3ZPOGlNb3pGdTIteXh4cjF=
+rRkRBIiwidiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOl=
+xcXC9cXFwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cXFwvZXNcXFwvcmVjYXJnYXMtYXl1Z=
+GFcIixcImlkXCI6XCIxYzVmZTZkZTA2YWE0Nzg0YmNmZWE3MGZkZWQ3OThkY1wiLFwidXJsX2lk=
+c1wiOltcIjY5ZDlkYTY3OWU5ZTY2ZGQ2NjMyZmQwZDQxZTQ3MTg4NGRiNDY4OTVcIl19In0" ta=
+rget=3D"_blank">Ayuda</a> | <a style=3D"font-family: geneva, verdana, arial=
+, helvetica, sans-serif; font-size: 9px; line-height: 12px; color: #fff; te=
+xt-decoration: underline;" href=3D"http://mandrillapp.com/track/click/30245=
+610/www.recargamovilencuba.com?p=3DeyJzIjoiWmpCcWhyRW44MjR1SFMxTVNnU1dIZnJN=
+N19NIiwidiI6MSwicCI6IntcInVcIjozMDI0NTYxMCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlx=
+cXC9cXFwvd3d3LnJlY2FyZ2Ftb3ZpbGVuY3ViYS5jb21cXFwvZXNcXFwvY29udGFjdHVzXCIsXC=
+JpZFwiOlwiMWM1ZmU2ZGUwNmFhNDc4NGJjZmVhNzBmZGVkNzk4ZGNcIixcInVybF9pZHNcIjpbX=
+CIzNTgxMDMxYTAyMGY2YzAyZDFkYzE3MzkwN2QxNzhjMzhhZGEwOTljXCJdfSJ9" target=3D"=
+_blank">Contacto</a></span></td>
+</tr>
+<tr>
+<td style=3D"font-family: geneva, verdana, arial, helvetica, sans-serif; fo=
+nt-size: 9px; color: #cccccc; line-height: 12px;" align=3D"left"><span styl=
+e=3D"display: block; padding: 0px 19px 0px 18px; text-align: center; margin=
+: 0px; line-height: 12px; color: #fff;"> <br /> Si no desea recibir este ti=
+po de correos electr&oacute;nicos de RecargaMovilEnCuba,<a style=3D"font-fa=
+mily: geneva, verdana, arial, helvetica, sans-serif; font-size: 9px; line-h=
+eight: 12px; color: #fff000; text-decoration: underline;" href=3D"www.super=
+market50.com/newsletter/subscriptionactivation/8343e6b6-9f3e-42fb-82fb-faa4=
+18bac4de/false" target=3D"_blank"> cancele su suscripci&oacute;n.</a></span=
+></td>
+</tr>
+<tr>
+<td style=3D"font-family: geneva, verdana, arial, helvetica, sans-serif; fo=
+nt-size: 9px; color: #cccccc; line-height: 12px;" align=3D"left"><span styl=
+e=3D"display: block; padding: 0px 19px 0px 18px; text-align: center; margin=
+: 0px; line-height: 12px; color: #fff;"> <br /> 2014 RecargaMovilEnCuba. &c=
+opy; Todos los derechos reservados. </span></td>
+</tr>
+<tr>
+<td align=3D"left" height=3D"15">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"left" bgcolor=3D"#000000" height=3D"5">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table><img src=3D"http://mandrillapp.com/track/open.php?u=3D30245610&id=
+=3D1c5fe6de06aa4784bcfea70fded798dc" height=3D"1" width=3D"1">
+
+--_av-Wmh3NhEadI3aAFopOTMxVw--
+

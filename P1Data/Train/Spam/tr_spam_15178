@@ -1,0 +1,508 @@
+From @..  Sun Jan  4 13:01:32 2015
+Return-Path: <@..>
+X-Original-To: jhart@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 733BADE; Sun,  4 Jan 2015 13:01:32 +0000 (UTC)
+Received: from quinqueocto.delta.eccluster.com (quinqueocto.delta.eccluster.com [195.140.185.58])
+    by .. with SMTP id fh99e79zrtj65uj46avk9ieeww;
+    for jhart@fs.net;
+    Sun, 04 Jan 2015 13:01:32 +0000 (UTC)
+    (envelope-from g-18146716918-16620-1800404804-1420376476677@bounce.email.tsb.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.140.185.58;
+    envelope-from=<g-18146716918-16620-1800404804-1420376476677@bounce.email.tsb.co.uk>;
+    helo=quinqueocto.delta.eccluster.com; mechanism=ip4:195.140.184.0/22
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.140.185.58; client-port=59151;
+    syn-fingerprint=14600:45:1:52:M1380,N,N,S,N,W7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.134.1 4.69.134.1 62.140.24.62
+    217.64.171.114; network-path-time=1420376492
+Received: from app07.muc.ec-messenger.com (app07.muc.domeus.com [172.16.8.37])
+	by mta051.muc.domeus.com (READY) with ESMTP id A64313200F251
+	for <jhart@fs.net>; Sun,  4 Jan 2015 14:01:16 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.tsb.co.uk;
+	s=ecm1; t=1420376476;
+	bh=dkYU7AOhvqV0iVErZuYJVQTPwNouX2I8wHAzYPpBmAA=;
+	h=Date:From:Reply-To:To:Subject:List-Id:List-Help;
+	b=H+GBlwjDbcpX9T/6A64iqC6Sa5mZ3Dg6pU8p9AaLvJT8tig6rgQ+oxFlffA14e4A3
+	 lAkhBBMRld+k1lp0TQSHvuyEVPploqnqwsJpi86s7zzYiBKSwWJBhhhXuP1+yDu4Ag
+	 76wQH22WpETEbp+3YLoTCtbWcHFG5Pz59EYmdkSQ=
+Date: Sun, 4 Jan 2015 14:01:16 +0100 (CET)
+From: TSB <@..>
+Reply-To: TSB <@..>
+To: @..
+Message-ID: <1e25je.i4ifhblxqmeqtml@email.tsb.co.uk>
+Subject: Jane, you might be missing out without Internet Banking
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-eC-messenger-mid: 1800404804
+List-Id: <1800152177.email.tsb.co.uk>
+X-eC-messenger-cid: 16620
+X-eC-messenger-token: trwx8kI8c434dy
+X-eC-messenger-sender-domain: bounce.email.tsb.co.uk
+X-eC-messenger-sendouttypeid: 0
+X-eC-messenger-addresseeroleid: 1
+X-eC-messenger-recipienttypeid: 2
+List-Help: complaint@intl.teradatadmc.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-Mailer: eC-Messenger Build 6.90.871.3
+X-eC-messenger-email: jhart@fs.net
+
+<!doctype HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="title" content="TSB - IB Reminder Email 60 Day" />
+<meta name="JobNumber" content="81092" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<meta name="HandheldFriendly" content="true" />
+<title>Jane, you might be missing out without Internet Banking</title>
+<style type="text/css">
+body,
+html
+{
+	padding: 0;
+	margin: 0;
+	background-color: #d6f2fc;
+}
+
+img { display: block !important; }
+
+p
+{
+	margin: 0;
+	padding: 6px 0;
+}
+
+div,
+p,
+a,
+li,
+td { -webkit-text-size-adjust: none; }
+
+.ReadMsgBody { width: 100
+.ExternalClass { width: 100
+table,
+tr,
+td
+{
+	border-collapse: collapse !important;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+a:link { color: #0068b3; }
+
+a:visited { color: #0068b3; }
+
+@media (max-width: 480px) {
+
+table[class=FullWidth],
+td[class=FullWidth] { width: 300px !important; }
+
+img[class=FullWidth]
+{
+	width: 300px !important;
+	height: auto;
+}
+
+img[class=SpacerHeight] { height: 15px !important; }
+
+img[class=HideImage] { display: none !important; }
+
+td[class=CellAlignLeft] { text-align: left; }
+
+img[class=SpacerHeight30] { height: 30px !important; }
+
+table[class=BtnExtension250px] { width: 250px !important; }
+
+td[class=BtnExtension230px] { width: 230px !important; }
+}
+</style>
+</head>
+
+<body bgcolor="#d6f2fc">
+
+<!-- Top Container table used to center content -->
+<table width="100	<tr>
+		<td width="100			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" class="FullWidth" align="center" bgcolor="#e6f7fd">
+				<tr>
+					<td width="600" height="50" bgcolor="#e6f7fd">
+					
+					<table width="300" cellpadding="0" cellspacing="0" border="0" align="left" style="border:1px solid #e6f7fd" class="FullWidth">
+							<tr>
+								<td width="288" align="left" style="color:#0068b3; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:10px;" class="CellAlignLeft">We've noticed you've not logged in for a couple of months...</td>
+								<td width="10" style="line-height:1px; font-size:1px;"><img alt="" width="10" height="5" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+						</table>
+						
+						<table width="270" cellpadding="0" cellspacing="0" border="0" align="right" style="border:1px solid #e6f7fd" class="FullWidth">
+							<tr>
+								<td width="258" align="right" style="color:#0068b3; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:10px;" class="CellAlignLeft">Finding it tricky to read this email? <a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI0&req=tsp								<td width="10" style="line-height:1px; font-size:1px;"><img alt="" width="10" height="5" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+						</table>
+						
+						</td>
+				</tr>
+			</table>
+			
+			<!-- Disclaimer module - end --></td>
+	</tr>
+</table>
+<!-- END Top Container table used to center content --> 
+
+<!-- Main Container table used to center content -->
+<table width="100	<tr>
+		<td width="100			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6f2fc" class="FullWidth" align="center">
+				<tr>
+					<td width="10" style="line-height:1px; font-size:1px;">
+						<img alt="" width="10" height="5" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" class="FullWidth" align="center" bgcolor="#d6f2fc">
+				<tr>
+					<td width="50"><img src="http://email.tsb.co.uk/imgproxy/img/661172975/pre-header-padlock.gif" alt="" width="50" height="66" style="display:block;" border="0"></td>
+					<td width="550" align="left" style="color:#0068b3; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:10px; line-height:16px;">
+					We want you to recognise a fraudulent email if you receive one. We will always greet you personally with your name and  
+					quote the <span style="font-weight:bold;">last four digits of your account number: **** 5962.</span> 
+					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI1&req=WT.dcsvid					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6f2fc" class="FullWidth" align="center">
+				<tr>
+					<td width="10" style="line-height:1px; font-size:1px;">
+					<img alt="" width="10" height="5" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<!-- Pre header text - end --> 
+			
+			<!-- Header Branding top CTA -->
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" class="FullWidth" align="center" bgcolor="#ffffff">
+				<tr>
+					<td width="600" height="50" bgcolor="#ffffff">
+					
+					<table width="290" cellpadding="0" cellspacing="0" border="0" align="left" style="border:1px solid #ffffff">
+							<tr>
+								<td width="288" align="left"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI2&req=WT.dcsvid							</tr>
+						</table>
+						
+						<table width="290" cellpadding="0" cellspacing="0" border="0" align="right" style="border:1px solid #ffffff">
+							<tr>
+								<td width="5"><img src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" width="5" height="10" style="display:block;" class="SpacerHeight30" border="0" alt=""></td>
+								<td width="273" align="right" style="color:#0068b3; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:16px;" class="CellAlignLeft"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI3&req=WT.dcsvid								<td width="10"><img src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" width="10" height="90" style="display:block;" class="SpacerHeight30" border="0" alt=""></td>
+							</tr>
+						</table>
+					
+					</td>
+				</tr>
+			</table>
+			
+			<!-- END Header Branding top CTA -->
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="FullWidth" align="center">
+				<tr>
+					<td width="15" style="line-height:1px; font-size:1px;">
+					<img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+					<td width="570" align="left" style="color:#71baeb; font-size:32px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; line-height:40px;">
+					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI4&req=WT.dcsvid					<td width="15" style="line-height:1px; font-size:1px;"
+					><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+				</tr>
+			</table>
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="line-height:1px; font-size:1px;">
+					<img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="FullWidth" align="center">
+				<tr>
+					<td width="600"><table width="294" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" align="left" style="border:1px solid #ffffff">
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="277" align="left" style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;">
+								<table width="275" cellspacing="0" cellpadding="0" border="0" bgcolor="#d64090">
+										<tr>
+											<td width="275" align="left"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI5&req=WT.dcsvid										</tr>
+									</table>
+								<br>
+								
+								Hi Jane</span>,<br>
+									<br>
+									It's been a couple of months since you last logged in, so we thought you might 
+									like a quick reminder of some of the things you can do with Internet Banking that you might not have thought about.<br>
+									<br>
+									<!-- VERSION ONE --> 
+									
+									<span style="font-weight:bold;">What about... banking on the move?</span><br>
+									Get your local bank virtually anywhere: pay a bill on a bus, check your statements 
+									at the station. All with our free 
+									<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI6&req=WT.dcsvid									 
+									<!-- VERSION TWO --> 
+									 	
+									<!-- /VERSION TWO --> 
+									
+									<!-- VERSION THREE -->
+									 
+									<!-- /VERSION THREE -->
+									
+                      </span> <br><br> We're here to make sure you can make the most of internet banking. If there's anything we can help you with, please just get in touch.<br>
+									<br>
+									<table width="225" border="0" cellpadding="3" cellspacing="2">
+										<tr>
+											<td width="60" style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;">CALL: </td>
+											<td width="147" align="left" style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">0333 331 5281</td>
+										</tr>
+										<tr>
+											<td style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;">CLICK:</td>
+											<td align="left" style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIa&req=WT.dcsvid										</tr>
+										<tr>
+											<td style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;">VISIT:</td>
+											<td align="left" style="color:#0068b3; font-size:14px; line-height:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIb&req=WT.dcsvid										</tr>
+								</table></td>
+							</tr>
+						</table>
+						<table width="277" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" align="right" style="border:1px solid #ffffff" class="FullWidth">
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" align="left" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:18px; color:#71baeb; font-weight:bold;">And there's plenty more you can do. Why not try these?</td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><table width="215" bgcolor="#e3f1fb" cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											<td width="29"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIc&req=WT.dcsvid											<td width="10" bgcolor="#e3f1fb"><img alt="" width="10" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+											<td width="176" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#3a67af; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyId&req=WT.dcsvid										</tr>
+										<tr>
+											<td width="29"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIe&req=WT.dcsvid											<td width="10" bgcolor="#e3f1fb"><img alt="" width="10" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+											<td width="176" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#3a67af; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIf&req=WT.dcsvid										</tr>
+										<tr>
+											<td width="29"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIg&req=WT.dcsvid											<td width="10" bgcolor="#e3f1fb"><img alt="" width="10" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+											<td width="176" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#3a67af; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIh&req=WT.dcsvid										</tr>
+										<tr>
+											<td width="29"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIi&req=WT.dcsvid											<td width="10" bgcolor="#e3f1fb"><img alt="" width="10" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+											<td width="176" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#3a67af; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIj&req=WT.dcsvid										</tr>
+										<tr>
+											<td width="29"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIk&req=WT.dcsvid											<td width="10" bgcolor="#e3f1fb"><img alt="" width="10" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+											<td width="176" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#3a67af; font-weight:bold;"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIl&req=WT.dcsvid										</tr>
+								</table></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" align="left" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:18px; color:#71baeb; font-weight:bold;">Forgotten your<br>log-in details?</td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" align="left" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;">Don't worry. Just follow the 'Help logging on' link on the <a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIm&req=WT.dcsvid								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" bgcolor="#e3f1fb" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" bgcolor="#e3f1fb"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="215" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:14px; color:#3a67af;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+							
+					</table>
+						<table width="275" border="0" align="right" cellpadding="0" cellspacing="0" class="FullWidth">
+							<tr>
+								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+								<td width="245" align="center"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIn&req=WT.dcsvid								<td width="15" style="line-height:1px; font-size:1px;"><img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+							</tr>
+					</table></td>
+				</tr>
+			</table>
+			
+			<!-- Main content-->
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="FullWidth" align="center">
+				<tr>
+					<td width="600">
+					<img alt="" width="15" height="40" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<!-- End Main content--> 
+			
+			<!-- links and socials -->
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#66a4d1" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="line-height:1px; font-size:1px;">
+					<img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#66a4d1" class="FullWidth" align="center">
+				<tr>
+					<td width="10"><img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+					<td width="580" align="center"  style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:12px; line-height:16px;" >
+					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIo&req=WT.dcsvid					&nbsp;|&nbsp; 
+					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIp&req=WT.dcsvid					Current Accounts</a> &nbsp;|&nbsp; 
+					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIq&req=WT.dcsvid					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIr&req=WT.dcsvid					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIs&req=WT.dcsvid					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIt&req=WT.dcsvid					<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIu&req=WT.dcsvid					<td width="10"><img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#66a4d1" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="font-size:1px; line-height:1px;"><img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6f2fc" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="font-size:1px; line-height:1px;">
+					<img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6f2fc" class="FullWidth" align="center">
+				<tr>
+					<td width="15"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+					<td width="570">
+					
+					<table width="270" cellpadding="0" cellspacing="0" border="0" bgcolor="#D6F2FC" align="right">
+							<tr>
+								<td width="110" style="color:#0068b3; font-size:12px; font-family:Arial, Helvetica, sans-serif; font-weight:normal; line-height:16px;">Keep up to date:</td>
+								<td width="40"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIv&req=WT.dcsvid								<td width="40"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIw&req=WT.dcsvid								<td width="40"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIx&req=WT.dcsvid								<td width="40"><a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIy&req=WT.dcsvid							</tr>
+						</table>
+						
+						</td>
+					<td width="15"><img alt="" width="15" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+				</tr>
+			</table>
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6f2fc" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="line-height:1px; font-size:1px;">
+						<img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<!-- END links and socials --></td>
+	</tr>
+</table>
+<!-- END Main Container table used to center content --> 
+
+<!-- Footer Container table used to center content -->
+<table width="100	<tr>
+		<td width="100		
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#0068b3" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="font-size:1px; line-height:1px;">
+						<img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#0068b3" class="FullWidth" align="center">
+				<tr>
+					<td width="15" style="line-height:1px; font-size:1px;">
+						<img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+					<td width="570" align="left" valign="top" style="color:#ffffff; font-size:10px; font-family:Arial, Helvetica, sans-serif; font-weight:normal; line-height:16px;">
+						<span style="font-weight:bold;">Important Security Information</span><br>
+						We will never send you an email asking for your log in details, or direct you to a web page that asks for this information. Visit our <a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyIz&req=WT.dcsvid						for more details. Fraudsters may try to imitate our emails. If you receive an email that doesn't feature your name and the last four digits of one 
+						of your TSB account numbers, then don't click on any links it may contain. Please forward the email to us immediately for investigation at 
+						<a href="mailto:emailscams@tsb.co.uk" target="_blank" style="color:#FFFFFF; text-decoration:underline;">emailscams@tsb.co.uk</a> then delete it. 
+						If you have concerns about the validity of this email, please call us on <span style="font-weight:bold;">03458 353 844</span>. Calls may be monitored and recorded.<br>
+						<br>
+						We don't charge you for mobile banking but your mobile operator may charge you for some services, please check with them. Service may be 
+						affected by phone signal and functionality.
+<br><br>
+						If you have a hearing or speech impairment you can contact us using the Text Relay (previously Typetalk) or Textphone on <span style="font-weight:bold;">0345 835 3840</span> 
+						(lines are open <a href="#date1" style="color:#ffffff; text-decoration:none; cursor:text;">7am - 10pm Mon to Fri, 8am - 6pm Sat to Sun</a>).<br>
+						<br>
+						If you need to call us from abroad, or prefer not to use our 0345 number, you can also call us on <span style="font-weight:bold;">0203 284 1577</span>. <br>
+						<br>
+						TSB Bank plc. Registered Office: Henry Duncan House, 120 George Street, Edinburgh EH2 4LH. Registered in Scotland No. SC95237. Authorised by the Prudential 
+						Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under registration number 191240. TSB Bank plc 
+						is covered by the Financial Services Compensation Scheme and the Financial Ombudsman Service.<br>
+						<br>
+						If you'd prefer not to receive this email, 
+						<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI10&req=tsp						You can also view our 
+						<a href="http://email.tsb.co.uk/re?l=D0Itrwx8kI8c434dyI11&req=WT.dcsvid					<td width="15" style="line-height:1px; font-size:1px;">
+						<img alt="" width="15" height="15" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" />
+					</td>
+				</tr>
+			</table>
+			
+			<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#0068b3" class="FullWidth" align="center">
+				<tr>
+					<td width="600" style="font-size:1px; line-height:1px;"><img alt="" width="10" height="10" border="0" style="display: block;" src="http://email.tsb.co.uk/imgproxy/img/661172974/spacer.gif" /></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+<!-- END Footer Container table used to center content -->
+<img src="http://email.tsb.co.uk/tr/p.gif?uid=18146716918&mid=1800404804&msd=1420376467217&st=0" width="1" height="1" alt="" /></body>
+</html>
+

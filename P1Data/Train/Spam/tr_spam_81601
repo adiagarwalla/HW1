@@ -1,0 +1,160 @@
+From @..  Fri Jan 23 08:31:57 2015
+Return-Path: <@..>
+X-Original-To: girlinfo@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 7B1B1DE; Fri, 23 Jan 2015 08:31:57 +0000 (UTC)
+Received: from goulding.fopen.dk (goulding.fopen.dk [178.63.65.201])
+    by .. with SMTP id sj9c3jhnmvczxmkq9yhaf8h5ea;
+    for girlinfo@fs.net;
+    Fri, 23 Jan 2015 08:31:56 +0000 (UTC)
+    (envelope-from news-twice-daily+bounces-2187-girlinfo=fs.net@list.euobserver.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=178.63.65.201;
+    envelope-from=<news-twice-daily+bounces-2187-girlinfo=fs.net@list.euobserver.com>;
+    helo=goulding.fopen.dk; mechanism=ip4:178.63.65.201
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=178.63.65.201; client-port=24626;
+    syn-fingerprint=65535:49:1:60:M1380,N,W3,S,T; network-hops=15;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.250 198.32.118.38 77.109.128.69 82.197.168.41
+    77.109.135.102 213.239.245.25 213.239.245.213 213.239.245.118
+    213.239.228.171 178.63.65.201; network-path-time=1422001916
+Received: from goulding.fopen.dk (localhost [127.0.0.1])
+	by goulding.fopen.dk (Postfix) with SMTP id 3ACAD1A193
+	for <girlinfo@fs.net>; Fri, 23 Jan 2015 09:31:55 +0100 (CET)
+X-Original-To: news-twice-daily@list.euobserver.com
+Delivered-To: mlmmj-list.euobserver.com-news-twice-daily@goulding.fopen.dk
+Received: from a6-219.smtp-out.eu-west-1.amazonses.com (a6-219.smtp-out.eu-west-1.amazonses.com [54.240.6.219])
+	by goulding.fopen.dk (Postfix) with ESMTP id DF12519D64
+	for <news-twice-daily@list.euobserver.com>; Fri, 23 Jan 2015 09:31:03 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1422001863;
+	h=To:Subject:Content-type:From:Message-Id:Date:Feedback-ID;
+	bh=gtc9KlxeUkp8Y//6rKO+eu8rL6XIXhCgdXEdz2/1EYM=;
+	b=hKD1rohoBTmFNXhcEn+KzJqspmsHqfM+h7kmcnZOm1UqTXJyV1MpgqQEY8jORePT
+	Op1Qic8oaF0Lyd2uxwR7HqAt1fbTM+1JYlsGAdtGrgvY6DSBJOKnczZGpYaAWn8MR9+
+	cJnlOP4sszH5LVdeTeJmEDfOZLdCZR2aLzO9topM=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=vu4efvebtfjed7l7dts3dww2o2oqsqop; d=euobserver.com; t=1422001863;
+	i=@list.euobserver.com;
+	h=To:Subject:Content-type:From:Message-Id:Date;
+	bh=gtc9KlxeUkp8Y//6rKO+eu8rL6XIXhCgdXEdz2/1EYM=;
+	b=hZjdMyukMLQggSAuT9EAe8dV1aVjPQ+mu7p0+VUUTV8pyQ/+Kthkgbrj3PAdMpR1
+	f2qVXNDjqeDKzcCUg3ZwGkauXIV1Zkok1m00QT3Slawp9qnBsoCHP5JyeTsaoO/PFDH
+	qSVXTDAusXqt0iroF7KYGewXxMKcq/NckEvDV4zs=
+Subject: ECB unveils €1.1 trillion stimulus plan
+Content-type: text/plain; charset=utf-8
+Precedence: bulk
+From: News from EUobserver <@..>
+Message-ID: <0000014b15ea7902-7a013a50-05cd-4cf1-aa6f-2c16d8f47373-000000@eu-west-1.amazonses.com>
+Date: Fri, 23 Jan 2015 08:31:03 +0000
+X-SES-Outgoing: 2015.01.23-54.240.6.219
+Feedback-ID: eu-west-1.cm9vdEBldW9ic2VydmVyLmNvbQ==:AmazonSES
+List-Unsubscribe: news-twice-daily+unsubscribe@list.euobserver.com
+To: @..
+
+***** EUobserver - 23.01.2015 **********************************************
+
+
+
+***** THE NEWS *************************************************************
+
+1. ECB unveils €1.1 trillion stimulus plan - 22/01/2015 18:09:11
+----------------------------------------------------------------------------
+The European Central Bank will plough €1.1 trillion into the eurozone 
+economy in a last-ditch attempt to breath life into the European economy.
+
+https://euobserver.com/news/127341
+
+
+2. Russia suspends official EU parliament visits - 23/01/2015 09:29:43
+----------------------------------------------------------------------------
+Russia has said MEPs are not welcome on official visits due, in part, to 
+the European Parliament’s recent resolutions on the Ukraine crisis.
+
+https://euobserver.com/foreign/127350
+
+
+3. HIV sweeps across east Europe as economic crisis threatens - 23/01/2015 09:10:47
+----------------------------------------------------------------------------
+HIV is spreading at a dangerous rate in nations around the Black Sea, with 
+the hotspots being Ukraine and Russia.
+
+https://euobserver.com/social/127269
+
+
+4. [Feature] 'Our women are tough - they can stop a horse' - 23/01/2015 09:11:49
+----------------------------------------------------------------------------
+First to face prejudice are drug users and HIV carriers, because wider 
+society views their conditions as the product of indulgent lifestyle 
+choices.
+
+https://euobserver.com/social/127280
+
+
+5. [Opinion] Charlie's false friends - 23/01/2015 09:29:13
+----------------------------------------------------------------------------
+Remove the right to offend anyone and you roll back centuries of progress 
+towards free thought, free speech and free societies.
+
+https://euobserver.com/opinion/127346
+
+
+6. French attack harms Bulgaria and Romania's Schengen hopes - 22/01/2015 18:28:28
+----------------------------------------------------------------------------
+Romanian and Bulgarian politicians fear their countries will face more 
+hurdles in their already lengthy attempt to join the Schengen area 
+following the Paris attacks earlier this month.
+
+https://euobserver.com/beyond-brussels/127337
+
+
+7. Advertisers put porn consumers in EU under microscope - 22/01/2015 18:42:03
+----------------------------------------------------------------------------
+The UK and Ireland top EU per capita viewers on the world’s largest porn 
+hub, amid questions on privacy for advertisers who profile users.
+
+https://euobserver.com/justice/127340
+
+***** NEWS IN BRIEF ********************************************************
+
+European shares soar following QE announcement - 23/01/2015 09:16:47
+https://euobserver.com/tickers/127349
+
+
+Spanish jobless rate decreases as economy recovers - 23/01/2015 09:16:23
+https://euobserver.com/tickers/127351
+
+
+UN needs data protection agency, says EU commissioner - 23/01/2015 09:12:48
+https://euobserver.com/tickers/127347
+
+
+EU energy chief dismisses proposed Russia-Turkey pipeline - 23/01/2015 09:12:07
+https://euobserver.com/tickers/127345
+
+
+Uber 'violating' Danish law - 23/01/2015 09:11:57
+https://euobserver.com/tickers/127344
+
+***** LATEST BLOG POSTS ****************************************************
+
+That won´t tidy away the GMO issue / Another Look
+http://blogs.euobserver.com/nilsson/?p=253
+
+
+All in the same boat, he said / Another Look
+http://blogs.euobserver.com/nilsson/?p=245
+
+
+Putin's House of Cards / Belarus Reloaded
+http://blogs.euobserver.com/rakhlei/?p=933
+
+***** UNSUBSCRIBE **********************************************************
+
+This is an automated mailservice. To unsubscribe send an empty email to:
+news-twice-daily+unsubscribe@list.euobserver.com
+
+****************************************************************************
+

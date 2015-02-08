@@ -1,0 +1,739 @@
+From @..  Wed Jan 21 12:44:18 2015
+Return-Path: <@..>
+X-Original-To: iamnobody@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 0829ADE; Wed, 21 Jan 2015 12:44:17 +0000 (UTC)
+Received: from male.absoluteradio.co.uk (male.absoluteradio.co.uk [212.118.230.20])
+    by .. with SMTP id 7bdjjurashuz5r58pj8b4gdrk2;
+    for iamnobody@fs.net;
+    Wed, 21 Jan 2015 12:44:17 +0000 (UTC)
+    (envelope-from donotreply@absoluteradio.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=212.118.230.20; envelope-from=<donotreply@absoluteradio.co.uk>;
+    helo=male.absoluteradio.co.uk; mechanism=ip4:212.118.230.0/24
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=212.118.230.20; client-port=12150;
+    syn-fingerprint=8192:114:1:52:M1270,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.8.190 173.205.63.229 89.149.182.121 77.67.73.46
+    212.118.240.47; network-path-time=1421844257
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=absoluteradio.co.uk;
+ h=Subject:To:From:Reply-To:Date:Content-Type:MIME-Version; i=donotreply@absoluteradio.co.uk;
+ bh=TkC1CQsEmbLtcMkfxYf9CpRbGNM=;
+ b=JuqKoPzN3eCT8LTJFZ/ddEDD7xF57HcXuUtCRO2+k47BLV5IF/TddA2NfBRCB5iJvYmq9yt+7Awj
+   ux+lapEeltplziwL/Etje9FBacfDrPhS+PpbM7KRPG/ZbR4UnxwINRypZ9y+Vib+CAK7rJdQepzt
+   /Z7W1KlvEPn9/5oNZoQ=
+Received: from localhost (10.176.212.31) by male.absoluteradio.co.uk id hnufci18j3g0 for <iamnobody@fs.net>; Wed, 21 Jan 2015 12:42:32 +0000 (envelope-from <donotreply@absoluteradio.co.uk>)
+Subject: Last chance to get your bills paid!
+To: @..
+From: Absolute Radio <@..>
+Reply-To: Absolute Radio <@..>
+Precedence: bulk
+Date: Wed, 21 Jan 2015 12:44:00 +0000
+Content-Type: multipart/alternative;
+ boundary="=_8e95c3a6a1107d7fe1f0c7b3b17b4d62"
+MIME-Version: 1.0
+Message-Id: <20150121124418.0829ADE@..>
+
+--=_8e95c3a6a1107d7fe1f0c7b3b17b4d62
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D THE ABSOLUTE RADIO NEWSLETTER =3D=3D=3D=0D=0A=0D=0AYou can vie=
+w this newsletter as a fancy web page by clicking here:=0D=0Ahttp://www.=
+absoluteradio.co.uk/newsletter/150121.html?utm_source=3Dnewsletter&utm_m=
+edium=3Dplaintext_email&utm_content=3Dcant_see_images&utm_campaign=3D210=
+115=0D=0A=0D=0AThe Absolute Radio website:=0D=0Ahttp://absoluteradio.co.=
+uk/?utm_source=3Dnewsletter&utm_medium=3Dplaintext_email&utm_content=3Dc=
+hannel_bar&utm_campaign=3D210115=0D=0A=0D=0AListen Live to Absolute Radi=
+o:=0D=0Ahttp://absoluteradio.co.uk/listen?utm_source=3Dnewsletter&utm_me=
+dium=3Dplaintext_email&utm_content=3Dchannel_bar&utm_campaign=3D210115=
+=0D=0A=0D=0A------------------------------------=0D=0A=0D=0A=3D=3D WHAT'=
+S NEW? =3D=3D=0D=0A=0D=0APay Your Bills=0D=0Ahttp://absoluteradio.co.uk/=
+competitions/pay-your-bills/index.html?utm_source=3Dnewsletter&utm_mediu=
+m=3Dplaintext_email&utm_content=3Dheader_image&utm_campaign=3D210115=0D=
+=0A=0D=0A------------------------------------=0D=0A=0D=0A=3D=3D COMPETIT=
+IONS =3D=3D=0D=0A=0D=0A=3D Win a Ski holiday =3D=0D=0A=0D=0APlus, get 2=
+ burgers for =A310 at Gourmet Burger Kitchen.=0D=0A=0D=0Ahttp://absolute=
+radio.co.uk/competitions/gourmet-burger-kitchen/index.html?utm_source=3D=
+newsletter&utm_medium=3Dplaintext_email&utm_content=3Dcompetitions&utm_c=
+ampaign=3D210115=0D=0A=0D=0A=3D Win the Ultimate Winter Warmth Package=
+ =3D=0D=0A=0D=0AListen to the Hometime Show.=0D=0A=0D=0Ahttp://absoluter=
+adio.co.uk/competitions/vaillant-boilers/index.html?utm_source=3Dnewslet=
+ter&utm_medium=3Dplaintext_email&utm_content=3Dcompetitions&utm_campaign=
+=3D210115=0D=0A=0D=0A=3D Win a =A31,000 Wickes gift card =3D=0D=0A=0D=0A=
+...for all your DIY needs.=0D=0A=0D=0Ahttp://absoluteradio.co.uk/competi=
+tions/wickes/december.html?utm_source=3Dnewsletter&utm_medium=3Dplaintex=
+t_email&utm_content=3Dcompetitions&utm_campaign=3D210115=0D=0A=0D=0A----=
+--------------------------------=0D=0A=0D=0A=3D=3D MUSIC & VIDEO =3D=3D=
+=0D=0A=0D=0A=3D Win Led Zeppelin on Led Zeppelin =3D=0D=0A=0D=0AWith Abs=
+olute Classic Rock.=0D=0A=0D=0Ahttp://absoluteradio.co.uk/competitions/l=
+ed-zeppelin-book.html?utm_source=3Dnewsletter&utm_medium=3Dplaintext_ema=
+il&utm_content=3Dmusic_video&utm_campaign=3D210115=0D=0A=0D=0A=3D Catfis=
+h and the Bottlemen =3D=0D=0A=0D=0AWin tickets to see them live in sessi=
+on.=0D=0A=0D=0Ahttp://absoluteradio.co.uk/competitions/catfish-and-the-b=
+ottlemen.html?utm_source=3Dnewsletter&utm_medium=3Dplaintext_email&utm_c=
+ontent=3Dmusic_video&utm_campaign=3D210115=0D=0A=0D=0A=3D Twin Atlantic=
+ =3D=0D=0A=0D=0AWin session tickets with Absolute Radio.=0D=0A=0D=0Ahttp=
+://absoluteradio.co.uk/competitions/twin-atlantic-session.html?utm_sourc=
+e=3Dnewsletter&utm_medium=3Dplaintext_email&utm_content=3Dmusic_video&ut=
+m_campaign=3D210115=0D=0A=0D=0A------------------------------------=0D=
+=0A=0D=0A=3D=3D A MESSAGE FROM CHRISTIAN O'CONNELL =3D=3D=0D=0A=0D=0AIt=
+ may be January, but I've been feeling like Father Christmas! So far we'=
+ve paid bills for mortgages, rent, credit cards, holidays, nursery fees=
+ and loads more!=0D=0A=0D=0AAnd we've still got a week's worth of cash t=
+o give away, so if you're feeling the pinch, now's your last chance to t=
+ell us about your bill.=0D=0A=0D=0Ahttp://absoluteradio.co.uk/competitio=
+ns/pay-your-bills/index.html?utm_source=3Dnewsletter&utm_medium=3Dplaint=
+ext_email&utm_content=3Ddj_message&utm_campaign=3D210115=0D=0A=0D=0A----=
+--------------------------------=0D=0A=0D=0A=3D=3D COMING SOON =3D=3D=0D=
+=0A=0D=0A=3D Rock 'N' Roll Football: FA Cup =3D=0D=0A=0D=0ADate: 01-24=
+=0D=0A2pm on Absolute Radio=0D=0A=0D=0Ahttp://absoluteradio.co.uk/sc=
+le/rock-n-roll-football-pre-match-54/episodes/32928/?utm_source=3Dnewsle=
+tter&utm_medium=3Dplaintext_email&utm_content=3Dcoming_soon&utm_campaign=
+=3D210115=0D=0A=0D=0A=3D Saturday Night Fever =3D=0D=0A=0D=0ADate: 01-24=
+=0D=0A5pm on Absolute Radio 70s=0D=0A=0D=0Ahttp://absoluteradio.co.uk/sc=
+le/saturday-night-fever-192/episodes/33657/?utm_source=3Dnewsletter&=
+utm_medium=3Dplaintext_email&utm_content=3Dcoming_soon&utm_campaign=3D21=
+0115=0D=0A=0D=0A=3D Suzi Q: Super Sounds of the Seventies =3D=0D=0A=0D=
+=0ADate: 01-25=0D=0A7pm on Absolute Radio 70s=0D=0A=0D=0Ahttp://absolute=
+radio.co.uk/scle/non-stop-70s-45/episodes/34381/?utm_source=3Dnewsle=
+tter&utm_medium=3Dplaintext_email&utm_content=3Dcoming_soon&utm_campaign=
+=3D210115=0D=0A=0D=0A=3D U2 - Songs of Innocence =3D=0D=0A=0D=0ADate: 01=
+-25=0D=0A9pm on Absolute 80s=0D=0A=0D=0Ahttp://absoluteradio.co.uk/sched=
+ule/non-stop-80s-25/episodes/33137/?utm_source=3Dnewsletter&utm_medium=
+=3Dplaintext_email&utm_content=3Dcoming_soon&utm_campaign=3D210115=0D=0A=
+=0D=0A------------------------------------=0D=0A=0D=0A=3D=3D BUY TICKETS=
+ =3D=3D=0D=0A=0D=0AFrom the Absolute Radio Ticket Store...=0D=0A=0D=0A*=
+ GUN: In Edinburgh=0D=0A* Fall Out Boy: Second Wembley date=0D=0A* Isle=
+ of Wight Festival 2015=0D=0A=0D=0AVisit the Ticket Store now:=0D=0Ahttp=
+://absoluteradio.co.uk/tickets/?utm_source=3Dnewsletter&utm_medium=3Dpla=
+intext_email&utm_content=3Dtickets&utm_campaign=3D210115=0D=0A=0D=0A----=
+--------------------------------=0D=0A=0D=0A=3D=3D FOLLOW US =3D=3D=0D=
+=0A=0D=0AYou can get in touch with us, and see our latest news and inter=
+views, on Twitter and Facebook.=0D=0A=0D=0ATwitter:=0D=0Ahttp://network.=
+absoluteradio.co.uk/core/exits/?userid=3D3164789&url=3Dhttp://www.twitte=
+r.com/absoluteradio?newsletter_150121=0D=0A=0D=0AFacebook:=0D=0Ahttp://n=
+etwork.absoluteradio.co.uk/core/exits/?userid=3D3164789&url=3Dhttp://www=
+.facebook.com/absoluteradio?newsletter_150121=0D=0A=0D=0A---------------=
+---------------------=0D=0A=0D=0A=3D=3D THE SMALL PRINT =3D=3D=0D=0A=0D=
+=0AWe sent this to iamnobody@fs.net after you registered on an Absolute=
+ Radio website, either specifically for this newsletter or for an Absolu=
+te Radio Account.=0D=0A=0D=0AUnsubscribe:=0D=0Ahttp://network.absolutera=
+dio.co.uk/newsletter/index.html?id=3D3164789&sid=3D7937998&utm_source=3D=
+newsletter&utm_medium=3Dplaintext_email&utm_content=3Dboilerplate&utm_ca=
+mpaign=3D210115=0D=0A=0D=0AYou can also send us feedback on this newslet=
+ter:=0D=0Ahttp://absoluteradio.co.uk/contact/index.html?to=3Dgeneral&sub=
+ject=3DNewsletterext_email&utm_content=3Dboilerplate&utm_campaign=3D210115=0D=0A=0D=0AOr=
+ you could read our delightful privacy policy:=0D=0Ahttp://absoluteradio=
+.co.uk/legal/privacy/?utm_source=3Dnewsletter&utm_medium=3Dplaintext_ema=
+il&utm_content=3Dboilerplate&utm_campaign=3D210115=0D=0A=0D=0AAbsolute R=
+adio complies fully with the EU Privacy Directive 2002/58/EC, and the pr=
+inciples of the US's CAN-SPAM law.=0D=0A=0D=0AThis email is from Absolut=
+e Radio, One Golden Square, London, W1F 9DJ. Tel +44 20 7434 1215. Regis=
+tered in England No 2674136. Registered office: 1 Lincoln Court, Lincoln=
+ Road, Peterborough, PE1 2RF. VAT No GB 918 5617 01.=0D=0A=0D=0AStop sta=
+nding around and go... thwart something!
+
+--=_8e95c3a6a1107d7fe1f0c7b3b17b4d62
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0A<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "ht=
+tp://www.w3.org/TR/html4/loose.dtd">=0D=0A<html lang=3D"en">=0D=0A<head>=
+=0D=0A=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8">=0D=0A=09<meta name=3D"viewport" content=3D"width=3Ddevice-wid=
+th">=0D=0A=09<title>Absolute Radio Newsletter</title>=0D=0A</head>=0D=0A=
+<body bgcolor=3D"#ffffff" topmargin=3D"0" leftmargin=3D"0" marginheight=
+=3D"0" marginwidth=3D"0" style=3D"-webkit-font-smoothing: antialiased; w=
+idth: 100st: none;">=0D=0A<style type=3D"text/css">=0D=0A=09a { =0D=0A=09  =09col=
+or: #952d98 !important;=0D=0A=09=09text-decoration: underline !important=
+;=0D=0A=09=09font-weight: bold !important;=0D=0A=09=09font-family: Arial=
+,sans-serif !important;=0D=0A=09}=0D=0A=09a:hover { =0D=0A=09  =09color:=
+ #ffffff !important;=0D=0A=09  =09background-color: #952d98 !important;=
+=0D=0A=09=09text-decoration: none !important;=0D=0A=09}=0D=0A=09td.cell=
+ a:hover { color: #ffffff !important; background-color: #952d98 !importa=
+nt; text-decoration: none !important; }=0D=0A=09a.zoom_nav:hover { color=
+: #ffffff !important; background-color: #952d98 !important; text-decorat=
+ion: none !important; }=0D=0A=0D=0A=09@media only screen and (max-width:=
+ 640px) { =0D=0A=0D=0A=09    table[class=3D"table"] { width: 320px !impo=
+rtant; }=0D=0A=09    table[class=3D"inset_table"], td[class=3D"cell"] {=
+ width: 300px !important; }=0D=0A=0D=0A=09    span[id=3D"cant_see_images=
+"] { display: block; padding: 12px 0px !important; }=0D=0A=0D=0A=09    t=
+able[id=3D"channelbar"] td img { display: none !important; }=0D=0A=09  =
+  table[id=3D"channelbar"] td a { display: block !important; width: 100 !important; height: 100elbar"] td a:hover { background: none !important; }=0D=0A=0D=0A=09    td=
+[id=3D"channelbar_logo"] {=0D=0A=09    =09width: 150px !important; heigh=
+t: 82px !important;=0D=0A=09    =09background: no-repeat #ffffff url(htt=
+p://network.absoluteradio.co.uk/core/exits/?userid=3D3164789&url=3Dhttp:=
+//absoluteradio.co.uk/_img/newsletter/channelbar_mobile_logo.gif?150121)=
+ !important;=0D=0A=09    }=0D=0A=09    td[id=3D"channelbar_middle"] {=0D=
+=0A=09    =09width: 39px !important; height: 82px !important;=0D=0A=09 =
+   =09background: no-repeat #ffffff url(https://absoluteradio.co.uk/_img=
+/newsletter/channelbar_mobile_middle.gif) !important;=0D=0A=09    }=0D=
+=0A=09    td[id=3D"channelbar_listenlive"] {=0D=0A=09    =09width: 131px=
+ !important; height: 82px !important;=0D=0A=09    =09background: no-repe=
+at #ffffff url(https://absoluteradio.co.uk/_img/newsletter/channelbar_mo=
+bile_listenlive.gif) !important;=0D=0A=09    }=0D=0A=09    tr[id=3D"chan=
+nelbar_bottom"] { display: none !important; }=0D=0A=0D=0A=09    tr[class=
+=3D"blackline"] { display: none !important; }=0D=0A=0D=0A=09    td[id=3D=
+"header_image"] img { width: 320px !important; }=0D=0A=0D=0A=09    td[id=
+=3D"djmessage_presenter"] { display: none !important; }=0D=0A=09    td[i=
+d=3D"djmessage_plectrum"] { =0D=0A=09    =09width: 45px !important;=0D=
+=0A=09    =09height: 45px !important;=0D=0A=09    =09background-repeat:=
+ no-repeat !important;=0D=0A=09    =09background-color: #e8e8e8 !importa=
+nt;=0D=0A=09    =09background-image: url(https://absoluteradio.co.uk/_im=
+g/newsletter/dj-christian-oconnell.jpg) !important;=0D=0A=09    =09backg=
+round-size: 45px !important;=0D=0A=09    =09background-position: 10px 10=
+px !important;=0D=0A=09    =09padding-top: 10px !important;=0D=0A=09   =
+ =09padding-left: 10px !important; =0D=0A=09    }=0D=0A=09    td[id=3D"d=
+jmessage_plectrum"] img { display: none !important; }=0D=0A=09    td[id=
+=3D"djmessage_title"] { margin-top: 0px !important; padding: 10px 0px 0p=
+x 10px !important; width: 245px !important; }=0D=0A=09}=0D=0A=0D=0A=09@m=
+edia only screen and (max-width: 640px) and (-webkit-min-device-pixel-ra=
+tio: 2), only screen and (max-width: 640px) and (min-resolution: 192dpi)=
+ { =0D=0A=09    td[id=3D"channelbar_logo"] {=0D=0A=09    =09background:=
+ no-repeat #ffffff url(http://network.absoluteradio.co.uk/core/exits/?us=
+erid=3D3164789&url=3Dhttp://absoluteradio.co.uk/_img/newsletter/channelb=
+ar_mobile_logo_2x.gif?150121) !important;=0D=0A=09    =09background-size=
+: 150px 82px !important;=0D=0A=09    }=0D=0A=09    td[id=3D"channelbar_m=
+iddle"] {=0D=0A=09    =09background: no-repeat #ffffff url(https://absol=
+uteradio.co.uk/_img/newsletter/channelbar_mobile_middle_2x.gif) !importa=
+nt;=0D=0A=09    =09background-size: 39px 82px !important;=0D=0A=09    }=
+=0D=0A=09    td[id=3D"channelbar_listenlive"] {=0D=0A=09    =09backgroun=
+d: no-repeat #ffffff url(https://absoluteradio.co.uk/_img/newsletter/cha=
+nnelbar_mobile_listenlive_2x.gif) !important;=0D=0A=09    =09background-=
+size: 131px 82px !important;=0D=0A=09    }=0D=0A=09}=0D=0A</style>=0D=0A=
+=09=0D=0A<table width=3D"100r=3D"0" bgcolor=3D"#ffffff" align=3D"left">=0D=0A<tr>=0D=0A<td bgcolor=
+=3D"#ffffff" width=3D"100ing=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=3D"table=
+">=0D=0A=09<tr> <!-- Can't see the pictures? -->=0D=0A=09=09<td class=3D=
+"cell" width=3D"640" height=3D"20" style=3D"text-align: center">=0D=0A=
+=09=09=09<span id=3D"cant_see_images" style=3D"margin-bottom: 0; font-we=
+ight: normal; font-size: 10px; margin-top: 0; font-family: Arial,sans-se=
+rif; line-height: 12px; padding-top: 0; color: #000000; text-align: cent=
+er; padding-bottom: 0px;" align=3D"center">Can't see the pictures? Selec=
+t "Always display images" or&nbsp;<a href=3D"http://www.absoluteradio.co=
+.uk/newsletter/150121.html?utm_source=3Dnewsletter&amp;utm_medium=3Demai=
+l&amp;utm_content=3Dcant_see_images&amp;utm_campaign=3D210115" style=3D"=
+color: #952d98; text-decoration: underline; font-weight: bold; font-fami=
+ly: Arial,sans-serif;">view&nbsp;this&nbsp;newsletter&nbsp;as&nbsp;a&nbs=
+p;web&nbsp;page</a>.</span>=0D=0A=09=09</td>=0D=0A=09</tr> <!-- / Can't=
+ see the pictures? -->=0D=0A=09<tr> <!-- Channel bar -->=0D=0A=09=09<td=
+ width=3D"640">=0D=0A=09=09=09<table width=3D"640" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"center" class=3D"table" id=3D"chann=
+elbar">=0D=0A=09=09=09<tr>=0D=0A=09=09=09=09<td id=3D"channelbar_logo"><=
+a href=3D"http://absoluteradio.co.uk/?utm_source=3Dnewsletter&amp;utm_me=
+dium=3Demail&amp;utm_content=3Dchannel_bar&amp;utm_campaign=3D210115"><i=
+mg src=3D"http://network.absoluteradio.co.uk/core/exits/?userid=3D316478=
+9&amp;url=3Dhttp://absoluteradio.co.uk/_img/newsletter/channelbar_logo.g=
+if?150121" width=3D"133" height=3D"69" alt=3D"Absolute Radio Logo" borde=
+r=3D"0" style=3D"display: block"></a></td>=0D=0A=09=09=09=09<td id=3D"ch=
+annelbar_middle"><img src=3D"https://absoluteradio.co.uk/_img/newsletter=
+/channelbar_middle.gif" width=3D"376" height=3D"69" alt=3D"Absolute Radi=
+o 60s, 70s, 80s, 90, 00s, and Classic Rock" style=3D"display: block"></t=
+d>=0D=0A=09=09=09=09<td id=3D"channelbar_listenlive"><a href=3D"http://a=
+bsoluteradio.co.uk/listen?utm_source=3Dnewsletter&amp;utm_medium=3Demail=
+&amp;utm_content=3Dchannel_bar&amp;utm_campaign=3D210115"><img src=3D"ht=
+tps://absoluteradio.co.uk/_img/newsletter/channelbar_listenlive.gif" wid=
+th=3D"131" height=3D"69" alt=3D"Click here to listen live" border=3D"0"=
+ style=3D"display: block"></a></td>=0D=0A=09=09=09</tr>=0D=0A=09=09=09<t=
+r id=3D"channelbar_bottom">=0D=0A=09=09=09=09<td colspan=3D"3" style=3D"=
+font-size: 1px; line-height: 1px;"><img src=3D"https://absoluteradio.co.=
+uk/_img/newsletter/channelbar_bottom.gif" width=3D"640" height=3D"17" st=
+yle=3D"display: block"></td>=0D=0A=09=09=09</tr>=0D=0A=09=09=09</table>=
+=0D=0A=09=09</td>=0D=0A=09</tr> <!-- / Channel bar -->=0D=0A=0D=0A=09<tr=
+ class=3D"blackline"><td width=3D"640" height=3D"4" bgcolor=3D"#000000"=
+ style=3D"font-size: 1px; line-height: 1px;">&nbsp;</td></tr> <!-- Black=
+ line -->=0D=0A=09=0D=0A=09<tr> <!-- Main image -->=0D=0A=09=09<td width=
+=3D"640" id=3D"header_image">=0D=0A=09=09=09<a href=3D"http://absolutera=
+dio.co.uk/competitions/pay-your-bills/index.html?utm_source=3Dnewsletter=
+&amp;utm_medium=3Demail&amp;utm_content=3Dheader_image&amp;utm_campaign=
+=3D210115"><img src=3D"http://absoluteradio.co.uk/_img/pages/11811.1/NEW=
+SLETTER_HEADER_FOURTH_WEEK.jpg" width=3D"640" border=3D"0" alt=3D"Pay Yo=
+ur Bills" style=3D"display: block"></a>=0D=0A=09=09</td>=0D=0A=09</tr> <=
+!-- / Main image -->=0D=0A=09=0D=0A=09<tr class=3D"spacer"><td width=3D"=
+640" height=3D"24"></td></tr> <!-- Spacer -->=0D=0A=0D=0A=09<tr> <!-- Co=
+mpetitions and Music & Video -->=0D=0A=09=09<td>=0D=0A=09=09=09<table wi=
+dth=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"ce=
+nter" class=3D"inset_table">=0D=0A=09=09=09<tr>=0D=0A=09=09=09=09<td>=0D=
+=0A=09=09=09=09=09<table width=3D"300" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" align=3D"left">=0D=0A=09=09=09=09=09<tr class=3D"section=
+_header" style=3D"height: 30px;">=0D=0A=09=09=09=09=09=09<td height=3D"3=
+0" width=3D"32"><img src=3D"https://absoluteradio.co.uk/_img/newsletter/=
+plectrum_white.gif" style=3D"display: block" height=3D"30" width=3D"25">=
+</td>=0D=0A=09=09=09=09=09=09<td height=3D"30" width=3D"268" style=3D"fo=
+nt-family: Arial, sans-serif; font-size: 18px; font-weight: bold; line-h=
+eight: 18px; margin: 0px; padding: 6px 0px 6px 0px; height: 18px; color:=
+ #000000;">COMPETITIONS</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=
+=09<tr class=3D"spacer"><td width=3D"300" height=3D"12" colspan=3D"2"></=
+td></tr> <!-- Spacer -->=0D=0A=09=09=09=09=09<tr> <!-- Competitions Navs=
+ -->=0D=0A=09=09=09=09=09=09<td colspan=3D"2">=0D=0A=09=09=09=09=09=09=
+=09<table width=3D"300" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ class=3D"navs_container">=0D=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" style=3D"font-=
+size: 0px; line-height: 0px; font-family: Arial,sans-serif;" valign=3D"b=
+ottom">=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.=
+co.uk/competitions/gourmet-burger-kitchen/index.html?utm_source=3Dnewsle=
+tter&amp;utm_medium=3Demail&amp;utm_content=3Dcompetitions&amp;utm_campa=
+ign=3D210115" class=3D"zoom_nav" style=3D"color: #952d98; text-decoratio=
+n: underline; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=
+=09=09=09=09=09=09=09=09=09=09<img src=3D"http://absoluteradio.co.uk/_im=
+g/nav/11792.1/80.jpg" height=3D"54" width=3D"78" border=3D"4" align=3D"l=
+eft" class=3D"borderpagepic" alt=3D"Gourmet Burger Kitchen burgers" styl=
+e=3D"border-color: #000000; border-width: 4px; border-style: solid; disp=
+lay: block;">=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=
+=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" width=3D"1=
+0" style=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-=
+serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td style=3D"font-size: 14px;=
+ line-height: 20px; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=
+=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/competitions/gourme=
+t-burger-kitchen/index.html?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Dcompetitions&amp;utm_campaign=3D210115" class=3D"zo=
+om_nav" style=3D"color: #952d98; text-decoration: underline; font-weight=
+: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=
+=09=09<b>Win a Ski holiday</b>=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=
+=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=
+=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td valign=3D"top=
+" style=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-s=
+erif;">Plus, get 2 burgers for &pound;10 at Gourmet Burger Kitchen.</td>=
+=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=3D"=
+spacer"><td width=3D"300" height=3D"12" colspan=3D"3" style=3D"font-size=
+: 14px; line-height: 20px; font-family: Arial,sans-serif;"></td></tr> <!=
+-- Spacer -->=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td=
+ rowspan=3D"2" style=3D"font-size: 0px; line-height: 0px; font-family: A=
+rial,sans-serif;" valign=3D"bottom">=0D=0A=09=09=09=09=09=09=09=09=09<a=
+ href=3D"http://absoluteradio.co.uk/competitions/vaillant-boilers/index.=
+html?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Dco=
+mpetitions&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=3D"color:=
+ #952d98; text-decoration: underline; font-weight: bold; font-family: Ar=
+ial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=3D"http://=
+absoluteradio.co.uk/_img/nav/11776.1/80.jpg" height=3D"54" width=3D"78"=
+ border=3D"4" align=3D"left" class=3D"borderpagepic" alt=3D"Father and d=
+aughter walking through garden" style=3D"border-color: #000000; border-w=
+idth: 4px; border-style: solid; display: block;">=0D=0A=09=09=09=09=09=
+=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=
+=09=09=09<td rowspan=3D"2" width=3D"10" style=3D"font-size: 14px; line-h=
+eight: 20px; font-family: Arial,sans-serif;"></td>=0D=0A=09=09=09=09=09=
+=09=09=09<td style=3D"font-size: 14px; line-height: 20px; font-family: A=
+rial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://abs=
+oluteradio.co.uk/competitions/vaillant-boilers/index.html?utm_source=3Dn=
+ewsletter&amp;utm_medium=3Demail&amp;utm_content=3Dcompetitions&amp;utm_=
+campaign=3D210115" class=3D"zoom_nav" style=3D"color: #952d98; text-deco=
+ration: underline; font-weight: bold; font-family: Arial,sans-serif;">=
+=0D=0A=09=09=09=09=09=09=09=09=09=09<b>Win the Ultimate Winter Warmth Pa=
+ckage</b>=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=
+=09=09</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<t=
+r>=0D=0A=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"font-size: 1=
+4px; line-height: 20px; font-family: Arial,sans-serif;">Listen to the Ho=
+metime Show.</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=
+=09=09<tr class=3D"spacer"><td width=3D"300" height=3D"12" colspan=3D"3"=
+ style=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-se=
+rif;"></td></tr> <!-- Spacer -->=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=
+=09=09=09=09=09<td rowspan=3D"2" style=3D"font-size: 0px; line-height: 0=
+px; font-family: Arial,sans-serif;" valign=3D"bottom">=0D=0A=09=09=09=09=
+=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/competitions/wickes=
+/december.html?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_co=
+ntent=3Dcompetitions&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=
+=3D"color: #952d98; text-decoration: underline; font-weight: bold; font-=
+family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=
+=3D"http://absoluteradio.co.uk/_img/nav/11780.1/80.jpg" height=3D"54" wi=
+dth=3D"78" border=3D"4" align=3D"left" class=3D"borderpagepic" alt=3D"Wi=
+ckes gift card" style=3D"border-color: #000000; border-width: 4px; borde=
+r-style: solid; display: block;">=0D=0A=09=09=09=09=09=09=09=09=09</a>=
+=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td row=
+span=3D"2" width=3D"10" style=3D"font-size: 14px; line-height: 20px; fon=
+t-family: Arial,sans-serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td styl=
+e=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-serif;"=
+>=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/=
+competitions/wickes/december.html?utm_source=3Dnewsletter&amp;utm_medium=
+=3Demail&amp;utm_content=3Dcompetitions&amp;utm_campaign=3D210115" class=
+=3D"zoom_nav" style=3D"color: #952d98; text-decoration: underline; font-=
+weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=
+=09=09=09=09<b>Win a &pound;1,000 Wickes gift card</b>=0D=0A=09=09=09=09=
+=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=
+=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=
+=09<td valign=3D"top" style=3D"font-size: 14px; line-height: 20px; font-=
+family: Arial,sans-serif;">...for all your DIY needs.</td>=0D=0A=09=09=
+=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=3D"spacer"><td=
+ width=3D"300" height=3D"12" colspan=3D"3" style=3D"font-size: 14px; lin=
+e-height: 20px; font-family: Arial,sans-serif;"></td></tr> <!-- Spacer -=
+->=09=09=09=09=09=09=09</table>=0D=0A=09=09=09=09=09=09</td>=0D=0A=09=09=
+=09=09=09</tr> <!--  / Competitions Navs -->=0D=0A=09=09=09=09=09<tr cla=
+ss=3D"spacer"><td width=3D"640" height=3D"24" colspan=3D"2"></td></tr> <=
+!-- Spacer -->=0D=0A=09=09=09=09=09</table>=0D=0A=0D=0A=09=09=09=09=09<t=
+able width=3D"300" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" alig=
+n=3D"right">=0D=0A=09=09=09=09=09<tr class=3D"section_header" style=3D"h=
+eight: 30px;">=0D=0A=09=09=09=09=09=09<td height=3D"30" width=3D"32"><im=
+g src=3D"https://absoluteradio.co.uk/_img/newsletter/plectrum_white.gif"=
+ style=3D"display: block" height=3D"30" width=3D"25"></td>=0D=0A=09=09=
+=09=09=09=09<td height=3D"30" width=3D"268" style=3D"font-family: Arial,=
+ sans-serif; font-size: 18px; font-weight: bold; line-height: 18px; marg=
+in: 0px; padding: 6px 0px 6px 0px; height: 18px; color: #000000;">MUSIC=
+ &amp; VIDEO</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09<tr clas=
+s=3D"spacer"><td width=3D"300" height=3D"12" colspan=3D"2"></td></tr> <!=
+-- Spacer -->=0D=0A=09=09=09=09=09<tr> <!-- Music and Video Navs -->=0D=
+=0A=09=09=09=09=09=09<td colspan=3D"2">=0D=0A=09=09=09=09=09=09=09<table=
+ width=3D"300" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D=
+"navs_container">=0D=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" style=3D"font-size: 0px;=
+ line-height: 0px; font-family: Arial,sans-serif;" valign=3D"bottom">=0D=
+=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/comp=
+etitions/led-zeppelin-book.html?utm_source=3Dnewsletter&amp;utm_medium=
+=3Demail&amp;utm_content=3Dmusic_video&amp;utm_campaign=3D210115" class=
+=3D"zoom_nav" style=3D"color: #952d98; text-decoration: underline; font-=
+weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=
+=09=09=09=09<img src=3D"http://absoluteradio.co.uk/_img/nav/11807.1/80.j=
+pg" height=3D"54" width=3D"78" border=3D"4" align=3D"left" class=3D"bord=
+erpagepic" alt=3D"Led Zeppelin " style=3D"border-color: #000000; border-=
+width: 4px; border-style: solid; display: block;">=0D=0A=09=09=09=09=09=
+=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=
+=09=09=09<td rowspan=3D"2" width=3D"10" style=3D"font-size: 14px; line-h=
+eight: 20px; font-family: Arial,sans-serif;"></td>=0D=0A=09=09=09=09=09=
+=09=09=09<td style=3D"font-size: 14px; line-height: 20px; font-family: A=
+rial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://abs=
+oluteradio.co.uk/competitions/led-zeppelin-book.html?utm_source=3Dnewsle=
+tter&amp;utm_medium=3Demail&amp;utm_content=3Dmusic_video&amp;utm_campai=
+gn=3D210115" class=3D"zoom_nav" style=3D"color: #952d98; text-decoration=
+: underline; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=
+=09=09=09=09=09=09=09=09=09=09<b>Win Led Zeppelin on Led Zeppelin</b>=0D=
+=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=
+=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr>=0D=0A=09=09=
+=09=09=09=09=09=09<td valign=3D"top" style=3D"font-size: 14px; line-heig=
+ht: 20px; font-family: Arial,sans-serif;">With Absolute Classic Rock.</t=
+d>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=
+=3D"spacer"><td width=3D"300" height=3D"12" colspan=3D"3" style=3D"font-=
+size: 14px; line-height: 20px; font-family: Arial,sans-serif;"></td></tr=
+> <!-- Spacer -->=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09=
+<td rowspan=3D"2" style=3D"font-size: 0px; line-height: 0px; font-family=
+: Arial,sans-serif;" valign=3D"bottom">=0D=0A=09=09=09=09=09=09=09=09=09=
+<a href=3D"http://absoluteradio.co.uk/competitions/catfish-and-the-bottl=
+emen.html?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=
+=3Dmusic_video&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=3D"co=
+lor: #952d98; text-decoration: underline; font-weight: bold; font-family=
+: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=3D"htt=
+p://absoluteradio.co.uk/_img/nav/11795.1/80.jpg" height=3D"54" width=3D"=
+78" border=3D"4" align=3D"left" class=3D"borderpagepic" alt=3D"Catfish a=
+nd the Bottlemen" style=3D"border-color: #000000; border-width: 4px; bor=
+der-style: solid; display: block;">=0D=0A=09=09=09=09=09=09=09=09=09</a>=
+=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td row=
+span=3D"2" width=3D"10" style=3D"font-size: 14px; line-height: 20px; fon=
+t-family: Arial,sans-serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td styl=
+e=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-serif;"=
+>=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/=
+competitions/catfish-and-the-bottlemen.html?utm_source=3Dnewsletter&amp;=
+utm_medium=3Demail&amp;utm_content=3Dmusic_video&amp;utm_campaign=3D2101=
+15" class=3D"zoom_nav" style=3D"color: #952d98; text-decoration: underli=
+ne; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=
+=09=09=09=09=09=09=09<b>Catfish and the Bottlemen</b>=0D=0A=09=09=09=09=
+=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=
+=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=
+=09<td valign=3D"top" style=3D"font-size: 14px; line-height: 20px; font-=
+family: Arial,sans-serif;">Win tickets to see them live in session.</td>=
+=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=3D"=
+spacer"><td width=3D"300" height=3D"12" colspan=3D"3" style=3D"font-size=
+: 14px; line-height: 20px; font-family: Arial,sans-serif;"></td></tr> <!=
+-- Spacer -->=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td=
+ rowspan=3D"2" style=3D"font-size: 0px; line-height: 0px; font-family: A=
+rial,sans-serif;" valign=3D"bottom">=0D=0A=09=09=09=09=09=09=09=09=09<a=
+ href=3D"http://absoluteradio.co.uk/competitions/twin-atlantic-session.h=
+tml?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Dmus=
+ic_video&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=3D"color: #=
+952d98; text-decoration: underline; font-weight: bold; font-family: Aria=
+l,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=3D"http://ab=
+soluteradio.co.uk/_img/nav/11798.1/80.jpg" height=3D"54" width=3D"78" bo=
+rder=3D"4" align=3D"left" class=3D"borderpagepic" alt=3D"Twin Atlantic"=
+ style=3D"border-color: #000000; border-width: 4px; border-style: solid;=
+ display: block;">=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=
+=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" widt=
+h=3D"10" style=3D"font-size: 14px; line-height: 20px; font-family: Arial=
+,sans-serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td style=3D"font-size:=
+ 14px; line-height: 20px; font-family: Arial,sans-serif;">=0D=0A=09=09=
+=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/competitions/=
+twin-atlantic-session.html?utm_source=3Dnewsletter&amp;utm_medium=3Demai=
+l&amp;utm_content=3Dmusic_video&amp;utm_campaign=3D210115" class=3D"zoom=
+_nav" style=3D"color: #952d98; text-decoration: underline; font-weight:=
+ bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=
+=09<b>Twin Atlantic</b>=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=
+=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=
+=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td valign=3D"top" style=
+=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-serif;">=
+Win session tickets with Absolute Radio.</td>=0D=0A=09=09=09=09=09=09=09=
+</tr>=0D=0A=09=09=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" h=
+eight=3D"12" colspan=3D"3" style=3D"font-size: 14px; line-height: 20px;=
+ font-family: Arial,sans-serif;"></td></tr> <!-- Spacer -->=09=09=09=09=
+=09=09=09</table>=0D=0A=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09</tr>=
+ <!--  / Music and Video Navs -->=0D=0A=09=09=09=09=09<tr class=3D"space=
+r"><td width=3D"640" height=3D"24" colspan=3D"2"></td></tr> <!-- Spacer=
+ -->=0D=0A=09=09=09=09=09</table>=0D=0A=09=09=09=09</td>=0D=0A=09=09=09<=
+/tr>=0D=0A=09=09=09</table>=0D=0A=09=09</td>=0D=0A=09</tr> <!-- / Compet=
+itions and Music & Video -->=0D=0A=0D=0A=09<tr> <!-- DJ Message -->=0D=
+=0A=09=09<td>=0D=0A=09=09=09<table width=3D"640" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" align=3D"center" class=3D"table" bgcolor=3D"#e=
+8e8e8">=0D=0A=09=09=09<tr>=0D=0A=09=09=09=09<td class=3D"cell" width=3D"=
+500" style=3D"width: 500px;">=0D=0A=09=09=09=09=09<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" align=3D"center" bgcolor=3D"#e8e8e8" s=
+tyle=3D"width: 100 style=3D"height: 30px;">=0D=0A=09=09=09=09=09=09<td id=3D"djmessage_ple=
+ctrum" height=3D"30" width=3D"32" style=3D"padding: 10px 0px 0px 10px; w=
+idth: 32px;"><img src=3D"https://absoluteradio.co.uk/_img/newsletter/ple=
+ctrum_grey.gif" height=3D"30" width=3D"25" style=3D"display: block;"></t=
+d>=0D=0A=09=09=09=09=09=09<td id=3D"djmessage_title" width=3D"445" style=
+=3D"font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;=
+ line-height: 18px; margin: 0px; padding: 10px 0px 2px 0px; height: 18px=
+; color: #000000; background: #e8e8e8;">A MESSAGE FROM CHRISTIAN O'CONNE=
+LL</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09<tr>=0D=0A=09=09=
+=09=09=09=09<td colspan=3D"2" align=3D"left" style=3D"padding: 10px; wid=
+th: 100y: Arial, sans-serif; margin-top: 0; margin-bottom: 0; font-weight: norm=
+al; background: #e8e8e8;">=0D=0A=09=09=09=09=09=09=09=0D=0AIt may be Jan=
+uary, but I've been feeling like Father Christmas! So far we've paid bil=
+ls for mortgages, rent, credit cards, holidays, nursery fees and loads m=
+ore!<br><br>And we've still got a week's worth of cash to give away, so=
+ if you're feeling the pinch, now's your last chance to <a href=3D"http:=
+//absoluteradio.co.uk/competitions/pay-your-bills/index.html?utm_source=
+=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Ddj_message&amp;ut=
+m_campaign=3D210115" style=3D"color: #952d98; text-decoration: underline=
+; font-weight: bold; font-family: Arial, sans-serif;">tell us about your=
+ bill</a>. =0D=0A=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=
+=09=09=09=09=09</table>=0D=0A=09=09=09=09</td>=0D=0A=09=09=09=09<td widt=
+h=3D"140" id=3D"djmessage_presenter" style=3D"width: 140px;" valign=3D"b=
+ottom">=0D=0A=09=09=09=09=09<img src=3D"https://absoluteradio.co.uk/_img=
+/newsletter/dj-christian-oconnell.jpg" alt=3D"Christian O'Connell" width=
+=3D"140" height=3D"146" style=3D"display: block;">=0D=0A=09=09=09=09</td=
+>=0D=0A=09=09=09</tr>=0D=0A=09=09=09</table>=0D=0A=09=09</td>=0D=0A=09</=
+tr> <!-- / DJ Message -->=0D=0A=09=0D=0A=09<tr class=3D"spacer"><td widt=
+h=3D"640" height=3D"24"></td></tr> <!-- Spacer -->=0D=0A=09=0D=0A=09<tr>=
+ <!-- Coming Soon, Buy Tickets and Follow Us -->=0D=0A=09=09<td>=0D=0A=
+=09=09=09<table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" class=3D"inset_table">=0D=0A=09=09=09<tr>=0D=0A=
+=09=09=09=09<td>=0D=0A=09=09=09=09=09<table width=3D"300" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0" align=3D"left">=0D=0A=09=09=09=09=09<=
+tr class=3D"section_header" style=3D"height: 30px;">=0D=0A=09=09=09=09=
+=09=09<td height=3D"30" width=3D"32"><img src=3D"https://absoluteradio.c=
+o.uk/_img/newsletter/plectrum_white.gif" style=3D"display: block" height=
+=3D"30" width=3D"25"></td>=0D=0A=09=09=09=09=09=09<td height=3D"30" widt=
+h=3D"268" style=3D"font-family: Arial, sans-serif; font-size: 18px; font=
+-weight: bold; line-height: 18px; margin: 0px; padding: 6px 0px 6px 0px;=
+ height: 18px; color: #000000;">COMING SOON</td>=0D=0A=09=09=09=09=09</t=
+r>=0D=0A=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" height=3D"=
+12" colspan=3D"2"></td></tr> <!-- Spacer -->=0D=0A=09=09=09=09=09<tr> <!=
+-- Coming Soon Navs -->=0D=0A=09=09=09=09=09=09<td colspan=3D"2">=0D=0A=
+=09=09=09=09=09=09=09<table width=3D"300" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class=3D"navs_container">=0D=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D=
+"2" width=3D"54" style=3D"font-size: 0px; line-height: 0px; font-family:=
+ Arial,sans-serif;" valign=3D"middle">=0D=0A=09=09=09=09=09=09=09=09=09<=
+a href=3D"http://absoluteradio.co.uk/scle/rock-n-roll-football-pre-m=
+atch-54/episodes/32928/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&a=
+mp;utm_content=3Dcoming_soon&amp;utm_campaign=3D210115" class=3D"zoom_na=
+v" style=3D"color: #952d98; text-decoration: underline; font-weight: bol=
+d; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<=
+img src=3D"https://absoluteradio.co.uk/_img/newsletter/calendar/01-24.gi=
+f" height=3D"54" width=3D"54" border=3D"0" align=3D"left" class=3D"borde=
+rpagepic" alt=3D"">=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=
+=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" widt=
+h=3D"10" style=3D"font-size: 14px; line-height: 20px; font-family: Arial=
+,sans-serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td style=3D"font-size:=
+ 14px; line-height: 20px; font-family: Arial,sans-serif;">=0D=0A=09=09=
+=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/scle/rock=
+-n-roll-football-pre-match-54/episodes/32928/?utm_source=3Dnewsletter&am=
+p;utm_medium=3Demail&amp;utm_content=3Dcoming_soon&amp;utm_campaign=3D21=
+0115" class=3D"zoom_nav" style=3D"color: #952d98; text-decoration: under=
+line; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=09=
+=09=09=09=09=09=09=09<b>Rock 'N' Roll Football: FA Cup</b>=0D=0A=09=09=
+=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=
+=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=
+=09=09=09<td valign=3D"top" style=3D"font-size: 14px; line-height: 20px;=
+ font-family: Arial,sans-serif;">2pm on Absolute Radio</td>=0D=0A=09=09=
+=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=3D"spacer"><td=
+ width=3D"300" height=3D"12" colspan=3D"3"></td></tr> <!-- Spacer -->=09=
+=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" wi=
+dth=3D"54" style=3D"font-size: 0px; line-height: 0px; font-family: Arial=
+,sans-serif;" valign=3D"middle">=0D=0A=09=09=09=09=09=09=09=09=09<a href=
+=3D"http://absoluteradio.co.uk/scle/saturday-night-fever-192/episode=
+s/33657/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=
+=3Dcoming_soon&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=3D"co=
+lor: #952d98; text-decoration: underline; font-weight: bold; font-family=
+: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=3D"htt=
+ps://absoluteradio.co.uk/_img/newsletter/calendar/01-24.gif" height=3D"5=
+4" width=3D"54" border=3D"0" align=3D"left" class=3D"borderpagepic" alt=
+=3D"">=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=
+=09</td>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" width=3D"10" sty=
+le=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-serif;=
+"></td>=0D=0A=09=09=09=09=09=09=09=09<td style=3D"font-size: 14px; line-=
+height: 20px; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://absoluteradio.co.uk/scle/saturday-night-f=
+ever-192/episodes/33657/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&=
+amp;utm_content=3Dcoming_soon&amp;utm_campaign=3D210115" class=3D"zoom_n=
+av" style=3D"color: #952d98; text-decoration: underline; font-weight: bo=
+ld; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09=
+<b>Saturday Night Fever</b>=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=
+=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=
+=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td valign=3D"top" s=
+tyle=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-seri=
+f;">5pm on Absolute Radio 70s</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=
+=09=09=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" height=3D"12=
+" colspan=3D"3"></td></tr> <!-- Spacer -->=09=09=09=09=09=09=09<tr>=0D=
+=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" width=3D"54" style=3D"font-=
+size: 0px; line-height: 0px; font-family: Arial,sans-serif;" valign=3D"m=
+iddle">=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluteradio.=
+co.uk/scle/non-stop-70s-45/episodes/34381/?utm_source=3Dnewsletter&a=
+mp;utm_medium=3Demail&amp;utm_content=3Dcoming_soon&amp;utm_campaign=3D2=
+10115" class=3D"zoom_nav" style=3D"color: #952d98; text-decoration: unde=
+rline; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=09=
+=09=09=09=09=09=09=09=09<img src=3D"https://absoluteradio.co.uk/_img/new=
+sletter/calendar/01-25.gif" height=3D"54" width=3D"54" border=3D"0" alig=
+n=3D"left" class=3D"borderpagepic" alt=3D"">=0D=0A=09=09=09=09=09=09=09=
+=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=
+=09<td rowspan=3D"2" width=3D"10" style=3D"font-size: 14px; line-height:=
+ 20px; font-family: Arial,sans-serif;"></td>=0D=0A=09=09=09=09=09=09=09=
+=09<td style=3D"font-size: 14px; line-height: 20px; font-family: Arial,s=
+ans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09<a href=3D"http://absoluter=
+adio.co.uk/scle/non-stop-70s-45/episodes/34381/?utm_source=3Dnewslet=
+ter&amp;utm_medium=3Demail&amp;utm_content=3Dcoming_soon&amp;utm_campaig=
+n=3D210115" class=3D"zoom_nav" style=3D"color: #952d98; text-decoration:=
+ underline; font-weight: bold; font-family: Arial,sans-serif;">=0D=0A=09=
+=09=09=09=09=09=09=09=09=09<b>Suzi Q: Super Sounds of the Seventies</b>=
+=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=09=09=09</td>=
+=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr>=0D=0A=09=
+=09=09=09=09=09=09=09<td valign=3D"top" style=3D"font-size: 14px; line-h=
+eight: 20px; font-family: Arial,sans-serif;">7pm on Absolute Radio 70s</=
+td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=09<tr class=
+=3D"spacer"><td width=3D"300" height=3D"12" colspan=3D"3"></td></tr> <!-=
+- Spacer -->=09=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td r=
+owspan=3D"2" width=3D"54" style=3D"font-size: 0px; line-height: 0px; fon=
+t-family: Arial,sans-serif;" valign=3D"middle">=0D=0A=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://absoluteradio.co.uk/scle/non-stop-80s-25/=
+episodes/33137/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_c=
+ontent=3Dcoming_soon&amp;utm_campaign=3D210115" class=3D"zoom_nav" style=
+=3D"color: #952d98; text-decoration: underline; font-weight: bold; font-=
+family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<img src=
+=3D"https://absoluteradio.co.uk/_img/newsletter/calendar/01-25.gif" heig=
+ht=3D"54" width=3D"54" border=3D"0" align=3D"left" class=3D"borderpagepi=
+c" alt=3D"">=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=09=09=09=09=09=
+=09=09=09</td>=0D=0A=09=09=09=09=09=09=09=09<td rowspan=3D"2" width=3D"1=
+0" style=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-=
+serif;"></td>=0D=0A=09=09=09=09=09=09=09=09<td style=3D"font-size: 14px;=
+ line-height: 20px; font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=
+=09=09=09=09=09<a href=3D"http://absoluteradio.co.uk/scle/non-stop-8=
+0s-25/episodes/33137/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp=
+;utm_content=3Dcoming_soon&amp;utm_campaign=3D210115" class=3D"zoom_nav"=
+ style=3D"color: #952d98; text-decoration: underline; font-weight: bold;=
+ font-family: Arial,sans-serif;">=0D=0A=09=09=09=09=09=09=09=09=09=09<b>=
+U2 - Songs of Innocence</b>=0D=0A=09=09=09=09=09=09=09=09=09</a>=0D=0A=
+=09=09=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=
+=09=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09=09=09<td valign=3D"top" s=
+tyle=3D"font-size: 14px; line-height: 20px; font-family: Arial,sans-seri=
+f;">9pm on Absolute 80s</td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=
+=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" height=3D"12" cols=
+pan=3D"3"></td></tr> <!-- Spacer -->=09=09=09=09=09=09=09</table>=0D=0A=
+=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09</tr> <!--  / Coming Soon Na=
+vs -->=0D=0A=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" height=
+=3D"24" colspan=3D"2"></td></tr> <!-- Spacer -->=0D=0A=09=09=09=09=09</t=
+able>=0D=0A=0D=0A=09=09=09=09=09<table width=3D"300" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"right">=0D=0A=09=09=09=09=09<tr c=
+lass=3D"section_header" style=3D"height: 30px;">=0D=0A=09=09=09=09=09=09=
+<td height=3D"30" width=3D"32"><img src=3D"https://absoluteradio.co.uk/_=
+img/newsletter/plectrum_white.gif" style=3D"display: block" height=3D"30=
+" width=3D"25"></td>=0D=0A=09=09=09=09=09=09<td height=3D"30" width=3D"2=
+68" style=3D"font-family: Arial, sans-serif; font-size: 18px; font-weigh=
+t: bold; line-height: 18px; margin: 0px; padding: 6px 0px 6px 0px; heigh=
+t: 18px; color: #000000;">BUY TICKETS</td>=0D=0A=09=09=09=09=09</tr>=0D=
+=0A=09=09=09=09=09<tr class=3D"spacer"><td width=3D"300" height=3D"12" c=
+olspan=3D"2"></td></tr> <!-- Spacer -->=0D=0A=09=09=09=09=09<tr id=3D"bu=
+y_tickets">=0D=0A=09=09=09=09=09=09<td class=3D"cell" colspan=3D"2" styl=
+e=3D"margin-bottom: 0; font-weight: normal; font-size: 14px; margin-top:=
+ 0; font-family: Arial,sans-serif; line-height: 22px; padding-top: 0; co=
+lor: #000000; padding-bottom: 3px;">=0D=0A=09=09=09=09=09=09=09<a href=
+=3D"http://absoluteradio.co.uk/tickets/?utm_source=3Dnewsletter&amp;utm_=
+medium=3Demail&amp;utm_content=3Dtickets&amp;utm_campaign=3D210115" styl=
+e=3D"color: #952d98; text-decoration: underline; font-weight: bold; font=
+-family: Arial,sans-serif;">GUN: In Edinburgh</a><br><a href=3D"http://a=
+bsoluteradio.co.uk/tickets/?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Dtickets&amp;utm_campaign=3D210115" style=3D"color:=
+ #952d98; text-decoration: underline; font-weight: bold; font-family: Ar=
+ial,sans-serif;">Fall Out Boy: Second Wembley date</a><br><a href=3D"htt=
+p://absoluteradio.co.uk/tickets/?utm_source=3Dnewsletter&amp;utm_medium=
+=3Demail&amp;utm_content=3Dtickets&amp;utm_campaign=3D210115" style=3D"c=
+olor: #952d98; text-decoration: underline; font-weight: bold; font-famil=
+y: Arial,sans-serif;">Isle of Wight Festival 2015</a><br>=09=09=09=09=09=
+=09</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09<tr class=3D"spac=
+er"><td width=3D"300" height=3D"21" colspan=3D"2"></td></tr> <!-- Spacer=
+ -->=0D=0A=09=09=09=09=09<tr class=3D"section_header" style=3D"height: 3=
+0px;">=0D=0A=09=09=09=09=09=09<td height=3D"30" width=3D"32"><img src=3D=
+"https://absoluteradio.co.uk/_img/newsletter/plectrum_white.gif" style=
+=3D"display: block" height=3D"30" width=3D"25"></td>=0D=0A=09=09=09=09=
+=09=09<td height=3D"30" width=3D"268" style=3D"font-family: Arial, sans-=
+serif; font-size: 18px; font-weight: bold; line-height: 18px; margin: 0p=
+x; padding: 6px 0px 6px 0px; height: 18px; color: #000000;">FOLLOW US</t=
+d>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09<tr class=3D"spacer"><t=
+d width=3D"300" height=3D"12" colspan=3D"2"></td></tr> <!-- Spacer -->=
+=0D=0A=09=09=09=09=09<tr>=0D=0A=09=09=09=09=09=09<td class=3D"cell" widt=
+h=3D"300" colspan=3D"2" style=3D"color: #000000; font-size: 14px; line-h=
+eight: 18px; font-family: Arial,sans-serif; margin: 0; padding: 0; font-=
+weight: normal;">=0D=0A=09=09=09=09=09=09=09You can get in touch with us=
+, and see our latest news and interviews, on Twitter and Facebook:=0D=0A=
+=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09<t=
+r class=3D"spacer"><td width=3D"300" height=3D"14" colspan=3D"2"></td></=
+tr> <!-- Spacer -->=0D=0A=09=09=09=09=09<tr> <!-- Social Media Buttons -=
+->=0D=0A=09=09=09=09=09=09<td width=3D"300" height=3D"80" colspan=3D"2">=
+=0D=0A=09=09=09=09=09=09=09<table width=3D"300" height=3D"80" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0">=0D=0A=09=09=09=09=09=09=09<tr>=
+=0D=0A=09=09=09=09=09=09=09=09<td width=3D"67" height=3D"80"></td>=0D=0A=
+=09=09=09=09=09=09=09=09<td width=3D"78" height=3D"80"><a href=3D"http:/=
+/network.absoluteradio.co.uk/core/exits/?userid=3D3164789&amp;url=3Dhttp=
+://www.twitter.com/absoluteradio?newsletter_150121"><img src=3D"https://=
+absoluteradio.co.uk/_img/newsletter/twitter.gif" width=3D"78" height=3D"=
+80" alt=3D"Follow us on Twitter" border=3D"0" style=3D"display: block;">=
+</a></td>=0D=0A=09=09=09=09=09=09=09=09<td width=3D"10" height=3D"80"></=
+td>=0D=0A=09=09=09=09=09=09=09=09<td width=3D"78" height=3D"80"><a href=
+=3D"http://network.absoluteradio.co.uk/core/exits/?userid=3D3164789&amp;=
+url=3Dhttp://www.facebook.com/absoluteradio?newsletter_150121"><img src=
+=3D"https://absoluteradio.co.uk/_img/newsletter/facebook.gif" width=3D"7=
+8" height=3D"80" alt=3D"Like us on Facebook" border=3D"0" style=3D"displ=
+ay: block;"></a></td>=0D=0A=09=09=09=09=09=09=09=09<td width=3D"67" heig=
+ht=3D"80"></td>=0D=0A=09=09=09=09=09=09=09</tr>=0D=0A=09=09=09=09=09=09=
+=09</table>=0D=0A=09=09=09=09=09=09</td>=0D=0A=09=09=09=09=09</tr> <!--=
+  / Social Media Buttons -->=0D=0A=09=09=09=09=09<tr class=3D"spacer"><t=
+d width=3D"300" height=3D"4" colspan=3D"2"></td></tr> <!-- Spacer -->=0D=
+=0A=09=09=09=09=09</table>=0D=0A=09=09=09=09</td>=0D=0A=09=09=09</tr>=0D=
+=0A=09=09=09</table>=0D=0A=09=09</td>=0D=0A=09</tr> <!-- / Coming Soon,=
+ Buy Tickets and Follow Us -->=0D=0A=0D=0A=09<tr class=3D"blackline"><td=
+ width=3D"640" height=3D"4" bgcolor=3D"#000000" style=3D"font-size: 1px;=
+ line-height: 1px;">&nbsp;</td></tr> <!-- Black line -->=0D=0A=0D=0A=09<=
+tr class=3D"spacer"><td width=3D"640" height=3D"24"></td></tr> <!-- Spac=
+er -->=0D=0A=0D=0A=09<tr> <!-- Boilerplate -->=0D=0A=09=09<td class=3D"b=
+oilerplate">=0D=0A=09=09=09<table width=3D"640" style=3D"width: 640px;"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=
+=3D"inset_table">=0D=0A=09=09=09<tr>=0D=0A=09=09=09=09<td width=3D"640"=
+ class=3D"cell" style=3D"display: block; width: 640px; margin: 0; font-w=
+eight: normal; font-size: 12px; font-family: Arial,sans-serif; line-heig=
+ht: 20px; padding-top: 0; color: #000000; padding-bottom: 10px; backgrou=
+nd: #fff">=0D=0A=09=09=09=09=09We sent this to iamnobody@fs.net after yo=
+u registered on an Absolute Radio website, either specifically for this=
+ newsletter or for an Absolute Radio Account. <a href=3D"http://network.=
+absoluteradio.co.uk/newsletter/index.html?id=3D3164789&amp;sid=3D7937998=
+&amp;utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Dbo=
+ilerplate&amp;utm_campaign=3D210115" style=3D"color: #952d98; text-decor=
+ation: underline; font-weight: bold; font-family: Arial,sans-serif;">Uns=
+ubscribe</a>. You can also send us <a href=3D"http://absoluteradio.co.uk=
+/contact/index.html?to=3Dgeneral&amp;subject=3DNewsletter;utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Dboiler=
+plate&amp;utm_campaign=3D210115" style=3D"color: #952d98; text-decoratio=
+n: underline; font-weight: bold; font-family: Arial,sans-serif;">feedbac=
+k</a> on this newsletter or read our <a href=3D"http://absoluteradio.co.=
+uk/legal/privacy/index.html?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Dboilerplate&amp;utm_campaign=3D210115" style=3D"col=
+or: #952d98; text-decoration: underline; font-weight: bold; font-family:=
+ Arial,sans-serif;">privacy policy</a>. Absolute Radio complies fully wi=
+th the EU Privacy Directive 2002/58/EC, and the principles of the US's C=
+AN-SPAM law.=0D=0A=09=09=09=09=09<br><br>=0D=0A=09=09=09=09=09This email=
+ is from Absolute Radio, One Golden Square, London, W1F 9DJ. Tel +44 20=
+ 7434 1215. Registered in England No 2674136. Registered office: 1 Linco=
+ln Court, Lincoln Road, Peterborough, PE1 2RF. VAT No GB 918 5617 01.=0D=
+=0A=09=09=09=09=09<br><br>=0D=0A=09=09=09=09=09=0D=0AStop standing aroun=
+d and go... thwart something! =0D=0A=09=09=09=09</td>=0D=0A=09=09=09</tr=
+>=0D=0A=09=09=09</table>=0D=0A=09=09</td>=0D=0A=09</tr> <!-- / Boilerpla=
+te -->=0D=0A=0D=0A=09<tr class=3D"spacer"><td width=3D"640" height=3D"24=
+"></td></tr> <!-- Spacer -->=0D=0A=09</table>=0D=0A</td>=0D=0A</tr>=0D=
+=0A</table>=0D=0A</body>=0D=0A</html>=0D=0A=0D=0A
+
+--=_8e95c3a6a1107d7fe1f0c7b3b17b4d62--
+

@@ -1,0 +1,1717 @@
+From @..  Fri Jan 16 15:47:03 2015
+Return-Path: <@..>
+X-Original-To: bleighty2@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 774D4DF; Fri, 16 Jan 2015 15:47:03 +0000 (UTC)
+Received: from relay-5-105.msgfocus.com (relay-5-105.msgfocus.com [46.236.37.105])
+    by .. with SMTP id 3e97b58bbsahg8bzmgnjccqz8s;
+    for bleighty2@fs.net;
+    Fri, 16 Jan 2015 15:47:02 +0000 (UTC)
+    (envelope-from mail.bdqvyegcdazjadong@email.mrc.org)
+Received-SPF: Pass; receiver=..;
+    client-ip=46.236.37.105;
+    envelope-from=<mail.bdqvyegcdazjadong@email.mrc.org>;
+    helo=relay-5-105.msgfocus.com; mechanism=include:msgfocus.com
+    (ip4:46.236.37.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=46.236.37.105; client-port=51013;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 129.250.8.193
+    129.250.2.44 129.250.4.165 129.250.3.85 129.250.6.177 129.250.4.125
+    129.250.5.197 129.250.5.41 83.217.238.118 89.151.95.130 89.151.95.74
+    46.236.32.60; network-path-time=1421423222
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=msgf; d=msgfocus.com;
+ h=Subject:X-Mailer:Message-ID:Reply-To:To:From:Date:MIME-Version:Content-Type;
+ bh=4qIEmeyt95KKmFFJtvsfokg1DrI=;
+ b=Ls6X9rv/9nHkoC0NVezL4cFakJLmAG1eqeFt2zCbKwptS5fyApQDDWxN1o6RsfLfvfXWjGbUfD4u
+   WWawD90lVZj4wypbFXgoIqhzgjrmYsbhrQeIhpKB+vV0QS/KXWvMyAUY+W+r8W/krBvfE+mTkCzp
+   QT9i0nvVh17hs5wMZUg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=msgf; d=mrc.org;
+ h=Subject:X-Mailer:Message-ID:Reply-To:To:From:Date:MIME-Version:Content-Type; i=CyberComment@mrc.org;
+ bh=4qIEmeyt95KKmFFJtvsfokg1DrI=;
+ b=QaMyD8IdruQ9Xa5B8f998j3HorcHSRwUnoOTMipCe1kqnvyw2+j9bYn9sIf7rrVQMyJL2kROemXS
+   g4ix0ORc9qOP/Esl38pzXphy4ZGTBex8be5jIM6vZYKNkpIPp3Ni1hwtsKWEp5iczKITbAATwWt6
+   9Pzmf08UXZ8M/QrdZiw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=msgf; d=mrc.org;
+ b=Pc2veXfT7NQlWRJvMWFr49+fKhz+6R1UTCh7STQ4XRD1TevzGwAzDbuoMet2MTWgdkuqvd9CqluV
+   wKdcSjztGOD+JfEDqgv6WwFd2rGSUnDNtVfZMGR3nJj7Zyar5JFtESYMkC2UaQunIiob+KnbQ1MA
+   47crNrW/+ns4+0QV2JY=;
+Subject:
+ =?UTF-8?B?TVJDIEFsZXJ0OiBOQkMgSHlwZXMgT2JhbWHigJlzIOKAmFBhaWQgU2ljayBM?=
+ =?UTF-8?B?ZWF2ZeKAmSBNYW5kYXRlOyBGYWlscyB0byBEaXNjbG9zZSBJbnRlcnZpZXcg?=
+ =?UTF-8?B?U3ViamVjdOKAmXMgTGliZXJhbCBUaWVz?=
+X-Mailer: MessageFocus v2 launch
+Message-ID: <M5v6-6Vcx3xk6s-hWGs-147WRpV9c3MiYg7@msgfocus.com>
+Reply-To: Media Research Center <@..>
+To: @..
+From: Media Research Center <@..>
+Date: Fri, 16 Jan 2015 15:46:45 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--11959108E42906A77A52A20A29"
+
+
+----11959108E42906A77A52A20A29
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html><body style=3D"-webkit-font-smoothing: antialiased; -webkit-text-size=
+-adjust: none; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif; height: 100<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><a href=3D"http://email.mrc.org/q/1m96FzuALbd2CJF=
+0ZpmM/wv">Read online version</a></p>
+<p>MRC.org CyberAlert</p>
+<table class=3D"head-wrap" style=3D"width: 100ffffff">
+
+<tr align=3D"center">
+<td></td>
+<td class=3D"header container" style=3D"clear: both; display: block; margin=
+: 0 auto; max-width: 620px;">
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td><a style=3D"color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zNhNFoBbmjwihFqebnJGk" target=3D"_blank"><img style=3D"max-wi=
+dth: 100rAlert/CyberAlert_final.jpg" alt=3D"MRC CyberAlert"></a></td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+
+</table>
+<table class=3D"body-wrap" style=3D"width: 100
+<tr align=3D"center">
+<td></td>
+<td>
+<h5 style=3D"font-size: 17px; font-weight: 900; color: #000; font-family: '=
+HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; line-height: 1.1; margin: 0; margin-bot=
+tom: 15px; padding: 0;">Friday, January 16, 2015 at 10:20 AM EST</h5>
+<h4 class=3D"red" style=3D"color: #000; font-size: 20px; font-weight: 500; =
+margin-bottom: 15px; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Li=
+ght', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line=
+-height: 1.1; margin: 0; padding: 0;">Tracking Liberal Media Bias Since 199=
+6</h4>
+</td>
+<td></td>
+</tr>
+<tr align=3D"center">
+<td></td>
+<td id=3D"summary-container" class=3D"container" style=3D"clear: both; disp=
+lay: block; margin: 0 auto; max-width: 620px;" bgcolor=3D"#FFFFFF">
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zNtk0HGvBaIorrwlEtYCh">1. NBC Nightly News Hypes Obama&rsquo;=
+s &lsquo;Paid Sick Leave&rsquo; Mandate; Fails to Disclose Interview Subjec=
+t&rsquo;s Liberal Ties</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Following the lead of ABC and CBS from Thursday m=
+orning, <i>NBC Nightly News</i> cheered President Barack Obama&rsquo;s newe=
+st initiative that would require private businesses &ldquo;to guarantee&rdq=
+uo; their employees &ldquo;at least seven&rdquo; paid sick days and affect =
+43 million Americans, with Chris Jansing forwarding a tired liberal talking=
+ point: "The U.N. says only the U.S. and Papua New Guinea don't have some m=
+andatory paid time off for new moms." While senior White House corresponden=
+t Jansing interviewed the owner of a Maryland carpet company opposed to the=
+ President&rsquo;s proposal, she had three quotes (compared to one from the=
+ business owner) from someone she failed to disclose as more than just a wo=
+man in favor of the policy since she was fired from her job for taking time=
+ off to have her daughter.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zNEQm0LPQ1UuBdCt7Adye">2. ABC and CBS Morning Shows Help Boos=
+t Obama&rsquo;s &lsquo;Paid Sick Leave&rsquo; Mandate</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">On Thursday, ABC&rsquo;s Good Morning America and=
+ CBS This Morning eagerly promoted President Obama&rsquo;s latest proposal =
+that would require all private companies provide their employees with &ldqu=
+o;at least seven days of paid sick leave.&rdquo; NBC&rsquo;s Today did not =
+cover President Obama&rsquo;s initiative on their Thursday morning broadcas=
+t. During the network coverage of Obama&rsquo;s initiative, GMA co-host Rob=
+in Roberts cheered on the program and insisted that &ldquo;studies have sho=
+wn again and again and again that paid sick leave, not only benefits worker=
+s and their families but employers, as well, because productivity goes up.&=
+rdquo;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zNQmHjRa4T6AKZIAAGsub">3. Al Hunt: GOP Congress 'Not Interest=
+ed in Getting Things Done'; May 'Screw Up' Great Economy</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">In an interview with newly elected Colorado Senat=
+or Cory Gardner for PBS's <i>Charlie Rose</i>, Bloomberg View columnist Al =
+Hunt grilled the Republican on conservatives in Congress being obstructioni=
+st: "Some of your Republican colleagues, Ted Cruz in the Senate, those twen=
+ty-four House members who voted against Speaker Boehner, they're not intere=
+sted in getting things done as much as they are in putting down markers. Is=
+n't it more likely there'll be a series of confrontations rather than any k=
+ind of collaboration?" Later, Hunt cheered how well the economy was doing b=
+ut worried the new Republican Congress could ruin it: "The report came out =
+Friday morning that we &ndash; 600,000 jobs in the last two months, unemplo=
+yment down to five, six. We are the envy of the world right now. And I gues=
+s the question is: Is there any danger Congress will screw it up?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zO1T2CWujKiGULOI3MHq8">4. Andrea Mitchell Hails Changes in Tr=
+ade &amp; Travel with Cuba: &lsquo;The Cold War Will Be Over&rsquo; on Frid=
+ay</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">During Thursday&rsquo;s <i>NBC Nightly News</i>, =
+NBC News chief foreign affairs correspondent Andrea Mitchell enthusiastical=
+ly promoted the new and &ldquo;dramatic changes&rdquo; set to go into effec=
+t on Friday that will allow Americans to more easily trade with and travel =
+to/from Cuba as causing the Cold War to end. In leading off her report, Mit=
+chell announced to viewers: &ldquo;In Havana, dramatic change after more th=
+an a half-century. Tomorrow the Cold War will be over. A huge opening for U=
+.S. and Cuban travel and trade.&rdquo;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zOdpnW1OyBuN4xUPwSWm5">5. CNN Barely Covers Release of Gitmo =
+Detainees; Airs 19-Second Brief</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">As of 6 pm Eastern on Thursday, CNN has devoted j=
+ust 19 seconds of air time to the release of five prisoners from Guantanamo=
+ Bay detention facilities &ndash; a news brief during the <i>New Day</i> pr=
+ogram. This is still more coverage than CBS and NBC, as both Big Three netw=
+orks ignored the story on their Thursday morning newscasts. ABC gave a 16-s=
+econd news brief on <i>Good Morning America</i>.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zOoVJf78NsGTek0WZZbi2">6. Rose to Rubio on PBS: 'What's the B=
+est Thing You Can Say' About ObamaCare?</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">During an interview with Senator Marco Rubio on T=
+uesday, PBS host Charlie Rose urged the Florida Republican to say something=
+ positive about ObamaCare: "What's the best thing you can say about the Aff=
+ordable Care Act?" Rubio replied: "That it's forced us to have a debate abo=
+ut health insurance in America." Rose fretted: "That's it?" Rose tried to p=
+ush supportive spin on the unpopular policy: "In terms of accessibility, in=
+ terms of &ndash; it has not been as &ndash; I mean, the projected costs ha=
+ve not been as bad as they assumed." Rubio countered: "They've not been as =
+good as they proclaimed either."</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content summary" style=3D"display: block; margin: 0 auto; max=
+-width: 620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<h4 style=3D"font-size: 20px; font-weight: 500; margin-bottom: 15px; color:=
+ #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helveti=
+ca Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; =
+margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-weight: 500; marg=
+in-bottom: 5px; color: #2b63cb; text-decoration: none;" href=3D"http://emai=
+l.mrc.org/c/13zOAs4yct2jSZo674t5qdZ">7. CBS This Morning Gushes Over Jackie=
+ Kennedy&rsquo;s Love of Peanut Butter and Jelly Sandwiches</a></h4>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The media&rsquo;s obsession with the Kennedys rea=
+red its ugly head once again on Thursday when CBS This Morning spent four m=
+inutes of its broadcast obsessing over newly released letters from Jacqueli=
+ne Kennedy written to her favorite fashion designers. While all three CBS h=
+osts beamed at Kennedy&rsquo;s &ldquo;flair for fashion&rdquo; it was her s=
+upposed love of peanut butter and jelly sandwiches that received the most a=
+ttention with co-host Gayle King proclaiming that &ldquo;there&rsquo;s some=
+thing cool knowing that she ate peanut butter and jelly. I like that.&rdquo=
+;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+<tr align=3D"center">
+<td></td>
+<td>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td align=3D"center"><a style=3D"color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zOLYpRhNhb55xSdbWbF9W"><img style=3D"max-wid=
+th: 1000440cae3684f08&amp;rand=3D1976481504" alt=3D""></a></td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+<tr align=3D"center">
+<td></td>
+<td id=3D"article-container" class=3D"container" style=3D"clear: both; disp=
+lay: block; margin: 0 auto; max-width: 620px;" align=3D"left" bgcolor=3D"#F=
+FFFFF">
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">1</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zOXuLan7w2hbHEjjphU5T">NBC Nightly News Hype=
+s Obama&rsquo;s &lsquo;Paid Sick Leave&rsquo; Mandate; Fails to Disclose In=
+terview Subject&rsquo;s Liberal Ties</a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Curtis Houck</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><a style=3D"color: #2b63cb; text-decoration: none=
+;" href=3D"http://email.mrc.org/c/13zPkxrMxLZKFo1cvylunXN" target=3D"_blank=
+">Following the lead</a> of ABC and CBS from Thursday morning, <i>NBC Night=
+ly News</i> cheered President Barack Obama&rsquo;s newest initiative that w=
+ould require private businesses <b>&ldquo;to guarantee&rdquo; </b>their emp=
+loyees <b>&ldquo;at least seven&rdquo; </b>paid sick days and affect 43 mil=
+lion Americans, with Chris Jansing forwarding a tired liberal talking point=
+: "The U.N. says only the U.S. and Papua New Guinea don't have some mandato=
+ry paid time off for new moms."</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">While senior White House correspondent Jansing in=
+terviewed the owner of a Maryland carpet company opposed to the President&r=
+squo;s proposal, she had three quotes (compared to one from the business ow=
+ner) from someone she failed to disclose as more than just a woman in favor=
+ of the policy since she was fired from her job for taking time off to have=
+ her daughter.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zPw3N5D6eBRuaYB=
+FOACTK"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Turns out, the woman who Jansing had interviewed =
+<a style=3D"color: #2b63cb; text-decoration: none;" href=3D"http://email.mr=
+c.org/c/13zPHA8oIqtt3AkKHNhGRPH" target=3D"_blank">appeared and spoken</a> =
+at an October 2013 event in Landover, Maryland with liberal Congresswomen N=
+ancy Pelosi (Calif.), Donna Edwards (Md.) and Senator Barbara Mikulski (Md.=
+).</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">According to C-SPAN, the event was hosted by Edwa=
+rd and promoted <b>&ldquo;the importance of paid sick leave and affordable =
+heath insurance and child care.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Returning to Jansing&rsquo;s story, she touted a =
+United Nations statistic that <b>&ldquo;only the U.S. and Papua New Guinea =
+don't have some mandatory paid time off for new moms&rdquo;</b> and the Whi=
+te House talking point that <b>&ldquo;43 million private sector workers are=
+n't eligible for a single sick day.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">She later fretted that <b>&ldquo;small business g=
+roups are fighting&rdquo; </b>this proposal and since <b>&ldquo;[m]any Repu=
+blicans&rdquo;</b> also oppose it, Obama&rsquo;s plan faces <b>&ldquo;an up=
+hill battle in Congress.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">In contrast, the <i>CBS Evening News</i> offered =
+a more balanced segment that did not feature a covert liberal activist but =
+instead equal soundbites from a woman in favor of the measure whose expecti=
+ng a baby and Republican Congresswoman Martha Roby (Ala.), who is opposed t=
+o the President&rsquo;s plan but proposed her own plan (that passed the Hou=
+se in 2013).</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CBS News chief White House correspondent Major Ga=
+rrett reported that Roby&rsquo;s plan wouldn&rsquo;t have a federal mandate=
+ and instead <b>&ldquo;allow employees and employers to trade overtime hour=
+s for either pay or time off.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Further, Jansing&rsquo;s segment failed to cite a=
+ny cost estimate for both Obama&rsquo;s executive action affecting the fede=
+ral workforce as well as his plan for private businesses (which would requi=
+re approval from Congress).</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CBS&rsquo;s Garrett did highlight those two stati=
+stics at the end of his story with the plan for<b> &ldquo;federal leave&rdq=
+uo;</b> being <b>&ldquo;about $250 billion a year&rdquo;</b> and the estima=
+ted cost for the private sector being about <b>&ldquo;$2.5 billion every ye=
+ar.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The relevant portions of the transcript from <i>N=
+BC Nightly News</i> on January 15 is transcribed below.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>NBC Nightly News</i><br> January 15, 2015<br> =
+7:00 p.m. Eastern [TEASE]</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">[ON-SCREEN HEADLINE CAPTION: Paid Days Off]</p>
+<img class=3D"image-blog_body-50" style=3D"max-width: 100argin-left: 4px; margin-right: 4px;" src=3D"http://newsbusters.org/s3/files=
+/styles/blog_body-50/s3/images/2015-01-15-NBC-NN-ObamaSickLeave1_0.JPG?itok=
+=3DX3Gx-aR3" alt=3D"" width=3D"280">
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BRIAN WILLIAMS: Paid days off for new moms and da=
+ds, and the millions of Americans who get sick and can't afford to stay hom=
+e from work. A big debate erupts over an issue that really hits home.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(....)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">7:08 p.m. Eastern</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">[ON-SCREEN HEADLINE CAPTION: Paid Leave]</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">WILLIAMS: Also out of Washington today, news that=
+ could affect millions of American families including new parents who need =
+time off and a lot of Americans who get sick but can't afford to stay home =
+from work. 43 million Americans do not get paid sick leave, and tonight, th=
+e President is trying to change that and ce that number and in the proc=
+ess, he has opened up a big debate. We get more on that from our senior Whi=
+te House correspondent Chris Jansing.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CHRIS JANSING: Danielle Buckman was working at a =
+nonprofit in Maryland when she got pregnant four years ago.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">DANIELLE BUCKMAN: I love my job.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">JANSING: But Avery came eight weeks early, mother=
+ and daughter almost died. Her company didn't have any paid leave and she l=
+ost her job.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BUCKMAN: Women want to be both working parents an=
+d good workers and a paid leave would have allowed me to continue a job tha=
+t I loved.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">JANSING: Today, President Obama signed a memorand=
+um guaranteeing up to six weeks paid leave for federal employees who are ne=
+w parents, and urged Congress to require most private companies to do the s=
+ame. The U.N. says only the U.S. and Papua New Guinea don't have some manda=
+tory paid time off for new moms and 43 million private sector workers aren'=
+t eligible for a single sick day. The White House wants to guarantee at lea=
+st seven, but small business groups are fighting it. This family-owned carp=
+et company is a good example. Some people have worked here more than 20 yea=
+rs and, yes, good benefits help them to get and retain good employees. So o=
+wner Kurt Zanelotti says while he'd love to do more, he can't afford it.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-NBC-NN-=
+ObamaSickLeave2.JPG?itok=3DunVBuTNM" alt=3D"" width=3D"280">KURT ZANELOTTI:=
+ We're not GE. We're not Apple. Our margins are really tight. Sometimes we =
+make money, sometimes we lose money.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">JANSING: Many Republicans agree, meaning an uphil=
+l battle in Congress, so the White House is also encouraging states and cit=
+ies to pass laws of their own.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BUCKMAN: I just think that it will help so many s=
+truggling working families not having to choose between having a baby or ha=
+ving to take care of a sick loved one and their job.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">A partial transcript of the segment that aired on=
+ the <i>CBS Evening News</i> on January 15 can be found below.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>CBS Evening News</i><br> January 15, 2015<br> =
+6:38 p.m. Eastern</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-CBS-EN-=
+ObamaPaidSickLeave1_0.JPG?itok=3DEZmUllIn" alt=3D"" width=3D"280">BOB SCHIE=
+FFER: For millions of American workers, getting the flu or any other illnes=
+s that keeps them off their job can mean a loss of pay. The President addre=
+ssed that today, and chief White House correspondent Major Garrett has that=
+.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARRETT: With his signature, President Obama orde=
+red federal agencies to provide six weeks of paid leave for any employee wh=
+o needs time off to care for a newborn, an adopted child, or sick family me=
+mber. The President ate lunch today with three working mothers in Baltimore=
+ to symbolize his interest in workplace issues.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(....)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARRETT: In 60 percent of families, both parents =
+work. That's up from 40 percent in 1965. The White House wants states to cr=
+eate more earned sick leave and Congress to require companies to provide at=
+ least seven days a year of earned maternity or sick leave. Kaitlin Butler =
+Rothstein is expecting her first child, a boy, this spring. A lawyer who no=
+w works a part-time retail job, Rothstein said unpaid leave creates anxiety=
+ for all working moms.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KAITLIN BUTLER ROTHSTEIN: I think when you are ta=
+king unpaid leave, it sends a message that what you've done isn't of any va=
+lue, that the work you've done prior isn't of any value and what you're goi=
+ng to do isn't of any value.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-CBS-EN-=
+ObamaPaidSickLeave2.JPG?itok=3D1cGlBjCR" alt=3D"" width=3D"280">GARRETT: Re=
+publican Congresswoman Martha Roby of Alabama, a mother of two, wrote a pai=
+d leave bill that passed the House in 2013. It would allow employees and em=
+ployers to trade overtime hours for either pay or time off. Roby opposes a =
+federal mandate for paid leave.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">REPUBLICAN CONGRESSWOMAN MARTHA ROBY (ALA.): This=
+ is about flexibility for hardworking Americans that just want the governme=
+nt to get out of the way.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARRETT: The White House says the cost of federal=
+ leave is about $250 million a year. Bob, in the private sector, the estima=
+ted cost $2.5 billion every year.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">2</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zPT6tHNKIkfGuwNUKN6LE">ABC and CBS Morning S=
+hows Help Boost Obama&rsquo;s &lsquo;Paid Sick Leave&rsquo; Mandate</a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Jeffrey Meyer</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">On Thursday, ABC&rsquo;s <i>Good Morning America<=
+/i> and <i>CBS This Morning</i> eagerly promoted President Obama&rsquo;s la=
+test proposal that would require all private companies provide their employ=
+ees with &ldquo;at least seven days of paid sick leave.&rdquo; NBC&rsquo;s =
+<i>Today </i>did not cover President Obama&rsquo;s initiative on their Thur=
+sday morning broadcast.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">During the network coverage of Obama&rsquo;s init=
+iative,<b> <i>GMA </i>co-host Robin Roberts cheered on the program and insi=
+sted that &ldquo;studies have shown again and again and again that paid sic=
+k leave, not only benefits workers and their families but employers, as wel=
+l, because productivity goes up.&rdquo; </b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zQ4CP0T4XbrMEiU=
+2dTlHB"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">On<i> CBS This Morning</i>, co-host Norah O&rsquo=
+;Donnell provided a 30-second news brief that sounded like an Obama adminis=
+tration press release with no mention of those who oppose a new federal man=
+date on private companies:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/CBSobama_2.jpg?itok=3DI0QoWk0k" alt=3D""=
+ width=3D"300" height=3D"169">Today, President Obama will call on Congress =
+to guarantee paid sick leave for American workers. The Healthy Families Act=
+ would allow employees to earn up to seven paid days off for illness each y=
+ear. The president wants Congress to spend $2.2 billion to help states deve=
+lop paid leave programs. He will also take executive action signing a presi=
+dential memo to give at least six weeks of paid time off for federal worker=
+s with a new child. The White House says there are 43 million private secto=
+r workers that can't take a sick day without losing pay.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Over on ABC, Robin Roberts began the network&rsqu=
+o;s coverage by hyping &ldquo;a major new initiative for families from the =
+White House this morning. President Obama proposing new legislation that wo=
+uld require companies to give workers paid sick leave.&rdquo;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The <i>GMA </i>co-anchor then turned to Jonathan =
+Karl, ABC News Chief White House Correspondent, who, unlike CBS&rsquo;s Nor=
+ah O&rsquo;Donnell, actually included Republican criticism of President Oba=
+ma&rsquo;s latest mandate:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">This will be an uphill battle, to say the least. =
+Republicans don't like the idea of imposing an expensive new regulation on =
+companies, on employers. And Robin, Democrats have been trying to pass this=
+ bill since 2005. As you can imagine it won't be any easier now that Republ=
+icans are in control of both the House and Senate.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Roberts concluded the segment by giving one final=
+ endorsement for Obama&rsquo;s mandated &ldquo;paid sick leave&rdquo; propo=
+sal:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">And studies have shown again and again and again =
+that paid sick leave, not only benefits workers and their families but empl=
+oyers, as well, because productivity goes up.<b> And you heard Jon mention =
+about 43 million Americans don't have paid sick leave. How many times does =
+Dr. Besser say if you're sick, stay home? Well all these Americans are sayi=
+ng we can't stay home because we won't get paid. </b></p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">See relevant transcripts below.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/ABCroberts_0.jpg?itok=3DMtqnluHe" alt=3D=
+"" width=3D"300" height=3D"169">ABC&rsquo;s <i>Good Morning America</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">January 15, 2015</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROBIN ROBERTS: Now to a major new initiative for =
+families from the White House this morning. President Obama proposing new l=
+egislation that would require companies to give workers paid sick leave. AB=
+C's Jonathan Karl is at the White House this morning. Good morning, Jon.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">JONATHAN KARL: Good morning, Robin. The White Hou=
+se says some 43 million workers in the United States don't have any paid si=
+ck leave at all, so the president is calling on Congress to pass a law that=
+ would require companies to give at least seven days of paid sick leave to =
+their employees. He's also asking for $2 billion to be given to the states =
+and cities to help them pass or start their own programs with family and me=
+dical leave. And he's acting on his own making it easier for federal employ=
+ees to get up to six weeks of maternity leave. The president is promising a=
+ big push on all of this beginning next week, Robin, with the State of the =
+Union address.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROBERTS: The big question, how much of a chance d=
+oes this have to pass, Jon?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KARL: Well, this will be an uphill battle, to say=
+ the least. Republicans don't like the idea of imposing an expensive new re=
+gulation on companies, on employers. And Robin, Democrats have been trying =
+to pass this bill since 2005. As you can imagine it won't be any easier now=
+ that Republicans are in control of both the House and Senate.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROBERTS: Alright Jon thank you very much. And stu=
+dies have shown again and again and again that paid sick leave, not only be=
+nefits workers and their families but employers, as well, because productiv=
+ity goes up. And you heard Jon mention about 43 million Americans don't hav=
+e paid sick leave. How many times does Dr. Besser say if you're sick, stay =
+home? Well all these Americans are saying we can't stay home because we won=
+'t get paid.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">STEPHANOPOULOS: We&rsquo;ll lose our job.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROBERTS: Right, we&rsquo;ll see.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">STEPHANOPOULOS: Important stuff. Okay Robin thank=
+s.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/CBSodonnell_1.jpg?itok=3DmCHv2dKc" alt=
+=3D"" width=3D"300" height=3D"169"><i>CBS This Morning </i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">January 15, 2015</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">NORAH O&rsquo;DONNELL: Today, President Obama wil=
+l call on Congress to guarantee paid sick leave for American workers. The H=
+ealthy Families Act would allow employees to earn up to seven paid days off=
+ for illness each year. The president wants Congress to spend $2.2 billion =
+to help states develop paid leave programs. He will also take executive act=
+ion signing a presidential memo to give at least six weeks of paid time off=
+ for federal workers with a new child. The White House says there are 43 mi=
+llion private sector workers that can't take a sick day without losing pay.=
+</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">3</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zQg9ajYpc2DSO509GZADy">Al Hunt: GOP Congress=
+ 'Not Interested in Getting Things Done'; May 'Screw Up' Great Economy</a><=
+/h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Kyle Drennen</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">In an interview with newly elected Colorado Senat=
+or Cory Gardner for PBS's <i>Charlie Rose</i>, Bloomberg View columnist Al =
+Hunt grilled the Republican on conservatives in Congress being obstructioni=
+st: <b>"Some of your Republican colleagues, Ted Cruz in the Senate, those t=
+wenty-four House members who voted against Speaker Boehner, they're not int=
+erested in getting things done as much as they are in putting down markers.=
+</b> Isn't it more likely there'll be a series of confrontations rather tha=
+n any kind of collaboration?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Later in the same interview, Hunt cheered how wel=
+l the economy was doing but worried the new Republican Congress could ruin =
+it: "The report came out Friday morning that we &ndash; <b>600,000 jobs in =
+the last two months, unemployment down to five, six. We are the envy of the=
+ world right now. And I guess the question is: Is there any danger Congress=
+ will screw it up?"</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zQrFvD3JqTPYXR6=
+ha5Pzv"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Early in the exchange, Hunt pressed Gardner on wh=
+ether he would move to the left as a senator: "You also are going from repr=
+esenting one of the most conservative, the Republican districts in the stat=
+e of Colorado, to representing a state that, as we said earlier, really is,=
+ if anything, Democratic-leaning, a different constituency. Does that chang=
+e your approach, does that change your views about some issues?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Minutes later, on the topic of immigration, Hunt =
+again worried about supposed Republican stubbornness: "There are some House=
+ Republicans who are proposing now, with the Homeland Security authorizatio=
+n, that they would deny funding for Obama's executive action in November an=
+d some would go even and deny funding for the DREAMer's action in 2012. Is =
+that helpful? Is that constructive?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Hunt followed up by warning of political damage f=
+or the GOP on the issue: "Do you worry that if you don't get this done, tha=
+t that problem with Latino voters in the next presidential election is goin=
+g to be even greater?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Here are excerpts of the January 14 exchange:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">11:30 PM ET</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img style=3D"max-width: 100in: 2px;" src=3D"http://www.mrc.org/sites/default/files/uploads/images/2014=
+/2015-01-14-PBS-CR-Hunt.JPG" alt=3D"" width=3D"300" height=3D"175">AL HUNT:=
+ You also are going from representing one of the most conservative, the Rep=
+ublican districts in the state of Colorado, to representing a state that, a=
+s we said earlier, really is, if anything, Democratic-leaning, a different =
+constituency. Does that change your approach, does that change your views a=
+bout some issues?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">SEN. CORY GARDNER [R-CO]: I think one of the thin=
+gs that we've always been very attentive to is making sure that we're up-fr=
+ont, where we stand on policies like immigration, where we are in terms of =
+economic policies. And the people of Colorado, I think, they're willing to =
+make sure that, you know, maybe you disagree with them on this issue or tha=
+t issue or they disagree with me on this issue or that issue, but the botto=
+m line is this: As long as they believe that their elected official, whethe=
+r they're in the House or the Senate, the governor's office, is actually tr=
+ying to make progress, trying to move the ball forward, they're going to be=
+, they're going to give you the benefit of the doubt. As long as they belie=
+ve you're working hard, you're genuinely trying to make a difference.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: I'm struck by your optimism to that first q=
+uestion, and yet, Washington hasn't seen a lot of optimism in the last deca=
+de or two. Some of your Republican colleagues, Ted Cruz in the Senate, thos=
+e twenty-four House members who voted against Speaker Boehner, they're not =
+interested in getting things done as much as they are in putting down marke=
+rs. Isn't it more likely there'll be a series of confrontations rather than=
+ any kind of collaboration?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: I think everybody's interested in gettin=
+g things done. That's why we went here, that's why people ran for Congress =
+in the first place. They got elected to actually accomplish things.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: Even those twenty-four members of the House=
+?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: Everyone, I believe they did. And so &nd=
+ash; now maybe they have different goals about what it is that they want to=
+ accomplish, but I believe it is about making a better place here in Washin=
+gton, here across the country tomorrow, than it is today.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">11:34 PM ET</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: Let me ask you about immigration because th=
+at's been a big issue in your state. There are some House Republicans who a=
+re proposing now, with the Homeland Security authorization, that they would=
+ deny funding for Obama's executive action in November and some would go ev=
+en and deny funding for the DREAMer's action in 2012. Is that helpful? Is t=
+hat constructive?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: I hope that we, as Republicans, we as De=
+mocrats in Congress, instead of just saying no to this or no to that, we ca=
+n actually come with a solution to a problem that needs to be addressed. An=
+d clearly immigration is one of those issues that we have a problem with. A=
+nd it needs to be addressed in this country. Our system isn't working right=
+ now, it's broken.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Just saying no to something, to me, isn't the way=
+ that we have to go. I believe we have to do more. I believe what the Presi=
+dent did, even the President, himself, has said, was wrong. That he lacked =
+the constitutional authority to do it. Just a couple of years ago, time and=
+ time again, he said he lacked the legal authority to do what he did and th=
+en he turns around and does it.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: But they claim they do have the constitutio=
+nal authority.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: Now. I mean, a year ago or two years ago=
+ he didn't and now he's saying-</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: But you supported the DREAMers action, didn=
+'t you?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: I believe that we have to &ndash; that u=
+ltimately be part of a solution, but we have to start with a secure border,=
+ we have to start with a guest worker program. Those are things that the Am=
+erican people support. They want to show, and it be proven, that we can act=
+ually handle some of these bigger issues like border security now.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: But do you think it's possible to get some =
+kind of an accord that includes some legal status or citizenship for almost=
+ all of the eleven million undocumenteds that are here?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: I think at some point that will be one o=
+f the solutions that is reached. But right now, Republicans should put forw=
+ard a bill that starts with border security, addresses a meaningful guest w=
+orker program, because without a workable guest worker program, you do not =
+have border security. Let's put those pieces in place, make sure they work,=
+ and then we can move forward to additional solutions that are &ndash; that=
+ must be a part of the overall fix to immigration.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: You did well with Latino voters this year, =
+for a Republican, you really courted them and you were very aggressive. But=
+ the party has a problem. Do you worry that if you don't get this done, tha=
+t that problem with Latino voters in the next presidential election is goin=
+g to be even greater?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: You know, it's not about voters. It's no=
+t about what happens in 2016 or 2018. It's about what happens to our countr=
+y. Yeah, I mean, this is about &ndash; our daughter &ndash; our son will so=
+on be going to school &ndash; our daughter goes to school with a number of =
+people who either parents came here without documentation or they, themselv=
+es, are here without documentation. They go to school with our children, th=
+ey're in our communities, they've made our country stronger. We, most of us=
+, are a nation here because of immigration. And so how do we make these fix=
+es that we know are in the best interest of our country?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">11:39 PM ET</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HUNT: I want to ask you one question about the ec=
+onomy. The report came out Friday morning that we &ndash; 600,000 jobs in t=
+he last two months, unemployment down to five, six. We are the envy of the =
+world right now. And I guess the question is: Is there any danger Congress =
+will screw it up?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GARDNER: Look, never underestimate the ability of=
+ Congress to screw something up, so we have to make sure that we change tha=
+t, that that doesn't become the norm as it is previous to this. Excited abo=
+ut the numbers, however, the labor participation rate still remains about w=
+here it was, meaning that there are many Americans out of the workforce who=
+ simply have given up looking for work. They're out, they're not working an=
+ymore. It's at historic highs, remains at historic highs.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">And I think the key into our economy &ndash; and =
+this is part of the people who voted for our campaign, independents, Democr=
+ats, who voted for Cory Gardner in November, they've been working harder th=
+an ever. Maybe they have two jobs. Maybe they're in the same job. Maybe the=
+y're looking for a better-paying job. They've been working harder than ever=
+, but for the past ten, fifteen, twenty years, they're earning the same amo=
+unt of money. And so, while the haves have more, the have nots have less. T=
+hat's really what's wrong with our economy. You scratch the numbers behind =
+this economy and what you get to is the unevenness and the fact people are =
+suffering.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">4</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zQDbQW93FL257DcoDc4vs">Andrea Mitchell Hails=
+ Changes in Trade &amp; Travel with Cuba: &lsquo;The Cold War Will Be Over&=
+rsquo; on Friday</a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Curtis Houck</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">During Thursday&rsquo;s <i>NBC Nightly News</i>, =
+NBC News chief foreign affairs correspondent Andrea Mitchell enthusiastical=
+ly promoted the new and<b> &ldquo;dramatic changes&rdquo;</b> set to go int=
+o effect on Friday that will allow Americans to more easily trade with and =
+travel to/from Cuba as causing the Cold War to end.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">In leading off her report, Mitchell announced to =
+viewers: <b>&ldquo;In Havana, dramatic change after more than a half-centur=
+y. Tomorrow the Cold War will be over. A huge opening for U.S. and Cuban tr=
+avel and trade.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zQOIcfenUCebhpi=
+w6ijrp"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">She went on to outline the many changes that Amer=
+icans will be able to take advantage of, with a few examples being able to =
+travel more easily without a special permit, using a credit card in Cuba, a=
+nd being allowed to bring back up to $100 in Cuban cigars.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">At only two points in the entire two-minute-and-4=
+3-second segment was there any criticism or opposing viewpoint. While intro=
+ducing Mitchell&rsquo;s report, anchor Brian Williams stated that <b>&ldquo=
+;questions remain over whether Cuba is truly ready for all of this, ready f=
+or the influx.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">At the conclusion of her story, Mitchell finally =
+brought up the <b>&ldquo;critics&rdquo;</b> of this decision by the Obama a=
+dministration: <b>&ldquo;Critics say the President is going too far violati=
+ng the embargo and many ask whether Cuba is really ready for the American e=
+conomic invasion, especially internet access for all Cubans.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Fellow broadcast networks ABC and CBS also covere=
+d this news, but only in the form of news briefs. On ABC&rsquo;s <i>World N=
+ews Tonight</i>, anchor David Muir said that the changes will take place <b=
+>&ldquo;just weeks after lifting the embargo in place since the Cold War.&r=
+dquo; </b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The problem with that statement, however, is that=
+ the embargo technically remains in effect and can only be lifted through a=
+n act of Congress. Credit does go out the <i>CBS Evening News</i> for point=
+ing out this key fact during its news brief.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The relevant portions of the transcript from segm=
+ent that aired on <i>NBC Nightly News</i> on January 15 are transcribed bel=
+ow.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>NBC Nightly News</i><br> January 15, 2015<br> =
+7:05 p.m. Eastern</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-NBC-NN-=
+Cuba1.JPG?itok=3Do4B9lCgl" alt=3D"" width=3D"280">[ON-SCREEN HEADLINE: New =
+Era]</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">WILLIAMS: The gateway to Cuba closed to Americans=
+ for more than five decades now appears to be swinging open. Starting tomor=
+row, and thanks to a change announced today, street scenes in Havana like t=
+his one that we're looking at live tonight, may soon be full of American to=
+urists, but questions remain over whether Cuba is truly ready for all of th=
+is, ready for the influx. Our report on that tonight from our chief foreign=
+ affairs correspondent Andrea Mitchell.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ANDREA MITCHELL: In Havana, dramatic change after=
+ more than a half-century. Tomorrow the Cold War will be over. A huge openi=
+ng for U.S. and Cuban travel and trade. In Havana, Nelson Fernandez says th=
+ese measures help the country's economy. Orlando, a restaurant cook, says w=
+e think more Americans will come. There is still an embargo on general tour=
+ists, but a lot more Americans can go more easily. Educational groups, cult=
+ural groups, journalists, medical and religious organizations, family visit=
+s.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ALEX RIVAS: I got two daughters in Cuba. I have t=
+o go.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MITCHELL: At the Miami airport Alex Rivas has a n=
+ew baby who has never seen its grandmother.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-NBC-NN-=
+Cuba3.JPG?itok=3DEaCoCuER" alt=3D"" width=3D"280">VIVAS: I have a 4-month k=
+id and don't know his grandma right now.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MITCHELL: And soon he can fly on a regularly sche=
+duled commercial flight, not just the current commercial limited charters. =
+He can use the internet when he gets there as internet companies jump in. U=
+se a credit card, not just cash. Until now, no U.S. credit was allowed in C=
+uba. Plus, credit opens the door for ten times the current grain sales from=
+ Iowa farmers like Bob Bowman.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">NATIONAL CORN GROWERS ASSOCIATION&rsquo;S BOB BOW=
+MAN: When we travel to Cuba, the Cuban government officials were almost beg=
+ging us to open up trade with them.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CNBC CHIEF INTERNATIONAL CORRESPONDENT MICHELLE C=
+ARUSO-CABERRA We know there is a huge appetite for building equipment, thin=
+gs like paint, things to repair your home because so many of the homes ther=
+e are in disrepair.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MITCHELL: And cigars, so prized John Kennedy got =
+a stash of more than 1,000 for himself before imposing the embargo. America=
+ns will still only be able to bring back $100 worth. That is about three co=
+hibas, Cuba's best.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters7.s3.amazonaws.com/styles/blog_body-50/s3/images/2015-01-15-NB=
+C-NN-Cuba2.JPG?itok=3D9YPG74ih" alt=3D"" width=3D"280">(....)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MITCHELL: But there were plenty of Americans in H=
+avana today all there from special tour groups and by tomorrow they can spe=
+nd more money and use credit cards. Critics say the President is going too =
+far violating the embargo and many ask whether Cuba is really ready for the=
+ American economic invasion, especially internet access for all Cubans.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The transcript of the brief from ABC&rsquo;s <i>W=
+orld News Tonight with David Muir </i>on January 15 can be found below.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ABC&rsquo;s <i>World News Tonight With David Mui<=
+/i>r<br> January 15, 2015<br> 6:41 p.m. Eastern</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-50" style=3D"max-wi=
+dth: 100//newsbusters.org/s3/files/styles/blog_body-50/s3/images/2015-01-15-ABC-WNT=
+-Cuba.JPG?itok=3D5D49tq4T" alt=3D"" width=3D"280">[ON-SCREEN HEADLINE CAPTI=
+ON: New Rules]</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">DAVID MUIR: Beginning tomorrow, travel and trade =
+with Cuba will be a little easier, just weeks after lifting the embargo in =
+place since the Cold War. New moves from the White House. Americans will be=
+ allowed to visit Cuba without getting special permits. They will be able t=
+o use credit cards while there and bring back small amounts of rum and ciga=
+rs. Businesses, also now allowed to sell Cuban telephones, computers, and i=
+nternet technology.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">5</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zR0exyjI9tqhrboDzoynm">CNN Barely Covers Rel=
+ease of Gitmo Detainees; Airs 19-Second Brief</a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Matthew Balan</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img style=3D"max-width: 100in-left: 3px; margin-right: 3px;" src=3D"http://www.mrc.org/sites/default/f=
+iles/2015-01-15-CNN-ND-Pereira.jpg" alt=3D"" width=3D"280" height=3D"158">A=
+s of 6 pm Eastern on Thursday, CNN has devoted <b>just 19 seconds</b> of ai=
+r time to the release of five prisoners from Guantanamo Bay detention facil=
+ities &ndash; a news brief during the <i>New Day</i> program. This is still=
+ more coverage than CBS and NBC, as both Big Three networks ignored the sto=
+ry on their Thursday morning newscasts. ABC gave a <a style=3D"color: #2b63=
+cb; text-decoration: none;" href=3D"http://email.mrc.org/c/13zRnheaumDbOtKJ=
+ASvB2fg" target=3D"_blank">16-second news brief</a> on <i>Good Morning Amer=
+ica</i>.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Anchor Michaela Pereira gave the news brief 11 mi=
+nutes into the 7 am Eastern hour of the CNN morning show: [<b>video below</=
+b>]</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MICHAELA PEREIRA: Five Yemeni inmates held at Gua=
+ntanamo Bay have been transferred overseas &ndash; at least six years after=
+ the Pentagon cleared them for release. Four will go to Oman; one to Estoni=
+a. That leaves 122 prisoners at the facility in Cuba. This move has angered=
+ some members of Congress, who argue Guantanamo is needed to detain terror =
+suspects.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zRyNztzGS30zUvG=
+ZYHhbd"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Correspondent Chloe Summers gave further details =
+about the prisoner transfer in a <a style=3D"color: #2b63cb; text-decoratio=
+n: none;" href=3D"http://email.mrc.org/c/13zRKjUMF16UcG4hN7rNw7a" target=3D=
+"_blank">Thursday item</a> on CNN.com:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Al Khadr Abdallah Muhammad Al Yafi, Fadel Hussein=
+ Saleh Hentif, Abd Al-Rahman Abdullah Au Shabati and Mohammed Ahmed Salam w=
+ere sent to Oman. Akhmed Abdul Qadir was transferred to Estonia....</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The detainees were not released to their home cou=
+ntry of Yemen because the government there -- under pressure from al Qaeda =
+and Houthi militants -- <b>cannot ensure they won't join al Qaeda elements<=
+/b>. The United States has been trying to find countries to take on the det=
+ainees who will provide security and human rights assurances for them.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">There are currently 122 prisoners left at Guantan=
+amo Bay, including <b>79 Yemeni men</b>, according to documents from the Pe=
+ntagon and Joint Task Force Guantanamo....</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The transfer is part of the White House's ongoing=
+ effort to close the Guantanamo Bay detention center. President Barack Obam=
+a stated in an interview on CNN's "State of the Union" back in December tha=
+t he's "<b>going to be doing everything I can to close it</b>."</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Neither CNN's on-air reporting nor its online rep=
+orting explained which members of Congress opposed the further release of d=
+etainees.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">On Thursday, The Hill's <a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zRVQg5KllLoMe3T=
+eUTL37" target=3D"_blank">Martin Matishak reported</a> that Republican Cong=
+ressman Mac Thornberry, "the new chairman of the House Armed Services Commi=
+ttee...said lawmakers should act to prevent President Obama from releasing =
+more prisoners from Guantanamo Bay, Cuba." Matishak also noted that "Senate=
+ Armed Services Committee chairman John McCain (R-Ariz.) and GOP panel memb=
+ers Sens. Kelly Ayotte (N.H.) and Lindsey Graham (S.C.), rolled out legisla=
+tion that would prohibit the president from transferring more detainees out=
+ of Cuba."</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">6</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zS7mBoPFACASnPZmnZZZ4">Rose to Rubio on PBS:=
+ 'What's the Best Thing You Can Say' About ObamaCare?</a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Kyle Drennen</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">During an interview with Senator Marco Rubio on T=
+uesday, PBS host Charlie Rose urged the Florida Republican to say something=
+ positive about ObamaCare: <b>"What's the best thing you can say about the =
+Affordable Care Act?" </b>Rubio replied: "That it's forced us to have a deb=
+ate about health insurance in America." Rose fretted: "That's it?"</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Rose tried to push supportive spin on the unpopul=
+ar policy: "In terms of accessibility, in terms of &ndash; it has not been =
+as &ndash; I mean, the projected costs have not been as bad as they assumed=
+." Rubio countered: "They've not been as good as they proclaimed either."</=
+p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zSiSWHUZPtMYxC5=
+tR6eV1"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Rose pressed: "Yeah, but have been less than was =
+assumed." Rubio explained:</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">But the costs really are bearing out on the consu=
+mer side as well. Because for example, people thought, "Okay, now I'm going=
+ to have this free health insurance, and by the way, I'm going to get a sub=
+sidy for it." And then they realized that before they can even begin to use=
+ that insurance, they've got to come with $4,000 as part of their ctibl=
+e. So they're really not insured.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Rose and Rubio also had a <a style=3D"color: #2b6=
+3cb; text-decoration: none;" href=3D"http://email.mrc.org/c/13zSupi10k4kZ4H=
+obBkctQY" target=3D"_blank">contentious exchange</a> on Monday's <i>CBS Thi=
+s Morning</i>, when Rose tried to argue that President Obama reopening dipl=
+omatic relations with Cuba would bring about political reform in the totali=
+tarian regime.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Here is a transcript of the exchange on the Janua=
+ry 14 edition of Rose's PBS program:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">11:13 PM ET</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img style=3D"max-width: 100in: 2px;" src=3D"http://www.mrc.org/sites/default/files/uploads/images/2014=
+/2015-01-14-PBS-CR-Rose.JPG" alt=3D"" width=3D"300" height=3D"175">CHARLIE =
+ROSE: What's the best thing you can say about the Affordable Care Act?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">MARCO RUBIO: That it's forced us to have a debate=
+ about health insurance in America.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: That's it?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">RUBIO: Yeah, absolutely.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: In terms of accessibility, in terms of &nda=
+sh; it has not been as &ndash; I mean, the projected costs have not been as=
+ bad as they assumed.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">RUBIO: They've not been as good as they proclaime=
+d either.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: Yeah, but have been less than was assumed.<=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">RUBIO: But the costs really are bearing out on th=
+e consumer side as well. Because for example, people thought, "Okay, now I'=
+m going to have this free health insurance, and by the way, I'm going to ge=
+t a subsidy for it." And then they realized that before they can even begin=
+ to use that insurance, they've got to come with $4,000 as part of their de=
+ductible. So they're really not insured.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">(...)</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table style=3D"width: 100
+<tr>
+<td valign=3D"top"><span class=3D"cyber-index" style=3D"color: #a60000; fon=
+t-size: 58px; font-weight: bold; padding-right: 10px;">7</span></td>
+<td>
+<h4 class=3D"inline" style=3D"font-size: 20px; font-weight: 500; margin-bot=
+tom: 15px; color: #000; font-family: 'HelveticaNeue-Light', 'Helvetica Neue=
+ Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; l=
+ine-height: 1.1; margin: 0; padding: 0;"><a style=3D"font-size: 20px; font-=
+weight: 500; margin-bottom: 5px; color: #2b63cb; text-decoration: none;" hr=
+ef=3D"http://email.mrc.org/c/13zSFVDk5EjcbaRahINiIMV">CBS This Morning Gush=
+es Over Jackie Kennedy&rsquo;s Love of Peanut Butter and Jelly Sandwiches</=
+a></h4>
+</td>
+</tr>
+
+</table>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><i>By Jeffrey Meyer</i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The media&rsquo;s obsession with the Kennedys rea=
+red its ugly head once again on Thursday when <i>CBS This Morning </i>spent=
+ four minutes of its broadcast obsessing over newly released letters from J=
+acqueline Kennedy written to her favorite fashion designers.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">While all three CBS hosts beamed at Kennedy&rsquo=
+;s &ldquo;flair for fashion&rdquo; it was her supposed love of peanut butte=
+r and jelly sandwiches that received the most attention with<b> co-host Gay=
+le King proclaiming that &ldquo;there&rsquo;s something cool knowing that s=
+he ate peanut butter and jelly. I like that.&rdquo;</b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px; text-align: center;"><br><a style=3D"color: #2b63c=
+b; text-decoration: none;" href=3D"http://email.mrc.org/c/13zSRrYDaYy3nh0Wn=
+QgoXIS"><img style=3D"max-width: 100=3D"http://msgfocus.com/files/amf_paramount/workspace_7/icon_play_25x25.png=
+" alt=3D""><span style=3D"font-size: 24px;">View video on MRCTV</span></a><=
+/p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CBS&rsquo; fawning coverage of Kennedy began with=
+ reporter Vicente Arenas declaring<b> &ldquo;elegant, sophisticated, gracef=
+ul. Just some of the words that come to mind when describing Jacqueline Ken=
+nedy Onassis. And her notes to her designer and to her interior decorator s=
+how just how closely she cultivated her signature style.&rdquo; </b></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The CBS reporter continued to heap praise on Kenn=
+edy&rsquo;s sense of style:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/CBSjackie.jpg?itok=3Dy_iZL8Ih" alt=3D"" =
+width=3D"300" height=3D"169">No details escaped her eye. Pockets were in. B=
+oxy shoulder pads out. That note was for Bill Hamilton, then the design dir=
+ector for Carolina Herrera...Onassis wrote she was so sick of seeing everyo=
+ne constantly in black like Mediterranean villages where seven in mourning =
+for 20 years.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">She drew this sketch herself which Hamilton then =
+turned into this design. The final product was this brown velvet suit which=
+ made her very excited. Onassis was often very hands-on during the process.=
+</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">As the segment continued, Arenas spoke to designe=
+r Bill Hamilton who described how &ldquo;we would have lunch at my desk and=
+ she would pull out a peanut butter and jelly sandwich that she carried in =
+her bag and have coffee.&rdquo; After going into extensive detail about Ken=
+nedy&rsquo;s letters to various designers, the CBS reporter concluded his p=
+iece with one final piece of Kennedy promotion:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">More than a thousand people are expected to take =
+part. <b>Each lot, some containing 2 to 3 letters is said to be worth $800-=
+$1200. Although some would probably argue, Onassis' gratitude is priceless.=
+ </b></p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Following the Kennedy cheerleading, the three CBS=
+ hosts continued to hype the Kennedy story with Gayle King lamenting &ldquo=
+;I was so sorry I never got a chance to meet her.&rdquo; Charlie Rose decla=
+red her &ldquo;charming and just exciting to talk to. Interesting.&rdquo;</=
+p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The segment ended with the hosts praising the Ken=
+nedy one final time for looking like a normal person because she loved pean=
+ut butter and jelly sandwiches:</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">O&rsquo;DONNELL: Did you ever see her pull a pean=
+ut butter and jelly sandwich out of her purse?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KING: There's something cool knowing that she did=
+ that.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: Although she did invite me once to have lun=
+ch in the park.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KING: There&rsquo;s something cool knowing that s=
+he ate peanut butter and jelly. I like that.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">O&rsquo;DONNELL: One of my favorites indeed.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">See relevant transcript below.</p>
+<blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/CBSmorning_3.jpg?itok=3DYKFq6YyB" alt=3D=
+"" width=3D"300" height=3D"169"><i>CBS This Morning </i></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">January 15, 2015</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">NORAH O&rsquo;DONNELL: This morning, we're gettin=
+g a rare and revealing look at Jacqueline Kennedy Onassis' flair for fashio=
+n. Over the decades, the former first lady wrote notes to some of her favor=
+ite designers. She even drew sketches of items she wanted. Some of these le=
+tters will be auctioned this weekend in West Palm Beach, Florida. Vicente A=
+renas gives a preview in a story you&rsquo;ll see only on <i>CBS This Morni=
+ng</i>.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">VICENTE ARENAS: Elegant, sophisticated, graceful.=
+ Just some of the words that come to mind when describing Jacqueline Kenned=
+y Onassis. And her notes to her designer and to her interior decorator show=
+ just how closely she cultivated her signature style.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">RICO BACA: We have approximately 30 lots.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: Rico Baca auctioning off Onassis&rsquo; l=
+etters on Saturday.<br> <br> BACA: She&rsquo;s inviting these people into h=
+er life to get close to her. Close enough to give her what she wanted.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: This was a very private space that she wa=
+s letting people into.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BACA: Right. Yes. She would have to be a little b=
+it vulnerable.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: No details escaped her eye. Pockets were =
+in. Boxy shoulder pads out. That note was for Bill Hamilton, then the desig=
+n director for Carolina Herrera.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BILL HAMILTON: If the collection had 90 pieces sh=
+e might like 5 suits and we would cut those in different fabrics and colors=
+ and there were certain colors she wouldn't want to wear, one of them being=
+ black.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: Onassis wrote she was "so sick of seeing =
+everyone constantly in black like Mediterranean villages where everyone is =
+in mourning for 20 years." She drew this sketch herself which Hamilton then=
+ turned into this design. The final product was this brown velvet suit whic=
+h made her very excited. Onassis was often very hands-on during the process=
+.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">HAMILTON: We would have lunch at my desk and she =
+would pull out a peanut butter and jelly sandwich that she carried in her b=
+ag and have coffee.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><img class=3D"image-blog_body-100" style=3D"max-w=
+idth: 100les/styles/blog_body-100/s3/images/CBSkennedy.jpg?itok=3D-8kIE5Y6" alt=3D""=
+ width=3D"300" height=3D"169">ARENAS: Richard Keith Langham decorated sever=
+al of Onassis&rsquo; homes.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">RICHARD KEITH LANGHAM: She had a hand in everythi=
+ng there. I mean, whether she would be dictating exactly what sort of velve=
+t she wanted on a chair, exactly what sort of cording she wanted to trim a =
+pillow.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: In one note Onassis told him &ldquo;I was=
+n't mad about the black chairs. Too heavy I'm afraid. Do keep looking.&rdqu=
+o; But most of the letters, many written in her signature blue stationery w=
+ere actually thank-you notes to both men letting them know how happy she wa=
+s with the results. She thanked these designers over and over, she was almo=
+st humble.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BACA: All these notes are special in the sense th=
+at she took the time to sit down and write something in appreciation. It wa=
+s -- a thank-you note is a form of respect.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: Onassis had other ways to show she was gr=
+ateful.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">LANGHAM: She gave me an original 1963 edition of =
+her White House guide book, and she inscribed that to me that &ldquo;perhap=
+s this great house will know your touch one day&rdquo; and as a young decor=
+ator that was sort of awe-inspiring for me.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: 14 photos taken by Bob Davidoff, a longti=
+me photographer for the Kennedy family are also part of the auction. Who wo=
+uld want these letters and photographs and sketches?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BACA: You. Wouldn't you want them?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: They&rsquo;d be cool to have at my house.=
+</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BACA: Absolutely.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: I can&rsquo;t afford them.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">BACA: Everybody, I mean, I can't imagine anyone w=
+ho wouldn't want them.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ARENAS: More than a thousand people are expected =
+to take part. Each lot, some containing 2 to 3 letters is said to be worth =
+$800-$1200. Although some would probably argue Onassis' gratitude is pricel=
+ess. For <i>CBS This Morning</i>, Vicente Arenas, West Palm Beach, Florida.=
+</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">GAYLE KING: Such a class act. I was so sorry I ne=
+ver got a chance to meet her. You did.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">CHARLIE ROSE: Yes.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KING: I was very sorry about that. What was she l=
+ike, Charlie? I mean really?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: Charming and just exciting to talk to. Inte=
+resting. Had great insights about...I remember we were sitting and she was =
+saying I hope the people that work for Jack won't go into the Clinton gover=
+nment, you know? She thought that they should be a new breed of people to c=
+ome to work.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">O&rsquo;DONNELL: Did you ever see her pull a pean=
+ut butter and jelly sandwich out of her purse?</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KING: There's something cool knowing that she did=
+ that.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">ROSE: Although she did invite me once to have lun=
+ch in the park.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">KING: There&rsquo;s something cool knowing that s=
+he ate peanut butter and jelly. I like that.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">O&rsquo;DONNELL: One of my favorites indeed.</p>
+</blockquote>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class=3D"container" style=3D"clear: both; display: block; margin: 0 aut=
+o; max-width: 620px;" align=3D"" bgcolor=3D"#FFFFFF">
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td>
+<table class=3D"social" style=3D"width: 100order=3D"0" width=3D"100
+<tr>
+<td valign=3D"top">
+<div class=3D"column" style=3D"float: left; min-width: 279px; width: 300px;=
+">
+<table style=3D"width: 100bgcolor=3D"">
+
+<tr>
+<td style=3D"padding: 15px;">
+<h5 style=3D"font-size: 17px; font-weight: 900; color: #000; font-family: '=
+HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, =
+Arial, 'Lucida Grande', sans-serif; line-height: 1.1; margin: 0; margin-bot=
+tom: 15px; padding: 0;">Follow Us:</h5>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><a class=3D"soc-btn fb" style=3D"color: #ffffff; =
+display: block; font-size: 12px; font-weight: bold; height: 30px; padding: =
+3px 7px; padding-top: 10px; text-align: center; text-decoration: none; widt=
+h: 230px; background-color: #3b5998;" href=3D"http://email.mrc.org/c/13zT2Y=
+jWgiMUznaItXJvcEP">Facebook</a><br><a class=3D"soc-btn tw" style=3D"color: =
+#ffffff; display: block; font-size: 12px; font-weight: bold; height: 30px; =
+padding: 3px 7px; padding-top: 10px; text-align: center; text-decoration: n=
+one; width: 230px; background-color: #1daced;" href=3D"http://email.mrc.org=
+/c/13zTq10yqXgCXzugGcFHGwJ">Twitter</a></p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The mission of the Media Research Center is to cr=
+eate a media culture in America where truth and liberty flourish.</p>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+<td valign=3D"top">
+<div class=3D"column" style=3D"float: left; min-width: 279px; width: 300px;=
+">
+<table style=3D"width: 100bgcolor=3D"">
+
+<tr>
+<td style=3D"padding: 15px;">
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">&nbsp;</p>
+<a style=3D"color: #2b63cb; text-decoration: none;" href=3D"http://email.mr=
+c.org/c/13zTBxlRwhvu9FE2Mk8NVsG" target=3D"_blank"><img style=3D"max-width:=
+ 100utton.png" border=3D"0" alt=3D"donate"></a>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">The MRC is a research andcation organization =
+operating under Section 501(c)(3) of the Internal Revenue Code, and contrib=
+utions to the MRC are tax-ctible.</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><a style=3D"color: #2b63cb; text-decoration: none=
+;" href=3D"http://email.mrc.org/c/13zTN3HaBBKllLNOSrBUaoD" target=3D"_blank=
+">Contact Us</a></p>
+</td>
+</tr>
+
+</table>
+</div>
+<div class=3D"clear" style=3D"clear: both; display: block;"></div>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+
+</table>
+<table class=3D"footer-wrap" style=3D"clear: both; width: 1000">
+
+<tr align=3D"center">
+<td></td>
+<td class=3D"container" style=3D"clear: both; display: block; margin: 0 aut=
+o; max-width: 620px;">
+<div class=3D"content" style=3D"display: block; margin: 0 auto; max-width: =
+620px; padding: 15px;">
+<table style=3D"width: 100
+<tr>
+<td align=3D"center">
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;">Media Research Center | 1900 Campus Commons Drive=
+ Suite 600 | Reston, VA 20191 | (571) 267-3500</p>
+<p style=3D"font-size: 14px; font-weight: normal; line-height: 1.6; margin:=
+ 0; margin-bottom: 10px;"><a style=3D"color: #2b63cb; text-decoration: none=
+;" href=3D"http://email.mrc.org/c/13zTYA2tGVZcxRXAYz50pkA">Privacy</a> | <a=
+ style=3D"color: #2b63cb; text-decoration: none;" href=3D"http://email.mrc.=
+org/c/13zUa6nMMge3JY7n4Gy6Egx">Unsubscribe</a> | <a style=3D"color: #2b63cb=
+; text-decoration: none;" href=3D"http://email.mrc.org/c/13zUlCJ5RAsUW4h9aO=
+1cTcu">Manage preferences</a></p>
+</td>
+</tr>
+
+</table>
+</div>
+</td>
+<td></td>
+</tr>
+
+</table>
+<img src=3D"http://email.mrc.org/t/147WRpV9c3MiYg7.png" alt=3D"">
+<!--[if lt mso 12]><img src=3D"https://t.msgf.net/r/147WRpV9c3MiYg7.png?c=
+=3D1" alt=3D""><![endif]--><![if gt mso 11]><img src=3D"https://t.msgf.net/=
+r/147WRpV9c3MiYg7.png" alt=3D""><![endif]>
+</body></html>=
+
+----11959108E42906A77A52A20A29--
+

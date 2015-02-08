@@ -1,0 +1,85 @@
+From @..  Fri Jan 16 07:29:49 2015
+Return-Path: <@..>
+X-Original-To: blinken@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 939BDDA; Fri, 16 Jan 2015 07:29:49 +0000 (UTC)
+Received: from ocmas07.netvigator.com (ocmas07.netvigator.com [219.76.94.3])
+    by .. with SMTP id 5nx8u5k36fcb5a7a5r783uf48e;
+    for blinken@fs.net;
+    Fri, 16 Jan 2015 07:29:48 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=219.76.94.3; envelope-from=<>; helo=ocmas07.netvigator.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=219.76.94.3; client-port=36051;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.48 63.218.211.102 218.102.40.13 218.102.40.2
+    219.76.67.46; network-path-time=1421393388
+Date: Fri, 16 Jan 2015 15:29:46 +0800
+From: Mail Delivery System <@..>
+To: @..
+Subject: Delivery status notification
+MIME-Version: 1.0
+Content-Type: multipart/report; boundary="------------I305M09060309060P_820514213933860"
+Message-Id: <20150116072949.939BDDA@..>
+
+This is a multi-part message in MIME format.
+
+--------------I305M09060309060P_820514213933860
+Content-Type: text/plain; charset=UTF-8;
+Content-Transfer-Encoding: 8bit
+
+      This is an automatically generated Delivery Status Notification.      
+
+Delivery to the following recipients failed permanently:
+
+   * stroind@rol.ru
+
+
+
+--------------I305M09060309060P_820514213933860
+Content-Type: message/delivery-status; charset=UTF-8;
+Content-Transfer-Encoding: 8bit
+
+Reporting-MTA: dns; ocmas07.netvigator.com [219.76.94.3]
+Received-From-MTA: dns; ysgmta02.netvigator.com [218.102.23.241]
+Arrival-Date: Fri, 16 Jan 2015 15:29:43 +0800
+
+
+Final-recipient: rfc822; stroind@rol.ru
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp;  554 5.0.0 Hi [219.76.94.32], unresolvable address: <stroind@rol.ru>; nosuchuser; stroind@rol.ru
+Last-attempt-Date: Fri, 16 Jan 2015 15:29:46 +0800
+
+
+
+--------------I305M09060309060P_820514213933860
+Content-Type: text/rfc822-headers; Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment
+
+Received: from jxamsmljg ([5.166.38.164])
+	by ysgmta02.netvigator.com with bizsmtp
+	id gXVe1p00m3YVyyD01XVfdy; Fri, 16 Jan 2015 15:29:43 +0800
+Message-ID: <7174C2919A4E6132EEEBA22D191ECAEE@jxamsmljg>
+Reply-To: =?koi8-u?Q?=F3=C5=D2=C7=C5=CA?= <ta.t.se.rvisgru.z.tat@gmail.com>
+From: =?koi8-u?Q?=F3=C5=D2=C7=C5=CA?= <blinken@fs.net>
+To: =?koi8-u?Q?=E1=D7=C4=C0=DB=C9=CEa_=E1=CA=DA=C1?= <a.yampolskiy@gmail.com>
+Subject: =?koi8-u?Q?=F0=C5=D2=C5=D7=CF=DA=CB=C9_=ED=CF=D3=CB=D7=C1?=
+	=?koi8-u?Q?_-_=F3=C1=CE=CB=D4-=F0=C5=D4=C5=D2=C2=D5=D2=C7?=
+Date: Fri, 16 Jan 2015 12:29:47 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1839_01D03188.1D836CD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3538.513
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3538.513
+
+
+
+--------------I305M09060309060P_820514213933860--
+
+

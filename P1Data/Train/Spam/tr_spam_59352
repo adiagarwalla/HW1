@@ -1,0 +1,288 @@
+From @..  Mon Jan 19 10:31:30 2015
+Return-Path: <@..>
+X-Original-To: kitt0100@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 8BEFDDE; Mon, 19 Jan 2015 10:31:30 +0000 (UTC)
+Received: from mta.email.currenciesdirect.com (mta.email.currenciesdirect.com [198.245.87.166])
+    by .. with SMTP id js8u2h6d8w6pwz5p6m7c2y3vs6;
+    for kitt0100@fs.net;
+    Mon, 19 Jan 2015 10:31:30 +0000 (UTC)
+    (envelope-from bounce-184_HTML-12755240-95132-6274470-74@bounce.email.currenciesdirect.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.245.87.166;
+    envelope-from=<bounce-184_HTML-12755240-95132-6274470-74@bounce.email.currenciesdirect.com>;
+    helo=mta.email.currenciesdirect.com;
+    mechanism=include:cust-spf.exacttarget.com (ip4:198.245.80.0/20 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.245.87.166; client-port=48409;
+    syn-fingerprint=5840:51:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.20.146 128.177.117.246 206.246.181.102
+    209.43.35.62; network-path-time=1421663490
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=mail.currenciesdirect.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:Message-ID:Content-Type:Content-Transfer-Encoding; i=info@mail.currenciesdirect.com;
+ bh=EtRl38WKYRYOAXn6KJ7lI3S7G4Y=;
+ b=KDt64teybQRhYECuk4ngKWmPJ88RfPrvsxE8MmE3IK5tVYRAtIV142R8R+DNL1TtUoUWXB6DH75p
+   kxIbnVOLz668eDtzWw4FeNfBo687xfvoZljnV37850rHCvagcNfdWHGMSgSvcnDwh4Q9vFSIqt6G
+   6JtL4jivfGTG/x/fub8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=mail.currenciesdirect.com;
+ b=HM8VP1WHpisO3xvmwLhM6WuYSRFT4etpQHLTuUAvKaefxaMMWFsGsegYfnWQ/ESJv7p4l8f/cXIJ
+   gy9esBRkKer0OUhosrxneYpCLzisu4nvNuK2QKLjqNoOCb1Q8RAgQUb138VlJPTCADtwbigfKmzQ
+   5/P2eZyjc3AvTlNnH6U=;
+Received: by mta.email.currenciesdirect.com id hnjeg4163hs6 for <kitt0100@fs.net>; Mon, 19 Jan 2015 04:31:28 -0600 (envelope-from <bounce-184_HTML-12755240-95132-6274470-74@bounce.email.currenciesdirect.com>)
+From: "Currencies Direct" <@..>
+To: <@..>
+Subject: Weekly Market Analysis
+Date: Mon, 19 Jan 2015 04:31:21 -0600
+List-Unsubscribe: <mailto:leave-fd4e1578710b5c392848-fe6515727261017f7114-fefb1d75746706-fe9112727260007a75-ff941374@leave.email.currenciesdirect.com>
+MIME-Version: 1.0
+Reply-To: "Currencies Direct" <@..>
+x-job: 6274470_95132
+Message-ID: <000a3b08-8b8d-4584-9f96-27a5e62ce07e@xtinp2mta1605.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Currencies Direct : Weekly marketing analysis</title>
+	<style type="text/css">
+		/* Client-specific Styles */
+		#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
+		/* Prevent Webkit and Windows Mobile platforms from changing default font sizes.*/ 
+		.ExternalClass {width:100		.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100		/* Forces Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */ 
+		#backgroundTable {margin:0; padding:0; width:100		/* End reset */
+		table td {border-collapse: collapse;}
+
+		/* Mobile styles */
+		@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+			table.wrapper-table {
+				width: 90			}
+			td.cellBlock {
+				display: inline-block;
+				width: auto !important;
+			}
+		}
+
+	</style>
+</head>
+<body style="width:100
+<table cellpadding="0" cellspacing="0" border="0" id="backgroundTable" bgcolor="#888B8D">
+	<tr>
+		<td valign="top">
+		<!-- Tables are the most common way to format your email consistently. Set your table widths inside cells and in most cases reset cellpadding, cellspacing, and border to zero. Use nested tables as a way to space effectively in your message. -->
+			<table class="wrapper-table" align="center" border="0" cellpadding="0" cellspacing="0" width="640" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+				<tbody>
+					<tr>
+						<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px; color: #ffffff; text-align: right;" class="webview" height="25"><span style="color: #888B8D">Weekly Market Analysis...</span></td>
+					</tr>
+					<tr>
+						<td align="center">
+							<table class="outer-table" align="center" border="0" cellpadding="0" cellspacing="0" width="100								<tr>
+									<td bgcolor="#3c3c3c" align="left" valign="top" class="cellBlock">
+										<img height="258" width="640" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/wma_pfx_heading_new.jpg" alt="Currencies Direct" style="display:block; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+									</td>
+									
+								</tr>
+							</table>
+						</td>
+		
+					<tr>
+						<td bgcolor="#ffffff">
+							
+							<table class="outer-table" border="0" cellpadding="30" cellspacing="0" width="100								<tbody>
+									<tr>
+										<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #191919; text-align: left;" class="main-content">
+											<h1 style="color: #E57200 !important; font-size: 18px; font-weight: normal; margin:0 0 20px 0;">Market rates</h1>
+											<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+												<tbody>
+													<tr>
+														<td width="50															<table align="left" border="0" width="auto" style="font-family: Arial, Helvetica, sans-serif; color: #191919; font-size: 13px;" >
+																<tbody>
+																	<tr>
+																		<td style="border-bottom: 1px solid #191919;">Euro (EUR)</td>
+																		<td style="border-bottom: 1px solid #191919;"></td>
+																		<td style="border-bottom: 1px solid #191919;">1.3088</td>
+																	</tr>
+																	<tr>
+																		<td style="border-bottom: 1px solid #191919;">US Dollar (USD)</td>
+																		<td style="border-bottom: 1px solid #191919;"></td>
+																		<td style="border-bottom: 1px solid #191919;">1.5129</td>
+																	</tr>
+																	<tr>
+																		<td style="border-bottom: 1px solid #191919;">Australian Dollar (AUD)</td>
+																		<td style="border-bottom: 1px solid #191919;"></td>
+																		<td style="border-bottom: 1px solid #191919;">1.8408</td>
+																	</tr>
+																	<tr>
+																		<td style="border-bottom: 1px solid #191919;">South African Rand (ZAR)</td>
+																		<td style="border-bottom: 1px solid #191919;"></td>
+																		<td style="border-bottom: 1px solid #191919;">17.4899</td>
+																	</tr>
+																	<tr>
+																		<td style="border-bottom: 1px solid #191919;">Japanese Yen (JPY)</td>
+																		<td style="border-bottom: 1px solid #191919;"></td>
+																		<td style="border-bottom: 1px solid #191919;">177.2650</td>
+																	</tr>
+																	<tr>
+																		<td colspan="2"></td>
+																		<td><a href="http://click.email.currenciesdirect.com/?ju=fe9315747062077970&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200; font-size: 12px;">More rates</a></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+														<td width="50															<table align="right" border="0" width="auto" style="font-family: Arial, Helvetica, sans-serif; color: #E57200; font-size: 13px; font-weight: bold;">
+																<tbody>
+																	<tr>
+																		<td><img src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/icon_telephone_inverted_20.png" height="20" width="20" style="display:block; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix"/></td>
+																		<td><a href="tel:+442078479477" style="color: #e57200; text-decoration: none;">Call us +44 (0) 20 7847 9400</a></td>
+																	</tr>
+																	<tr>
+																		<td><img src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/icon_email_inverted_20.png" height="20" width="20" style="display:block; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix"/></td>
+																		<td><a href="mailto:customerservices@currenciesdirect.com" style="color: #e57200; text-decoration: none;">customerservices@currenciesdirect.com</a></td>
+																	</tr>
+																
+																	<tr>
+																		<td colspan="2" style="color: white; font-size: 12px; font-weight: normal;">rate is the British pound (GBP). All rates are for indication purposes only. Prices can vary dramatically based on amount and delivery date. Read disclaimer</td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<p style="margin: 10px 0 10px 0; font-family: Arial, Helvetica, sans-serif; color: #191919; font-size: 12px;">The rates above are using the British pound (GBP) as the base rate. All rates are for indication purposes only. Prices can vary dramatically based on amount and delivery date.</p>
+											<h1 style="color: #E57200 !important; font-size: 18px; font-weight: normal; margin:20px 0 5px 0;">Weekly Market Analysis</h1>
+											<h2 style="color: #191919 !important; font-size: 13px; font-weight: bold; margin:0 0 10px 0;">19 January 2015</h2>
+											<p style="margin: 10px 0 10px 0; color: #191919; font-size: 13px;"> Welcome to the Weekly Market Analysis - our digestible currency market update which gives you an expert insight to key movements, and what to expect in the coming week.</p>
+											<hr width="100											<p style="margin: 10px 0 10px 0; font-size: 13px;"><font color="#E57200"><strong>GBP</strong></font><br /><br/>
+											
+Sterling ended the week broadly flat as the pound failed to move off an 18-month low against the dollar. A slump in UK inflation, which slid to 0.5 per cent last month, reaffirmed expectations the Bank of England is in no rush to raise interest rates, which put pressure on the pound against its major peers. But sterling notched up another solid week of gains versus the embattled euro to reach a new seven-year high.<br /><br />This week will be all about the votes from the last Bank of England policy meeting as investors keep an eagle eye on what members of the all-powerful Monetary Policy Committee are thinking. Retail sales, average earnings and unemployment data should also excite.</p>
+ 
+
+											<hr width="100											<p style="margin: 10px 0 10px 0; #191919; font-size: 13px;"><font color="#E57200"><strong>USD</strong></font><br /><br />Weaker-than-expected inflation and industrial production data from the US failed to dampen the mood of the dollar bulls as the Greenback surged to 12-year highs against a basket of major currencies. Nor was the average American all that bothered, as consumer sentiment jumped to its highest in 11 years in January to lend further weight to the buck’s upward momentum. The dollar was at an 11-year peak against the euro and reached its strongest against the Canadian dollar in five years as oil prices continued to dent the Loonie. USD/JPY was squeezed lower as a rush for safety lent a hand to the yen.<br />
+<br />There is not a huge amount of US data this week, but the dollar will continue to ride events from the eurozone as investors watch the European Central Bank with keen interest. 
+
+
+</p>
+											<hr width="100											<p style="margin: 10px 0 10px 0; #191919; font-size: 13px;"><font color="#E57200"><strong>EUR</strong></font><br /><br />
+The euro was crushed by a rising dollar and the Swiss National Bank’s decision to remove its 1.20 per euro exchange rate floor it imposed in September 2011. The single currency dipped more than 30 per cent against the Swissie at one stage before paring losses. EUR/USD slumped to its lowest in 11 years after notching up another week of losses. The euro remains under heavy pressure as the SNB decision signals the imminent arrival of quantitative easing in the eurozone.<br /><br />With this in mind, all eyes this week are on Mario Draghi and the ECB, with expectations running high that a full-scale QE programme is about to be launched. Anything other than this would likely see the euro bounce higher.</p>
+
+<hr width="100											<p style="margin: 10px 0 10px 0; #191919; font-size: 13px;"><font color="#E57200"><strong>CHF</strong></font><br /><br />
+The biggest story of the week was the SNB’s decision to end its 1.20 floor with the euro, which caused chaos in the markets and saw the CHF soar against virtually every other currency. USD/CHF nose-dived 15 per cent to return to a level not seen since the euro exchange rate defence was introduced in 2011. EUR/CHF plunged from the 1.20 handle to reach parity. </p>
+
+<p style="margin: 10px 0 10px 0; color: #191919; font-size: 11px;"> The contents of this report are for information purposes only. It is not intended as a recommendation to trade or a solicitation for funds. Currencies Direct cannot be held responsible for any loss or damages arising from any action taken following consideration of this information.</p>
+
+
+
+
+											
+										
+											<table align="center" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+												<tbody>
+													<tr>
+														<td class="cellBlock" style="padding: 5px;">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9215747062077973&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="display:block;">
+																<img height="48" width="161" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/currency_charts_grey.png" style="display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td class="cellBlock" style="padding: 5px;">
+															<a href="mailto:customerservices@currenciesdirect.com" style="display:block;">
+																<img height="48" width="161" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/contact_your_dealer_grey.png" style="display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+															
+														</td>
+														
+													</tr>
+													
+													<tr>
+													<tr>
+														<td colspan="2">&nbsp;</td>
+													</tr>
+												</tbody>
+											</table>
+										
+													
+													<p style="margin: 10px 0 10px 0;">If you want to keep up to date with the latest news, please visit our <a href="http://click.email.currenciesdirect.com/?ju=fe9115747062077972&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200;">Youtube channel</a>.</p>
+													
+											
+											
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<hr />
+							<table border="0" width="100								<tbody>
+									<tr>
+										<td style="color: #191919;" class="cellBlock">
+											Currencies Direct Ltd<br />51 Moorgate<br />London<br />EC2R 6BH<br />+44 (0) 20 7847 9400<br />
+											<a href="mailto:customerservices@currenciesdirect.com" style="color: #e57200;">customerservices@currenciesdirect.com</a><br />
+											<a href="http://click.email.currenciesdirect.com/?ju=fe901574706207797d&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200;">currenciesdirect.com</a>
+										</td>
+										<td align="right" valign="top" class="cellBlock">
+											<table border="0" width="100												<tbody>
+													<tr>
+														<td valign="top">
+															<img title="medal-18-year_60.png" alt="medal-18-year_60.png" height="70" width="49" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/19_years_badge_bw.jpg" style="display:block; border:none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe8f1574706207797c&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="facebook_40.png" alt="facebook_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/facebook_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9715747062077875&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="twitter_40.png" alt="twitter_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/twitter_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9615747062077874&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="linkedin_40.png" alt="linkedin_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/linked_in_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9515747062077877&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="googleplus_40.png" alt="googleplus_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/google_plus_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9115747062077972&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="youtube_40.png" alt="youtube_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/youtube_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+														<td valign="top">
+															<a href="http://click.email.currenciesdirect.com/?ju=fe9415747062077876&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="text-decoration: none;">
+																<img title="pinterest_40.png" alt="pinterest_40.png" height="30" width="30" src="http://image.email.currenciesdirect.com/lib/fe9112727260007a75/m/1/pinterest_icon.png" style="vertical-align: top; display:block; border: none; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;" class="image_fix" />
+															</a>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<table border="0" width="100								<tbody>
+									<tr>
+										<td>&copy;Currencies Direct Ltd 1996-2015. All rights reserved worldwide. Authorised by the Financial Conduct Authority for provision of payment services. We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. Read more about our <a href="http://click.email.currenciesdirect.com/?ju=fe9315747062077871&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200;">terms</a> or 
+<a href="http://click.email.currenciesdirect.com/?ju=fe9215747062077870&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200;">privacy policy</a>.<br/><br/>If you do not wish to receive further emails from Currencies Direct <a href="http://click.email.currenciesdirect.com/?ju=fe9115747062077873&ls=fe5717747c630d7e7410&m=fe9112727260007a75&l=ff62157871&s=fe6515727261017f7114&jb=ff941374&t=" style="color: #e57200;">unsubscribe here </a>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+</table>  
+<!-- End of wrapper table -->
+</body>
+</html>
+<img src="http://click.email.currenciesdirect.com/open.aspx?ffcb10-fefb1d75746706-fe5717747c630d7e7410-fe9112727260007a75-ff62157871-fe6515727261017f7114-ff941374" width="1" height="1">
+

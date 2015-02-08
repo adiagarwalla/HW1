@@ -1,0 +1,180 @@
+From @..  Tue Jan 13 07:24:28 2015
+Return-Path: <@..>
+X-Original-To: darqstar@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 64253DE; Tue, 13 Jan 2015 07:24:28 +0000 (UTC)
+Received: from smtp.active2001.co.nz (hidden-user@58.84.227.131 [58.84.227.131])
+    by .. with SMTP id v6ghyt3wb8ikffpucrm3c5cyzn;
+    for darqstar@fs.net;
+    Tue, 13 Jan 2015 07:24:27 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=58.84.227.131; envelope-from=<>; helo=smtp.active2001.co.nz
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=58.84.227.131; client-port=44803;
+    syn-fingerprint=8192:111:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.105 143.215.193.74 198.32.132.75 184.105.213.113 72.52.92.153
+    184.105.222.14 72.52.92.117 64.71.184.46 114.31.199.122 114.31.199.58
+    114.31.199.28 175.45.72.119 114.31.199.117 114.31.202.35 175.45.93.74
+    124.157.96.249 58.84.227.130; network-path-time=1421133867
+MIME-Version: 1.0
+From: <@..>
+To: <@..>
+Date: Tue, 13 Jan 2015 20:22:48 +1300
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2a8197e7-8dd0-45d9-bd98-405605d0ae39"
+Content-Language: en-NZ
+Message-ID: <dccd8d24-fa5a-467a-84fa-e285f199f55a@active2001.co.nz>
+In-Reply-To: <039ACB7B7F522ACF5607B7B39EE6039A@V774NVXI>
+References: <039ACB7B7F522ACF5607B7B39EE6039A@V774NVXI>
+Subject: Undeliverable: Employment invitation
+
+--2a8197e7-8dd0-45d9-bd98-405605d0ae39
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="352349bf-9161-497e-b3a8-8ffd139cadec"
+
+--352349bf-9161-497e-b3a8-8ffd139cadec
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Delivery has failed to these recipients or groups:
+
+aametz@active2001.co.nz<mailto:aametz@active2001.co.nz>
+The e-mail address you entered couldn't be found. Please check the recipien=
+t's e-mail address and try to resend the message. If the problem continues,=
+ please contact your helpdesk.
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: active2001.co.nz
+
+aametz@active2001.co.nz
+#550 5.1.1 RESOLVER.ADR.RecipNotFound; not found ##
+
+Original message headers:
+
+Received: from 83.subnet222-124-218.static.astinet.telkom.net.id
+ (222.124.218.83) by smtp.active2001.co.nz (192.168.100.31) with Microsoft
+ SMTP Server id 14.3.181.6; Tue, 13 Jan 2015 20:22:47 +1300
+Message-ID: <039ACB7B7F522ACF5607B7B39EE6039A@V774NVXI>
+From: <darqstar@fs.net>
+To: <aametz@active2001.co.nz>
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 22:06:21 +0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3D"cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+Return-Path: darqstar@fs.net
+
+
+--352349bf-9161-497e-b3a8-8ffd139cadec
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Delivery has failed=
+ to these recipients or groups:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:aam=
+etz@active2001.co.nz">aametz@active2001.co.nz</a><br>
+The e-mail address you entered couldn't be found. Please check the recipien=
+t's e-mail address and try to resend the message. If the problem continues,=
+ please contact your helpdesk.<br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnostic informa=
+tion for administrators:</b></p>
+<p>Generating server: active2001.co.nz</p>
+<p>aametz@active2001.co.nz<br>
+ #550 5.1.1 RESOLVER.ADR.RecipNotFound; not found ##</p>
+<p>Original message headers:</p>
+<pre>Received: from 83.subnet222-124-218.static.astinet.telkom.net.id
+ (222.124.218.83) by smtp.active2001.co.nz (192.168.100.31) with Microsoft
+ SMTP Server id 14.3.181.6; Tue, 13 Jan 2015 20:22:47 +1300
+Message-ID: &lt;039ACB7B7F522ACF5607B7B39EE6039A@V774NVXI&gt;
+From: &lt;darqstar@fs.net&gt;
+To: &lt;aametz@active2001.co.nz&gt;
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 22:06:21 +0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3D&quot;cp-850&quot;
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+Return-Path: darqstar@fs.net
+</pre>
+</font>
+</body>
+</html>=
+
+--352349bf-9161-497e-b3a8-8ffd139cadec--
+
+--2a8197e7-8dd0-45d9-bd98-405605d0ae39
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;active2001.co.nz
+Received-From-MTA: dns;83.subnet222-124-218.static.astinet.telkom.net.id
+Arrival-Date: Tue, 13 Jan 2015 07:22:47 +0000
+
+Final-Recipient: rfc822;aametz@active2001.co.nz
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+
+
+--2a8197e7-8dd0-45d9-bd98-405605d0ae39
+Content-Type: message/rfc822
+
+Received: from 83.subnet222-124-218.static.astinet.telkom.net.id
+ (222.124.218.83) by smtp.active2001.co.nz (192.168.100.31) with Microsoft
+ SMTP Server id 14.3.181.6; Tue, 13 Jan 2015 20:22:47 +1300
+Message-ID: <039ACB7B7F522ACF5607B7B39EE6039A@V774NVXI>
+From: <darqstar@fs.net>
+To: <aametz@active2001.co.nz>
+Subject: Employment invitation
+Date: Tue, 13 Jan 2015 22:06:21 +0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+Return-Path: darqstar@fs.net
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant p=
+osition in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in=
+ the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration =
+on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+--2a8197e7-8dd0-45d9-bd98-405605d0ae39--
+

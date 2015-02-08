@@ -1,0 +1,175 @@
+From @..  Wed Jan 21 15:02:59 2015
+Return-Path: <@..>
+X-Original-To: criep@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A96C3DE; Wed, 21 Jan 2015 15:02:59 +0000 (UTC)
+Received: from mx-out.facebook.com (outmail037.prn2.facebook.com [66.220.144.164])
+    by .. with SMTP id ufdrmp4bekg5hnhc7y4f6v3s3i;
+    for criep@fs.net;
+    Wed, 21 Jan 2015 15:02:59 +0000 (UTC)
+    (envelope-from notification+zj4zojj_za=6@facebookmail.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=66.220.144.164;
+    envelope-from=<notification+zj4zojj_za=6@facebookmail.com>;
+    helo=mx-out.facebook.com; mechanism=ip4:66.220.144.128/25
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=66.220.144.164; client-port=21863;
+    syn-fingerprint=14600:85:1:60:M1380,S,T,N,W8; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81;
+    network-path-time=1421852579; RBL=dnsbl.sorbs.net (127.0.0.6),
+    bl..net (127.0.0.2)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1421852563;
+	bh=KtiSUhoqro5A2I3t/FzTbumLKR8i1Gk98fvyWamyXCA=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=H2upGLhiMccZrZikOVwAukn9dpk/ncGOJmrvcl3aYNP8/hGN/bdOr9lMrAYdEnqel
+	 IKkcjXI61WzxsSyODXrSF4DVkqHawKsN0k7kIE1xWx/DeLCSsT5IJl6++Vxdh2582O
+	 F4+1KjKoNfItkXzSvFLbdiYAa69oe3bCW9Dzf+W8=
+Received: from facebook.com (Fslf+H61jKI+EJuLcy+QP03uyvd+g6mUqHmNIVwk2Hls8ui3YPvow5dbHbwvrIiL 10.223.77.81)
+ by facebook.com with Thrift id 8d214006a17e11e4aca724be05953b70-f00f62a0;
+ Wed, 21 Jan 2015 07:02:43 -0800
+X-Facebook: from 2401:db00:2030:500c:face:0:3:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Wed, 21 Jan 2015 07:02:43 -0800
+To: Crie Parker <@..>
+From: "Facebook" <@..>
+Reply-to: noreply <@..>
+Subject: Reminder: Confirm your Facebook account
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: @..
+X-Facebook-Notify: unconfirmed_reminder; mailid=b29bcc1G5af521704e40G0G17bG65edda17
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS17Pm-G_xe6p_l9&u=100008874495552&mid=b29bcc1G5af521704e40G0G17bG65edda17>
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Message-ID: <ea9bcd7941c907dec218c943fb2f46c1@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ea9bcd7941c907dec218c943fb2f46c1"
+
+
+--b1_ea9bcd7941c907dec218c943fb2f46c1
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Confirm Account
+https://www.facebook.com/n/?confirmemail.php&e=3Dcriepmedium=3Demail&mid=3Db29bcc1G5af521704e40G0G17bG65edda17&bcode=3D1.1421852=
+563.AbkT6ePZpUa_0Gl7&code=3D90297&n_m=3Dcriep=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Crie,
+
+Please confirm your account so you can keep using Facebook. Just follow =
+this link: http://facebook.com/n/?confirmemail.php
+
+You may be asked to enter this confirmation code:
+
+=20
+
+90297
+
+Thanks,
+The Facebook Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to criep@fs.net. If you don't want to receive these =
+emails from Facebook in the future, please follow the link below to =
+unsubscribe.
+https://www.facebook.com/o.php?k=3DAS17Pm-G_xe6p_l9&u=3D100008874495552&mi=
+d=3Db29bcc1G5af521704e40G0G17bG65edda17
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_ea9bcd7941c907dec218c943fb2f46c1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><span =
+style=3D"width:620px;color:#FFFFFF;display:none =
+!important;font-size:1px;">Hi Crie, Please confirm your account so you can =
+keep using Facebook. Just follow this link: =
+http://facebook.com/n/?confirmemail.php You may be asked to enter this =
+confirmation code: 90297</span><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"https://www.facebook.co=
+m/n/?confirmemail.php&amp;e=3Dcriepail&amp;mid=3Db29bcc1G5af521704e40G0G17bG65edda17&amp;bcode=3D1.1421852563=
+.AbkT6ePZpUa_0Gl7&amp;code=3D90297&amp;n_m=3Dcriepo"><span style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-f=
+amily:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:5px;"><span style=3D"color:#333333;">Hi =
+Crie,</span></td></tr><tr><td style=3D"font-size:11px;font-family:LucidaGr=
+ande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px;">=
+<span style=3D"color:#333333;">Please confirm your account so you can keep =
+using Facebook. Just follow this link: <a href=3D"https://www.facebook.com=
+/n/?confirmemail.php&amp;e=3Dcriepil&amp;mid=3Db29bcc1G5af521704e40G0G17bG65edda17&amp;bcode=3D1.1421852563.=
+AbkT6ePZpUa_0Gl7&amp;code=3D90297&amp;n_m=3Dcriepstyle=3D"color:#3b5998;text-decoration:none;">http://facebook.com/n/?confi=
+rmemail.php</a></span></td></tr><tr><td style=3D"font-size:11px;font-famil=
+y:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;"><span =
+style=3D"color:#333333;">You may be asked to enter this confirmation code: =
+90297</span></td></tr></table></td></tr></table></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;width:620px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100border=3D"0"><tr><td style=3D"font-size:11px;font-family:LucidaGrande,taho=
+ma,verdana,arial,sans-serif;padding:7px 20px;background-color:#f2f2f2;bord=
+er-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px =
+solid #ccc;"><table cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:0px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"https://www.facebook.com/n/?confirmemail.php&amp;e=3Dcriept&amp;c=3D90297&amp;medium=3Demail&amp;mid=3Db29bcc1G5af521704e40G0G17bG65=
+edda17&amp;bcode=3D1.1421852563.AbkT6ePZpUa_0Gl7&amp;code=3D90297&amp;n_m=
+=3Dcriepstyle=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #ffffff;font-size: =
+13px;">Confirm Account</span></a></td></tr></table></td></tr></table></td>=
+</tr></table></td></tr></table></td></tr></table></td></tr></table><table =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:30px 20px;background-color:#fff;border-left:none;border-rig=
+ht:none;border-top:none;border-bottom:none;color:#999999;">Didn&#039;t =
+sign up for Facebook? <a href=3D"https://www.facebook.com/confirmemail.php=
+?e=3Dcriepstyle=3D"color:#3b5998;text-decoration:none;">Please let us =
+know.</a></td></tr></table><span style=3D"width:620px;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?cn=3DTujl3ZeeSR&amp=
+;mid=3Db29bcc1G5af521704e40G0G17bG65edda17" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_ea9bcd7941c907dec218c943fb2f46c1--
+

@@ -1,0 +1,86 @@
+From @..  Mon Jan 19 18:41:25 2015
+Return-Path: <@..>
+X-Original-To: vnph@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 8CD49DE; Mon, 19 Jan 2015 18:41:25 +0000 (UTC)
+Received: from mail-yh0-f77.google.com (mail-yh0-f77.google.com [209.85.213.77])
+    by .. with SMTP id ke5mjnjfdgf35sdtujqmxi666w;
+    for vnph@fs.net;
+    Mon, 19 Jan 2015 18:41:25 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.213.77; envelope-from=<>; helo=mail-yh0-f77.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.213.77; client-port=43689;
+    syn-fingerprint=42900:50:0:60:M1380,S,T,N,W7; network-hops=9;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 216.239.51.243 209.85.243.254 209.85.213.77;
+    network-path-time=1421692885
+Received: by mail-yh0-f77.google.com with SMTP id c41so322255yho.0
+        for <vnph@fs.net>; Mon, 19 Jan 2015 10:41:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type
+         :content-transfer-encoding;
+        bh=2zW5QVDaHQaHTuxYPvAAODzJt5L3OK4UB8QW54uMyo4=;
+        b=lw0vXbURlgaXl6iNtDn2mktebcZlx64FCa0FTGUjOQZ7H+hb9bdRy+PagARFjk7MRS
+         iHwb76OKlsWzqiJwUA5/7sLDcF1jkWaYaD7IzV2xrgdHtoSPI+IzlO+jY3z5fVL2cn+W
+         H9GWo/pnZxy4y26el4kUtI9xUOhXE0oV0JDMOgmyQx2dL28jvqan+4gfpdfGNQkiXBGm
+         6F8Rq4lZ8FXUQbwqMi8lOxZnn8E6FeFOW8bmZ8zd1nfip1d6SjRN4HvOb/l++eptgQtW
+         v03+D8vQWWJggHsnL9wlixKEJ1Yp1t7xwSgmgVx2nCpKlvqqPJCOmzYJslZ+WYzQMlZY
+         NEWA==
+X-Received: by 10.236.10.101 with SMTP id 65mr23903969yhu.32.1421692870181;
+        Mon, 19 Jan 2015 10:41:10 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.236.10.101 with SMTP id 65mr37387326yhu.32; Mon, 19 Jan 2015
+ 10:41:10 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: xxxxxxxx@googlegroups.com
+Subject: Delivery Status Notification (Failure)
+Message-ID: <001a1133c5e281c1da050d05aae1@google.com>
+Date: Mon, 19 Jan 2015 18:41:10 +0000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+2YXYsdit2KjZi9inIHZucGhAZnMubmV02IwKCtin2YTYutix2LYg2YXZhiDZh9iw2Ycg2KfZhNix
+2LPYp9mE2Kkg2YfZiCDYpdi52YTYp9mF2YMg2KjYo9mGINin2YTZhdis2YXZiNi52KkgKHh4eHh4
+eHh4KSDYp9mE2KrZiiDYrdin2YjZhNiqINin2YTYp9iq2LXYp9mEINio2YfYpyDYutmK2LEg2YXZ
+iNis2YjYr9ip2Iwg2KPZiCDYo9mG2Ycg2YLYryDZitmD2YjZhiDYutmK2LEg2YXYtdix2K0g2YTZ
+gyDYqNil2LHYs9in2YQg2LHYs9in2KbZhCDYpdmE2Ykg2YfYsNmHINin2YTZhdis2YXZiNi52KnY
+jCDZiNmB2YrZhdinINmK2YTZiiDYqNi52LYg2KfZhNiq2YHYp9i12YrZhCDYrdmI2YQg2KrYudiw
+2LEg2KXYsdiz2KfZhNmDINmE2YfYsNmHINin2YTYsdiz2KfYptmEOgoKICog2LHYqNmF2Kcg2YLY
+ryDZg9iq2KjYqiDYp9iz2YUg2KfZhNmF2KzZhdmI2LnYqSDYo9mIINiq2YbYs9mK2YLZh9inINi5
+2YTZiSDZhtit2Ygg2LrZitixINi12K3ZititLgogKiDZgtivINiq2YPZiNmGINiq2YXYqiDYpdiy
+2KfZhNipINin2YTZhdis2YXZiNi52Kkg2YXZhiDYrtmE2KfZhCDZhdin2YTZg9mH2KcuCiAqINmC
+2K8g2KrZg9mI2YYg2KjYrdin2KzYqSDYpdmE2Ykg2KfZhNin2YbYttmF2KfZhSDYpdmE2Ykg2YfY
+sNmHINin2YTZhdis2YXZiNi52Kkg2KPZiNmE2KfZiyDZgtio2YQg2KrZhNmC2YrZgyDYpdiw2YbZ
+i9inINio2KXYsdiz2KfZhCDYp9mE2LHYs9in2KbZhC4KICog2YLYryDYqtmD2YjZhiDZh9iw2Ycg
+2KfZhNmF2KzZhdmI2LnYqSDYutmK2LEg2YXZgdiq2YjYrdipINmE2YTZhti02LEuCgrigI/Ypdiw
+2Kcg2YPYp9mG2Kog2YTYr9mK2YMg2KPYs9im2YTYqSDZhdiq2LnZhNmC2Kkg2KjZh9iw2Ycg2KfZ
+hNmF2KzZhdmI2LnYqSDYo9mIINio2KPZiiDZhdmGINmF2KzZhdmI2LnYp9iqIEdvb2dsZSDYp9mE
+2KPYrtix2YnYjCDZgdin2YbYqtmC2YQg2KXZhNmJINmF2LHZg9iyINin2YTZhdiz2KfYudiv2Kkg
+2LnZhNmJINin2YTYudmG2YjYp9mGIGh0dHA6Ly9ncm91cHMuZ29vZ2xlLmNvbS9zdXBwb3J0Ly4K
+Cti02YPYsdmL2KfYjAoKR29vZ2xlIEdyb3VwcwoKCgotLS0tLSBPcmlnaW5hbCBtZXNzYWdlIC0t
+LS0tCgpYLVJlY2VpdmVkOiBieSAxMC4yMzYuMTAuMTAxIHdpdGggU01UUCBpZCA2NW1yMjM5MDM5
+Njd5aHUuMzIuMTQyMTY5Mjg3MDE1ODsNCiAgICAgICAgTW9uLCAxOSBKYW4gMjAxNSAxMDo0MTox
+MCAtMDgwMCAoUFNUKQ0KUmV0dXJuLVBhdGg6IDx2bnBoQGZzLm5ldD4NClJlY2VpdmVkOiBmcm9t
+IGZzLm5ldCAoWzExNi4yMDcuMTIuMTYzXSkNCiAgICAgICAgYnkgZ21yLW14Lmdvb2dsZS5jb20g
+d2l0aCBFU01UUCBpZCBsYjZzaTE2MzI4MHBhYi4xLjIwMTUuMDEuMTkuMTAuNDEuMDgNCiAgICAg
+ICAgZm9yIDx4eHh4eHh4eEBnb29nbGVncm91cHMuY29tPjsNCiAgICAgICAgTW9uLCAxOSBKYW4g
+MjAxNSAxMDo0MTowOSAtMDgwMCAoUFNUKQ0KUmVjZWl2ZWQtU1BGOiBub25lIChnb29nbGUuY29t
+OiB2bnBoQGZzLm5ldCBkb2VzIG5vdCBkZXNpZ25hdGUgcGVybWl0dGVkIHNlbmRlciBob3N0cykg
+Y2xpZW50LWlwPTExNi4yMDcuMTIuMTYzOw0KQXV0aGVudGljYXRpb24tUmVzdWx0czogZ21yLW14
+Lmdvb2dsZS5jb207DQogICAgICAgc3BmPW5vbmUgKGdvb2dsZS5jb206IHZucGhAZnMubmV0IGRv
+ZXMgbm90IGRlc2lnbmF0ZSBwZXJtaXR0ZWQgc2VuZGVyIGhvc3RzKSBzbXRwLm1haWw9dm5waEBm
+cy5uZXQNCk1lc3NhZ2UtSUQ6IDwwMTk1NzVBNzZCRjhGMjdENEQ0RkNEMTFGRERFQzBBOUBmcy5u
+ZXQ+DQpGcm9tOiA9P3V0Zi04P0I/NXBpTTVxT0w/PSA8dm5waEBmcy5uZXQ+DQpUbzogPHh4eHh4
+eHh4QGdvb2dsZWdyb3Vwcy5jb20+DQpTdWJqZWN0OiA9P3V0Zi04P0I/NW91SjVwYVE1NG01NVor
+TzVhQ2g2WVdTNWJxWD89DQpEYXRlOiBUdWUsIDIwIEphbiAyMDE1IDAyOjQwOjU5ICswODAwDQpN
+SU1FLVZlcnNpb246IDEuMA0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWw7DQoJY2hhcnNldD0idXRm
+LTgiDQpDb250ZW50LVRyYW5zZmVyLUVuY29kaW5nOiBiYXNlNjQNClgtUHJpb3JpdHk6IDMNClgt
+TVNNYWlsLVByaW9yaXR5OiBOb3JtYWwNClgtTWFpbGVyOiBNaWNyb3NvZnQgT3V0bG9vayBFeHBy
+ZXNzIDYuMDAuMjkwMC41NTEyDQpYLU1pbWVPTEU6IFByb2R1Y2VkIEJ5IE1pY3Jvc29mdCBNaW1l
+T0xFIFY2LjAwLjI5MDAuNTUxMg0KCi0tLS0tIEVuZCBvZiBtZXNzYWdlIC0tLS0tCgo=
+

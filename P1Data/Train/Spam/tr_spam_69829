@@ -1,0 +1,2084 @@
+From @..  Fri Jan  2 18:14:42 2015
+Return-Path: <@..>
+X-Original-To: annemckay@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id DB97DDE; Fri,  2 Jan 2015 18:14:42 +0000 (UTC)
+Received: from mta811.email.barclays.co.uk (mta811.email.barclays.co.uk [63.146.96.193])
+    by .. with SMTP id eh8i9hmc6zfrzfj48gseqfpxvn;
+    for annemckay@fs.net;
+    Fri, 02 Jan 2015 18:14:42 +0000 (UTC)
+    (envelope-from bo-b9tpwvvavwqs6wauz12xxqcf8hub6j@b.mail.barclaycard.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=63.146.96.193;
+    envelope-from=<bo-b9tpwvvavwqs6wauz12xxqcf8hub6j@b.mail.barclaycard.co.uk>;
+    helo=mta811.email.barclays.co.uk; mechanism=ip4:63.146.96.192/30
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=63.146.96.193; client-port=55574;
+    syn-fingerprint=5840:58:1:44:M1380; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 205.171.17.2;
+    network-path-time=1420222482
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mail.barclaycard.co.uk; s=20130806163858; t=1420222481;
+	x=1435860881; bh=lnSApHNLMSllTWglHeGar9Swgc+zS/S1+axTEqINc+0=;
+	h=From:Reply-To;
+	b=PHth2pOwZMGX4zJ5NXiZzQnoLBwg6CdE51EzI2MoobPTVlrBuUHBMKMoZmbWbVKWy
+	 5ivMaJsHyW3UdZo86o79q50hKyzdz+a5iBhrJ6aejQDIIGAlxFxHdAclhDi4NXMbiE
+	 WIHFwV6aQiTYKS3A95J4hxn0ZS7GExGcapEIKrdRXu0PzCUyAlb96A9OZYbgcUxiQI
+	 G8NpsRiy0sFoVJjCkqE9LnYBQdRLzCkKs42828rHbq/KpLbob0JL64c1ZOTCX9z0JY
+	 NZnndFZsora404TX5mZJfCAhIERzxQL2t6tjopblMDEplq8Typnk9sPWMe+D/2tQgM
+	 HFfCUyVOYL8Ug==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=mail.barclaycard.co.uk;
+  b=Juh50m5nhurRKQMUoz4Y7sY/Pirbgc1HMlcrE+pJ/wlucqHyPrbMfCjHjTk7VF0o92tcsWvf7gS9y+zhyMv+KzDMygMlcIzI/aKGIP54Z+DETBU4HFlwz1kvyIKN9tz8a5zWBGZSJ+swtBaJkzMqayRJ74+rYSQlyP4omdrN/4w=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type;
+Date: Fri, 2 Jan 2015 18:14:41 -0000
+Message-ID: <b9tpwvvavwqs6wauz12xxqcf8hub6j.14709063902.5422@mta811.mail.barclaycard.co.uk>
+List-Unsubscribe: <mailto:rm-0b9tpwvvavwqs6wauz12xxqcf8hub6j@mail.barclaycard.co.uk>
+From: "Barclaycard" <@..>
+To: @..
+Subject: =?UTF-8?B?WW91ciBKYW51YXJ5IG9mZmVy?=
+MIME-Version: 1.0
+Reply-To: "Barclaycard" <@..>
+Content-type: multipart/alternative; boundary="=b9tpwvvavwqs6wauz12xxqcf8hub6j"
+
+
+--=b9tpwvvavwqs6wauz12xxqcf8hub6j
+Content-Type: text/plain; charset="utf-8"
+Content-transfer-encoding: 8bit
+
+Your balance transfer offer this month
+
+If you enable images or click on a link, you agree that you give 
+Barclays permission to use cookies† through this email. To find out 
+more see the end of this email. Click here for a web version:
+
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/hosted-21?t_params=I_NUMBER
+------------------------------------------------------------------------
+
+Barclaycard
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/personal-21
+
+Log in to mybarclaycard
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+Card no. ************6000
+
+------------------------------------------------------------------------
+
+Log in
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+Find out more
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+How to transfer
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/videobt-21	
+
+------------------------------------------------------------------------
+	
+A 0(Fee applies)
+
+Transfer online
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+See terms for details
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/btermsc-21
+
+We want to make sure you always get great value, so we've taken a look at your 
+account to work out the best balance transfer deal we can offer you.
+
+------------------------------------------------------------------------
+
+Name
+Mrs Anne McKay
+
+Card type
+Barclaycard Freedom Rewards
+
+Credit limit
+£2000
+
+Your offer
+0(2.99
+------------------------------------------------------------------------
+
+It's simple
+
+All you need is your Barclaycard and the cards you want to transfer from
+to hand and then click 'transfer online' (you can register here too).
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+Transfer online
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/tbalance-21#tabbox0
+
+Or call us on
+0800 917 7277
+
+Transfer by 31 January 2015
+
+------------------------------------------------------------------------
+
+Don't forget to make your minimum payments on time and stay within your 
+credit limit. Otherwise the interest on your transfer will go back to 
+your standard purchase rate of 19.9transferred balance in full, you will incur interest on all your 
+purchases at your standard purchase rate of 19.9rate you'll pay at the end of your promotional period. This applies 
+even if you repay your monthly spend in full each month. See terms and 
+conditions for details:
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/btermsc-21
+
+------------------------------------------------------------------------
+
+Security
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/security-21
+
+Accessibility
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/access-21
+
+Privacy and Cookie Policy 
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/privacy-21
+
+Unsubscribe
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/unsub-21?email=annemckay@fs.net
+
+Contact us
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/contact-21
+
+------------------------------------------------------------------------
+
+Legal 
+
+Please do not email a response to this message. If you have a query 
+regarding Barclaycard, please contact us at Barclaycard Customer 
+Services on 0800 917 7277. Call charges info. 
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/ccharge-21
+
+Internet communications are not secure and therefore the Barclays 
+Group does not accept legal responsibility for the contents of this 
+message. Although Barclays Group operates anti-virus programs, it 
+does not accept responsibility for any damage whatsoever that is 
+caused by viruses being passed.
+
+This message is confidential and intended for the addressee only. 
+Please be aware that messages sent over the internet are not secure 
+and should not be seen as forming a legally binding contract unless 
+otherwise stated. We will never contact you via email or via a website, 
+asking you to supply us with any security details relating to you, 
+your credit card details, PIN, or online account servicing. For more 
+information visit:
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/personal-21
+
+Unsubscribe 
+
+If you do not want Barclays Bank PLC and other members of the Barclays 
+Group to send you emails about products and services (including those 
+of others) please follow the instructions here:
+
+http://mail.barclaycard.co.uk/a/tBUptylAVupSTB8$VWRNsuoDe6P/unsub-21?email=annemckay@fs.net
+
+Email and Cookies 
+
+†Barclays uses cookies and similar technologies (which we 
+collectively call cookies) in this email. If you have enabled
+images, cookies may be set on your computer or mobile device. 
+Cookies will also be set if you click on any link within the 
+email. Depending upon how your computer and software are 
+configured, these technologies may operate if we are in 
+your safe sender list or equivalent. Cookies help us to 
+understand how you interact with our emails, which helps 
+us to improve our future email communications. You can disable 
+cookies in your Browser settings and you can prevent some of 
+the other technologies from operating by not enabling images, 
+or by removing Barclays from your safe sender list. To find out 
+more about cookies and these technologies in general, please 
+follow the link below. If your email settings have disabled 
+links in this email, you can paste this address into your 
+browser without enabling or accepting cookies: 
+http://www.barclays.com/emailcookies
+
+Status Disclosure 
+
+Barclaycard is a trading name of Barclays Bank PLC. Barclays Bank 
+PLC is authorised by the Prudential Regulation Authority and 
+regulated by the Financial Conduct Authority and the Prudential 
+Regulation Authority (Financial Services Register number: 122702). 
+Barclays Bank PLC subscribes to the Lending Code which is monitored 
+and enforced by the Lending Standards Board. Registered in England 
+No. 1026167. Registered Office: 1‌ Churchill Place, London E14 5HP.
+
+--=b9tpwvvavwqs6wauz12xxqcf8hub6j
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" />
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0"/>
+	<meta name=3D"format-detection" content=3D"telephone=3Dno">
+
+	<title>Barclaycard</title><style type=3D"text/css">
+=09
+	#outlook a {padding:0;}
+	body{width:100djust:100	.ExternalClass {width:100	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font=
+, .ExternalClass td, .ExternalClass div {line-height: 100	#backgroundTable {margin:0; padding:0; width:100 100	img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}=
+=20
+	a img {border:none;}=20
+	.image_fix {display:block;}
+	p {margin: 1em 0;}
+	h1, h2, h3, h4, h5, h6 {color: black !important;}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}
+	h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:acti=
+ve {color: blue !important;}
+	h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a=
+:visited {color: blue !important;}
+	table td {border-collapse: collapse;}
+	table {mso-table-lspace:0pt; mso-table-rspace:0pt; }
+
+/*** barclaycard webfont ***/
+    @media screen{
+=20=20=20=20
+        /*** barclaycard light ***/
+        @font-face {
+            font-family: 'barclaycard_co_ltregular';
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+lt-regular-webfont.eot');
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+lt-regular-webfont.eot?#iefix') format('embedded-opentype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+lt-regular-webfont.woff') format('woff'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+lt-regular-webfont.ttf') format('truetype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+lt-regular-webfont.svg#barclaycard_co_ltregular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+=20=20=20=20=20=20=20=20
+        /*** barclaycard regular ***/
+        @font-face {
+            font-family: 'barclaycard_coregular';
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+-regular-webfont.eot');
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+-regular-webfont.eot?#iefix') format('embedded-opentype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+-regular-webfont.woff') format('woff'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+-regular-webfont.ttf') format('truetype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+-regular-webfont.svg#barclaycard_coregular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+=20=20=20=20=20=20=20=20
+        }
+=20=20=20=20
+        /*** barclaycard bold ***/
+        @font-face {
+            font-family: 'barclaycard_co_bdregular';
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+bd-regular-webfont.eot');
+            src: url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+bd-regular-webfont.eot?#iefix') format('embedded-opentype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+bd-regular-webfont.woff') format('woff'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+bd-regular-webfont.ttf') format('truetype'),
+                 url('http://poweredbybarclaycard.co.uk/fonts/barclaycardco=
+bd-regular-webfont.svg#barclaycard_co_bdregular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+=20=20=20=20=20=20=20=20
+        }
+    }
+
+/*** mobile-specific CSS styles go here ***/
+
+	@media only screen and (max-device-width: 480px) {=20
+=09
+/*Generic styles*/
+=09=09
+		/*all tables to fit mobile width*/
+=09=09
+		table {
+			width:100			line-height:100			min-width:100		}
+
+		/*all divs to fit mobile*/
+
+		div {
+			height: auto !important;
+			width: 100		}
+=09=09=09=09
+		/*responsive image*/
+
+		img[class=3D"responsive-image"] {=20
+			width:100			max-width:100			height:auto !important;=20
+		}
+
+		/*all divs to fit mobile*/
+
+		div {
+			height: auto !important;
+			width: 100		}
+
+
+		/*Hide*/
+
+		table[class=3D"hide"], img[class=3D"hide"], td[class=3D"hide"] {
+			display:none !important;
+			width:0 !important;
+			height:0 !important;
+			max-height:0 !important;=20=20
+			line-height:0 !important;=20
+			mso-hide:all !important; /* hide elements in Outlook 2007-2013 */
+			overflow:hidden !important ;
+			visibility:hidden !important;
+		}
+=09=09
+		/*reveal*/
+
+		table[class=3D"reveal"], img[class=3D"reveal"], td[class=3D"reveal"] {
+			display:block !important;
+			width:100			height:auto !important;
+			max-height:inherit !important;
+			line-height:inherit !important;
+			overflow:visible!important;
+			visibility:visible !important;
+		}
+
+		/*button container*/
+
+		td[class=3D"button-container"] {
+			padding-bottom:5		}
+
+		/*button styling mobile*/
+
+		td[class=3D"button"] {
+			width: 100			height:44px !important;
+			line-height:44px !important;
+			font-size:20px !important;
+		}
+=09=09
+		/*align column left on mobile*/
+
+		td[class=3D"m-column"] {
+			float: left !important;
+			clear: both !important;
+			width: 90			padding-left: 5			padding-right: 5			padding-bottom: 5		}
+
+		/*align column left on mobile no padding*/
+
+		td[class=3D"m-column-nopad"] {
+			float: left !important;
+			clear: both !important;
+			width: 100			padding-left: 0			padding-right: 0			padding-bottom: 5		}
+=09=09
+		/*Panel styles*/
+=09
+		td[class=3D"panel-padding"] {
+			padding-left:5			padding-right:5			padding-bottom:5			padding-top:5		}
+
+		/* Collapse keyline class */
+=09
+		td[class=3D"kl-collapse"] {
+			height:100		}
+
+/* End generic=09=09
+
+	/*terms and conditions styles*/
+=09
+		td[class=3D"mobile-cookie-section"], table[class=3D"mobile-cookie-section=
+"] {
+			background-color: #e1e1e1;
+		}
+=09=09
+		td[class=3D"terms-padding-top"] {
+ 			font-size:13px !important;
+			line-height:15px !important;
+			line-height:120			width:90			padding-left:5			padding-right:5			padding-top:5			padding-bottom:5		}
+
+		td[class=3D"terms"] {
+ 			font-size:13px !important;
+			line-height:15px !important;
+			line-height:120			width:90			padding-left:5			padding-right:5		}
+=09=09
+	/*Logo header styles*/
+=09
+		td[class=3D"bcrd-logo"] {
+			float:left !important;
+			clear:both !important;
+			width:60			height:auto !important;
+			padding-left:0			padding-bottom:5			padding-top:5		}
+
+		a[class=3D"bcrd-logo-nav"] {
+			display: block !important;
+			padding-left: 5			padding-top: 5			width: 60			height: 49px !important;
+			line-height: 49px !important;
+			max-height: 49px !important;
+			overflow: visible !important;
+			float: left !important;
+		}
+
+		td[class=3D"mybarclaycardlogin"] {
+			width:90			padding-left: 5			padding-right: 5			display:block !important;
+			line-height:20px !important;=20
+			float:left !important;
+			text-align:left !important;
+			height:44px !important;
+			line-height:44px !important;
+			font-size:20px !important;
+			color:#FFFFFF !important;
+			background-image: -webkit-linear-gradient(top, #84c240, #34903d);=20
+			background-image: -moz-linear-gradient(top, #84c240, #34903d);=20
+			background-image: -ms-linear-gradient(top, #84c240, #34903d);=20
+			background-image: -o-linear-gradient(top, #84c240, #34903d);=20
+			background-image: linear-gradient(to bottom, #84c240, #34903d);=20
+			-webkit-border-radius: 20;
+			-moz-border-radius: 20;=20
+			border-radius: 20px;
+			border: solid #34903d 1px;
+			text-align:center !important;
+			padding-top: 0		}
+=09=09
+		a[class=3D"mybarclaycardlogin-text"] {
+			color:#FFFFFF !important;
+		}
+=09=09
+		td[class=3D"card-number"] {
+			width:95			padding-bottom:5			padding-top:0			float:left !important;
+			text-align:left !important;
+			font-size:14px !important;
+			line-height:16px !important;
+			padding-left: 5		}
+
+/*responsive nav bar 'navicon' styles*/
+=09=09
+		a[class=3D"nav-mobileshow"], a[class=3D"nav-mobilehide"] {=20
+			display: block !important;=20
+			position: absolute;
+			padding-left: 80			padding-top: 6			width: 20			line-height: 40px !important;
+			height: 40px !important;
+			margin-top: 0 !important;
+			max-height:40px !important;
+			overflow: visible !important;=09=09
+		}
+=09
+		*[id=3Dnav-mobile] {
+			width: 100			height: 50px!important;
+			display: block!important;
+			overflow: visible!important;
+			line-height: 100		  }
+=09=09=20=20
+		*[id=3Dnav-gmail] {=20=20
+			display: block!important;
+			width: auto!important;
+			overflow: visible!important;
+			float: none !important;
+			height: inherit!important;
+			max-height: inherit!important;
+		}
+
+		div[class=3D"nav-article"] {
+			display: none;
+		}
+=09=09
+		a.nav-mobileshow:hover {=20
+			visibility: hidden;
+		}=20
+		.nav-mobileshow:hover + .nav-article, .nav-article:hover {
+			display: inline !important;
+		}
+
+		td[class=3D"nav-container-mobile"] {
+			width: 100			float: left !important;
+			clear: both !important;
+			height:	auto !important;
+			line-height: inherit !important;
+			overflow: visible !important;=20
+			display: block !important;
+		}
+=09=09=09=09
+		td[class=3D"nav-button-cascade"] {
+			width: 100			float: left !important;
+			clear: both !important;
+			height: 44px !important;
+			line-height: 44px !important;
+			border-bottom: 1px solid #d0d0d0 !important;
+			overflow: visible !important;=20
+			display: block !important;
+		}
+
+		td[class=3D"nav-button-cascade-last"] {
+			width: 100			float: left !important;
+			clear: both !important;
+			height: 44px !important;
+			line-height: 44px !important;
+			border-width: 80			overflow: visible !important;=20
+			display: block !important;
+		}
+=09=09
+		p[class=3D"mob-nav-link"] {
+			width:100			font-size: 16px !important;
+			line-height: 12px !important;
+			height: 16px !important;=20
+			overflow: visible !important;
+			display: block !important;
+		}
+=09=09
+/* header styles*/=09=09
+=09=09
+		/*align header column left on mobile*/
+
+		td[class=3D"header-m-column"] {
+			float:left !important;
+			clear:both !important;
+			width:90			padding-left:5			padding-right:5			padding-top:0 !important;
+		}
+=09=09
+		/*align header img left on mobile*/
+=09=09
+		td[class=3D"header-m-column-img"] {
+			float:left !important;
+			clear:both !important;
+			width:100			padding-left:0 !important;
+			padding-right:0 !important;
+			padding-top:0 !important;
+			padding-bottom:5		}
+
+		/*Header title styling*/
+
+		td[class=3D"header-title"] {
+			font-size:30px !important;
+			line-height:34px !important;
+			line-height:120		}
+
+		/*Header sub-copy title styling*/
+
+		td[class=3D"header-sub-copy"] {
+			font-size:18px !important;
+			line-height:20px !important;
+			line-height:120			padding-bottom: 5		}
+
+/*email body copy styles*/
+=09
+		td[class=3D"body-copy"] {
+			padding-bottom:5			font-size:16px !important;
+			line-height:18px !important;
+			line-height:120		}
+
+		td[class=3D"body-copy-title"] {
+			font-size:22px !important;
+			line-height:24px !important;
+			line-height:120		}
+
+		td[class=3D"body-copy-sub-header"] {
+			padding-bottom:5			font-size:20px !important;
+			line-height:22px !important;
+			line-height:120		}
+
+		a[class=3D"body-copy-link"] {
+			font-size:16px !important;
+			line-height:18px !important;
+			line-height:120		}
+
+		td[class=3D"body-copy-end"] {
+			font-size:16px !important;
+			line-height:18px !important;
+			line-height:120			padding-bottom:0 !important;
+		}
+=09
+	/*Johnson box styles*/
+=09
+		td[class=3D"jb-title"] {
+			width:100			font-size:20px !important;
+			line-height:24px !important;
+			line-height:120			padding-bottom:5		}
+
+		td[class=3D"jb-sub-title"] {
+			width:100			font-size:18px !important;
+			line-height:20px !important;
+			line-height:120			padding-bottom:5		}
+=09=09
+		td[class=3D"jb-cta"] {
+			width:100			font-size:18px !important;
+			line-height:20px !important;
+			line-height:120			padding-bottom:5		}
+
+		td[class=3D"jb-copy"] {
+			width:100			font-size:16px !important;
+			line-height:18px !important;
+			line-height:120			padding-bottom:5		}
+
+		td[class=3D"jb-copy-end"] {
+			width:100			font-size:16px !important;
+			line-height:18px !important;
+			line-height:120			padding-bottom:0 !important;
+		}
+
+	/*Social icons*/
+
+		td[class=3D"social-icon"] {
+			width:15		}
+=09=09
+	/*Sub nav*/
+=09
+		td[class=3D"button-cascade"] {
+			width:100			float:left !important;
+			clear:both !important;
+		}
+=09=09
+		td[class=3D"nav-sign-off"] {
+			width:100			float:left !important;
+			clear:both !important;
+			font-size:14px !important;
+			line-height:30px !important;
+		}
+
+		td[class=3D"padbtm"] {
+			padding-bottom: 5		}
+
+    }
+=09
+/*** CSS styles go here ***************************************************=
+****************/
+
+	</style><style type=3D"text/css">
+=09
+	</style><style>
+		/* Target Outlook 2007 and 2010 */
+		</style><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /></head><body onload=3D'' bgcolor=3D"#ffffff" style=3D"-webkit-f=
+ont-smoothing: antialiased; width:100:none;">
+
+=09
+=20=20
+=09
+=20=20
+	<!-- Targeting Windows Mobile -->
+	<!--[if IEMobile 7]>
+=09
+	<![endif]-->=20=20=20
+
+	<!-- ***********************************************
+	****************************************************
+	END MOBILE TARGETING
+	****************************************************
+	************************************************ -->
+
+	<!--[if gte mso 9]>
+=09=09
+	<![endif]-->
+=20=20=20=20
+=09
+=20=20
+
+
+=20
+
+
+<!-- outer table container -->
+
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+	<tr>
+		<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF">
+=20=20=20=20=20=20=20=20
+<!-- Email Cookie wording -->
+
+		<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#ffff=
+ff;">
+                <tr>
+                    <td class=3D"hide" width=3D"25" height=3D"15" style=3D"=
+font-size: 1px; line-height:15px; mso-line-height-rule:exactly"> </td>
+                    <td class=3D"hide" width=3D"550"></td>
+                    <td class=3D"hide" width=3D"25" height=3D"15" style=3D"=
+font-size: 1px; line-height:15px; mso-line-height-rule:exactly"></td>
+                </tr>
+			<tr>
+				<td class=3D"hide"></td>
+                <td class=3D"mobile-cookie-section" align=3D"left" valign=
+=3D"top" height=3D"100=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+						<!-- Email pre-header -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<table width=3D"550" height=3D"1" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+                    <tr>
+                        <td height=3D"0" align=3D"left" valign=3D"top" styl=
+e=3D"line-height:0px; font-size:0px; mso-line-height-rule:exactly; max-heig=
+ht:0; min-height:0; overflow:hidden; mso-line-height-alt:0; color:#FFFFFF;">
+                        Your balance transfer offer this month
+                        </td>
+                    </tr>
+				</table>
+                <table width=3D"550" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0">
+                    <tr>
+                        <td align=3D"left" valign=3D"top" class=3D"terms-pa=
+dding-top" style=3D"text-align:left; line-height: 14px; font-family:Tahoma,=
+ Geneva, sans-serif; font-size:10px; line-height:12px; color: #707070; padd=
+ing-bottom:10px;">
+                        If you enable images or click on a link, you agree =
+that you give Barclays permission to use cookies&dagger; through this email=
+. To find out more see the end of this email.  <a href=3D"http://mail.barcl=
+aycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/hosted-21?t_params=3DI_NUMBER0ELD_117emckayD6TITLEion:underline; color: #00A1E4;">Click here</a> for a web version.=20
+                      </td>
+                    </tr>
+                </table>
+				</td>
+				<td class=3D"hide"></td>
+			</tr>
+        </table>
+=20
+<!-- Logo bar -->
+=20=20=20=20
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+			<tr class=3D"hide">
+				<td class=3D"hide" width=3D"25" height=3D"15" style=3D"font-size: 1px; =
+line-height:15px; mso-line-height-rule:exactly"></td>
+				<td class=3D"hide" width=3D"550"></td>
+				<td class=3D"hide" width=3D"25" height=3D"15" style=3D"font-size: 1px; =
+line-height:15px; mso-line-height-rule:exactly"></td>
+			</tr>
+			<tr>
+				<td class=3D"hide"></td>
+				<td width=3D"550" align=3D"left" valign=3D"top">
+					<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+						<tr>
+							<td align=3D"right" valign=3D"top" class=3D"m-column-nopad"	>
+								<table class=3D"hide" width=3D"275" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+									<tr>
+										<td class=3D"bcrd-logo" width=3D"275" align=3D"left" valign=3D"to=
+p">
+											<div style=3D" height:49px; margin:0; padding:0;">
+                                            	<a href=3D"http://mail.barclay=
+card.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/personal1-21" target=3D"_blank" ti=
+tle=3D"Barclaycard.co.uk">
+												<img class=3D"responsive-image" src=3D"http://f.mail.barclaycar=
+d.co.uk/i/3/364549267/OCT_BT_011014_logo-barclaycard.jpg" alt=3D"Barclaycar=
+d" width=3D"191" height=3D"49" border=3D"0" style=3D" display:block; width:=
+191px; height:49px;" />
+                                                </a>
+											</div>
+										</td>
+									</tr>
+								</table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+<!-- Responsive Nav bar -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                <!--[if !mso 9]><!-->
+                                <table width=3D"275" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20
+                                    <tr>
+                                        <td id=3D"nav-mobile" bgcolor=3D"#F=
+FFFFF" align=3D"right" valign=3D"top">
+                                            <div id=3D"nav-gmail" style=3D"=
+display:none; width:0; overflow:hidden; float:left; max-height:0;">
+                                                <table width=3D"275" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0">
+                                                    <tr>
+                                                        <td>
+                                                        	<div style=3D" hei=
+ght:49px; width:60                                                                <a class=3D=
+"bcrd-logo-nav" href=3D"http://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWR=
+NsuoDe6P/personal2-21" target=3D"_blank" title=3D"Barclaycard.co.uk" style=
+=3D"width:0; max-height:0; height:0; overflow:hidden; display:none;">
+                                                                     <img s=
+rc=3D"http://f.mail.barclaycard.co.uk/i/3/364549267/OCT_BT_011014_logo-barc=
+laycard.jpg" alt=3D"Barclaycard" width=3D"191" height=3D"49" border=3D"0" s=
+tyle=3D"display: block; width:191px; height:49px;" />
+                                                                </a>
+                                                            </div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                            <a class=3D"nav=
+-mobilehide" style=3D"width:0; max-height:0; height:0; overflow:hidden; dis=
+play:none;">
+                                                            <img src=3D"htt=
+p://f.mail.barclaycard.co.uk/i/3/364549267/OCT_BT_011014_navicon.jpg" width=
+=3D"40" height=3D"40" border=3D"0" style=3D"display: block; width:40px; hei=
+ght:40px;" /></a>
+                                                            <a class=3D"nav=
+-mobileshow" style=3D"width:0; max-height:0; height:0; overflow:hidden; dis=
+play:none;">
+                                                            <img src=3D"htt=
+p://f.mail.barclaycard.co.uk/i/3/364549267/OCT_BT_011014_navicon.jpg" width=
+=3D"40" height=3D"40" border=3D"0" style=3D"display: block; width:40px; hei=
+ght:40px;" /></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                            <div class=3D"n=
+av-article">
+                                                                <table>
+                                                                    <tr>
+                                                                        <td=
+ class=3D"nav-container-mobile" bgcolor=3D"#FFFFFF" style=3D"width:0; heigh=
+t:0; overflow:hidden; display:none; background: url(data:image/svg+xml;base=
+64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8y=
+MDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJ=
+lc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2=
+ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iM=
+CUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0i=
+I2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3A=
+tY29sb3I9IiNkZmRmZGYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+Ci=
+AgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkL=
+XVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+); background: -moz-linear-gradient(top,=
+ #ffffff 0left bottom, color-stop(0 -webkit-linear-gradient(top, #ffffff 0ar-gradient(top, #ffffff 0top, #ffffff 0ff 0artColorstr=3D'#ffffff', endColorstr=3D'#dfdfdf',GradientType=3D0 ); paddin=
+g-top:5                                                                           =
+ <table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                                           =
+     <tr>
+                                                                           =
+         <td class=3D"nav-button-cascade" align=3D"left" valign=3D"middle" =
+style=3D"width:0; height:0; overflow:hidden; display:none;">
+                                                                           =
+             <div>
+                                                                           =
+                 <p class=3D"mob-nav-link" height=3D"44" align=3D"center" v=
+align=3D"middle" style=3D"font-family:Tahoma, Geneva, sans-serif; text-alig=
+n:center; font-size:0px; line-height:0px; line-height:0																							<a href=3D"http://mail.barclaycard.co.uk/a/hBUptylAV=
+upSTB8$VWRNsuoDe6P/tbalance1-21#tabbox0" style=3D"text-decoration:none; col=
+or:#686a9f" target=3D"_blank">
+Log in</a>
+                                                                           =
+                 </p>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+         <td class=3D"nav-button-cascade" align=3D"left" valign=3D"middle" =
+style=3D"width:0; height:0; overflow:hidden; display:none;">
+                                                                           =
+             <div>
+                                                                           =
+                 <p class=3D"mob-nav-link" height=3D"44" align=3D"center" v=
+align=3D"middle" style=3D"font-family:Tahoma, Geneva, sans-serif; text-alig=
+n:center; font-size:0px; line-height:0px; line-height:0                                                                           =
+                     <a href=3D"http://mail.barclaycard.co.uk/a/hBUptylAVup=
+STB8$VWRNsuoDe6P/tbalance2-21#tabbox0" title=3D"Your benefits" target=3D"_b=
+lank" style=3D"text-decoration:none; color:#686a9f">Find out more</a>
+                                                                           =
+                 </p>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+         <td class=3D"nav-button-cascade-last" align=3D"left" valign=3D"mid=
+dle" style=3D"width:0; height:0; overflow:hidden; display:none;">
+                                                                           =
+             <div>
+                                                                           =
+                 <p class=3D"mob-nav-link" height=3D"44" align=3D"center" v=
+align=3D"middle" style=3D"font-family:Tahoma, Geneva, sans-serif; text-alig=
+n:center; font-size:0px; line-height:0px; line-height:0                                                                           =
+                     <a href=3D"http://mail.barclaycard.co.uk/a/hBUptylAVup=
+STB8$VWRNsuoDe6P/videobt1-21" title=3D"Your benefits" target=3D"_blank" sty=
+le=3D"text-decoration:none; color:#686a9f">How to transfer</a>
+                                                                           =
+                 </p>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+ </table>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>=20=20
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                <!--<![endif]-->
+
+                            </td>
+							<td class=3D"m-column-nopad" align=3D"right" valign=3D"top" >
+								<table width=3D"275" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+									<tr>
+										<td width=3D"275" class=3D"hide" valign=3D"top" style=3D"text-ali=
+gn:right; font-family:Tahoma, Geneva, sans-serif; font-size:14px; line-heig=
+ht:16px; font-weight:bold; padding-top:10px;">
+											<a class=3D"mybarclaycardlogin-text" href=3D"http://mail.barclay=
+card.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance3-21#tabbox0" target=3D"_b=
+lank" title=3D"Login to mybarclaycard" style=3D" color:#686a9f; text-decora=
+tion:none;">Log in to mybarclaycard</a>
+										</td>
+                                    </tr>
+                                    <tr>
+										<td width=3D"275" class=3D"card-number" style=3D"font-family:Taho=
+ma, Geneva, sans-serif; font-size:12px; line-height:14px; font-weight:bold;=
+ color:#000000; text-align:right; padding-top:5px;">Card no.************600=
+0</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td class=3D"hide"></td>
+			</tr>
+		</table>
+=20=20=20=20=20=20=20=20
+<!-- Nav bar -->
+=20=20=20=20=20=20=20=20
+		<table class=3D"hide" width=3D"600" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+			<tr>
+                <td class=3D"hide" width=3D"25" height=3D"15" style=3D"font=
+-size: 1px; line-height:15px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"550"></td>
+                <td class=3D"hide" width=3D"25" height=3D"15" style=3D"font=
+-size: 1px; line-height:15px; mso-line-height-rule:exactly"></td>
+            </tr>
+            <tr>
+                <td class=3D"hide" bgcolor=3D"#DDDDDD" style=3D"border-top:=
+1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; background: #efefef; b=
+ackground: -moz-linear-gradient(top,  #efefef 0: -webkit-gradient(linear, left top, left bottom, color-stop(0olor-stop(100 0100ground: linear-gradient(to bottom,  #efefef 0d:DXImageTransform.Microsoft.gradient( startColorstr=3D'#efefef', endColors=
+tr=3D'#dfdfdf',GradientType=3D0 );"></td>
+                <td bgcolor=3D"#DDDDDD" style=3D"border-top:1px solid #e5e5=
+e5; border-bottom: 1px solid #e5e5e5; background: #efefef; background: -moz=
+-linear-gradient(top,  #efefef 0ent(linear, left top, left bottom, color-stop(0#dfdfdf));  background: -webkit-linear-gradient(top,  #efefef 00ound: -ms-linear-gradient(top,  #efefef 0r-gradient(to bottom,  #efefef 0sform.Microsoft.gradient( startColorstr=3D'#efefef', endColorstr=3D'#dfdfdf=
+',GradientType=3D0 );">
+					<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+						<tr>
+                            <td align=3D"left" valign=3D"top">
+                                <table width=3D"183" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td height=3D"30" style=3D"line-hei=
+ght: 30px; font-family:Tahoma, Geneva, sans-serif; text-align:center; font-=
+size:14px; line-height:16px; color:#444444">
+                                        <a href=3D"http://mail.barclaycard.=
+co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance4-21#tabbox0" title=3D"Log in" =
+style=3D"text-decoration:none; color:#464646" target=3D"_blank">
+                                        Log in=20
+                                        </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td valign=3D"top">
+                                <table width=3D"184" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td height=3D"30" style=3D"line-hei=
+ght: 30px; font-family:Tahoma, Geneva, sans-serif; text-align:center; font-=
+size:14px; line-height:16px; color:#464646">
+                                       <a href=3D"http://mail.barclaycard.c=
+o.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance5-21#tabbox0" title=3D"Find out =
+more" target=3D"_blank" style=3D"text-decoration:none; color:#444444">=20
+                                        Find out more
+                                        </a>=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td valign=3D"top">
+                                <table width=3D"183" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td height=3D"30" style=3D"line-hei=
+ght: 30px; font-family:Tahoma, Geneva, sans-serif; text-align:center; font-=
+size:14px; line-height:16px; color:#464646">
+                                        <a href=3D"http://mail.barclaycard.=
+co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/videobt2-21" title=3D"How to transfer" =
+target=3D"_blank" style=3D"text-decoration:none; color:#444444">
+                                        How to transfer=20
+                                        </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+						</tr>
+					</table>
+				</td>
+                <td bgcolor=3D"#DDDDDD" class=3D"hide" style=3D"border-top:=
+1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; background: #efefef; b=
+ackground: -moz-linear-gradient(top,  #efefef 0: -webkit-gradient(linear, left top, left bottom, color-stop(0olor-stop(100f 0 100ckground: linear-gradient(to bottom,  #efefef 0gid:DXImageTransform.Microsoft.gradient( startColorstr=3D'#efefef', endColo=
+rstr=3D'#dfdfdf',GradientType=3D0 );"></td>
+            </tr>
+        </table>
+
+<!-- Banner Header -->
+
+        <table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+            <tr>
+            	<td class=3D"hide" width=3D"25"></td>
+                <td align=3D"left" valign=3D"top" class=3D"header-m-column">
+                	<table width=3D"550" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">
+						<tr>
+                        	<td class=3D"hide" height=3D"35" style=3D"font-siz=
+e: 1px; line-height:35px; mso-line-height-rule:exactly">
+                            <!-- adjust header copy up and down here -->
+                            </td>
+                        </tr>
+                    	<tr>
+                            <td align=3D"left" valign=3D"top" class=3D"head=
+er-title" style=3D"font-family:'barclaycard_coregular', Tahoma, Geneva, san=
+s-serif; font-size:25px; line-height:27px; color:#00A1E4; text-decoration:n=
+one; padding-bottom:10px;">A 0=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        </tr>
+                    	<tr>
+                            <td align=3D"left" valign=3D"top" class=3D"head=
+er-sub-copy" style=3D"font-family:Tahoma, Geneva, sans-serif; font-size:14p=
+x; line-height:18px; color:#686a9f; text-decoration:none; padding-bottom:15=
+px;">(Fee applies)</td>
+                        </tr>
+                        <tr>
+                            <td class=3D"button-container" align=3D"left" s=
+tyle=3D"padding-bottom:15px;">
+                                <table width=3D"130" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                        <td class=3D"button" height=3D"23" =
+bgcolor=3D"#60b244" align=3D"center" valign=3D"middle"  style=3D"font-famil=
+y:Tahoma, Geneva, sans-serif; line-height: 23px; line-height: 100ze:12px;  color:#FFFFFF; text-decoration:none; background-image: -webkit-li=
+near-gradient(top, #84c240, #34903d); background-image: -moz-linear-gradien=
+t(top, #84c240, #34903d); background-image: -ms-linear-gradient(top, #84c24=
+0, #34903d); background-image: -o-linear-gradient(top, #84c240, #34903d); b=
+ackground-image: linear-gradient(to bottom, #84c240, #34903d); -webkit-bord=
+er-radius: 20;-moz-border-radius: 20; border-radius: 20px; border: solid #3=
+4903d 1px;">
+                                        <a href=3D"http://mail.barclaycard.=
+co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance6-21#tabbox0" target=3D"_blank"=
+ title=3D"Transfer online" style=3D"color:#FFFFFF; text-decoration:none">Tr=
+ansfer online</a>
+                                        </td>
+                                    </tr>
+                                </table>=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"header-sub-copy" valign=3D"top" st=
+yle=3D" font-family:Tahoma, Geneva, sans-serif; font-size:13px; color:#686a=
+9f; line-height:15px; padding-bottom:15px; ">
+                            <a class=3D"body-copy-link" href=3D"http://mail=
+.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/btermsc1-21" target=3D"_bl=
+ank" title=3D"See terms for details" style=3D"font-family:Tahoma, Geneva, s=
+ans-serif; font-size:13px; line-height:15px; font-weight:bold; color:#00A1E=
+4; text-decoration:none;">See <span style=3D"text-decoration:underline;">te=
+rms</span> for details</a></td>
+                        </tr>
+                        <tr>
+                            <td class=3D"body-copy" style=3D" font-family:T=
+ahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:15px;=
+  text-align:left;">We want to make sure you always get great value, so we'=
+ve taken a look at your account to work out the best balance transfer deal =
+we can offer you.</td>
+                        </tr>
+                    </table>
+                </td>
+            	<td class=3D"hide" width=3D"25"></td>
+            </tr>
+        </table>
+=20=20=20=20=20=20=20=20=20=20=20=20
+<!-- Email copy and johnson box -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color=
+:#ffffff;">
+			<tr>
+                <td class=3D"hide" width=3D"25" height=3D"15" style=3D"font=
+-size: 1px; line-height:15px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"262"></td>
+                <td class=3D"hide" width=3D"26"></td>
+                <td class=3D"hide" width=3D"262"></td>
+                <td class=3D"hide" width=3D"25" height=3D"15" style=3D"font=
+-size: 1px; line-height:15px; mso-line-height-rule:exactly"></td>
+            </tr>
+            <tr>
+                <td class=3D"hide"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!-- Email copy -->=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <td align=3D"left" valign=3D"top" class=3D"m-column">
+                    <table width=3D"262" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">=20=20=20
+                       <!-- cell 1 -->
+                        <tr>
+                            <td class=3D"padbtm" width=3D"210" valign=3D"to=
+p" style=3D"padding-bottom:5px;">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_topleftcorner.gif" alt=3D"" wi=
+dth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                            <div style=3D"height:1px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"1" style=3D"display:block; width:1px; height:1px;" />
+                                            </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_toprightcorner.gif" alt=3D"" w=
+idth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px;">
+                                            <div style=3D"height:7px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"7" style=3D"display:block; width:1px; height:7px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                        <td width=3D"7"></td>
+                                        <td class=3D"jb-padding">
+                                            <table width=3D"246"  border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td  align=3D"left" val=
+ign=3D"top" class=3D"body-copy" style=3D"font-family:'barclaycard_coregular=
+', Tahoma, Geneva, sans-serif; font-size:13px; line-height:15px; color:#00A=
+1E4; text-decoration:none; padding-bottom:5px;">Name</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" class=3D"body-copy-end" style=3D" font-family:'barclaycard_coreg=
+ular', Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-heig=
+ht:15px; text-align:left;">Mrs Anne McKay</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"7"></td>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomleftcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px; mso-line-height-rule:exactly">
+                                        <div style=3D"height:7px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" s=
+tyle=3D"display:block; width:10px; height:7px;" />
+                                        </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomrightcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                        <div style=3D"height:1px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" s=
+tyle=3D"display:block; width:10px; height:1px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       <!-- cell 2 -->
+                        <tr>
+                            <td class=3D"padbtm" width=3D"210" valign=3D"to=
+p" style=3D"padding-bottom:5px;">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_topleftcorner.gif" alt=3D"" wi=
+dth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                            <div style=3D"height:1px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"1" style=3D"display:block; width:1px; height:1px;" />
+                                            </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_toprightcorner.gif" alt=3D"" w=
+idth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px;">
+                                            <div style=3D"height:7px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"7" style=3D"display:block; width:1px; height:7px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                        <td width=3D"7"></td>
+                                        <td class=3D"jb-padding">
+                                            <table width=3D"246"  border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td  align=3D"left" val=
+ign=3D"top" class=3D"body-copy" style=3D"font-family:'barclaycard_coregular=
+', Tahoma, Geneva, sans-serif; font-size:13px; line-height:15px; color:#00A=
+1E4; text-decoration:none; padding-bottom:5px;">Card type</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" class=3D"body-copy-end" style=3D" font-family:'barclaycard_coreg=
+ular',  Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-hei=
+ght:15px; text-align:left;">Barclaycard Freedom Rewards</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"7"></td>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomleftcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px; mso-line-height-rule:exactly">
+                                        <div style=3D"height:7px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" s=
+tyle=3D"display:block; width:10px; height:7px;" />
+                                        </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomrightcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                        <div style=3D"height:1px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" s=
+tyle=3D"display:block; width:10px; height:1px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       <!-- cell 3 -->
+                        <tr>
+                            <td class=3D"padbtm" width=3D"210" valign=3D"to=
+p" style=3D"padding-bottom:5px;">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_topleftcorner.gif" alt=3D"" wi=
+dth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                            <div style=3D"height:1px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"1" style=3D"display:block; width:1px; height:1px;" />
+                                            </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_toprightcorner.gif" alt=3D"" w=
+idth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px;">
+                                            <div style=3D"height:7px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"7" style=3D"display:block; width:1px; height:7px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                        <td width=3D"7"></td>
+                                        <td class=3D"jb-padding">
+                                            <table width=3D"246"  border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td  align=3D"left" val=
+ign=3D"top" class=3D"body-copy" style=3D"font-family:'barclaycard_coregular=
+', Tahoma, Geneva, sans-serif; font-size:13px; line-height:15px; color:#00A=
+1E4; text-decoration:none; padding-bottom:5px;">Credit limit</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" class=3D"body-copy-end" style=3D" font-family:'barclaycard_coreg=
+ular',  Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-hei=
+ght:15px; text-align:left;">=C2=A32000</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"7"></td>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomleftcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px; mso-line-height-rule:exactly">
+                                        <div style=3D"height:7px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" s=
+tyle=3D"display:block; width:10px; height:7px;" />
+                                        </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomrightcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                        <div style=3D"height:1px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" s=
+tyle=3D"display:block; width:10px; height:1px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                       <!-- cell 4 -->
+                        <tr>
+                            <td  width=3D"210" valign=3D"top">
+                                <table width=3D"100ing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_topleftcorner.gif" alt=3D"" wi=
+dth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                            <div style=3D"height:1px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"1" style=3D"display:block; width:1px; height:1px;" />
+                                            </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                            <div style=3D"height:8px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_toprightcorner.gif" alt=3D"" w=
+idth=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px;">
+                                            <div style=3D"height:7px; margi=
+n:0px; padding:0px;">
+                                                <img src=3D"http://f.mail.b=
+arclaycard.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=
+=3D"7" style=3D"display:block; width:1px; height:7px;" />
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                        <td width=3D"7"></td>
+                                        <td class=3D"jb-padding">
+                                            <table width=3D"246"  border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td  align=3D"left" val=
+ign=3D"top" class=3D"body-copy" style=3D"font-family:'barclaycard_coregular=
+', Tahoma, Geneva, sans-serif; font-size:13px; line-height:15px; color:#00A=
+1E4; text-decoration:none; padding-bottom:5px;">Your offer</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" class=3D"body-copy-title" style=3D" font-family:'barclaycard_cor=
+egular', Tahoma, Geneva, sans-serif; font-size:18px; color:#686a9f; line-he=
+ight:20px; text-align:left; padding-bottom:5px;">0nsfers until 1 January 2016 </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" class=3D"body-copy-end" style=3D" font-family:'barclaycard_coreg=
+ular', Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-heig=
+ht:15px; text-align:left;">(2.99                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td width=3D"7"></td>
+                                        <td width=3D"1" bgcolor=3D"#00A1E4"=
+></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomleftcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                        <td height=3D"7" style=3D"height:7p=
+x; line-height:7px; font-size:1px; mso-line-height-rule:exactly">
+                                        <div style=3D"height:7px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" s=
+tyle=3D"display:block; width:10px; height:7px;" />
+                                        </div>
+                                        </td>
+                                        <td width=3D"8" height=3D"8" colspa=
+n=3D"2" rowspan=3D"2" style=3D"font-size:0px; line-height:8px;">
+                                        <div style=3D"height:8px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_bottomrightcorner.gif" alt=3D"" width=
+=3D"8" height=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"1" bgcolor=3D"#00A1E4=
+" style=3D"height:1px; line-height:1px; font-size:1px;">
+                                        <div style=3D"height:1px; margin:0p=
+x; padding:0px;">
+                                        <img src=3D"http://f.mail.barclayca=
+rd.co.uk/i/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" s=
+tyle=3D"display:block; width:10px; height:1px;" />
+                                        </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+
+                    </table>=20
+                </td>
+                <td class=3D"hide" width=3D"26"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <!-- Johnson box -->
+                <td width=3D"262" valign=3D"top" class=3D"m-column">
+                	<table width=3D"100adding=3D"0">
+						<tr>
+                            <td width=3D"8" height=3D"8" colspan=3D"2" rows=
+pan=3D"2" style=3D"font-size:0px; line-height:8px;">
+	                            <div style=3D"height:8px; margin:0px; padding:=
+0px;">
+		                            <img src=3D"http://f.mail.barclaycard.co.uk/i=
+/3/364549267/OCT_BT_011014_topleftcorner.gif" alt=3D"" width=3D"8" height=
+=3D"8" style=3D"display:block; width:8px; height:8px;" />
+	                            </div>
+                            </td>
+                            <td height=3D"1" bgcolor=3D"#00A1E4" style=3D"h=
+eight:1px; line-height:1px; font-size:1px;">
+	                            <div style=3D"height:1px; margin:0px; padding:=
+0px;">
+		                            <img src=3D"http://f.mail.barclaycard.co.uk/i=
+/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" style=3D"di=
+splay:block; width:1px; height:1px;" />
+	                            </div>
+                            </td>
+                            <td width=3D"8" height=3D"8" colspan=3D"2" rows=
+pan=3D"2" style=3D"font-size:0px; line-height:8px;">
+	                            <div style=3D"height:8px; margin:0px; padding:=
+0px;">
+		                            <img src=3D"http://f.mail.barclaycard.co.uk/i=
+/3/364549267/OCT_BT_011014_toprightcorner.gif" alt=3D"" width=3D"8" height=
+=3D"8" style=3D"display:block; width:8px; height:8px;" />
+	                            </div>
+                            </td>
+						</tr>
+                  		<tr>
+                    		<td height=3D"7" style=3D"height:7px; line-height:7px=
+; font-size:1px;">
+	                            <div style=3D"height:7px; margin:0px; padding:=
+0px;">
+		                            <img src=3D"http://f.mail.barclaycard.co.uk/i=
+/3/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" style=3D"di=
+splay:block; width:1px; height:7px;" />
+	                            </div>
+                            </td>
+                  		</tr>
+                  		<tr>
+							<td width=3D"1" bgcolor=3D"#00A1E4"></td>
+							<td width=3D"7"></td>
+                          	<td class=3D"jb-padding" style=3D"padding-top:10=
+px; padding-right:10px; padding-bottom:10px; padding-left:10px;">
+                                <table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">
+                                    <tr>
+                                        <td  align=3D"left" valign=3D"top" =
+class=3D"jb-title" style=3D"font-family:'barclaycard_coregular',  Tahoma, G=
+eneva, sans-serif; font-size:16px; line-height:18px; color:#00A1E4; text-de=
+coration:none; padding-bottom:5px;">It's simple</td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"jb-copy" style=3D" font-family:Tahoma, Geneva, sans-serif; font-siz=
+e:13px; color:#686a9f; line-height:15px; padding-bottom:15px; text-align:le=
+ft;">All you need is your Barclaycard and the cards you want to transfer fr=
+om to hand and then click 'transfer online' (you can register <a href=3D"ht=
+tp://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance7-21#tabb=
+ox0" title=3D"Register here" class=3D"body-copy-link" target=3D"_blank" sty=
+le=3D"text-decoration:underline; color:#00A1E4">here</a> too).</td>
+                                    </tr>
+                                    <tr>
+                                        <td class=3D"button-container" alig=
+n=3D"left" style=3D"padding-bottom:15px;">
+                                            <table width=3D"130" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+                                                <tr>
+                                                    <td class=3D"button" he=
+ight=3D"23" bgcolor=3D"#60b244" align=3D"center" valign=3D"middle"  style=
+=3D"font-family:Tahoma, Geneva, sans-serif; line-height: 23px; line-height:=
+ 100e: -webkit-linear-gradient(top, #84c240, #34903d); background-image: -moz-l=
+inear-gradient(top, #84c240, #34903d); background-image: -ms-linear-gradien=
+t(top, #84c240, #34903d); background-image: -o-linear-gradient(top, #84c240=
+, #34903d); background-image: linear-gradient(to bottom, #84c240, #34903d);=
+ -webkit-border-radius: 20;-moz-border-radius: 20; border-radius: 20px; bor=
+der: solid #34903d 1px;">
+                                        <a href=3D"http://mail.barclaycard.=
+co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/tbalance8-21#tabbox0" target=3D"_blank"=
+ title=3D"Transfer online" style=3D"color:#FFFFFF; text-decoration:none">Tr=
+ansfer online</a></td>
+                                                </tr>
+                                            </table>=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"jb-sub-title" style=3D" font-family:Tahoma, Geneva, sans-serif; fon=
+t-size:13px; font-weight:bold; color:#686a9f; line-height:16px;">Call us on=
+</td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"jb-sub-title" style=3D"font-family:Tahoma, Geneva, sans-serif; font=
+-size:13px; line-height:16px; font-weight:bold; color:#686a9f; text-decorat=
+ion:none; padding-bottom:10px;"><a href=3D"tel:<<F6_LU>>" style=3D"text-dec=
+oration:none; color:#686a9f;"><strong>0800 917 7277</strong></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"jb-title" style=3D" font-family:Tahoma, Geneva, sans-serif; font-si=
+ze:16px; font-weight:bold; color:#00A1E4; line-height:16px;">Transfer by</t=
+d>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" valign=3D"top" c=
+lass=3D"jb-title" style=3D" font-family:Tahoma, Geneva, sans-serif; font-si=
+ze:16px; font-weight:bold; color:#00A1E4; line-height:16px;">31 January 201=
+5 <br /><br /></td>
+                                    </tr>
+                                </table>
+                            </td>
+							<td width=3D"7"></td>
+							<td width=3D"1" bgcolor=3D"#00A1E4"></td>
+						</tr>
+						<tr>
+							<td width=3D"8" height=3D"8" colspan=3D"2" rowspan=3D"2" style=3D"fo=
+nt-size:0px; line-height:8px;">
+                            <div style=3D"height:8px; margin:0px; padding:0=
+px;">
+                            <img src=3D"http://f.mail.barclaycard.co.uk/i/3=
+/364549267/OCT_BT_011014_bottomleftcorner.gif" alt=3D"" width=3D"8" height=
+=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                            </div>
+                            </td>
+							<td height=3D"7" style=3D"height:7px; line-height:7px; font-size:1px=
+; mso-line-height-rule:exactly">
+                            <div style=3D"height:7px; margin:0px; padding:0=
+px;">
+                            <img src=3D"http://f.mail.barclaycard.co.uk/i/3=
+/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"7" style=3D"disp=
+lay:block; width:10px; height:7px;" />
+                            </div>
+                            </td>
+							<td width=3D"8" height=3D"8" colspan=3D"2" rowspan=3D"2" style=3D"fo=
+nt-size:0px; line-height:8px;">
+                            <div style=3D"height:8px; margin:0px; padding:0=
+px;">
+                            <img src=3D"http://f.mail.barclaycard.co.uk/i/3=
+/364549267/OCT_BT_011014_bottomrightcorner.gif" alt=3D"" width=3D"8" height=
+=3D"8" style=3D"display:block; width:8px; height:8px;" />
+                            </div>
+                            </td>
+						</tr>
+						<tr>
+							<td height=3D"1" bgcolor=3D"#00A1E4" style=3D"height:1px; line-heigh=
+t:1px; font-size:1px;">
+                            <div style=3D"height:1px; margin:0px; padding:0=
+px;">
+                            <img src=3D"http://f.mail.barclaycard.co.uk/i/3=
+/364549267/OCT_BT_011014_spacer.gif" width=3D"1" height=3D"1" style=3D"disp=
+lay:block; width:10px; height:1px;" />
+                            </div>
+                            </td>
+						</tr>
+					</table>
+				</td>
+                <td class=3D"hide"></td>
+			</tr>
+        </table>
+=20=20=20=20=20=20=20=20
+<!-- minimum payments copy -->
+
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+            <tr>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"550"></td>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+            </tr>
+            <tr>
+                <td width=3D"25" class=3D"hide"></td>
+                <td class=3D"m-column" valign=3D"top">
+					<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                    	<tr>
+                            <td align=3D"left" valign=3D"top" class=3D"body=
+-copy-end" style=3D" font-family:Tahoma, Geneva, sans-serif; font-size:13px=
+; color:#686a9f; line-height:15px; padding-bottom:10px; text-align:left;">
+                          Don't forget to make your minimum payments on tim=
+e and stay within your credit limit. Otherwise the interest on your balance=
+ transfer will go back to your standard purchase rate of 19.9epay your transferred balance in full, you will incur interest on all your =
+purchases at your standard purchase rate of 19.9ou'll pay at the end of your promotional period. This applies even if you r=
+epay your monthly spend in full each month. See <a class=3D"body-copy-link"=
+ href=3D"http://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/bterms=
+c-21" target=3D"_blank" title=3D"Terms and conditions" style=3D"font-family=
+:Tahoma, Geneva, sans-serif; font-size:13px; line-height:15px; font-weight:=
+bold; color:#00A1E4; text-decoration:none;">terms and conditions</a> for de=
+tails.</td>
+                        </tr>
+					</table>
+				</td>
+                <td class=3D"hide"></td>
+			</tr>
+        </table>
+
+<!-- Nav sign off -->
+
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+            <tr>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"550" height=3D"20" style=3D"fon=
+t-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+            </tr>
+            <tr>
+                <td width=3D"25" class=3D"hide"></td>
+                <td class=3D"m-column" valign=3D"top">
+					<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+							<td bgcolor=3D"#e6e7e8" height=3D"1" align=3D"left" valign=3D"bottom=
+" style=3D"font-size:1px; line-height:1px;">
+                            <div style=3D"height:1px; margin:0px; padding:0=
+px;">
+                            <img class=3D"responsive-image" src=3D"http://f=
+.mail.barclaycard.co.uk/i/3/364549267/OCT_BT_011014_grey-keyline-550.jpg" a=
+lt=3D"" width=3D"550" height=3D"1" border=3D"0" style=3D" display:block; wi=
+dth:550px; height:1px;" />
+                            </div>
+                            </td>
+						</tr>
+						<tr>
+							<td style=3D"padding-bottom:15px; padding-top:15px;">
+                            	<table width=3D"550" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+                                	<tr>
+                                    	<td class=3D"button-cascade" align=3D"=
+left" valign=3D"middle">
+                                            <table width=3D"110" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td class=3D"nav-sign-o=
+ff" width=3D"110" align=3D"center" valign=3D"middle" style=3D" font-family:=
+Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:30px=
+;">
+                                                    <a href=3D"http://mail.=
+barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/security-21" title=3D"Secur=
+ity" style=3D"text-decoration:underline; color:#686a9f" target=3D"_blank">
+                                                    Security
+                                                    </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td class=3D"button-cascade" align=
+=3D"left" valign=3D"middle">
+                                            <table width=3D"110" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td width=3D"110" align=
+=3D"center" valign=3D"middle"  class=3D"nav-sign-off"  style=3D" font-famil=
+y:Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:30=
+px;">
+                                                    <a href=3D"http://mail.=
+barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/access-21" title=3D"Accessi=
+bility" style=3D"text-decoration:underline; color:#686a9f" target=3D"_blank=
+">
+                                                    Accessibility
+                                                    </a>=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                      <td class=3D"button-cascade" align=3D=
+"left" valign=3D"middle">
+                                            <table width=3D"110" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                    <td class=3D"nav-sign-o=
+ff" width=3D"90" align=3D"center" valign=3D"middle" style=3D" font-family:T=
+ahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:15px;=
+">
+                                                    <a href=3D"http://mail.=
+barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/privacy-21" title=3D"Privac=
+y & Cookie Policy" style=3D"text-decoration:underline; color:#686a9f" targe=
+t=3D"_blank">
+                                                    Privacy &amp; Cookie Po=
+licy
+                                                    </a>=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                      </td>
+                                      <td class=3D"button-cascade" align=3D=
+"left" valign=3D"middle">
+                                            <table width=3D"110" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+                                                <tr>
+                                                    <td width=3D"110" align=
+=3D"center" valign=3D"middle"  class=3D"nav-sign-off"  style=3D" font-famil=
+y:Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:30=
+px;">
+                                                    <a href=3D"http://mail.=
+barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/unsub1-21?email=3Dannemckay=
+@fs.net" style=3D"text-decoration:underline; color:#686a9f" title=3D"Unsubs=
+cribe" target=3D"_blank">
+                                                    Unsubscribe
+                                                    </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                      </td>
+                                        <td class=3D"button-cascade" align=
+=3D"left" valign=3D"middle">
+                                            <table width=3D"110" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+                                                <tr>
+                                                    <td width=3D"110" align=
+=3D"center" valign=3D"middle"  class=3D"nav-sign-off"  style=3D" font-famil=
+y:Tahoma, Geneva, sans-serif; font-size:13px; color:#686a9f; line-height:30=
+px;">
+                                                    <a href=3D"http://mail.=
+barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/contact-21" title=3D"Contac=
+t us" style=3D"text-decoration:underline; color:#686a9f" target=3D"_blank">
+                                                    Contact us
+                                                    </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                          </td>
+                        </tr>
+                        <tr>
+                            <td height=3D"1" bgcolor=3D"#e6e7e8" align=3D"l=
+eft" valign=3D"bottom" style=3D"font-size:1px; line-height:1px;">
+                            <div style=3D"height:1px; margin:0px; padding:0=
+px;">
+                            <img class=3D"responsive-image" src=3D"http://f=
+.mail.barclaycard.co.uk/i/3/364549267/OCT_BT_011014_grey-keyline-550.jpg" a=
+lt=3D"" width=3D"550" height=3D"1" border=3D"0" style=3D" display:block; wi=
+dth:550px; height:1px;" />
+                            </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class=3D"hide"></td>
+            </tr>
+        </table>
+
+<!-- Terms and conditions -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color=
+:#ffffff;">
+			<tr>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+                <td class=3D"hide" width=3D"550" height=3D"20"></td>
+                <td class=3D"hide" width=3D"25" height=3D"20" style=3D"font=
+-size: 1px; line-height:20px; mso-line-height-rule:exactly"></td>
+            </tr>
+			<tr>
+                <td class=3D"hide"></td>
+                <td align=3D"left" valign=3D"top">
+                    <table width=3D"550" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            <strong>Legal</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            Please do not email a response to this message.=
+ If you have a query regarding Barclaycard, please contact us at Barclaycar=
+d Customer Services on <a href=3D"tel:&lt;&lt;F6_LU&gt;&gt;" style=3D"text-=
+decoration:none; color:#a7a7a7;"><strong>0800 917 7277</strong></a>. <a hre=
+f=3D"http://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/ccharge-21=
+" title=3D"Call charges info" target=3D"_blank" style=3D"color : #00a1e4">C=
+all charges info</a>.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            Internet communications are not secure and ther=
+efore the Barclays Group does not accept legal responsibility for the conte=
+nts of this message. Although Barclays Group operates anti-virus programs, =
+it does not accept responsibility for any damage whatsoever that is caused =
+by viruses being passed.</td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            This message is confidential and intended for t=
+he addressee only. Please be aware that messages sent over the internet are=
+ not secure and should not be seen as forming a legally binding contract un=
+less otherwise stated. We will never contact you via email or via a website=
+, asking you to supply us with any security details relating to you, your c=
+redit card details, PIN, or online account servicing. For more information =
+visit <a href=3D"http://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6=
+P/personal3-21" title=3D"Barclaycard.co.uk" target=3D"_blank" style=3D"colo=
+r : #00a1e4">barclaycard.co.uk</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            <strong>Unsubscribe</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            If you do not want Barclays Bank PLC and other =
+members of the Barclays Group to send you emails about products and service=
+s (including those of others) please follow the instructions <a href=3D"htt=
+p://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/unsub2-21?email=3D=
+annemckay@fs.net" target=3D"_blank" title=3D"Unsubscribe" style=3D"color : =
+#00a1e4">here</a>.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            <strong>Email and Cookies</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            &dagger;Barclays uses cookies and similar techn=
+ologies (which we collectively call cookies) in this email. If you have ena=
+bled images, cookies may be set on your computer or mobile device. Cookies =
+will also be set if you click on any link within the email. Depending upon =
+how your computer and software are configured, these technologies may opera=
+te if we are in your safe sender list or equivalent. Cookies help us to und=
+erstand how you interact with our emails, which helps us to improve our fut=
+ure email communications. You can disable cookies in your Browser settings =
+and you can prevent some of the other technologies from operating by not en=
+abling images, or by removing Barclays from your safe sender list. To find =
+out more about cookies and these technologies in general, please follow the=
+ link below. If your email settings have disabled links in this email, you =
+can paste this address into your browser without enabling or accepting cook=
+ies: <a href=3D"http://www.barclays.com/emailcookies" title=3D"Barclays coo=
+kie policy" target=3D"_blank" style=3D"color:#00a1e4">barclays.com/emailcoo=
+kies</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:10px;">
+                            <strong>Status Disclosure</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"terms" style=3D"text-align:left; l=
+ine-height:14px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; li=
+ne-height:12px; color: #a7a7a7; padding-bottom:20px;">
+							Barclaycard is a trading name of Barclays Bank PLC. Barclays Bank PL=
+C is authorised by the Prudential Regulation Authority and regulated by the=
+ Financial Conduct Authority and the Prudential Regulation Authority (Finan=
+cial Services Register number: 122702). Barclays Bank PLC subscribes to the=
+ Lending Code which is monitored and enforced by the Lending Standards Boar=
+d. Registered in England No. 1026167. Registered Office: 1&zwnj; Churchill =
+Place, London E14 5HP.
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class=3D"hide"></td>
+            </tr>
+        </table>
+		</td>
+	</tr>
+	<tr>
+	  <td width=3D"100=3D"font-size:0; line-height:20px; mso-line-height-rule:exactly;"></td>
+   </tr>
+</table>=20=20
+
+
+
+<img src=3D"http://mail.barclaycard.co.uk/a/hBUptylAVupSTB8$VWRNsuoDe6P/spa=
+cer-21.gif">
+</body></html>=
+
+
+--=b9tpwvvavwqs6wauz12xxqcf8hub6j--
+

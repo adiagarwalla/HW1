@@ -1,0 +1,1236 @@
+From @..  Fri Jan 16 15:19:48 2015
+Return-Path: <@..>
+X-Original-To: psrwood@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id E7A22DE; Fri, 16 Jan 2015 15:19:48 +0000 (UTC)
+Received: from email.deverevenues.co.uk (email.deverevenues.co.uk [80.250.97.210])
+    by .. with SMTP id 9rchchmx55xj5bwt53t2qdpkci;
+    for psrwood@fs.net;
+    Fri, 16 Jan 2015 15:19:48 +0000 (UTC)
+    (envelope-from bounce-75571125-146017324@email.deverevenues.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=80.250.97.210;
+    envelope-from=<bounce-75571125-146017324@email.deverevenues.co.uk>;
+    helo=email.deverevenues.co.uk; mechanism=mx
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=80.250.97.210; client-port=8677;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.44 129.250.4.165 129.250.3.85
+    129.250.6.177 129.250.4.125 129.250.5.197 129.250.4.134 83.231.146.190
+    81.91.96.81; network-path-time=1421421588
+DKIM-Signature: v=1; a=rsa-sha256; d=email.deverevenues.co.uk; s=devere2013; c=relaxed/relaxed;
+	q=dns/txt; i=@email.deverevenues.co.uk; t=1421421998;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=6vET3R+jKif/VKWDy70LT7smWCb/Q7uPLOegOtsL2lQ=;
+	b=w52FzI+HZhw2nZPOkFA7MzBwP1pOPQLK1CFo93IqfnWtwsyb7IH9J6E6inwWm+RC
+	3+2dTIGjLo5+liuCvXz4E9B13W7clhegvwQYu18R+ah2x0FWDW51Pna9CJT+VLry
+	FqveDCcmDkL+WHiGob0nfrpYUv0afyaz1vwBj/oF3gs=;
+Received: from [192.168.124.84] ([192.168.124.84:32923] helo=email.deverevenues.co.uk)
+	by cm-apps.co.uk (envelope-from <bounce-75571125-146017324@email.deverevenues.co.uk>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id 32/1D-13969-DAD29B45; Fri, 16 Jan 2015 15:26:38 +0000
+From: "De Vere Venues" <@..>
+To: @..
+Subject: Introducing The Roxburghe, Edinburgh
+Date: Fri, 16 Jan 2015 13:39:53 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:leave-75571125-146017324.5d449c5833e27ca7c3ae26971b02c126@email.deverevenues.co.uk>
+Message-ID: <LYRIS-146017324-75571125-2015.01.16-13.39.58--psrwood#fs.net@email.deverevenues.co.uk>
+CM-Message-ID: <LYRIS-146017324-75571125-2015.01.16-13.40.35--psrwood#fs.net@email.deverevenues.co.uk>
+
+<html>
+=
+
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<style type=3D"text/css">
+.ReadMsgBody, .ExternalClass { width: 100.ExternalClass * {line-height: 120body { width: 100e-adjust: 100table { border-collapse:collapse !important; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; }
+sup, sub { vertical-align: baseline; position: relative; top: -0.4em; font-=
+size:85.MsoHyperlinkFollowed { color:inherit!important; }
+
+
+/*iPhone link fix*/
+span > a { color:inherit!important; text-decoration: none; } /*Doesn't work=
+ on windows phone - apply a colour to the span inline as well, or add a cla=
+ss higher up in the DOM tree, and apply class-bound colours like the fix be=
+low*/
+.footer span > a { color:#333333!important; } /*Applied to any links inside=
+ the .footer element when wrapped inside a span*/
+
+
+/*CREATOR Responsive Framework Version 2.1*/
+@media only screen and (max-width: 480px) {
+/*Set to the width and padding of the mobile design*/
+/*Use this on the outer fixed-width tables ONLY. Anything inside this shoul=
+d be 'width-100' */
+table[class*=3D"MainTable"] { width:320px!important; }
+*[class*=3D"main-padding"] { padding:0px 10px!important; }
+
+
+/*Essential framework for responsive emails*/
+/*GENERAL SETTINGS*/ *[class*=3D"hide"], *[class*=3D"hide"] * { display:non=
+e!important; max-height:0!important; max-width:0!important; height:0!import=
+ant; width:0px!important; padding-top:0!important; padding-right:0!importan=
+t; padding-left:0!important; padding-bottom:0!important; margin:0!important=
+; visibility:hidden!important; line-height:0px!important; font-size:0px!imp=
+ortant; background:none!important; } *[class*=3D"show"], *[class*=3D"show"]=
+ * { display:block!important; visibility:visible!important; height:auto!imp=
+ortant; width:auto!important; max-height:none!important; min-height:none!im=
+portant; max-width:none!important; min-width:none!important; line-height:12=
+0e!important; } *[class*=3D"float-right"] { float:right !important; clear:no=
+ne!important; }
+/*RESET FLOATS*/ *[class*=3D"block"], *[class*=3D"drop"], *[class*=3D"drop"=
+] tbody, *[class*=3D"drop"] table, *[class*=3D"drop"] tr { float:none!impor=
+tant; clear:both!important; width:100lay:block!important; }
+/*POSITIONING*/ *[class*=3D"center"] { text-align:center!important;} *[clas=
+s*=3D"align-left"] { text-align:left!important; } *[class*=3D"align-right"]=
+ { text-align:right!important; } *[class*=3D"absolute"] { position:absolute=
+!important; }
+/*DISPLAY RESETS*/ table[class*=3D"block"], table[class*=3D"show"], table[c=
+lass*=3D"drop"], *[class*=3D"drop"] table, *[class*=3D"drop"] tbody { displ=
+ay:table!important; }
+tr[class*=3D"block"], tr[class*=3D"show"], tr[class*=3D"drop"], *[class*=3D=
+"drop"] tr { display:table-row!important; }
+td[class*=3D"block"], td[class*=3D"show"], *[class*=3D"drop"] td { display:=
+table-cell!important; }
+*[class*=3D"center"] img, img[class*=3D"center"], *[class*=3D"align-left"] =
+img, img[class*=3D"align-left"], *[class*=3D"align-right"] img, img[class*=
+=3D"align-right"] { display:inline-block!important;}
+*[class*=3D"center"] table.center, *[class*=3D"align-right"] > table, *[cla=
+ss*=3D"align-left"] > table { display:inline-table!important; }
+
+/*Optional settings for responsive emails*/
+/*GENERAL STYLES*/ *[class*=3D"border-none"] { border:none !important; }
+*[class*=3D"spacer"] { width:1px!important; height:1px!important; display:b=
+lock!important; content:url(http://cslb.creatormail.co.uk/sites/general/spa=
+cer.gif); } *[class*=3D"background-none"] { background:transparent!importan=
+t; }
+*[class*=3D"background-image-none"] { background-image:none!important; } *[=
+class*=3D"bold"] { font-weight:bold!important; } *[class*=3D"no-bold"] { fo=
+nt-weight:normal!important; }
+
+/*TEXT SIZES*/ *[class*=3D"text-size"] { line-height:120ass*=3D"text-size-10px"] { font-size:10px!important; }
+*[class*=3D"text-size-11px"] { font-size:11px!important; } *[class*=3D"text=
+-size-12px"] { font-size:12px!important; }
+*[class*=3D"text-size-13px"] { font-size:13px!important; } *[class*=3D"text=
+-size-14px"] { font-size:14px!important; }
+*[class*=3D"text-size-15px"] { font-size:15px!important; } *[class*=3D"text=
+-size-16px"] { font-size:16px!important; }
+*[class*=3D"text-size-17px"] { font-size:17px!important; } *[class*=3D"text=
+-size-18px"] { font-size:18px!important; }
+*[class*=3D"text-size-19px"] { font-size:19px!important; } *[class*=3D"text=
+-size-20px"] { font-size:20px!important; }
+*[class*=3D"text-size-21px"] { font-size:21px!important; } *[class*=3D"text=
+-size-22px"] { font-size:22px!important; }
+*[class*=3D"text-size-23px"] { font-size:23px!important; } *[class*=3D"text=
+-size-24px"] { font-size:24px!important; }
+*[class*=3D"text-size-25px"] { font-size:25px!important; } *[class*=3D"text=
+-size-26px"] { font-size:26px!important; }
+*[class*=3D"text-size-27px"] { font-size:27px!important; } *[class*=3D"text=
+-size-28px"] { font-size:28px!important; }
+*[class*=3D"text-size-29px"] { font-size:29px!important; } *[class*=3D"text=
+-size-30px"] { font-size:30px!important; }
+
+
+/*WIDTHS*/ *[class*=3D"width-100"], table[class*=3D"width-100"] { width:100=
+*[class*=3D"width-90"], table[class*=3D"width-90"] { width:90eight:auto!important; }
+*[class*=3D"width-80"], table[class*=3D"width-80"] { width:80eight:auto!important; }
+*[class*=3D"width-70"], table[class*=3D"width-70"] { width:70eight:auto!important; }
+*[class*=3D"width-60"], table[class*=3D"width-60"] { width:60eight:auto!important; }
+*[class*=3D"width-50"], table[class*=3D"width-50"] { width:50eight:auto!important; }
+*[class*=3D"width-0"], table[class*=3D"width-0"] { width:0px!important; hei=
+ght:auto!important; }
+*[class*=3D"width-auto"], table[class*=3D"width-auto"]  { width:auto!import=
+ant; }
+*[class*=3D"height-auto"], table[class*=3D"height-auto"] { height:auto!impo=
+rtant; }
+
+
+/*PADDING - ALL*/ *[class*=3D"padding-0"] { padding:0!important; } *[class*=
+=3D"padding-5"] { padding:5px!important; }
+*[class*=3D"padding-10"] { padding:10px!important; } *[class*=3D"padding-15=
+"] { padding:15px !important; }
+*[class*=3D"padding-20"] { padding:20px !important; } *[class*=3D"padding-3=
+0"] { padding:30px !important; }
+/*PADDING - HORIZONTAL*/ *[class*=3D"padding-horz-0"] { padding-left:0px !i=
+mportant; padding-right:0px !important; }
+*[class*=3D"padding-horz-5"] { padding-left:5px !important; padding-right:5=
+px !important; }
+*[class*=3D"padding-horz-10"] { padding-left:10px !important; padding-right=
+:10px !important; }
+*[class*=3D"padding-horz-15"] { padding-left:15px !important; padding-right=
+:15px !important; }
+*[class*=3D"padding-horz-20"] { padding-left:20px !important; padding-right=
+:20px !important; }
+*[class*=3D"padding-horz-30"] { padding-left:30px !important; padding-right=
+:30px !important; }
+/*PADDING - VERTICAL*/ *[class*=3D"padding-vert-0"] { padding-top:0px!impor=
+tant; padding-bottom:0px!important; }
+*[class*=3D"padding-vert-5"] { padding-top:5px!important; padding-bottom:5p=
+x!important; }
+*[class*=3D"padding-vert-10"] { padding-top:10px!important; padding-bottom:=
+10px!important; }
+*[class*=3D"padding-vert-15"] { padding-top:15px!important; padding-bottom:=
+15px!important; }
+*[class*=3D"padding-vert-20"] { padding-top:20px!important; padding-bottom:=
+20px!important; }
+*[class*=3D"padding-vert-30"] { padding-top:30px!important; padding-bottom:=
+30px!important; }
+/*PADDING - RIGHT*/ *[class*=3D"padding-right-0"] { padding-right:0px !impo=
+rtant; }
+*[class*=3D"padding-right-5"] { padding-right:5px !important; } *[class*=3D=
+"padding-right-10"] { padding-right:10px !important; }
+*[class*=3D"padding-right-15"] { padding-right:15px !important; } *[class*=
+=3D"padding-right-20"] { padding-right:20px !important; }
+*[class*=3D"padding-right-30"] { padding-right:30px !important; }
+/*PADDING - LEFT*/ *[class*=3D"padding-left-0"] { padding-left:0px !importa=
+nt; }
+*[class*=3D"padding-left-5"] { padding-left:5px !important; } *[class*=3D"p=
+adding-left-10"] { padding-left:10px !important; }
+*[class*=3D"padding-left-15"] { padding-left:15px !important; } *[class*=3D=
+"padding-left-20"] { padding-left:20px !important; }
+*[class*=3D"padding-left-30"] { padding-left:30px !important; }
+/*PADDING - TOP*/ *[class*=3D"padding-top-0"] { padding-top:0px!important; =
+} *[class*=3D"padding-top-5"] { padding-top:5px!important;}
+*[class*=3D"padding-top-10"] { padding-top:10px!important; } *[class*=3D"pa=
+dding-top-15"] { padding-top:15px!important; }
+*[class*=3D"padding-top-20"] { padding-top:20px!important; } *[class*=3D"pa=
+dding-top-30"] { padding-top:30px!important; }
+/*PADDING - BOTTOM*/ *[class*=3D"padding-bottom-0"] { padding-bottom:0px!im=
+portant; }
+*[class*=3D"padding-bottom-5"] { padding-bottom:5px!important; } *[class*=
+=3D"padding-bottom-10"] { padding-bottom:10px !important; }
+*[class*=3D"padding-bottom-15"] { padding-bottom:15px !important; } *[class=
+*=3D"padding-bottom-20"] { padding-bottom:20px !important; }
+*[class*=3D"padding-bottom-30"] { padding-bottom:30px !important; }
+
+
+
+
+
+/**Styles Specific to this Email **/
+
+
+*[class*=3D"logo-width-56"] { width:56px!important; height:auto!important; =
+}
+
+*[class*=3D"bg-grey"] { background-color:#f3f3f3!important; }
+
+*[class*=3D"mobile-img-1"] { width:320px!important; height:240px!important;=
+ content:url('http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newslette=
+r/01Jan/20150115/mob_main2.jpg')!important; }
+
+*[class*=3D"mobile-img-2"] { width:100content:url('http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter=
+/01Jan/20150115/mob_leisure.jpg')!important; }
+
+*[class*=3D"main-shadow"] { width:320px !important; height:8px!important; c=
+ontent:url('http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/=
+01Jan/20150108/mob_main_shd.jpg')!important; }
+
+*[class*=3D"mob-stay-img"] {width:100}
+
+
+}
+
+
+/**Styles un-encoded, for pick-up by intellisense**/
+.MainTable, .main-padding, .hide, .show, .float-left, .float-right, .drop, =
+.block, .center, .align-left, .align-right, .background-none, .no-bold, .bo=
+ld, .background-image-none, .border-none, .spacer, .text-size-10px, .text-s=
+ize-11px, .text-size-12px, .text-size-13px, .text-size-14px, .text-size-15p=
+x, .text-size-16px, .text-size-17px, .text-size-18px, .text-size-19px, .tex=
+t-size-20px, .text-size-21px, .text-size-22px, .text-size-23px, .text-size-=
+24px, .text-size-25px, .text-size-26px, .text-size-27px, .text-size-28px, .=
+text-size-29px, .text-size-30px, .width-90, .width-100, .width-auto, .heigh=
+t-auto, .width-0, .width-60, .width-70, .width-80, .width-50, .padding-0, .=
+padding-5, .padding-10, .padding-15, .padding-20, .padding-30, .padding-rig=
+ht-0, .padding-right-5,=20
+.padding-right-10, .padding-right-15, .padding-right-20, .padding-right-30,=
+ .padding-left-0, .padding-left-5, .padding-left-10, .padding-left-15, .pad=
+ding-left-20, .padding-left-30, .padding-top-0, .padding-top-5, .padding-to=
+p-10, .padding-top-15, .padding-top-20, .padding-top-30, .padding-bottom-0,=
+ .padding-bottom-5, .padding-bottom-10, .padding-bottom-15, .padding-bottom=
+-20, .padding-bottom-30, .padding-vert-0, .padding-vert-5, .padding-vert-10=
+, .padding-vert-15, .padding-vert-20, .padding-vert-30, .padding-horz-0, .p=
+adding-horz-5, .padding-horz-10, .padding-horz-15, .padding-horz-20, .paddi=
+ng-horz-30 { animation:none; }
+</style>
+
+<!--subject:  -->
+</head>
+<body bgcolor=3D"#FFFFFF" style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size: 14px;" marginwidth=3D"0" marginheight=3D"0">
+<table bgcolor=3D"#FFFFFF" width=3D"100border=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center"><table width=3D"100=3D"0" border=3D"0" cellpadding=3D"0">
+        <tr>
+          <td valign=3D"top" align=3D"center"><table width=3D"600" cellspac=
+ing=3D"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0" align=3D"cente=
+r">
+              <tr>
+                <td style=3D"padding:10px 0;" valign=3D"top" align=3D"left"=
+><table width=3D"100                    <tr>
+                      <td style=3D"font-family:'Lucida Sans', 'Lucida Sans =
+Unicode', 'Lucida Grande', arial, sans-serif; color:#595959; font-size:13px=
+; line-height:20px; mso-line-height-rule: exactly;" valign=3D"top" align=3D=
+"left">Introducing  our sister hotel, The Roxburghe</td>
+                      <td style=3D"font-family:'Lucida Sans', 'Lucida Sans =
+Unicode', 'Lucida Grande', arial, sans-serif; color:#595959; font-size:13px=
+; line-height:20px; mso-line-height-rule: exactly;" valign=3D"top" align=3D=
+"right"><a style=3D"color:#1767a9; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/12620/4/?6299e5a7=3DaH=
+R0cDovL2VtYWlsLmRldmVyZXZlbnVlcy5jby51ay9yZWFkL2FyY2hpdmUpZD0xNDYwMTczMjQmZT1wc3J3b29kJTQwZnMlMmVuZXQmeD1mNzU4MWNhMwf97=
+">View online</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <!--INBOX MIN-WIDTH FIX - DO NOT REMOVE - MAKE SURE THESE SPA=
+CERS ADD UP TO THE WIDTH OF YOUR EMAIL-->
+              <tr class=3D"hide">
+                <td style=3D"min-width:600px;" valign=3D"top" align=3D"left=
+"><table width=3D"100                    <tr>
+                      <td width=3D"300" style=3D"font-size:0px; line-height=
+:0px;" valign=3D"top" align=3D"left"><img width=3D"300" src=3D"http://cslb.=
+creatormail.co.uk/sites/general/large_spacer.gif" style=3D"display:block" h=
+eight=3D"1" alt=3D"" border=3D"0"></td>
+                      <td width=3D"300" style=3D"font-size:0px; line-height=
+:0px;" valign=3D"top" align=3D"left"><img width=3D"300" src=3D"http://cslb.=
+creatormail.co.uk/sites/general/large_spacer.gif" style=3D"display:block" h=
+eight=3D"1" alt=3D"" border=3D"0"></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <!--/INBOX MIN-WIDTH FIX - DO NOT REMOVE - MAKE SURE THESE SP=
+ACERS ADD UP TO THE WIDTH OF YOUR EMAIL-->
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width=3D"100  <tr>
+    <td valign=3D"top" align=3D"center"><table width=3D"600" cellspacing=3D=
+"0" border=3D"0" class=3D"MainTable" cellpadding=3D"0" align=3D"center">
+        <tr>
+          <td style=3D"padding:0px 0 20px 0;" valign=3D"top" align=3D"left"=
+><table width=3D"100              <tr>
+                <td valign=3D"top" align=3D"left"><table width=3D"100lspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td bgcolor=3D"#DFDBDF" style=3D"padding:1px;" valign=
+=3D"top" class=3D"padding-0" align=3D"left"><table bgcolor=3D"#f3f3f3" widt=
+h=3D"100=3D"0">
+                          <tr>
+                            <td style=3D"padding:20px 0;" valign=3D"top" cl=
+ass=3D"padding-0" align=3D"center"><table width=3D"560" cellspacing=3D"0" c=
+lass=3D"width-100" border=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td bgcolor=3D"#DFDBDF" style=3D"padding:=
+1px;" valign=3D"top" class=3D"padding-0" align=3D"left"><table bgcolor=3D"#=
+ffffff" width=3D"100                                      <tr>
+                                        <td style=3D"padding:0 0 20px 0;" v=
+align=3D"top" align=3D"center"><table width=3D"520" cellspacing=3D"0" class=
+=3D"width-100" border=3D"0" cellpadding=3D"0">
+                                            <tr>
+                                              <td style=3D"padding:20px 0;"=
+ valign=3D"top" class=3D"padding-horz-20" align=3D"left"><table width=3D"10=
+0                                                  <tr>
+                                                    <td width=3D"85" valign=
+=3D"top" class=3D"logo-width-56" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354461/5/?97bc490b=
+=3DaHR0cDovL3d3dy5kZXZlcmV2ZW51ZXMuY28udWsvZW4vP3V0bV9zb3VyY2U9Q3JlYXRvcm1h=
+aWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ=
+1dG1fY2FtcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3D77c27ca4=
+"><img width=3D"85" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015/=
+B2B_Newsletter/01Jan/20150108/deVere-logo.jpg" alt=3D"" style=3D"display:bl=
+ock;" height=3D"85" class=3D"logo-width-56" border=3D"0" /></a></td>
+                                                    <td valign=3D"middle" a=
+lign=3D"left"><table width=3D"100ing=3D"0">
+                                                        <tr>
+                                                          <td style=3D"colo=
+r:#4b9630; font-size:30px; line-height:35px; font-family:'Lucida Sans', 'Lu=
+cida Sans Unicode', 'Lucida Grande', arial, sans-serif; padding: 0 0 0 20px=
+; mso-line-height-rule: exactly;" valign=3D"top" class=3D"text-size-24px pa=
+dding-left-20" align=3D"left"><em><strong>Two Edinburgh locations, one grea=
+t rate</strong></em></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td valign=3D"top" align=3D"l=
+eft"><table width=3D"100 cellpadding=3D"0">
+                                                  <tr>
+                                                    <td valign=3D"top" alig=
+n=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355014/6/?365e8a0f=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoY29uZmVy=
+ZW5jZW9mZmVyLz91dG1fc291cmNlPUNyZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2N=
+vbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk=
+9VUkhHRUIyQg"><img width=3D"520" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015=
+/B2B_Newsletter/01Jan/20150115/main2.jpg" alt=3D"" style=3D"display:block;"=
+ height=3D"249" border=3D"0" class=3D"mobile-img-1" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td style=3D"font-size:=
+13px; line-height:17px; color:#595959; font-family:'Lucida Sans', 'Lucida S=
+ans Unicode', 'Lucida Grande', arial, sans-serif; padding:18px 0; mso-line-=
+height-rule: exactly;" valign=3D"top" class=3D"padding-horz-20" align=3D"le=
+ft"><span style=3D"color:#595959"> To celebrate the launch of <a style=3D"c=
+olor:#595959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354488/7/?eb645e8a=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbT91dG1fc291cmNlPUNyZWF0b3JtYWls=
+JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXR=
+tX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">PH Hotels</a> second award winning Edinburgh hotel, <a style=3D"color:#59=
+5959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/8/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3D74d6b585=
+">The&nbsp;Roxburghe</a>, we&rsquo;ve got a great offer for this capital lo=
+cation.<br>
+                                                      <br>
+                                                      Book now for new even=
+ts before 31st March 2015, either at <a style=3D"color:#595959; text-decora=
+tion:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355010/9/?aac7dcc6=
+=3DaHR0cDovL3d3dy50aGVnZW9yZ2Vob3RlbGVkaW5idXJnaC5jby51az91dG1fc291cmNlPUNy=
+ZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8=
+xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">The George Hotel</a> or <a style=3D"color:#595959; text-decoration:underl=
+ine;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/10/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3D3e114506=
+">The&nbsp;Roxburghe</a>, and take advantage of the 8 hour package from &po=
+und;29pp* +VAT or a 24 hour package  from &pound;119pp* +VAT.<br>
+                                                      <br>
+                                                      With two exclusive bu=
+siness destinations in the heart of the city centre, <a style=3D"color:#595=
+959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354488/11/?eb645e8a=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbT91dG1fc291cmNlPUNyZWF0b3JtYWls=
+JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXR=
+tX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">PH Hotels</a> has got Edinburgh covered. Whether it&rsquo;s a big annual =
+event, an evening of glitz and glamour or an executive board meeting, with =
+expert teams, stunning surroundings and flexible event space for up to 300,=
+ Edinburgh events have never looked so good.</span></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td style=3D"padding:0 =
+0 27px 0;" valign=3D"top" class=3D"padding-horz-20" align=3D"left"><table c=
+ellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                                        <tr>
+                                                          <td width=3D"5" v=
+align=3D"top" align=3D"left"><img width=3D"5" src=3D"http://cslb.creatormai=
+l.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_lg_l.png" alt=
+=3D"" style=3D"display:block;" height=3D"37" border=3D"0" /></td>
+                                                          <td valign=3D"top=
+" align=3D"left"><table width=3D"100adding=3D"0">
+                                                              <tr>
+                                                                <td width=
+=3D"113" bgcolor=3D"#14527f" background=3D"http://cslb.creatormail.co.uk/si=
+tes/devere/2015/B2B_Newsletter/01Jan/20150108/btn_lg_bg.png" valign=3D"top"=
+ height=3D"35"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:113px;height:35px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/devere=
+/2015/B2B_Newsletter/01Jan/20150108/btn_lg_bg.png" color=3D"#14527f" />
+    <v:textbox inset=3D"0,0,0,0">
+  <![endif]-->
+                                                                 =20
+                                                                  <div>
+                                                                    <table =
+width=3D"100                                                                      <tr>
+                                                                        <td=
+ width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"top" heigh=
+t=3D"35" align=3D"left"><img width=3D"1" src=3D"http://cslb.creatormail.co.=
+uk/sites/devere/2013/general/spacer.gif" style=3D"display:block;" height=3D=
+"35" alt=3D"" border=3D"0" /></td>
+                                                                        <td=
+ style=3D"font-family:'Lucida Sans Unicode', 'Lucida Grande', arial, sans-s=
+erif; color:#ffffff; font-size:15px; line-height:15px; mso-line-height-rule=
+: exactly;" valign=3D"middle" align=3D"center"><a style=3D"color:#ffffff; t=
+ext-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355014/12/?365e8a0f=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoY29uZmVy=
+ZW5jZW9mZmVyLz91dG1fc291cmNlPUNyZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2N=
+vbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk=
+9VUkhHRUIyQg">Book now</a></td>
+                                                                      </tr>
+                                                                    </table=
+>
+                                                                  </div>
+                                                                 =20
+                                                                  <!--[if g=
+te mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+                                                              </tr>
+                                                              <tr>
+                                                                <td style=
+=3D"font-size:0px; line-height:0px;" valign=3D"top" align=3D"left"><img wid=
+th=3D"113" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsl=
+etter/01Jan/20150108/btn_lg_shd.png" alt=3D"" style=3D"display:block;" heig=
+ht=3D"2" border=3D"0" /></td>
+                                                              </tr>
+                                                            </table></td>
+                                                          <td width=3D"8" v=
+align=3D"top" align=3D"left"><img width=3D"7" src=3D"http://cslb.creatormai=
+l.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_lg_r.png" alt=
+=3D"" style=3D"display:block;" height=3D"37" border=3D"0" /></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td valign=3D"top" align=3D"l=
+eft"><table width=3D"100>
+                                                  <tr>
+                                                    <td valign=3D"top" clas=
+s=3D"padding-top-20" align=3D"left"><table bgcolor=3D"#f3f3f3" width=3D"249=
+" cellspacing=3D"0" class=3D"block" border=3D"0" align=3D"left" cellpadding=
+=3D"0">
+                                                        <tr>
+                                                          <td valign=3D"top=
+" class=3D"padding-horz-20" align=3D"left"><table bgcolor=3D"#f3f3f3" width=
+=3D"100                                                              <tr>
+                                                                <td valign=
+=3D"top" align=3D"left"><table width=3D"100" cellpadding=3D"0">
+                                                                    <tr>
+                                                                      <td s=
+tyle=3D"padding:10px 0 10px 10px;" valign=3D"top" class=3D"padding-horz-0" =
+align=3D"left"><table width=3D"100ding=3D"0">
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"color:#4b9630;font-size:18px; line-height:22px; font-family:'=
+Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-serif; pa=
+dding:0 0 5px 0; mso-line-height-rule: exactly;" valign=3D"top" align=3D"le=
+ft"><em><a style=3D"color:#4b9630; text-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355010/13/?aac7dcc6=
+=3DaHR0cDovL3d3dy50aGVnZW9yZ2Vob3RlbGVkaW5idXJnaC5jby51az91dG1fc291cmNlPUNy=
+ZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8=
+xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">The George Hotel</a></em></td>
+                                                                          <=
+/tr>
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"color:#666666;font-size:13px; line-height:17px; font-family:'=
+Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-serif; ms=
+o-line-height-rule: exactly;" valign=3D"top" align=3D"left"><span style=3D"=
+color:#666666;">
+                                                                     <em>Ed=
+inburgh Events Hotel of the Year</em>
+                                                                     </span=
+>
+                                                                     </td>
+                                                                          <=
+/tr>
+                                                                        </t=
+able></td>
+                                                                    </tr>
+                                                                  </table><=
+/td>
+                                                              </tr>
+                                                              <tr>
+                                                                <td valign=
+=3D"top" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355014/14/?365e8a0f=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoY29uZmVy=
+ZW5jZW9mZmVyLz91dG1fc291cmNlPUNyZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2N=
+vbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk=
+9VUkhHRUIyQg"><img width=3D"249" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015=
+/B2B_Newsletter/01Jan/20150115/george2.jpg" alt=3D"" style=3D"display:block=
+;" height=3D"141" class=3D"mob-stay-img" border=3D"0" /></a></td>
+                                                              </tr>
+                                                              <tr>
+                                                                <td valign=
+=3D"top" align=3D"left"><table width=3D"100" cellpadding=3D"0">
+                                                                    <tr>
+                                                                      <td s=
+tyle=3D"padding:10px 5px 10px 10px;" valign=3D"top" class=3D"padding-horz-0=
+" align=3D"left"><table width=3D"100adding=3D"0">
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"color:#595959; font-size:13px; line-height:17px; font-family:=
+'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-serif; m=
+so-line-height-rule: exactly;" valign=3D"top" align=3D"left">Meet at <a sty=
+le=3D"color:#595959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355010/15/?aac7dcc6=
+=3DaHR0cDovL3d3dy50aGVnZW9yZ2Vob3RlbGVkaW5idXJnaC5jby51az91dG1fc291cmNlPUNy=
+ZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8=
+xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">The George Hotel</a> in the iconic King&rsquo;s Hall for large events wit=
+h a capacity of 300 delegates, the&nbsp;elegant George Suite with seating f=
+or&nbsp;100 or the unique Panorama suite, with breath taking views across E=
+dinburgh, ideal for boardroom meetings and private dining. </td>
+                                                                           =
+ <td width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"top" h=
+eight=3D"160" class=3D"height-auto" align=3D"left"><img width=3D"1" src=3D"=
+http://cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=
+=3D"display:block;" height=3D"160" alt=3D"" class=3D"hide" border=3D"0" /><=
+/td>
+                                                                          <=
+/tr>
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"padding:15px 0 8px 0;" valign=3D"top" align=3D"left"><table c=
+ellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                                                           =
+     <tr>
+                                                                           =
+       <td width=3D"5" valign=3D"top" align=3D"left"><img width=3D"5" src=
+=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20=
+150108/btn_s_l.jpg" alt=3D"" style=3D"display:block;" height=3D"31" border=
+=3D"0" /></td>
+                                                                           =
+       <td valign=3D"top" align=3D"left"><table width=3D"100=3D"0" border=3D"0" cellpadding=3D"0">
+                                                                           =
+           <tr>
+                                                                           =
+             <td width=3D"134" bgcolor=3D"#14527f" background=3D"http://csl=
+b.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_s_b=
+g.jpg" valign=3D"top" height=3D"29"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:134px;height:29px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/devere=
+/2015/B2B_Newsletter/01Jan/20150108/btn_s_bg.jpg" color=3D"#14527f" />
+    <v:textbox inset=3D"0,0,0,0">
+  <![endif]-->
+                                                                           =
+              =20
+                                                                           =
+               <div>
+                                                                           =
+                 <table width=3D"100adding=3D"0">
+                                                                           =
+                   <tr>
+                                                                           =
+                     <td width=3D"1" style=3D"font-size:0px; line-height:0p=
+x;" valign=3D"top" height=3D"29" align=3D"left"><img width=3D"1" src=3D"htt=
+p://cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"d=
+isplay:block;" height=3D"29" alt=3D"" border=3D"0" /></td>
+                                                                           =
+                     <td style=3D"font-family:'Lucida Sans Unicode', 'Lucid=
+a Grande', arial, sans-serif; color:#ffffff; font-size:15px; line-height:15=
+px; mso-line-height-rule: exactly;" valign=3D"middle" align=3D"center"><a s=
+tyle=3D"color:#ffffff; text-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355010/16/?aac7dcc6=
+=3DaHR0cDovL3d3dy50aGVnZW9yZ2Vob3RlbGVkaW5idXJnaC5jby51az91dG1fc291cmNlPUNy=
+ZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8=
+xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">Find&nbsp;out&nbsp;more</a></td>
+                                                                           =
+                   </tr>
+                                                                           =
+                 </table>
+                                                                           =
+               </div>
+                                                                           =
+              =20
+                                                                           =
+               <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+                                                                           =
+           </tr>
+                                                                           =
+           <tr>
+                                                                           =
+             <td style=3D"font-size:0px; line-height:0px;" valign=3D"top" a=
+lign=3D"left"><img width=3D"134" src=3D"http://cslb.creatormail.co.uk/sites=
+/devere/2015/B2B_Newsletter/01Jan/20150108/btn_s_shd.jpg" alt=3D"" style=3D=
+"display:block;" height=3D"2" border=3D"0" /></td>
+                                                                           =
+           </tr>
+                                                                           =
+         </table></td>
+                                                                           =
+       <td width=3D"8" valign=3D"top" align=3D"left"><img width=3D"7" src=
+=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20=
+150108/btn_s_r.jpg" alt=3D"" style=3D"display:block;" height=3D"31" border=
+=3D"0" /></td>
+                                                                           =
+     </tr>
+                                                                           =
+   </table></td>
+                                                                           =
+ <td width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"top" h=
+eight=3D"1" align=3D"left"><img width=3D"1" src=3D"http://cslb.creatormail.=
+co.uk/sites/devere/2013/general/spacer.gif" style=3D"display:block;" height=
+=3D"1" alt=3D"" border=3D"0" /></td>
+                                                                          <=
+/tr>
+                                                                        </t=
+able></td>
+                                                                    </tr>
+                                                                  </table><=
+/td>
+                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table>
+                                                      <table width=3D"249" =
+cellspacing=3D"0" class=3D"block" border=3D"0" align=3D"right" cellpadding=
+=3D"0">
+                                                        <tr>
+                                                          <td bgcolor=3D"#f=
+fffff" valign=3D"top" class=3D"padding-top-20" align=3D"left"><table bgcolo=
+r=3D"#f3f3f3" width=3D"1000">
+                                                              <tr>
+                                                                <td valign=
+=3D"top" class=3D"padding-horz-20" align=3D"left"><table bgcolor=3D"#f3f3f3=
+" width=3D"100=3D"right" cellpadding=3D"0">
+                                                                    <tr>
+                                                                      <td s=
+tyle=3D"padding:10px 0 10px 10px;" valign=3D"top" class=3D"padding-horz-0" =
+align=3D"left"><table width=3D"100ding=3D"0">
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"color:#4b9630;font-size:18px; line-height:22px; font-family:'=
+Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-serif; pa=
+dding:0 0 5px 0; mso-line-height-rule: exactly;" valign=3D"top" align=3D"le=
+ft"><em><a style=3D"color:#4b9630; text-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/17/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3D2408cef1=
+">The Roxburghe</a></em></td>
+                                                                          <=
+/tr>
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"color:#666666;font-size:13px; line-height:17px; font-family:'=
+Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-serif; ms=
+o-line-height-rule: exactly;" valign=3D"top" align=3D"left"><span style=3D"=
+color:#666666;">
+                                                                           =
+ <em>Edinburgh Hotel of the Year</em>
+                                                                           =
+ </span>
+                                                                           =
+ </td>
+                                                                          <=
+/tr>
+                                                                        </t=
+able></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                      <td v=
+align=3D"top" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355014/18/?365e8a0f=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoY29uZmVy=
+ZW5jZW9mZmVyLz91dG1fc291cmNlPUNyZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2N=
+vbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk=
+9VUkhHRUIyQg"><img width=3D"249" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015=
+/B2B_Newsletter/01Jan/20150115/roxburghe2.jpg" alt=3D"" style=3D"display:bl=
+ock;" height=3D"141" class=3D"mob-stay-img" border=3D"0" /></a></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                      <td v=
+align=3D"top" align=3D"left"><table width=3D"100=3D"0" cellpadding=3D"0">
+                                                                          <=
+tr>
+                                                                           =
+ <td style=3D"padding:10px 5px 10px 10px;" valign=3D"top" class=3D"padding-=
+horz-0" align=3D"left"><table width=3D"100 cellpadding=3D"0">
+                                                                           =
+     <tr>
+                                                                           =
+       <td style=3D"color:#595959; font-size:13px; line-height:17px; font-f=
+amily:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial, sans-se=
+rif; mso-line-height-rule: exactly;" valign=3D"top" align=3D"left">At <a st=
+yle=3D"color:#595959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/19/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3D674c9553=
+">The Roxburghe</a> you can choose from 7 naturally-lit meeting rooms and e=
+vent spaces whether it&rsquo;s for 6 or 300 delegates including the grand G=
+eorge Suite, with its dedicated entrance and flexible break out space in th=
+e glazed courtyard, The Atrium.</td>
+                                                                           =
+       <td width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"=
+top" height=3D"160" class=3D"height-auto" align=3D"left"><img width=3D"1" s=
+rc=3D"http://cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" s=
+tyle=3D"display:block;" height=3D"160" alt=3D"" class=3D"hide" border=3D"0"=
+ /></td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+       <td style=3D"padding:15px 0 8px 0;" valign=3D"top" align=3D"left"><t=
+able cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                                                           =
+           <tr>
+                                                                           =
+             <td width=3D"5" valign=3D"top" align=3D"left"><img width=3D"5"=
+ src=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Ja=
+n/20150108/btn_s_l.jpg" alt=3D"" style=3D"display:block;" height=3D"31" bor=
+der=3D"0" /></td>
+                                                                           =
+             <td valign=3D"top" align=3D"left"><table width=3D"100acing=3D"0" border=3D"0" cellpadding=3D"0">
+                                                                           =
+                 <tr>
+                                                                           =
+                   <td width=3D"134" bgcolor=3D"#14527f" background=3D"http=
+://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/b=
+tn_s_bg.jpg" valign=3D"top" height=3D"29"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:134px;height:29px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/devere=
+/2015/B2B_Newsletter/01Jan/20150108/btn_s_bg.jpg" color=3D"#14527f" />
+    <v:textbox inset=3D"0,0,0,0">
+  <![endif]-->
+                                                                           =
+                    =20
+                                                                           =
+                     <div>
+                                                                           =
+                       <table width=3D"100 cellpadding=3D"0">
+                                                                           =
+                         <tr>
+                                                                           =
+                           <td width=3D"1" style=3D"font-size:0px; line-hei=
+ght:0px;" valign=3D"top" height=3D"29" align=3D"left"><img width=3D"1" src=
+=3D"http://cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" sty=
+le=3D"display:block;" height=3D"29" alt=3D"" border=3D"0" /></td>
+                                                                           =
+                           <td style=3D"font-family:'Lucida Sans Unicode', =
+'Lucida Grande', arial, sans-serif; color:#ffffff; font-size:15px; line-hei=
+ght:15px; mso-line-height-rule: exactly;" valign=3D"middle" align=3D"center=
+"><a style=3D"color:#ffffff; text-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/20/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3Dc2deb687=
+">Find&nbsp;out&nbsp;more</a></td>
+                                                                           =
+                         </tr>
+                                                                           =
+                       </table>
+                                                                           =
+                     </div>
+                                                                           =
+                    =20
+                                                                           =
+                     <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+                                                                           =
+                 </tr>
+                                                                           =
+                 <tr>
+                                                                           =
+                   <td style=3D"font-size:0px; line-height:0px;" valign=3D"=
+top" align=3D"left"><img width=3D"134" src=3D"http://cslb.creatormail.co.uk=
+/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_s_shd.jpg" alt=3D"" st=
+yle=3D"display:block;" height=3D"2" border=3D"0" /></td>
+                                                                           =
+                 </tr>
+                                                                           =
+               </table></td>
+                                                                           =
+             <td width=3D"8" valign=3D"top" align=3D"left"><img width=3D"7"=
+ src=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Ja=
+n/20150108/btn_s_r.jpg" alt=3D"" style=3D"display:block;" height=3D"31" bor=
+der=3D"0" /></td>
+                                                                           =
+           </tr>
+                                                                           =
+         </table></td>
+                                                                           =
+       <td width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"=
+top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://cslb.creato=
+rmail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"display:block;" =
+height=3D"1" alt=3D"" border=3D"0" /></td>
+                                                                           =
+     </tr>
+                                                                           =
+   </table></td>
+                                                                          <=
+/tr>
+                                                                        </t=
+able></td>
+                                                                    </tr>
+                                                                  </table><=
+/td>
+                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"font-size:0px; line-height:0=
+px;" valign=3D"top" class=3D"hide" align=3D"left"><img width=3D"560" src=3D=
+"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150=
+108/grey_shd.jpg" alt=3D"" style=3D"display:block;" height=3D"6" border=3D"=
+0" /></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0 0 20px 0;" valign=3D"top=
+" class=3D"padding-0" align=3D"center"><table width=3D"560" cellspacing=3D"=
+0" class=3D"width-100" border=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td bgcolor=3D"#DFDBDF" style=3D"padding:=
+1px;" valign=3D"top" class=3D"padding-0" align=3D"left"><table bgcolor=3D"#=
+ffffff" width=3D"100                                      <tr>
+                                        <td style=3D"padding:15px 0 18px 0;=
+" valign=3D"top" class=3D"padding-horz-20" align=3D"center"><table width=3D=
+"520" cellspacing=3D"0" class=3D"width-100" border=3D"0" cellpadding=3D"0">
+                                            <tr>
+                                              <td style=3D"padding:0 0 15px=
+ 0;" valign=3D"top" align=3D"left"><table width=3D"100border=3D"0" cellpadding=3D"0">
+                                                  <tr>
+                                                    <td style=3D"color:#4b9=
+630; font-size:26px; line-height:33px; font-family:'Lucida Sans', 'Lucida S=
+ans Unicode', 'Lucida Grande', arial, sans-serif; mso-line-height-rule: exa=
+ctly;" valign=3D"middle" align=3D"left"><em>It&rsquo;s not all work, work, =
+work</em></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td valign=3D"top" align=3D"l=
+eft"><table width=3D"100>
+                                                  <tr>
+                                                    <td valign=3D"top" alig=
+n=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355015/21/?2c5002f7=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoLWJyZWFr=
+cy8UpBTl9Sb3hidXJnaGVCMkJfMTUwMTE0JnV0bV9jYW1wYWlnbj1EVlZfQjJCX1JPWEJPVVJIR0VC=
+MkI"><img width=3D"520" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015=
+/B2B_Newsletter/01Jan/20150115/leisure.jpg" alt=3D"" style=3D"display:block=
+;" height=3D"193" border=3D"0" class=3D"mobile-img-2" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td style=3D"font-size:=
+13px; line-height:17px; color:#595959; font-family:'Lucida Sans', 'Lucida S=
+ans Unicode', 'Lucida Grande', arial, sans-serif; padding:15px 0 18px 0; ms=
+o-line-height-rule: exactly;" valign=3D"top" align=3D"left">               =
+                                     With luxurious bedrooms, exquisite din=
+ing and a prime locations, <a style=3D"color:#595959; text-decoration:under=
+line;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355009/22/?5c267b29=
+=3DaHR0cDovL3d3dy50aGVyb3hidXJnaGUuY29tP3V0bV9zb3VyY2U9Q3JlYXRvcm1haWwmdXRt=
+X21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1KQU5fUm94YnVyZ2hlQjJCXzE1MDExNCZ1dG1fY2F=
+tcGFpZ249RFZWX0IyQl9ST1hCT1VSSEdFQjJC&x=3Db9684bf4=
+">The Roxburghe</a> and <a style=3D"color:#595959; text-decoration:underlin=
+e;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355010/23/?aac7dcc6=
+=3DaHR0cDovL3d3dy50aGVnZW9yZ2Vob3RlbGVkaW5idXJnaC5jby51az91dG1fc291cmNlPUNy=
+ZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8=
+xNTAxMTQmdXRtX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">The George Hotel</a>,=20
+                                                    from <a style=3D"color:=
+#595959; text-decoration:underline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354488/24/?eb645e8a=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbT91dG1fc291cmNlPUNyZWF0b3JtYWls=
+JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXR=
+tX2NhbXBhaWduPURWVl9CMkJfUk9YQk9VUkhHRUIyQg">PH Hotels</a> are ideally suited for short breaks in Scotland's capital c=
+ity. Within minutes you can walk to the famous castle, Princes Street Garde=
+ns, or simply hit the shops at the city&rsquo;s most prestigious shopping d=
+istrict.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td valign=3D"top" alig=
+n=3D"left"><table cellspacing=3D"0" border=3D"0" cellpadding=3D"0">
+                                                        <tr>
+                                                          <td width=3D"5" v=
+align=3D"top" align=3D"left"><img width=3D"5" src=3D"http://cslb.creatormai=
+l.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_l_l.jpg" alt=3D=
+"" style=3D"display:block;" height=3D"37" border=3D"0" /></td>
+                                                          <td valign=3D"top=
+" align=3D"left"><table width=3D"100adding=3D"0">
+                                                              <tr>
+                                                                <td width=
+=3D"113" bgcolor=3D"#14527f" background=3D"http://cslb.creatormail.co.uk/si=
+tes/devere/2015/B2B_Newsletter/01Jan/20150108/btn_l_bg.jpg" valign=3D"top" =
+height=3D"35"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:113px;height:35px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/devere=
+/2015/B2B_Newsletter/01Jan/20150108/btn_l_bg.jpg" color=3D"#14527f" />
+    <v:textbox inset=3D"0,0,0,0">
+  <![endif]-->
+                                                                 =20
+                                                                  <div>
+                                                                    <table =
+width=3D"100                                                                      <tr>
+                                                                        <td=
+ width=3D"1" style=3D"font-size:0px; line-height:0px;" valign=3D"top" heigh=
+t=3D"35" align=3D"left"><img width=3D"1" src=3D"http://cslb.creatormail.co.=
+uk/sites/devere/2013/general/spacer.gif" style=3D"display:block;" height=3D=
+"35" alt=3D"" border=3D"0" /></td>
+                                                                        <td=
+ style=3D"font-family:'Lucida Sans Unicode', 'Lucida Grande', arial, sans-s=
+erif; color:#ffffff; font-size:15px; line-height:15px; mso-line-height-rule=
+: exactly;" valign=3D"middle" align=3D"center"><a style=3D"color:#ffffff; t=
+ext-decoration:none;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11355015/25/?2c5002f7=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS9vZmZlcnMvZWRpbmJ1cmdoLWJyZWFr=
+cy8UpBTl9Sb3hidXJnaGVCMkJfMTUwMTE0JnV0bV9jYW1wYWlnbj1EVlZfQjJCX1JPWEJPVVJIR0VC=
+MkI">Book now</a></td>
+                                                                      </tr>
+                                                                    </table=
+>
+                                                                  </div>
+                                                                 =20
+                                                                  <!--[if g=
+te mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+                                                              </tr>
+                                                              <tr>
+                                                                <td style=
+=3D"font-size:0px; line-height:0px;" valign=3D"top" align=3D"left"><img wid=
+th=3D"113" src=3D"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsl=
+etter/01Jan/20150108/btn_l_shd.jpg" alt=3D"" style=3D"display:block;" heigh=
+t=3D"2" border=3D"0" /></td>
+                                                              </tr>
+                                                            </table></td>
+                                                          <td width=3D"8" v=
+align=3D"top" align=3D"left"><img width=3D"7" src=3D"http://cslb.creatormai=
+l.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150108/btn_l_r.jpg" alt=3D=
+"" style=3D"display:block;" height=3D"37" border=3D"0" /></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"font-size:0px; line-height:0=
+px;" valign=3D"top" class=3D"hide" align=3D"left"><img width=3D"560" src=3D=
+"http://cslb.creatormail.co.uk/sites/devere/2015/B2B_Newsletter/01Jan/20150=
+108/grey_shd.jpg" alt=3D"" style=3D"display:block;" height=3D"6" border=3D"=
+0" /></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table bgcolor=3D"#ffffff" width=3D"100llpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"center"><table width=3D"100=3D"0" border=3D"0" cellpadding=3D"0">
+        <tr>
+          <td bgcolor=3D"#DCDCDC" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#E0E0E0" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#E4E4E4" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#E7E7E7" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#EAEAEA" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#EEEEEE" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#F0F0F0" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#F3F3F3" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#F5F5F5" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#F7F7F7" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#FCFCFC" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#FEFEFE" style=3D"font-size:0px; line-height:0px;"=
+ valign=3D"top" height=3D"1" align=3D"left"><img width=3D"1" src=3D"http://=
+cslb.creatormail.co.uk/sites/devere/2013/general/spacer.gif" style=3D"displ=
+ay:block;" height=3D"1" alt=3D"" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#FFFFFF" style=3D"padding:0 5px 0 5px;" valign=3D"=
+top" align=3D"center"><table width=3D"600" cellspacing=3D"0" border=3D"0" c=
+lass=3D"width-100" cellpadding=3D"0" align=3D"center">
+              <tr>
+                <td style=3D"padding:20px 0 0 0;" valign=3D"top" class=3D"p=
+adding-horz-10" align=3D"left"><table width=3D"157" cellspacing=3D"0" borde=
+r=3D"0" class=3D"drop" align=3D"right" cellpadding=3D"0">
+                    <tr>
+                      <td style=3D"padding: 0 0 20px 0;" valign=3D"top" ali=
+gn=3D"right"><table cellspacing=3D"0" class=3D"width-auto" border=3D"0" cel=
+lpadding=3D"0">
+                          <tr>
+                            <td valign=3D"top" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11351388/26/=
+"><img width=3D"41" src=3D"http://cslb.creatormail.co.uk/sites/devere/2014/=
+dontForgetYourToothbrush/20140406/facebook.gif" style=3D"display:block;" he=
+ight=3D"41" alt=3D"" border=3D"0" /></a></td>
+                            <td style=3D"padding: 0 0 0 10px;" valign=3D"to=
+p" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11351389/27/=
+"><img width=3D"41" src=3D"http://cslb.creatormail.co.uk/sites/devere/2014/=
+dontForgetYourToothbrush/20140406/twitter.gif" style=3D"display:block;" hei=
+ght=3D"41" alt=3D"" border=3D"0" /></a></td>
+                            <td style=3D"padding: 0 0 0 10px;" valign=3D"to=
+p" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11351408/28/=
+"><img width=3D"41" src=3D"http://cslb.creatormail.co.uk/sites/devere/2014/=
+dontForgetYourToothbrush/20140406/linkedIn.gif" style=3D"display:block;" he=
+ight=3D"41" alt=3D"" border=3D"0" /></a></td>
+                            <td style=3D"padding: 0 0 0 10px;" valign=3D"to=
+p" align=3D"left"><a href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11351390/29/=
+"><img width=3D"32" src=3D"http://cslb.creatormail.co.uk/sites/devere/2014/=
+dontForgetYourToothbrush/20140406/youTube.gif" style=3D"display:block;" hei=
+ght=3D"41" alt=3D"" border=3D"0" /></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  <table width=3D"398" cellspacing=3D"0" border=3D"0" class=
+=3D"drop" align=3D"left" cellpadding=3D"0">
+                    <tr>
+                      <td valign=3D"top" align=3D"left"><table width=3D"100=
+                          <tr>
+                            <td style=3D"font-family:'Lucida Sans', 'Lucida=
+ Sans Unicode', 'Lucida Grande', arial, sans-serif; color:#595959; font-siz=
+e:12px; padding:0 0 10px 0; line-height:16px; mso-line-height-rule: exactly=
+;" valign=3D"top"><a style=3D"color:#1767a9; text-decoration:underline;" hr=
+ef=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354357/66/?f566cc7b=
+=3DMTQ2MDE3MzI0LjVkNDQ5YzU4MzNlMjdjYTdjM2FlMjY5NzFiMDJjMTI2&e5e2987d=3DNzU1=
+NzExMjU">Unsubscribe</a>=20
+                            | <a style=3D"color:#1767a9; text-decoration:un=
+derline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354730/30/?73eb02b2=
+=3DaHR0cDovL3d3dy5wcmluY2lwYWwtaGF5bGV5LmNvbS90ZXJtcy1hbmQtY29uZGl0aW9ucy82fdXRtX3NvdXJjZT1DcmVhdG9ybWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PUpBT=
+l9Sb3hidXJnaGVCMkJfMTUwMTE0JnV0bV9jYW1wYWlnbj1EVlZfQjJCX1JPWEJPVVJIR0VCMkI3d&x=3D428d56cc=
+">Terms&nbsp;&amp;&nbsp;Conditions</a>=20
+                            | <a style=3D"color:#1767a9; text-decoration:un=
+derline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354473/31/?17f39387=
+=3DaHR0cDovL3d3dy5kZXZlcmV2ZW51ZXMuY28udWsvZW4vbGVnYWxzLWFuZC1wb2xpY3kvcHJp=
+dmFjeS1jb29raWUtcG9saWN5Lz91dG1fc291cmNlPUNyZWF0b3JtYWlsJnV0bV9tZWRpdW09ZW1=
+haWwmdXRtX2NvbnRlbnQ9SkFOX1JveGJ1cmdoZUIyQl8xNTAxMTQmdXRtX2NhbXBhaWduPURWVl=
+9CMkJfUk9YQk9VUkhHRUIyQg">Privacy&nbsp;Policy</a> | <a style=3D"color:#1767a9; text-decoration:unde=
+rline;" href=3D"=
+http://email.deverevenues.co.uk/t/75571125/146017324/11354474/32/?19c1dc18=
+=3DaHR0cDovL3d3dy5kZXZlcmV2ZW51ZXMuY28udWsvZW4vbGVnYWxzLWFuZC1wb2xpY3kvY3Ny=
+LXBvbGljeS8250ZW50PUpBTl9Sb3hidXJnaGVCMkJfMTUwMTE0JnV0bV9jYW1wYWlnbj1EVlZfQjJCX1JPWEJP=
+VVJIR0VCMkI">CSR&nbsp;policy</a></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"font-family:'Lucida Sans', 'Lucida=
+ Sans Unicode', 'Lucida Grande', arial, sans-serif; color:#595959; font-siz=
+e:12px; padding:0 0 10px 0; line-height:16px; mso-line-height-rule: exactly=
+;" valign=3D"top" align=3D"left"><a style=3D"color:#7d7d7d; text-decoration=
+:none;" href=3D"#">De Vere Venues Group Limited, The Inspire,
+                              Hornbeam Park, Harrogate, HG2 8PA <br>
+                              <br>
+                              Reg No: 06139080, Registered in: England &amp=
+; Wales</a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td style=3D"font-size:12px; line-height:16px; color:#7d7d7=
+d; font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', arial=
+, sans-serif; padding:18px 0; mso-line-height-rule: exactly;" valign=3D"top=
+" class=3D"padding-horz-10" align=3D"left">You&rsquo;re receiving this emai=
+l because you have previously booked or requested offers or promotions from=
+ De Vere Venues and we&rsquo;d like to introduce you to a similar service f=
+rom our associated hotel groups, under shared ownership. Do not reply to th=
+is email as the mailbox is unattended. <br>
+                  <br>
+                  <span style=3D"color:#7d7d7d;">*Subject to availability. =
+Valid for bookings made to arrive before the 31st March 2015. New enquiries=
+ only.</span></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+=
+<IMG ALT=3D"" SRC=3D"http://email.deverevenues.co.uk/db/75571125/146017324/=
+1.gif" WIDTH=3D1 HEIGHT=3D1>=
+=
+<img src=3D'http://access2.creatormail.co.uk/devicedetector/DeviceDetector.=
+ashx?&l=3Ddevere_venues_marketing&m=3D146017324&o=3D75571125&ewid=3D&c=3D11=
+' width=3D'1' height=3D'1' />=
+</body>
+</html>=
+

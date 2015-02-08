@@ -1,0 +1,641 @@
+From @..  Wed Jan 21 09:37:27 2015
+Return-Path: <@..>
+X-Original-To: gailwarman@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 06CAADE; Wed, 21 Jan 2015 09:37:26 +0000 (UTC)
+Received: from mta-195.mailaway.homeaway.com (mta-195.mailaway.homeaway.com [142.0.162.195])
+    by .. with SMTP id 8qxg43qfkjcam4e79hak6azimw;
+    for gailwarman@fs.net;
+    Wed, 21 Jan 2015 09:37:26 +0000 (UTC)
+    (envelope-from feedback@elq-trv.haspf.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=142.0.162.195; envelope-from=<feedback@elq-trv.haspf.com>;
+    helo=mta-195.mailaway.homeaway.com; mechanism=include:elq.haspf.com
+    (ip4:142.0.162.192/28 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=142.0.162.195; client-port=16666;
+    syn-fingerprint=5840:54:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.28.66 67.133.246.46 129.152.63.157; network-path-time=1421833046
+DKIM-Signature: v=1; a=rsa-sha1; d=elq.homeaway.co.uk; s=ha1024; c=relaxed/relaxed;
+	q=dns/txt; i=@elq.homeaway.co.uk; t=1421833028;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=I8xPQ3jaIXrcHmzeCaUxcPLc3rw=;
+	b=j+vt+frJMbdqeD8ugw9hR+iPmN95+dklAvb7WO9rr2erdiGHwIOgm1neMH8tL4B7
+	+nnX24opHPxZl+42lLt2axh3Jxijo4JihsHxqFWzPqewvkWZjGmmiwD9fBSiKO2B
+	UKo47agO+1uFhAuRqG5kb3KoOyq95ISl+dedPmblo2M=;
+Received: from [10.34.108.11] ([10.34.108.11:43672] helo=P03INJECT008)
+	by msm-mta07-dc6 (envelope-from <feedback@elq-trv.haspf.com>)
+	(ecelerity 3.5.4.38585 r(Platform:3.5.4.0)) with ESMTP
+	id 98/EB-10212-4437FB45; Wed, 21 Jan 2015 04:37:08 -0500
+Message-ID: <bf66a88f8f464e95918b28fe24ef1914@225508597>
+X-Binding: 225508597
+X-elqPod: 0x4FAD31AC84944479F0D71EA9AF9E5B508254F4720DA05EDD7E2289D7C62F1F76
+MIME-Version: 1.0
+From: "HomeAway.co.uk" <@..>
+To: @..
+Reply-To: "HomeAway.co.uk" <@..>
+Date: 21 Jan 2015 04:37:08 -0500
+Subject: The sun is calling your name!
+Content-Type: multipart/alternative;
+ boundary=--boundary_390339_c65d810e-5a8d-4247-b93c-c84b81c0d454
+
+
+----boundary_390339_c65d810e-5a8d-4247-b93c-c84b81c0d454
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+DQpIYWxmLXRlcm0gaG9saWRheXMgZm9yIHRoZSB3aG9sZSBmYW1pbHkgICAgICAgICAg
+IA0KDQoiKEhvbWVBd2F5LmNvLnVrIExvZ28pIiA8aHR0cDovL2FwcC5tYWlsYXdheS5o
+b21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkwMDAmZWxxPWJmNjZhODhm
+OGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiAgICAgICAgICAgICAgIA0KDQpJZiB5b3Ug
+YXJlIHVuYWJsZSB0byBzZWUgdGhpcyBtYXJrZXRpbmcgY29tbXVuaWNhdGlvbiwgY2xp
+Y2sgaGVyZSA8aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20vZS9lcz9zPTIy
+NTUwODU5NyZlPTExOTc5NTUmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYx
+OTE0ID4gICAgICAgICAgICAgICANCg0KRmluZCBhIGhvbGlkYXkgaG9tZSA8aHR0cDov
+L2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkw
+MDEmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiB8ICAgICAgICAg
+ICBTcGVjaWFsIG9mZmVycyA8aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20v
+ZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkwMDImZWxxPWJmNjZhODhmOGY0NjRlOTU5MThi
+MjhmZTI0ZWYxOTE0PiB8ICAgICAgICAgICBIb21lb3duZXJzIDxodHRwOi8vYXBwLm1h
+aWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAwMyZlbHE9
+YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+IHwgICAgICAgICAgICJGYWNl
+Ym9vayBCdXR0b24iIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2Vy
+P3M9MjI1NTA4NTk3JmxpZD0zOTYmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0
+ZWYxOTE0PiAiVHdpdHRlciBCdXR0b24iIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVh
+d2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD0zODImZWxxPWJmNjZhODhmOGY0NjRl
+OTU5MThiMjhmZTI0ZWYxOTE0PiAgIkdvb2dsZSsgQnV0dG9uIiA8aHR0cDovL2FwcC5t
+YWlsYXdheS5ob21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9MjAxMiZlbHE9
+YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAiUGludGVyZXN0IEJ1dHRv
+biIgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1
+OTcmbGlkPTM5MyZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAg
+ICAgICAgICAgDQoNCkZpbmQgeW91ciBIb21lQXdheSA8aHR0cDovL2FwcC5tYWlsYXdh
+eS5ob21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkwMDQmZWxxPWJmNjZh
+ODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiAgICAgICAgICAgICAgIA0KDQoiU2Vh
+cmNoIGZvciBQcm9wZXJ0aWVzIiA8aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5j
+b20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkwMDUmZWxxPWJmNjZhODhmOGY0NjRlOTU5
+MThiMjhmZTI0ZWYxOTE0PiAgICAgICAgICAgIA0KDQoiU3VubnkgaGFsZiB0ZXJtIGhv
+bGlkYXlzIiA8aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20vZS9lcj9zPTIy
+NTUwODU5NyZsaWQ9NDkwMDYmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYx
+OTE0PiAgICAgICJTdW5ueSBoYWxmIHRlcm0gaG9saWRheXMiIDxodHRwOi8vYXBwLm1h
+aWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAwNyZlbHE9
+YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICANCg0KU1BBTklTSCBWSUxMQVMgPGh0dHA6Ly9hcHAubWFpbGF3
+YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDA4JmVscT1iZjY2
+YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICANCllvdXIg
+c3BvdCBpbiB0aGUgc3VuICAgICAgICAgICAgICAgDQoiU1BBTklTSCBWSUxMQVMiIDxo
+dHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3Jmxp
+ZD00OTAwOSZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAg
+ICAgICAgICAgDQoNCkJhbGVhcmljIElzbGFuZHMgPGh0dHA6Ly9hcHAubWFpbGF3YXku
+aG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDEwJmVscT1iZjY2YTg4
+ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICAgQW5kYWx1c2lh
+IDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3
+JmxpZD00OTAxMSZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAg
+ICAgICAgICAgICAgDQpDb3N0YSBCbGFuY2EgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9t
+ZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDEyJmVscT1iZjY2YTg4Zjhm
+NDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICAgQ2F0YWxvbmlhIDxo
+dHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3Jmxp
+ZD00OTAxMyZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAg
+ICAgICAgICAgDQoNClVLIEhPTElEQVlTIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVh
+d2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAxNCZlbHE9YmY2NmE4OGY4ZjQ2
+NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgDQpNb3JlIGZ1biwgbGVz
+cyB0cmF2ZWwgICAgICAgICAgICAgICANCiJVSyBIT0xJREFZUyIgPGh0dHA6Ly9hcHAu
+bWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDE1JmVs
+cT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICAN
+Cg0KTG9uZG9uIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9
+MjI1NTA4NTk3JmxpZD00OTAxNiZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRl
+ZjE5MTQ+ICAgICAgICAgICAgICAgIENvcm53YWxsIDxodHRwOi8vYXBwLm1haWxhd2F5
+LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTQ1OCZlbHE9YmY2NmE4
+OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgDQpTdXNzZXgg
+PGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcm
+bGlkPTQ5MDE4JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAg
+ICAgICAgICAgICAgRGV2b24gPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29t
+L2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDE5JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4
+YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICANCg0KU1BFQ0lBTCBIQUxGIFRFUk0g
+PGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcm
+bGlkPTQ5MDIwJmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAg
+ICAgICAgICAgICANCkNsb3NlIHRvIGhvbWUgb3IgZmFyIGZsdW5nICAgICAgICAgICAg
+ICAgDQoiU1BFQ0lBTCBIQUxGIFRFUk0iIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVh
+d2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAyMSZlbHE9YmY2NmE4OGY4ZjQ2
+NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgDQoNClVLIDxodHRwOi8v
+YXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAy
+MiZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAg
+ICAgIEZsb3JpZGEgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/
+cz0yMjU1MDg1OTcmbGlkPTQ5MDIzJmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUy
+NGVmMTkxND4gICAgICAgICAgICAgICANCkFsZ2FydmUgPGh0dHA6Ly9hcHAubWFpbGF3
+YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDI0JmVscT1iZjY2
+YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICAgSXRhbHkg
+PGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcm
+bGlkPTQ5MDI1JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAg
+ICAgICAgICAgICANCg0KRlJFTkNIIFJFVFJFQVRTIDxodHRwOi8vYXBwLm1haWxhd2F5
+LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAyNiZlbHE9YmY2NmE4
+OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgDQpKdXN0IGEg
+c2hvcnQgaG9wIGF3YXkgICAgICAgICAgICAgICANCiJGUkVOQ0ggUkVUUkVBVFMiIDxo
+dHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3Jmxp
+ZD00OTAyNyZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAg
+ICAgICAgICAgDQoNCkZyZW5jaCBSaXZpZXJhIDxodHRwOi8vYXBwLm1haWxhd2F5Lmhv
+bWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00OTAyOCZlbHE9YmY2NmE4OGY4
+ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgIFByb3ZlbmNlIDxo
+dHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3Jmxp
+ZD00OTAyOSZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAg
+ICAgICAgICAgDQpIYXV0ZSBTYXZvaWUgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3
+YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDMwJmVscT1iZjY2YTg4ZjhmNDY0
+ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAgICAgUGFyaXMgPGh0dHA6Ly9h
+cHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTQ5MDMx
+JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4gICAgICAgICAgICAg
+ICANCg0KQmVzdCB3aXNoZXMsDQoiVGhlIEhvbWVBd2F5LmNvLnVrIFRlYW0iIDxodHRw
+Oi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD00
+OTAzMiZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAg
+ICAgDQoNClByaWNlcyBjb3JyZWN0IGFzIG9mIDA5LzAxLzE1LCBiYXNlZCBvbiBhIDIg
+YmVkcm9vbSBwcm9wZXJ0eSBmb3Igb25lIHdlZWsgcmVudGVkIGluIEphbnVhcnkgMjAx
+NSB1bmxlc3Mgb3RoZXJ3aXNlIHN0YXRlZC4gICAgICAgICAgICANCg0KIkxBU1QgTUlO
+VVRFIC0gRmluZCB5b3VyIHBlcmZlY3Qgc2tpIGNoYWxldCwgd2hhdGV2ZXIgc2l6ZSBn
+cm91cCBvciBidWRnZXQiIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9l
+L2VyP3M9MjI1NTA4NTk3JmxpZD00OTAzMyZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIy
+OGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgDQoNCiJEb3dubG9hZCBvdXIgQXBwIiA8
+aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZs
+aWQ9NDkwMzQmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiAgICAg
+ICAgICAgICAgICAgICJFdXJvcCBBc3Npc3RhbmNlIiA8aHR0cDovL2FwcC5tYWlsYXdh
+eS5ob21lYXdheS5jb20vZS9lcj9zPTIyNTUwODU5NyZsaWQ9Mjk5MzkmZWxxPWJmNjZh
+ODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiAgICAgICAgICAgICAgICAgICJGYWNl
+Ym9vayIgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1
+MDg1OTcmbGlkPTE0MDc4JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkx
+ND4gICAgICAgICAgICAgICAgICAiVHdpdHRlciIgPGh0dHA6Ly9hcHAubWFpbGF3YXku
+aG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1OTcmbGlkPTM5MSZlbHE9YmY2NmE4OGY4
+ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+ICAgICAgICAgICAgICAgICAgIkdvb2dsZSsi
+IDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3
+JmxpZD0zOTImZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0PiAgICAg
+ICAgICAgICAgICAgICJQaW50ZXJlc3QiIDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVh
+d2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3JmxpZD0zOTMmZWxxPWJmNjZhODhmOGY0NjRl
+OTU5MThiMjhmZTI0ZWYxOTE0PiAgICAgICAgICAgICAgICAgDQoNCsKpIENvcHlyaWdo
+dCAxOTk24oCTUHJlc2VudCBIb21lQXdheSBVSywgTHRkLiBBbGwgUmlnaHRzIHJlc2Vy
+dmVkLg0KQ29tcGFuaWVzIFJlZ2lzdHJhdGlvbiBudW1iZXIgMzE1MjY3NiAoRW5nbGFu
+ZCBhbmQgV2FsZXMpDQoNClRoaXMgaXMgYSBzZXJ2aWNlIGZyb20gSG9tZUF3YXkuY28u
+dWsgPGh0dHA6Ly9hcHAubWFpbGF3YXkuaG9tZWF3YXkuY29tL2UvZXI/cz0yMjU1MDg1
+OTcmbGlkPTQ5MDM1JmVscT1iZjY2YTg4ZjhmNDY0ZTk1OTE4YjI4ZmUyNGVmMTkxND4s
+ICAgIHdoaWNoIGlzIG9ubHkgc2VudCB0byBzdWJzY3JpYmVycyBhbmQgbmV2ZXIgc2Vu
+dCB1bnNvbGljaXRlZC4gDQpZb3UgYXJlIGN1cnJlbnRseSBzdWJzY3JpYmVkIGFzOiAg
+ICBnYWlsd2FybWFuQGZzLm5ldC4NCg0KSWYgeW91IG5vIGxvbmdlciB3aXNoIHRvIHJl
+Y2VpdmUgb3VyICAgIG5ld3NsZXR0ZXJzIHRoZW4gcGxlYXNlIGNsaWNrIGhlcmUgPCBo
+dHRwOi8vbWFpbGF3YXkuaG9tZWF3YXkuY29tL1ByZWZlcmVuY2VDZW50ZXI/ZW09Z2Fp
+bHdhcm1hbkBmcy5uZXQmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThiMjhmZTI0ZWYxOTE0
+JmVscUNhbXBhaWduSWQ9MjY1NT4NCg0KVmlldyBvdXIgVGVybXMgJiBDb25kaXRpb25z
+IDxodHRwOi8vYXBwLm1haWxhd2F5LmhvbWVhd2F5LmNvbS9lL2VyP3M9MjI1NTA4NTk3
+JmxpZD00OTAzNiZlbHE9YmY2NmE4OGY4ZjQ2NGU5NTkxOGIyOGZlMjRlZjE5MTQ+IGFu
+ZCBQcml2YWN5IFBvbGljeSA8aHR0cDovL2FwcC5tYWlsYXdheS5ob21lYXdheS5jb20v
+ZS9lcj9zPTIyNTUwODU5NyZsaWQ9NDkwMzcmZWxxPWJmNjZhODhmOGY0NjRlOTU5MThi
+MjhmZTI0ZWYxOTE0PiAgICAgICAgICAgIA0KDQoNCg0KDQo=
+----boundary_390339_c65d810e-5a8d-4247-b93c-c84b81c0d454
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The sun is calling your name!</title>
+<style type="text/css">
+
+@import
+ url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
+
+/* Outlook link fix */
+#outlook a {
+	padding: 0;
+}
+/* Hotmail background & line height fixes */
+..ExternalClass {
+	width: 100}
+..ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,  .ExternalClass td, .ExternalClass div {
+	line-height: 100}
+/* Image borders & formatting */
+img {
+	outline: none;
+	text-decoration: 
+none;
+	-ms-interpolation-mode: bicubic;
+}
+a img {
+	border: none;
+}
+/* Re-style iPhone automatic links (eg. phone numbers) */
+..applelinks a {
+	color: #222222;
+	text-decoration: none;
+}
+/* Hotmail symbol fix for mobile devices */
+..ExternalClass img[class^=Emoji] {
+	width: 10px !important;
+	height: 10px !important;
+	display: inline !important;
+}
+
+/* Media Query for mobile */
+		
+@media screen and (max-width: 480px) {
+body[class=emailbody] {
+      margin-top:0 !important;
+} 
+
+/* This 
+resizes tables and images to be 100td[class=emailnavtext] {
+	padding:0 !important;
+}
+table[class=emailwrapto100pc], img[class=emailwrapto100pc] {
+	width: 100	height: auto !important;
+}
+img[class=halogo] {
+	width:120px !important;
+	height:auto !important;
+}
+/* Hide stuff on mobiles */
+table[class=emailnomob], td[class=emailnomob], img[class=emailnomob], span[class=emailnomob], span[class=emailnomobsocial] {
+	display: none 
+!important;
+}
+td[class=emailcolsplit] {
+	width: 100	float: left!important;
+}
+a[class=emailmobbutton] {
+	display: block !important;
+	font-size: 14px !important;
+	font-weight: bold !important;
+	padding: 6px 4px 8px 4px !important;
+	line-height: 18px !important;
+	background: #D8E6F4 !important;
+	border-radius: 3px !important;
+	margin: 0px auto;
+	width: 70	text-align: center;
+	color: #0094CF !important;
+	text-decoration: none;
+}
+td[class=navbar] {
+	
+}
+/* This resizes 
+body text for mobiles */
+td[class=emailnavtext], a[class=emailnavtext] {
+	font-size: 13px !important;
+	line-height: 21px !important;
+	text-align:center !important;
+}
+td[class=emailbodytext], a[class=emailbodytext] {
+	font-size: 16px !important;
+	line-height: 21px !important;
+	width:460px !important;
+}
+strong[class=emailh2], a[class=emailh2] {
+	font-size: 22px !important;
+	line-height: 26px !important;
+}
+a[class=headersmall], img[class=headersmall], table[class=mobileCTA], 
+img[class=mobileCTAbutton] {
+		display:none !important;
+}
+
+}
+@media screen and (max-width: 320px) {
+	td[class=navbar], td[class=noshow], a[class=headerlarge] {
+		display:none !important;
+	}
+	a[class=headersmall], img[class=headersmall] {
+		display:block !important;
+		width: 100		height: auto !important;
+	}
+	table[class=mobileCTA] {
+		display:block !important;
+		position: fixed;
+		bottom:48px !important;
+		width:320px;
+	}
+	img[class=mobileCTAbutton] {
+		display:block 
+!important;
+		width: 100		height: auto !important;
+	}
+}
+
+</style>
+
+</head>
+<body class="emailbody" style="padding:0; margin-top:5px; margin-right:0; margin-bottom:20px; margin-left:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:100
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+
+
+<!--there's an extra wrapper table here - this allows us to set the page background in webmail clients (where the body tag is ignored) -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="100  <tr>
+    <td align="center" valign="top"><!--Link to the hosted html version - we'll hide this for mobile--> 
+      <span style="color:#f4f4f5;font-size:1px;">Half-term holidays for the whole family</span>
+
+      <!--table containg the main email - this will resize for mobile-->
+      
+      <table width="600" border="0" cellspacing="0" cellpadding="0" class="emailwrapto100pc">
+        <tr>
+          <td><table border="0" cellspacing="0" cellpadding="0" width="600" class="emailwrapto100pc">
+              <tr>
+                <td class="emailcolsplit" align="center" valign="top" width="232"><!--Start of the first column -->
+
+                  
+                  <table border="0" cellspacing="0" cellpadding="0" width="88                    <tr>
+                      <td><a title="(HomeAway.co.uk Logo)" href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49000&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank"><img style="display:block;" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/hauk-logo.png" width="150" height="40" border="0" alt="(HomeAway.co.uk Logo)" class="halogo"></a>
+</td>
+                    </tr>
+                  </table></td>
+                <td class="emailcolsplit" align="center" valign="top" width="368"><!--Start of the second column -->
+                  
+                  <table border="0" cellspacing="0" cellpadding="0" width="100                    <tr>
+                      <td align="right" style="padding-top:20px;padding-left:10px;font-size:11px; font-family:Arial, Helvetica, sans-serif;">If
+ you are unable to see this marketing communication, <a href="http://app.mailaway.homeaway.com/e/es?s=225508597&e=1197955&elq=bf66a88f8f464e95918b28fe24ef1914
+" target="_blank">click here</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td class="navbar"><table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+
+                <td class="emailnavtext" height="30" align="right" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;color:#2a6ebb;font-size:12px; font-family:Arial, Helvetica, sans-serif;"><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49001&elq=bf66a88f8f464e95918b28fe24ef1914" title="Find a holiday home" target="_blank" style="color:#2a6ebb;">Find a holiday home</a> &nbsp;<span class="emailnomob">|
+                  &nbsp;</span>
+ <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49002&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" style="color:#2a6ebb;">Special offers</a> &nbsp;<span class="emailnomob">|
+                  &nbsp;</span> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49003&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" style="color:#2a6ebb;">Homeowners</a> &nbsp;<span class="emailnomob">|
+                  &nbsp;</span> <span class="emailnomobsocial">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=396&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/fb.png" align="absmiddle" alt="Facebook Button" border="0" height="16" width="14"></a>&nbsp; <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=382&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/tw.png" alt="Twitter Button" align="absmiddle" border="0" height="16" width="14"></a>&nbsp; <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=2012&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/gp.png" alt="Google+ Button" width="14" height="16" border="0" align="absmiddle" title="Google+ Button"></a>
+
+ &nbsp;<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=393&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/pt.png" alt="Pinterest Button" width="14" height="16" border="0" align="absmiddle" title="Pinterest Button"></a></span></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+                      <td align="center" valign="top">
+                      	<!--Search box-->
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100                              <tr>
+                                <td width="78                  <tbody>
+
+                    <tr>
+                      <td bgcolor="#FFFFFF" style="font-size:14px; font-family:Arial, Helvetica, sans-serif;border: 1px solid #cacaca;border-radius:5px;-moz-border-radius:5px;-ms-border-radius:5px;-webkit-border-radius:5px;-o-border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49004&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Search for Properties" style="display:block;color:#999 !important;text-decoration:none;">Find your HomeAway</a></td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+				</td>
+
+                <td width="22<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/template-tests/deals-images/hauk-search.png" alt="Search for Properties" width="121" height="40" style="display: block;" border="0"></a></td>
+              </tr>
+            </table>
+                      </td>
+                    </tr>
+        <tr>
+          <td bgcolor="#FFFFFF">
+<a class="headerlarge" href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49006&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Sunny half term holidays"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-600-header.jpg" alt="Sunny half term holidays" width="600" height="300" class="emailwrapto100pc" id="headerimage" style="display: block;" border="0"></a>
+
+          <a class="headersmall" style="display:none;" href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49007&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Sunny half term holidays"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-320-header.jpg" alt="Sunny half term holidays" width="0" height="0" class="headersmall" id="headerimage" style="display:none;" border="0"></a>
+
+           
+            
+            <!--Start of the two column table -->
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="600" class="emailwrapto100pc" style="">
+              <tr>
+                <td class="emailcolsplit" align="center" valign="top" width="297"><!--Start of the first column -->
+                  
+                  <table border="0" cellspacing="0" cellpadding="0" width="100                    <tr>
+
+                      <td align="center" style="padding-top:20px;padding-bottom:5px;padding-left:10px;padding-right:10px;font-size:18px; font-family: sans-serif; text-transform:uppercase; "><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49008&elq=bf66a88f8f464e95918b28fe24ef1914" title="SPANISH VILLAS" class="emailh2" target="_blank" style="color:#2a6ebb;text-decoration:none;">SPANISH VILLAS</a></td>
+                    </tr>
+                    <tr>
+
+                      <td class="emailbodytext" style="padding-left:5px;padding-right:5px;padding-bottom:10px;font-family:Arial, Helvetica, sans-serif;font-size: 16px;color: #629e44; text-align:center;"><em>Your spot in the sun</em></td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10px;padding-right:10px;"><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49009&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="SPANISH VILLAS">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-feature1.jpg" alt="SPANISH VILLAS" width="280" height="200" class="emailwrapto100pc" style="display: block;" border="0"></a></td>
+                    </tr>
+                  </table>
+                  <table width="100                    <tr>
+
+                      <td width="55 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49010&elq=bf66a88f8f464e95918b28fe24ef1914" title="Balearic Islands" target="_blank" style="color:#333;text-decoration:none;">Balearic Islands</a></td>
+                      <td width="45<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49011&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Andalusia" style="color:#333;text-decoration:none;">Andalusia</a></td>
+                    </tr>
+                    <tr>
+
+                      <td width="55 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49012&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Costa Blanca" style="color:#333;text-decoration:none;">Costa Blanca</a></td>
+                      <td width="45<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49013&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Catalonia" style="color:#333;text-decoration:none;">Catalonia</a></td>
+                    </tr>
+                  </table></td>
+
+                <td class="emailcolsplit" align="center" valign="top" width="297"><!--Start of the second column -->
+                  
+                  <table border="0" cellspacing="0" cellpadding="0" width="100                    <tr>
+                      <td align="center" style="padding-top:20px;padding-bottom:5px;padding-left:10px;padding-right:10px;font-size:18px; font-family: sans-serif; text-transform:uppercase; ">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49014&elq=bf66a88f8f464e95918b28fe24ef1914" title="UK HOLIDAYS" class="emailh2" target="_blank" style="color:#2a6ebb;text-decoration:none;">UK HOLIDAYS</a></td>
+                    </tr>
+                    <tr>
+                      <td class="emailbodytext" style="padding-left:5px;padding-right:5px;padding-bottom:10px;font-family:Arial, Helvetica, sans-serif;font-size: 16px;color: #629e44; text-align:center;"><em>More
+ fun, less travel</em></td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10px;padding-right:10px;"><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49015&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="UK HOLIDAYS">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-feature2.jpg" alt="UK HOLIDAYS" width="280" height="200" class="emailwrapto100pc" style="display: block;" border="0"></a></td>
+                    </tr>
+                  </table>
+                  <table width="100                    <tr>
+
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49016&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="London" style="color:#333;text-decoration:none;">London</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49458&elq=bf66a88f8f464e95918b28fe24ef1914" title="Cornwall" target="_blank" style="color:#333;text-decoration:none;">Cornwall</a></td>
+                    </tr>
+                    <tr>
+
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49018&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Sussex" style="color:#333;text-decoration:none;">Sussex</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49019&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Devon" style="color:#333;text-decoration:none;">Devon</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!-- Line break-->
+
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><hr style="display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;"></td>
+              </tr>
+            </table>
+            
+            <!--Start of the two column table -->
+
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="600" class="emailwrapto100pc" style="">
+              <tr>
+                <td class="emailcolsplit" align="center" valign="top" width="297"><!--Start of the first column -->
+                  <table border="0" cellspacing="0" cellpadding="0" width="100                    <tr>
+
+                      <td align="center" style="padding-bottom:5px;padding-left:10px;padding-right:10px;font-size:18px; font-family: sans-serif; text-transform:uppercase;"><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49020&elq=bf66a88f8f464e95918b28fe24ef1914" class="emailh2" title="SPECIAL HALF TERM" target="_blank" style="color:#2a6ebb;text-decoration:none;">SPECIAL HALF TERM</a></td>
+                    </tr>
+                    <tr>
+
+                      <td class="emailbodytext" style="padding-left:5px;padding-right:5px;padding-bottom:10px;font-family:Arial, Helvetica, sans-serif;font-size: 16px;color: #629e44; text-align:center;"><em>Close to home or far flung</em></td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10px;padding-right:10px;">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49021&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="SPECIAL HALF TERM"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-feature3.jpg" alt="SPECIAL HALF TERM" width="280" height="200" class="emailwrapto100pc" style="display: block;" border="0"></a></td>
+                    </tr>
+                  </table>
+
+                  <table width="100                    <tr>
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49022&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="UK" style="color:#333;text-decoration:none;">UK</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49023&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Florida" style="color:#333;text-decoration:none;">Florida</a></td>
+                    </tr>
+                    <tr>
+
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49024&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Algarve" style="color:#333;text-decoration:none;">Algarve</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49025&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Italy" style="color:#333;text-decoration:none;">Italy</a></td>
+                    </tr>
+                  </table>
+                  </td>
+
+                <td class="emailcolsplit" align="center" valign="top" width="297"><!--Start of the second column -->
+                  
+                  <table border="0" cellspacing="0" cellpadding="0" width="100                    <tr>
+                      <td align="center" style="padding-bottom:5px;padding-left:5px;padding-right:5px;font-size:18px; font-family: sans-serif; text-transform:uppercase;">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49026&elq=bf66a88f8f464e95918b28fe24ef1914" title="FRENCH RETREATS" target="_blank" class="emailh2" style="color:#2a6ebb;text-decoration:none;">FRENCH RETREATS</a></td>
+                    </tr>
+                    <tr>
+                      <td class="emailbodytext" style="padding-left:5px;padding-right:5px;padding-bottom:10px;font-family:Arial, Helvetica, sans-serif;font-size: 16px;color: #629e44; text-align:center;"><em>Just
+ a short hop away</em></td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10px;padding-right:10px;"><a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49027&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="FRENCH RETREATS">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk-feature4.jpg" alt="FRENCH RETREATS" width="280" height="200" class="emailwrapto100pc" style="display: block;" border="0"></a></td>
+                    </tr>
+                  </table>
+                  <table width="100                    <tr>
+
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49028&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="French Riviera" style="color:#333;text-decoration:none;">French Riviera</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49029&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Provence" style="color:#333;text-decoration:none;">Provence</a></td>
+                    </tr>
+                    <tr>
+
+                      <td width="50 <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49030&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Haute Savoie" style="color:#333;text-decoration:none;">Haute Savoie</a></td>
+                      <td width="50<img height="16" width="15" border="0" src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/squarebull.gif" style="display: block;float:left;"> <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49031&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="Paris" style="color:#333;text-decoration:none;">Paris</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+           <!-- Line break-->
+
+            
+<table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><hr style="display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;"></td>
+              </tr>
+            </table>
+            
+            <!-- The signature row-->
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+
+                <td class="emailbodytext" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;font-size:14px; font-family:Arial, Helvetica, sans-serif;">Best wishes,<br>
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49032&elq=bf66a88f8f464e95918b28fe24ef1914" title="HomeAway.co.uk" target="_blank">
+<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/signature.png" alt="The HomeAway.co.uk Team" width="230" height="27" title="The HomeAway.co.uk Team" border="0"></a></td>
+              </tr>
+            </table>
+            <!-- Line break-->
+            
+<table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+<hr style="display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;"></td>
+              </tr>
+            </table>
+            
+          
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td align="center" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;font-size:11px; font-family:Arial, Helvetica, sans-serif;">Prices
+ correct as of 09/01/15, based on a 2 bedroom property for one week rented in January 2015 unless otherwise stated.</td>
+              </tr>
+            </table>
+            <!-- The email footer -->
+            
+            <table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td align="center" style="padding-bottom:20px;" bgcolor="#f4f4f5"><table border="0" cellspacing="0" cellpadding="0" width="600" class="emailwrapto100pc">
+                    <tr>
+
+                      <td width="600" colspan="4" valign="top"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/blank.gif" width="10" height="20" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="center" valign="top">
+<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49033&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" title="LAST MINUTE - Find your perfect ski chalet, whatever size group or budget"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/traveller/1501-t2/hauk_ski_last-minute.gif" alt="LAST MINUTE - Find your perfect ski chalet, whatever size group or budget" width="600" height="100" class="emailwrapto100pc" style="display: block;" border="0"></a></td>
+
+                    </tr>
+                    <tr>
+                      <td style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><hr style="display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;"></td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="center" valign="top"><table width="100                        <tr>
+
+                          <td width="16                          <td width="16<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=29939&elq=bf66a88f8f464e95918b28fe24ef1914" title="Europ Assistance" target="_blank"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/ea.png" alt="Europ Assistance" width="46" height="45" title="Europ Assistance" border="0"></a></td>
+                          <td width="16<a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=14078&elq=bf66a88f8f464e95918b28fe24ef1914" title="Facebook" target="_blank"><img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/fb2.png" alt="Facebook" width="46" height="45" title="Facebook" border="0"></a></td>
+                          <td width="16<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/tw2.png" alt="Twitter" width="46" height="45" title="Twitter" border="0"></a></td>
+                          <td width="16<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/gp2.png" alt="Google+" width="46" height="45" title="Google+" border="0"></a></td>
+                          <td width="16<img src="http://www.homeaway.co.uk/files/live/sites/hr/files/shared/Newsletters/pt2.png" alt="Pinterest" width="46" height="45" title="Pinterest" border="0"></a></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                    </table>
+                  <table border="0" cellspacing="0" cellpadding="0" width="100              <tr>
+                <td style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+<hr style="display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;"></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-right:10px;padding-bottom:5px;padding-left:10px;font-size:11px; font-family:Arial, Helvetica, sans-serif;"><strong>&copy; Copyright 1996&ndash;Present HomeAway UK, Ltd. All Rights reserved</strong>.<br>
+      <span style="font-size:9px">Companies Registration number 3152676 (England and Wales)</span><br>
+      <br>
+
+      This is a service from <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49035&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" style="color:#2a6ebb;font-weight:bold; text-decoration:none;">HomeAway.co.uk</a>, 
+      which is only sent to subscribers and never sent unsolicited. <br>
+      You are currently subscribed as:
+      gailwarman@fs.net.<br>
+      <br>
+
+      If you no longer wish to receive our 
+      newsletters then please <a href=" http://mailaway.homeaway.com/PreferenceCenter?em=gailwarman@fs.net&elq=bf66a88f8f464e95918b28fe24ef1914&elqCampaignId=2655" target="_blank" title="Unsubscribe" style="color:#2a6ebb;text-decoration:none;">click here</a><br>
+      <br>
+
+      View our <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49036&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" style="color:#2a6ebb;font-weight:bold; text-decoration:none;">Terms &amp; Conditions</a> and <a href="http://app.mailaway.homeaway.com/e/er?s=225508597&lid=49037&elq=bf66a88f8f464e95918b28fe24ef1914" target="_blank" style="color:#2a6ebb;font-weight:bold; text-decoration:none;">Privacy Policy</a></td>
+              </tr>
+            </table></td>
+              </tr>
+
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+
+
+
+
+<br>
+
+
+<img src='http://app.mailaway.homeaway.com/e/FooterImages/FooterImage1?elq=bf66a88f8f464e95918b28fe24ef1914&siteid=225508597' border=0 width=1px height=1px></body></html>
+----boundary_390339_c65d810e-5a8d-4247-b93c-c84b81c0d454--
+
+

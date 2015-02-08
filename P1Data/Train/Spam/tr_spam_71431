@@ -1,0 +1,538 @@
+From @..  Tue Jan 13 19:23:25 2015
+Return-Path: <@..>
+X-Original-To: fds@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 362E4DF; Tue, 13 Jan 2015 19:23:25 +0000 (UTC)
+Received: from vanadium-twfoon.emv8.com (vanadium-twfoon.emv8.com [81.92.117.241])
+    by .. with SMTP id mrvkhuuecfeedqvtfftp5kueaa;
+    for fds@fs.net;
+    Tue, 13 Jan 2015 19:23:24 +0000 (UTC)
+    (envelope-from lacie@ml.lacie.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.92.117.241; envelope-from=<lacie@ml.lacie.com>;
+    helo=vanadium-twfoon.emv8.com; mechanism=include:spf-a.emailvision.net
+    (ip4:81.92.116.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.92.117.241; client-port=42661;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=18; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 154.54.10.61 154.54.0.165
+    154.54.31.110 154.54.41.53 154.54.28.106 130.117.51.82 130.117.1.230
+    154.25.0.193 149.11.0.66 130.117.1.230 193.25.198.101 193.25.198.90
+    81.92.117.241; network-path-time=1421177004
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=ml.lacie.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe; i=lacie@ml.lacie.com;
+ bh=IR6091M3i/AXkkor0tPSGrExN8A=;
+ b=tMgAPa1vLEraVWTNC3bQJLIPui+jM2ugWG1vw6DzOh14mZhF3EAzZTCGtKA9zg6swXSWH/+LuDDa
+   v6PkA7co2neGBDfBe+W/FsKh0y98B/evEWm/vSXheb7E4UarGNGkbox837lIzPAv5PlP/Mz7QGwG
+   ssJDEwhiGc4DrhgVC9c=
+Received: by vanadium-twfoon.emv8.com id hmloao16758l for <fds@fs.net>; Tue, 13 Jan 2015 20:13:23 +0100 (envelope-from <lacie@ml.lacie.com>)
+Date: Tue, 13 Jan 2015 20:13:23 +0100 (CET)
+From: LaCie Newsletter <@..>
+Reply-To: do not reply <@..>
+To: <@..>
+Message-ID: <2.1.3.1101003151.3061749.117039579@ml.lacie.com>
+Subject: CES 2015: LaCie Unveils Rugged RAID & Mirror
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-EMV-Platform: p3ccc.campaigncommander.com$
+X-EMV-CampagneId: 3061749$
+X-EMV-MemberId: 117039579$
+List-Unsubscribe: <http://ml.lacie.com/HD?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIbut_cStGb5lw8W0bBhOG5mpqVsje_Hhe-krFM6>, <mailto:unsubscribe@ml.lacie.com?subject=unsubscribe-3-ENX7CqkgdNA08SA9MKJhbA_nGHxKKIbut_cStGb5lw8W0bBhOG5mpqVsje_Hhe-krFM6>
+X-CSA-Complaints: whitelist-complaints@eco.de
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+   <title>BlueLight</title>
+   <style type="text/css">
+.ReadMsgBody { width: 100.ExternalClass { width: 100.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100html { width: 100body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+body { margin: 0; padding: 0; }
+table { border-spacing: 0; }
+img { display: block !important; }
+table td { border-collapse: collapse; }
+.yshortcuts a { border-bottom: none !important; }
+a { color: #0084cb; text-decoration: none; }
+.hide { max-height: 0px; font-size: 0; display: none; }
+</style>
+</head>
+
+<body>
+   <table width="100      <tr>
+         <td valign="top">
+            <table width="100               <tr><td>
+                     <!--Header Bar-->
+                  
+                           <table width="100                              <tr>
+                                 <td valign="top" style="border-top:5px solid #ffffff;">
+                                    <table class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                                       <!--Link Browser-->
+
+                                       <tr>
+                                          <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#999999; font-style: italic; padding-top:15px;">
+                                             <!--TemplateBeginEditable name="Banner"--> 
+Having trouble seeing this email? <a style="color:#0084cb;text-decoration:none" href="http://ml.lacie.com/HM?a=FtX7CqkgdNA08SA9MKJhbA_nGHxKLJ3frwjtS5kGaMJN0bBhOG5mpqVsje_Hhe-krFTy">view it online.</a>
+<!--TemplateEndEditable-->
+                                          </td>
+                                       </tr>
+
+                                       <!--End Link Browser-->
+
+                                       <tr>
+                                          <td height="20"></td>
+                                       </tr>
+                                       <tr>
+                                          <td align="left" valign="top">
+                                             <table width="600" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="table600">
+                                                <tr>
+                                                   <td style="padding-left:0px; padding-right:0px;">
+                                                      <!--Logo-->
+
+                                                      <table class="table1-3" width="183" bgcolor="#ffffff" border="0" align="left" cellpadding="0" cellspacing="0">
+                                                         
+                                                         <tr>
+                                                            <td align="center">
+                                                               <img src="https://t.emvcdn.com/1/5/1/1101003151/675719045.jpg" width="71" height="32" alt="logo" />
+                                                            </td>
+                                                           <td style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                                                               <p style="padding-left: 10px;">&nbsp;</p>
+                                                            </td>
+                                                            <td align="left" valign="middle" style="font-family: Helvetica, Arial, sans-serif; font-size:25px; color:#083a81;">
+                                                               <strong style="color:#6caddf">BLUE</strong>LIGHT
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+
+                                                      <!--End Logo-->
+
+                                                      <!--Navigation-->
+
+                                                      <table border="0" align="right" cellpadding="0" cellspacing="0" class="table3-1">
+                                                         
+                                                         <tr>
+                                                            <td class="clear_pad" valign="top" style="padding-right:10px;">
+                                                               <table height="32" border="0" align="center" cellpadding="0" cellspacing="0" >
+                                                                  <tr>
+                                                                     <td><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3vfcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzU" title="Facebook"><img width="32" height="32" border="0" style="display:block;" alt="Facebook" src="https://t.emvcdn.com/1/5/1/1101003151/2132905374.png"></a></td>
+                                                                     <td><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3svcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzV" title="Twitter"><img width="32" height="32" border="0" style="display:block;" alt="Twitter" src="https://t.emvcdn.com/1/5/1/1101003151/14549528.png"></a></td>
+                                                                     <td><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3s_cStGb5lw8W0bBhOG5mpqVsje_Hhe-krFza" title="YouTube"><img width="32" height="32" border="0" style="display:block;" alt="YouTube" src="https://t.emvcdn.com/1/5/1/1101003151/1183503274.png"></a></td>
+                                                                     <td><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3sPcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzb" title="LinkedIn"><img width="32" height="32" border="0" style="display:block;" alt="LinkedIn" src="http://ml.lacie.com/IL/1/5/1/1101003151/1608121377.png"></a></td>
+                                                                  </tr>
+                                                               </table>
+                                                            </td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td height="20"></td>
+                                                         </tr>
+                                                      </table>
+
+                                                      <!--End Navigation--> </td>
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+
+                     <!--End Header Bar-->
+
+                          <!--Header Image-->
+
+                           <table align="center" width="100                              <tr>
+                                 <td bgcolor="#ffffff" >
+                                    <table class="table600" bgcolor="#ffffff" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td align="center">
+                                             <!--TemplateBeginEditable name="Banner"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3sfcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzY" title="Banner"><img alt="header_img" class="img1" src="http://ml.lacie.com//IL/1/5/1/1101003151/403925182.jpg" style="" width="600" height="200"></a><!--TemplateEndEditable--> 
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </table>
+
+                     <!--End Header Image-->
+
+                     <!--1:1 Content-->
+                  <table align="center" width="100                     <tr>
+                        <td valign="top">
+                           <table bgcolor="#FFFFFF" class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                 <td height="20"></td>
+                              </tr>
+                              <tr>
+                                 <td valign="top">
+                                    <table class="table550" width="590" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                                       <!--Article Title-->
+
+                                       <tr>
+                                          <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleArticle"-->CES 2015: LaCie Unveils Rugged RAID &amp; Mirror<!--TemplateEndEditable--></td>
+                                       </tr>
+
+                                       <!--End Article Title-->
+
+                                       <tr>
+                                          <td height="10" align="left" valign="top"></td>
+                                       </tr>
+
+                                       <!--Content-->
+
+                                       <tr>
+                                          <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                             <!--TemplateBeginEditable name="ContentArticle"-->LaCie was proud to announce two new products at the Consumer Electronics Show (CES) in Las Vegas. We unveiled LaCie Mirror, our latest addition to the Extreme Design range, and LaCie Rugged RAID, a two-disk mobile drive enclosed in our famous protective casing. These products are our latest and greatest demonstration that LaCie is creating space with form and function. Read on for details.<!--TemplateEndEditable--> 
+                                          </td>
+                                       </tr>
+
+                                       <!--End Content--><tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                                      <!--TemplateBeginEditable name="ContentArticle"--><!--TemplateEndEditable--> 
+                                                   </td>
+                                                </tr></table>
+                                 </td>
+                              </tr>
+                              
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                     <!--End 1:1 Content-->
+                     <!--BigContent-->
+                  <!--InstanceBeginRepeatEntry-->
+                     <!--1:3 Panel [Right Text]-->
+                  <table align="center" width="100                     <tr>
+                        <td valign="top">
+                           <table bgcolor="#ffffff" class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                 <td height="20"></td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <table class="table550" width="590" border="0" align="center" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td valign="top">
+                                              <!--image-->
+<table class="table2-2" width="192" border="0" align="left" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                   <td>
+                                                   <!--TemplateBeginEditable name="ImageArticle"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3tvcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzZ" title="Mirror-img"><img alt="190" class="img1" src="http://ml.lacie.com//IL/1/5/1/1101003151/1297930306.jpg" style="" width="190" height="150"></a> <!--TemplateEndEditable--> 
+                                                   </td>
+                                                   
+                                                </tr>
+                                                
+                                             </table>
+
+                                             <!--End image-->
+
+                                             <table width="380" border="0" align="right" cellpadding="0" cellspacing="0" class="table2-2">
+                                                <tr></tr>
+                                                <!--Article Title-->
+                                                <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleArticle"-->LaCie Mirror<!--TemplateEndEditable--></td>
+                                                </tr>
+                                                <!--End Article Title-->
+                                                <tr>
+                                                   <td height="10" align="left" valign="top"></td>
+                                                </tr>
+                                                <!--Content-->
+                                                <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                                     <!--TemplateBeginEditable name="ContentArticle"-->Designed in collaboration with acclaimed French designer Pauline Deltour, the LaCie Mirror is first a functional and poetic piece of decor. Only on second glance is it revealed to also be a portable hard drive, encased in scratch-resistant Corning&reg; Gorilla&reg; Glass. It also includes an ebony wood display stand, which props up the LaCie Mirror, causing it to reflect and add dimension to elegantly decorated spaces. For easy portability, it&rsquo;s sized for travel, and comes with a soft carrying case.<br />
+(1 TB, USB 3.0)<br />
+<br />
+Learn more :<br />
+<em><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3t_cStGb5lw8W0bBhOG5mpqVsje_Hhe-krFze" title="Mirror-link">LaCie Mirror &gt;</a></em><!--TemplateEndEditable--> 
+                                                   </td>
+                                                </tr>
+                                                <!--End Content-->
+                                               <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                                      <!--TemplateBeginEditable name="ContentArticle"--><!--TemplateEndEditable--> 
+                                                   </td>
+                                                </tr></table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height="20" style="border-bottom:1px solid #bdc3c7;">&nbsp;</td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                     <!--End 1:3 Panel [Right Text]-->
+                  <!--InstanceEndRepeatEntry--><!--InstanceBeginRepeatEntry-->
+                     <!--1:3 Panel [Right Text]-->
+                  <table align="center" width="100                     <tr>
+                        <td valign="top">
+                           <table bgcolor="#ffffff" class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                 <td height="20"></td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <table class="table550" width="590" border="0" align="center" cellpadding="0" cellspacing="0">
+                                       <tr>
+                                          <td valign="top">
+                                              <!--image-->
+<table class="table2-2" width="192" border="0" align="left" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                   <td>
+                                                   <!--TemplateBeginEditable name="ImageArticle"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3tPcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzf"  title="RuggedRAID-img"><img alt="190" class="img1" height="150" src="http://ml.lacie.com//IL/1/5/1/1101003151/810482110.jpg" style="" width="190" /></a> <!--TemplateEndEditable--> 
+                                                   </td>
+                                                   
+                                                </tr>
+                                                
+                                             </table>
+
+                                             <!--End image-->
+
+                                             <table width="380" border="0" align="right" cellpadding="0" cellspacing="0" class="table2-2">
+                                                <tr></tr>
+                                                <!--Article Title-->
+                                                <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleArticle"-->LaCie Rugged RAID<!--TemplateEndEditable--></td>
+                                                </tr>
+                                                <!--End Article Title-->
+                                                <tr>
+                                                   <td height="10" align="left" valign="top"></td>
+                                                </tr>
+                                                <!--Content-->
+                                                <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                                     <!--TemplateBeginEditable name="ContentArticle"-->With this new product, professionals get it all in one package &ndash; with zero tradeoffs. Thanks to its two disks in the popular Rugged enclosure, it delivers fast speeds with hardware RAID 0, or data security with RAID 1. The LaCie Rugged is rated to withstand drops of up to 1.5 meters (5 feet) and 1 ton of pressure, and is IP 54-certified for protection against dust and water. This product is even bus powered through the Thunderbolt&trade; cable &ndash; so you can access your data even when no power outlet is available. Whether you move tons of data to external storage in the field, or need a way to carry huge media libraries in complete security, LaCie Rugged is the perfect solution.<br />
+(4 TB, Thunderbolt &amp; USB 3.0)<br />
+<br />
+Learn more:<br />
+<em><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3tfcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzc"  title="RuggedRAID-Link">LaCie Rugged RAID&gt;</a></em><br />
+<!--TemplateEndEditable--> 
+                                                   </td>
+                                                </tr>
+                                                <!--End Content-->
+                                               <tr>
+                                                   <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#333333; line-height:19px;">
+                                                      <!--TemplateBeginEditable name="ContentArticle"--><!--TemplateEndEditable--> 
+                                                   </td>
+                                                </tr></table>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height="20" style="border-bottom:1px solid #ffffff;">&nbsp;</td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+                     <!--End 1:3 Panel [Right Text]-->
+                  <!--InstanceEndRepeatEntry-->
+                  
+                                   
+                     
+                     <!--EndBigContent-->
+                     <!--Footer-->
+                     <!--3:3 Panel-->
+                  <table align="center" width="100                                    <tr>
+                  <td valign="top">
+                     <table bgcolor="#ffffff" class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                           <td height="25"></td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <table width="590" border="0" align="center" cellpadding="0" cellspacing="0" class="table550">
+                                 <tr>
+                                    <td>
+                                       <!--1:3 Panel [Left]-->
+
+                                       <table class="table600" width="177" border="0" align="left" cellpadding="0" cellspacing="0">
+                                          <!--Article Title-->
+
+                                          <tr align="center">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleFooter"-->
+You and LaCie<!--TemplateEndEditable--></td>
+                                          </tr>
+
+                                          <!--End Article Title-->
+                                          <tr>
+                                             <td height="20"></td>
+                                          </tr>
+
+                                          <!--Content-->
+                                          <tr align="left">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:13px; color:#333333; line-height:24px;">
+                                                <!--TemplateBeginEditable name="TextInnerFooter"-->Hi  <!--TemplateEndEditable-->
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="10" align="left" valign="top"></td>
+                                          </tr>
+                                          <tr align="left">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:13px; color:#333333; line-height:24px;">
+                                                <!--TemplateBeginEditable name="LinkInnerFooter"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3S_cStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzi" title="Edit Preferences">Edit Your Preferences &gt;
+</a><!--TemplateEndEditable-->
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="5" align="left" valign="top"></td>
+                                          </tr>
+                                          <tr align="left">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:13px; color:#333333; line-height:24px;">
+                                                <!--TemplateBeginEditable name="LinkInnerFooter"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3SPcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzj" title="Register Product">Register Your Product &gt;</a><!--TemplateEndEditable-->
+                                             </td>
+                                          </tr>
+
+                                          <!--End Content--> </table>
+
+                                       <!--End 1:3 Panel [Right]-->
+
+                                       <!--Space-->
+
+                                       <table width="1" height="25" border="0" cellpadding="0" cellspacing="0" align="left">
+                                          <tr>
+                                             <td style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                                                <p style="padding-left: 24px;">&nbsp;</p>
+                                             </td>
+                                          </tr>
+                                       </table>
+
+                                       <!--End Space-->
+
+                                       <!--1:3 Panel [Middle]-->
+
+                                       <table class="table600" width="177" border="0" align="left" cellpadding="0" cellspacing="0">
+                                          <!--Article Title-->
+
+                                          <tr align="center">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleFooter"-->LaCie TV<!--TemplateEndEditable--></td>
+                                          </tr>
+
+                                          <!--End Article Title-->
+                                          <tr>
+                                             <td height="20"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" valign="middle">
+                                                <!--TemplateBeginEditable name="ImageFooter"--><a href="http://ml.lacie.com/HS?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIU3SfcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFzg" style="text-decoration: none;" title="LaCie TV"><img alt="LaCieTV" class="img1" src="http://ml.lacie.com//IL/1/5/1/1101003151/1775499574.jpg" style="display: block;" width="140" height="76"> </a> <!--TemplateEndEditable--> 
+                                             </td>
+                                          </tr>
+                                        </table>
+
+                                       <!--End 1:3 Panel [Middle]-->
+                                       <!--Space-->
+
+                                       <table width="1" height="25" border="0" cellpadding="0" cellspacing="0" align="left">
+                                          <tr>
+                                             <td style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                                                <p style="padding-left: 24px;">&nbsp;</p>
+                                             </td>
+                                          </tr>
+                                       </table>
+
+                                       <!--End Space-->
+                                       <!--1:3 Panel [Right]-->
+
+                                       <table class="table600" width="177" border="0" align="right" cellpadding="0" cellspacing="0">
+                                          <!--Article Title-->
+
+                                          <tr align="center">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-weight:bold; font-size:18px; color:#083a81;"><!--TemplateBeginEditable name="TitleFooter"-->Where to buy<!--TemplateEndEditable--></td>
+                                          </tr>
+
+                                          <!--End Article Title-->
+                                          <tr>
+                                             <td height="20"></td>
+                                          </tr>
+                                          <!--Dynamic Content-->
+                                                
+   <!--
+   <tr>
+      <td align="center" valign="middle">
+         <a href="http://ml.lacie.com/HS?a=FtX7CqkgdNA08SA9MKJhbA_nGHxKLJ3J2QjtS5kGaLDp0bBhOG5mpqVsje_Hhe-krEsU" style="text-decoration: none;" title="LaCie Shop US"><img alt="shop" class="img1" src="https://t.emvcdn.com/1/5/1/1101003151/1197343933.jpg" style="display: block;" height="36" width="154"> </a>      </td>
+   </tr>
+   
+   <tr>
+      <td height="25"></td>
+   </tr>
+   -->
+   <tr>
+      <td align="center" valign="middle">
+         <a href="mailto:sales@lacie.com" style="text-decoration: none;"><img alt="mail" class="img1" src="https://t.emvcdn.com/1/5/1/1101003151/663108050.jpg" style="display: block;" height="36" width="154"> </a>
+      </td>
+   </tr>
+
+<!--End Dynamic Content-->
+                                        </table>
+
+                                       <!--End 1:3 Panel [Right]--> </td>
+                                 </tr>
+                              </table>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td height="20" style="border-bottom:1px solid #bdc3c7;"></td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+                  </table>
+                     <!--End 3:3 Panel-->
+                  <table align="center" width="100               <tr>
+                  <td valign="top">
+                     <table bgcolor="#FFFFFF" class="table600" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                           <td height="20"></td>
+                        </tr>
+                        <tr>
+                           <td valign="top">
+                              <table class="table550" width="590" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                                 <!--Content-->
+
+                                 <tr>
+                                    <td align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:11px; color:#999999; line-height:18px;">
+                                       <!--TemplateBeginEditable name="TextFooter"-->1TB= 1000GB. 1GB = 1,000,000,000 bytes.<br />
+Total accessible capacity varies depending upon operating environment (typically 5-15This email was sent to you by: <strong>LaCie, 7555 SW Tech Center Drive Tigard, OR 97223 - USA</strong>.<br />
+<em>Please do not reply to this email, your message will not be received. For product information, please email our sales team at sales@lacie.com. To manage your email subscriptions, use the Edit your preferences.</em><br />
+*Thunderbolt and the Thunderbolt logo are trademarks of Intel Corporation in the U.S. and/or other countries. <!--TemplateEndEditable-->  
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                             <td height="5" align="left" valign="top"></td>
+                                          </tr>
+                                          <tr align="left">
+                                             <td valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:12px; color:#0084cb;">
+                                                <!--TemplateBeginEditable name="Unsubscribe"--> <a href="http://ml.lacie.com/HD?a=ENX7CqkgdNA08SA9MKJhbA_nGHxKKIVK-fcStGb5lw8W0bBhOG5mpqVsje_Hhe-krFyF" title="Unsubscribe">Unsubscribe from the BlueLight</a> ><!--TemplateEndEditable--> 
+                                             </td>
+                                          </tr>
+
+                                 <!--End Content--> </table>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td height="20" >&nbsp;</td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+                  </table>
+                     <!--End Footer-->
+               </td></tr>
+            </table>
+         </td>
+      </tr>
+   </table>
+<img src="http://ml.lacie.com/HO?DdX7CqkgdNA08SA9MOPQInXnGHxKLLNEPwjtS5kGQzDNJlQ.gif" border="0" alt="" width="1" height="1" /></body></html>
+

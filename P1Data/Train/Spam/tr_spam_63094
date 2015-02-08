@@ -1,0 +1,2016 @@
+From @..  Mon Jan 19 14:23:11 2015
+Return-Path: <@..>
+X-Original-To: martinburnett.wanadoo@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 1BACADE; Mon, 19 Jan 2015 14:23:11 +0000 (UTC)
+Received: from confusedcom.outbound.ed10.com (confusedcom.outbound.ed10.com [208.94.23.95])
+    by .. with SMTP id 3gp5a5yzrhnajdwmmymf9njmxw;
+    for martinburnett.wanadoo@fs.net;
+    Mon, 19 Jan 2015 14:23:10 +0000 (UTC)
+    (envelope-from BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6@confusedcom.bounce.ed10.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=208.94.23.95;
+    envelope-from=<BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6@confusedcom.bounce.ed10.net>;
+    helo=confusedcom.outbound.ed10.com;
+    mechanism=a:confusedcom.outbound.ed10.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=208.94.23.95; client-port=46548;
+    syn-fingerprint=5840:53:1:52:M1380,N,N,S,N,W10 Linux 2.4 w/o timestamps;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 0.0.0.0 64.125.31.69 64.125.24.29 64.125.29.37 64.125.21.225
+    64.124.161.50; network-path-time=1421677390
+DKIM-Signature: v=1; a=rsa-sha1; d=email.confused.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@email.confused.com; t=1421677374;
+	h=From;
+	bh=tGU3Ylkkk0mlqq3CSAXeFjbYvjw=;
+	b=ofwJ2r2AlPT/TR0YZ1ByisHGZgxlwj703qiFftbTdSjVltjWQXHxxP19hJcJ/uCz
+	YCFpw6VkQVhZ/30G9VR4SFbEpHvGP7oqpwXGWHGu3C8mb5Yz9MDPr6XBlCo9zVbJ
+	34WRObYhFaPeTuxE3EHjExfG1lF+ItftjPP95nHlJSI=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2008-11; d=email.confused.com;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer:List-Unsubscribe;
+	b=SPxYfBzaTeYBPZBtOTRR33SIzkdhGUHu6ItVWFrKUiWcTKRhVjIejMG8TIBs0Aci
+	3BGfl7riMjEUIN7XVtkrzzkdiRFB105Mo6wNjSHxQuW/Tl0IYYjtU4xWkkskZlhi
+Received: from [127.0.0.1] ([127.0.0.1:33712])
+	by bm1-29.bo3.e-dialog.com (envelope-from <BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6@confusedcom.bounce.ed10.net>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 02/A5-14547-E331DB45; Mon, 19 Jan 2015 09:22:54 -0500
+Date: Mon, 19 Jan 2015 09:22:54 -0500
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "Confused.com" <@..>
+Reply-To: "Confused.com" <@..>
+To: @..
+Subject: =?UTF-8?B?Q2FyIGluc3VyYW5jZSBwcmljZXMgb24gdGhlIHJpc2UgYWdhaW4gfA==?=
+ =?UTF-8?B?IFRoZSBzaXggYmVzdCBjYXJzIGZvciBhZHZlbnR1cm91cyBmYW1pbGllcw==?=
+ =?UTF-8?B?IHwgU2hvdWxkIHBldHJvbCBwcmljZXMgYmUgZXZlbiBsb3dlcj8gfA==?=
+ =?UTF-8?B?ICDCozI1IGNhc2hiYWNrIHdoZW4geW91IHN3aXRjaCBlbmVyZ3kh?=
+Message-Id: <26277-553-BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6@e-dialog.com>
+X-Mail-From: BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6@confusedcom.bounce.ed10.net
+X-Match: confusedcom.bounce.ed10.net
+X-RCPT-To: martinburnett.wanadoo@fs.net
+X-Mailer: EDMAIL R6.00.02
+List-Unsubscribe: <http://link.confused.com/u/BMM0066/97YVRK/D49TLT/3CZBH06/9M/bWFydGluYnVybmV0dC53YW5hZG9vQGZzLm5ldA==/>
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+============================================================
+
+Dear Martin
+
+Because you receive plain text emails, unfortunately you won't be able to experience our customised newsletter. But don't worry, you can keep up to date by clicking on the link below:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/OFPA48/7M/t?a=BMM0066&b=NR327Z&c=TOXXBRQ&d=RNGM7M&e=1
+
+============================================================
+
+SIGN IN TO MY ACCOUNT:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/1OVQFK/7M/t?a=806
+
+Forgotten your password?
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/2029NY/7M/t?a=806
+
+============================================================
+
+> HOME:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/LSFC76/7M/t?a=806
+
+> INSURANCE:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/MJNVM0/7M/t?a=806
+
+> MONEY:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/7Z5NLF/7M/t?a=806
+
+> UTILITIES:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/A5XUBU/7M/t?a=806
+
+> TRAVEL:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/1OVQF9/7M/t?a=806
+
+> NEWS:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/OFPA47/7M/t?a=806
+
+> CONTACT US:
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/JQJOAV/7M/t?a=806
+
+============================================================
+
+Add us to your address book
+To ensure your our emails are delivered to your inbox please add our address to your address book or safe sender list.
+
+Unsubscribes
+If you would prefer not to receive further marketing emails from Confused.com then please follow the unsubscribe link.
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/K9R0ZA/7M/t?a=RNGM7M&b=martinburnett.wanadoo@fs.net&c=704842481&d=NR327Z&e={30849712-8569-4e00-87b3-b89f2dee7a15}&f={40e5e647-b508-4d5b-a844-748f5ca00a3f}
+
+Privacy policy
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/T1H4YY/7M/t
+
+Terms and Conditions
+http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/9MWPHB/7M/t
+
+
+[[BMM0066-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1, user-scalable=3D0" />
+<title>Car insurance prices on the rise again | The six best cars for adven=
+turous families | Should petrol prices be even lower? |  =C2=A325 cashback =
+when you switch energy!</title>
+<style type=3D"text/css">
+=20
+/* Email Client BUG Fixes */
+.ReadMsgBody, .ExternalClass { width: 100.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none;}
+body { margin: 0; padding: 0;}
+* { margin: 0; padding: 0;}
+table { border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;}
+table td { border-collapse: collapse;}
+img { border: 0;}
+html { width: 100.applelinks a { color: #545454 !important; text-decoration: none !important=
+;}=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+/* Clickable phone numbers */
+a[href^=3D"tel"], a[href^=3D"sms"] {  text-decoration: none; color: #545454=
+; pointer-events: none; cursor: default;}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] { text-decorat=
+ion: default;  color: #545454 !important; pointer-events: auto;  cursor: de=
+fault;}
+=20
+=20=20
+/* Media Queries */=20
+@media screen {=20
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleuserc=
+ontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvx=
+L-qU.woff) format('woff');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.go=
+ogleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPc=
+YnFooOUGCOsRk.woff) format('woff');
+}
+}
+@media only screen and (max-width: 639px) {
+=20
+/* Default */
+* {line-height: normal!important;}
+body {width: auto!important;}
+body[yahoo] .nomob {display:none !important;}=20=20=20=20=20=20=20=20=20=20=
+=20=20
+body[yahoo] .nobg { background: none !important;}=20=20=20=20
+body[yahoo] .nopadding { padding: 0 0 0 0 !important;}=20=20=20
+
+body[yahoo] .padtb12 { padding-top: 12px!important; padding-bottom:12px!imp=
+ortant; height:auto !important;}
+
+body[yahoo] .padtb15 { padding-top: 15px!important; padding-bottom:15px!imp=
+ortant; height:auto !important;}=20=20=20
+body[yahoo] .noheight { height: auto !important;}=20=20=20
+body[yahoo] .image_resize {width: 100body[yahoo] .alignmiddle { margin: 0 auto !important;}
+
+
+body[yahoo] .width33perc, .width28perc, .width38perc  { text-align:center !=
+important; padding: 0px !important; }
+
+
+body[yahoo] .width28perc { width:28
+body[yahoo] .width33perc { width:33
+body[yahoo] .width38perc { width:38
+/* Adjust table widths at smaller screen sizes */
+body[yahoo] .table {width: 100body[yahoo] .table_top20 {width: 100 margin-top:20px !important;}
+body[yahoo] .table_base20 {width: 100; margin-bottom:20px !important;}
+body[yahoo] .table94per {width: 94
+/* Adjust table heights at smaller screen sizes */
+=20
+/* Adjust font size */
+body[yahoo] .font12 { font-size: 12px !important; line-height: 20px !import=
+ant;}
+body[yahoo] .font14 { font-size: 14px !important; line-height: 19px !import=
+ant;}
+
+/* Adjust CTA */
+
+/* Header */=20
+body[yahoo] .resizeLogo {width: 80order: none !important;}
+
+/* Body Content*/
+
+/* Footer */
+body[yahoo] .footerWidth {width: 86body[yahoo] .footerWrapLink { display:block !important; text-align:center !=
+important; padding-bottom: 23px !important;}
+body[yahoo] .footerWrapLink2 { display:block !important; text-align:center =
+!important;
+padding: 23px 0!important;}
+body[yahoo] .footerNav { display:block !important; text-align:center !impor=
+tant;
+width:100f2 solid !important; }
+
+
+/* CTAs */
+body[yahoo] .green_cta_bg {
+	background: -webkit-linear-gradient(top, rgb(172, 218, 73) 65, 50) 94	background: -o-linear-gradient(top, rgb(172, 218, 73) 6) 94	background: -ms-linear-gradient(top, rgb(172, 218, 73) 60) 94	background: -moz-linear-gradient(top, rgb(172, 218, 73) 650) 94	background: linear-gradient(to bottom, rgb(172, 218, 73) 6 50) 94	width: 100	display: block !important;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+body[yahoo] .blue_cta_bg {
+	background: -webkit-linear-gradient(top, rgb(41, 148, 232) 0, 211) 92	background: -o-linear-gradient(top, rgb(41, 148, 232) 0) 92	background: -ms-linear-gradient(top, rgb(41, 148, 232) 01) 92	background: -moz-linear-gradient(top, rgb(41, 148, 232) 011) 92	background: linear-gradient(to bottom, rgb(41, 148, 232) 0211) 92	width: 100	display: block !important;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+body[yahoo] .green_cta_txt {
+	text-align: center !important;
+	padding-top: 18px !important;
+}
+
+
+body[yahoo] .cta_txt_link {
+	display: block !important; height:100	text-align: center !important;
+	padding: 15px 10px !important;
+}
+
+
+/* Show Mobile content only  */
+body[yahoo] .show_in_mob {
+	display: block!important;
+	max-height: none !important;
+	height: auto!important;
+	width: 100	margin: 0 !important;
+}
+
+
+body[yahoo] .blue_base_border { border-bottom:#00c3ff solid 4px !important;=
+ }
+
+}
+
+
+</style>
+</head>
+=20
+<body style=3D"width:100nt-family: Helvetica,sans-serif; font-size:13px; margin:0; padding:0;" yaho=
+o=3D"fix">
+=20
+<!--  Master template  -->
+<!--  Header  -->
+<table width=3D"100n=3D"center" bgcolor=3D"#edf5fc" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td style=3D"padding-bottom:4px; line-height:0px; font-size:0px;" bgcol=
+or=3D"#000a8c">&nbsp;</td>
+  </tr>
+</table>
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 20px;">
+
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table9=
+4per" width=3D"640">
+    <tr>
+    <!-- Super Subject Line -->
+    <td align=3D"right" valign=3D"top" style=3D"font-family:'Open Sans', Ar=
+ial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#0d4ebc=
+; text-decoration:underline; padding-botttom: 4px;" class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/6AMF1T/7M=
+/h?a=3Dhttp://view.ed4.net/v/BMM0066/NR327Z/TOXXBRQ/RNGM7M/" style=3D"font-=
+family:'Open Sans', Arial, Helvetica, sans-serif; font-size:12px; line-heig=
+ht:16px; color:#0d4ebc; text-decoration:underline; padding-botttom: 4px;" t=
+arget=3D"_blank"
+>View this email in your web browser</a></td>
+    <!-- End Super Subject Line -->
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top">
+    <!-- Logo -->
+=20=20=20=20
+    <table border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"table">
+          <tr>
+            <td align=3D"center" valign=3D"middle" class=3D"nopadding" styl=
+e=3D"padding: 0px 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/T1H4YQ/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 24px; color: #000a8c; text-decoration: none; line-height: 30px=
+; " target=3D"_blank"
+><img class=3D"resizeLogo" src=3D"http://image.confused.com/confused/2014_Q=
+1/Confusedcom_2013Q4_SolusConsolidationProject/html/images/img_logo_v2.png"=
+ width=3D"230"  alt=3D"Confused.com" style=3D"display:block; border:none; o=
+utline:none; text-decoration:none;"/></a></td>
+          </tr>
+        </table>
+     <!-- End Logo -->
+=20=20=20=20=20
+     <!-- Social -->
+     <table border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"nomob">
+  <tr>
+    <td align=3D"right" valign=3D"top" style=3D"padding-top: 20px;">
+     <table border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"nomob">
+          <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"font-family: 'Ope=
+n Sans', Arial, Helvetica, sans-serif; font-size: 13px; color: #323232; tex=
+t-decoration: none; line-height: 16px; padding-left: 10px;">Follow us:</td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/XB6D9F/7M=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img  src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj=
+_Reloaded/html/images/img_tt.png" width=3D"26" height=3D"26" alt=3D"Twitter=
+" style=3D"display:block; border:none; outline:none; text-decoration:none;"=
+/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/8743T6/7M=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_fb.png" width=3D"26" height=3D"26" alt=3D"Facebook=
+" style=3D"display:block; border:none; outline:none; text-decoration:none;"=
+/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/VTGXEF/7M=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_gPlus.png" width=3D"26" height=3D"26" alt=3D"Googl=
+e Plus" style=3D"display:block; border:none; outline:none; text-decoration:=
+none;"/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/OFPA4E/7M=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_youTube.png" width=3D"26" height=3D"26" alt=3D"You=
+ Tube" style=3D"display:block; border:none; outline:none; text-decoration:n=
+one;"/></a></td>
+<td align=3D"center" valign=3D"middle" style=3D"padding-left: 21px;"><table=
+ width=3D"89" border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"nomob" >
+  <tr>
+    <td height=3D"40" align=3D"center" valign=3D"middle" style=3D"font-fami=
+ly: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 13px; color: #fff=
+fff; text-decoration: none; line-height: 16px; padding:0 20px;" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/login_cta_bg.png"  bgcolor=3D"#0575cf"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/T1H4YF/7M=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 13px; color: #ffffff; text-decoration: none; line-height: 16px;" targe=
+t=3D"_blank"
+>LOG IN</a></td>
+  </tr>
+</table></td>=20=20=20=20=20=20=20=20
+          </tr>
+          </table></td>
+  </tr>
+</table>
+     <!-- End Social -->
+    </td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!--  End Header  -->
+
+
+<!-- Nav Bar -->
+<table width=3D"100n=3D"center" bgcolor=3D"#dbf2ff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 10px;">
+
+    <table  border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"table">
+=20=20=20=20
+  <tr>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 28px;" class=
+=3D"width28perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Q317XJ/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Motor</strong></a></td>
+     <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://i=
+mage.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/=
+img_nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block=
+; border:none; outline:none; text-decoration:none;"/></td>
+  </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"width38perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/RPLMDF/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Home&nbsp;&amp;&nbsp;utilities</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"width33perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/DXYTO4/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Life&nbsp;&amp;&nbsp;family</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"nomob"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+ <td align=3D"left" valign=3D"top" style=3D"font-family: 'Open Sans', Arial=
+, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration: =
+none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Z80IRG/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Money</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"nomob"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+ <td align=3D"left" valign=3D"top" style=3D"font-family: 'Open Sans', Arial=
+, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration: =
+none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/EKIH0K/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Travel</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!-- End Nav Bar -->
+<table width=3D"100n=3D"center" bgcolor=3D"#0f5ec7" background=3D"http://image.confused.com/co=
+nfused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_intro_bg.png" st=
+yle=3D"width:100; mso-table-lspace:0pt; mso-table-rspace:0pt; background-repeat:repeat-x;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0px;"><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table94per" widt=
+h=3D"640">
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font-family: 'Open San=
+s', Arial, Helvetica, sans-serif; font-size: 24px; color: #ffffff; text-dec=
+oration: none; line-height: 32px;"><strong>Hi, </strong>welcome to your for=
+tnightly newsletter.</td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 20px 0;" b=
+gcolor=3D"#eff8ff" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"table94per" width=3D"640">
+      <tr>
+        <td align=3D"left" valign=3D"top" ><table width=3D"310" border=3D"0=
+" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr align=3D"left" valign=3D"middle">
+            <td height=3D"60" bgcolor=3D"#0d4ebc" class=3D"padtb12" ><table=
+ width=3D"100              <tr>
+                <td width=3D"46" align=3D"left" valign=3D"top" style=3D"pad=
+ding:0 20px;"><img  src=3D"http://img.ed4.net/confused/NLA/html/Jun14/image=
+s/icon_down_arrow.png" width=3D"46" height=3D"34" alt=3D"icon_down_arrow.pn=
+g" style=3D"display:block; border:none; outline:none; text-decoration:none;=
+"/></td>
+                <td align=3D"left" valign=3D"middle" ><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                    <tr valign=3D"top">
+                      <td align=3D"left" class=3D"table" style=3D"font-fami=
+ly: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 22px; color: #fff=
+fff; text-decoration: none; line-height: 1.2em; ">In your issue</td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr align=3D"left" valign=3D"middle">
+            <td height=3D"282" class=3D"padtb15" bgcolor=3D"#FFFFFF" style=
+=3D"padding:0px 20px; border-bottom:#00c3ff solid 4px; "><table width=3D"10=
+0              <tr align=3D"left" valign=3D"middle">
+                <td height=3D"65" style=3D"border-bottom:1px #c8d9e5 dashed=
+;" class=3D"padtb12"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td height=3D"5" align=3D"left" valign=3D"top" =
+style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.ed4.net/spac=
+er50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:block; border=
+:none; outline:none; text-decoration:none;"/></td>
+                            </tr>
+                          <tr>
+                            <td width=3D"9" align=3D"left" valign=3D"top" s=
+tyle=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/YGOFD3/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                            </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                      </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/MJNWCD/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>The six best cars for adventurous families</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"middle">
+                <td height=3D"65" style=3D"border-bottom:1px #c8d9e5 dashed=
+;" class=3D"padtb12"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td height=3D"5" align=3D"left" valign=3D"top" =
+style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.ed4.net/spac=
+er50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:block; border=
+:none; outline:none; text-decoration:none;"/></td>
+                            </tr>
+                          <tr>
+                            <td width=3D"9" align=3D"left" valign=3D"top" s=
+tyle=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/ULB94F/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                            </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                      </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/K9R5OD/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>Car insurance prices on the rise again</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"middle">
+                <td height=3D"65" style=3D"border-bottom:1px #c8d9e5 dashed=
+;" class=3D"padtb12"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td height=3D"5" align=3D"left" valign=3D"top" =
+style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.ed4.net/spac=
+er50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:block; border=
+:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td width=3D"9" align=3D"left" valign=3D"top" s=
+tyle=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/6AMHR0/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                        </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                      </tr>
+                    </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/IES76D/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>Should petrol prices be even lower?</a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"middle">
+                <td height=3D"65" class=3D"padtb12"><table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td height=3D"5" align=3D"left" valign=3D"top" =
+style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.ed4.net/spac=
+er50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:block; border=
+:none; outline:none; text-decoration:none;"/></td>
+                            </tr>
+                          <tr>
+                            <td width=3D"9" align=3D"left" valign=3D"top" s=
+tyle=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/MJNWV9/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                            </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                      </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Z80NIG/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>&pound;25 cashback when you switch energy!</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+=20=20=20=20=20=20=20=20=20=20
+
+<table width=3D"310" border=3D"0" align=3D"right" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"table_top20">
+            <tr align=3D"left" valign=3D"top">
+              <td height=3D"135" class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Z80NYC/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/twq4.png" c=
+lass=3D"image_resize"  alt=3D"Confused.com car insurance price index" width=
+=3D"310" height=3D"135" style=3D"display:block; border:none; outline:none; =
+text-decoration:none;"/></a></td>
+            </tr>
+            <tr class=3D"table94per">
+              <td height=3D"0" align=3D"left" valign=3D"top" style=3D"line-=
+height:0px; font-size:0px;" class=3D"noheight" ><div style=3D"display:none;=
+font-size:0;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-heig=
+ht-rule: exactly;-webkit-text-size-adjust:none;" class=3D"show_in_mob">
+                <!--[if !mso]><!-->
+                <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/YGOFDC/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/twq4.png" c=
+lass=3D"image_resize"  alt=3D"Confused.com car insurance price index_mob" w=
+idth=3D"640" height=3D"150" style=3D"display:block; border:none; outline:no=
+ne; text-decoration:none;"/></a>
+                <!--<![endif]-->
+                </div>
+                &nbsp;</td>
+            </tr>
+            <tr align=3D"left" valign=3D"middle" >
+              <td height=3D"139" bgcolor=3D"#FFFFFF" style=3D"padding:0px 2=
+0px" class=3D"padtb15"><table width=3D"100 cellpadding=3D"0">
+                <tr align=3D"left" valign=3D"top">
+                  <td height=3D"70" style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 18px; color: #000a8c; text-decoration:=
+ none; line-height: 1.2em; ">Car insurance prices on the rise again.</td>
+                </tr>
+                <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #006522; =
+text-decoration: none; line-height: 19px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/CWD01E/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #00=
+6522; line-height: 19px; "
+><strong>Get car insurance</strong></a></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr align=3D"left" valign=3D"bottom" class=3D"table">
+              <td height=3D"68" bgcolor=3D"#FFFFFF" style=3D"border-bottom:=
+#00c3ff solid 4px;" class=3D"noheight" ><table width=3D"100cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td align=3D"right" valign=3D"middle" style=3D"padding-ri=
+ght:20px;" class=3D"nomob"></td>
+                  <td align=3D"center" valign=3D"middle" bgcolor=3D"#00c3ff=
+" style=3D"padding:10px 15px;" class=3D"nopadding"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+                    <tr>
+                      <td align=3D"left" valign=3D"middle" ><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+                        <tr >
+                            <td align=3D"left" valign=3D"top" style=3D"padd=
+ing-right:10px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; fon=
+t-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2em;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/527TJD/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2e=
+m;" class=3D"cta_txt_link"
+>Find out more</a></td>
+                          </tr>
+                      </table></td>
+                      <td width=3D"8" align=3D"left" valign=3D"middle" clas=
+s=3D"nomob" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"8" align=3D"left" valign=3D"top" sty=
+le=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Z80NY5/7M=
+/h?a=3D806" target=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/white_arrow.png" width=3D"8" height=3D"13" alt=3D"" st=
+yle=3D"display:block; border:none; outline:none; text-decoration:none;"/></=
+a></td>
+                        </tr>
+                      </table></td>
+                      </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 20px 0;" b=
+gcolor=3D"#eff8ff" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"table94per" width=3D"640">
+      <tr>
+        <td align=3D"left" valign=3D"top" ><table width=3D"310" border=3D"0=
+" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table_top20">
+          <tr align=3D"left" valign=3D"top">
+              <td height=3D"135" class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/3CA1SC/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/famcars.jpg=
+" class=3D"image_resize"  alt=3D"Ford S-Max" width=3D"310" height=3D"135" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+            </tr>
+            <tr class=3D"table94per">
+              <td height=3D"0" align=3D"left" valign=3D"top" style=3D"line-=
+height:0px; font-size:0px;" class=3D"noheight" ><div style=3D"display:none;=
+font-size:0;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-heig=
+ht-rule: exactly;-webkit-text-size-adjust:none;" class=3D"show_in_mob">
+                <!--[if !mso]><!-->
+                <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/K9R50S/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/famcars.jpg=
+" class=3D"image_resize"  alt=3D"Ford S-Max_mob" width=3D"640" height=3D"15=
+0" style=3D"display:block; border:none; outline:none; text-decoration:none;=
+"/></a>
+                <!--<![endif]-->
+                </div>
+                &nbsp;</td>
+            </tr>
+            <tr align=3D"left" valign=3D"middle" >
+              <td height=3D"139" bgcolor=3D"#FFFFFF" style=3D"padding:0px 2=
+0px" class=3D"padtb15"><table width=3D"100 cellpadding=3D"0">
+                <tr align=3D"left" valign=3D"top">
+                  <td height=3D"70" style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 18px; color: #000a8c; text-decoration:=
+ none; line-height: 1.2em; ">The six best cars for adventurous families.</t=
+d>
+                </tr>
+                <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #006522; =
+text-decoration: none; line-height: 19px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/4VZLJA/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #00=
+6522; line-height: 19px; "
+><strong>Get car insurance</strong></a></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr align=3D"left" valign=3D"bottom" class=3D"table">
+              <td height=3D"68" bgcolor=3D"#FFFFFF" style=3D"border-bottom:=
+#00c3ff solid 4px;" class=3D"noheight" ><table width=3D"100cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td align=3D"right" valign=3D"middle" style=3D"padding-ri=
+ght:20px;" class=3D"nomob"></td>
+                  <td align=3D"center" valign=3D"middle" bgcolor=3D"#00c3ff=
+" style=3D"padding:10px 15px;" class=3D"nopadding"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+                    <tr>
+                      <td align=3D"left" valign=3D"middle" ><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+                        <tr >
+                            <td align=3D"left" valign=3D"top" style=3D"padd=
+ing-right:10px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; fon=
+t-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2em;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/FDE2BS/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2e=
+m;" class=3D"cta_txt_link"
+>Read more</a></td>
+                          </tr>
+                      </table></td>
+                      <td width=3D"8" align=3D"left" valign=3D"middle" clas=
+s=3D"nomob" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"8" align=3D"left" valign=3D"top" sty=
+le=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/3CA1S5/7M=
+/h?a=3D806" target=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/white_arrow.png" width=3D"8" height=3D"13" alt=3D"" st=
+yle=3D"display:block; border:none; outline:none; text-decoration:none;"/></=
+a></td>
+                        </tr>
+                      </table></td>
+                      </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+        </table>
+=20=20=20=20=20=20=20=20=20=20
+
+<table width=3D"310" border=3D"0" align=3D"right" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"table_top20">
+            <tr align=3D"left" valign=3D"top">
+              <td height=3D"135" class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/DXYC1O/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/speedcam.jp=
+g" class=3D"image_resize"  alt=3D"Speed camera sign" width=3D"310" height=
+=3D"135" style=3D"display:block; border:none; outline:none; text-decoration=
+:none;"/></a></td>
+            </tr>
+            <tr class=3D"table94per">
+              <td height=3D"0" align=3D"left" valign=3D"top" style=3D"line-=
+height:0px; font-size:0px;" class=3D"noheight" ><div style=3D"display:none;=
+font-size:0;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-heig=
+ht-rule: exactly;-webkit-text-size-adjust:none;" class=3D"show_in_mob">
+                <!--[if !mso]><!-->
+                <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/ULB95Q/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/speedcam.jp=
+g" class=3D"image_resize"  alt=3D"Speed camera sign_mob" width=3D"640" heig=
+ht=3D"150" style=3D"display:block; border:none; outline:none; text-decorati=
+on:none;"/></a>
+                <!--<![endif]-->
+                </div>
+                &nbsp;</td>
+            </tr>
+            <tr align=3D"left" valign=3D"middle" >
+              <td height=3D"139" bgcolor=3D"#FFFFFF" style=3D"padding:0px 2=
+0px" class=3D"padtb15"><table width=3D"100 cellpadding=3D"0">
+                <tr align=3D"left" valign=3D"top">
+                  <td height=3D"70" style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 18px; color: #000a8c; text-decoration:=
+ none; line-height: 1.2em; ">Digital speed cameras blamed for increase in f=
+ines.</td>
+                </tr>
+                <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #006522; =
+text-decoration: none; line-height: 19px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/202UEU/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #00=
+6522; line-height: 19px; "
+><strong>Get car insurance</strong></a></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr align=3D"left" valign=3D"bottom" class=3D"table">
+              <td height=3D"68" bgcolor=3D"#FFFFFF" style=3D"border-bottom:=
+#00c3ff solid 4px;" class=3D"noheight" ><table width=3D"100cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td align=3D"right" valign=3D"middle" style=3D"padding-ri=
+ght:20px;" class=3D"nomob"></td>
+                  <td align=3D"center" valign=3D"middle" bgcolor=3D"#00c3ff=
+" style=3D"padding:10px 15px;" class=3D"nopadding"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" class=3D"table">
+                    <tr>
+                      <td align=3D"left" valign=3D"middle" ><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table">
+                        <tr >
+                            <td align=3D"left" valign=3D"top" style=3D"padd=
+ing-right:10px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; fon=
+t-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2em;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/SUTE7J/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #ffffff; text-decoration: none; line-height: 1.2e=
+m;" class=3D"cta_txt_link"
+>Read more</a></td>
+                          </tr>
+                      </table></td>
+                      <td width=3D"8" align=3D"left" valign=3D"middle" clas=
+s=3D"nomob" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                          <td width=3D"8" align=3D"left" valign=3D"top" sty=
+le=3D"font-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/B4KOPA/7M=
+/h?a=3D806" target=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/white_arrow.png" width=3D"8" height=3D"13" alt=3D"" st=
+yle=3D"display:block; border:none; outline:none; text-decoration:none;"/></=
+a></td>
+                        </tr>
+                      </table></td>
+                      </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 0 0;" bgco=
+lor=3D"#f5f1ec" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" class=3D"table">
+        <td bgcolor=3D"#0d4ebc" style=3D"padding:10px 0px;"><table width=3D=
+"100          <tr>
+            <td width=3D"46" align=3D"left" valign=3D"middle" style=3D"padd=
+ing:0 20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                  <td><img  src=3D"http://img.ed4.net/confused/NLA/html/Jun=
+14/images/icon_speech_bubble.png" width=3D"46" height=3D"34" alt=3D"icon_sp=
+eech_bubble.png" style=3D"display:block; border:none; outline:none; text-de=
+coration:none;"/></td>
+                </tr>
+            </table></td>
+            <td class=3D"table" style=3D"font-family: 'Open Sans', Arial, H=
+elvetica, sans-serif; font-size: 22px; color: #ffffff; text-decoration: non=
+e; line-height: 1.2em; ">Have your say</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0px 0 20px 0;" bg=
+color=3D"#f5f1ec" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"table94per" width=3D"640">
+      <tr >
+        <td class=3D"nomob" style=3D"border-bottom:#00c3ff solid 4px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/VTGSXC/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/petrol-d.jp=
+g" class=3D"image_resize"  alt=3D"Petrol pump" width=3D"640" style=3D"displ=
+ay:block; border:none; outline:none; text-decoration:none;"/></a></td>
+      </tr>
+      <tr>
+        <td align=3D"left" valign=3D"top" style=3D"line-height:0px; font-si=
+ze:0px;" class=3D"blue_base_border" ><div style=3D"display:none;font-size:0=
+;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-height-rule: ex=
+actly;-webkit-text-size-adjust:none;" class=3D"show_in_mob">
+          <!--[if !mso]><!-->
+          <a
+
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/6AMHFD/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/petrol-m.jp=
+g" class=3D"image_resize"  alt=3D"Petrol pump_mob" width=3D"640" height=3D"=
+150" style=3D"display:block; border:none; outline:none; text-decoration:non=
+e;"/></a>
+          <!--<![endif]-->
+        </div>
+          &nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 0 0;" bgco=
+lor=3D"#f5f1ec" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" class=3D"table">
+        <td bgcolor=3D"#0d4ebc" style=3D"padding:10px 0px;"><table width=3D=
+"100          <tr>
+            <td width=3D"46" align=3D"left" valign=3D"middle" style=3D"padd=
+ing:0 20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                  <td><img  src=3D"http://img.ed4.net/confused/NLA/html/Jun=
+14/images/icon_pound_sign.png" width=3D"46" height=3D"34" alt=3D"icon_pound=
+_sign.png" style=3D"display:block; border:none; outline:none; text-decorati=
+on:none;"/></td>
+                </tr>
+            </table></td>
+            <td class=3D"table" style=3D"font-family: 'Open Sans', Arial, H=
+elvetica, sans-serif; font-size: 22px; color: #ffffff; text-decoration: non=
+e; line-height: 1.2em; ">Cashback offer</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0px 0 20px 0;" bg=
+color=3D"#f5f1ec" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"table94per" width=3D"640">
+      <tr >
+        <td class=3D"nomob" style=3D"border-bottom:#00c3ff solid 4px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/874GBH/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/ECBbannerd.=
+jpg" class=3D"image_resize"  alt=3D"Energy cashback offer" width=3D"640" st=
+yle=3D"display:block; border:none; outline:none; text-decoration:none;"/></=
+a></td>
+      </tr>
+      <tr>
+        <td align=3D"left" valign=3D"top" style=3D"line-height:0px; font-si=
+ze:0px;" class=3D"blue_base_border" ><div style=3D"display:none;font-size:0=
+;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-height-rule: ex=
+actly;-webkit-text-size-adjust:none;" class=3D"show_in_mob">
+          <!--[if !mso]><!-->
+          <a
+
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/XB6RJJ/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/ECBbannerm.=
+jpg" class=3D"image_resize"  alt=3D"Energy cashback offer_mob" width=3D"640=
+" height=3D"150" style=3D"display:block; border:none; outline:none; text-de=
+coration:none;"/></a>
+          <!--<![endif]-->
+        </div>
+          &nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 0 0;" bgco=
+lor=3D"#e3ded7" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" class=3D"table">
+        <td bgcolor=3D"#0d4ebc" style=3D"padding:10px 0px;"><table width=3D=
+"100          <tr>
+            <td width=3D"46" align=3D"left" valign=3D"middle" style=3D"padd=
+ing:0 20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                  <td><img  src=3D"http://img.ed4.net/confused/NLA/html/Jun=
+14/images/icon_pound_sign.png" width=3D"46" height=3D"34" alt=3D"icon_pound=
+_sign.png" style=3D"display:block; border:none; outline:none; text-decorati=
+on:none;"/></td>
+                </tr>
+            </table></td>
+            <td class=3D"table" style=3D"font-family: 'Open Sans', Arial, H=
+elvetica, sans-serif; font-size: 22px; color: #ffffff; text-decoration: non=
+e; line-height: 1.2em; ">Top cards</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0 0 0 0;" bgcolor=
+=3D"#e3ded7" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" >
+        <td style=3D"padding:25px;" ><table width=3D"200" border=3D"0" alig=
+n=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr class=3D"table_top20">
+            <td class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/4VZLPT/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20140915/POW-barclay=
+card.jpg"   alt=3D"Barclaycard Platinum" width=3D"200" height=3D"150" style=
+=3D"display:block; border:none; outline:none; text-decoration:none;"/></a><=
+/td>
+          </tr>
+          <tr>
+            <td align=3D"left" valign=3D"top" style=3D"line-height:0px; fon=
+t-size:0px;" ><div style=3D"display:none;font-size:0;max-height:0;height:0p=
+x;width:0px;overflow:hidden;mso-line-height-rule: exactly;-webkit-text-size=
+-adjust:none;" class=3D"show_in_mob">
+              <!--[if !mso]><!-->
+              <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/PNUDWI/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img src=3D"http://img.ed4.net/confusedcom/images/Reloaded/PCF/M_Barclays_=
+600.png" class=3D"image_resize"  alt=3D"Barclaycard Platinum_mob" width=3D"=
+200" height=3D"150" style=3D"display:block; border:none; outline:none; text=
+-decoration:none;"/></a>
+              <!--<![endif]-->
+            </div>
+              </td>
+          </tr>
+          </table>
+          <table width=3D"370" border=3D"0" align=3D"right" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"table_top20">
+            <tr>
+              <td align=3D"left" valign=3D"top"><table width=3D"100r=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <!--  Header 1a  -->
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 18px; color: #000a8c; =
+text-decoration: none; line-height: 1.2em; padding: 0 0 6px 0px;">Barclayca=
+rd Platinum</td>
+                  <!--  End Header 1a  -->
+                </tr>
+              </table>
+                <table width=3D"100dding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #545454=
+; text-decoration: none; line-height: 19px; padding-bottom:10px; " >35 mont=
+hs 0erest-free period ever available in the UK.</td>
+                  </tr>
+                </table>
+                <table width=3D"100dding=3D"0" class=3D"table_top20">
+                  <tr align=3D"left" valign=3D"top">
+                    <td><table width=3D"170" border=3D"0" align=3D"left" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 12px;"><table width=3D"100cing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/green_cta_bg.png" bgcolor=3D"#90c029" class=3D"green_cta_bg noh=
+eight"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #003414; text-decoration:=
+ none; line-height: 13px;"  ><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/Z80NJU/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #003414; text-decoration: none;=
+ line-height: 13px;" class=3D"cta_txt_link"
+><strong>Apply now</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                    <!--  End CTA 1  -->
+                    <!--  CTA 2  -->
+                    <table width=3D"170" border=3D"0" align=3D"right" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 6px;"><table width=3D"100ing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/blue_cta_bg2.png" bgcolor=3D"#0575cf" class=3D"blue_cta_bg nohe=
+ight"><table width=3D"100">
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration:=
+ none; line-height: 13px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/LSF47D/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration: none;=
+ line-height: 13px; " class=3D"cta_txt_link"
+><strong>Compare all cards</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" bgcolor=3D"#e3ded7" style=3D"paddin=
+g-bottom:20px;" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr bgcolor=3D"#eff8ff" class=3D"table_top20" >
+        <td align=3D"left" valign=3D"top" style=3D"border-bottom:#00c3ff so=
+lid 4px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:=
+ 18px; color:#323232; line-height:1.3em; padding:10px 25px;" >Representativ=
+e example: Representative 18.9 &pound;1,200. Rate of interest 18.9      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" bgcolor=3D"#e3ded7" style=3D"paddin=
+g-bottom:20px;" ></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0 0 0 0;" bgcolor=
+=3D"#e3ded7" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" >
+        <td style=3D"padding:25px;" ><table width=3D"200" border=3D"0" alig=
+n=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr class=3D"table_top20">
+            <td class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/RPLIY7/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20141124/Santander.p=
+ng"   alt=3D"Santander 123" width=3D"200" height=3D"150" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></a></td>
+          </tr>
+          <tr>
+            <td align=3D"left" valign=3D"top" style=3D"line-height:0px; fon=
+t-size:0px;" ><div style=3D"display:none;font-size:0;max-height:0;height:0p=
+x;width:0px;overflow:hidden;mso-line-height-rule: exactly;-webkit-text-size=
+-adjust:none;" class=3D"show_in_mob">
+              <!--[if !mso]><!-->
+              <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/FDE2VB/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img src=3D"http://img.ed4.net/confusedcom/images/NSL20141124/Santander.pn=
+g" class=3D"image_resize"  alt=3D"Santander 123_mob" width=3D"200" height=
+=3D"150" style=3D"display:block; border:none; outline:none; text-decoration=
+:none;"/></a>
+              <!--<![endif]-->
+            </div>
+              </td>
+          </tr>
+          </table>
+          <table width=3D"370" border=3D"0" align=3D"right" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"table_top20">
+            <tr>
+              <td align=3D"left" valign=3D"top"><table width=3D"100r=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <!--  Header 1a  -->
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 18px; color: #000a8c; =
+text-decoration: none; line-height: 1.2em; padding: 0 0 6px 0px;">Santander=
+ 123</td>
+                  <!--  End Header 1a  -->
+                </tr>
+              </table>
+                <table width=3D"100dding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #545454=
+; text-decoration: none; line-height: 19px; padding-bottom:10px; " >The lon=
+gest purchase card ever available in the UK. 23 months 0s 23 months 0                  </tr>
+                </table>
+                <table width=3D"100dding=3D"0" class=3D"table_top20">
+                  <tr align=3D"left" valign=3D"top">
+                    <td><table width=3D"170" border=3D"0" align=3D"left" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 12px;"><table width=3D"100cing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/green_cta_bg.png" bgcolor=3D"#90c029" class=3D"green_cta_bg noh=
+eight"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #003414; text-decoration:=
+ none; line-height: 13px;"  ><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/7Z5BH3/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #003414; text-decoration: none;=
+ line-height: 13px;" class=3D"cta_txt_link"
+><strong>Apply now</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                    <!--  End CTA 1  -->
+                    <!--  CTA 2  -->
+                    <table width=3D"170" border=3D"0" align=3D"right" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 6px;"><table width=3D"100ing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/blue_cta_bg2.png" bgcolor=3D"#0575cf" class=3D"blue_cta_bg nohe=
+ight"><table width=3D"100">
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration:=
+ none; line-height: 13px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/B4KO6T/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration: none;=
+ line-height: 13px; " class=3D"cta_txt_link"
+><strong>Compare all cards</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" bgcolor=3D"#e3ded7" style=3D"paddin=
+g-bottom:20px;" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr bgcolor=3D"#eff8ff" class=3D"table_top20" >
+        <td align=3D"left" valign=3D"top" style=3D"border-bottom:#00c3ff so=
+lid 4px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:=
+ 18px; color:#323232; line-height:1.3em; padding:10px 25px;" >Representativ=
+e example: Representative 16.5 and assumed borrowing of &pound;1,200. Rate of interest 12.7nnual.</td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" bgcolor=3D"#e3ded7" style=3D"paddin=
+g-bottom:20px;" ></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0 0 0 0;" bgcolor=
+=3D"#e3ded7" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"table94per" width=3D"640">
+      <tr align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" >
+        <td style=3D"padding:25px;" ><table width=3D"200" border=3D"0" alig=
+n=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr class=3D"table_top20">
+            <td class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/PNUDX3/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img  src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/aqua.png"  =
+ alt=3D"Aqua advance" width=3D"200" height=3D"150" style=3D"display:block; =
+border:none; outline:none; text-decoration:none;"/></a></td>
+          </tr>
+          <tr>
+            <td align=3D"left" valign=3D"top" style=3D"line-height:0px; fon=
+t-size:0px;" ><div style=3D"display:none;font-size:0;max-height:0;height:0p=
+x;width:0px;overflow:hidden;mso-line-height-rule: exactly;-webkit-text-size=
+-adjust:none;" class=3D"show_in_mob">
+              <!--[if !mso]><!-->
+              <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/3CA1P2/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none; "
+><img src=3D"http://img.ed4.net/confusedcom/images/NSL20150119/aqua.png" cl=
+ass=3D"image_resize"  alt=3D"Aqua advance_mob" width=3D"200" height=3D"150"=
+ style=3D"display:block; border:none; outline:none; text-decoration:none;"/=
+></a>
+              <!--<![endif]-->
+            </div>
+              </td>
+          </tr>
+          </table>
+          <table width=3D"370" border=3D"0" align=3D"right" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"table_top20">
+            <tr>
+              <td align=3D"left" valign=3D"top"><table width=3D"100r=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <!--  Header 1a  -->
+                  <td align=3D"left" valign=3D"top" style=3D"font-family: '=
+Open Sans', Arial, Helvetica, sans-serif; font-size: 18px; color: #000a8c; =
+text-decoration: none; line-height: 1.2em; padding: 0 0 6px 0px;">Aqua adva=
+nce</td>
+                  <!--  End Header 1a  -->
+                </tr>
+              </table>
+                <table width=3D"100dding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #545454=
+; text-decoration: none; line-height: 19px; padding-bottom:10px; " >Aimed a=
+t customers who are new to credit or are looking to improve their credit ra=
+ting. You could ce your APR to 19.9 and keeping to your credit limit. </td>
+                  </tr>
+                </table>
+                <table width=3D"100dding=3D"0" class=3D"table_top20">
+                  <tr align=3D"left" valign=3D"top">
+                    <td><table width=3D"170" border=3D"0" align=3D"left" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 12px;"><table width=3D"100cing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/green_cta_bg.png" bgcolor=3D"#90c029" class=3D"green_cta_bg noh=
+eight"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #003414; text-decoration:=
+ none; line-height: 13px;"  ><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/B4KO8K/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #003414; text-decoration: none;=
+ line-height: 13px;" class=3D"cta_txt_link"
+><strong>Apply now</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                    <!--  End CTA 1  -->
+                    <!--  CTA 2  -->
+                    <table width=3D"170" border=3D"0" align=3D"right" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"table">
+                      <tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding-=
+bottom: 6px;"><table width=3D"100ing=3D"0" class=3D"table">
+                          <tr valign=3D"middle" >
+                            <td height=3D"54" align=3D"center" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/blue_cta_bg2.png" bgcolor=3D"#0575cf" class=3D"blue_cta_bg nohe=
+ight"><table width=3D"100">
+                              <tr align=3D"center" valign=3D"top">
+                                <td style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration:=
+ none; line-height: 13px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/FDE2CQ/7M=
+/h?a=3D806" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, Hel=
+vetica, sans-serif; font-size: 13px; color: #ffffff; text-decoration: none;=
+ line-height: 13px; " class=3D"cta_txt_link"
+><strong>Compare all cards</strong></a></td>
+                                </tr>
+                              </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" bgcolor=3D"#e3ded7" style=3D"paddin=
+g-bottom:20px;" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table94per" width=3D"640">
+      <tr bgcolor=3D"#eff8ff" class=3D"table_top20" >
+        <td align=3D"left" valign=3D"top" style=3D"border-bottom:#00c3ff so=
+lid 4px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:=
+ 18px; color:#323232; line-height:1.3em; padding:10px 25px;" >Representativ=
+e example: Representative 34.9 &pound;1,200. Rate of interest 34.91      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+<table width=3D"100n=3D"center"  style=3D"width:100ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 20px 0;" b=
+gcolor=3D"#eff8ff" ><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"table94per" width=3D"640">
+      <tr>
+        <td align=3D"left" valign=3D"top" ><table width=3D"1000" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"table">
+          <tr align=3D"left" valign=3D"top">
+            <td bgcolor=3D"#0d4ebc" style=3D"padding:10px 0px;"><table widt=
+h=3D"100              <tr>
+                <td width=3D"46" align=3D"left" valign=3D"top" style=3D"pad=
+ding:0 20px;"><img  src=3D"http://img.ed4.net/confused/NLA/html/Jun14/image=
+s/icon_article_news.png" width=3D"46" height=3D"34" alt=3D"icon_article_new=
+s.png" style=3D"display:block; border:none; outline:none; text-decoration:n=
+one;"/></td>
+                <td class=3D"table" style=3D"font-family: 'Open Sans', Aria=
+l, Helvetica, sans-serif; font-size: 22px; color: #ffffff; text-decoration:=
+ none; line-height: 1.2em; ">Popular articles</td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr align=3D"left" valign=3D"top">
+            <td bgcolor=3D"#FFFFFF" style=3D"padding:10px 20px 20px 20px; b=
+order-bottom:#00c3ff solid 4px; "><table width=3D"100acing=3D"0" cellpadding=3D"0">
+              <tr align=3D"left" valign=3D"top">
+                <td style=3D"border-bottom:1px #c8d9e5 dashed; padding:10px=
+ 0 5px 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td width=3D"9" height=3D"5" align=3D"left" val=
+ign=3D"top" style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.=
+ed4.net/spacer50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"font=
+-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/FDE2H1/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                      </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/9MW83F/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>Seven facts about the changing cost of car insurance</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"top">
+                <td style=3D"border-bottom:1px #c8d9e5 dashed; padding:10px=
+ 0 5px 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td width=3D"9" height=3D"5" align=3D"left" val=
+ign=3D"top" style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.=
+ed4.net/spacer50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"font=
+-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/JQJM68/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                    </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/YGOFDD/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>Car review: Nissan Juke</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"top">
+                <td style=3D"border-bottom:1px #c8d9e5 dashed; padding:10px=
+ 0 5px 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td width=3D"9" height=3D"5" align=3D"left" val=
+ign=3D"top" style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.=
+ed4.net/spacer50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"font=
+-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/T1HQ54/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                    </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/RPLI75/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>Why are our motorway service stations so awful?</a></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"top">
+                <td style=3D"border-bottom:1px #c8d9e5 dashed; padding:10px=
+ 0 5px 0;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td width=3D"9" height=3D"5" align=3D"left" val=
+ign=3D"top" style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.=
+ed4.net/spacer50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"font=
+-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/HI9ZGO/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                    </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/GYQABO/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>How to protect yourself against gazumpers</a></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr align=3D"left" valign=3D"top">
+                <td style=3D"padding:10px 0 10px 0;"><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                      <tr>
+                        <td width=3D"8" align=3D"left" valign=3D"top"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td width=3D"9" height=3D"5" align=3D"left" val=
+ign=3D"top" style=3D"font-size: 0; line-height: 0;"><img src=3D"http://img.=
+ed4.net/spacer50.gif" width=3D"1" height=3D"5"  alt=3D"" style=3D"display:b=
+lock; border:none; outline:none; text-decoration:none;"/></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"font=
+-size: 0; line-height: 0;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/FDE2HO/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: none;"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/orange_arrow.png" width=3D"8" height=3D"13" alt=3D"" s=
+tyle=3D"display:block; border:none; outline:none; text-decoration:none;"/><=
+/a></td>
+                          </tr>
+                          </table></td>
+                        <td width=3D"8" align=3D"left" valign=3D"top" style=
+=3D"font-size: 0; line-height: 0;" ><img src=3D"http://img.ed4.net/spacer50=
+.gif" width=3D"10" height=3D"1"  alt=3D"" style=3D"display:block; border:no=
+ne; outline:none; text-decoration:none;"/></td>
+                        </tr>
+                    </table></td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+ 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d4ebc=
+; text-decoration: none; line-height: 19px; padding-bottom: 10px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/XB6RK9/7M=
+/h?a=3D806" target=3D"_blank" style=3D"text-decoration: underline; font-fam=
+ily: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 14px; color: #0d=
+4ebc; line-height: 19px; "
+>How much could a New Year's sickie cost you?</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+
+
+<!-- Footer Nav -->
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 30px 0;" class=3D=
+"nopadding"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"640" class=3D"table">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open San=
+s', Arial, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-dec=
+oration: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/MJNV5R/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>About</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/DXYTOD/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Contact&nbsp;us</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/IES6AS/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>FAQs</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/JQJOZR/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Press</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/NR324U/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Privacy</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/JQJOZN/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Terms&nbsp;&amp;&nbsp;conditions</strong></a></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;" class=3D"nomob">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0px 0;">
+
+    <table width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" a=
+lign=3D"center" bgcolor=3D"#edf5fc" style=3D"width:640px !important; margin=
+:0; padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rs=
+pace:0pt;">
+  <tr>
+    <td style=3D"padding-bottom:2px; line-height:0px; font-size:0px;" bgcol=
+or=3D"#eff8ff">&nbsp;</td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!-- End Footer Nav -->
+
+<!--  Footer  -->
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 50px 0;">
+
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"footer=
+Width" width=3D"640">
+=20=20=20=20
+  <tr>
+          <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open S=
+ans', Arial, Helvetica, sans-serif; font-size: 12px; color: #323232; text-d=
+ecoration: none; line-height: 20px;">&#169; Copyright 2015 Confused.com. Al=
+l&nbsp;rights&nbsp;reserved. <br />
+            This email is sent for and on behalf of Inspop.com Limited trad=
+ing as Confused.com. Inspop.com Limited registered in England and Wales at =
+3rd Floor, Greyfriars House, Greyfriars Road, Cardiff CF10 3AL (Reg. No.038=
+57130). Inspop.com Limited is authorised and regulated by the Financial Con=
+duct Authority (Firm reference number: 310635).<br /><br /><span class=3D"f=
+ooterWrapLink2"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/B4K18E/7M=
+/h?a=3Dhttp://view.ed4.net/v/BMM0066/NR327Z/TOXXBRQ/RNGM7M/&b=3D806" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 12px=
+; color: #323232; text-decoration: underline; line-height: 20px;" class=3D"=
+font12 " target=3D"_blank"
+>If this email is not displayed correctly, please&nbsp;click&nbsp;here</a><=
+/span> <span class=3D"nomob">|</span> <span class=3D"footerWrapLink"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/CWDL69/7M=
+/h?a=3Dhttp://view.ed4.net/v/BMM0066/NR327Z/TOXXBRQ/RNGM7M/&b=3D806" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 12px=
+; color: #323232; text-decoration: underline; line-height: 20px;" class=3D"=
+font12" target=3D"_blank"
+>View this email in your browser</a></span> <span class=3D"nomob"><br />
+            <br />
+            </span>Add us to your address book<br />
+            To ensure our emails are delivered to your inbox please add our=
+ address to your address book or safe sender list.<br />
+            <br />
+            Unsubscribes<br />
+            We are sending you this email because you registered on our web=
+site. If you would prefer not to receive further
+            marketing emails from Confused.com then please <a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/YGOYJZ/7M=
+/h?a=3DRNGM7M&b=3Dmartinburnett.wanadoo@fs.net&c=3D704842481&d=3DNR327Z&e=
+=3D{30849712-8569-4e00-87b3-b89f2dee7a15}&f=3D{40e5e647-b508-4d5b-a844-748f=
+5ca00a3f}" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif;=
+ font-size: 12px; color: #323232; text-decoration: underline; line-height: =
+20px;" target=3D"_blank"
+>click here</a> to unsubscribe.<br />
+            <span class=3D"footerWrapLink2"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/YGOYJ7/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 12px; color: #323232; text-decoration: underline; line-height:=
+ 20px;" class=3D"font12 " target=3D"_blank"
+>Privacy policy</a></span> <span class=3D"nomob">|</span> <span class=3D"fo=
+oterWrapLink"><a
+ href=3D"http://link.confused.com/r/BMM0066/97YVRK/D49TLT/3CZBH06/7Z5NTE/7M=
+/h?a=3D806" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 12px; color: #323232; text-decoration: underline; line-height:=
+ 20px;" class=3D"font12 " target=3D"_blank"
+>Terms and conditions</a></span></td>
+        </tr>
+=20=20
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!--  End Footer  -->
+=20=20=20
+<!-- End Master template  -->
+</body>
+</html><img height=3D"1" width=3D"1" src=3D"http://link.confused.com/o/BMM0=
+066/97YVRK/D49TLT/3CZBH06/FD4J/MS"><img height=3D"1" width=3D"1" src=3D"htt=
+p://link.confused.com/o/BMM0066/97YVRK/D49TLT/3CZBH06/FD4J/52"><!-- [[BMM00=
+66-NR327Z-97YVRK-D49TLT-3CZBH06-M-M2-20150119-db2c2e3096db6]] -->
+
+---_-_-_-_-_1234567890--
+

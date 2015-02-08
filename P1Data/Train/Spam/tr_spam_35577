@@ -1,0 +1,96 @@
+From @..  Tue Jan 13 09:00:09 2015
+Return-Path: <@..>
+X-Original-To: vnd@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 74397DF; Tue, 13 Jan 2015 09:00:09 +0000 (UTC)
+Received: from mail-pa0-f77.google.com (mail-pa0-f77.google.com [209.85.220.77])
+    by .. with SMTP id e4zhkspb946y43dujke6mj2h5s;
+    for vnd@fs.net;
+    Tue, 13 Jan 2015 09:00:09 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.220.77; envelope-from=<>; helo=mail-pa0-f77.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.220.77; client-port=56521;
+    syn-fingerprint=42900:47:0:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 66.249.94.20 72.14.239.191 72.14.233.111
+    216.239.48.68 64.233.174.125 209.85.220.77; network-path-time=1421139609
+Received: by mail-pa0-f77.google.com with SMTP id et14so39744pad.0
+        for <vnd@fs.net>; Tue, 13 Jan 2015 00:59:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type
+         :content-transfer-encoding;
+        bh=+AcZaOUGjgVeKh/bqCycsRp/AoZ8+S61SAwl9NJDx9A=;
+        b=i8BCp04Rk/x+WP0xT8JYQyPshozj+gVsZMWSq/45WJQm6hI2HybcK1JJqjDtCq8tq/
+         HoF2mnCeNrtg830mXrDILAMn4cogx9NZe52Nvv7dlUmFho/BwlOLWoXEjuAL0iZu8wFU
+         Qx3kOkwtxz+vI57LrBcKWQ+CqIOQKDIpYnWg0CA2acXie45rZqyfuT6HNS5A0pyQ2lZU
+         f6b0pDKUtCVBnzQ4jNGUFZp1gpdJlickf6+7aCVmI3mgOO1TKuSCyU/nfzxPzpk5o7iN
+         mWNSvl6Gzcp+Snssc0fXAkzj0RrWaxrNo1jHjV44uJ1hPPwfEv+KGjB/BO8VhMlhFqEn
+         OigQ==
+X-Received: by 10.66.181.136 with SMTP id dw8mr10591206pac.27.1421139593828;
+        Tue, 13 Jan 2015 00:59:53 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.66.181.136 with SMTP id dw8mr16765864pac.27; Tue, 13 Jan 2015
+ 00:59:53 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: ironpy@googlegroups.com
+Subject: Delivery Status Notification (Failure)
+Message-ID: <047d7bd6c4e0aa9776050c84d80b@google.com>
+Date: Tue, 13 Jan 2015 08:59:53 +0000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello =E5=88=AB=E5=BD=B1=E6=A2=93 <vnd@fs.net>,
+
+We're writing to let you know that the group you tried to contact (ironpy) =
+may not exist, or you may not have permission to post messages to the group=
+. A few more details on why you weren't able to post:
+
+ * You might have spelled or formatted the group name incorrectly.
+ * The owner of the group may have removed this group.
+ * You may need to join the group before receiving permission to post.
+ * This group may not be open to posting.
+
+If you have questions related to this or any other Google Group, visit the =
+Help Center at http://groups.google.com/support/.
+
+Thanks,
+
+Google Groups
+
+
+
+----- Original message -----
+
+X-Received: by 10.66.181.136 with SMTP id dw8mr10591201pac.27.1421139593770=
+;
+        Tue, 13 Jan 2015 00:59:53 -0800 (PST)
+Return-Path: <vnd@fs.net>
+Received: from fs.net ([49.85.226.19])
+        by gmr-mx.google.com with ESMTP id tv3si2069689pbc.1.2015.01.13.00.=
+59.47
+        for <ironpy@googlegroups.com>;
+        Tue, 13 Jan 2015 00:59:53 -0800 (PST)
+Received-SPF: none (google.com: vnd@fs.net does not designate permitted sen=
+der hosts) client-ip=3D49.85.226.19;
+Authentication-Results: gmr-mx.google.com;
+       spf=3Dnone (google.com: vnd@fs.net does not designate permitted send=
+er hosts) smtp.mail=3Dvnd@fs.net
+Message-ID: <0F307616E78734B24CE88C49AB5CEC32@fs.net>
+From: =3D?utf-8?B?5Yir5b2x5qKT?=3D <vnd@fs.net>
+To: <ironpy@googlegroups.com>
+Subject: 16:59:46
+Date: Tue, 13 Jan 2015 16:59:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type=3D"multipart/alternative";
+	boundary=3D"----=3D_NextPart_000_0D3C_0150CBB0.14D8A0A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+

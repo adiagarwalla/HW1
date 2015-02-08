@@ -1,0 +1,118 @@
+From @..  Mon Jan 12 14:18:28 2015
+Return-Path: <@..>
+X-Original-To: bguan@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4BCF8DE; Mon, 12 Jan 2015 14:18:28 +0000 (UTC)
+Received: from proxy01.sjtu.cn (smtp052.sjtu.cn [202.112.26.52])
+    by .. with SMTP id ut6mcn458kf6mkny6b2cygxq9n;
+    for bguan@fs.net;
+    Mon, 12 Jan 2015 14:18:27 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=202.112.26.52; envelope-from=<>; helo=proxy01.sjtu.cn
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=202.112.26.52; client-port=36352;
+    syn-fingerprint=14600:39:1:60:M1380,S,T,N,W7; network-hops=27;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    192.31.99.153 192.31.99.162 192.31.99.218 134.75.105.49 134.75.105.2
+    134.75.107.11 210.25.189.21 0.0.0.0 210.25.189.46 101.4.116.133
+    101.4.112.70 101.4.116.118 101.4.117.29 101.4.115.173 0.0.0.0 0.0.0.0
+    0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 0.0.0.0 202.112.26.52;
+    network-path-time=1421072307
+Received: from mta02.sjtu.cn (unknown [202.121.179.6])
+	by proxy01.sjtu.cn (Postfix) with ESMTP id 12D2E261790
+	for <bguan@fs.net>; Mon, 12 Jan 2015 22:18:24 +0800 (CST)
+Received: by mta02.sjtu.cn (Postfix)
+	id 0A3B0260B68; Mon, 12 Jan 2015 22:18:24 +0800 (CST)
+Date: Mon, 12 Jan 2015 22:18:24 +0800 (CST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="02CBD260A4A.1421072304/mta02.sjtu.cn"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20150112141824.0A3B0260B68@mta02.sjtu.cn>
+
+This is a MIME-encapsulated message.
+
+--02CBD260A4A.1421072304/mta02.sjtu.cn
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mta02.sjtu.cn.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<wpengw123@sjtu.cn>: sjtu.cn
+
+--02CBD260A4A.1421072304/mta02.sjtu.cn
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mta02.sjtu.cn
+X-Postfix-Queue-ID: 02CBD260A4A
+X-Postfix-Sender: rfc822; bguan@fs.net
+Arrival-Date: Mon, 12 Jan 2015 22:18:24 +0800 (CST)
+
+Final-Recipient: rfc822; wpengw123@sjtu.cn
+Original-Recipient: rfc822;wpengw123@sjtu.cn
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; sjtu.cn
+
+--02CBD260A4A.1421072304/mta02.sjtu.cn
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: 7bit
+
+Return-Path: <bguan@fs.net>
+Received: from localhost (mx.sjtu.cn [202.112.26.50])
+	by mta02.sjtu.cn (Postfix) with ESMTP id 02CBD260A4A
+	for <wpengw123@sjtu.cn>; Mon, 12 Jan 2015 22:18:24 +0800 (CST)
+X-Spam-Flag: YES
+X-Spam-Score: 13.901
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.901 tagged_above=-10 required=10
+	tests=[BAYES_99=3.5, BAYES_999=0.2, FORGED_OUTLOOK_HTML=0.021,
+	HTML_MESSAGE=0.001, MIME_BASE64_BLANKS=0.001, MIME_HTML_ONLY=0.723,
+	RCVD_IN_PBL=3.335, RCVD_IN_PSBL=2.7, RCVD_IN_XBL=0.375,
+	RDNS_NONE=0.793, TVD_SPACE_ENCODED=2.252] autolearn=no
+Received: from mx.sjtu.cn ([127.0.0.1])
+	by localhost (mx.sjtu.cn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id iTm9NiLhuQtO for <wpengw123@sjtu.cn>;
+	Mon, 12 Jan 2015 22:18:21 +0800 (CST)
+Received: from fs.net (unknown [111.225.104.38])
+	by mx.sjtu.cn (Postfix) with ESMTP id 82B1634029A
+	for <wpengw123@sjtu.cn>; Mon, 12 Jan 2015 22:18:17 +0800 (CST)
+Received: from cuivws (unknown [100.243.24.29])
+	by fs with SMTP id k8wxl0jEtmAMr0pB.1
+	for <wpengw123@sjtu.cn>; Wed, 11 Jan 2017 22:34:59 +0800
+Message-ID: <B6B7851F6B5E1E1AE35439794512345B@cuivws>
+From: =?gb2312?B?0rbo8r36?= <bguan@fs.net>
+To: <wpengw123@sjtu.cn>
+Subject: ***SPAM***
+	=?gb2312?B?yOvWsMewuvPTw8jLtaXOu9OmuObWqsDNtq/V38TE0KnH6b/2d3A=?=
+	=?gb2312?B?ZW5ndzEyM0BzanR1LmVkdS5jbg==?=
+Date: Wed, 11 Jan 2017 22:34:53 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+--02CBD260A4A.1421072304/mta02.sjtu.cn--
+

@@ -1,0 +1,51 @@
+Message-ID: <19349709.1075858230164.JavaMail.evans@thyme>
+Date: Tue, 13 Jun 2000 13:40:00 -0700 (PDT)
+From: william.kasemervisz@.com
+To: victor.guggenheim@.com, darron.giron@.com, b.palmer@.com, 
+	jackson.logan@.com, shawna.johnson@.com, 
+	phillip.love@.com, kam.keiser@.com, 
+	carrie.hollomon@.com, chris.walker@.com, 
+	michelle.waldhauser@.com, jeff.royed@.com, 
+	anne.bike@.com, alicia.perkins@.com, 
+	crystal.hyde@.com, kimat.singla@.com, jeff.royed@.com, 
+	jeffrey.gossett@.com, david.oliver@.com, 
+	william.kelly@.com, david.baumbach@.com, 
+	o'neal.winfree@.com, ami.chokshi@.com, 
+	michael.walters@.com, jody.crook@.com, 
+	bryan.hull@.com, mark.fondren@.com
+Subject: TDS - New Release
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: William E Kasemervisz
+X-To: Victor Guggenheim, Darron C Giron, B Scott Palmer, Jackson Logan, Shawna Johnson, Phillip M Love, Kam Keiser, Carrie Hollomon, Chris Walker, Michelle Waldhauser, Jeff Royed, Anne Bike, Alicia Perkins, Crystal Hyde, Kimat Singla, Jeff Royed, Jeffrey C Gossett, David Oliver, William Kelly, David Baumbach, O'Neal D Winfree, Ami Chokshi, Michael Walters, Jody Crook, Bryan Hull, Mark Fondren
+X-cc: 
+X-bcc: 
+X-Folder: \Phillip_Love_Dec2000\Notes Folders\Discussion threads
+X-Origin: Love-P
+X-FileName: plove.nsf
+
+A new release of TDS was moved into production - 2/13/00
+
+Highlights
+- Security is now in place for Deal Ticker, Positions, & Position Load - if 
+you don't have access to a desk you need let me know.
+- Position Manager is now showing correct positions
+- You can combine Positions into Curve Groups for both positions & Curve 
+Shift.
+- Option Premiums are valuing correctly
+- Position Loads will pick up all deals changed since Official Books Calc not 
+since load.
+
+
+OTHER NEWS
+You may be seeing valuation in Deal Ticker & Position Manager.  We are 
+publishing real time curves for the Texas Desk & Nymex.  
+The Texas traders are scheduled to go live next week. 
+
+Any Questions or problems let me know.
+
+Thanks,
+
+Bill Kasemervisz
+x5-7579

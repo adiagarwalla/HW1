@@ -1,0 +1,205 @@
+From @..  Wed Jan 21 07:38:53 2015
+Return-Path: <@..>
+X-Original-To: oxvehhae@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id CE64FDE; Wed, 21 Jan 2015 07:38:53 +0000 (UTC)
+Received: from usrmx4.pixnet.tw (usrmx4.pixnet.tw [103.23.109.120])
+    by .. with SMTP id nuuhwybqnmt6uwifk7jrj8qbea;
+    for oxvehhae@fs.net;
+    Wed, 21 Jan 2015 07:38:53 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=103.23.109.120; envelope-from=<>; helo=usrmx4.pixnet.tw
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=103.23.109.120; client-port=14449;
+    syn-fingerprint=65535:49:1:60:M1380,N,W6,S,T; network-hops=14;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.48 63.218.17.102 60.199.3.221 60.199.3.142
+    60.199.17.114 219.80.240.70 60.199.236.234 60.199.236.146 103.23.109.120;
+    network-path-time=1421825933
+Received: by usrmx4.pixnet.tw (Postfix)
+	id 42C41175712; Wed, 21 Jan 2015 15:38:50 +0800 (CST)
+Date: Wed, 21 Jan 2015 15:38:50 +0800 (CST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="7538B175735.1421825930/usrmx4.pixnet.tw"
+Message-Id: <20150121073850.42C41175712@usrmx4.pixnet.tw>
+
+This is a MIME-encapsulated message.
+
+--7538B175735.1421825930/usrmx4.pixnet.tw
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host usrmx4.pixnet.tw.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<sonycomic168@pixnet.net>: mail for pixnet.net loops back to myself
+
+--7538B175735.1421825930/usrmx4.pixnet.tw
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; usrmx4.pixnet.tw
+X-Postfix-Queue-ID: 7538B175735
+X-Postfix-Sender: rfc822; oxvehhae@fs.net
+Arrival-Date: Wed, 21 Jan 2015 15:38:49 +0800 (CST)
+
+Final-Recipient: rfc822; sonycomic168@pixnet.net
+Original-Recipient: rfc822;sonycomic168@pixnet.net
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: X-Postfix; mail for pixnet.net loops back to myself
+
+--7538B175735.1421825930/usrmx4.pixnet.tw
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <oxvehhae@fs.net>
+Received: from usrmx4.pixnet.tw (localhost [127.0.0.1])
+	by usrmx4.pixnet.tw (Postfix) with ESMTP id 7538B175735
+	for <sonycomic168@pixnet.net>; Wed, 21 Jan 2015 15:38:49 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pixnet.tw; h=from:to
+	:subject:mime-version:content-type:content-transfer-encoding; s=
+	usrmx4; bh=kQUTO4JC41StJfW8BeNJ5d/ZBUE=; b=0UjPfkP05ix+PpLx4kmEN
+	h3yWMWy89f1VL7l4AHb6jCsa4pjpdb/i5MkSUhqTc2YkrdoFpI5fNpdQVLnjjYQL
+	OgXRvJ7SOJ/cWXF1e7y4Cc5lzdbTLWLg63f4YRIs0qqX331/4i4YTelIAy+TBGLa
+	N63b+sNxxtt99K5dk/IUlo=
+Received: from fs.net (unknown [122.191.32.106])
+	by usrmx4.pixnet.tw (Postfix) with ESMTP
+	for <sonycomic168@pixnet.net>; Wed, 21 Jan 2015 15:38:48 +0800 (CST)
+Message-ID: <6AE2339C0BDCADFC16324FDAF0E87A69@fs.net>
+From: =?utf-8?B?6YSC57u1?= <oxvehhae@fs.net>
+To: <sonycomic168@pixnet.net>
+Subject: =?utf-8?B?5LuA5LmI5qC355qE5ZOB6LSo5pu05Y+X5LiL5bGe5pWs6YeN77yf?=
+Date: Wed, 21 Jan 2015 15:38:42 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ1MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFk+DQo8UD7mlrDku7vnu4/n
+kIbjgIHpg6jpl6jnu4/nkIblhajpnaLnrqHnkIbmioDog73mj5DljYforq3nu4M8QlI+5pe2wrfp
+l7TCt+WcsMK354K577yaMjAxNeW5tDHmnIgyNC0yNea3seWcs+OAgTHmnIgzMS0y5pyIMeS4iua1
+tzwvUD4NCjxQPuWPgsK35Yqgwrflr7nCt+ixoe+8muaWsOS4iuS7u+S4u+euoeOAgee7j+eQhu+8
+jOWCqOWkh+S6uuWRmO+8jOmDqOmXqOe7j+eQhi/kuLvnrqHvvIzogYzog73nu4/nkIbvvIzmioDm
+nK/nu4/nkIbvvIzkvIHkuJrkuK3pq5jlsYIuLi48L1A+DQo8UD7lrabCt+S5oMK36LS5wrfnlKjv
+vJozMjAw5YWDL+S6uu+8jDQ4MDDlhYMvMuS6uu+8jOaXoOWFtuS7luaKmOaJo++8iOWQq+ivvueo
+i+iusuS5ieOAgeWNiOmkkOOAgeeojui0ueOAgeiMtueCueetie+8iTwvUD4NCjxQPuaKpSDlkI0g
+5ZKoIOivoiDnlLUg6K+d77ya5rexLeWcs++8mjA3NTUtNjEyOC04MDkxJm5ic3A7IOWMly3kuqzv
+vJowMTAtNTE2Ni0xODUxJm5ic3A7IA0K5LiKLea1t++8mjAyMS01MTA4LTIyMDImbmJzcDsg5q61
+5bCP5aeQPC9QPg0KPFA+5Z+56K6t5pS255uK77yaPEJSPjHjgIHlu7rnq4vlr7nnrqHnkIbnmoTm
+lbTkvZPlkozns7vnu5/mgJ3nu7TvvIznkIbop6Pku47pl67popjvvIzmgJ3ot6/vvIzns7vnu5/v
+vIzmlrnms5XvvIzliLDliqjkvZznmoTnrqHnkIbnur/ntKI8QlI+MuOAgeeQhuino+S4reWxgueu
+oeeQhuiAheWcqOS8geS4mumHjOW6lOaJv+aLheeahOi0o+S7u++8jOinkuiJsui6q+S7ve+8jOW6
+lOihqOeOsOWHuueahOaAgeW6puWSjOaEj+ivhjxCUj4z44CB5o6M5o+h5oqK5bel5L2c566h5aW9
+55qE5pa55rOV5ZKM5oqA5benIA0K4oCTIOiuoeWIku+8jOe7hOe7h++8jOaOp+WItu+8jOWIm+aW
+sDxCUj4044CB5o6M5o+h5bim5Lq65bim5Zui6Zif55qE5pa55rOVIOKAkyDln7nlhbvorq3nu4Pv
+vIzmsp/pgJrkupLliqjvvIzlm6LpmJ/msJvlm7TokKXpgKDvvIzmv4DlirHorr7orqE8QlI+NeOA
+geS/g+i/m+iHquaIkeaPkOWNhyDigJMgDQrmnInmlYjnrqHnkIbml7bpl7TvvIzogYzkuJrorqTo
+r4bvvIzkuKrkurrkv67ngrw8L1A+DQo8UD7or77nqIvlpKfnurLvvJo8QlI+56ys5LiA6YOo5YiG
+IA0K6Ieq5oiR566h55CGPEJSPuS4gOOAgeeuoeeQhuS4juinkuiJsuiupOefpTxCUj7ku47kuJPk
+uJrotbDlkJHnrqHnkIblkI7vvIzlpoLkvZXlrp7njrDop5LoibLovazmjaLvvJ88QlI+566h55CG
+55qE55uu55qE5piv5LuA5LmI77yfPEJSPuS4reWfuuWxgueuoeeQhuiAhe+8jOimgeaJv+aLheWT
+quS6m+euoeeQhui0o+S7u++8nzxCUj7kuK3ln7rlsYLnrqHnkIbogIXlpoLkvZXnoa7nq4voh6rl
+t7Hlr7nkuIrvvIzlr7nkuIvvvIzlr7nkuK3nmoTouqvku73lrprkvY3vvJ88QlI+5Lit5bGC566h
+55CG6ICF5aaC5L2V6YG/5YWN6KeS6Imy6KGM5Li66K+v5Yy677yfPEJSPuOAkOiuqOiuuuS6kuWK
+qOOAke+8miANCuS9oOaYr+WmguS9leeQhuino+euoeeQhuWPiuinkuiJsueahO+8nzxCUj7kuozj
+gIHnrqHnkIbogIXlt6XkvZzmlrnms5U8QlI+5pe26Ze0566h55CG5LiO5bel5L2c57uf5625PEJS
+PuaXtumXtOWIhuaekO+8muaIkeeahOaXtumXtOeUqOeahOacieaViOWQl++8nzxCUj7ml7bpl7Tn
+rqHnkIbnmoTlm5vkuKrosaHpmZA8QlI+5Zub5Liq6LGh6ZmQ55qE562W55Wl5ZKM55uu5qCHPEJS
+PueuoeeQhuiAheWmguS9leivhuWIq+i9u+mHjee8k+aApe+8nzxCUj7lpb3pkqLnlKjlnKjliIDl
+iIPkuIogDQrigJMg5aaC5L2V5oqT5L2P5bel5L2c55qE6YeN5Lit5LmL6YeN77yfPEJSPueuoeeQ
+huiAheWmguS9leWBmuWlveW3peS9nOe7n+etue+8nzxCUj7lhbbku5bluLjnlKjlt6XkvZzmlrnm
+s5U8QlI+57uT5p6E5YiG6Kej5rOVPEJSPumhueebrueuoeeQhuazlTxCUj7nm67moIfnrqHnkIbm
+s5U8L1A+DQo8UD7nrKzkuozpg6jliIYg5bel5L2c566h55CGPEJSPuS4gOOAgeW3peS9nOeuoeeQ
+hiDigJMgDQrlt6XkvZzorqHliJI8QlI+6K6h5YiS5Li65L2V6YeN6KaB77yfPEJSPuWItuWumuiu
+oeWIkueahOatpemqpDxCUj7lpoLkvZXlgZrlt6XkvZzliIbop6PvvJ88QlI+5bel5L2c6K+E5Lyw
+5LiO5a6J5o6SPEJSPuOAkOW3peWFt+a8lOe7g+OAke+8mueUqFdCU+W3peWFt+WBmuW3peS9nOet
+luWIkuS4juWIhuinoyANCjxCUj7jgJDlt6XlhbfmqKHmnb/jgJHvvJpXQlPlj4LogIPmqKHmnb88
+QlI+5LqM44CB5bel5L2c566h55CGIOKAkyANCuW3peS9nOe7hOe7hzxCUj7ku4DkuYjmmK/lt6Xk
+vZznu4Tnu4fvvJ/nu4Tnu4fnmoTnm67nmoTmmK/ku4DkuYjvvJ88QlI+5LyB5Lia57uE57uH6K6+
+6K6hPEJSPuS8geS4muW3peS9nOe7hOe7hzxCUj7kvIHkuJrlt6XkvZznu4Tnu4fkuK3nmoTpl67p
+opg8QlI+5bel5L2c57uE57uH5Y6f5YiZPEJSPuS4ieOAgeW3peS9nOeuoeeQhiANCuKAkyANCuaJ
+p+ihjOaOp+WItjxCUj7kvIHkuJrmiafooYzlipvlt67nmoTnrqHnkIblm6DntKA8QlI+44CQ6K6o
+6K665LqS5Yqo44CR77ya5omn6KGM5LiN5Yqb55qE566h55CG5Zug57SgPEJSPuW3peS9nOaJp+ih
+jOaOp+WItueahOetlueVpTxCUj7lt6XkvZzmjqfliLbmlrnms5XkuI7lt6Xlhbc8QlI+5YiG5q61
+5o6n5Yi25rOVPEJSPuS4ieimgee0oOaOp+WItuazlTxCUj7nqL3moLjmjqfliLbms5U8QlI+44CQ
+5bel5YW35ryU57uD44CR77ya5o6n5Yi25Y2h6K6+6K6h57uD5LmgPEJSPuOAkOWPguiAg+W3peWF
+t+OAke+8muS4ieimgee0oOaOp+WItuWNoTxCUj7jgJDmoYjkvovliIbmnpDjgJHvvJogDQrkuIno
+poHntKDmjqfliLbljaHlt6XlhbfnmoTlupTnlKg8QlI+44CQ5qGI5L6L5YiG5p6Q44CR77yaIA0K
+5YiG5q615o6n5Yi25rOV5bqU55SoPEJSPuOAkOahiOS+i+WIhuaekOOAke+8mueoveaguOaOp+WI
+tuazleW6lOeUqDxCUj7nm67moIfnrqHnkIbkuI7nu6nmlYjogIPmoLjms5U8QlI+5LuA5LmI5piv
+55uu5qCH566h55CG77yfPEJSPuebruagh+adpeiHquWTqumHjO+8nzxCUj7nu5Pmnpzlj6/ooaHp
+h4/mgKfvvJ88QlI+6ICD5qC46KeE5YiZ77yfPEJSPuebruagh+WFseivhuaAp++8nzxCUj7nu6nm
+lYjogIPmoLjnmoTlhbPplK7pl67popg8QlI+5pWw5o2u55qE55yf5a6e5YeG56Gu5oCn77yfPEJS
+PuiAg+aguOS4jumdouiwiOazqOaEj+S6i+mhuTxCUj7lpZbmg6nlkIjnkIbmgKc8QlI+5Zub44CB
+5bel5L2c566h55CGIA0K4oCTIOW3peS9nOaUueWWhDxCUj7mlLnov5vvvIzlj5jpnankuI7liJvm
+lrDmhI/or4Y8QlI+5bu656uL5Yib5paw5py65Yi2PC9QPg0KPFA+56ys5LiJ6YOo5YiGIA0K5Lq6
+5ZGY5LiO5Zui6Zif566h55CGPEJSPuS4gOOAgeayn+mAmuaKgOiDvTxCUj7lr7nkuIrmsp/pgJo8
+QlI+5LqG6Kej5LiK5Y+4PEJSPuaOpeWPl+WRveS7pO+8jOivt+ekuuW7uuiuru+8jOaxh+aKpeW3
+peS9nDxCUj7lpoLkvZXphY3lkIjkuIrlj7jvvJ88QlI+5bmz6KGM5rKf6YCa5Y2P6LCDPEJSPuah
+iOS+i+WIhuaekO+8muW3peS9nOWNj+S9nOWNj+iwg+S4reeahOmmluimgemXrumimOaYr+S7gOS5
+iO+8nzxCUj7lubPnuqflhbPns7vmsp/pgJrkuK3lupTliIforrDnmoTkuInmnaHljp/liJk8QlI+
+5aaC5L2V5bqU5a+55Yqe5YWs5a6k5pS/5rK777yfPEJSPuayn+mAmuaWueazleaKgOW3pzxCUj7m
+sp/pgJrlpoLkvZXlh4blpIfvvJ88QlI+5YC+5ZCs55qE5oqA5benPEJSPuihqOi+vueahOaKgOW3
+pzxCUj7otZ7nvo7nmoTmioDlt6c8QlI+5LqM44CB5Zui6Zif566h55CGIA0K4oCTIA0K6aKG5a+8
+5Yqb5Y+R5oylPEJSPuS7gOS5iOaYr+mihuWvvOWKm++8nzxCUj7pooblr7zkuI7nrqHnkIbnmoTl
+jLrliKs8QlI+6aKG5a+85Yqb5p2l5rqQ5LqO5LuA5LmI77yfPEJSPueuoeeQhuiAheWmguS9leaP
+kOWNh+mihuWvvOWKm+e0oOi0qO+8jOWPkeaMpemihuWvvOS9nOeUqO+8nzxCUj7ku4DkuYjmoLfn
+moTlk4HotKjmm7Tlj5fkuIvlsZ7mlazph43vvJ88QlI+5LuA5LmI5qC355qE6KGM5Li66KaB5Lul
+6Lqr5L2c5YiZ77yfPEJSPuWTquS6m+iDveWKm+W/hemhu+S/rueCvO+8nzxCUj7lv4Pmmbrkv67n
+grw8QlI+5LiJ44CB5Zui6Zif566h55CGIA0K4oCTIA0K5ZGY5bel566h55CGPEJSPuWRmOW3peeu
+oeeQhuetlueVpTxCUj7miZPnoLTnm7LkurrmkbjosaHlvI/nmoTlkZjlt6XnrqHnkIbmgJ3nu7Tv
+vIE8QlI+566h5LiN5L2P5LqL6IO9566h5aW95Lq65ZCX77yfPEJSPuWmguS9leW6lOeUqOWOn+WI
+meaAp+S4jueBtea0u+aAp+e7k+WQiO+8nzxCUj7mjqjmi4nluK7nrqHnu4TlkIjmi7M8QlI+5LuA
+5LmI5piv5b635Li75YiR6L6F55qE566h55CG5oCd57u077yfPEJSPuWRmOW3peeuoeeQhuahiOS+
+i+WIhuaekOiuqOiuuu+8mjxCUj7mlrDku7vkuLvnrqHnmoTmjJHmiJjvvJ88QlI+5Liq5oCn5LiT
+5a625ZGY5bel77yfPEJSPuiAgeayueadoe+8jOacieWQjuWPsO+8nzxCUj7lpoLkvZXlpITnkIbm
+s5XkuI3otKPkvJfvvJ88QlI+5Zyo5LiL5bGe6Z2i5YmN5rKh5pyJ5aiB5L+h5oCO5LmI5Yqe77yf
+PEJSPuWbm+OAgeWboumYn+euoeeQhiANCuKAkyANCuWRmOW3peWfueiCsjxCUj4x44CB5oqT5oCd
+5oOzPEJSPuWmguS9leS9v+WRmOW3peiupOWQjOS8geS4mu+8nzxCUj7lt6XkvZzkuK3nmoTmhI/o
+r4bpl67popjvvJ88QlI+5byV5a+85ZGY5bel55qE6IGM5Lia6KeC77yM5LyB5Lia6KeC77yM5Lq6
+55Sf5Lu35YC86KeC77yfPEJSPuiwg+aVtOWRmOW3peW/g+aAgeS4juaDhee7qu+8nzxCUj4y44CB
+5bim5L2c6aOOPEJSPuWmguS9leW4puWHuuS4gOaUr+mbt+WOiemjjuihjO+8jOaVouaJk+ehrOS7
+l+eahOmYn+S8je+8nzxCUj7lpoLkvZXorq3nu4Poia/lpb3nmoTooYzkuLrkuaDmg6/vvJ88QlI+
+M+OAgeaPkOWNh+iDveWKmzxCUj7lpoLkvZXluK7liqnlkZjlt6Xlu7rnq4vogYzkuJrnkIbmg7Pv
+vJ88QlI+566h5LiN5L2P5LqL6IO9566h5aW95Lq65ZCX77yfPEJSPuWmguS9leiuqeWRmOW3peWc
+qOW3peS9nOS4reaIkOmVv++8nzxCUj7kupTjgIHlm6LpmJ/nrqHnkIYgDQotLSANCuWboumYn+eO
+r+Wig+W7uuiuvjxCUj4x44CB5Zui6Zif546v5aKD5bu66K6+5LiO5Zui6Zif5paH5YyW5bu66K6+
+PEJSPjLjgIHnjq/looPlr7nkurrnmoTlvbHlk408QlI+M+OAgeS8mOengOWboumYn+eahOeOr+Wi
+g+eJueW+gTxCUj4044CB5aaC5L2V5aGR6YCg5Zui6Zif546v5aKD77yfPEJSPuS7t+WAvOinguWu
+o+S8oDxCUj7pooblr7zpqqjlubLnmoTkvZznlKg8QlI+5Yi25bqm5LiO5bmz5Y+wPEJSPueOr+Wi
+g+W7uuiuvueahOeuoeeQhuetlueVpTxCUj7lha3jgIHlkZjlt6XnrqHnkIYgDQrigJMg5ZGY5bel
+5r+A5YqxPEJSPumprOaWr+a0m+mcgOaxguWxguasoeeQhuiuuuWcqOWRmOW3pemcgOaxguS4reea
+hOS9k+eOsO+8nzxCUj7lpoLkvZXmiormj6HlkZjlt6XpnIDmsYLvvJ88QlI+5r+A5Yqx5ZGY5bel
+55qE5pa55rOV5o6q5pa9PEJSPueJqei0qOa/gOWKseaYr+WfuuehgCDigJMgDQrlhazmraPor4Tk
+u7fvvIzlkIjnkIbmiqXphazvvIzluK7liqnlkZjlt6Xlop7liqDmlLblhaXvvIE8QlI+6K6p5ZGY
+5bel5oiQ6ZW/IOKAkyDkuKrmgKfljJbnmoTln7nlhbs8QlI+5pS+5aSn5oSf5Y+X5Lu35YC8IOKA
+kyDlhbPms6jmhJ/lj5fkuI7mhJ/mg4XvvIE8QlI+PC9QPjwvQk9EWT48L0hUTUw+DQo=
+
+
+
+--7538B175735.1421825930/usrmx4.pixnet.tw--
+

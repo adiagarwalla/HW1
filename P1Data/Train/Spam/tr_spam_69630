@@ -1,0 +1,133 @@
+From @..  Thu Jan 22 15:03:40 2015
+Return-Path: <@..>
+X-Original-To: marie.nash@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4D4C8DE; Thu, 22 Jan 2015 15:03:40 +0000 (UTC)
+Received: from mail5.wdc04.mandrillapp.com (mail5.wdc04.mandrillapp.com [205.201.139.5])
+    by .. with SMTP id 2xr4bmezzw6qmpr7r4vd2e549w;
+    for marie.nash@fs.net;
+    Thu, 22 Jan 2015 15:03:40 +0000 (UTC)
+    (envelope-from bounce-md_30194315.54c1113c.v1-8b264dabeeab4a22a5cd62dcf543a9db@mandrillapp.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=205.201.139.5;
+    envelope-from=<bounce-md_30194315.54c1113c.v1-8b264dabeeab4a22a5cd62dcf543a9db@mandrillapp.com>;
+    helo=mail5.wdc04.mandrillapp.com; mechanism=include:spf.mandrillapp.com
+    (ip4:205.201.139.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=205.201.139.5; client-port=55565;
+    syn-fingerprint=14600:54:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 129.250.8.193
+    129.250.5.188 204.2.241.42 173.192.18.152 173.192.18.197 208.43.118.157;
+    network-path-time=1421939020
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=reallysimplesystems.com;
+ h=From:Sender:Subject:Reply-To:List-Unsubscribe:To:Message-Id:Date:MIME-Version:Content-Type; i=mandi@reallysimplesystems.com;
+ bh=yIpEfmT78FV3ShUb/5vUSsSTXA0=;
+ b=J0LT1nmTIPHJCf9ZcemRNXIPqSvk+JLu3j6mtOToJGusqfMPXzDTrvCNE1myLig07NUmUpzEVQxC
+   50hU8ex5C2ShLBO5smmSWYVidORZtoW2F4J6MPoRCZ/sIT7njUmM+bLjg+j7jHsvP9fjr/9ToxHI
+   Rt14nfagHJ0MJplZk0s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=reallysimplesystems.com;
+ b=RJcgPVF11o9XLpn4odKJP6EnMyXmvZi/XwJkKC/fDq8vnGWFdUe6GEBT4089LKVmPO9vEf9w0uLu
+   9AWN82Rv8hDwrD2iYukmHIsWbzTbYkLPLPU8siFm0D454Z386gfJYzVF7Z6QyVi8TAKUPcjJm0OC
+   wxqRVoyr1gTVAEIkmFQ=;
+Received: from pmta05.wdc01.mailchimp.com (127.0.0.1) by mail5.wdc04.mandrillapp.com id ho48ko1jvjg7 for <marie.nash@fs.net>; Thu, 22 Jan 2015 15:03:24 +0000 (envelope-from <bounce-md_30194315.54c1113c.v1-8b264dabeeab4a22a5cd62dcf543a9db@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1421939004; h=From : 
+ Sender : Subject : Reply-To : List-Unsubscribe : To : Message-Id : Date 
+ : MIME-Version : Content-Type : From : Subject : Date : X-Mandrill-User 
+ : List-Unsubscribe; bh=4Btp1bW3zPoYPocQQNfk0U/I/vmKXHmZZmF4X1ETw3o=; 
+ b=J6idaoeUbveunlNvyHUot/RDSoC2s4bt8t2XSuj6XLMA8HHou4+X13t9GqvHLiXRmNwuvn
+ 3elMisTx5Y7oWnmxH47bEWwtt/9aDZnYEKiUc1IdH3AQZ00rHSK/+ZH6kNT74V1zv2bUfzT7
+ fkUwczjRdamvtY3lmKuIbzJWgXkXk=
+From: Mandi Tang <@..>
+Sender: Mandi Tang <@..>
+Subject: Upturn in Construction Work
+Reply-To: <@..>
+List-Unsubscribe: <mailto:unsubscribe-md_30194315.54c1113c.v1-8b264dabeeab4a22a5cd62dcf543a9db@mailin1.us2.mcsv.net?subject=unsub>
+Received: from [91.203.57.85] by mandrillapp.com id 8b264dabeeab4a22a5cd62dcf543a9db; Thu, 22 Jan 2015 15:03:24 +0000
+To: Marie Nash <@..>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30194315.8b264dabeeab4a22a5cd62dcf543a9db
+X-Mandrill-User: md_30194315
+Message-Id: <30194315.20150122150324.54c1113c434417.38467703@mail5.wdc04.mandrillapp.com>
+Date: Thu, 22 Jan 2015 15:03:24 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-gFzsPYFFREnqeqJO3ZnW1g"
+
+--_av-gFzsPYFFREnqeqJO3ZnW1g
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+      Hi Marie
+
+We are currently seeing a massive upturn in construction work.
+
+If you require any assistance with finding the right candidate suitable for
+your needs we have the likes of quantity surveyors, contracts managers,
+site managers and project managers to civil estimators, and architectural
+technicians in and around the South East region.
+
+We also have health and safety managers and engineers to place.
+
+Our candidates have vast experience with high end companies such as
+National Grid, Skanska, Balfour Beatty, Kier,and ISG, with specialisation
+in many trades. 
+
+Would this be of any interest to you then please call our team on 01304
+802720 or Email mandi@pettitmanagement.com
+
+Kind Regards
+
+Mandi Tang
+Business Development Manager
+
+ Registered In England And wales Company No: 09199623 
+
+Unsubscribe
+<http://clicks.reallysimplesystems.com/track/click/30194315/clicks.reallysimplesystems.com?p=eyJzIjoiMkFkOE1uam91ektDN0w0TE1yVW5wWlp2Ykg4IiwidiI6MSwicCI6IntcInVcIjozMDE5NDMxNSxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvY2xpY2tzLnJlYWxseXNpbXBsZXN5c3RlbXMuY29tXFxcL3RyYWNrXFxcL3Vuc3ViLnBocD91PTMwMTk0MzE1JmlkPThiMjY0ZGFiZWVhYjRhMjJhNWNkNjJkY2Y1NDNhOWRiLm54ZFhLT3dzMUhJTWJ0eDl3T2FTUXA2aFNPSSUzRCZyPWh0dHAlM0ElMkYlMkZ3d3cucGV0dGl0bWFuYWdlbWVudC5jb20lM0ZtZF9lbWFpbCUzRG1hcmllLm5hc2glMjU0MGZzLm5ldFwiLFwiaWRcIjpcIjhiMjY0ZGFiZWVhYjRhMjJhNWNkNjJkY2Y1NDNhOWRiXCIsXCJ1cmxfaWRzXCI6W1wiZWY1ZWYwOWVhNzVhYjg1Zjc0MzJjOTFjMGFjNjVhMTBiYmY5NGIzN1wiXX0ifQ>
+--_av-gFzsPYFFREnqeqJO3ZnW1g
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">
+</head>
+<body>
+
+<img src=3D"http://system.reallysimplesystems.com/open.asp?code=3D{linkhash=
+code:1}" id=3D"rss_open" style=3D"display:none;"><p id=3D"rss0001">Hi Marie=
+<br><br>We are currently seeing a massive upturn in construction work.<br><=
+br>If you require any assistance with finding the right candidate suitable =
+for your needs we have the likes of quantity surveyors, contracts managers,=
+ site managers and project managers to civil estimators, and architectural =
+technicians in and around the South East region.<br><br>We also have health=
+ and safety managers and engineers to place.<br><br>Our candidates have vas=
+t experience with high end companies such as National Grid, Skanska, Balfou=
+r Beatty, Kier,and ISG, with specialisation in many trades. <br><br>Would t=
+his be of any interest to you then please call our team on 01304 802720 or =
+Email mandi@pettitmanagement.com<br><br>Kind Regards<br><br>Mandi Tang<br>B=
+usiness Development Manager</p><br>
+<p id=3D"rss0002">Registered In England And wales   Company No: 09199623 <b=
+r><br><a href=3D"http://clicks.reallysimplesystems.com/track/click/30194315=
+/clicks.reallysimplesystems.com?p=3DeyJzIjoiMkFkOE1uam91ektDN0w0TE1yVW5wWlp=
+2Ykg4IiwidiI6MSwicCI6IntcInVcIjozMDE5NDMxNSxcInZcIjoxLFwidXJsXCI6XCJodHRwOl=
+xcXC9cXFwvY2xpY2tzLnJlYWxseXNpbXBsZXN5c3RlbXMuY29tXFxcL3RyYWNrXFxcL3Vuc3ViL=
+nBocD91PTMwMTk0MzE1JmlkPThiMjY0ZGFiZWVhYjRhMjJhNWNkNjJkY2Y1NDNhOWRiLm54ZFhL=
+T3dzMUhJTWJ0eDl3T2FTUXA2aFNPSSUzRCZyPWh0dHAlM0ElMkYlMkZ3d3cucGV0dGl0bWFuYWd=
+lbWVudC5jb20lM0ZtZF9lbWFpbCUzRG1hcmllLm5hc2glMjU0MGZzLm5ldFwiLFwiaWRcIjpcIj=
+hiMjY0ZGFiZWVhYjRhMjJhNWNkNjJkY2Y1NDNhOWRiXCIsXCJ1cmxfaWRzXCI6W1wiZWY1ZWYwO=
+WVhNzVhYjg1Zjc0MzJjOTFjMGFjNjVhMTBiYmY5NGIzN1wiXX0ifQ" title=3D"Unsubscribe=
+" id=3D"rsslink3406">Unsubscribe</a></p><img id=3D"rss0003" src=3D"http://i=
+mages.reallysimplesystems.com/61803/PETTIT-construction management-01.jpg" =
+alt=3D"" width=3D"600" height=3D"" align=3D"middle"><img id=3D"rss0004" src=
+=3D"http://images.reallysimplesystems.com/61803/recruitment logo(1).jpg" al=
+t=3D"" width=3D"600" height=3D"90" align=3D"middle"><img src=3D"http://clic=
+ks.reallysimplesystems.com/track/open.php?u=3D30194315&id=3D8b264dabeeab4a2=
+2a5cd62dcf543a9db" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-gFzsPYFFREnqeqJO3ZnW1g--
+

@@ -1,0 +1,101 @@
+From @..  Mon Jan 12 07:33:00 2015
+Return-Path: <@..>
+X-Original-To: nxbaluhlb@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D8801DE; Mon, 12 Jan 2015 07:33:00 +0000 (UTC)
+Received: from blackhole4.hknet.com (blackhole4.hknet.com [202.67.240.248])
+    by .. with SMTP id dsh978xh2utcdygjsd2gdsspr6;
+    for nxbaluhlb@fs.net;
+    Mon, 12 Jan 2015 07:33:00 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=202.67.240.248; envelope-from=<>; helo=blackhole4.hknet.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=202.67.240.248; client-port=58538;
+    syn-fingerprint=5840:47:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=16; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 129.250.8.193 129.250.2.180
+    129.250.4.116 129.250.4.154 129.250.2.131 129.250.6.192 129.250.2.222
+    129.250.5.83 203.131.241.98 202.67.141.92 202.67.240.248;
+    network-path-time=1421047980
+Received: from hknpx5.hknet.com (hknpx5.hknet.com [202.67.240.147])
+	by blackhole4.hknet.com (Postfix) with ESMTP id 3952638FF1
+	for <nxbaluhlb@fs.net>; Mon, 12 Jan 2015 15:32:56 +0800 (HKT)
+Received: by hknpx5.hknet.com (Postfix)
+	id A577A828072; Mon, 12 Jan 2015 15:32:56 +0800 (HKT)
+Date: Mon, 12 Jan 2015 15:32:56 +0800 (HKT)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="98CCB82806E.1421047976/hknpx5.hknet.com"
+Message-Id: <20150112073256.A577A828072@hknpx5.hknet.com>
+
+This is a MIME-encapsulated message.
+
+--98CCB82806E.1421047976/hknpx5.hknet.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host hknpx5.hknet.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<pele@hknet.com>: host mxproxy.hknet.com[202.67.240.181] said: 550 5.1.1
+    <pele@hknet.com>: Recipient address rejected: User unknown in local
+    recipient table (in reply to RCPT TO command)
+
+--98CCB82806E.1421047976/hknpx5.hknet.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; hknpx5.hknet.com
+X-Postfix-Queue-ID: 98CCB82806E
+X-Postfix-Sender: rfc822; nxbaluhlb@fs.net
+Arrival-Date: Mon, 12 Jan 2015 15:32:52 +0800 (HKT)
+
+Final-Recipient: rfc822; pele@hknet.com
+Original-Recipient: rfc822;pele@hknet.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; mxproxy.hknet.com
+Diagnostic-Code: smtp; 550 5.1.1 <pele@hknet.com>: Recipient address rejected:
+    User unknown in local recipient table
+
+--98CCB82806E.1421047976/hknpx5.hknet.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from fs.net (unknown [124.237.155.204])
+	by hknpx5.hknet.com (Postfix) with ESMTP id 98CCB82806E
+	for <pele@hknet.com>; Mon, 12 Jan 2015 15:32:52 +0800 (HKT)
+Received: from ohrgp (unknown [86.56.228.33])
+	by fs with SMTP id 7EOetpCNgN7E2Nzb.1
+	for <pele@hknet.com>; Tue, 12 Jan 2016 15:32:41 +0800
+Message-ID: <C87A2306D2513FDC5364A4B89B40DC54@ohrgp>
+From: =?gb2312?B?y77Nvd7sx+s=?= <nxbaluhlb@fs.net>
+To: <pele@hknet.com>
+Subject: =?gb2312?B?z7i31srC0rW1pdSqcGVsZUBoa25ldC5jb20=?=
+Date: Tue, 12 Jan 2016 15:32:34 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+--98CCB82806E.1421047976/hknpx5.hknet.com--
+

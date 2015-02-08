@@ -1,0 +1,370 @@
+From @..  Mon Jan 19 11:58:07 2015
+Return-Path: <@..>
+X-Original-To: ianross835@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2133EE0; Mon, 19 Jan 2015 11:58:07 +0000 (UTC)
+Received: from mta2.com.mydealsonthego.co.uk (mta2.com.mydealsonthego.co.uk [81.92.115.113])
+    by .. with SMTP id 4uesezjvkzyyrte6gtkn9hm7ue;
+    for ianross835@fs.net;
+    Mon, 19 Jan 2015 11:58:06 +0000 (UTC)
+    (envelope-from abi@com.mydealsonthego.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.92.115.113; envelope-from=<abi@com.mydealsonthego.co.uk>;
+    helo=mta2.com.mydealsonthego.co.uk;
+    mechanism=include:spf-a.emailvision.net (ip4:81.92.112.0/22 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.92.115.113; client-port=37674;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-hops=22; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.134 154.54.10.61 154.54.0.165
+    154.54.31.94 154.54.31.126 154.54.28.110 154.54.44.166 154.54.39.118
+    154.25.0.193 149.11.0.66 193.25.198.73 193.25.198.101 193.25.198.90
+    81.92.115.113 0.0.0.0 193.25.198.101 0.0.0.0 81.92.115.113;
+    network-path-time=1421668686
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=com.mydealsonthego.co.uk;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=abi@com.mydealsonthego.co.uk;
+ bh=Q2YWA3srqFBayabNYAWs3kdpDhU=;
+ b=RvddMHhfnExTiXIF+4f6MCRSLUTKLBMnKBfKLj/y3X+X8vNf3k9vcClIa8q92wzfacB3Gm7Ot+ue
+   CdKoi/MPzWKvv55mF/S1otrVTJrEuNatz2bZBJWuWuxaI7EuYxleFkjQXANUgXdWuTsMVAg1iLXO
+   ktHbqdosMjQf31WJSM0=
+Received: by mta2.com.mydealsonthego.co.uk id hnjoks167588 for <ianross835@fs.net>; Mon, 19 Jan 2015 12:58:04 +0100 (envelope-from <abi@com.mydealsonthego.co.uk>)
+Date: Mon, 19 Jan 2015 12:58:04 +0100 (CET)
+From: Fix My Life Insurance with Deal Alert <@..>
+Reply-To: Deal Alert <@..>
+To: <@..>
+Message-ID: <2.1.4.1101022541.3289682.16715867536@com.mydealsonthego.co.uk>
+Subject: Protect your loved ones from just 19p a day
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=328968216715867536
+X-EMV-Platform: p4ccc.campaigncommander.com$
+X-EMV-CampagneId: 3289682$
+X-EMV-MemberId: 16715867536$
+List-Unsubscribe: <http://com.mydealsonthego.co.uk/HD?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gYo_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblIY>, <mailto:unsubscribe@com.mydealsonthego.co.uk?subject=unsubscribe-4-ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gYo_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblIY>
+X-CSA-Complaints: whitelist-complaints@eco.de
+
+--328968216715867536
+Content-Type: text/plain; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+Untitled Document  To properly view this, visit our online version : http://com.mydealsonthego.co.uk/HM?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbG_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblJ9
+
+ To make sure our messages get to your inbox, please add this email to 
+your address book. 
+ Unsubscribe : http://com.mydealsonthego.co.uk/HD?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbGPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOC
+ |  Email Preference.: http://com.mydealsonthego.co.uk/HLP?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbGfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOD
+daily communication
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbH_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOB
+ No-obligation & no-nonsense life insurance quotes from just 19p per 
+day | Find out more today : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOG
+FixMyLifeInsurance.co.uk
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOH
+ Search fast, compare quickly, and
+ protect your family's future today. : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOE
+
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbE_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOF
+Protect your loved ones from just 19p a day.: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOK
+
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOL
+
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOI
+
+: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbF_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOJ
+Get your family �75,000 of life insurance from just 19p* a day. : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOO
+
+ Life insurance is the most affordable way to ensure that your family is protected: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOP
+ financially. 
+
+ We compare policies from our panel of leading insurers to help find 
+you the best deal. Let us do the hard work for you today. 
+
+
+  Find out more today �  : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOM
+
+Rest assured, our panel consists of well-known, trusted names.: http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbK_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblON
+
+ Why should I use FixMyLifeInsurance.co.uk?  We offer a no-fuss, complimentary service, saving you time for the 
+important things in life. With our site you can be sure you will find a 
+deal - and fast.  ?Support your family with a lump sum
+ ?Pay for children's school or university
+ ?Pay off credit card or loan debts
+ ?Pay for funeral expenses
+ ?Pay off the mortgage
+ ?A treat for your loved ones
+  Protect your loved ones' future today �  : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOS
+ * �75,000 of level term assurance over 15 years, for a 30 year old 
+non-smoker, �6 per month. Subject to underwriting.
+ This message was selected by us at Deal Alert and sent to you on 
+behalf of Fix My Life Insurance as you have signed up to receive our 
+emails from one of our partners. We apologise if you believe this email 
+has been sent to you in error. If links have been disabled, please 
+ensure this email is not in your junk folder.
+Privacy Policy : http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOT
+ |  Unsubscribe: http://com.mydealsonthego.co.uk/HD?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOA
+. 
+ Sent to you by Deal Alert, PO Box 70921, London, SW19 9FP. Thank you. 
+--328968216715867536
+Content-Type: text/html; charset=iso-8859-15
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+body {background-color: #CCCCCC;min-width: 100table td {border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0}
+table {border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0}
+td {border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0}
+img {border-collapse: collapse;border: none;padding: 0}
+a {text-decoration: none !important}
+p, h1, h2, h3, h4, h5, h6 {line-height: 20px;padding: 0}
+ul {margin: 0;padding: 0;list-style-position: inside}
+li {margin: 0;padding: 0;list-style-position: inside}
+.yshortcuts {color: #e7eff8 !important;text-decoration: none !important;border-bottom: none !important}
+.ReadMsgBody {width: 100.ExternalClass {width: 100.ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100td[class="spacer"],td[class="spacer hider"]{visibility: hidden;line-height:0px;font-size: 0;max-height: 0}
+
+@media screen and (max-width: 599px) {
+	body[yahoo] {background: #ffffff !important;min-width: 100	body[yahoo] table tr td table {width:100	body[yahoo] table tr td table tr td {width:90	body[yahoo] table tr td table tr td a {width:90	body[yahoo] table tr td table tr td a[class="bodya"] {float: none!important;padding: 0!important}
+	td[class="thelogo"] {margin-top: 20px;padding-top: 18px!important;background: url(http://mrfreeman.me/creatives/fml/email/images/logo.jpg) center no-repeat #ffffff;min-height: 120px}
+	td[class="thelogo"] img{display:none!important}
+	td[class="simplectas"] {margin-top: 20px;padding-top: 18px!important;background: url(http://www.theaffiliatepeople.com/merchants/previewemailcreative/3641/images/simple_full.jpg) center no-repeat #ffffff;min-height: 150px;overflow: visible !important;float: none !important;display: block !important;line-height:100	a[class="simplecta"] img {padding: 0 22	td[class="spacer"]{display:none!important}
+	td[class="hider"]{display:none!important}
+	td[class="spacer hider"]{display:none!important}
+	
+	br[class="spacer hider"]{display:none!important}
+	img[class="spacer hider"]{display:none!important}
+	a[class="spacer hider"]{display:none!important}
+	td[class="shower"] {overflow: visible !important;float: none !important;display: block !important;line-height:100	td[class="firstbulls"] {padding-bottom: 0!important; line-height: 28px!important; font-size: 13px!important}
+	td[class="secondbulls"] {line-height: 28px!important; font-size: 13px!important}
+	td[class="finalcta"] {padding: 0 5	td[class="bodycta"] {padding: 0 5	td[class="intro"] {padding: 5px 0}
+	td[class="intro"] a{font-size: 16px!important}
+}
+
+</style>
+</head>
+<body yahoo="fix" bgcolor="#e7eff8" style="background: #e7eff8;padding: 0;margin: 0;font-family: Arial, sans-serif">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100	<tbody>
+		<tr>
+			<td style="text-align:center">
+				
+					<font color="#666666" face="Verdana" size="1"><a href="http://com.mydealsonthego.co.uk/HM?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbG_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblJ9" style="color:#000;"> To properly view this, visit our online version </a><br />
+
+					To make sure our messages get to your inbox, please add this email to your address book. 
+					<br />
+					<a href="http://com.mydealsonthego.co.uk/HD?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbGPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOC" style="color:#000;"> Unsubscribe </a> &#124;  <a href="http://com.mydealsonthego.co.uk/HLP?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbGfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOD" style="color:#000;"> Email Preference.</a></font>
+			</td>
+		</tr>
+	</tbody>
+
+</table>
+<table align="center" style="width:100	<tbody>
+		<tr>
+			<td align="center" valign="top" style="width:100				<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbH_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOB"><img alt="daily communication" border="0" src="http://webr.emv2.com/finestactif/images/DAHEADFOOT.jpg" style="width:100		</tr>
+	</tbody>
+</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" bgcolor="#e7eff8" style="padding: 0;border-collapse: collapse" align="center">
+					<tr>
+						<td width="100							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOG" style="font-size: 12px;color: #1c3d9d;width: 95							No-obligation &amp; no-nonsense life insurance quotes from just 19p per day | Find out more today
+							</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" bgcolor="#ffffff" style="padding: 0;border-collapse: collapse" align="center">
+					<tr>
+						<td width="7						<td class="thelogo" width="45							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOH" style="text-decoration: none !important"><img src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/logo.jpg" alt="FixMyLifeInsurance.co.uk" border="no" style="max-width: 100						</td>
+						<td width="3						<td width="45							<table border="0" cellspacing="0" cellpadding="0" width="100								<tr>
+									<td style="padding: 0;border-collapse: collapse">
+										<table border="0" cellspacing="0" cellpadding="0" width="300" align="center" style="padding: 0;border-collapse: collapse">
+											<tr>
+												<td width="75													<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOE" style="font-size: 12px;color: #1c3d9d;width: 95														Search fast, compare quickly, and<br /> protect your family&#39;s future today.
+													</a>
+												</td>
+												<td width="25											</tr>
+										</table>
+										<table border="0" cellspacing="0" cellpadding="0" width="300" align="center" style="padding: 0;border-collapse: collapse">
+											<tr>
+												<td width="35												<td width="50													<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbE_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOF" class="hider" style="text-decoration: none !important"><img class="hider" src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/simple.jpg" alt="" border="no" style="max-width: 100												</td>
+												<td width="15											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#5774b0" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="70							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOK" style="font-family: 'Myriad Pro', Arial, sans-serif;color: #ffffff;font-size: 18px;text-decoration: none !important">Protect your loved ones from just 19p a day.</a>
+						</td>
+						<td width="25							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbEfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOL" class="hider" style="text-decoration: none !important"><img class="hider" src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/simple_2.jpg" alt="" border="no" style="max-width: 100						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse" valign="top">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#ffffff" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="70						<td width="25							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOI" class="simplecta" style="padding: 0;text-decoration: none !important"><img src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/simple_3.jpg" alt="" border="no" style="padding: 0;max-width: 100						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td class="simplectas" style="overflow:hidden;float:left;display:none;line-height:0px;font-size: 0;max-height: 0;padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#ffffff" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td style="overflow:hidden;float:left;display:none;line-height:0px;font-size: 0;max-height: 0;border-collapse: collapse" class="shower">
+							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbF_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblOJ" class="simplecta" style="text-decoration: none !important"><img src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/spacer.gif" alt="" border="no" style="max-width: 100						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#ffffff" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="100							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOO" style="font-family: Arial, sans-serif;color: #4f69b3;font-size: 18px;text-decoration: none !important">Get your family &pound;75,000 of life insurance from just 19p* a day. </a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#ffffff" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="60							<img src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/family.jpg" alt="" border="no" style="max-width: 100						</td>
+						<td width="35							Life insurance is the most affordable way to <a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbFfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOP" class="bodya" style="font-weight: bold;color: #5774b0">ensure that your family is <span style="color: #27b180">protected</span></a> financially.
+							<br /><br />
+							We compare policies from our panel of leading insurers to help find you the best deal. Let us do the hard work for you today.
+							<br /><br /><br class="hider" />
+							<table border="0" cellspacing="0" cellpadding="0" width="100								<tr>
+									<td style="padding: 0;border-collapse: collapse">
+										<table border="0" cellspacing="0" cellpadding="0" width="210" align="center" style="padding: 0;border-collapse: collapse">
+											<tr>
+												<td width="100													<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOM" style="color: #ffffff;width: 100													
+												</td>
+											</tr>
+										</table><br class="hider" />
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#5774b0" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="100							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbK_cStGb5lw8W0bBhOG5mpqVsje_HhdAYblON" style="color: #ffffff;font-size: 18px;text-decoration: none !important">Rest assured, our panel consists of well-known, trusted names.</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#ffffff"  style="border-bottom: 15px solid #e2ebf6;padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="100							<img src="http://www.deal-alert.co.uk/mail/fixmyinsurance_nov2014/trusted_companies.jpg" alt="" border="no" style="max-width: 100						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#e2ebf6" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="5						<td width="90							Why should I use FixMyLifeInsurance.co.uk?
+						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#e2ebf6" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="5						<td width="90							We offer a no-fuss, complimentary service, saving you time for the important things in life. With our site you can be sure you will find a deal - and fast.
+						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#e2ebf6" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="5						<td width="45							&bull;Support your family with a lump sum<br />
+							&bull;Pay for children&#39;s school or university<br />
+							&bull;Pay off credit card or loan debts<br />
+						</td>
+						<td width="45							&bull;Pay for funeral expenses<br />
+							&bull;Pay off the mortgage<br />
+							&bull;A treat for your loved ones<br />
+						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#e2ebf6" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="5						<td width="90							<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKPcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOS" style="color: #ffffff;border-bottom: 4px solid #1c3d9d;width: 100						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellspacing="0" cellpadding="0" width="100		<tr>
+			<td style="padding: 0;border-collapse: collapse">
+				<table border="0" cellspacing="0" cellpadding="0" width="600" align="center" bgcolor="#e2ebf6" style="padding: 0;border-collapse: collapse">
+					<tr>
+						<td width="5						<td width="90							* &pound;75,000 of level term assurance over 15 years, for a 30 year old non-smoker, �6 per month. Subject to underwriting.<br />
+						</td>
+						<td width="5					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+<table align="center" border="0" cellpadding="20" cellspacing="0" class="deviceWidth" style="width:100	<tbody>
+		<tr>
+			<td align="center" valign="top">
+
+				<font color="#666666" face="Verdana" size="1"> This message was selected by us at Deal Alert and sent to you on behalf of Fix My Life Insurance as you have signed up to receive our emails from one of our partners. We apologise if you believe this email has been sent to you in error. If links have been disabled, please ensure this email is not in your junk folder.<br />
+				<a href="http://com.mydealsonthego.co.uk/HS?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbKfcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOT" style="color:#000;"><b>Privacy Policy </b></a> &#124;  <b><a href="http://com.mydealsonthego.co.uk/HD?a=ENX7CqrC2tR_8SA9MKJ96ajnGHxKL_gbHvcStGb5lw8W0bBhOG5mpqVsje_HhdAYblOA" style="color:#000;"> Unsubscribe</a></b>. <br />  Sent to you by Deal Alert, PO Box 70921, London, SW19 9FP. Thank you.
+		  </font></td>
+		</tr>
+	</tbody>
+</table>
+<img src="http://com.mydealsonthego.co.uk/HO?DdX7CqrC2tR_8SA9MOPvnrfnGHxKLK_BmAjtS5kGUSEwKIE.gif" border="0" alt="" width="1" height="1" /></body>
+</html>
+--328968216715867536--
+

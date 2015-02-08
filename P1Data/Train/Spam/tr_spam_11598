@@ -1,0 +1,1434 @@
+From @..  Wed Jan  7 07:01:13 2015
+Return-Path: <@..>
+X-Original-To: kparkinson34@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 96BF3DE; Wed,  7 Jan 2015 07:01:13 +0000 (UTC)
+Received: from mta832.rac-mail.co.uk (mta832.rac-mail.co.uk [63.236.77.68])
+    by .. with SMTP id qyrudgb8r5bhfj5g2ru56yknvn;
+    for kparkinson34@fs.net;
+    Wed, 07 Jan 2015 07:01:13 +0000 (UTC)
+    (envelope-from bo-b9t9x9dat31293auzuss5qcbyy09m9@b.rac-mail.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=63.236.77.68;
+    envelope-from=<bo-b9t9x9dat31293auzuss5qcbyy09m9@b.rac-mail.co.uk>;
+    helo=mta832.rac-mail.co.uk; mechanism=ip4:63.236.77.68
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=63.236.77.68; client-port=50760;
+    syn-fingerprint=14600:58:1:44:M1380; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 205.171.17.2;
+    network-path-time=1420614073; RBL=dnsbl.sorbs.net (127.0.0.6)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rac-mail.co.uk;
+	s=20111006; t=1420614073; x=1436252473;
+	bh=2jcgjQO6ECQjDoaxj2fQpO1FTStzgOdzfJpNc0ZSaWg=; h=From:Reply-To;
+	b=dmd01T4pHbAdgAzyAyjSRTwilChvgIXH2fOJNGI7ki0JRvjb0NOBDL6erawPs5OQc
+	 AHmR5wXrphjipMKmwvWkeLkL5fMObYYJ4o3tRPyn8k/hbjDhgVeFgusA6UpPV5RE7I
+	 tUfTjLUCckf3rCBp4ppPw1mJD3rtsmoilna3/7gU=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=rac-mail.co.uk;
+  b=CPfiu4C4yZX/g5HFuzco8Sj97Ph4gWSr7K5QRPo7jejh9c3fKFQDQg5WMjVwQqLmPvDwYitgtqEh5SKXrlYFwg4R9nCMs3WeBQCkoXU70X2MsgEMVvV2qmjCWhxnQNAc3BUPuw+8EJkgAnWFouXEM7TI0VBaaJQ9P3el9pC79lE=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type:Content-Transfer-Encoding;
+Date: Wed, 7 Jan 2015 07:01:13 -0000
+Message-ID: <b9t9x9dat31293auzuss5qcbyy09m9.14713605120.897@mta832.rac-mail.co.uk>
+List-Unsubscribe: <mailto:rm-0b9t9x9dat31293auzuss5qcbyy09m9@rac-mail.co.uk>
+From: "RAC" <@..>
+To: @..
+Subject: Legal or Illegal? What are your drivers actually getting caught for�
+MIME-Version: 1.0
+Reply-To: "RAC" <@..>
+Content-type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"=20
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"ht=
+tp://www.w3.org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3D320" />
+<title>RAC_115002935</title><style type=3D"text/css">
+	.ReadMsgBody {width: 100	.ExternalClass {width: 100	a img {border:none; margin:0; padding:0;}
+	body{width: 100-webkit-font-smoothing: antialiased;font-family:Arial, Helvetica,=20
+sans-serif; }
+	table td {border-collapse: collapse;}
+	table { border-collapse:collapse; mso-table-lspace:0pt;=20
+mso-table-rspace:0pt; }
+	sup {
+      font-size:9px; color:#f95108;vertical-align: super;    line-height:=
+=20
+0;=20
+    }
+=09
+=09
+
+	@media only screen and (max-width: 480px) {
+	.mobile {display:block !important;margin: 0;padding:0;overflow : hidden=20
+!important;width:auto !important;max-height:inherit !important;}
+=09
+	table[class=3Demailnomob],td[class=3Demailnomob],img[class=3Demailnomob],=
+=20
+span[class=3Demailnomob] {display:none !important;}
+	table[class=3Ddevicewidth] {width:320px !important; height:auto=20
+!important; padding:0;}
+	table[class=3Dheader] {width:280px !important; height:auto !important;=20
+padding:0;}
+	td[class=3Dlogo] {padding-left:10px;}
+	td[class=3Darrow] {padding-right:10px;}
+=09=09
+	td[class=3Dspacing] {width:43px !important;}
+	*[class=3Dnav1]{ display:block !important; width:320px !important;=20
+height:auto !important; alignment-adjust:middle !important;=20
+text-align:center !important}
+	*[class=3Dnav]{ display:block !important; width:280px !important;=20
+height:auto !important; alignment-adjust:middle !important;=20
+text-align:center !important}
+	table[class=3Dcall] {width:280px !important; height:auto !important;=20
+padding:0;}
+	table[class=3Dborder] {width:270px !important; height:auto !important;=20
+padding:0; text-align:center;}
+	td[class=3Dcall] { padding-top:10px; padding-bottom:10px;}
+	td[class=3Dborder] {width:264px !important;}
+	td[class=3Dcontent] { padding-left:30px !important; padding-top:8px=20
+!important; padding-right:20px !important;}
+	td[class=3Dcontent1] { padding-left:10px !important; padding-top:8px=20
+!important; padding-right:10px !important; }
+	td[class=3Dimgcontent] { padding-left:10px !important;  }
+	table[class=3Dimg] {width:280px !important; height:auto !important;=20
+padding:0;}
+	td[class=3Dimgtext] {padding-top:5px !important;}
+	td[class=3Dconnect] {padding-top:0px !important;}
+	td[class=3Dconnect1] {padding-bottom:0px !important;}
+	td[class=3Dfootercontent] { padding-top:10px !important;=20=20
+padding-bottom:10px !important; }
+	td[class=3Diphone_lineheight] { line-height:25px !important;=20
+font-size:12px !important; padding-left:30px !important; padding-top:8px=20
+!important; padding-right:20px !important; }
+		}
+=09=09
+        </style></head><body onload=3D'' bgcolor=3D"#96949a"  style=3D"back=
+ground-color: #96949a;">
+
+
+
+
+<!-- If you see this message, please enable HTML e-mail -->
+
+
+<table width=3D"100cellpadding=3D"0" bgcolor=3D"#96949a">
+  <tbody><tr>
+    <td align=3D"center" valign=3D"top">
+=20=20=20=20
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+=20
+class=3D"devicewidth" align=3D"center">
+        <tbody><tr>
+          <td width=3D"600" align=3D"center">
+          <!-- Start of preheader -->
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"=20
+align=3D"center" class=3D"devicewidth">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td width=3D"100                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td align=3D"center" valign=3D"middle"=20
+style=3D"font-size:11px; font-family:Arial, Helvetica,=20
+sans-serif;text-align: center; color: #ffffff;" st-content=3D"preheader"=20
+class=3D"">
+                           If you are having trouble reading this email=20
+view it online <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wA=
+qU/view?t_params=3DEMAILtarget=3D"_blank" style=3D"color:=20
+#ffffff;">here</a>=20
+                        </td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td width=3D"100                     </tr>
+                     <!-- Spacing -->
+                  </tbody>
+               </table>
+            <!-- End of preheader -->
+          </td>
+        </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+<tr>
+  <td width=3D"600" align=3D"center">
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<!-- start of header -->
+	<table width=3D"600" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"=
+0"=20
+border=3D"0" align=3D"center" class=3D"devicewidth">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-top:25px;=20
+padding-bottom:25px" class=3D"devicewidth">
+					<table width=3D"560" align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"header">
+						<tbody><tr>
+                            <td align=3D"left" valign=3D"top" width=3D"108"=
+=20
+class=3D"logo"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wA=
+qU/business" target=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_rac_logo.jpg" alt=3D"RAC=
+=20
+Business" width=3D"108" height=3D"60" border=3D"0"=20
+style=3D"display:block"></a></td>
+                            <td align=3D"left" valign=3D"top"=20
+class=3D"spacing">&nbsp;</td>
+							<td align=3D"right" valign=3D"top" width=3D"109" class=3D"arrow"><a=
+=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/business1" targ=
+et=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_toparrow.jpg" alt=3D""=
+=20
+width=3D"109" height=3D"60" border=3D"0" style=3D"display:block"></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<!-- End of header -->
+   </td>
+</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+<tr>
+   <td width=3D"600" align=3D"center">=20
+=20=20=20=20
+	<!-- start of menu -->
+	<table border=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF" align=3D"center"=
+=20
+width=3D"600" cellspacing=3D"0" style=3D"font-family:Arial, Helvetica,=20
+sans-serif; color:#504d51; font-size:11px;" class=3D"emailnomob">
+		<tbody><tr>
+			<td align=3D"left" valign=3D"top" style=3D"padding-bottom:10px;">
+         		<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+                	      <tbody><tr>
+                	        <td width=3D"15" align=3D"left"=20
+valign=3D"top">&nbsp;</td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"100" align=3D"center" valign=3D"middl=
+e"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/breakdown" target=3D"_blank"=20
+style=3D"color:#818181; text-decoration:none;">Breakdown=20
+Cover</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"88" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/club" target=3D"_blank"=20
+style=3D"color:#818181; text-decoration:none;">Business Club</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"60" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/telematics" target=3D"_blank"=20
+style=3D"color:#818181;=20
+text-decoration:none;">Telematics</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"60" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/fuel" target=3D"_blank"=20
+style=3D"color:#818181; text-decoration:none;">Fuel=20
+Card</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"60" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/insurance" target=3D"_blank"=20
+style=3D"color:#818181;=20
+text-decoration:none;">Insurance</a></td>
+                            <td width=3D"10" align=3D"left" valign=3D"top">=
+<img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"60" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/training" target=3D"_blank"=20
+style=3D"color:#818181;=20
+text-decoration:none;">Training</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"61" align=3D"center" valign=3D"middle=
+"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; color:#504d51;=20
+font-size:12px;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8=
+wAqU/enquiry" target=3D"_blank"=20
+style=3D"color:#818181; text-decoration:none;">Contact=20
+Us</a></td>
+                	        <td width=3D"10" align=3D"left" valign=3D"top"><im=
+g=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_spacer_line.jpg"=20
+width=3D"10" height=3D"26" style=3D"display:block"></td>
+                	        <td width=3D"15" align=3D"left"=20
+valign=3D"top">&nbsp;</td>
+              	        </tr>
+              	      </tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+	<!-- End of menu -->
+   </td>
+</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+<tr>
+  <td width=3D"600" align=3D"center">
+=20=20=20=20=20=20
+	<!-- start of banner -->
+	<table bgcolor=3D"#ffffff" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"emailnomob">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top"><a href=3D"http://rac-mail.co.uk/a/hB=
+UrNl3ApB0z4B8$o45Ns-8wAqU/blog"=20
+target=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_banner.jpg" width=3D"600=
+"=20
+height=3D"130" alt=3D"Motoring News" border=3D"0" style=3D"display:block;">=
+</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </td>
+			</tr>
+		</tbody>
+	</table>
+	<!--end of banner -->
+  </td>
+</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+   <!-- start of bannermob -->
+       <!--[if !mso]><!-->
+  <tr>
+ 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+        <div class=3D"mobile" style=3D"display:none; mso-hide:all;=20=20
+width:0px; max-height:0px; overflow:hidden;">=09
+        <table bgcolor=3D"#ffffff" width=3D"600" align=3D"center"=20
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"nav1"=20
+style=3D"display:none; mso-hide:all; ">
+            <tbody>
+                <tr>
+                 <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/blog" target=3D=
+"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_banner_mob.jpg"=20
+width=3D"320" alt=3D"Motoring News" border=3D"0" style=3D"display:block;"><=
+/a>
+     </td>
+        </tr>
+            </tbody>
+        </table>
+        </div>
+    </td>
+  </tr>=20=20=20=20=20
+      <!--<![endif]-->
+	<!-- end of bannermob -->
+=20=20=20
+    <!-- start of content -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+<tr>
+   <td width=3D"600" align=3D"center">
+	<table bgcolor=3D"#f2f2f2" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"devicewidth">
+		<tbody>
+			<tr>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:30px; padding-top:12px;  text-align:left;"=20
+class=3D"content">Hello Lynda</td>
+                  </tr>
+                  <tr>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:30px; padding-right:30px; padding-top:12px;=20
+line-height:16px;  text-align:left;  padding-bottom:10px;"=20
+class=3D"iphone_lineheight">Welcome to the January edition of the RAC's=20
+Motoring News, where we look at more issues affecting your business,=20
+such as the rise of the 'grey fleet' and how an RAC Car Passport can=20
+give you all the information you need to  make sure the car you're after=20
+really is right for you and your business. <br>
+                      <br>
+
+Wishing you a happy and prosperous New Year for 2015. </td>
+                  </tr>
+		</tbody>
+	</table>
+    </td>
+</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+	<!--end of content -->
+    <!-- start of imgcontent -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+<tr>
+  <td width=3D"600" align=3D"center">
+=20=20=20=20=20=20
+	<table bgcolor=3D"#ffffff" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"emailnomob">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-top:10px;"><table=20
+width=3D"560" border=3D"0" align=3D"center" cellspacing=3D"0" cellpadding=
+=3D"0">
+				  <tbody><tr>
+                   <td align=3D"left" valign=3D"top"><table width=3D"410"=
+=20
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"top">
+                            <table width=3D"410" border=3D"0" cellspacing=
+=3D"0"=20
+cellpadding=3D"0">
+                      			<tbody><tr>
+                       				 <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/grey" target=3D=
+"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img1.jpg" width=3D"200"=
+=20
+height=3D"198" alt=3D"Grey Fleet or Company Car?" style=3D"display:block"=
+=20
+border=3D"0"></a></td>
+                                     <td align=3D"left" valign=3D"top"=20
+style=3D"padding-left:10px"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z=
+4B8$o45Ns-8wAqU/growth"=20
+target=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img2.jpg" width=3D"200"=
+=20
+height=3D"198" alt=3D"Business Growth" style=3D"display:block"=20
+border=3D"0"></a></td>
+							</tr></tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top">
+                            <table width=3D"410" border=3D"0" cellspacing=
+=3D"0"=20
+cellpadding=3D"0">
+                      			<tbody><tr>
+                       				   <td width=3D"200" align=3D"left" valign=3D"to=
+p"=20
+bgcolor=3D"#f2f2f2" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+font-size:10px; color:#818181; padding-left:10px; padding-right:15px;=20
+padding-top:8px; line-height:12px;  text-align:left;=20=20
+padding-bottom:10px;">Do you use your own car for business purposes?=20
+It's estimated there are three times more grey fleet vehicles than=20
+company cars <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU=
+/grey" target=3D"_blank"=20
+style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+                                       <td align=3D"center" valign=3D"top"=
+=20
+width=3D"10">&nbsp; </td>
+                                       <td width=3D"200" align=3D"left"=20
+valign=3D"top" bgcolor=3D"#f2f2f2" style=3D"font-family:Arial, Helvetica,=
+=20
+sans-serif; font-size:10px; color:#818181; padding-left:10px;=20
+padding-right:15px; padding-top:8px; line-height:12px;  text-align:left;=20
+ padding-bottom:10px;">Motorway traffic levels have reached an all-time=20
+high, with light goods vehicles and small business tradesmen leading the=20
+way <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/growth" =
+target=3D"_blank"=20
+style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+							</tr></tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:10px;">
+                            <table width=3D"410" border=3D"0" cellspacing=
+=3D"0"=20
+cellpadding=3D"0">
+                      			<tbody><tr>
+                       				 <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/passport" targe=
+t=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img3.jpg" width=3D"200"=
+=20
+height=3D"198" alt=3D"Buying a Car?" style=3D"display:block"=20
+border=3D"0"></a></td>
+                                     <td align=3D"left" valign=3D"top"=20
+style=3D"padding-left:10px"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z=
+4B8$o45Ns-8wAqU/caught"=20
+target=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img4.jpg" width=3D"200"=
+=20
+height=3D"198" alt=3D"Legal or Illegal?" style=3D"display:block"=20
+border=3D"0"></a></td>
+							</tr></tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top">
+                            <table width=3D"410" border=3D"0" cellspacing=
+=3D"0"=20
+cellpadding=3D"0">
+                      			<tbody><tr>
+                       				   <td width=3D"200" align=3D"left" valign=3D"to=
+p"=20
+bgcolor=3D"#f2f2f2" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+font-size:10px; color:#818181; padding-left:10px; padding-right:15px;=20
+padding-top:8px; line-height:12px;  text-align:left;=20=20
+padding-bottom:10px;">Get an instant Buyer's Report to give you car=20
+confidence before you buy for your business <a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/passport" targe=
+t=3D"_blank" style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+                                       <td align=3D"center" valign=3D"top"=
+=20
+width=3D"10">&nbsp; </td>
+                                       <td width=3D"200" align=3D"left"=20
+valign=3D"top" bgcolor=3D"#f2f2f2" style=3D"font-family:Arial, Helvetica,=
+=20
+sans-serif; font-size:10px; color:#818181; padding-left:10px;=20
+padding-right:15px; padding-top:8px; line-height:12px;  text-align:left;=20
+ padding-bottom:10px;">So what offences are motorists actually getting=20
+caught for? The facts show that motorists are spot on <a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/caught" target=
+=3D"_blank" style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+							</tr></tbody></table></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top">
+                            <table width=3D"410" border=3D"0" cellspacing=
+=3D"0"=20
+cellpadding=3D"0">
+                      			<tbody><tr>
+                       				   <td align=3D"left" valign=3D"top"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px;=20
+color:#818181;  padding-top:8px; line-height:12px;  text-align:left;=20=20
+padding-bottom:10px;"><strong>Thank you for reading, from the RAC=20
+Business team</strong></td>
+                              </tr></tbody></table></td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+				    <td align=3D"left" valign=3D"top" style=3D"padding-left:20px;"><a=
+=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/breakdown" targ=
+et=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_side_banner.jpg"=20
+alt=3D"RAC Business Get RAC Business Breakdown with FREE online management=
+=20
+tool" width=3D"130" height=3D"530" border=3D"0" style=3D"display:block"></a=
+></td>
+				    </tr>
+				  </tbody></table>
+                  </td>
+             </tr>
+        </tbody>
+    </table>
+   </td>
+</tr>=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+	<!--end of imgcontent -->
+       <!--[if !mso]><!-->
+  <tr>
+ 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+        <div class=3D"mobile" style=3D"display:none; mso-hide:all;=20=20
+width:0px; max-height:0px; overflow:hidden;">=09
+        <table bgcolor=3D"#ffffff" width=3D"600" align=3D"center"=20
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"nav1"=20
+style=3D"display:none; mso-hide:all; ">
+		<tbody>
+			<tr>
+            <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;=
+"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/grey" target=3D=
+"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img_mob1.jpg"=20
+width=3D"264" alt=3D"Grey Fleet or Company Car?" style=3D"display:block"=20
+border=3D"0"></a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+             <td width=3D"220" align=3D"left" valign=3D"top" bgcolor=3D"#f2=
+f2f2"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:10px; padding-right:15px; padding-top:8px;=20
+line-height:14px;  text-align:left;  padding-bottom:10px;">Do you use=20
+your own car for business purposes? It's estimated there are three times=20
+more grey fleet vehicles than company cars <a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/grey" target=3D=
+"_blank" style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;=
+"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/growth" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img_mob2.jpg"=20
+width=3D"264" alt=3D"Business Growth" style=3D"display:block"=20
+border=3D"0"></a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+             <td width=3D"220" align=3D"left" valign=3D"top" bgcolor=3D"#f2=
+f2f2"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:10px; padding-right:15px; padding-top:8px;=20
+line-height:14px;  text-align:left;  padding-bottom:10px;">Motorway=20
+traffic levels have reached an all-time high, with light goods vehicles=20
+and small business tradesmen leading the way <a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/growth" target=
+=3D"_blank" style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;=
+"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/passport" targe=
+t=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img_mob5.jpg"=20
+width=3D"264" alt=3D"Driving Business with RAC Telematics"=20
+style=3D"display:block" border=3D"0"></a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+             <td width=3D"220" align=3D"left" valign=3D"top" bgcolor=3D"#f2=
+f2f2"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:10px; padding-right:15px; padding-top:8px;=20
+line-height:14px;  text-align:left;  padding-bottom:10px;">Get an=20
+instant Buyer's Report to give you car confidence before you buy for=20
+your business <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAq=
+U/passport" target=3D"_blank"=20
+style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;=
+"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/caught" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_img_mob4.jpg"=20
+width=3D"264" alt=3D"Legal or Illegal?" style=3D"display:block"=20
+border=3D"0"></a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+			</tr>
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+             <td width=3D"220" align=3D"left" valign=3D"top" bgcolor=3D"#f2=
+f2f2"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;=20
+color:#818181; padding-left:10px; padding-right:15px; padding-top:8px;=20
+line-height:14px;  text-align:left;  padding-bottom:10px;">So what=20
+offences are motorists actually getting caught for? The facts show that=20
+motorists are spot on <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o4=
+5Ns-8wAqU/caught" target=3D"_blank"=20
+style=3D"color:#f95108;=20
+text-decoration:none;">more&raquo;</a></td>
+             <td align=3D"center" valign=3D"top" width=3D"24">&nbsp;</td>
+			</tr>
+             <tr>
+            <td align=3D"center" colspan=3D"3" valign=3D"top"><table=20
+width=3D"320" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"nav=
+1"=20
+style=3D"display:none;">
+  <tbody><tr>
+    <td align=3D"center" valign=3D"top" width=3D"95"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"left" valign=3D"top" style=3D"padding-top:10px;">=
+<a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/breakdown" targ=
+et=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_side_banner.jpg"=20
+width=3D"130" height=3D"530" alt=3D"RAC Business Get RAC Business Breakdown=
+=20
+with FREE online management tool" style=3D"display:block"=20
+border=3D"0"></a></td>
+             <td align=3D"center" valign=3D"top" width=3D"95"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+  </tr>
+</tbody></table>
+</td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+			</tr>
+		</tbody>
+	</table>
+	</div>
+    </td>
+  </tr>=20=20=20=20=20
+      <!--<![endif]-->
+
+<tr>
+  <td width=3D"600" align=3D"center">
+         <table bgcolor=3D"#ffffff" width=3D"600" align=3D"center"=20
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"emailnomob">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-top:10px;">
+                <table width=3D"560" align=3D"center" border=3D"0"=20
+cellspacing=3D"0" cellpadding=3D"0" class=3D"border">
+                	<tbody><tr>
+                    <td align=3D"left" valign=3D"top"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_contact.jpg"=20
+alt=3D"Contact Us" width=3D"560" height=3D"26" border=3D"0"=20
+style=3D"display:block"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  <tr>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-bottom:10px;"><table width=3D"560" border=3D"0"=20
+cellspacing=3D"0" cellpadding=3D"0">
+                      <tbody><tr>
+                        <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/enquiry" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_emailicon.jpg"=20
+alt=3D"Email Us" width=3D"188" height=3D"35" border=3D"0"=20
+style=3D"display:block"></a></td>
+                         <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/call" target=3D=
+"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_requesticon.jpg"=20
+alt=3D"Request Call Back" width=3D"186" height=3D"35" border=3D"0"=20
+style=3D"display:block"></a></td>
+                      <td align=3D"left" valign=3D"top"><a=20
+style=3D"color:#f95108; text-decoration:none;" target=3D"_blank"=20
+href=3D"tel:0844 241 3023"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_callicon.jpg"=20
+width=3D"186" height=3D"35" alt=3D"Call us 0844 241 3023"=20
+style=3D"display:block" border=3D"0"></a></td>
+                      </tr>
+                    </tbody></table>
+                    </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </tbody></table>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+  </td>
+</tr>=20=20=20=20
+       <!--[if !mso]><!-->
+  <tr>
+ 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+        <div class=3D"mobile" style=3D"display:none; mso-hide:all;=20=20
+width:0px; max-height:0px; overflow:hidden;">=09
+        <table bgcolor=3D"#ffffff" width=3D"600" align=3D"center"=20
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"nav1"=20
+style=3D"display:none; mso-hide:all; ">
+		<tbody>
+			<tr>
+             <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+             <td align=3D"left" valign=3D"top" style=3D"padding-top:10px;">=
+<img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_contact_mob.jpg"=20
+alt=3D"Contact Us" width=3D"280" height=3D"24" border=3D"0"=20
+style=3D"display:block"></td>
+             <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:10px;">&nbsp;</td>
+		    </tr>
+            <tr>
+             <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</td>
+             <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/enquiry" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_emailicon_mob.jpg"=20
+alt=3D"Email Us" width=3D"280" height=3D"41" border=3D"0"=20
+style=3D"display:block"></a></td>
+             <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</td>
+		    </tr>
+            <tr>
+             <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</td>
+             <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/call" target=3D=
+"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_requesticon_mob.jpg"=20
+alt=3D"Request Call Back" width=3D"280" height=3D"37" border=3D"0"=20
+style=3D"display:block"></a></td>
+             <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</td>
+		    </tr>
+            <tr>
+             <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-bottom:10px;">&nbsp;</td>
+             <td align=3D"left" valign=3D"top"=20
+style=3D"padding-bottom:10px;"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_callicon_mob.jpg"=20
+alt=3D"Call Us" width=3D"280" height=3D"44" border=3D"0"=20
+style=3D"display:block"></td>
+             <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-bottom:10px;">&nbsp;</td>
+		    </tr>
+		</tbody>
+	</table>
+	</div>
+    </td>
+  </tr>=20=20=20=20=20
+      <!--<![endif]-->
+=20=20=20
+    <!-- start of connect -->
+<tr>
+  <td width=3D"600" align=3D"center">
+	<table bgcolor=3D"#ffffff" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"devicewidth">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-bottom:3px;">
+                <table width=3D"560" align=3D"center" border=3D"0"=20
+cellspacing=3D"0" bgcolor=3D"#262626" cellpadding=3D"0" class=3D"call">
+                  <tbody><tr>
+                    <td align=3D"left" valign=3D"top">
+                    	<table width=3D"370" border=3D"0" align=3D"left"=20
+cellspacing=3D"0" cellpadding=3D"0" class=3D"call">
+                      <tbody><tr>
+                        <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:12px; padding-bottom:12px;" class=3D"connect1"><table=
+=20
+width=3D"230" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"middle"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; line-height:20px;=20=20
+font-size:14px; color:#f95108; padding-left:10px;=20=20=20
+text-align:left;">Join the conversation</td>
+                            <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/youtube" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_youtube.jpg" alt=3D"You=
+=20
+tube" width=3D"24" height=3D"24" border=3D"0" style=3D"display:block"></a><=
+/td>
+                            <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/twitter" target=
+=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_twitter.jpg"=20
+alt=3D"Twitter" width=3D"24" border=3D"0" style=3D"display:block"></a></td>
+                            <td align=3D"left" valign=3D"top"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/linkedin" targe=
+t=3D"_blank"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_linkedin.jpg" alt=3D" "=
+=20
+width=3D"24" border=3D"0" style=3D"display:block"></a></td>
+                          </tr>
+                        </tbody></table>
+                    </td>
+                      </tr>
+                    </tbody></table>
+                   <table width=3D"186" border=3D"0" align=3D"left"=20
+cellspacing=3D"0" cellpadding=3D"0">
+                      <tbody><tr>
+                        <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:12px; padding-bottom:12px;" class=3D"connect"><table=
+=20
+width=3D"186" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"middle" width=3D"1=
+60"=20
+style=3D"font-family:Arial, Helvetica, sans-serif; line-height:20px;=20=20
+font-size:14px; color:#c9caca; padding-left:10px;=20=20=20
+text-align:left;">Visit <a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$=
+o45Ns-8wAqU/business1"=20
+target=3D"_blank" style=3D"color:#f95108;=20
+text-decoration:none;">rac.co.uk/business</a></td>
+                            <td align=3D"left" valign=3D"top"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_mouse.jpg" alt=3D" "=20
+width=3D"24" height=3D"24" border=3D"0" style=3D"display:block"></td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                          </tr>
+                        </tbody></table>
+                    </td>
+                      </tr>
+                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  </tr>
+                </tbody></table>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+  </td>
+</tr>=20=20=20=20
+	<!--end of connect -->
+    <!-- start of bottom menu -->
+<tr>
+  <td width=3D"600" align=3D"center">
+=20=20=20=20
+	<table bgcolor=3D"#ffffff" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"emailnomob">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-bottom:10px;">
+                <table width=3D"560" align=3D"center" border=3D"0"=20
+cellspacing=3D"0" cellpadding=3D"0" class=3D"call">
+                  <tbody><tr>
+                    <td align=3D"left" valign=3D"top"><table width=3D"560"=
+=20
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                      <tbody><tr>
+                        <td align=3D"left" valign=3D"top" width=3D"188"><ta=
+ble=20
+width=3D"185" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"top"><table=20
+width=3D"185" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                              <tbody><tr>
+                                  <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/breakdown" targ=
+et=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Breakdown=20
+Cover</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;"><a href=3D"http://rac-mail.co.uk/a/hB=
+UrNl3ApB0z4B8$o45Ns-8wAqU/club"=20
+target=3D"_blank" style=3D"color:#4c4c4c; text-decoration:none;">Business=
+=20
+Club</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;"><a href=3D"http://rac-mail.co.uk/a/hB=
+UrNl3ApB0z4B8$o45Ns-8wAqU/enquiry"=20
+target=3D"_blank" style=3D"color:#4c4c4c; text-decoration:none;">Contact=20
+Us</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                        </tbody></table>
+                        </td>
+                        <td align=3D"left" valign=3D"top" width=3D"187"><ta=
+ble=20
+width=3D"187" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"top"><table=20
+width=3D"185" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#ffffff;=20
+padding-left:10px;  text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/telematics" tar=
+get=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Telematics</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;"><a href=3D"http://rac-mail.co.uk/a/hB=
+UrNl3ApB0z4B8$o45Ns-8wAqU/fuel"=20
+target=3D"_blank" style=3D"color:#4c4c4c; text-decoration:none;">Fuel=20
+Card</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_balnk.jpg" alt=3D" =
+"=20
+width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;">&nbsp;</td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                        </tbody></table></td>
+                        <td align=3D"left" valign=3D"top" width=3D"185"><ta=
+ble=20
+width=3D"185" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                          <tbody><tr>
+                            <td align=3D"left" valign=3D"top"><table=20
+width=3D"185" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#ffffff;=20
+padding-left:10px;  text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/insurance" targ=
+et=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Insurance</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_arrow1.jpg" alt=3D"=
+=20
+" width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;"><a href=3D"http://rac-mail.co.uk/a/hB=
+UrNl3ApB0z4B8$o45Ns-8wAqU/training"=20
+target=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Training</a></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;"><table width=3D"185" border=3D"0" cellspacing=3D=
+"0"=20
+cellpadding=3D"0">
+                              <tbody><tr>
+                                <td align=3D"left" valign=3D"top"=20
+bgcolor=3D"#d9d9d9" width=3D"36"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menu_balnk.jpg" alt=3D" =
+"=20
+width=3D"24" border=3D"0" style=3D"display:block"></td>
+                                                <td align=3D"left"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#c9caca;=20
+padding-left:10px;  text-align:left;">&nbsp;</td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+                        </tbody></table></td>
+                      </tr>
+                    </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+  </td>
+</tr>=20=20=20=20
+	<!--end of  bottom menu  -->
+    <!-- start of bottom menu mob-->
+=20=20=20=20=20=20=20
+       <!--[if !mso]><!-->
+  <tr>
+ 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+        <div class=3D"mobile" style=3D"display:none; mso-hide:all;=20=20
+width:0px; max-height:0px; overflow:hidden;">=09
+        <table bgcolor=3D"#ffffff" width=3D"600" align=3D"center"=20
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"nav1"=20
+style=3D"display:none; mso-hide:all; ">
+		<tbody>
+			<tr>
+            <td align=3D"left" valign=3D"top"><table width=3D"280"=20
+align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"=
+nav1"=20
+style=3D"display:none;">
+                  <tbody><tr>
+                  <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                               <td align=3D"left" width=3D"273"=20
+bgcolor=3D"#d9d9d9" valign=3D"middle" style=3D"font-family:Arial, Helvetica=
+,=20
+sans-serif; line-height:20px;  font-size:14px; color:#ffffff;=20=20=20
+text-align:left;"><a href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-=
+8wAqU/breakdown" target=3D"_blank"=20
+style=3D"color:#4c4c4c; text-decoration:none;">Breakdown=20
+Cover</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20">&nbsp;</=
+td>
+                  </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/club" target=3D=
+"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Business=20
+Club</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/telematics" tar=
+get=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;"> Telematics</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/fuel" target=3D=
+"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Fuel Card</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/insurance" targ=
+et=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Insurance</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/training" targe=
+t=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Training</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  <td align=3D"left" valign=3D"top" style=3D"padding-top:2p=
+x;"=20
+width=3D"20">&nbsp;</td>
+                    <td align=3D"left" valign=3D"top"=20
+style=3D"padding-top:2px;">
+                    <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+=20
+cellpadding=3D"0" class=3D"nav" style=3D"display:none;">
+                     <tbody><tr>
+                    <td align=3D"left" valign=3D"top" bgcolor=3D"#d9d9d9"=
+=20
+width=3D"27"><img=20
+src=3D"http://f.rac-mail.co.uk/i/28/688344312/2935_menumob_arrow1.jpg"=20
+alt=3D" " width=3D"24" border=3D"0" style=3D"display:block"></td>
+                    <td align=3D"left" bgcolor=3D"#d9d9d9" width=3D"273"=20
+valign=3D"middle" style=3D"font-family:Arial, Helvetica, sans-serif;=20
+line-height:20px;  font-size:14px; color:#ffffff;   text-align:left;"><a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/enquiry" target=
+=3D"_blank" style=3D"color:#4c4c4c;=20
+text-decoration:none;">Contact Us</a></td>
+                       </tr>
+                     </tbody></table></td>
+                    <td align=3D"left" valign=3D"top" width=3D"20"=20
+style=3D"padding-top:2px;">&nbsp;</td>
+                  </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </tbody></table></td>
+         </tr>
+=20=20=20=20=20=20=20=20
+		</tbody>
+	</table>
+		</div>
+    </td>
+  </tr>=20=20=20=20=20
+      <!--<![endif]-->
+=20=20=20
+	<!-- end of bottom menu mob -->
+   <!-- start of footer -->
+  <tr>
+ 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+=20=20=20
+	<table bgcolor=3D"#ffffff" width=3D"600" align=3D"center" cellspacing=3D"0=
+"=20
+cellpadding=3D"0" border=3D"0" class=3D"devicewidth">
+		<tbody>
+			<tr>
+				<td align=3D"left" valign=3D"top" style=3D"padding-bottom:10px;">
+                <table width=3D"560" align=3D"center" border=3D"0"=20
+cellspacing=3D"0" cellpadding=3D"0" class=3D"call">
+                  <tbody><tr>
+                     <td class=3D"footercontent" style=3D"font-family:Arial=
+,=20
+Helvetica, sans-serif; line-height:11px; font-size:9px; color:#666665;=20=
+=20
+padding-top:10px;  padding-bottom:10px;  text-align:left;">Breakdown=20
+provided by RAC Motoring Services Registered No 01424399 and/or RAC=20
+Insurance Ltd Registered No 2355834. Registered in England; Registered=20
+Offices: RAC House, Brockhurst Crescent, Walsall WS5 4AW. RAC Motoring=20
+Services is authorised and regulated by the Financial Conduct Authority.=20
+RAC Insurance Ltd is authorised by the Prudential Regulation Authority=20
+and regulated by the Financial Conduct Authority and the Prudential=20
+Regulation Authority.
+<br><br>Email provided by RAC Motoring Services Registered No.=20
+01424399, Registered Offices RAC House, Brockhurst Crescent, Walsall,=20
+WS5 4AW.
+</td>
+                  </tr>
+                </tbody></table>
+                </td>
+			</tr>
+		</tbody>
+	</table>
+    </td>
+ </tr>=20=20=20
+	<!--end of footer -->
+       <!-- Start of preheader -->
+        <tr>
+		 	<td width=3D"600" align=3D"center" valign=3D"top">=20=20
+=20
+            <table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"=20
+align=3D"center" class=3D"devicewidth">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td width=3D"100                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                       <td style=3D"font-size:11px; font-family:Arial,=20
+Helvetica, sans-serif;text-align: center; color: #ffffff;">To=20
+unsubscribe from RAC emails, please click <a=20
+href=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/unsub?email=3Dk=
+parkinson34@fs.net" target=3D"_blank"=20
+style=3D"color: #ffffff;">here</a></td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td width=3D"100                     </tr>
+                     <!-- Spacing -->
+                  </tbody>
+               </table>
+            </td>
+        </tr>=20=20=20=20=20=20=20
+            <!-- End of preheader -->=20
+
+</tbody></table>=20=20=20=20
+=20=20=20=20=20=20
+</td>
+  </tr>
+</tbody></table>
+
+<img src=3D"http://rac-mail.co.uk/a/hBUrNl3ApB0z4B8$o45Ns-8wAqU/spacer.gif">
+</body></html>=
+

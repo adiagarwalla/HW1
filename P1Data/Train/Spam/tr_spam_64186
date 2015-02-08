@@ -1,0 +1,303 @@
+From @..  Wed Jan  7 17:03:22 2015
+Return-Path: <@..>
+X-Original-To: alami@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 70DAFDF; Wed,  7 Jan 2015 17:03:22 +0000 (UTC)
+Received: from s1-b119.socketlabs.email-od.com (s1-b119.socketlabs.email-od.com [142.0.177.25])
+    by .. with SMTP id fecv499za3prhze3k4wvuvy9rs;
+    for alami@fs.net;
+    Wed, 07 Jan 2015 17:03:22 +0000 (UTC)
+    (envelope-from 82f.1c.91734503.26135.alami=fs.net@mxsg3.email-od.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=142.0.177.25;
+    envelope-from=<82f.1c.91734503.26135.alami=fs.net@mxsg3.email-od.com>;
+    helo=s1-b119.socketlabs.email-od.com; mechanism=include:email-od.com
+    (ip4:142.0.176.0/20 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=142.0.177.25; client-port=65482;
+    syn-fingerprint=8192:116:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.31.218 67.133.162.90 66.179.228.86 66.179.228.214
+    66.179.229.218; network-path-time=1420650202
+DKIM-Signature: v=1; a=rsa-sha1; d=email-od.com;i=@email-od.com;s=dkim;
+	c=relaxed/relaxed; q=dns/txt; t=1420650189; x=1423242189;
+	h=from:to:message-id:date:subject:mime-version:content-type;
+	bh=Emtu4R5Bt4WxBb1NAsl+QEbtNIQ=;
+	b=OLmb71KzwixbIUefNKXdH41oBJnNBUKllBo0JAEl/BN0HsLMidzJmZ3z212WhA0hXJi+7w+COsGBPEhKKdSpq+7xYPR/0IW1uS77LIHD0RUI2tvWQdlnPA3VXnhuVDbl0KbGA9kb3y87irE4Q7UdNiwczcU38+AzdyVqw1IviKw=
+X-Thread-Info: ODJmLjFlLjk4MDAwMDAwYTk1OGQzLjkxNzM0NTAzLjI2MTM1LmFsYW1pPWZzLm5ldA==
+Received: from r3.h.in.socketlabs.com ([142.0.180.13]) by mxsg3.email-od.com
+	with ESMTP; Wed, 7 Jan 2015 12:02:48 -0500
+Received: from 185.5.240.155 by r3.h.in.socketlabs.com
+	via HTTP; Wed, 7 Jan 2015 17:02:44 UTC
+From: "Nuffield Health" <@..>
+To: @..
+Message-ID: <e67c187032764a0da5ccb30ac229c38a@nuffieldhealth.com>
+Date: Wed, 07 Jan 2015 12:02:44 -0500
+Subject: Introducing the Healthy Weight Programme
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----8D18B069238446EA83562180069C45FD"
+
+------8D18B069238446EA83562180069C45FD
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+------8D18B069238446EA83562180069C45FD
+Content-type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E01 Transitional//EN" "http:=
+//www=2Ew3=2Eorg/TR/html4/loose=2Edtd">
+<html><head>
+<meta http-equiv=3D'Content-Type' content=3D'text/html; charset=3DUTF-8=
+'/>
+<title>Nuffield Health</title>
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1=2E0"/>
+<meta name=3D"HandheldFriendly" content=3D"True" />
+
+<meta property=3D"og:title" content=3D"Nuffield Health" />
+<meta property=3D"og:url" content=3D"http://media=2Enuffieldhealth=2Eco=
+m/lp/e/26135" />
+<style type=3D'text/css'>
+html {width:100body {-webkit-text-size-adjust:100=2EReadMsgBody, =2EExternalClass {width:100=2EExternalClass div {line-height:100=2Ecm_empty {font-size:1px;line-height:0;mso-margin-top-alt:1px;-webkit=
+-text-size-adjust:100table {border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0=
+pt;}
+</style>
+
+</head>
+<body bgcolor=3D"#c9c9ca"  style=3D"padding:0px;margin:0px;width:100important;">
+<p align=3D"center"><font face=3D"Verdana, Arial" color=3D"#363635" siz=
+e=3D"1">If you are having problems viewing this message <a href=3D"http=
+://media=2Enuffieldhealth=2Ecom/lp/l/545064/0c0d4a2d754b8422226e30ce0f7=
+db72e/91734503" name=3D"View Online">view the online version</a>=2E</fo=
+nt></p>
+<div style=3D"background-color:#c9c9ca;padding:0px;margin:0px;width:100=
+g=3D"0" style=3D"empty-cells:show;width:100"NuffieldHealth"   align=3D'center' valign=3D'top'  bgcolor=3D"#c9c9ca"=
+ style=3D"padding-left:10px;padding-right:10px;"><a name=3D"Nuffield He=
+alth"></a><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"=
+10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></tabl=
+e><table cellspacing=3D"0" cellpadding=3D"0" width=3D"600" ><tbody alig=
+n=3D'center' valign=3D'top'  style=3D"padding:0px;height:100  width=3D"600"  align=3D'center' valign=3D'top'  bgcolor=3D"#FFFFFF" s=
+tyle=3D"background: #FFFFFF;"><table cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100ding:0px;height:100'middle'   style=3D"padding-left:10px;padding-right:10px;"><table cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"100lign=3D'left' valign=3D'middle'  style=3D"padding:0px;height:100><td height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;<=
+/td><tr align=3D'left' valign=3D'middle' ><td width=3D"40padding:0px;"><div align=3D"left" ><font face=3D"Helvetica" style=3D"fo=
+nt-size:12px" color=3D"#4A4C4B"  ><a href=3D"http://media=2Enuffieldhea=
+lth=2Ecom/lp/l/545064/0c0d4a2d754b8422226e30ce0f7db72e/91734503" name=3D=
+"View online" style=3D"color:#678e7d" TARGET=3D"_blank"><U>View this a =
+web browser</U></A></font></div></td><td width=3D"7" style=3D"padding:0=
+px;"/><td width=3D"40<font face=3D"Helvetica" style=3D"font-size:12px" color=3D"#4A4C4B"  ><=
+a href=3D"http://media=2Enuffieldhealth=2Ecom/lp/l/545066/0c0d4a2d754b8=
+422226e30ce0f7db72e/91734503" name=3D"Nuffielde webaddress" style=3D"co=
+lor:#678e7d" TARGET=3D"_blank"><U>www=2Enuffieldhealth=2Ecom</U></A></f=
+ont></div></td><td width=3D"7" style=3D"padding:0px;"/><td width=3D"22"=
+ height=3D"22"  style=3D"padding:0px;"><a href=3D"http://media=2Enuffie=
+ldhealth=2Ecom/lp/l/545067/0c0d4a2d754b8422226e30ce0f7db72e/91734503" n=
+ame=3D"Twitter/Nuffield Health" target=3D"_blank"><img src=3D"http://me=
+dia=2Enuffieldhealth=2Ecom/Files/664/Image/Citylaunch-TWITTER-V2_resized_03=2Ejpg" width=3D"22" height=3D"22" alt=3D"T=
+witter" style=3D"border-style:none;display:block;margin:0px;" /></a></t=
+d><td width=3D"7" style=3D"padding:0px;"/><td width=3D"22" height=3D"22=
+"  style=3D"padding:0px;"><a href=3D"http://media=2Enuffieldhealth=2Eco=
+m/lp/l/545068/0c0d4a2d754b8422226e30ce0f7db72e/91734503" name=3D"Facebo=
+ok/Nuffield Health" target=3D"_blank"><img src=3D"http://media=2Enuffie=
+ldhealth=2Ecom/Files/664/Image/Citysized_05=2Ejpg" width=3D"22" height=3D"22" alt=3D"Facebook" style=3D"bo=
+rder-style:none;display:block;margin:0px;" /></a></td><td width=3D"7" s=
+tyle=3D"padding:0px;"/><td width=3D"22" height=3D"22"  style=3D"padding=
+:0px;"><a href=3D"http://media=2Enuffieldhealth=2Ecom/lp/l/545069/0c0d4=
+a2d754b8422226e30ce0f7db72e/91734503" name=3D"Nuffield Health TV" targe=
+t=3D"_blank"><img src=3D"http://media=2Enuffieldhealth=2Ecom/Files/664/=
+Image/City" width=3D"22" height=3D"22" alt=3D"YouTube" style=3D"border-style:none=
+;display:block;margin:0px;" /></a></td><td width=3D"7" style=3D"padding=
+:0px;"/><td width=3D"22" height=3D"22"  style=3D"padding:0px;"><a href=3D=
+"http://media=2Enuffieldhealth=2Ecom/lp/l/545070/0c0d4a2d754b8422226e30=
+ce0f7db72e/91734503" name=3D"LinkedIn/Nuffield Health" target=3D"_blank=
+"><img src=3D"http://media=2Enuffieldhealth=2Ecom/Files/664/Image/City20assets/NH-14-164-EDM-launch-LINKEDIN-V2_resized_09=2Ejpg" width=3D"22=
+" height=3D"22" alt=3D"Linkedin" style=3D"border-style:none;display:blo=
+ck;margin:0px;" /></a></td></tr></tr><tr><td height=3D"10" class=3D"cm_=
+empty" style=3D"font-size:1px;">&#8203;</td></tr></tbody></table></td><=
+/tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100ht:100e=3D"padding-left:0px;padding-right:0px;"><table cellspacing=3D"0" cell=
+padding=3D"0" width=3D"100le=3D"padding:0px;height:100 valign=3D'top'   style=3D"padding-left:20px;padding-right:20px;"><tabl=
+e cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"5" class=3D"cm_=
+empty" style=3D"font-size:1px;">&#8203;</td></tr></table><table cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"560" height=3D"194" ><tbody  styl=
+e=3D"padding:0px;height:100yle=3D"padding:0px;"><img src=3D"http://media=2Enuffieldhealth=2Ecom/Fi=
+les/664/Image/2015/Brand=2Ejpg"   width=3D"560" height=3D"194"    alt=3D"header image 2 =2Ejpg"=
+ style=3D"border-style:none;display:block;margin:0px;" /></td></tr></tb=
+ody></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D=
+"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></tab=
+le><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100tyle=3D"padding:0px;height:100ding:0px;"><div align=3D"center" ><font face=3D"Helvetica" style=3D"fon=
+t-size:16px" color=3D"#005924"  >Introducing our 12 week <a href=3D"htt=
+p://media=2Enuffieldhealth=2Ecom/lp/l/546959/0c0d4a2d754b8422226e30ce0f=
+7db72e/91734503" name=3D"Healthy Weight Programme" style=3D"color:#0059=
+24" TARGET=3D"_blank"><U>Healthy Weight Programme</U></A>, </font></div=
+><div align=3D"center" ><font face=3D"Helvetica" style=3D"font-size:16p=
+x" color=3D"#005924"  >designed around personal health goals and lifest=
+yle!</font></div></td></tr></tbody></table><table cellspacing=3D"0" cel=
+lpadding=3D"0"><tr><td height=3D"5" class=3D"cm_empty" style=3D"font-si=
+ze:1px;">&#8203;</td></tr></table></td></tr></tbody></table><table cell=
+spacing=3D"0" cellpadding=3D"0"><tr><td height=3D"15" class=3D"cm_empty=
+" style=3D"font-size:1px;">&#8203;</td></tr></table><table cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100op'  style=3D"padding:0px;height:100'left' valign=3D'top'  bgcolor=3D"#005924" style=3D"padding-left:10px;p=
+adding-right:10px;background: #005924;"><table cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100n=3D'top'  style=3D"padding:0px;height:100ss=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td><tr align=3D'left'=
+ valign=3D'top' ><td   style=3D"padding:0px;"><div align=3D"center" ><f=
+ont face=3D"Helvetica" style=3D"font-size:16px" color=3D"#F9F9F9"  ><B>=
+Sign up now for only &#163;12/week*</B></font></div></td></tr></tr><tr>=
+<td height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</=
+td></tr></tbody></table></td></tr></tbody></table><table cellspacing=3D=
+"0" cellpadding=3D"0"><tr><td height=3D"15" class=3D"cm_empty" style=3D=
+"font-size:1px;">&#8203;</td></tr></table><table cellspacing=3D"0" cell=
+padding=3D"0" width=3D"100le=3D"padding:0px;height:10000ng-left:10px;padding-right:10px;background: #c9c9ca;font-size:1px;"><ta=
+ble cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"1" class=3D"c=
+m_empty" style=3D"font-size:1px;">&#8203;</td></tr></table></td></tr></=
+tbody></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=
+=3D"15" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></=
+table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100 align=3D'left' valign=3D'top'  style=3D"padding:0px;height:100<td width=3D"100ft:20px;padding-right:20px;"><table cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100style=3D"padding:0px;height:100ty" style=3D"font-size:1px;">&#8203;</td><tr align=3D'left' valign=3D't=
+op' ><td   align=3D'left' valign=3D'top'   style=3D"padding-left:0px;pa=
+dding-right:0px;"><table cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00   style=3D"padding:0px;"><div align=3D"left" ><font face=3D"Helvetica"=
+ style=3D"font-size:12px" color=3D"#4A4C4B"  >Many weight loss programm=
+es only look at one thing; diet, calories, the merest hint of an exerci=
+se scle=2E At Nuffield Health we are here to help you find the righ=
+t balance, creating individual plans to help you lose weight, and keep =
+it off=2E</font></div><br/><div align=3D"left" ><font face=3D"Helvetica=
+" style=3D"font-size:12px" color=3D"#4A4C4B"  >We understand that every=
+one&#39;s different, which is why our <a href=3D"http://media=2Enuffiel=
+dhealth=2Ecom/lp/l/546959/0c0d4a2d754b8422226e30ce0f7db72e/91734503" na=
+me=3D"Healthy Weight Programme" style=3D"color:#4a4c4b" TARGET=3D"_blan=
+k"><U>12 week programme offers</U></A> a range of activities and resour=
+ces, so you can choose a weight loss path that suits you=2E</font></div=
+></td></tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"><=
+tr><td height=3D"20" class=3D"cm_empty" style=3D"font-size:1px;">&#8203=
+;</td></tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"=
+100t:100r=3D"#005924" style=3D"padding-left:10px;padding-right:10px;background:=
+ #005924;"><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D=
+"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></tab=
+le><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100tyle=3D"padding:0px;height:100ding:0px;"><div align=3D"left" ><font face=3D"Verdana" style=3D"font-si=
+ze:18px" color=3D"#EEF0F0"  ><B>Tools for a healthier you</B></font></d=
+iv></td></tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"=
+><tr><td height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#82=
+03;</td></tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100a" style=3D"font-size:12px" color=3D"#F7F7F7"  >Your 12 - week programm=
+e includes:</font></div><div align=3D"left" ><ul><font face=3D"Helvetic=
+a" style=3D"font-size:12px" color=3D"#F7F7F7"  ><li>Two nutrition consu=
+ltations<font face=3D"Arial" color=3D"#333333"></font></li></font><font=
+ face=3D"Helvetica" style=3D"font-size:12px" color=3D"#F7F7F7"  ><li>Tw=
+o Health MOT&#39;s<font face=3D"Arial" color=3D"#333333"></font></li></=
+font><font face=3D"Helvetica" style=3D"font-size:12px" color=3D"#F7F7F7=
+"  ><li>Two exercise programmes<font face=3D"Arial" color=3D"#333333"><=
+/font></li></font><font face=3D"Helvetica" style=3D"font-size:12px" col=
+or=3D"#F7F7F7"  ><li>Six practical &quot;Food club&quot; workshops<font=
+ face=3D"Arial" color=3D"#333333"></font></li></font><font face=3D"Helv=
+etica" style=3D"font-size:12px" color=3D"#F7F7F7"  ><li>&quot;Getting s=
+tarted&quot; exercise classes<font face=3D"Arial" color=3D"#333333"></f=
+ont></li></font><font face=3D"Helvetica" style=3D"font-size:12px" color=
+=3D"#F7F7F7"  ><li>Free access to Nuffield HealthScore=E2=84=A2<font fa=
+ce=3D"Arial" color=3D"#333333"></font></li></font></ul></div><div align=
+=3D"left" ></div></td></tr></tbody></table><table cellspacing=3D"0" cel=
+lpadding=3D"0"><tr><td height=3D"10" class=3D"cm_empty" style=3D"font-s=
+ize:1px;">&#8203;</td></tr></table></td></tr></tbody></table><table cel=
+lspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"10" class=3D"cm_empt=
+y" style=3D"font-size:1px;">&#8203;</td></tr></table></td><td width=3D"=
+30" style=3D"padding:0px;"/><td  width=3D"228"  align=3D'left' valign=3D=
+'top'   style=3D"padding-left:0px;padding-right:0px;"><table cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100'top'  style=3D"padding:0px;height:100n=3D'left' valign=3D'top'   style=3D"padding-left:0px;padding-right:0px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" width=3D"228" height=3D"2=
+22" ><tbody  style=3D"padding:0px;height:100eight=3D"222"  style=3D"padding:0px;"><img src=3D"http://media=2Enuffie=
+ldhealth=2Ecom/Files/664/Image/2015/Brandtimage=2Ejpg"   width=3D"228" height=3D"222"    alt=3D"insetimage=2Ejpg=
+" style=3D"border-style:none;display:block;margin:0px;" /></td></tr></t=
+body></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D=
+"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></tab=
+le></td></tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"=
+><tr><td height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#82=
+03;</td></tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100ht:100align=3D'top'  bgcolor=3D"#005924" style=3D"padding-left:10px;padding-r=
+ight:10px;background: #005924;font-size:1px;"><table cellspacing=3D"0" =
+cellpadding=3D"0"><tr><td height=3D"1" class=3D"cm_empty" style=3D"font=
+-size:1px;">&#8203;</td></tr></table></td></tr></tbody></table><table c=
+ellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"10" class=3D"cm_em=
+pty" style=3D"font-size:1px;">&#8203;</td></tr></table><table cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100;height:100gn=3D"left" ><font face=3D"Helvetica" style=3D"font-size:14px" color=3D=
+"#005924"  ><I>&quot;I really liked the programme=2E It was well struct=
+ured and long enough that it got me into the habit of doing things the =
+right way&quot;</I></font></div></td></tr></tbody></table><table cellsp=
+acing=3D"0" cellpadding=3D"0"><tr><td height=3D"10" class=3D"cm_empty" =
+style=3D"font-size:1px;">&#8203;</td></tr></table><table cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100op'  style=3D"padding:0px;height:100dth=3D"100"padding-left:10px;padding-right:10px;background: #005924;font-size:1px=
+;"><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"1" clas=
+s=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></table></td><=
+/tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td =
+height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td><=
+/tr></table></td></tr></tr><tr><td height=3D"5" class=3D"cm_empty" styl=
+e=3D"font-size:1px;">&#8203;</td></tr></tbody></table></td></tr></tbody=
+></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"1=
+5" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr></table=
+><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100n=3D'left' valign=3D'top'  style=3D"padding:0px;height:100idth=3D"100=3D"padding-left:10px;padding-right:10px;background: #b4d333;"><table c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100dy align=3D'left' valign=3D'top'  style=3D"padding:0px;height:100r><td height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;=
+</td><tr align=3D'left' valign=3D'top' ><td   style=3D"padding:0px;"><d=
+iv align=3D"center" ><font face=3D"Helvetica" style=3D"font-size:14px" =
+color=3D"#F5F5F5"  ><B>Nuffield Health Edinburgh is offering limited pl=
+aces in January=2E </B></font></div><div align=3D"center" ><font face=3D=
+"Helvetica" style=3D"font-size:14px" color=3D"#F5F5F5"  ><B>Call 0 to b=
+ook!</B></font></div></td></tr></tr><tr><td height=3D"10" class=3D"cm_e=
+mpty" style=3D"font-size:1px;">&#8203;</td></tr></tbody></table></td></=
+tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><td h=
+eight=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></=
+tr></table></td></tr></tbody></table><table cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100=3D"padding:0px;height:100lign=3D'middle'   style=3D"padding-left:10px;padding-right:10px;"><tabl=
+e cellspacing=3D"0" cellpadding=3D"0" width=3D"100tbody align=3D'left' valign=3D'middle'  style=3D"padding:0px;height:100=
+8203;</td><tr align=3D'left' valign=3D'middle' ><td width=3D"171" heigh=
+t=3D"40"  style=3D"padding:0px;"><img src=3D"http://media=2Enuffieldhea=
+lth=2Ecom/Files/664/Image/2015/Brand=2Epng"   width=3D"171" height=3D"40"    alt=3D"NH logo=2Epng" style=3D=
+"border-style:none;display:block;margin:0px;" /></td><td width=3D"10" s=
+tyle=3D"padding:0px;"/><td   style=3D"padding:0px;"><div align=3D"cente=
+r" ><font face=3D"Helvetica" style=3D"font-size:11px" color=3D"#678E7D"=
+  ><a href=3D"http://media=2Enuffieldhealth=2Ecom/lp/l/546424/0c0d4a2d7=
+54b8422226e30ce0f7db72e/91734503" name=3D"Unsubscribe" style=3D"color:#=
+678e7d" TARGET=3D"_blank"><U>Click here to unsubscribe=2E</U></A><font =
+> <font >Sent on behalf of Nuffield Health</font></font></font></div></=
+td></tr></tr><tr><td height=3D"7" class=3D"cm_empty" style=3D"font-size=
+:1px;">&#8203;</td></tr></tbody></table></td></tr></tbody></table><tabl=
+e cellspacing=3D"0" cellpadding=3D"0" width=3D"100eft' valign=3D'top'  style=3D"padding:0px;height:100"100ing-right:10px;"><table cellspacing=3D"0" cellpadding=3D"0"><tr><td hei=
+ght=3D"5" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td></tr>=
+</table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100dy  style=3D"padding:0px;height:100"padding:0px;"><div align=3D"center" ><font face=3D"Helvetica" style=3D=
+"font-size:10px" color=3D"#333333"  >* Full programme price &#163;144, =
+members only=2E For full terms and conditions please speak to a member =
+of <font color=3D"#4A4C4B">staff=2E </font></font></div><br/><div align=
+=3D"center" ><font face=3D"Helvetica" style=3D"font-size:10px" color=3D=
+"#4A4C4B"  >If you do not wish to receive any further emails <a href=3D=
+"http://media=2Enuffieldhealth=2Ecom/lp/l/546424/0c0d4a2d754b8422226e30=
+ce0f7db72e/91734503" name=3D"Unsubscribe" style=3D"color:#4a4c4b" TARGE=
+T=3D"_blank"><U>click here</U></A> Sent on behalf of Nuffield Health=2E=
+ Nuffield Health Registered Office: Nuffield Health, Epsom Gateway, Ash=
+ley Avenue, Epsom, Surrey, KT18 5AL=2E A Registered Charity Number: 205=
+533 and Company Limited by Guarantee=2E Registered in England Company N=
+umber: 576970</font></div></td></tr></tbody></table><table cellspacing=3D=
+"0" cellpadding=3D"0"><tr><td height=3D"5" class=3D"cm_empty" style=3D"=
+font-size:1px;">&#8203;</td></tr></table></td></tr></tbody></table></td=
+></tr></tbody></table><table cellspacing=3D"0" cellpadding=3D"0"><tr><t=
+d height=3D"10" class=3D"cm_empty" style=3D"font-size:1px;">&#8203;</td=
+></tr></table></td></tr></table></div>
+<p align=3D"center"><font face=3D"Verdana, Arial" color=3D"#363635" siz=
+e=3D"1">If you'd rather not receive future e-mails from us, please <a h=
+ref=3D"http://media=2Enuffieldhealth=2Ecom/lp/l/546424/0c0d4a2d754b8422=
+226e30ce0f7db72e/91734503" name=3D"Unsubscribe">opt-out here</a>=2E</fo=
+nt></p>
+
+<center><a href=3D"http://media=2Enuffieldhealth=2Ecom/lp/l/545074/0c0d=
+4a2d754b8422226e30ce0f7db72e/91734503" target=3D"_blank"><img src=3D"ht=
+tp://media=2Enuffieldhealth=2Ecom/lp/images/STF=2Epng" alt=3D"Send To A=
+ Friend" border=3D"0" vspace=3D"4" /></a></center>
+
+<img src=3D"http://media=2Enuffieldhealth=2Ecom/lp/ox26135x0c0d4a2d754b=
+8422226e30ce0f7db72e=2Egif"   alt=3D"" width=3D"0" height=3D"0"  border=
+=3D"0"/>
+</body></html>
+------8D18B069238446EA83562180069C45FD--
+

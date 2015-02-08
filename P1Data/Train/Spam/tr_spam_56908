@@ -1,0 +1,486 @@
+From @..  Sun Jan 25 11:52:58 2015
+Return-Path: <@..>
+X-Original-To: thomasfamily125@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id B7630DE; Sun, 25 Jan 2015 11:52:58 +0000 (UTC)
+Received: from nm33-vm9.bullet.mail.ir2.yahoo.com (nm33-vm9.bullet.mail.ir2.yahoo.com [212.82.97.114])
+    by .. with SMTP id s28gdz9qyrn5ar7hivxv3b3vii;
+    for thomasfamily125@fs.net;
+    Sun, 25 Jan 2015 11:52:58 +0000 (UTC)
+    (envelope-from michael.simmons15@btinternet.com)
+Received-SPF: TempError; receiver=..;
+    client-ip=212.82.97.114; envelope-from=<michael.simmons15@btinternet.com>;
+    helo=nm33-vm9.bullet.mail.ir2.yahoo.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=212.82.97.114; client-port=47602;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=14;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.250 0.0.0.0 67.16.137.138 208.178.245.158
+    66.196.65.144 216.115.104.64 66.196.65.157 77.238.186.45 212.82.97.114;
+    network-path-time=1422186778; RBL-errors=cbl.abuseat.org (name server
+    failure), bl..net (name server failure), zen..org (name
+    server failure), dul.dnsbl.sorbs.net (name server failure)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s2048; t=1422186760; bh=yoJNyR9UxVT2dEab0NCg1lEbgAAJqhbKl5C9O7+wFNY=; h=From:Subject:Date:References:To:From:Subject; b=TuIM26/9XzAE/1EBP+RZTcbSoRVJpG5u+hhyT2Lx+Pqh8WBxlLBs1/4G9UDhu+JnyyWRbugdLIQvll4rz6oyOG8OHn1y1vqHPbxEaHfllZN1/YCz7646U7lqc2o2korrxg6iLL3yBuiq/BECjCb0D3VW6IhrEMLUvtzHvKXz2Nme0xs1RzTiK/0f9zXgPryXjIx0hrJQ6srlDtCUv3DldCVzoRXKwEdQjsZzbHqoU6yRBn3MhwX/dxoxNLXo1g9DLqU3yrGnhnp/BgCk00/22qyiawvMUJ7H0mIMZqFlRvHJg8cdzmb29wQSU+VRz3Uda/9/v+2exCYJKAta4Hoo0w==
+Received: from [212.82.98.58] by nm33.bullet.mail.ir2.yahoo.com with NNFMP; 25 Jan 2015 11:52:40 -0000
+Received: from [46.228.39.66] by tm11.bullet.mail.ir2.yahoo.com with NNFMP; 25 Jan 2015 11:52:40 -0000
+Received: from [127.0.0.1] by smtp103.mail.ir2.yahoo.com with NNFMP; 25 Jan 2015 11:52:40 -0000
+X-Yahoo-Newman-Id: 695985.18761.bm@smtp103.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: hKrWfPsVM1npEJSz3YZr_8iXzZp3bsIq22gwKBQUD37i3Nz
+ 6KE2pgXeALHUqIwn1DyNZguu4p4I4KNgsgH6j6Lk7rLSjd_A8atti6aqgp0h
+ VLQS4uiYeBNozGjS4HvqF7gNYVgtk22pJ9tVmh9IMgOa3sKhnAKsmgOberC1
+ eG9SGeO1z7mRn8gPJICUJdsNTq.5iqO3I5FaGtyJep_Zsxa4U6TWmAIlOr6A
+ 0MJSfM7QWWZPElvfa_y7lr2RAH8rsFMCn1m18g2XS9BGbiRYrLy1eCoYAY4a
+ aHnw45mQZZbhG4Wu3UJ.qVrW5vuKJZHpvJ9TCpFC6CHfkOOCNR6sarXq52hf
+ LfmCr1tBKh51OiAF1IK0.ep0ecisD.AK2QkXUOm442LjlJKgMSFl6e5Swp6b
+ WGbHR.3qoC8aoE13msQbBS.xrbHY4oZiyJlj5YlVdy95LexiMWXwAWz7rEas
+ EyuqEAsIaVZIClf7I2ZftS8rRrGRT2DtM_qgw6n3mJTn.0xSkNmcW.Rib6jo
+ xFLD4MmSjsStqu.7Ka0HxyTY554I035phyD8sEOHns6QW2gyiQezGnIHZTKH
+ 27Hhwj3wDPBtPUObaw2tRbR.QCHP2fENLQmrsN0koSVA2YoCoi_dXmFvp0kM
+ amiKH21fYIvpMlOfPbDQV7TEyBetPZqsaH7BAtQDLC09OffGbqL6B0UZRGFw
+ HXl3XIfPubIoRIKfElqaOdiquqxHcY7qaBvmCfw0wMBTfMVciSPSXnvTMs4R
+ jWGyIUNc0lsfoSLz2dUCMiCp4tv6utuqT3PNV3fc3FuEmaytEpGMso411BYj
+ w.gLvIC1J5vHup2Ak4JQbkXdD5BpgErU3M7rMb5lNQvlFUrHrXLtW5y2bUhy
+ VF.bLxdGPBqvDsaRJpeXtjWOH1ca7eVcvgnFBapYGhrE8d9Jdg2tN9zlOuOv
+ q_9IgZByjwKjvZCN95Hfhw65mLIxQw.hT8Bzt_kCQZJ6cD4f3PAB0XgFRmhA
+ .V1ga6Pfv5.aod2KqWKAQL6dYH1pdr8FFQyVVh5beeuZqvhGq7wNwvnU245H
+ Wcr6NeHLjQ7uqHaKkjtOnbxB5uCrV7sigqDhna.JVF0p7IbHEXBNhwJoylnn
+ paU3hnKs9o_TmFg5XtrXur3U0DxJOmCI0s9ZRN6AN3js_oscB11YG0E6V8PK
+ 4WjeQmeNianzjmqvOq0Qwzpl8JHfalCMt5D9pYtGApniLle_jZuZg9vz9tl7
+ X3tU42O.sUspg1CzrwqDv7hyr4d7VueU7DiibwJlnUrTpXv0bQVreIhbm3Qh
+ 8k78pEcCftNF1Ybkc3h2b7EIxRkZ9VEeg3to6iMIShm6f3FaWKnXQWzJ6pFx
+ 9uw--
+X-Yahoo-SMTP: I_TZMoaswBBrrj7iDjPyYAg.YtI5jHyCMYjKoTVgSDu1gxG0wtVPgX8k4L7t
+From: michael simmons <@..>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_39CB58BB-D718-4A04-9FDB-8D6050841CB6"
+Subject: Fwd: Community Speed Watch Day Of Action Results  21/01/2015 14:34:58 [99728]
+Date: Sun, 25 Jan 2015 11:52:37 +0000
+References: <B0061813572@smtp.neighbourhoodalert.co.uk>
+To: danny thomas <@..>,
+	Jacky Jones <@..>,
+	"Brian margycoward@virginmedia.com" <@..>,
+	Lew Cundick <@..>,
+	Mike Simmonds <@..>,
+	mike swaine swaine <@..>,
+	Michael Brain <@..>,
+	Ian Self <@..>,
+	Ray Case <@..>
+Message-Id: <04AE4514-F9E8-4B3E-A919-98B88D04431F@btinternet.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 X-Mailer: Apple Mail (2.1510)
+
+
+--Apple-Mail=_39CB58BB-D718-4A04-9FDB-8D6050841CB6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=windows-1252
+
+
+
+Begin forwarded message:
+
+> From: alert@neighbourhoodalert.co.uk
+> Subject: Community Speed Watch Day Of Action Results 21/01/2015 =
+14:34:58 [99728]
+> Date: 21 January 2015 14:34:58 GMT
+> To: michael.simmons15@btinternet.com
+> Reply-To: donotreply@neighbourhoodalert.co.uk
+>=20
+>=20
+> Community Speed Watch day of action results
+>=20
+> This is a message sent via Wiltshire and Swindon Community Messaging. =
+This information has been sent on behalf of Wiltshire Police
+>=20
+> (Please do not reply directly to this email, please use the Reply =
+button at the bottom of this message)
+> Message sent by
+> Lauren Hookings (Police, Communications Officer, Wiltshire)
+>=20
+> A day of action under Operation Harness was successfully carried out =
+across Swindon and Wiltshire on Tuesday 20 January with the aim to raise =
+speed awareness andcate drivers about road safety.
+>=20
+> The operation involved over 170 Community Speed Watch (CSW) volunteers =
+and 50 Wiltshire Police officers who carried out roadside checks =
+throughout the day.
+>=20
+> Wiltshire Police Roads Policing Unit (RPU) and Neighbourhood Policing =
+Teams (NPT) worked in partnership with CSW to identify drivers that were =
+speeding on Wiltshire and Swindon roads.
+>=20
+> As a result of the operation, 208 vehicles were identified as =
+speeding, 147 vehicles were stopped with 132 drivers given warnings =
+about their speed.
+>=20
+> Direct results of yesterdays (Tuesdays) day of action:
+>=20
+> Eight drivers were given warnings for having defective lights on their =
+vehicles
+> One driver had a road side alcohol breath test =96negative result
+> One driver received a warning for not wearing a seatbelt
+> One driver received a warning for have a defective number plate
+> Four drivers had no further action after being stopped
+> 70 letters from Community Speed Watch have been sent out.
+> Chief Constable Pat Geenty said: =93Yesterdays day of action =
+highlights the key partnership working between CSW and Wiltshire Police.
+>=20
+> "Many reactions to yesterdays visibility out on the roads have been =
+positive with drivers listening to the advice given by our officers and =
+many people giving us a wave as they drove by. I think the day of action =
+has definitely made drivers think twice about their speed.=94
+>=20
+> Speeding is one of the =91fatal four=92 factors that can cause road =
+traffic collisions. The others are drink/drugs, driving while on a =
+mobile phone and not wearing seatbelts.
+>=20
+> Police and Crime Commissioner for Wiltshire and Swindon, Angus =
+Macpherson said: =93Community Speed Watch is about local volunteers =
+driving down speed and driving up safety. They are getting involved with =
+local policing matters and showing that speeding will not be tolerated =
+in their area.
+>=20
+> "The teams I met yesterday were enthusiastic and dedicated to their =
+watch scheme and it was great to see them work collaboratively with =
+Wiltshire Police out on the roads.=94
+>=20
+> Operation Harness is a long-term collaborative project tackling issues =
+which matter most to our communities. It involves all police officers =
+and staff over a number of organised days of action throughout the year.
+>=20
+> Operation Harness is really about Wiltshire Police listening to the =
+concerns of our local communities and acting on these in a visible way.
+>=20
+> For more information about Community Speed Watch please visit our =
+website - www.wiltshire.police.uk or visit Facebook and 'like' them - =
+www.facebook.com/WiltsCSW =20
+> Please use the buttons below or click these links to reply to the =
+message or rate this message.
+> 				=09
+> 		=09
+> =09
+> 				=09
+> =09
+> =09
+>=20
+> 			=09
+>=20
+> You are receiving information from Wiltshire Police because you share =
+your information with them. To change who can see your information, =
+choose a simpler email format or to unsubscribe completely click here.
+> This e-mail communication makes use of a "Clear Image" (gif) to track =
+results of the e-mail campaign. If you wish to turn off this tracking =
+for future e-mails, you can do so by not downloading the images in the =
+e-mail itself.
+
+
+--Apple-Mail=_39CB58BB-D718-4A04-9FDB-8D6050841CB6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=windows-1252
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dwindows-1252"><base href=3D"x-msg://45/"></head><body =
+style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space; "><br><div><br><div>Begin =
+forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; =
+font-size:medium; color:rgba(0, 0, 0, 1.0);"><b>From: </b></span><span =
+style=3D"font-family:'Helvetica'; font-size:medium;"><a =
+href=3D"mailto:alert@neighbourhoodalert.co.uk">alert@neighbourhoodalert.co=
+.uk</a><br></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; font-size:medium; color:rgba(0, 0, 0, =
+1.0);"><b>Subject: </b></span><span style=3D"font-family:'Helvetica'; =
+font-size:medium;"><b>Community Speed Watch Day Of Action Results  =
+21/01/2015 14:34:58 [99728]</b><br></span></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; font-size:medium; color:rgba(0, 0, 0, =
+1.0);"><b>Date: </b></span><span style=3D"font-family:'Helvetica'; =
+font-size:medium;">21 January 2015 14:34:58 GMT<br></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; =
+font-size:medium; color:rgba(0, 0, 0, 1.0);"><b>To: </b></span><span =
+style=3D"font-family:'Helvetica'; font-size:medium;"><a =
+href=3D"mailto:michael.simmons15@btinternet.com">michael.simmons15@btinter=
+net.com</a><br></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; font-size:medium; color:rgba(0, 0, 0, =
+1.0);"><b>Reply-To: </b></span><span style=3D"font-family:'Helvetica'; =
+font-size:medium;"><a =
+href=3D"mailto:donotreply@neighbourhoodalert.co.uk">donotreply@neighbourho=
+odalert.co.uk</a><br></span></div><br><div bgcolor=3D"#515151" =
+text=3D"#000000" style=3D"font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; "><table width=3D"720" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" align=3D"center"><tbody><tr><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/email_templat=
+e_header.jpg" width=3D"720" height=3D"107" alt=3D"Wiltshire Alert =
+Header"></td></tr><tr><td><div style=3D"font-family: arial, tahoma; =
+font-size: 10pt; "><table width=3D"720" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center"><tbody><tr><td =
+style=3D"background-color: rgb(230, 230, 230); color: rgb(51, 51, 51); =
+padding-left: 20px; "><strong><font face=3D"Arial, Helvetica, =
+sans-serif">Community Speed Watch day of action =
+results</font></strong></td></tr></tbody></table></div></td></tr><tr><td><=
+img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/email_header_=
+top_curve.jpg" width=3D"720" height=3D"12"></td></tr><tr><td =
+bgcolor=3D"#FFFFFF"><table width=3D"703" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center"><tbody><tr><td><table width=3D"100border=3D"0" cellspacing=3D"0" cellpadding=3D"4"><tbody><tr><td =
+height=3D"60" valign=3D"top" bgcolor=3D"#FFFFFF"><font face=3D"Arial, =
+Helvetica, sans-serif"><table width=3D"100face=3D"Arial, Helvetica, sans-serif" size=3D"2"><b>This is a message =
+sent via Wiltshire and Swindon Community Messaging. This information has =
+been sent on behalf of Wiltshire Police</b></font></td></tr><tr><td><a =
+href=3D"http://www.wiltshire.police.uk" target=3D"_blank"><img =
+src=3D"https://www.neighbourhoodalert.co.uk/admin/information_provider_ima=
+ges/20_16.jpg" border=3D"0"></a></td></tr><tr><td style=3D"font-size: =
+8pt; font-family: Arial; ">(Please do not reply directly to this email, =
+please use the Reply button at the bottom of this =
+message)</td></tr><tr><td><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"2"><b>Message sent by</b></font></td></tr><tr><td><font =
+face=3D"Arial, Helvetica, sans-serif" size=3D"2">Lauren Hookings =
+(Police, Communications Officer, =
+Wiltshire)</font></td></tr></tbody></table><br><p><span =
+style=3D"font-size: medium; "><span style=3D"font-family: calibri; =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"color: rgb(51, =
+51, 51); "><span style=3D"font-family: calibri, sans-serif; ">A day of =
+action under Operation Harness was successfully carried out across =
+Swindon and Wiltshire on Tuesday 20 January with the aim to raise speed =
+awareness andcate drivers about road safety.<br><br>The operation =
+involved over 170 Community Speed Watch (CSW) volunteers and 50 =
+Wiltshire Police officers who carried out roadside checks throughout the =
+day.<br><br>Wiltshire Police Roads Policing Unit (RPU</span>) and =
+Neighbourhood Policing Teams (NPT</span>) worked in partnership with CSW =
+to identify drivers that were speeding on Wiltshire and =
+Swindon</span><span =
+class=3D"Apple-converted-space">&nbsp;</span>roads.<br><br>As a result =
+of the operation, 208 vehicles were identified as speeding, 147 vehicles =
+were stopped with 132 drivers given warnings about their =
+speed.<br><br>Direct results of yesterdays (Tuesdays) day of =
+action:</span></span></p><ul><li><span style=3D"font-family: calibri; =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"color: rgb(51, =
+51, 51); "><span style=3D"font-family: calibri, sans-serif; "><span =
+style=3D"font-size: medium; ">Eight drivers were given warnings for =
+having defective lights on their =
+vehicles</span></span></span></span></span></li><li><span =
+style=3D"font-family: calibri; "><span style=3D"color: rgb(51, 51, 51); =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"font-family: =
+calibri, sans-serif; "><span style=3D"font-size: medium; ">One driver =
+had a road side alcohol breath test =96negative =
+result</span></span></span></span></span></li><li><span =
+style=3D"font-family: calibri; "><span style=3D"color: rgb(51, 51, 51); =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"font-family: =
+calibri, sans-serif; "><span style=3D"font-size: medium; ">One driver =
+received a warning for not wearing a =
+seatbelt</span></span></span></span></span></li><li><span =
+style=3D"font-family: calibri; "><span style=3D"color: rgb(51, 51, 51); =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"font-family: =
+calibri, sans-serif; "><span style=3D"font-size: medium; ">One driver =
+received a warning for have a defective number =
+plate</span></span></span></span></span></li><li><span =
+style=3D"font-family: calibri; "><span style=3D"color: rgb(51, 51, 51); =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"font-family: =
+calibri, sans-serif; "><span style=3D"font-size: medium; ">Four drivers =
+had no further action after being =
+stopped</span></span></span></span></span></li><li><span =
+style=3D"font-family: calibri; "><span style=3D"color: rgb(51, 51, 51); =
+"><span style=3D"color: rgb(51, 51, 51); "><span style=3D"font-family: =
+calibri, sans-serif; "><span style=3D"font-size: medium; ">70 letters =
+from Community Speed Watch have been sent =
+out.</span></span></span></span></span></li></ul><span style=3D"font-size:=
+ 12pt; "><span style=3D"font-family: calibri; "><span style=3D"color: =
+rgb(51, 51, 51); "><span style=3D"color: rgb(51, 51, 51); "><span =
+style=3D"font-family: calibri, sans-serif; ">Chief Constable Pat =
+Geenty</span><span class=3D"Apple-converted-space">&nbsp;</span>said: =
+=93Yesterdays day of action highlights the key partnership working =
+between CSW</span><span class=3D"Apple-converted-space">&nbsp;</span>and =
+Wiltshire Police.<br><br>"Many reactions to yesterdays visibility out on =
+the roads have been positive with drivers listening to the advice given =
+by our officers and many people giving us a wave as they drove by. I =
+think the day of action has definitely made drivers think twice about =
+their speed.=94<br><br>Speeding is one of the =91fatal four=92 factors =
+that can cause road traffic collisions. The others are drink/drugs, =
+driving while on a mobile phone and not wearing seatbelts.<br><br>Police =
+and Crime Commissioner for Wiltshire and Swindon, Angus =
+Macpherson</span><span class=3D"Apple-converted-space">&nbsp;</span>said: =
+=93Community Speed Watch is about local volunteers driving down speed =
+and driving up safety. They are getting involved with local policing =
+matters and showing that speeding will not be tolerated in their =
+area.<br><br>"The teams I met yesterday were enthusiastic and dedicated =
+to their watch scheme and it was great to see them work collaboratively =
+with Wiltshire Police out on the roads.=94<br><br>Operation Harness is a =
+long-term collaborative project tackling issues which matter most to our =
+communities. It involves all police officers and staff over a number of =
+organised days of action throughout the year.<br><br>Operation Harness =
+is really about Wiltshire Police listening to the concerns of our local =
+communities and acting on these in a visible way.<br><br>For more =
+information about Community Speed Watch please visit our website -<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://www.wiltshire.police.uk">www.wiltshire.police.uk</a><span =
+class=3D"Apple-converted-space">&nbsp;</span>or visit Facebook and =
+'like' them -<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://www.facebook.com/WiltsCSW">www.facebook.com/WiltsCSW&nbsp;&=
+nbsp;</a></span></span><hr noshade=3D""><table><tbody><tr><td =
+style=3D"font-size: 8pt; font-family: Arial; ">Please use the buttons =
+below or click these links to<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_reply.asp?=
+auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse">repl=
+y to the message</a><span =
+class=3D"Apple-converted-space">&nbsp;</span>or<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/rate_message.asp=
+?auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse">rat=
+e this message</a>.</td></tr></tbody></table><table width=3D"665" =
+height=3D"100" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tbody><tr><td rowspan=3D"6"><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_reply.asp?=
+auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse"><img=
+ =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_reply.jpg" width=3D"126" height=3D"100" title=3D"Click here to =
+reply to this message" border=3D"0" align=3D"left"></a></td><td =
+rowspan=3D"6"><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/rate_message.asp=
+?auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse"><im=
+g =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_rate.jpg" width=3D"123" height=3D"100" title=3D"Please rate this =
+email by clicking here" border=3D"0" align=3D"left"></a></td><td =
+rowspan=3D"6"><a =
+href=3D"https://www.neighbourhoodalert.co.uk/pa/9fe70a5487708a8b53846c270a=
+435abf"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_print.jpg" width=3D"123" height=3D"100" title=3D"Click here to =
+view a printer friendly version of this message" border=3D"0" =
+align=3D"left"></a></td><td colspan=3D"4" rowspan=3D"3"><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_share.asp?=
+auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse"><img=
+ =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_share.jpg" width=3D"122" height=3D"66" title=3D"Click here to =
+view the various options for forwarding and sharing this email" =
+border=3D"0" align=3D"left"></a></td><td colspan=3D"3"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_05.jpg" width=3D"170" height=3D"13" alt=3D"" =
+align=3D"left"></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"13" alt=3D"" =
+align=3D"left"></td></tr><tr><td rowspan=3D"5"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_06.jpg" width=3D"29" height=3D"87" alt=3D"" =
+align=3D"left"></td><td><a =
+href=3D"https://member-admin.neighbourhoodalert.co.uk/135/admin-area"><img=
+ =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_login.jpg" width=3D"126" height=3D"27" title=3D"Click here to =
+login to your account" border=3D"0" align=3D"left"></a></td><td =
+rowspan=3D"5"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_08.jpg" width=3D"15" height=3D"87" alt=3D"" =
+align=3D"left"></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"27" alt=3D"" =
+align=3D"left"></td></tr><tr><td><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_unsubscrib=
+e.asp?auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse=
+"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_settings.jpg" width=3D"126" height=3D"26" title=3D"Click here to =
+unsubscribe or edit your message settings" border=3D"0" =
+align=3D"left"></a></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"26" alt=3D"" =
+align=3D"left"></td></tr><tr><td rowspan=3D"3"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_10.jpg" width=3D"17" height=3D"34" alt=3D"" =
+align=3D"left"></td><td><a =
+href=3D"http://twitter.com/home?status=3DCommunity+Speed+Watc...+from+Wilt=
+shire+Police+sent+via+NeighbourhoodAlertdalert.co.uksrc=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_tweet.jpg" width=3D"30" height=3D"27" title=3D"Click here to =
+tweet this message to your followers" border=3D"0" =
+align=3D"left"></a></td><td><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_share.asp?=
+auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse"><img=
+ =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_forward.jpg" width=3D"28" height=3D"27" title=3D"Click here to =
+forward this email" border=3D"0" align=3D"left"></a></td><td><a =
+href=3D"http://www.facebook.com/share.php?u=3Dhttps://www.neighbourhoodale=
+rt.co.uk/da/99728"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_facebook.jpg" width=3D"47" height=3D"27" title=3D"Click here to =
+share this message on Facebook" border=3D"0" align=3D"left"></a></td><td =
+rowspan=3D"2"><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/report_a_fault.a=
+sp?auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse"><=
+img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_fault.jpg" width=3D"126" height=3D"28" title=3D"Let the system =
+builders know about any faults you spot by clicking here" border=3D"0" =
+align=3D"left"></a></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"27" alt=3D"" =
+align=3D"left"></td></tr><tr><td colspan=3D"3" rowspan=3D"2"><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_15.jpg" width=3D"105" height=3D"7" alt=3D"" =
+align=3D"left"></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"1" alt=3D"" =
+align=3D"left"></td></tr><tr><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/email_buttons_16.jpg" width=3D"126" height=3D"6" alt=3D"" =
+align=3D"left"></td><td><img =
+src=3D"https://www.wiltsmessaging.co.uk/admin/images/message_icons/V3Email=
+/spacer.gif" width=3D"1" height=3D"6" alt=3D"" =
+align=3D"left"></td></tr></tbody></table><img =
+src=3D"https://www.neighbourhoodalert.co.uk/58922576/email.gif" =
+width=3D"1" =
+height=3D"1"></font></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr><tr><td><table width=3D"720" height=3D"85" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" align=3D"center"><tbody><tr><td =
+style=3D"padding: 0px; margin: 0px; width: 61px; "><a =
+href=3D"http://www.wiltshire.police.uk/" border=3D"0"><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/EmailFooter_0=
+1.jpg" width=3D"61" height=3D"85" border=3D"0"></a></td><td =
+style=3D"padding: 0px; margin: 0px; width: 63px; "><a =
+href=3D"http://www.wiltshirenhw.org.uk/" border=3D"0"><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/EmailFooter_0=
+2.jpg" width=3D"63" height=3D"85" border=3D"0"></a></td><td =
+style=3D"padding: 0px; margin: 0px; width: 72px; "><a =
+href=3D"http://www.wiltshire-pcc.gov.uk/" border=3D"0"><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/EmailFooter_0=
+3.jpg" width=3D"72" height=3D"85" border=3D"0"></a></td><td =
+style=3D"padding: 0px; margin: 0px; width: 314px; "><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/EmailFooter_0=
+4.jpg" width=3D"314" height=3D"85" border=3D"0"></td><td style=3D"padding:=
+ 0px; margin: 0px; width: 210px; "><a =
+href=3D"http://www.neighbourhoodalert.co.uk/" border=3D"0"><img =
+src=3D"https://www.wiltsmessaging.co.uk/design/EmailTemplate/EmailFooter_0=
+5.jpg" width=3D"210" height=3D"85" =
+border=3D"0"></a></td></tr></tbody></table></td></tr><tr><td =
+id=3D"FooterText" style=3D"color: rgb(255, 255, 255); text-align: =
+center; font-family: sans-serif; font-size: 10px; padding: 10px 10px =
+25px; "><br><table width=3D"100rgb(255, 255, 255) !important; font-size: 8pt; font-family: Arial; ">You =
+are receiving information from Wiltshire Police because you share your =
+information with them. To change who can see your information, choose a =
+simpler email format or to unsubscribe completely<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"https://www.neighbourhoodalert.co.uk/static_pages/email_unsubscrib=
+e.asp?auth_key=3D9fe70a5487708a8b53846c270a435abf&amp;clean_encode=3Dfalse=
+">click here</a>.</td></tr><tr><td style=3D"color: rgb(255, 255, 255) =
+!important; font-size: 8pt; font-family: Arial; ">This e-mail =
+communication makes use of a "Clear Image" (gif) to track results of the =
+e-mail campaign. If you wish to turn off this tracking for future =
+e-mails, you can do so by not downloading the images in the e-mail =
+itself.</td></tr></tbody></table></td></tr></tbody></table></div></blockqu=
+ote></div><br></body></html>=
+
+--Apple-Mail=_39CB58BB-D718-4A04-9FDB-8D6050841CB6--
+

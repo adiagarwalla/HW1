@@ -1,0 +1,781 @@
+From @..  Thu Jan  8 22:48:55 2015
+Return-Path: <@..>
+X-Original-To: ar8hnrd@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 79D0ADE; Thu,  8 Jan 2015 22:48:55 +0000 (UTC)
+Received: from so254-63.mailgun.net (so254-63.mailgun.net [198.61.254.63])
+    by .. with SMTP id bquxse36n66k68bgh6y5bqg8a2;
+    for ar8hnrd@fs.net;
+    Thu, 08 Jan 2015 22:48:55 +0000 (UTC)
+    (envelope-from bounce+ed6805.8a387-ar8hnrd=fs.net@marketzilla.co.uk)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.63;
+    envelope-from=<bounce+ed6805.8a387-ar8hnrd=fs.net@marketzilla.co.uk>;
+    helo=so254-63.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.63; client-port=57941;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 50.56.6.163 50.56.6.131 162.209.19.165;
+    network-path-time=1420757335
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=marketzilla.co.uk; q=dns/txt;
+ s=mailo; t=1420757318; h=Sender: Content-Type: Mime-Version: Subject:
+ Message-Id: To: From: Date;
+ bh=7NW80yx6SOvEhTA50XZyiV3udlVxmve3dwtz+FRfX2s=; b=kDtJE5YhTZQcr4HksvwCLh4jN+RKsz7PWQyDPfL2QfkqJCsKqWQwo1vbQOqpLEp+UM1bHl8e
+ qgUciIWLXq5QYSdv7M17K2uLbAi1Nw4cuAbyFWPLqwsoMTIV2QGvY6U4EENxv06znOziW9lj
+ /DG/WB0/WDmS8w5ufPTvgvB1aLQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=marketzilla.co.uk; s=mailo;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=0aFNyceNUYHJpCtc+frziGVofznpdnQcgGg6WH4g1+hzbNY119Mr5zjz52ewiuLHcwUzqK
+ pHLZj7wX4evD+7ZvUyZarL/fLEow2VfQuUjh43yPbM2w4gxmJn2NZSRp9OxQZnUiITkJtv+6
+ 6DPJu1WAVMKwZBCvHgVjXGjmbMs8Y=
+Received: from mail.marketzilla.co.uk (marketzilla.co.uk [78.47.70.162]) by
+ mxa.mailgun.org with ESMTP id 54af0942.7fb9ade23270-in7; Thu, 08 Jan 2015
+ 22:48:34 -0000 (UTC)
+Received: from mail.marketzilla.co.uk (localhost [127.0.0.1])	by
+ mail.marketzilla.co.uk (Postfix) with ESMTP id 788EF13CD3F	for
+ <ar8hnrd@fs.net>; Fri, 9 Jan 2015 00:48:32 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=marketzilla.co.uk;	s=dkim;
+ t=1420757312;	bh=7NW80yx6SOvEhTA50XZyiV3udlVxmve3dwtz+FRfX2s=;	h=Date:From:To:Subject:From;	b=a56QuJSsBuxp+mArrrW0Lmatop04tx/KWklYBvT94LFm3tBOvdI7+1R6gRHSgN5YE	
+ kfLcZ6+ob8yqFm5m7uKALTTxHHl5oivbYrhvQaLx5AGBJcjaukuRSCTlTtt0UND29e	
+ IqoPyzRueefSqOvMKBg9beuldeffYqLwUtK3lxPI=
+Date: Fri, 9 Jan 2015 00:48:32 +0200 (EET)
+From: AccidentCompensationAlliance <@..>
+To: "ar8hnrd@fs.net" <@..>
+Message-Id: <575288801.776192.1420757312491.JavaMail.root@mail.marketzilla.co.uk>
+Subject: Injured? You May be Entitled to Compensation.
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_776190_929290980.1420757312485"
+X-Mailgun-Sid: WyJhYTE1NSIsICJhcjhobnJkQGZzLm5ldCIsICI4YTM4NyJd
+Sender: @..
+
+------=_Part_776190_929290980.1420757312485
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_776191_2092419876.1420757312486"
+
+------=_Part_776191_2092419876.1420757312486
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+AccidentCompensationAlliance This message contains useful information. If y=
+our e-mail provider blocks the images, please enable them for a complete pr=
+eview. ADVERTISEMENT Injured? Calculate how much you could claim - click he=
+re ? ACCIDENT COMPENSATION ALLIANCE 100N AN ACCIDENT? ? ? ? ? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACCIDENTS ? ? =
+Find out how much you can claim in 30 seconds > ? ? ? *Subject to insurance=
+ costs. Fee payable if case not pursued at client's request. All cases and =
+awards are judged individually based on the circumstances. Testimonials fro=
+m customers using our panel of solicitors. If you are unable to click throu=
+gh from this email, please copy and paste the link below into your internet=
+ browser's address bar (or just click):? Accident Compensation Alliance (AC=
+A) is regulated by the Claims Management Regulator in respect of regulated =
+claims management activities; its registration is recorded on the website c=
+laimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 F=
+arm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? You have =
+received this email because you gave the sender permission to send you adve=
+rtisements by email. To change your preferences please contact the sender o=
+r use their unsubscribe link. ADVERTISEMENT Injured? Calculate how much you=
+ could claim - click here ACCIDENT COMPENSATION ALLIANCE 100* HURT OR INJURED IN AN ACCIDENT? ? ROAD ACCIDENTS WORK ACCIDENTS OTHER ACC=
+IDENTS ? Find out how much you can claim in 30 seconds > ? ? *Subject to in=
+surance costs. Fee payable if case not pursued at client's request. All cas=
+es and awards are judged individually based on the circumstances. Testimoni=
+als from customers using our panel of solicitors. If you are unable to clic=
+k through from this email, please copy and paste the link below into your i=
+nternet browser's address bar (or just click):? Accident Compensation Allia=
+nce (ACA) is regulated by the Claims Management Regulator in respect of reg=
+ulated claims management activities; its registration is recorded on the we=
+bsite claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (AC=
+A), 7 Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF. ? Yo=
+u have received this email because you gave the sender permission to send y=
+ou advertisements by email. To change your preferences please contact the s=
+ender or use their unsubscribe link. The advertiser does not manage your su=
+bscription. If you prefer not to receive further communication, here is the=
+ way to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece this m=
+ay seem paradoxical, yet I have no doubt that many haveexperienced the very=
+ same results when trying to explain theoreticallyon paper what they have w=
+ith ease practised a thousand times.These oral lessons on real objects ough=
+t to be given in pure, simple,and plain language, level to the understandin=
+g and capacity ofchildren. It may be well at times to use words of a more d=
+ifficultor scientific character; but these should always have the properexp=
+lanation given; the words used most frequently in common life, inordinary a=
+nd proper conversation, ought to be most strongly impressedon their memorie=
+s. It may, perhaps, be retorted on me--why then teachthe difficult and scie=
+ntific names of geometrical figures. The answeris very simple. Most of them=
+ have no other, and where they have Ialways give them also, as sloping, sla=
+nting, inclined, for oblique.The geometrical figures are the elements of al=
+l forms, and thesimplest objects which can be presented to the young. I hav=
+e foundthem always learned with the greatest ease and pleasure. Pestalozzi,=
+ Ihave understood, was led to the use of them by observing the wantsof the =
+young mind, in a similar manner that I was myself. This is,therefore, one o=
+f the many coincidences in thought and discovery byminds wholly independent=
+ of each other, which have been directed tothe same subjects. This is an ev=
+itable result. If two men look at themoon, both must see that it is round, =
+bright, and mottled; and iftwo minds far apart, turn their attention to sim=
+ilar subjects, theprobability is that their views will coincide. The most p=
+owerful mindwill of course make the deepest and simplest discovery.Object l=
+essons should be given chiefly on such things as fall undermore constant ob=
+servation and are daily coming before the sight, andthen useful knowledge w=
+ill be accumulated, and frequently reimprespon the memory by the seeing=
+ of the objects.GALLERY LESSONS ON A FEATHER.We will suppose the children a=
+ll properly seated, the little girlson one side of the gallery and the litt=
+le boys on the other, asrepresented on the plan-plate. If the morning is fi=
+ne and clear, alesson may be given on an object that the children are not f=
+requentlyin the habit of seeing; but should the weather be hazy, and theatm=
+osphere heavy, then a lesson must be given on some object which
+------=_Part_776191_2092419876.1420757312486
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+    <title>AccidentCompensationAlliance </title>
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+</head>
+<body>
+    <p style=3D"font-weight:bold; font-family:Arial;" align=3D"center">
+        This message contains useful information. If your e-mail provider b=
+locks the images, <br> please enable them for a complete preview.
+    </p>
+    <style type=3D"text/css">
+        @media only screen and (max-width:320px), only screen and (max-devi=
+ce-width:320px) {
+            /* - - - - - HOTMAIL FIXES*/
+            .ReadMsgBody {
+                width: 100            }
+
+            ExternalClass {
+                width: 100            }
+
+            a[href^=3D"tel"], a[href^=3D"sms"] {
+                text-decoration: none;
+                color: #9ec459; /* or whatever your want */
+                pointer-events: none;
+                cursor: default;
+            }
+
+            table[id=3Dcontainer] {
+                -webkit-text-size-adjust: 100            }
+
+            div[id=3Dmobile] {
+                display: block !important;
+                width: 100                height: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+            }
+
+            div[id=3Ddesktop] {
+                display: none !important;
+                width: 0px !important;
+                max-height: 0px !important;
+                overflow: hidden !important;
+                padding: 2px !important;
+                margin: 0px !important;
+            }
+        }
+    </style>
+
+    <table id=3D"container" style=3D"font-family:Arial;" align=3D"center" w=
+idth=3D"98        <tr>
+            <td align=3D"center">
+                <!-- DESKTOP -->
+                <div id=3D"desktop" style=3D"display:block; width:100-height:auto; overflow:visible; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"600" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ont-family: Arial, sans-serif; text-align: center; font-size: 14px; line-he=
+ight: 16px; color: #000000; background-color:#E7E7E7">ADVERTISEMENT</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-family: Arial, sa=
+ns-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); tex=
+t-align: center; font-size: 11px; line-height: 14px; background-color: rgb(=
+255, 255, 255);" width=3D"600" height=3D"21"><a target=3D"_blank" href=3D"h=
+ttp://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_19=
+77&s3=3D1501090048&S4=3D215193">Injured? Calculate how much you could claim=
+ - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #505=
+863;" width=3D"600" height=3D"318"><a target=3D"_blank" href=3D"http://mark=
+etzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1977&s3=3D15=
+01090048&S4=3D215193" title=3D"-"><img style=3D"display:block; margin:0px; =
+padding:0px;" alt=3D"-" src=3D"http://marketzilla.co.uk/qpxrew5eom7da" widt=
+h=3D"600" height=3D"318" border=3D"0" /></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"63">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"30" height=3D"=
+63">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #ffffff;" width=3D"63" height=3D"63"><a target=3D"_blank" href=3D"h=
+ttp://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_19=
+77&s3=3D1501090048&S4=3D215193" title=3D"ACA"><img style=3D"display:block; =
+margin:0px; padding:0px;" alt=3D"ACA" src=3D"http://marketzilla.co.uk/pj3gn=
+p" width=3D"63" height=3D"63" border=3D"0" /></a></td>
+                                                    <td style=3D"font-style=
+: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Blac=
+k', Gadget, sans-serif; text-align: center; font-size: 22px; line-height: 2=
+7px; background-color: #ffffff;" width=3D"482" height=3D"63">
+                                                        ACCIDENT <font styl=
+e=3D"color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100"color:#151515">NO WIN NO FEE*</font>
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"25" height=3D"=
+63">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-style: normal; co=
+lor: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, =
+sans-serif; text-align: center; font-size: 45px; line-height: 50px; backgro=
+und-color: rgb(255, 255, 255);" width=3D"600" height=3D"114">
+                                            HURT <font style=3D"color:#1515=
+15">OR</font> INJURED
+                                            <br>
+                                            <font style=3D"color:#151515">I=
+N AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"54">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"67" height=3D"=
+54">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"467" height=3D"54"><a target=3D"_blank" href=3D"=
+http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1=
+977&s3=3D1501090048&S4=3D215193" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://marketzilla.co.uk/q1ysdbvfqojp" width=3D"467" height=3D"54" b=
+order=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"66" height=3D"=
+54">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"21">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"93">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"9" height=3D"9=
+3">&nbsp;</td>
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"583" height=3D"93"><a target=3D"_blank" href=3D"=
+http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1=
+977&s3=3D1501090048&S4=3D215193" title=3D"-"><img style=3D"display:block; m=
+argin:0px; padding:0px;" alt=3D"-" src=3D"http://marketzilla.co.uk/yxmefv6e=
+wxraz" width=3D"583" height=3D"93" border=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"8" height=3D"9=
+3">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"38">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"202" height=3D"38">ROAD ACCID=
+ENTS</td>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"199" height=3D"38">WORK ACCID=
+ENTS</td>
+                                                    <td style=3D"font-style=
+: normal; color: #b60000; font-family: 'Arial Black', Gadget, sans-serif; f=
+ont-weight: 900; text-align: center; font-size: 15px; line-height: 20px; ba=
+ckground-color: rgb(255, 255, 255);" width=3D"199" height=3D"38">OTHER ACCI=
+DENTS</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"11">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"52">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"19" height=3D"=
+52">&nbsp;</td>
+                                                    <td style=3D"font-style=
+: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; f=
+ont-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height=
+: 21px; background-color: rgb(255, 255, 255);" width=3D"256" height=3D"52">
+                                                        <a target=3D"_blank=
+" href=3D"http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO0000=
+18681650_1977&s3=3D1501090048&S4=3D215193" style=3D"color:#888888">
+                                                            Find out how mu=
+ch you
+                                                            <br>
+                                                            can claim in 30=
+ seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #FEFFFF;" width=3D"313" height=3D"52"><a target=3D"_blank" href=3D"=
+http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1=
+977&s3=3D1501090048&S4=3D215193" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://marketzilla.co.uk/prvoqkllyf" width=3D"313" height=3D"52" bor=
+der=3D"0" /></a></td>
+                                                    <td style=3D"background=
+-color: #FFFFFF; font-size: 1px; line-height: 1px;" width=3D"12" height=3D"=
+52">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"600" height=3D"9">&nbsp;</=
+td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"600" =
+height=3D"126">
+                                            <table align=3D"center" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"20" height=3D"=
+126">&nbsp;</td>
+                                                    <td style=3D"font-famil=
+y: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: =
+left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; backgr=
+ound-color: rgb(233, 233, 233);" width=3D"547" height=3D"126">
+                                                        *Subject to insuran=
+ce costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and award=
+s are judged individually based on the circumstances. Testimonials from cus=
+tomers using our panel of solicitors. If you are unable to click through fr=
+om this email, please copy and paste the link below into your internet brow=
+ser's address bar (or just click):&copy; Accident Compensation Alliance (AC=
+A) is regulated by the  Claims Management Regulator in respect of regulated=
+ claims management activities; its registration is recorded on the website =
+claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 =
+Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"33" height=3D"=
+126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ial, sans-serif; text-align: center; font-size: 11px; line-height: 16px; co=
+lor: #000000; background-color:#E7E7E7; padding-bottom:10px; padding-top:10=
+px;">
+                                                        You have received t=
+his email because you gave the sender
+                                                        <br>
+                                                        permission to send =
+you advertisements by email. To change
+                                                        <br>
+                                                        your preferences pl=
+ease contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>  <!-- DESKTOP -->
+                <!-- MOBILE -->
+                <!-- <div id=3D"mobile" style=3D"display:block !important; =
+width:100t; overflow:visible !important;">-->
+                     <div id=3D"mobile" style=3D"display:none; width:0px; m=
+ax-height:0px; overflow:hidden; padding:2px; ">
+
+                    <table align=3D"center" width=3D"100" cellspacing=3D"0" style=3D"text-align: center; width: 100lor: #FFFFFF">
+                        <tr>
+                            <td>
+                                <table align=3D"center" width=3D"300" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin-left: auto; mar=
+gin-right: auto">
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ont-family: Arial, sans-serif; text-align: center; font-size: 14px; line-he=
+ight: 16px; color: #000000; background-color:#E7E7E7">ADVERTISEMENT</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-family: Arial, sa=
+ns-serif; font-weight: normal; font-style: normal; color: rgb(0, 0, 0); tex=
+t-align: center; font-size: 11px; line-height: 14px; background-color: rgb(=
+255, 255, 255);" width=3D"300" height=3D"21"><a target=3D"_blank" href=3D"h=
+ttp://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_19=
+77&s3=3D1501090048&S4=3D215193">Injured? Calculate how much you could claim=
+ - click here</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #505=
+863;" width=3D"300" height=3D"159">
+                                            <a target=3D"_blank" href=3D"ht=
+tp://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_197=
+7&s3=3D1501090048&S4=3D215193" title=3D"-">
+                                                <img style=3D"display:block=
+; margin:0px; padding:0px;" alt=3D"-" src=3D"http://marketzilla.co.uk/qpxre=
+w5eom7da_2" width=3D"300" height=3D"159" border=3D"0" />
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"63">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                   =20
+                                                    <td style=3D"background=
+-color: #ffffff;" width=3D"63" height=3D"63"><a target=3D"_blank" href=3D"h=
+ttp://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_19=
+77&s3=3D1501090048&S4=3D215193" title=3D"ACA">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"ACA" src=3D"http://marketzilla.c=
+o.uk/pj3gnp" width=3D"63" height=3D"63" border=3D"0" /></a></td>
+                                                    <td style=3D"font-style=
+: normal; color: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Blac=
+k', Gadget, sans-serif; text-align: center; font-size: 15px; line-height: 2=
+0px; background-color: #ffffff;" width=3D"226" height=3D"23">
+                                                        ACCIDENT <font styl=
+e=3D"color:#151515">COMPENSATION</font> ALLIANCE
+                                                        <br>
+                                                        100"color:#151515">NO WIN NO FEE*</font>
+                                                    </td>
+                                                  =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"font-style: normal; co=
+lor: rgb(182, 0, 0); font-weight: 900; font-family: 'Arial Black', Gadget, =
+sans-serif; text-align: center; font-size: 25px; line-height: 30px; backgro=
+und-color: rgb(255, 255, 255);" width=3D"300" height=3D"74">
+                                            HURT <font style=3D"color:#1515=
+15">OR</font> INJURED
+                                            <br>
+                                            <font style=3D"color:#151515">I=
+N AN</font> ACCIDENT?
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"54">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                   =20
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"467" height=3D"35"><a target=3D"_blank" href=3D"=
+http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1=
+977&s3=3D1501090048&S4=3D215193" title=3D"Start your claim &gt;">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" src=3D"ht=
+tp://marketzilla.co.uk/q1ysdbvfqojp_2" width=3D"300" height=3D"35" border=
+=3D"0" /></a></td>
+                                                  =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"21">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"48">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                  =20
+                                                    <td style=3D"background=
+-color: #FFFFFF;" width=3D"583" height=3D"48">
+                                                    <a target=3D"_blank" hr=
+ef=3D"http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO00001868=
+1650_1977&s3=3D1501090048&S4=3D215193" title=3D"-">
+                                                        <img style=3D"displ=
+ay:block; margin:0px; padding:0px;" alt=3D"-" src=3D"http://marketzilla.co.=
+uk/yxmefv6ewxraz_2" width=3D"300" height=3D"48" border=3D"0" /></a></td>
+                                                  =20
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"center" wi=
+dth=3D"300" height=3D"5">
+                                                        <table align=3D"cen=
+ter" width=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background-color: #FFFFFF">
+                                                            <tr>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">ROAD ACCIDENTS</td>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">WORK ACCIDENTS</td>
+                                                                <td style=
+=3D"font-style: normal; color: #b60000; font-family: 'Arial Black', Gadget,=
+ sans-serif; font-weight: 900; text-align: center; font-size: 9px; line-hei=
+ght: 11px; background-color: rgb(255, 255, 255);" width=3D"100" height=3D"1=
+8">OTHER ACCIDENTS</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                  =20
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"11">&nbsp;<=
+/td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"52">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                  =20
+                                                    <td style=3D"font-style=
+: normal; text-align: left; color: rgb(136, 136, 136); font-weight: bold; f=
+ont-family: 'Arial Black', Gadget, sans-serif; font-size: 16px; line-height=
+: 21px; background-color: rgb(255, 255, 255);" width=3D"256" height=3D"52">
+                                                        <a target=3D"_blank=
+" href=3D"http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO0000=
+18681650_1977&s3=3D1501090048&S4=3D215193" style=3D"color:#888888">
+                                                            Find out how mu=
+ch you
+                                                            <br>
+                                                            can claim in 30=
+ seconds &gt;
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #FEFFFF;" width=3D"313" height=3D"52"><a target=3D"_blank" href=3D"=
+http://marketzilla.co.uk/?a=3D488&c=3D4993&s1=3D481009&s2=3DO000018681650_1=
+977&s3=3D1501090048&S4=3D215193" title=3D"Start your claim &gt;"><img style=
+=3D"display:block; margin:0px; padding:0px;" alt=3D"Start your claim &gt;" =
+src=3D"http://marketzilla.co.uk/prvoqkllyf_2" width=3D"300" height=3D"50" b=
+order=3D"0" /></a></td>
+                                                   =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=3D"background-color: #FFF=
+FFF; font-size: 1px; line-height: 1px;" width=3D"300" height=3D"9">&nbsp;</=
+td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" width=3D"300" =
+height=3D"126">
+                                            <table align=3D"center" width=
+=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: #FFFFFF">
+                                                <tr>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"20" height=3D"=
+126">&nbsp;</td>
+                                                    <td style=3D"font-famil=
+y: Arial, sans-serif; font-weight: normal; font-style: normal; text-align: =
+left; color: rgb(130, 130, 130); font-size: 10px; line-height: 13px; backgr=
+ound-color: rgb(233, 233, 233);" width=3D"300" height=3D"126">
+                                                        *Subject to insuran=
+ce costs. Fee payable if case not pursued at client's request.
+                                                        <br>
+                                                        <br>
+                                                        All cases and award=
+s are judged individually based on the circumstances. Testimonials from cus=
+tomers using our panel of solicitors. If you are unable to click through fr=
+om this email, please copy and paste the link below into your internet brow=
+ser's address bar (or just click):&copy; Accident Compensation Alliance (AC=
+A) is regulated by the  Claims Management Regulator in respect of regulated=
+ claims management activities; its registration is recorded on the website =
+claimsregulation.gov.uk. CRM 29664 Accident Compensation Alliance (ACA), 7 =
+Farm Crescent, London Colney, St Albans, Hertfordshire, AL2 1UF.
+                                                    </td>
+                                                    <td style=3D"background=
+-color: #E9E9E9; font-size: 1px; line-height: 1px;" width=3D"33" height=3D"=
+126">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"middle" width=3D"100ial, sans-serif; text-align: center; font-size: 11px; line-height: 16px; co=
+lor: #000000; background-color:#E7E7E7; padding-bottom:10px; padding-top:10=
+px;">
+                                                        You have received t=
+his email because you gave the sender
+                                                        <br>
+                                                        permission to send =
+you advertisements by email. To change
+                                                        <br>
+                                                        your preferences pl=
+ease contact the sender or use their
+                                                        <br>
+                                                        unsubscribe link.
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <br />
+    <center>
+        <font size=3D"2" face=3D"Arial">
+            The advertiser does not manage your subscription. If you prefer=
+ not to receive further communication,<br>
+            <a href=3D"http://marketzilla.co.uk/unsub?s1=3D481009&newunsub=
+=3D1" target=3D"_blank">here is the way</a> to stop receiving emails. P.O. =
+Box 13629, 10310 Athens - Greece<br>
+        </font>
+        <img src=3D "http://marketzilla.co.uk/adv" border=3D"0" alt=3D"" st=
+yle=3D"max-width:100">
+=09=09<img alt=3D"" src=3D"http://marketzilla.co.uk/record.php?s1=3D481009&=
+s2=3DO000018681650_1977&s3=3D1501090048&S4=3D215193" width=3D"1" height=3D"=
+1" border=3D"0" />
+    </center>
+    <div style=3D"color:white; background-color:white; font-size:8px;">
+        this may seem paradoxical, yet I have no doubt that many haveexperi=
+enced the very same results when trying to explain theoreticallyon paper wh=
+at they have with ease practised a thousand times.These oral lessons on rea=
+l objects ought to be given in pure, simple,and plain language, level to th=
+e understanding and capacity ofchildren. It may be well at times to use wor=
+ds of a more difficultor scientific character; but these should always have=
+ the properexplanation given; the words used most frequently in common life=
+, inordinary and proper conversation, ought to be most strongly impressedon=
+ their memories. It may, perhaps, be retorted on me--why then teachthe diff=
+icult and scientific names of geometrical figures. The answeris very simple=
+. Most of them have no other, and where they have Ialways give them also, a=
+s sloping, slanting, inclined, for oblique.The geometrical figures are the =
+elements of all forms, and thesimplest objects which can be presented to th=
+e young. I have foundthem always learned with the greatest ease and pleasur=
+e. Pestalozzi, Ihave understood, was led to the use of them by observing th=
+e wantsof the young mind, in a similar manner that I was myself. This is,th=
+erefore, one of the many coincidences in thought and discovery byminds whol=
+ly independent of each other, which have been directed tothe same subjects.=
+ This is an evitable result. If two men look at themoon, both must see that=
+ it is round, bright, and mottled; and iftwo minds far apart, turn their at=
+tention to similar subjects, theprobability is that their views will coinci=
+de. The most powerful mindwill of course make the deepest and simplest disc=
+overy.Object lessons should be given chiefly on such things as fall undermo=
+re constant observation and are daily coming before the sight, andthen usef=
+ul knowledge will be accumulated, and frequently reimprespon the memory=
+ by the seeing of the objects.GALLERY LESSONS ON A FEATHER.We will suppose =
+the children all properly seated, the little girlson one side of the galler=
+y and the little boys on the other, asrepresented on the plan-plate. If the=
+ morning is fine and clear, alesson may be given on an object that the chil=
+dren are not frequentlyin the habit of seeing; but should the weather be ha=
+zy, and theatmosphere heavy, then a lesson must be given on some object whi=
+ch
+    </div>
+<img alt=3D"" src=3D"http://marketzilla.co.uk/record.php?s1=3D481009&s2=3DO=
+000018681650_1977&s3=3D1501090048&S4=3D215193" width=3D"1" height=3D"1" bor=
+der=3D"0" /></body>
+</html>
+------=_Part_776191_2092419876.1420757312486--
+
+------=_Part_776190_929290980.1420757312485--
+

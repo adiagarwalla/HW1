@@ -1,0 +1,736 @@
+From @..  Wed Jan  7 18:21:27 2015
+Return-Path: <@..>
+X-Original-To: fadfaf@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id DA00AD6; Wed,  7 Jan 2015 18:21:27 +0000 (UTC)
+Received: from omp.news.strava.com (omp.news.strava.com [199.7.202.222])
+    by .. with SMTP id qruxbftyg49yuevbuzf2ffp8ae;
+    for fadfaf@fs.net;
+    Wed, 07 Jan 2015 18:21:27 +0000 (UTC)
+    (envelope-from strava.51870@envfrm.rsys5.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.7.202.222; envelope-from=<strava.51870@envfrm.rsys5.com>;
+    helo=omp.news.strava.com; mechanism=ip4:199.7.200.0/21
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.7.202.222; client-port=37063;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=10;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 206.223.119.36 66.192.251.182 74.202.6.2 204.212.188.10
+    199.7.202.222; network-path-time=1420654887
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=strava; d=news.strava.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=newsletter@news.strava.com;
+ bh=/z1a9H3xtMCTMqNvdSBiiasnWbw=;
+ b=BD83wlenR8NCRAcvdZApUnXsLuKo/+sFYyKylaWA0AtHFulwmR8A9Zwv0gclExq5RM4zmr1zXkha
+   8I2G0MkpoJF7IiXYpIZ/C1uoGUKCuI41aTgQREK58h+fmPyer7Gg7hjHhdiPSbLiq2wq6AZlq0BE
+   F4xJ1nUztFMc9tuwkHA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=strava; d=news.strava.com;
+ b=mQhp+FkHJffv5T3oyZZU4X92q1THtlBN9u/M773QfrG4AK/7cXUEzSUuvPGjVAgtBVNqbmqA9gUF
+   8kyLyJlKUBJeJGsYREzXl4/EAWF60shMRrf9znIy9KgiC+RCf2sc3xHdQhI9fuZDAsnzoS+YbKRD
+   J7rSkudXouggGa4JxUw=;
+Received: by omp.news.strava.com id hllsie1hdb07 for <fadfaf@fs.net>; Wed, 7 Jan 2015 10:21:12 -0800 (envelope-from <strava.51870@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 7 Jan 2015 10:21:12 -0800
+To: @..
+From: "Strava" <@..>
+Reply-To: "Strava" <@..>
+Subject: Need some motivation?
+List-Unsubscribe: <http://news.strava.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2XX-sgxh1: MHKMHMxMkQgLl
+X-rext: 4.interact5.EtRodN6qfI1mycSkZJLdpRENPSO30PhPtSkwKM
+X-cid: strava.10010250
+Message-ID: <0.0.2.66.1D02AA6B756500E.0@omp.news.strava.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Strict//EN=22 =22http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-strict=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Dutf=
+-8=22>
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22>
+<title>Need some motivation?</title>
+</head>
+<body style=3D=22width:100text-size-adjust:100<style type=3D=22text/css=22>
+
+
+	=23outlook a=7Bpadding:0;=7D
+
+	body=7Bwidth:100-adjust:100
+	=2EExternalClass=7Bwidth:100
+	=2EExternalClass,=2EExternalClass p,=2EExternalClass span,=2EExternalClass=
+ font,=2EExternalClass td,=2EExternalClass div=7Bline-height:100
+	=2Ebodytbl=7Bmargin:0;padding:0;width:100
+	img=7Boutline:none;text-decoration:none;-ms-interpolation-mode:bicubic;ima=
+ge-rendering:optimizeQuality;display:block;max-width:100
+	a img=7Bborder:none;=7D
+
+	p=7Bmargin:1em 0;=7D
+
+=09
+	table=7Bborder-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;=7D
+
+	table td=7Bborder-collapse:collapse;=7D
+
+	=2Eo-fix table,=2Eo-fix td=7Bmso-table-lspace:0pt;mso-table-rspace:0pt;=7D
+
+=09
+	body,=2Ebodytbl=7Bbackground-color:=23F5F5F5/*Background Color*/;=7D
+
+=09
+	table=7Bcolor:=238B8B8B/*Text Color*/;=7D
+
+	td,p=7Bcolor:=238B8B8B;=7D
+
+	=2Eh1=7Bcolor:=232a2e29/*Headings*/;=7D
+
+	=2Eh2=7Bcolor:=232a2e29;=7D
+
+	=2Equote=7Bcolor:=23AAAAAA;=7D
+
+	=2Einvert,=2Einvert h1,=2Einvert td,=2Einvert p=7Bbackground-color:=232a2e=
+29;color:=23F5F5F5 =21important;=7D
+
+=09
+	=2Ewrap=2Eheader=7B=7D
+	=2Ewrap=2Ebody=7B=7D
+	=2Ewrap=2Ebody-i=7Bbackground-color:=232a2e29;=7D
+
+	=2Ewrap=2Efooter=7B=7D
+	=2Epadd=7Bwidth:20px;=7D
+
+=09
+	a=7Bcolor:=23FC4C02;=7D
+
+	a:link,a:visited,a:hover=7Bcolor:=23FC4C02/*Contrast*/;=7D
+
+	=2Ebtn,=2Ebtn div,=2Ebtn a,td=2Elabel a=7Bcolor:=23FFFFFF/*Contrast Link C=
+olor*/;=7D
+
+	=2Ebtn a,=2Ebtn a img,td=2Elabel=7Bbackground:=23FC4C02/*Button Color*/;=7D
+
+	=2Einvert =2Ebtn a,=2Einvert =2Ebtn a img=7Bbackground:none;=7D
+
+=09
+	h1,h2,h3,h4,h5,h6=7Bcolor:=232a2e29;font-family:Helvetica,Arial,sans-serif=
+;font-weight:normal;=7D
+
+	h1=7Bfont-size:24px;letter-spacing:-2px;margin-bottom:6px;margin-top:6px;l=
+ine-height:24px;=7D
+
+	h2=7Bfont-size:20px;margin-bottom:12px;margin-top:2px;line-height:24px;=7D
+
+	h3=7Bfont-size:18px;margin-bottom:12px;margin-top:2px;line-height:24px;=7D
+
+	h4=7Bfont-size:16px;=7D
+
+	h5=7Bfont-size:14px;=7D
+
+	h6=7Bfont-size:12px;=7D
+
+	h1 a,h2 a,h3 a,h4 a,h5 a,h6 a=7Bcolor:=23FC4C02;=7D
+
+	h1 a:active,h2 a:active,h3 a:active,h4 a:active,h5 a:active,h6 a:active=7B=
+color:=23FC4C02 =21important;=7D
+
+	h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited,h6 a:visi=
+ted=7Bcolor:=23FC4C02 =21important;=7D
+
+	=2Eh1=7Bfont-family:Helvetica,Arial,sans-serif;font-size:55px;font-weight:=
+normal;line-height:40px =21important;letter-spacing:-2px;=7D
+
+	=2Eh2=7Bfont-family:Helvetica,Arial,sans-serif;font-size:19px;font-weight:=
+normal;letter-spacing:-1px;line-height:24px;=7D
+
+	=2Eh3=7Bfont-family:Helvetica,Arial,sans-serif;font-size:17px;letter-spaci=
+ng:-1px;line-height:24px;=7D
+
+
+	body=7Bmargin:0;padding:0;=7D
+
+	=2Ebodytbl=7Bmargin:0;padding:0;-webkit-text-size-adjust:none;=7D
+
+	=2Eline=7Bborder-bottom:1px solid =23AAAAAA/*Separator*/;=7D
+
+	table=7Bfont-family:Helvetica,Arial,sans-serif;font-size:12px;=7D
+
+	td,p=7Bline-height:20px;=7D
+
+	ul,ol=7Bmargin-top:20px;margin-bottom:20px;=7D
+
+	li=7Bline-height:20px;=7D
+=20
+	td,tr=7Bpadding:0;=7D
+
+	=2Equote=7Bfont-family:Helvetica,Arial,sans-serif;font-size:24px;letter-sp=
+acing:0;margin-bottom:6px;margin-top:6px;line-height:24px;font-style:italic=
+;=7D
+
+	=2Esmall=7Bfont-size:10px;color:=238B8B8B;line-height:15px;text-transform:=
+uppercase;word-spacing:-1px;margin-bottom:4px;margin-top:6px;=7D
+
+	=2Eplan td=7Bborder-right:1px solid =23EBEBEB/*Lines*/;border-bottom:1px s=
+olid =23EBEBEB;text-align:center;=7D
+
+	=2Eplan td=2Elast=7Bborder-right:0;=7D
+
+	=2Eplan th=7Btext-align:center;border-bottom:1px solid =23EBEBEB;=7D
+
+	a=7Btext-decoration:none;padding:2px 0px;=7D
+
+	td=2Elabel a=7Bmargin:2px 4px;line-height:1em;text-decoration:none;display=
+:block;mso-padding-alt:4pt 4pt 4pt 4pt;=7D
+
+	td=2Elabel=7Bmso-padding-alt:0 4px 4px 4px;=7D
+
+	=2Ebtn=7Bmargin-top:10px;display:block;=7D
+
+	=2Ebtn a=7Bdisplay:inline-block;padding:0;line-height:0=2E5em;=7D
+
+	=2Ebtn img,=2Esocial img=7Bdisplay:inline;margin:0;=7D
+
+	=2Esocial =2Ebtn a,=2Esocial =2Ebtn a img=7Bbackground:none;=7D
+
+	=2Eright=7Btext-align:right;=7D
+
+=09
+	table=2Etextbutton td=7Bbackground:=23FC4C02;padding:0px 14px;color:=23FFF=
+;display:block;height:24px;vertical-align:top;=7D
+
+	table=2Etextbutton a=7Bcolor:=23FFF;font-size:13px;font-weight:100;line-he=
+ight:24px;width:100
+=09
+	div=2Epreheader=7Bline-height:0px;font-size:0px;height:0px;display:none =
+=21important;visibility:hidden;text-indent:-9999px;=7D
+
+=09
+	=40media only screen and (max-device-width: 480px) =7B
+		body=7B-webkit-text-size-adjust:1200
+		table=5Bclass=3Dbodytbl=5D =2Ewrap=7Bwidth:460px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Epadd=7Bwidth:10px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap table=7Bwidth:100
+		table=5Bclass=3Dbodytbl=5D =2Ewrap img =7Bmax-width:100ght:auto =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-padd =7Bpadding:0 20px =21importa=
+nt;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-w-auto=7B;width:auto =21important=
+;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-100=7Bwidth:100-width:460px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-l=7Btext-align:left =21important;=
+=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Eh div=7Bletter-spacing:-1px =21impo=
+rtant;font-size:18px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Em-0=7Bwidth:0;display:none;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Em-b=7Bdisplay:block;width:100;margin-bottom:20px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Em-1-2=7Bmax-width:264px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Em-1-3=7Bmax-width:168px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Em-1-4=7Bmax-width:120px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac=7Bwidth:340px =21important;ma=
+x-width:340px =21important;margin-left:38px;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-t img=7Bwidth:339px =21import=
+ant;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-h img=7Bheight:192px =21impor=
+tant;width:15px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-i img=7Bwidth:309px =21import=
+ant;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-b img=7Bmax-width:406px =21im=
+portant;margin-left:4px;=7D
+
+	=7D
+=09
+	=40media only screen and (max-device-width: 320px) =7B
+		table=5Bclass=3Dbodytbl=5D =2Ewrap=7Bwidth:310px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-100=7Bmax-width:310px =21importan=
+t;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac=7Bwidth:239px =21important;ma=
+x-width:239px =21important;margin-left:23px;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-t img=7Bwidth:238px =21import=
+ant;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-h img=7Bheight:134px =21impor=
+tant;width:11px =21important;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-i img=7Bwidth:216px =21import=
+ant;=7D
+
+		table=5Bclass=3Dbodytbl=5D =2Ewrap =2Em-mac-b img=7Bmax-width:285px =21im=
+portant;margin-left:-1px;=7D
+
+	=7D
+=09
+</style>
+
+<table class=3D=22bodytbl=22 width=3D=22100adding=3D=220=22 style=3D=22margin:0;padding:0;width:100er-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;background-c=
+olor:=23F5F5F5;color:=238B8B8B;-webkit-text-size-adjust:none;font-family:He=
+lvetica,Arial,sans-serif;font-size:12px=22><tr style=3D=22padding:0=22>
+<td align=3D=22center=22 style=3D=22border-collapse:collapse;color:=238B8B8=
+B;line-height:20px;padding:0=22>
+=09
+		<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 clas=
+s=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso=
+-table-rspace:0pt;color:=238B8B8B;font-family:Helvetica,Arial,sans-serif;fo=
+nt-size:12px=22><tr height=3D=2220=22 style=3D=22padding:0=22>
+<td align=3D=22right=22 valign=3D=22bottom=22 style=3D=22border-collapse:co=
+llapse;color:=238B8B8B;line-height:20px;padding:0=22>
+				<div class=3D=22preheader=22 style=3D=22line-height:0px;font-size:0px;h=
+eight:0px;display:none =21important;visibility:hidden;text-indent:-9999px=
+=22><=21-- PREHEADER --></div> <div class=3D=22small=22 style=3D=22font-siz=
+e:10px;color:=238B8B8B;line-height:15px;text-transform:none;word-spacing:-1=
+px;margin-bottom:4px;margin-top:6px=22>
+<span>Join a running or cycling Challenge on Strava=2E</span>
+</div> <div class=3D=22small=22 style=3D=22font-size:10px;color:=238B8B8B;l=
+ine-height:15px;text-transform:none;word-spacing:-1px;margin-bottom:4px;mar=
+gin-top:6px=22><span>Trouble seeing something? <a href=3D=22http://news=2Es=
+trava=2Ecom/pub/cc?_ri_=3DX0Gzc2X1wURyoyl1sOdfVXtpKXLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22viewonline=22 style=3D=22co=
+lor:=23007fb6;text-decoration:none;padding:2px 0px=22>view it online</a></s=
+pan></div>
+			</td>
+		</tr></table>
+
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=238B8B8B;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr height=3D=2240=22 style=3D=22padding:0=22>
+<td align=3D=22left=22 valign=3D=22bottom=22 style=3D=22border-collapse:col=
+lapse;color:=238B8B8B;line-height:20px;padding:0=22>
+				<table width=3D=22100tyle=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0p=
+t;color:=238B8B8B;font-family:Helvetica,Arial,sans-serif;font-size:12px=22>
+<tr style=3D=22padding:0=22>
+<td valign=3D=22top=22 align=3D=22left=22 style=3D=22border-collapse:collap=
+se;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=238B8B8B;line-height:20=
+px;padding:0=22>
+						<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XLjHJlYQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKX45F6DwU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RIL=
+T=3D=22strava=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respo=
+nsysimages/strava/Welcome_Series/2014_06_17_Welcome_5/strava_rgb_logo240x51=
+=2Epng=22 alt=3D=22Strava=22 title=3D=22=22 width=3D=22120=22 height=3D=222=
+5=22 border=3D=220=22 style=3D=22max-width:100n:none;-ms-interpolation-mode:bicubic;image-rendering:optimizeQuality;displ=
+ay:block=22></a>
+</td>
+				</tr>
+
+</table>
+</td>
+		</tr></table>
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap line=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=238B8B8B;border-bottom:1px solid =23AAAAAA;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:12px=22><tr style=3D=22paddin=
+g:0=22><td height=3D=2219=22 style=3D=22border-collapse:collapse;color:=238=
+B8B8B;line-height:20px;padding:0=22>&nbsp;</td></tr></table>
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=238B8B8B;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22><td height=3D=2233=22 style=3D=
+=22border-collapse:collapse;color:=238B8B8B;line-height:20px;padding:0=22>&=
+nbsp;</td></tr></table>
+<=21-- =E2=98=BA header block ends here -->
+   =20
+   =20
+   =20
+   =20
+<=21-- 1/1 Text start =E2=98=BA1_1=E2=98=BA --><table width=3D=22600=22 cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22wrap=22 style=3D=22bord=
+er-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=23787=
+878;font-family:Helvetica,Arial,sans-serif;font-size:15px=22><tr style=3D=
+=22padding:0=22>
+<td valign=3D=22top=22 style=3D=22border-collapse:collapse;color:=23787878;=
+line-height:20px;padding:0=22>
+				<table width=3D=2290lspacing=3D=220=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-seri=
+f;font-size:15px=22><tr style=3D=22padding:0=22>
+<=21-- CONTENT start --><td valign=3D=22top=22 align=3D=22center=22 style=
+=3D=22border-collapse:collapse;color:=23787878;line-height:20px;padding:0px=
+ 0px 33px 0px;=22>
+						<h1 style=3D=22color:=232a2e29;font-family:Helvetica,Arial,sans-serif=
+;font-weight:lighter;font-size:40px;letter-spacing:0px;margin-bottom:0px;ma=
+rgin-top:6px;line-height:40px=22><span>See what you're capable of with a St=
+rava Challenge=2E</span></h1>
+						=09
+   =20
+  =20
+    =20
+					</td>
+		<=21-- CONTENT end -->
+				</tr></table>
+</td>
+		</tr></table>
+<=21-- 1/1 Text end =E2=98=BA1_1=E2=98=BA -->
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+<=21-- Full Size Image start =E2=98=BA1_1_f=E2=98=BA --><table width=3D=226=
+00=22 cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22wrap=22 style=
+=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;co=
+lor:=238B8B8B;font-family:Helvetica,Arial,sans-serif;font-size:12px=22><tr =
+style=3D=22padding:0=22>
+<td valign=3D=22top=22 align=3D=22center=22 style=3D=22border-collapse:coll=
+apse;color:=238B8B8B;line-height:20px;padding:0=22>
+		<=21-- CONTENT start -->
+			<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XJlYQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKX6DwU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=
+=3D=22img=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsys=
+images/strava/Welcome_Series/2014_06_17_Welcome_5/strava_challenges=2Epng=
+=22 class=3D=22m-100=22 alt=3D=22Strava Challenges=22 title=3D=22=22 width=
+=3D=22175=22 height=3D=22175=22 border=3D=220=22 style=3D=22max-width:100outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;image-rend=
+ering:optimizeQuality;display:block=22></a><=21-- CONTENT end -->
+</td>
+		</tr></table>
+<=21-- Full Size Image end =E2=98=BA1_1_f=E2=98=BA -->
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+<=21-- 1/1 Text start =E2=98=BA1_1=E2=98=BA --><table width=3D=22600=22 cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22wrap=22 style=3D=22bord=
+er-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=23787=
+878;font-family:Helvetica,Arial,sans-serif;font-size:15px=22><tr style=3D=
+=22padding:0=22>
+<td valign=3D=22top=22 style=3D=22border-collapse:collapse;color:=23787878;=
+line-height:20px;padding:0=22>
+				<table width=3D=2290lspacing=3D=220=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-seri=
+f;font-size:16px=22><tr style=3D=22padding:0=22>
+<=21-- CONTENT start --><td valign=3D=22top=22 align=3D=22center=22 style=
+=3D=22border-collapse:collapse;color:=23787878;line-height:20px;padding:30p=
+x 0px 0px 0px;=22>
+					=09
+							<div><p style=3D=22margin:1em 0;color:=238B8B8B;line-height:22px=22>
+							There=E2=80=99s no better way to get started on Strava than with a <=
+a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKX5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 style=3D=
+=22color:=23007fb6;text-decoration:none;padding:2px 0px=22>Challenge</a>=2E=
+ Strava offers new Challenges every month so you can always find motivation=
+ to keep up with your training=2E  Set goals for yourself, earn milestone b=
+adges, and see what you're capable of=2E
+							</p></div>
+  =20
+							<div class=3D=22btn=22 style=3D=22color:=23FFFFFF;margin-top:20px;ma=
+rgin-bottom:20px; display:block=22>
+								<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XglLjHJlYQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXiN45F6DwU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 R=
+ILT=3D=22cta=22
+style=3D=22background-color:=23FC4C02;color:=23ffffff;display:inline-block;=
+font-family:sans-serif;font-size:16px;font-weight:lighter;line-height:30px;=
+text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust=
+:none;=22>Join a Challenge</a>
+							</div>
+    <div><p style=3D=22margin:1em 0;color:=238B8B8B;line-height:22px=22>
+							 Strava Challenges are available on the  <a href=3D=22http://news=2E=
+strava=2Ecom/pub/cc?_ri_=3DX0Gzc2Xy1wURyoyl1sOdfVXtpKXQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22iphone=22 style=3D=22color=
+:=23007fb6;text-decoration:none;padding:2px 0px=22>iPhone</a> and <a href=
+=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKX3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22Androi=
+d=22 style=3D=22color:=23007fb6;text-decoration:none;padding:2px 0px=22>And=
+roid</a> app in addition to Strava=2Ecom=2E
+
+							</p></div>
+    =20
+					</td>
+		<=21-- CONTENT end -->
+				</tr></table>
+</td>
+		</tr></table>
+<=21-- 1/1 Text end =E2=98=BA1_1=E2=98=BA -->
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+<=21-- Spacer Above Footer -->   =20
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap line=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=23787878;border-bottom:0px solid =23AAAAAA;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:12px=22><tr style=3D=22paddin=
+g:0=22><td height=3D=2239=22 style=3D=22border-collapse:collapse;color:=237=
+87878;line-height:20px;padding:0=22>&nbsp;</td></tr></table>
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22><td style=3D=22border-collapse:c=
+ollapse;color:=23787878;line-height:20px;padding:0=22>
+			<table cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22right=22 c=
+lass=3D=22m-w-auto=22 style=3D=22border-collapse:collapse;mso-table-lspace:=
+0pt;mso-table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-s=
+erif;font-size:12px=22><tr style=3D=22padding:0=22>
+<td valign=3D=22top=22 class=3D=22small=22 style=3D=22border-collapse:colla=
+pse;color:=23787878;line-height:15px;padding:0;font-size:10px;text-transfor=
+m:uppercase;word-spacing:-1px;margin-bottom:4px;margin-top:6px=22><span>&nb=
+sp;</span></td>
+			</tr></table>
+</td></tr></table>
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22><td height=3D=2220=22 style=3D=
+=22border-collapse:collapse;color:=23787878;line-height:20px;padding:0=22>&=
+nbsp;</td></tr></table>
+<=21-- Spacer Above Footer End -->=20
+
+   =20
+<=21-- Footer start -->   =20
+<table width=3D=22600=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22wrap line=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=23787878;border:1px solid =23dee3e0;font-famil=
+y:Helvetica,Arial,sans-serif;font-size:13px=22>
+<tr style=3D=22padding:0=22>
+<td height=3D=2250=22 width=3D=221=22 style=3D=22border-collapse:collapse;c=
+olor:=232a2e29;line-height:20px;padding:0;text-align:center;=22>&nbsp;</td>
+   =20
+<td height=3D=2239=22 width=3D=2220;color:=232a2e29;line-height:13px;padding:0;text-align:center;=22>   =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_Shop=22 style=3D=22color:=23007fb6;text-decoration:none;=22>Shop =
+our favorite gear</a></td>
+
+<td height=3D=2239=22 width=3D=221=22 style=3D=22border-collapse:collapse;c=
+olor:=232a2e29;line-height:20px;padding:0;text-align:center;=22>&nbsp;</td>=
+=20
+
+<td height=3D=2239=22 width=3D=2220;color:=232a2e29;line-height:13px;padding:0;text-align:center;=22>       =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_Premium=22 style=3D=22color:=23007fb6;text-decoration:none;=22>Go=
+ Premium</a></td>
+   =20
+<td height=3D=2239=22 width=3D=221=22 style=3D=22border-collapse:collapse;c=
+olor:=232a2e29;line-height:20px;padding:0;text-align:center;=22>&nbsp;</td>
+
+<td height=3D=2239=22 width=3D=2220;color:=232a2e29;line-height:13px;padding:0;text-align:center;=22>       =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_Mobile=22 style=3D=22color:=23007fb6;text-decoration:none;=22>Dow=
+nload mobile apps</a></td>
+   =20
+<td height=3D=2239=22 width=3D=221=22 style=3D=22border-collapse:collapse;c=
+olor:=232a2e29;line-height:20px;padding:0;text-align:center;=22>&nbsp;</td>
+
+<td height=3D=2239=22 width=3D=2220;color:=232a2e29;line-height:13px;padding:0;text-align:center;=22>       =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_Support=22 style=3D=22color:=23007fb6;text-decoration:none;=22>Vi=
+sit support</a>
+</td>
+<td height=3D=2239=22 width=3D=221=22 style=3D=22border-collapse:collapse;c=
+olor:=232a2e29;line-height:20px;padding:0;text-align:center;=22>&nbsp;</td>=
+   =20
+</tr>
+</table>
+
+   =20
+<table width=3D=22600=22 cellpadding=3D=220=22 cellspacing=3D=220=22 class=
+=3D=22wrap=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22>
+<td valign=3D=22top=22 align=3D=22center=22 style=3D=22border-collapse:coll=
+apse;color:=23787878;line-height:20px;padding:0=22>
+				<table width=3D=22100lass=3D=22o-fix=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-seri=
+f;font-size:12px=22>
+
+
+                   =20
+                   =20
+<tr style=3D=22padding:0=22>
+<=21-- CONTENT start -->
+<td valign=3D=22top=22 align=3D=22left=22 style=3D=22border-collapse:collap=
+se;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=23787878;line-height:20=
+px;padding:0=22>
+
+
+<table width=3D=22600=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=
+=3D=22left=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22>
+<td class=3D=22small=22 align=3D=22center=22 valign=3D=22top=22 style=3D=22=
+border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=
+=238b8b8b;line-height:15px;padding:0;font-size:10px;text-transform:none;wor=
+d-spacing:0px;margin-bottom:4px;margin-top:6px; padding: 10px 0px 10px 0px;=
+=22>
+								<div><span>&copy; 2014 Strava Inc=2E, All rights reserved=2E 500 3r=
+d Street, Suite 110 &=23124; San Francisco, CA 94107=2E</span></div> <div><=
+span>Please do not reply to this email=2E You are receiving this email beca=
+use you created a Strava account at <a href=3D=22http://news=2Estrava=2Ecom=
+/pub/cc?_ri_=3DX0Gzc2XdfVXtpKXdEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22Footer_StravaWeb=22 style=3D=22color:=
+=23007fb6;text-decoration:none;padding:2px 0px=22>www=2Estrava=2Ecom</a> or=
+ from our mobile app=2E If you no longer wish to receive emails please upda=
+te your Strava <a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+Xei_=3DEiN45F6DwU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=
+=2E=22 RILT=3D=22Footer_EmailSettings=22 style=3D=22color:=23007fb6;text-de=
+coration:none;padding:2px 0px=22>email settings</a> or <a href=3D=22http://=
+news=2Estrava=2Ecom/pub/optout?_ri_=3DX0Gzc2X1szdceKi0Gvy1wURyoyl1sOdf&_ei_=3DEolaGGF4SNMvxFF7KucKuWN8cm33KXgjLkPSyTDjEE=
+ODymCE4Yf_n71n3xGwc1qMZngS=22 style=3D=22color:=23007fb6;text-decoration:no=
+ne;padding:2px 0px=22>unsubscribe</a></span></div>
+</td>
+</tr>
+</table>
+</td>=20
+</tr>
+                   =20
+<tr style=3D=22padding:0=22>
+<td valign=3D=22top=22 align=3D=22center=22 style=3D=22border-collapse:coll=
+apse;mso-table-lspace:0pt;mso-table-rspace:0pt;color:=23787878;line-height:=
+20px;padding:0=22>
+   =20
+   =20
+<table width=3D=22600=22 cellpadding=3D=220=22 cellspacing=3D=220=22 align=
+=3D=22left=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:12px=22><tr style=3D=22padding:0=22>
+
+<td class=3D=22small social=22 align=3D=22center=22 width=3D=2240=22 valign=
+=3D=22top=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-t=
+able-rspace:0pt;color:=23787878;line-height:15px;padding:5px 0px 0px 0px;fo=
+nt-size:10px;text-transform:none;word-spacing:-1px;margin-bottom:4px;margin=
+-top:6px=22>
+<div></div></td>=20
+   =20
+<td class=3D=22small social=22 align=3D=22center=22 valign=3D=22top=22 styl=
+e=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;c=
+olor:=23787878;line-height:15px;padding:5px 0px 0px 0px;font-size:10px;text=
+-transform:none;word-spacing:-1px;margin-bottom:4px;margin-top:6px=22>
+<div> =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_FBRun=22 style=3D=22color:=23FC4C02;text-decoration:none;padding:=
+2px 5px 0px 0px=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/res=
+ponsysimages/content/strava/Facebook=2Epng=22 alt=3D=22FB=22 title=3D=22=22=
+ width=3D=2232=22 height=3D=2232=22 border=3D=220=22 style=3D=22max-width:1=
+00e:bicubic;image-rendering:optimizeQuality;display:inline;vertical-align:mid=
+dle;border:none;margin:0=22></a>&nbsp;<a href=3D=22http://news=2Estrava=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2XsOdfVXtpKXC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22Footer_FBRun=22 style=3D=22color:=23=
+8B8B8B;text-decoration:none;=22>Run</a>
+</div></td>
+=20
+
+ <td class=3D=22small social=22 align=3D=22center=22 width=3D=2220=22 valig=
+n=3D=22top=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;color:=23787878;line-height:15px;padding:5px 0px 0px 0px;f=
+ont-size:10px;text-transform:none;word-spacing:-1px;margin-bottom:4px;margi=
+n-top:6px=22>
+<div></div></td>  =20
+   =20
+
+<td class=3D=22small social=22 align=3D=22center=22 valign=3D=22top=22 styl=
+e=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;c=
+olor:=23787878;line-height:15px;padding:5px 0px 0px 0px;font-size:10px;text=
+-transform:none;word-spacing:-1px;margin-bottom:4px;margin-top:6px=22>
+<div>   =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_FBRide=22 style=3D=22color:=23FC4C02;text-decoration:none;padding=
+:2px 5px 0px 0px=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/re=
+sponsysimages/content/strava/Facebook=2Epng=22 alt=3D=22RB=22 title=3D=22=
+=22 width=3D=2232=22 height=3D=2232=22 border=3D=220=22 style=3D=22max-widt=
+h:100mode:bicubic;image-rendering:optimizeQuality;display:inline;vertical-align:=
+middle;border:none;margin:0=22></a><a href=3D=22http://news=2Estrava=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2XfVXtpKXEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=22Footer_FBRide=22 style=3D=22color:=238B=
+8B8B;text-decoration:none;=22>&nbsp;Cycling</a>
+</div></td>                                   =20
+
+=20
+<td class=3D=22small social=22 align=3D=22center=22 width=3D=2220=22 valign=
+=3D=22top=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-t=
+able-rspace:0pt;color:=23787878;line-height:15px;padding:5px 0px 0px 0px;fo=
+nt-size:10px;text-transform:none;word-spacing:-1px;margin-bottom:4px;margin=
+-top:6px=22>
+<div></div></td>   =20
+   =20
+   =20
+<td class=3D=22small social=22 align=3D=22center=22 valign=3D=22top=22 styl=
+e=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;c=
+olor:=23787878;line-height:15px;padding:5px 0px 0px 0px;font-size:10px;text=
+-transform:none;word-spacing:-1px;margin-bottom:4px;margin-top:6px=22>
+<div>    =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_TW=22 style=3D=22color:=23FC4C02;text-decoration:none;padding:2px=
+ 5px 0px 0px=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respon=
+sysimages/content/strava/twitter=2Epng=22 alt=3D=22TW=22 title=3D=22=22 wid=
+th=3D=2232=22 height=3D=2232=22 border=3D=220=22 style=3D=22max-width:100max-height:32px;outline:none;text-decoration:none;-ms-interpolation-mode:bi=
+cubic;image-rendering:optimizeQuality;display:inline;vertical-align:middle;=
+border:none;margin:0=22></a><a href=3D=22http://news=2Estrava=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2XzBbiiDA4gPCr=2E=22 RILT=3D=22Footer_TW=22 style=3D=22color:=238B8B8B;text-d=
+ecoration:none;=22>&nbsp;Twitter</a>
+</div></td>  			=09
+
+
+<td class=3D=22small social=22 align=3D=22center=22 width=3D=2220=22 valign=
+=3D=22top=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-t=
+able-rspace:0pt;color:=23787878;line-height:15px;padding:5px 0px 0px 0px;fo=
+nt-size:10px;text-transform:none;word-spacing:-1px;margin-bottom:4px;margin=
+-top:6px=22>
+<div></div></td>   =20
+   =20
+   =20
+<td class=3D=22small social=22 align=3D=22center=22 valign=3D=22top=22 styl=
+e=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;c=
+olor:=23787878;line-height:15px;padding:5px 0px 0px 0px;font-size:10px;text=
+-transform:none;word-spacing:-1px;margin-bottom:4px;margin-top:6px=22>
+<div>     =20
+<a href=3D=22http://news=2Estrava=2Ecom/pub/cc?_ri_=3DX0Gzc2XQGl0hKvAzbMbSuPJ1szdceKi0Gvy1wURyoyl1sOdfVXtpKXU5OEWvP3w-KjYjL2iEyJVApls-uQLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22 RILT=3D=
+=22Footer_YT=22 style=3D=22color:=23FC4C02;text-decoration:none;padding:2px=
+ 5px 0px 0px=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respon=
+sysimages/content/strava/Youtube=2Epng=22 alt=3D=22YT=22 title=3D=22=22 wid=
+th=3D=2232=22 height=3D=2232=22 border=3D=220=22 style=3D=22max-width:100max-height:32px;outline:none;text-decoration:none;-ms-interpolation-mode:bi=
+cubic;image-rendering:optimizeQuality;display:inline;vertical-align:middle;=
+border:none;margin:0=22></a><a href=3D=22http://news=2Estrava=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2XzBbiiDA4gPCr=2E=22 RILT=3D=22Footer_YT=22 style=3D=22color:=238B8B8B;text-d=
+ecoration:none;=22>&nbsp;You Tube</a>
+</div>
+</td>
+
+<td class=3D=22small social=22 align=3D=22center=22 width=3D=2240=22 valign=
+=3D=22top=22 style=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-t=
+able-rspace:0pt;color:=23787878;line-height:15px;padding:5px 0px 0px 0px;fo=
+nt-size:10px;text-transform:none;word-spacing:-1px;margin-bottom:4px;margin=
+-top:6px=22>
+<div></div></td>
+   =20
+</tr>
+</table>
+
+   =20
+   =20
+</td>
+<=21-- CONTENT end -->               =20
+</tr>
+                   =20
+                   =20
+                   =20
+                   =20
+                   =20
+<tr class=3D=22m-0=22 style=3D=22padding:0=22><td height=3D=2224=22 style=
+=3D=22border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;co=
+lor:=23787878;line-height:20px;padding:0=22>&nbsp;</td></tr>
+</table>
+</td>
+		</tr></table>
+<=21-- Footer end -->
+</td>
+</tr></table><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+sns1=2Ersys5=2Enet/pub/as?_ri_=3DX0Gzc2XeKi0Gvy1wURyoyl1sOdfVXHkMXLObZfarjWC0dEu01lYxzBbiiDA4gPCr=2E=22>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,125 @@
+From @..  Tue Jan 13 08:33:14 2015
+Return-Path: <@..>
+X-Original-To: darqstar@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id CB2B4DF; Tue, 13 Jan 2015 08:33:14 +0000 (UTC)
+Received: from mail-wi0-f196.google.com (mail-wi0-f196.google.com [209.85.212.196])
+    by .. with SMTP id q225gmwke6dvhc6r2mj794iuzi;
+    for darqstar@fs.net;
+    Tue, 13 Jan 2015 08:33:14 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.212.196; envelope-from=<>; helo=mail-wi0-f196.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.212.196; client-port=41777;
+    syn-fingerprint=42900:46:0:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 64.233.175.32 209.85.142.59 72.14.235.11
+    72.14.235.90 209.85.249.209 72.14.239.98 209.85.212.196;
+    network-path-time=1421137994
+Received: by mail-wi0-f196.google.com with SMTP id ex7so734109wid.3
+        for <darqstar@fs.net>; Tue, 13 Jan 2015 00:32:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type;
+        bh=uOGfpTDnM2cRdA4vtFhUc/rThX4BY5weSn/rtoMqOaM=;
+        b=Meiakg2uEIz/YeNhWXbrDCEngvosbjsWmppAozWrAY/XEzy+qR6r7tHTLrP+Ene8BC
+         DdwPnyEStyycU9VRYSY5vDTSLB4++YQ2DoDGjVuCbPacgMXzcg0CjvJv9DffmWpwuTl1
+         xlvY+7ocstG/uufMaeM6xBBAkMq63NfNAf03PD7BHd+oosyRIDOhFLE1XeEAL/fPIHzl
+         HYWTtVkx5p2mJ0lHK97yRHdcE+jWMM15UJy8JNkrLmOB28dssGI2vLdVLf4kCTgQ25od
+         Bdg8Vr/LRJxks1pw1gr0q45jJWAqqCY6Udi3z+HPnbr8WiQvsxwi2MnivYPAZ76MNw7t
+         fnVA==
+X-Received: by 10.194.24.195 with SMTP id w3mr38560247wjf.135.1421137979199;
+        Tue, 13 Jan 2015 00:32:59 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.24.195 with SMTP id w3mr22934218wjf.135; Tue, 13 Jan 2015
+ 00:32:59 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: andrew.dixonxsuw@gone.bristol.ac.uk
+Subject: Delivery Status Notification (Failure)
+Message-ID: <047d7b5d87b76d4e90050c84782f@google.com>
+Date: Tue, 13 Jan 2015 08:32:59 +0000
+Content-Type: text/plain; charset=UTF-8
+
+Delivery to the following recipient failed permanently:
+
+     andrew.dixonxsuw@gone.bristol.ac.uk
+
+Technical details of permanent failure: 
+Google tried to deliver your message, but it was rejected by the server for the recipient domain gone.bristol.ac.uk by aspmx.l.google.com. [173.194.66.27].
+
+The error that the other server returned was:
+550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. Learn more at
+550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 hu10si40486570wjb.53 - gsmtp
+
+
+----- Original message -----
+
+X-Received: by 10.194.24.195 with SMTP id w3mr38560237wjf.135.1421137979144;
+        Tue, 13 Jan 2015 00:32:59 -0800 (PST)
+X-Gm-Message-State: ALoCoQn1H9c1an0qwOmTd5ofd7ZZTJInEKQyNlVZSX8dolrmAhB4XC1rQTLP83IF98GlBdQ0D98hdONH8ka92HCYTZ+77uYA38fLugehUpZ8szEMm+A1lVIHNuME02qOKyzV3VAy59LMDWcmgqIBxInLGyOW4FF3ig==
+X-Received: by 10.194.24.195 with SMTP id w3mr38560210wjf.135.1421137978978;
+        Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+Return-Path: <darqstar@fs.net>
+Received: from mail-we0-f172.google.com (mail-we0-f172.google.com. [74.125.82.172])
+        by mx.google.com with ESMTPS id br7si40313080wjb.140.2015.01.13.00.32.58
+        for <andrew.dixonxsuw@my.bristol.ac.uk>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+Received-SPF: none (google.com: darqstar@fs.net does not designate permitted sender hosts) client-ip=74.125.82.172;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: darqstar@fs.net does not designate permitted sender hosts) smtp.mail=darqstar@fs.net
+Received: by mail-we0-f172.google.com with SMTP id k11so1448528wes.3
+        for <andrew.dixonxsuw@my.bristol.ac.uk>; Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+X-Received: by 10.181.13.42 with SMTP id ev10mr29420571wid.78.1421137978931;
+        Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+X-Received: by 10.181.13.42 with SMTP id ev10mr29420549wid.78.1421137978793;
+        Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+Return-Path: <darqstar@fs.net>
+Received: from psmtp.com (eu1sys200amx134.postini.com. [207.126.144.223])
+        by mx.google.com with SMTP id dt1si18745622wib.52.2015.01.13.00.32.57
+        for <andrew.dixonxsuw@bristol.ac.uk>;
+        Tue, 13 Jan 2015 00:32:58 -0800 (PST)
+Received-SPF: none (google.com: darqstar@fs.net does not designate permitted sender hosts) client-ip=60.49.107.60;
+Received: from 60.107.49.60.brf03-home.tm.net.my ([60.49.107.60]) by eu1sys200amx134.postini.com ([207.126.147.14]) with SMTP;
+	Tue, 13 Jan 2015 08:32:58 GMT
+Message-ID: <003601d02f4e$05d24bd5$5e7c89ae@kgyha>
+From: <darqstar@fs.net>
+To: <andrew.dixonxsuw@bristol.ac.uk>
+Subject: New employment opportunities
+Date: 13 Jan 2015 23:10:46 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.4585
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.4585
+X-pstn-mail-from: <darqstar@fs.net>
+X-pstn-levels: (S: 0.00000/67.81925 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:94.5022 C:99.7951 )
+X-pstn-dkim: 0 skipped:not-enabled
+X-pstn-status: off
+X-pstn-nxpr: disp=neutral, envrcpt=andrew.dixonxsuw@bristol.ac.uk
+X-pstn-nxp: bodyHash=ea92cbec91b9d92c3bd01e5f21b18bf01d02a412, headerHash=21abe461abe878d3ab4705864da2b1fc77c95cd7, keyName=4, rcptHash=dcbf337872684baea19683db48e637733ddcb598, sourceip=60.49.107.60, version=1
+X-pstn-nxp: bodyHash=ea92cbec91b9d92c3bd01e5f21b18bf01d02a412, headerHash=21abe461abe878d3ab4705864da2b1fc77c95cd7, keyName=4, rcptHash=dcbf337872684baea19683db48e637733ddcb598, sourceip=60.49.107.60, version=1
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+

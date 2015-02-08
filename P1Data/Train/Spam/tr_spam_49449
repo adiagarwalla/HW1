@@ -1,0 +1,886 @@
+From @..  Mon Jan 12 17:39:37 2015
+Return-Path: <@..>
+X-Original-To: lsheehy@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id DE9B0DE; Mon, 12 Jan 2015 17:39:37 +0000 (UTC)
+Received: from confusedcom.outbound.ed10.com (confusedcom.outbound.ed10.com [208.94.21.60])
+    by .. with SMTP id puh2edk25a8iy85wspb8kvtje6;
+    for lsheehy@fs.net;
+    Mon, 12 Jan 2015 17:39:37 +0000 (UTC)
+    (envelope-from D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466@confusedcom.bounce.ed10.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=208.94.21.60;
+    envelope-from=<D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466@confusedcom.bounce.ed10.net>;
+    helo=confusedcom.outbound.ed10.com;
+    mechanism=a:confusedcom.outbound.ed10.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=208.94.21.60; client-port=32988;
+    syn-fingerprint=5840:53:1:52:M1380,N,N,S,N,W10 Linux 2.4 w/o timestamps;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.110 64.125.31.69 64.125.24.29 64.125.29.37
+    64.125.21.225 64.124.161.50; network-path-time=1421084377
+DKIM-Signature: v=1; a=rsa-sha1; d=email.confused.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@email.confused.com; t=1421084361;
+	h=From;
+	bh=6tV6RkuFmEUSWb7VhkWEwIPU1RY=;
+	b=j5HVudaUyeoV3WcFP4EQxfrLdzpcLfwKUXEXsHF13R76oxG8PybRIcGX86m9dG8h
+	rxo3qes28otQWAuFLzzcH5Co8JJdVTrUNfS6KPLkH6v8Kt3P7iz6jlSMmBHBZQZA
+	7+RfFYHxFr1HSV+1i6u6XAI+8T7CBIHsRIsPW4HVQUU=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2008-11; d=email.confused.com;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer:List-Unsubscribe;
+	b=NOAVVD/N0RD+dfiSY6QKoGGkVcQM8pMkpdCAvhv7uvq/CynLRJF2f5imynxhOp1w
+	OBDlJ90tJvgmHalHA2hYNcPYsdtX8xc8FSDrmIgA+abF4w+DGPjJcuFOQpry8PS9
+Received: from [127.0.0.1] ([127.0.0.1:46316])
+	by bm1-30.bo3.e-dialog.com (envelope-from <D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466@confusedcom.bounce.ed10.net>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id E1/B2-15351-9C604B45; Mon, 12 Jan 2015 12:39:21 -0500
+Date: Mon, 12 Jan 2015 12:39:21 -0500
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "Confused.com" <@..>
+Reply-To: "Confused.com" <@..>
+To: @..
+Subject: =?UTF-8?B?4p2kIExhdXJlbiwgZ2V0IMKjNjAgY2FzaGJhY2sgd2l0aCBsaWZl?=
+ =?UTF-8?B?IGluc3VyYW5jZSBmcm9tIENvbmZ1c2VkLmNvbSA=?=
+Message-Id: <24541-269-D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466@e-dialog.com>
+X-Mail-From: D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466@confusedcom.bounce.ed10.net
+X-Match: confusedcom.bounce.ed10.net
+X-RCPT-To: lsheehy@fs.net
+X-Mailer: EDMAIL R6.00.02
+List-Unsubscribe: <http://link.confused.com/u/D44VV00/NJLOQB/FFDQLD/4V79KQX/WH/bHNoZWVoeUBmcy5uZXQ=/>
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Dear Lauren,
+
+At Confused.com it's easy to compare life insurance from our trusted provid=
+ers, like Aviva, PruProtect, Legal & General and many more. Plus, for a lim=
+ited period, you can get =C2=A360 cashback when you buy life insurance.*
+
+Get a quote:=20
+http://www.confused.com/campaign/email-campaign/life-insurance/life-insuran=
+ce-ii-203?MediaCode=3D741
+
+Our new 'buy now' option means you may be able to buy life insurance withou=
+t completing an application =E2=80=93 not available on any other comparison=
+ site!
+
+Prefer speaking to a person?=20
+If you'd rather speak to one of our specialists to discuss your options you=
+ can call us direct on 0330 333 8165, or request a call back^: http://link.=
+confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/3CA29W/WH/t?a=3D741
+
+All the very best,
+The Confused.com team
+
+*Terms and conditions apply
+http://www.confused.com/campaign/email-campaign/life-insurance/life-insuran=
+ce-ii-203?MediaCode=3D741
+
+^ Lines are open between 11am and 8:30pm Monday - Wednesday, from 10 am unt=
+il 7pm on Thursday and 9am - 4pm Friday.
+
+Privacy:
+http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/VTGBW2/WH/t?a=3D741
+
+Terms & Conditions:
+http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/B4KXUJ/WH/t?a=3D741
+
+=C2=A9 Copyright 2014 Confused.com. All rights reserved.=20
+
+This email is sent for and on behalf of Inspop.com Limited trading as Confu=
+sed.com. Inspop.com Limited registered in England and Wales at 3rd Floor, G=
+reyfriars House, Greyfriars Road, Cardiff CF10 3AL (Reg. No. 03857130). Ins=
+pop.com Limited is authorised and regulated by the Financial Conduct Author=
+ity (Firm reference number: 310635).=20
+
+Confused Life is arranged and administered by Direct Life & Pension Service=
+s Ltd, who are authorised and regulated by the Financial Conduct Authority.=
+ Registered office; Pinnacle House, A1 Barnet Way, Borehamwood, Hertfordshi=
+re WD6 2XX. Registered in England, No 2467691.=20
+
+Add us to your address book
+To ensure your our emails are delivered to your inbox please add our addres=
+s to your address book or safe sender list.
+
+Unsubscribes
+We are sending you this email because you registered on our website. If you=
+ would prefer not to receive further marketing emails from Confused.com the=
+n please click here to unsubscribe:
+
+http://link.confused.com/u/D44VV00/NJLOQB/FFDQLD/4V79KQX/WH/bHNoZWVoeUBmcy5=
+uZXQ=3D/=20
+
+
+
+
+[[D44VV00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D1, user-scalable=3D0" />
+<title>=E2=9D=A4 Lauren, get =C2=A360 cashback with life insurance from Con=
+fused.com </title>
+<style type=3D"text/css">
+=20
+/* Email Client BUG Fixes */
+.ReadMsgBody, .ExternalClass { width: 100.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none;}
+body { margin: 0; padding: 0;}
+* { margin: 0; padding: 0;}
+table { border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;}
+table td { border-collapse: collapse;}
+img { border: 0;}
+html { width: 100.applelinks a { color: #545454 !important; text-decoration: none !important=
+;}=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+/* Clickable phone numbers */
+a[href^=3D"tel"], a[href^=3D"sms"] {  text-decoration: none; color: #545454=
+; pointer-events: none; cursor: default;}
+.mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] { text-decorat=
+ion: default;  color: #545454 !important; pointer-events: auto;  cursor: de=
+fault;}
+=20
+=20=20
+/* Media Queries */=20
+@media screen {=20
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleuserc=
+ontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvx=
+L-qU.woff) format('woff');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.go=
+ogleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPc=
+YnFooOUGCOsRk.woff) format('woff');
+}
+}
+@media only screen and (max-width: 639px) {
+=20
+/* Default */
+* {line-height: normal!important;}
+body {width: auto!important;}
+body[yahoo] .nomob {display:none !important;}=20=20=20=20=20=20=20=20=20=20=
+=20=20
+body[yahoo] .nobg { background: none !important;}=20=20=20=20
+body[yahoo] .nopadding { padding: 0 0 0 0 !important;}=20=20=20
+body[yahoo] .noheight { height: auto !important;}=20=20=20
+body[yahoo] .image_resize {width: 100body[yahoo] .alignmiddle { margin: 0 auto !important;}
+
+
+body[yahoo] .width33perc, .width28perc, .width38perc  { text-align:center !=
+important; padding: 0px !important; }
+
+
+body[yahoo] .width28perc { width:28
+body[yahoo] .width33perc { width:33
+body[yahoo] .width38perc { width:38
+/* Adjust table widths at smaller screen sizes */
+body[yahoo] .table {width: 100body[yahoo] .table_top20 {width: 100 margin-top:20px !important;}
+body[yahoo] .table_base20 {width: 100; margin-bottom:20px !important;}
+body[yahoo] .table94per {width: 94
+/* Adjust table heights at smaller screen sizes */
+=20
+/* Adjust font size */
+body[yahoo] .font12 { font-size: 12px !important; line-height: 20px !import=
+ant;}
+body[yahoo] .font14 { font-size: 14px !important; line-height: 19px !import=
+ant;}
+
+/* Adjust CTA */
+
+/* Header */=20
+body[yahoo] .resizeLogo {width: 80order: none !important;}
+
+/* Body Content*/
+
+/* Footer */
+body[yahoo] .footerWidth {width: 86body[yahoo] .footerWrapLink { display:block !important; text-align:center !=
+important; padding-bottom: 23px !important;}
+body[yahoo] .footerWrapLink2 { display:block !important; text-align:center =
+!important;
+padding: 23px 0!important;}
+body[yahoo] .footerNav { display:block !important; text-align:center !impor=
+tant;
+width:100f2 solid !important; }
+
+
+/* CTAs */
+body[yahoo] .green_cta_bg {
+	background: -webkit-linear-gradient(top, rgb(172, 218, 73) 65, 50) 94	background: -o-linear-gradient(top, rgb(172, 218, 73) 6) 94	background: -ms-linear-gradient(top, rgb(172, 218, 73) 60) 94	background: -moz-linear-gradient(top, rgb(172, 218, 73) 650) 94	background: linear-gradient(to bottom, rgb(172, 218, 73) 6 50) 94	width: 100	display: block !important;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+body[yahoo] .blue_cta_bg {
+	background: -webkit-linear-gradient(top, rgb(41, 148, 232) 0, 211) 92	background: -o-linear-gradient(top, rgb(41, 148, 232) 0) 92	background: -ms-linear-gradient(top, rgb(41, 148, 232) 01) 92	background: -moz-linear-gradient(top, rgb(41, 148, 232) 011) 92	background: linear-gradient(to bottom, rgb(41, 148, 232) 0211) 92	width: 100	display: block !important;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+body[yahoo] .green_cta_txt {
+	text-align: center !important;
+	padding-top: 18px !important;
+}
+
+
+body[yahoo] .cta_txt_link {
+	display: block !important; height:100	text-align: center !important;
+	padding: 15px 10px !important;
+}
+
+
+/* Show Mobile content only  */
+body[yahoo] .show_in_mob {
+	display: block!important;
+	max-height: none !important;
+	height: auto!important;
+	width: 100	margin: 0 !important;
+}
+
+}
+
+
+</style>
+</head>
+=20
+<body style=3D"width:100nt-family: Helvetica,sans-serif; font-size:13px; margin:0; padding:0;" yaho=
+o=3D"fix">
+=20
+<!--  Master template  -->
+<!--  Header  -->
+<table width=3D"100n=3D"center" bgcolor=3D"#edf5fc" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td style=3D"padding-bottom:4px; line-height:0px; font-size:0px;" bgcol=
+or=3D"#000a8c">&nbsp;</td>
+  </tr>
+</table>
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 0 20px;">
+
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"table9=
+4per" width=3D"640">
+    <tr>
+    <!-- Super Subject Line -->
+    <td align=3D"right" valign=3D"top" style=3D"font-family:'Open Sans', Ar=
+ial, Helvetica, sans-serif; font-size:12px; line-height:16px; color:#0d4ebc=
+; text-decoration:underline; padding-botttom: 4px;" class=3D"nomob"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/MJNPIF/WH=
+/h?a=3Dhttp://view.ed4.net/v/D44VV00/MJNFGG/C91A6QK/3WCZEC/" style=3D"font-=
+family:'Open Sans', Arial, Helvetica, sans-serif; font-size:12px; line-heig=
+ht:16px; color:#0d4ebc; text-decoration:underline; padding-botttom: 4px;" t=
+arget=3D"_blank"
+>View this email in your web browser</a></td>
+    <!-- End Super Subject Line -->
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top">
+    <!-- Logo -->
+=20=20=20=20
+    <table border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"table">
+          <tr>
+            <td align=3D"center" valign=3D"middle" class=3D"nopadding" styl=
+e=3D"padding: 0px 0;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/IESRXS/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 24px; color: #000a8c; text-decoration: none; line-height: 30px=
+; " target=3D"_blank"
+><img class=3D"resizeLogo" src=3D"http://image.confused.com/confused/2014_Q=
+1/Confusedcom_2013Q4_SolusConsolidationProject/html/images/img_logo_v2.png"=
+ width=3D"230"  alt=3D"Confused.com" style=3D"display:block; border:none; o=
+utline:none; text-decoration:none;"/></a></td>
+          </tr>
+        </table>
+     <!-- End Logo -->
+=20=20=20=20=20
+     <!-- Social -->
+     <table border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"nomob">
+  <tr>
+    <td align=3D"right" valign=3D"top" style=3D"padding-top: 20px;">
+     <table border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"nomob">
+          <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"font-family: 'Ope=
+n Sans', Arial, Helvetica, sans-serif; font-size: 13px; color: #323232; tex=
+t-decoration: none; line-height: 16px; padding-left: 10px;">Follow us:</td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/EKIQME/WH=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img  src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj=
+_Reloaded/html/images/img_tt.png" width=3D"26" height=3D"26" alt=3D"Twitter=
+" style=3D"display:block; border:none; outline:none; text-decoration:none;"=
+/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/EKIQMQ/WH=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_fb.png" width=3D"26" height=3D"26" alt=3D"Facebook=
+" style=3D"display:block; border:none; outline:none; text-decoration:none;"=
+/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/T1HGF8/WH=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_gPlus.png" width=3D"26" height=3D"26" alt=3D"Googl=
+e Plus" style=3D"display:block; border:none; outline:none; text-decoration:=
+none;"/></a></td>
+            <td align=3D"center" valign=3D"middle" style=3D"padding-left: 1=
+0px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/52756W/WH=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 10px; color: #0d4ebc; text-decoration: none; line-height: 14px; " targ=
+et=3D"_blank"
+><img src=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_=
+Reloaded/html/images/img_youTube.png" width=3D"26" height=3D"26" alt=3D"You=
+ Tube" style=3D"display:block; border:none; outline:none; text-decoration:n=
+one;"/></a></td>
+<td align=3D"center" valign=3D"middle" style=3D"padding-left: 21px;"><table=
+ width=3D"89" border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"nomob" >
+  <tr>
+    <td height=3D"40" align=3D"center" valign=3D"middle" style=3D"font-fami=
+ly: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 13px; color: #fff=
+fff; text-decoration: none; line-height: 16px; padding:0 20px;" background=
+=3D"http://image.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/=
+html/images/login_cta_bg.png"  bgcolor=3D"#0575cf"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/Z80VLZ/WH=
+/h" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 13px; color: #ffffff; text-decoration: none; line-height: 16px;" targe=
+t=3D"_blank"
+>LOG IN</a></td>
+  </tr>
+</table></td>=20=20=20=20=20=20=20=20
+          </tr>
+          </table></td>
+  </tr>
+</table>
+     <!-- End Social -->
+    </td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!--  End Header  -->
+
+
+<!-- Nav Bar -->
+<table width=3D"100n=3D"center" bgcolor=3D"#dbf2ff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 20px 10px;">
+
+    <table  border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"table">
+=20=20=20=20
+  <tr>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 28px;" class=
+=3D"width28perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/7Z5W0Y/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Motor</strong></a></td>
+     <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://i=
+mage.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/=
+img_nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block=
+; border:none; outline:none; text-decoration:none;"/></td>
+  </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"width38perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/3CA7GX/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Home&nbsp;&amp;&nbsp;utilities</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"width33perc"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cl=
+ass=3D"table">
+  <tr>
+ <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open Sans', Ari=
+al, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration=
+: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/OFP1Q8/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Life&nbsp;&amp;&nbsp;family</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"nomob"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+ <td align=3D"left" valign=3D"top" style=3D"font-family: 'Open Sans', Arial=
+, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration: =
+none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/T1HGF2/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Money</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+    <td align=3D"left" valign=3D"top" style=3D"padding-left: 44px;" class=
+=3D"nomob"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+ <td align=3D"left" valign=3D"top" style=3D"font-family: 'Open Sans', Arial=
+, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-decoration: =
+none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/PNUL90/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" target=3D"_blank"
+><strong>Travel</strong></a></td>
+ <td style=3D"padding-left: 13px;" class=3D"nomob"><img src=3D"http://image=
+.confused.com/confused/2014_Q2/Confused_14Q2_Proj_Reloaded/html/images/img_=
+nav_arrow.png" width=3D"5" height=3D"9" alt=3D"" style=3D"display:block; bo=
+rder:none; outline:none; text-decoration:none;"/></td>
+     </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!-- End Nav Bar -->
+
+<!-- Body Content --><!-- Body Content -->
+<table style=3D"width: 100pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100=3D"#eff8ff">
+<tr>
+<td style=3D"padding: 10px 0 10px 0;" align=3D"center" valign=3D"top" bgcol=
+or=3D"#eff8ff">
+<table class=3D"table94per" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"640">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/DXYDTI/WH=
+/h?a=3D741" style=3D"text-decoration: none;"
+><img class=3D"image_resize" style=3D"display:block; border:none; outline:n=
+one; text-decoration:none;" src=3D"http://img.ed4.net/confusedcom/images/li=
+fe/family-walk.jpg" alt=3D"Family walking" width=3D"640" /></a></td>
+</tr>
+<tr>
+<td style=3D"line-height:0px; font-size:0px;" align=3D"left" valign=3D"top">
+<div class=3D"show_in_mob" style=3D"display: none; font-size: 0; max-height=
+: 0; height: 0px; width: 0px; overflow: hidden; mso-line-height-rule: exact=
+ly; -webkit-text-size-adjust: none;">
+          <!--[if !mso]><!-->
+          <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/DXYDTE/WH=
+/h?a=3D741" style=3D"text-decoration: none; " target=3D"_blank"
+><img class=3D"image_resize" style=3D"display:block; border:none; outline:n=
+one; text-decoration:none;" src=3D"http://img.ed4.net/confusedcom/images/li=
+fe/family-walk.jpg" alt=3D"Family walking" width=3D"640" /></a>
+          <!--<![endif]-->
+        </div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Content --><!-- Body Content -->
+<table style=3D"width: 100pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td style=3D"padding: 10px 0 10px 0;" align=3D"center" valign=3D"top" bgcol=
+or=3D"#eff8ff">
+<table class=3D"table94per" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"640">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<!--  Header 1a  -->
+<td style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 24px; color: #000a8c; text-decoration: none; line-height: 30px; paddin=
+g: 0px 0 26px 0px;" align=3D"left" valign=3D"top">&pound;60 cashback for a =
+limited time only**</td>
+<!--  End Header 1a  -->
+=20=20=20=20=20=20=20=20=20=20=20=20
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td align=3D"left" valign=3D"top">
+<table class=3D"table" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"300" align=3D"left">
+<tr>
+<td align=3D"left" valign=3D"top">
+                    <!--  CTA 1  -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td class=3D"font13" style=3D"font-family: 'Open Sans', Arial, Helvetica, s=
+ans-serif; font-size: 14px; color: #545454; text-decoration: none; line-hei=
+ght: 19px; padding-bottom:15px; " align=3D"left" valign=3D"top">Having life=
+ insurance gives you peace of mind that your loved ones will be financially=
+ protected should the worst happen.
+<br /><br />
+For a limited time only, you could get &pound;60 cashback** when you buy yo=
+ur life insurance through <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/4VZM8L/WH=
+/h?a=3D741"
+>Confused.com</a>.</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td style=3D"padding-bottom: 12px;" align=3D"left" valign=3D"top">
+<table class=3D"table" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"190">
+<tr valign=3D"middle">
+<td class=3D"green_cta_bg noheight" height=3D"44" align=3D"center" bgcolor=
+=3D"#90c029" background=3D"http://image.confused.com/confused/2014_Q2/Confu=
+sed_14Q2_Proj_Reloaded/html/images/green_cta_bg3.png">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr align=3D"center" valign=3D"top">
+<td style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-s=
+ize: 14px; color: #003414; text-decoration: none; line-height: 14px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/Z80VL3/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 14px; color: #003414; text-decoration: none; line-height: 14px=
+;" class=3D"cta_txt_link" target=3D"_blank"
+><b>COMPARE LIFE INSURANCE</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td class=3D"font13" style=3D"font-family: 'Open Sans', Arial, Helvetica, s=
+ans-serif; font-size: 14px; color: #545454; text-decoration: none; line-hei=
+ght: 19px; padding-bottom:15px; " align=3D"left" valign=3D"top">If you pref=
+er talking to a person, you can call us direct on 0330 333 8165^, or <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/HI9JWM/WH=
+/h?a=3D741"
+>request a call back </a>and one of our friendly specialists will contact y=
+ou. <br /><br />
+Best wishes
+<br />
+The <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/K9RNDX/WH=
+/h?a=3D741"
+>Confused.com</a> team.</td>
+</tr>
+</table>
+<!--  End CTA 1  -->
+                    <!--  Mobile Hero Image  -->
+<div class=3D"show_in_mob" style=3D"display: none; font-size: 0; max-height=
+: 0; height: 0px; width: 0px; overflow: hidden; mso-line-height-rule: exact=
+ly; -webkit-text-size-adjust: none;">
+                      <!--[if !mso]><!-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table class=3D"table_top20" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"http://www.confused.com/campaign/email-campaign/life-insurance/lif=
+e-insurance-ii-212?Mediacode=3D741" target=3D"_blank"
+><img class=3D"image_resize" style=3D"display:block; border:none; outline:n=
+one; text-decoration:none;" src=3D"http://img.ed4.net/confusedcom/images/li=
+fe/bullets1.jpg" alt=3D"Why choose Confused.com" /></a></td>
+</tr>
+</table>
+<!--<![endif]-->
+                      </div>
+<!--  End Mobile Hero Image  --></td>
+</tr>
+</table>
+<!--  Hero Image  -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"280" align=3D"right">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"http://www.confused.com/campaign/email-campaign/life-insurance/lif=
+e-insurance-ii-212?Mediacode=3D741" target=3D"_blank"
+><img style=3D"display:block; border:none; outline:none; text-decoration:no=
+ne;" src=3D"http://img.ed4.net/confusedcom/images/life/bullets-d2.jpg" alt=
+=3D"Why choose Confused.com" width=3D"280" /></a></td>
+</tr>
+<tr class=3D"table94per">
+<td style=3D"line-height:0px; font-size:0px;" align=3D"left" valign=3D"top">
+<div class=3D"show_in_mob" style=3D"display: none; font-size: 0; max-height=
+: 0; height: 0px; width: 0px; overflow: hidden; mso-line-height-rule: exact=
+ly; -webkit-text-size-adjust: none;">
+                      <!--[if !mso]><!-->
+                      <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/FDE95M/WH=
+/h?a=3D741" style=3D"text-decoration: none; " target=3D"_blank"
+><img class=3D"image_resize" style=3D"display:block; border:none; outline:n=
+one; text-decoration:none;" src=3D"http://img.ed4.net/confusedcom/images/li=
+fe/bullets1.jpg" alt=3D"Why choose Confused.com" width=3D"640" /></a>
+                      <!--<![endif]-->
+                    </div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Content --><!-- Body Content -->
+<table style=3D"width: 100pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+<td style=3D"padding: 10px 0 10px 0;" align=3D"center" valign=3D"top" bgcol=
+or=3D"#eff8ff">
+<table class=3D"table94per" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"640">
+<tr>
+<!--  Header 1a  -->
+<td align=3D"left" valign=3D"top"> <font style=3D"font-family: 'Open Sans',=
+ Arial, Helvetica, sans-serif; font-size: 14px; color: #545454; text-decora=
+tion: none; line-height: 19px; padding: 10px 0px;">*Price based on a non-sm=
+oking 32 year old insured over 25 years for &pound;100,000 of cover on a de=
+creasing term policy, postcode CF10 1PZ. Prices correct on 25.11.14.<br /><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/4VZM88/WH=
+/h?a=3D741"
+><b>**Terms and conditions apply</b></a> <br /><br />
+^Lines are open between 11am and 8.30pm Monday-Wednesday; 10am and 7pm on T=
+hursday; & 9am and 4pm Friday. Calls are charged at your local rate from a =
+mobile.</font></td>
+<!--  End Header 1a  -->
+=20=20=20=20=20=20=20=20
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Content --><!-- End Body Content -->
+
+<!-- Footer Nav -->
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 30px 0;" class=3D=
+"nopadding"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"640" class=3D"table">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open San=
+s', Arial, Helvetica, sans-serif; font-size: 13px; color: #080a8c; text-dec=
+oration: none; line-height: 16px;"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/OFP1Q0/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>About</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/VTG635/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Contact&nbsp;us</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/NR3UEC/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>FAQs</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/52756J/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Press</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/1OVAHQ/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Privacy</strong></a><span class=3D"nomob">&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/4VZM8R/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 13px; color: #080a8c; text-decoration: none; line-height: 16px=
+;" class=3D"footerNav" target=3D"_blank"
+><strong>Terms&nbsp;&amp;&nbsp;conditions</strong></a></td>
+      </tr>
+    </table></td>
+  </tr>
+=20=20
+</table>
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;" class=3D"nomob">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 0px 0;">
+
+    <table width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" a=
+lign=3D"center" bgcolor=3D"#edf5fc" style=3D"width:640px !important; margin=
+:0; padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rs=
+pace:0pt;">
+  <tr>
+    <td style=3D"padding-bottom:2px; line-height:0px; font-size:0px;" bgcol=
+or=3D"#eff8ff">&nbsp;</td>
+  </tr>
+</table>
+ </td>
+  </tr>
+=20=20
+</table>
+<!-- End Footer Nav -->
+
+<!--  Footer  -->
+<table width=3D"100n=3D"center" bgcolor=3D"#ffffff" style=3D"width:100padding:0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt;">
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"padding: 50px 0;"><table b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"footerWidth" width=
+=3D"640">
+        <tr>
+          <td align=3D"center" valign=3D"top" style=3D"font-family: 'Open S=
+ans', Arial, Helvetica, sans-serif; font-size: 12px; color: #323232; text-d=
+ecoration: none; line-height: 20px;">&#169; Copyright 2015 Confused.com. Al=
+l&nbsp;rights&nbsp;reserved. <br />
+            This email is sent for and on behalf of Inspop.com Limited trad=
+ing as Confused.com. Inspop.com Limited registered in England and Wales at =
+3rd Floor, Greyfriars House, Greyfriars Road, Cardiff CF10 3AL (Reg. No.038=
+57130). Inspop.com Limited is authorised and regulated by the Financial Con=
+duct Authority (Firm reference number: 310635).<br /><br />Confused Life is=
+ arranged and administered by Direct Life & Pension Services Ltd, who are a=
+uthorised and regulated by the Financial Conduct Authority. Registered offi=
+ce; Pinnacle House, A1 Barnet Way, Borehamwood, Hertfordshire WD6 2XX. Regi=
+stered in England, No 2467691.
+            <span class=3D"nomob"><br />
+            <br />
+            </span><span class=3D"footerWrapLink2"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/PNUL9M/WH=
+/h?a=3Dhttp://view.ed4.net/v/D44VV00/MJNFGG/C91A6QK/3WCZEC/&b=3D741" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 12px=
+; color: #323232; text-decoration: underline; line-height: 20px;" class=3D"=
+font12 " target=3D"_blank"
+>If this email is not displayed correctly, please&nbsp;click&nbsp;here</a><=
+/span> <span class=3D"nomob">|</span> <span class=3D"footerWrapLink"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/LSF3YA/WH=
+/h?a=3Dhttp://view.ed4.net/v/D44VV00/MJNFGG/C91A6QK/3WCZEC/&b=3D741" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 12px=
+; color: #323232; text-decoration: underline; line-height: 20px;" class=3D"=
+font12" target=3D"_blank"
+>View this email in your browser</a></span> <span class=3D"nomob"><br />
+            <br />
+            </span>Add us to your address book<br />
+            To ensure our emails are delivered to your inbox please add our=
+ address to your address book or safe sender list.<br />
+            <br />
+            Unsubscribes<br />
+            We are sending you this email because you registered on our web=
+site. If you would prefer not to receive further
+            marketing emails from Confused.com then please
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+             <a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/CWDIZG/WH=
+/h?a=3D3WCZEC&b=3Dlsheehy@fs.net&c=3D700295261&d=3DMJNFGG&e=3D{f264a9db-59a=
+2-4bea-8c69-d0c2bf0aff32}&f=3D{eab7c435-6478-48e8-98b1-29f89bca1262}" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 12px=
+; color: #323232; text-decoration: underline; line-height: 20px;" target=3D=
+"_blank"
+>click here</a>=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20
+             to unsubscribe.<br />
+            <span class=3D"footerWrapLink2"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/3CA7GP/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 12px; color: #323232; text-decoration: underline; line-height:=
+ 20px;" class=3D"font12 " target=3D"_blank"
+>Privacy policy</a></span> <span class=3D"nomob">|</span> <span class=3D"fo=
+oterWrapLink"><a
+ href=3D"http://link.confused.com/r/D44VV00/NJLOQB/FFDQLD/4V79KQX/PNUL9K/WH=
+/h?a=3D741" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif=
+; font-size: 12px; color: #323232; text-decoration: underline; line-height:=
+ 20px;" class=3D"font12 " target=3D"_blank"
+>Terms and conditions</a></span></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!--  End Footer  -->
+=20=20=20
+<!-- End Master template  -->
+</body>
+</html><img height=3D"1" width=3D"1" src=3D"http://link.confused.com/o/D44V=
+V00/NJLOQB/FFDQLD/4V79KQX/RPRP/MS"><img height=3D"1" width=3D"1" src=3D"htt=
+p://link.confused.com/o/D44VV00/NJLOQB/FFDQLD/4V79KQX/RPRP/52"><!-- [[D44VV=
+00-MJNFGG-NJLOQB-FFDQLD-4V79KQX-M-M2-20150112-691555f282466]] -->
+
+---_-_-_-_-_1234567890--
+

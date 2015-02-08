@@ -1,0 +1,465 @@
+From @..  Mon Jan 19 16:57:00 2015
+Return-Path: <@..>
+X-Original-To: fsadbebu@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 64057DE; Mon, 19 Jan 2015 16:57:00 +0000 (UTC)
+Received: from listas.cebem.org (listas.cebem.org [199.217.113.177])
+    by .. with SMTP id 2vrm7ftihh6kawvfj6d9gjdmbw;
+    for fsadbebu@fs.net;
+    Mon, 19 Jan 2015 16:57:00 +0000 (UTC)
+    (envelope-from boletin_redesma-owner@listas.cebem.org)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.217.113.177;
+    envelope-from=<boletin_redesma-owner@listas.cebem.org>;
+    helo=listas.cebem.org; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.217.113.177; client-port=52542;
+    syn-fingerprint=14600:52:1:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 154.54.10.61 154.54.0.161 154.54.28.73 154.54.80.186
+    154.24.20.194 38.88.130.34 209.239.125.3 199.217.113.177;
+    network-path-time=1421686620
+Received: by listas.cebem.org (Postfix, from userid 1003)
+	id 2677B4BA3451; Mon, 19 Jan 2015 12:56:59 -0400 (BOT)
+X-Original-To: boletin_redesma@listas.cebem.org
+Delivered-To: boletin_redesma@listas.cebem.org
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail-yh0-f47.google.com (mail-yh0-f47.google.com [209.85.213.47])
+	by listas.cebem.org (Postfix) with ESMTPS id D55E84BA321E
+	for <boletin_redesma@listas.cebem.org>; Mon, 19 Jan 2015 09:43:58 -0400 (BOT)
+Received: by mail-yh0-f47.google.com with SMTP id z6so2794410yhz.6
+        for <boletin_redesma@listas.cebem.org>; Mon, 19 Jan 2015 05:43:57 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:from:to:subject:date:mime-version
+         :content-type:importance;
+        bh=kqVBbqvIqAi4J056LM+nb6FmyXZwIsQHFKT18MYtREc=;
+        b=K1gD4pLo15Sbv296qxDXZEYcJP/E3agtY+NnoGdop/LsqFBkcQCeFbiMKGXcG1wLqg
+         km3DZlgIXLThnroFenxShxy9QRSPEF0XRiznkjJ3NZe2Jmvnjvrav+Ibyehfdo0kH63n
+         hhJdbKt6Yi4eVh6tOh7i9oCL+jaAF4Pw/fbKd5Mgva9Qn5URJIDLXAxUXHJyZWbMXjJn
+         YxoesbVGNAwUNZNMw0x9tnwWw/lkiywwH2iSTyj3dgvKlIa5Jcl4lbTTB5B8WjsO+Hu6
+         1414WjaVBaW46fN6VjaAuJYDFIcnw/4jhUaG5eqoHCJZn6frfyd328XyDnNyiSq53q1V
+         NmZw==
+X-Gm-Message-State: ALoCoQnu8RhXtsf+6JFEQhi3PAnaC3VQ3ACvpQ5yUHODjgS/wDCKxPmI4eI1eq0M020b4cDVv8QR
+X-Received: by 10.170.81.87 with SMTP id x84mr20937129ykx.95.1421675037560;
+        Mon, 19 Jan 2015 05:43:57 -0800 (PST)
+Received: from CebemSelva (cebem.org. [200.75.172.238])
+        by mx.google.com with ESMTPSA id s63sm7797520yhf.7.2015.01.19.05.43.54
+        for <boletin_redesma@listas.cebem.org>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 19 Jan 2015 05:43:56 -0800 (PST)
+Message-ID: <1CCFE7CBF1AC46AF90BE1780CF634067@CebemSelva>
+From: =?utf-8?Q?Bolet=C3=ADn_REDESMA?= <@..>
+To: <@..>
+Date: Mon, 19 Jan 2015 09:43:41 -0400
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+X-Validation-by: selva@cebem.org
+Subject: [boletin_redesma] =?UTF-8?Q?Fundaci=C3=B3n_CONSTRUIR=3A_Convocato?=
+ =?UTF-8?Q?ria=3A_Contrato_de_subdonaci=C3=B3n_para_el_desarrollo_de_video?=
+ =?UTF-8?Q?_documental?=
+Reply-To: =?utf-8?Q?Bolet=C3=ADn_REDESMA?= <@..>
+X-Loop: boletin_redesma@listas.cebem.org
+X-Sequence: 1700
+Errors-to: @..
+Precedence: list
+Precedence: bulk
+Sender: @..
+X-no-archive: yes
+List-Id: <boletin_redesma.listas.cebem.org>
+List-Archive: <http://listas.cebem.org/sympa/arc/boletin_redesma>
+List-Help: <mailto:sympa@listas.cebem.org?subject=help>
+List-Owner: <mailto:boletin_redesma-request@listas.cebem.org>
+List-Post: <mailto:boletin_redesma@listas.cebem.org>
+List-Subscribe: <mailto:sympa@listas.cebem.org?subject=subscribeList-Unsubscribe: <mailto:sympa@listas.cebem.org?subject=unsubscribeContent-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD><TITLE>Redesma Boletin</TITLE><BASE=20
+href=3D"http://www.redesma.org/boletin/bol_2015/fundacion_construir/boletin=
+.html"><!DOCTYPE>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type>
+<META name=3Ddescription=20
+content=3D"Este bolet=C3=ADn es elaborado a solicitud de instituciones que =
+tienen inter=C3=A9s en difundir informaci=C3=B3n espec=C3=ADfica e inextens=
+a, como requerimientos de personal, convocatorias, posturas en particular s=
+obre alg=C3=BAn tema o eventos especiales.&#10;Con este Bolet=C3=ADn Especi=
+al,  se asegura a las instituciones interesadas, que la informaci=C3=B3n a =
+ser difundida, llegar=C3=A1 a un amplio grupo de lectores en el continente =
+y en el resto del mundo.&#10;Este bolet=C3=ADn es emitido en cualquier fech=
+a y su emisi=C3=B3n est=C3=A1 a sujeta a la  aprobaci=C3=B3n previa de la i=
+nstituci=C3=B3n que contrata el servicio.">
+<STYLE type=3Dtext/css>
+<!--
+.Estilo5 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.Estilo6 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003300;
+	font-size: 12px;
+}
+.Estilo9 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003300;
+	font-size: 18px;
+	font-weight: bold;
+}
+-->
+</STYLE>
+</HEAD>
+<BODY dir=3Dltr leftMargin=3D0 topMargin=3D0 marginwidth=3D"0" marginheight=
+=3D"0">
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>&nbsp;</DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: "Calibri"; F=
+ONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; DISPLAY: inline'>
+<TABLE style=3D"WIDTH: 650px; COLOR: #000000" width=3D650 align=3Dcenter bo=
+rder=3D0>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV align=3Dcenter><FONT color=3D#003300><FONT color=3D#003300 size=
+=3D1=20
+      face=3D"Arial, Helvetica, sans-serif">Si no puede leer el bolet=C3=AD=
+n=20
+      correctamente entre a <A=20
+      href=3D"http://www.redesma.org/boletin/bol_2015/fundacion_construir/b=
+oletin.html"=20
+      target=3D_blank>esta direcci=C3=B3n</A></FONT><BR><FONT size=3D1=20
+      face=3D"Arial, Helvetica, sans-serif">Usted ha recibido el bolet=C3=
+=ADn REDESMA=20
+      porque est=C3=A1 registrado como suscriptor en nuestra lista de corre=
+o. Para=20
+      seguir recibiendo nuestros correos sin problemas, por favor incluye e=
+sta=20
+      direcci=C3=B3n de email <A=20
+      href=3D"mailto:boletin_redesma@cebem.org.bo">boletin_redesma@cebem.or=
+g.bo</A>=20
+      en su libreta de direcciones, contactos o emails. Si no desea seguir=
+=20
+      recibi=C3=A9ndolo hacer <A=20
+      href=3D"mailto:boletin_redesma-unsubscribe@listas.cebem.org?subject=
+=3Dremove-redesma&amp;body=3Dremove-redesma_extra"=20
+      target=3D_blank>CLICK AQUI</A></FONT></FONT> </DIV></TD></TR></TBODY>=
+</TABLE>
+<TABLE style=3D"WIDTH: 650px; COLOR: #000000" cellSpacing=3D0 cellPadding=
+=3D0=20
+width=3D650 align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD><IMG border=3D0 alt=3DCEBEM/REDESMA=20
+      src=3D"http://www.redesma.org/boletin/bol_2003/grafico/cabeza.gif" wi=
+dth=3D650=20
+      height=3D70 useMap=3D#Map></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADD=
+ING-RIGHT: 2px"=20
+    bgColor=3D#006600><FONT color=3D#ffff33 size=3D2=20
+      face=3D"Arial, Helvetica, sans-serif"><STRONG>REDESMA, Bolet=C3=ADn 1=
+5-18 EXTRA=20
+      XIII: 19 de Enero de 2015</STRONG></FONT></TD></TR>
+  <TR>
+    <TD>
+      <TABLE=20
+      style=3D"BORDER-TOP: #023c02 2px solid; BORDER-RIGHT: #023c02 2px sol=
+id; BORDER-BOTTOM: #023c02 1px solid; COLOR: #000000; BORDER-LEFT: #023c02 =
+2px solid"=20
+      cellSpacing=3D0 cellPadding=3D10 width=3D"100        <TBODY>
+        <TR>
+          <TD style=3D"BORDER-BOTTOM: #023c02 1px solid" bgColor=3D#fdf8f1=
+=20
+          vAlign=3Dtop>
+            <TABLE style=3D"COLOR: #000000" cellSpacing=3D1 cellPadding=3D0=
+=20
+            width=3D"100              <TBODY>
+              <TR>
+                <TD bgColor=3D#fff1dd width=3D"23                  <DIV align=3Dcenter><FONT size=3D2=20
+                  face=3D"Arial, Helvetica, sans-serif"><A=20
+                  href=3D"http://www.cebem.org/inscripcion.php"=20
+                  target=3D_blank>Suscribirse</A></FONT></DIV></TD>
+                <TD width=3D"10                <TD bgColor=3D#fff1dd width=3D"28                  <DIV align=3Dcenter><FONT size=3D2=20
+                  face=3D"Arial, Helvetica, sans-serif"><A=20
+                  href=3D"mailto:selva@cebem.org?subject=3Dsuscribir a rede=
+sma&amp;body=3DSuscribir a  REDESMA - Puede Ingresar a este enlace http://l=
+istas.cebem.org/paginas/editab/inscripcion.php - Recuerde revisar la carpet=
+a de correo no deseado o similar, muchas veces nuestros Boletines son confu=
+ndidos como mensajes no deseados y van a parar a estas carpetas. En algunos=
+ casos nuestros suscriptores no pueden recibir nuestros Boletines por que s=
+us servidores de e-mail, usan reglas y filtros que bloquean nuestros Boleti=
+nes, verifique con su proveedor."=20
+                  target=3D_blank>Suscribir a un amigo</A></FONT></DIV></TD>
+                <TD width=3D"8                <TD bgColor=3D#fff1dd width=3D"31                  <DIV align=3Dcenter><FONT size=3D2=20
+                  face=3D"Arial, Helvetica, sans-serif"><A=20
+                  href=3D"mailto:boletin_redesma-unsubscribe@listas.cebem.o=
+rg?subject=3Dremove-redesma&amp;body=3Dremove-redesma_extra"=20
+                  target=3D_blank>Borrarse de la=20
+              lista</A></FONT></DIV></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD bgColor=3D#fff1dd vAlign=3Dtop>
+            <TABLE style=3D"COLOR: #000000" cellPadding=3D8 width=3D"98lign=3Dcenter=20
+            border=3D0>
+              <TBODY>
+              <TR>
+                <TD bgColor=3D#ffffff>
+                  <P class=3DEstilo6 align=3Dcenter><IMG=20
+                  src=3D"http://www.redesma.org/boletin/bol_2015/fundacion_=
+construir/logos.jpg"=20
+                  width=3D600 height=3D98></P>
+                  <P class=3DEstilo9 align=3Dcenter>Convocatoria: Contrato =
+de=20
+                  subdonaci=C3=B3n para el desarrollo de video documental</=
+P>
+                  <P class=3DEstilo6 align=3Djustify>Fundaci=C3=B3n CONSTRU=
+IR, con el=20
+                  apoyo de la Uni=C3=B3n Europea en Bolivia se encuentra=20
+                  desarrollando el proyecto =E2=80=9CAcceso a la Justicia y=
+ Defensa=20
+                  Legal de los Derechos Humanos de los Privados de Libertad=
+=E2=80=9D=20
+                  (EIDRH/2013/335-809). En ese sentido, Fundaci=C3=B3n CONS=
+TRUIR=20
+                  convoca a entidades sin&nbsp; fines de lucro a nivel naci=
+onal=20
+                  e internacional con experiencia en la tem=C3=A1tica y en =
+el=20
+                  desarrollo de materiales audiovisuales con fuerte enfoque=
+ de=20
+                  sensibilizaci=C3=B3n sobre temas de justicia y derechos=20
+                  fundamentales, a presentar sus propuestas para el desarro=
+llo=20
+                  de un video documental y cuatro c=C3=A1psulas tem=C3=A1ti=
+cas sobre la=20
+                  situaci=C3=B3n de los privados de libertad y la detenci=
+=C3=B3n=20
+                  preventiva en Bolivia, conforme a los lineamientos y=20
+                  especificaciones determinados en el documento t=C3=A9rmin=
+os de=20
+                  referencia.</P>
+                  <P class=3DEstilo6>Los <A=20
+                  href=3D"http://www.fundacionconstruir.org/boletin/boletin=
+_mensaje.php?id=3D56"=20
+                  target=3D_blank>T=C3=A9rminos de Referencia</A> (pueden d=
+escargarlo=20
+                  de la p=C3=A1gina web <A=20
+                  href=3D"http://www.fundacionconstruir.org/boletin/boletin=
+_mensaje.php?id=3D56"=20
+                  target=3D_blank>http://www.fundacionconstruir.org</A>)</P>
+                  <P class=3DEstilo6 align=3Djustify>Las propuestas deber=
+=C3=A1n ser=20
+                  enviadas en sobre cerrado con el t=C3=ADtulo =E2=80=9CCon=
+vocatoria video=20
+                  documental prisi=C3=B3n preventiva=E2=80=9D a oficinas de=
+ Fundaci=C3=B3n=20
+                  CONSTRUIR ubicadas en la calle Lis=C3=ADmaco Guti=C3=A9rr=
+ez N=C2=BA 379 entre=20
+                  avenida 20 de octubre y avenida 6 de agosto (Sopocachi). =
+La=20
+                  Paz =E2=80=93 Bolivia o enviadas por correo electr=C3=B3n=
+ico a la direcci=C3=B3n=20
+                  <A href=3D"mailto:ssaavedra@fundacionconstruir.org"=20
+                  target=3D_blank>ssaavedra@fundacionconstruir.org</A>,<STR=
+ONG>=20
+                  hasta las 17:00 horas del d=C3=ADa 13 de febrero de 2015<=
+/STRONG>,=20
+                  impostergablemente. </P>
+                  <HR align=3Dcenter>
+
+                  <DIV align=3Dcenter><FONT color=3D#003300 size=3D1=20
+                  face=3D"Arial, Helvetica, sans-serif"><STRONG><EM>ESTE BO=
+LET=C3=8DN=20
+                  SE PRODUCE POR ENCARGO DE FUNDACI=C3=93N CONSTRUIR=20
+                  </EM></STRONG></FONT><BR><BR></DIV>
+                  <TABLE style=3D"COLOR: #000000" borderColor=3D#003300=20
+                  cellSpacing=3D0 cellPadding=3D0 width=3D"100                    <TBODY>
+                    <TR>
+                      <TD bgColor=3D#f8dc6f>
+                        <DIV align=3Dcenter><SPAN=20
+                        style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helve=
+tica, sans-serif; COLOR: #003300">REDESMA=20
+                        es una iniciativa de CEBEM, la emisi=C3=B3n de un b=
+olet=C3=ADn=20
+                        EXTRA es un servicio que REDESMA ofrece y&nbsp; que=
+=20
+                        solamente se encarga de difundir la informaci=C3=B3=
+n que nos=20
+                        hacen llegar nuestros ocasionales clientes,=20
+                        REDESMA&nbsp; ofrece&nbsp; este servicio a todo p=
+=C3=BAblico=20
+                        que est=C3=A9 interesado en difundir algo espec=C3=
+=ADfico y en=20
+                        extenso, para mayor informaci=C3=B3n: <A=20
+                        href=3D"mailto:redesma@cebem.org"=20
+                        target=3D_blank>redesma@cebem.org</A></SPAN></DIV><=
+/TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABL=
+E></TD></TR>
+  <TR>
+    <TD>
+      <TABLE=20
+      style=3D"BORDER-TOP: #023c02 1px solid; BORDER-RIGHT: #023c02 1px sol=
+id; BORDER-BOTTOM: #023c02 1px solid; COLOR: #000000; BORDER-LEFT: #023c02 =
+1px solid"=20
+      cellSpacing=3D0 cellPadding=3D2 width=3D"100        <TBODY>
+        <TR>
+          <TD style=3D"BORDER-BOTTOM: #023c02 1px solid" bgColor=3D#f0fff0>
+            <DIV=20
+            style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, sans-s=
+erif; COLOR: #003300"=20
+            align=3Dcenter>
+            <TABLE style=3D"COLOR: #003300" width=3D"100              <TBODY>
+              <TR>
+                <TD bgColor=3D#003300>
+                  <DIV=20
+                  style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica, =
+sans-serif; FONT-WEIGHT: bold; COLOR: #ff0"=20
+                  align=3Dcenter>CEBEM - REDESMA COMPARTE CON=20
+              USTEDES</DIV></TD></TR></TBODY></TABLE><BR>
+            <TABLE style=3D"COLOR: #003300" width=3D"100              <TBODY>
+              <TR>
+                <TD bgColor=3D#f9fff9>
+                  <UL=20
+                  style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, =
+sans-serif; COLOR: #030">
+                    <LI>CTB - BOLIVIA: -Requerimiento de Consultor(a) Exper=
+to(a)=20
+                    nacional o regional en turismo comunitario con enfoque =
+en=20
+                    desarrollo territorial. <A=20
+                    href=3D"http://www.redesma.org/boletin/bol_2015/ctb_bol=
+ivia/boletin.html"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI>UNIVERSIDAD LOYOLA: -Curso Post =E2=80=93 t=C3=ADtu=
+lo Virtual de=20
+                    Evaluaci=C3=B3n Ambiental Estrat=C3=A9gica. <A=20
+                    href=3D"http://www.redesma.org/boletin/bol_2015/u_loyol=
+a/boletin.html"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI>Visi=C3=B3n Mundial: -Segunda Convocatoria P=C3=BAb=
+lica =E2=80=9CEstudio=20
+                    de L=C3=ADnea de Base=E2=80=9D. <A=20
+                    href=3D"http://www.redesma.org/boletin/bol_2015/vision_=
+mundial/boletin.html"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI>ETIKA - Cooperaci=C3=B3n Suiza - HELVETAS: -Requeri=
+miento de=20
+                    Especialista en Gesti=C3=B3n de Conocimientos y Comunic=
+aci=C3=B3n=20
+                    (Sede La Paz). <A=20
+                    href=3D"http://www.redesma.org/boletin/bol_2015/etika_h=
+elvetas/boletin.html"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI class=3DEstilo5>Edici=C3=B3n especial de la revista=
+ HERENCIA.=20
+                    <A=20
+                    href=3D"http://www.redesma.org/publicaciones.php?ID=3D2=
+749&amp;_pagi_pg=3D16"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI class=3DEstilo5>BOLETIN CEBEM - REDESMA A=C3=B1o 7 =
+N=C3=BAmero 10 -=20
+                    24 de noviembre de 2014.<A=20
+                    href=3D"http://www.cebem.org/boltax/index.php?IDb=3D61"=
+=20
+                    target=3D_blank> M=C3=A1s Informaci=C3=B3n</A>=20
+                    <LI class=3DEstilo5>Nuevo N=C3=BAmero, REVISTA VIRTUAL =
+REDESMA:=20
+                    "Cambio Clim=C3=A1tico". <A href=3D"http://goo.gl/uqsgT=
+Z"=20
+                    target=3D_blank>M=C3=A1s Informaci=C3=B3n</A> </LI></UL>
+                  <HR align=3Dcenter>
+
+                  <TABLE style=3D"COLOR: #003300" width=3D"100                    <TBODY>
+                    <TR>
+                      <TD bgColor=3D#f0fff0>
+                        <DIV=20
+                        style=3D"FONT-SIZE: 10px; FONT-FAMILY: arial, helve=
+tica, sans-serif; COLOR: #030"=20
+                        align=3Dcenter>Si usted quiere compartir sus inquie=
+tudes=20
+                        suscr=C3=ADbase a los boletines de<A=20
+                        href=3D"http://www.cebem.org/inscripcion.php"=20
+                        target=3D_blank> CEBEM - REDESMA</A> o envi=C3=A9 s=
+u=20
+                        informaci=C3=B3n y consultas para la emisi=C3=B3n d=
+e los boletines=20
+                        a los correos <A href=3D"mailto:cebem@cebem.org"=20
+                        target=3D_blank>cebem@cebem.org</A> - <A=20
+                        href=3D"mailto:redesma@cebem.org">redesma@cebem.org=
+</A>.</DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+            <TABLE style=3D"COLOR: #000000" cellSpacing=3D0 cellPadding=3D0=
+=20
+            width=3D"100              <TBODY>
+              <TR>
+                <TD width=3D"100                  <DIV=20
+                  style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, =
+sans-serif; COLOR: #003300"=20
+                  align=3Dcenter>
+                  <HR align=3Dcenter>
+                  <STRONG>Base de datos de profesionales:</STRONG><BR>Si de=
+sea=20
+                  formar parte de esa base de datos y ser considerado=20
+                  prioritariamente cuando se presenten oportunidades, reg=
+=C3=ADstrese=20
+                  en el siguiente <A=20
+                  href=3D"http://www.redesma.org/directoriop.php"=20
+                  target=3D_blank>ENLACE</A>. El acceso a la base es restri=
+ngido=20
+                  por lo cual se requerir=C3=A1 acceso para la misma.</DIV>
+                  <DIV=20
+                  style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica, =
+sans-serif; COLOR: #003300"=20
+                  align=3Dcenter></DIV></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD bgColor=3D#f8dc6f>
+            <P=20
+            style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, sans-s=
+erif; COLOR: #003300"=20
+            align=3Dcenter>La informaci=C3=B3n que compartimos es elaborada=
+ y=20
+            distribuida gratuitamente por CEBEM-REDESMA con noticias que us=
+tedes=20
+            nos env=C3=ADan, o que nosotros recopilamos. Todos los miembros=
+ de=20
+            nuestra lista han aceptado recibirla o solicitado su inclusi=C3=
+=B3n en la=20
+            misma. Si no desean recibir el bolet=C3=ADn por favor edite o d=
+arse de=20
+            baja de nuestras listas en esta direcci=C3=B3n <A=20
+            href=3D"http://listas.cebem.org/paginas/editab/index.php"=20
+            target=3D_blank>http://listas.cebem.org/paginas/editab/index.ph=
+p</A></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, sans-serif; CO=
+LOR: #003300"=20
+    vAlign=3Dmiddle>S=C3=ADguenos t=C3=A1mbien en: <A=20
+      href=3D"http://www.facebook.com/redesma" target=3D_blank><IMG border=
+=3D0=20
+      alt=3D"Facebook Redesma"=20
+      src=3D"http://www.cebem.org/boletines/bol_2013/img_cursos/Facebook.pn=
+g"=20
+      width=3D20 height=3D20></A>&nbsp;<A href=3D"https://plus.google.com/+=
+redesma"=20
+      target=3D_blank><IMG border=3D0 alt=3D"Google+ Redesma"=20
+      src=3D"http://www.cebem.org/boletines/bol_2013/img_cursos/Google.png"=
+=20
+      width=3D20 height=3D20></A>&nbsp;<A href=3D"http://twitter.com/redesm=
+acebem"=20
+      target=3D_blank><IMG border=3D0 alt=3D"Twitter Redesma"=20
+      src=3D"http://www.cebem.org/boletines/bol_2013/img_cursos/Twitter.png=
+"=20
+      width=3D20 height=3D20></A></TD></TR></TBODY></TABLE><MAP name=3DMap>=
+<AREA=20
+  href=3D"http://www.cebem.org" shape=3Drect target=3D_blank coords=3D411,4=
+,647,70><AREA=20
+  href=3D"http://www.redesma.org" shape=3Drect target=3D_blank=20
+coords=3D16,5,295,61></MAP></DIV></DIV></DIV></BODY></HTML>
+

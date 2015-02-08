@@ -1,0 +1,113 @@
+From @..  Tue Jan 13 22:27:13 2015
+Return-Path: <@..>
+X-Original-To: bzncp@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 2B9A0DE; Tue, 13 Jan 2015 22:27:13 +0000 (UTC)
+Received: from qs616.pair.com (qs616.pair.com [216.92.131.41])
+    by .. with SMTP id nfsdjcy78it5awy363u55fvnsn;
+    for bzncp@fs.net;
+    Tue, 13 Jan 2015 22:27:13 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=216.92.131.41; envelope-from=<>; helo=qs616.pair.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=216.92.131.41; client-port=59308;
+    syn-fingerprint=65535:51:1:60:M1380,N,W6,S,T; network-hops=8;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.56.26 63.235.56.154 0.0.0.0 216.92.131.41;
+    network-path-time=1421188033
+Received: by qs616.pair.com (Postfix)
+	id 2299EB960; Tue, 13 Jan 2015 17:27:11 -0500 (EST)
+Date: Tue, 13 Jan 2015 17:27:11 -0500 (EST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="F31BCB906.1421188031/qs616.pair.com"
+Message-Id: <20150113222711.2299EB960@qs616.pair.com>
+
+This is a MIME-encapsulated message.
+
+--F31BCB906.1421188031/qs616.pair.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host qs616.pair.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<celsashawnna@ability.com>: host qs3867.pair.com[216.92.127.68] said: 554 5.7.1
+    <celsashawnna@ability.com>: Recipient address rejected: Access denied (in
+    reply to RCPT TO command)
+
+--F31BCB906.1421188031/qs616.pair.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; qs616.pair.com
+X-Postfix-Queue-ID: F31BCB906
+X-Postfix-Sender: rfc822; bzncp@fs.net
+Arrival-Date: Tue, 13 Jan 2015 17:27:10 -0500 (EST)
+
+Final-Recipient: rfc822; celsashawnna@ability.com
+Original-Recipient: rfc822;celsashawnna@ability.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; qs3867.pair.com
+Diagnostic-Code: smtp; 554 5.7.1 <celsashawnna@ability.com>: Recipient address
+    rejected: Access denied
+
+--F31BCB906.1421188031/qs616.pair.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <bzncp@fs.net>
+Received: from localhost (localhost [127.0.0.1])
+	by qs616.pair.com (Postfix) with SMTP id F31BCB906
+	for <celsashawnna@ability.com>; Tue, 13 Jan 2015 17:27:10 -0500 (EST)
+Received: from [190.99.239.24] (unknown [190.99.239.24])
+	by qs616.pair.com (Postfix) with ESMTP id 738BCB8CB
+	for <celsashawnna@ability.com>; Tue, 13 Jan 2015 17:27:10 -0500 (EST)
+Message-ID: <982991525382443889591015@fs.net>
+From: <bzncp@fs.net>
+To: <celsashawnna@ability.com>
+Subject: Staff Wanted
+Date: 13 Jan 2015 10:59:09 -0600
+MIME-Version: 1.0
+Content-type: text/plain;
+ charset="cp-850"
+X-Mailer: Untonc tqfmu
+Content-Transfer-Encoding: quoted-printable
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant=
+ position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients =
+in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registratio=
+n on the our site: www.webscareer.com
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+
+
+--F31BCB906.1421188031/qs616.pair.com--
+

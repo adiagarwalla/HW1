@@ -1,0 +1,108 @@
+From @..  Mon Jan 12 21:47:29 2015
+Return-Path: <@..>
+X-Original-To: sgxdlziqq@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 7372DD6; Mon, 12 Jan 2015 21:47:29 +0000 (UTC)
+Received: from mail-pa0-f68.google.com (mail-pa0-f68.google.com [209.85.220.68])
+    by .. with SMTP id 29krdzdmja6inue3vmk5kx4yma;
+    for sgxdlziqq@fs.net;
+    Mon, 12 Jan 2015 21:47:29 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.220.68; envelope-from=<>; helo=mail-pa0-f68.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.220.68; client-port=59386;
+    syn-fingerprint=42900:47:0:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 72.14.239.100 64.233.175.32 209.85.142.201 72.14.239.209
+    216.239.46.208 72.14.236.169 209.85.220.68; network-path-time=1421099249
+Received: by mail-pa0-f68.google.com with SMTP id kq14so28381479pab.3
+        for <sgxdlziqq@fs.net>; Mon, 12 Jan 2015 13:47:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type;
+        bh=nIJevaBS4KTn7sth5tD8oPkymofX7GfiA+4sp3UBQh8=;
+        b=sk0drlRGDc48J3KVV1343iQiSbXVwVXr7IHVRi4099CCVSm0zNtiGU2oWTQmOoWnQB
+         G/XIwATyyMKxEISGPcX929C6s5XeLymtRJ3CcsoyPoMbWCw7BZeUx9Qz/nYCjYmDj91K
+         exmEa0dCySOTM3osTFovudNZIY5FoFOjpz7V/DWLr/JWTS3yGU3gK4tV9l9Tpg5TOLfu
+         M5TbV4+uaP1ReC/tC9lOwaJb1n+Syolp+ePaVMpxVVCTXomoF8tDdJujceO+Oz9hwY8J
+         ZQM/yv6ne0HHVR7SqTO6KlRMn6rB3ExYcZlnc7eMJoA8dwWeZ1c0FNhQFjezDL1wqqgi
+         jwOQ==
+X-Received: by 10.70.103.141 with SMTP id fw13mr47221919pdb.14.1421099233789;
+        Mon, 12 Jan 2015 13:47:13 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.70.103.141 with SMTP id fw13mr31115410pdb.14; Mon, 12 Jan 2015
+ 13:47:13 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: Ada.Wu@talent2.cn
+Subject: Delivery Status Notification (Failure)
+Message-ID: <001a11c33514054565050c7b73a0@google.com>
+Date: Mon, 12 Jan 2015 21:47:13 +0000
+Content-Type: text/plain; charset=UTF-8
+
+Delivery to the following recipient failed permanently:
+
+     Ada.Wu@talent2.cn
+
+Technical details of permanent failure: 
+Google tried to deliver your message, but it was rejected by the server for the recipient domain talent2.cn by mail.talent2.cn. [61.152.114.86].
+
+The error that the other server returned was:
+550 5.7.1 Message rejected due to content restrictions
+
+
+----- Original message -----
+
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:x-gm-message-state:message-id
+         :from:to:subject:date:mime-version:content-type:delivered-to;
+        bh=89fTg4t1E0NXy05O2qPJW2EOidBWW8bj2XrOKJExepg=;
+        b=NviZHnnvMkskdES0kEXgNzWdrVUwQtE1yYfOF4w9f2flJIYjYtJ/D15U1WC1OWldKd
+         fq3s/WWZofBgch7sTnCgTDAsFjXm4nIWx5nSIsgxD5Ak7Z+tz9s2nCIYTON8BfUUK1GR
+         T+9igEINNhWfJr17Y6zvGidYatQgRMdryQlEu7omwrmoSML5HI90nZxpB/2mAuAAR6kb
+         q+bbXmJdllQk85b4ZPY+tu1SuD2YS/p+QWfU9Opg61aO/6sDhG/ttsnAZ2Ala7P79vt9
+         1sPLOeUKCWSiusVuijEy3szOBCjkTvm49/vDv4tJZqdUFmDY2l9G9426Os4zBrBANAyv
+         4OXA==
+X-Original-Authentication-Results: mx.google.com;       spf=none (google.com: sgxdlziqq@fs.net does not designate permitted sender hosts) smtp.mail=sgxdlziqq@fs.net
+X-Received: by 10.70.103.141 with SMTP id fw13mr47220856pdb.14.1421099220406;
+        Mon, 12 Jan 2015 13:47:00 -0800 (PST)
+X-Gm-Message-State: ALoCoQl2R5um94wuIozsgnu818wcqmg+T7OU/qdhgkYzBnisK+jylj1ETcVYG32hl/UvtnjEgAfvFq4M/wI+YL6FkQ5adsVuorUoMO/uwMy587AjtmH3aYuFWAU4VRuRRpwKdYDDUCEx+TGQVO95Y+BWnSayVQ/amw==
+X-Received: by 10.70.103.141 with SMTP id fw13mr47220772pdb.14.1421099219363;
+        Mon, 12 Jan 2015 13:46:59 -0800 (PST)
+Return-Path: <sgxdlziqq@fs.net>
+Received: from psmtp.com (na3sys009amx189.postini.com. [74.125.149.170])
+        by mx.google.com with SMTPS id fd9si24631112pad.223.2015.01.12.13.46.56
+        for <ada.wu@talent2.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 12 Jan 2015 13:46:59 -0800 (PST)
+Received-SPF: none (google.com: sgxdlziqq@fs.net does not designate permitted sender hosts) client-ip=210.38.1.71;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: sgxdlziqq@fs.net does not designate permitted sender hosts) smtp.mail=sgxdlziqq@fs.net
+Received: from fs.net ([210.38.1.71]) by na3sys009amx189.postini.com ([74.125.148.14]) with SMTP;
+	Mon, 12 Jan 2015 21:46:57 GMT
+Received: from jc (unknown [136.76.211.148])
+	by fs.net with SMTP id ANgC8PVYqhJ96xYp.1
+	for <ada.wu@talent2.com>; Tue, 13 Jan 2015 05:54:39 +0800
+Message-ID: <841350A8FE70D68C330226630EB9DCE0@jc>
+From: "ofeanxvz" <sgxdlziqq@fs.net>
+To: <ada.wu@talent2.com>
+Subject: =?gb2312?B?MjAxNaOs0qrIw9bQsuPJz9fu09C829a1tcTB+b3av85mYw==?=
+	=?gb2312?B?b2twZHVvbSA=?=
+Date: Tue, 13 Jan 2015 05:54:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0A27_013B6547.1BCE9F40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-pstn-mail-from: <sgxdlziqq@fs.net>
+X-pstn-dkim: 0 skipped:not-enabled
+X-pstn-nxpr: disp=neutral, envrcpt=ada.wu@talent2.com
+X-pstn-nxp: bodyHash=0ccf6fe6fc2c5e19a779f97366303fec5f94b843, headerHash=9c1f9a3dd3899d37e3033c5ef349328f36581bcc, keyName=4, rcptHash=7eca7573296e9e57f19891901b5e32debf85fed1, sourceip=210.38.1.71, version=1
+Delivered-To: ada.wu@talent2.com
+X-pstn-nxp: bodyHash=0ccf6fe6fc2c5e19a779f97366303fec5f94b843, headerHash=9c1f9a3dd3899d37e3033c5ef349328f36581bcc, keyName=4, rcptHash=7eca7573296e9e57f19891901b5e32debf85fed1, sourceip=210.38.1.71, version=1
+

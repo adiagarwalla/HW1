@@ -1,0 +1,75 @@
+From @..  Wed Jan  7 10:00:20 2015
+Return-Path: <@..>
+X-Original-To: dsa@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9F89FDF; Wed,  7 Jan 2015 10:00:20 +0000 (UTC)
+Received: from smtp.auto2014insurancesavings.com (li874-193.members.linode.com [104.237.137.193])
+    by .. with SMTP id uhxvzurwtimqr55rvvzmftrrt2;
+    for dsa@fs.net;
+    Wed, 07 Jan 2015 10:00:20 +0000 (UTC)
+    (envelope-from 17838-5562454060-1134-dsa=fs.net@bounce.auto2014insurancesavings.com)
+Received-SPF: None; receiver=..;
+    client-ip=104.237.137.193;
+    envelope-from=<17838-5562454060-1134-dsa=fs.net@bounce.auto2014insurancesavings.com>;
+    helo=smtp.auto2014insurancesavings.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=104.237.137.193; client-port=53720;
+    syn-fingerprint=29200:53:1:52:M1380,N,N,S,N,W7; network-hops=14;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 63.146.27.198 213.248.102.206 173.192.18.172 173.192.18.134
+    173.192.18.231 70.87.255.66 70.87.254.78 67.18.7.90 104.237.137.193;
+    network-path-time=1420624820
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=auto2014insurancesavings.com;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To; i=hw@auto2014insurancesavings.com;
+ bh=r6iP7hv1rPPv62yT9AMoaK14SSY=;
+ b=X0R3AjzTtBwUkxqCxSYDWLamwA8nBgVIJ69PTRhSoHDYYey06N5/D195rqI37CXpyHgwIDAmzgzP
+   fdpwE/1Hhd5YtsMvwXIo17lGZtcQHG5SKXeCxsMJ6SdvAnX8vFTHQIH/XxHVUw3ZKXqEePiIIxOX
+   QK4Dzlxicx6m/Ct6/Sg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=auto2014insurancesavings.com;
+ b=Bx/E05++B2dChuxTt4K1sa0XIqcrjY87RvVNEAE5En+0vyY3fxxrk4Jd8N6/hcAsufDYRv8edQJE
+   7vqhZhf4Cn55pYIU4cZPmpcuu6Zja3650Xu3cKR6Ir4A/q9PmWHRTSwVoycPLMLODjE2lBp0hoFR
+   G9soBr9WKAXdlYqUs4Y=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5867406192ecbadc7734626ee14afb54b677325b"
+Date: Wed, 7 Jan 2015 04:59:18 -0500
+From: "Home Warranty" <@..>
+Reply-To: "Home Warranty" <@..>
+Subject: One Month + Roof Repair on Us - When You Sign Up Today!
+To: <@..>
+Message-Id: <20150107100020.9F89FDF@..>
+
+--5867406192ecbadc7734626ee14afb54b677325b
+Content-Type: text/html;
+
+<html>
+
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+</head>
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<br>
+<font face="Arial, Helvetica, sans-serif" size="2">
+<p><a href="http://www.auto2014insurancesavings.com/ch45aeh14b8c502ch46ehed26f2">
+<h1>Never Pay for Covered Home Repairs Again!</h1></a>
+ </p>
+</font>
+<a href="http://www.auto2014insurancesavings.com/ch45aeh14b8c502ch46ehed26f2"><img src="http://www.auto2014insurancesavings.com/5733be9cc0a0d177b8.jpg" border="0" /></a>
+<br>
+<br><br><br><br>
+<a href="http://www.auto2014insurancesavings.com/mh45aeh14b8c502ch46eh35e605"><img src="http://www.auto2014insurancesavings.com/ad8fae8ea95939c5bc.jpg" border="0" /></a><br>
+<br>
+<br>
+<br>
+<br>
+<a href="http://www.auto2014insurancesavings.com/uh45aeh14b8c502ch46eh661e31"><img src="http://www.auto2014insurancesavings.com/75e10fb700e14c7476.jpg" border="0" /></a><br>
+<img src="http://www.auto2014insurancesavings.com/oh45aeh14b8c502ch46ehd0786c" width="1" height="1" border="0" /><br>
+<br>
+</body>
+</html>
+

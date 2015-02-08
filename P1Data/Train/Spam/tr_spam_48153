@@ -1,0 +1,125 @@
+From @..  Fri Jan  2 21:11:19 2015
+Return-Path: <@..>
+X-Original-To: g661digi@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id ABD85DE; Fri,  2 Jan 2015 21:11:19 +0000 (UTC)
+Received: from mail02.grupodigitex.com (195.235.246.87 [195.235.246.87])
+    by .. with SMTP id x35guic2wjsnk7eutfw7pu77tn;
+    for g661digi@fs.net;
+    Fri, 02 Jan 2015 21:11:19 +0000 (UTC)
+    (envelope-from helpdesk_ticketing@grupodigitex.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.235.246.87;
+    envelope-from=<helpdesk_ticketing@grupodigitex.com>;
+    helo=mail02.grupodigitex.com; mechanism=ip4:195.235.246.87
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.235.246.87; client-port=59941;
+    client-dnsfail=195.235.246.87: name server failure;
+    syn-fingerprint=8192:112:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 205.171.251.106 63.235.40.198 213.140.36.241 5.53.7.21
+    84.16.6.158 213.140.50.86 80.58.87.198 81.46.1.98 0.0.0.0 0.0.0.0
+    217.124.114.250 193.152.61.214; network-path-time=1420233079
+Received: from corpesma1srv007.corp.grupodigitex.com ([10.0.200.254]) by mail02.grupodigitex.com with Microsoft SMTPSVC(7.5.7601.17514);
+	 Fri, 2 Jan 2015 22:10:39 +0100
+From: "Administrador" <@..>
+To: @..
+Subject: TICKETING - Petici� 288710 Modificada: CONFIGURACI� DE EXTENSIONES
+Date: Fri, 02 Jan 2015 22:11:03 +0100
+Importance: Low
+X-Priority: 5
+Message-ID: <20150102-22110345-1dd0@corpesma1srv007.corp.grupodigitex.com>
+MIME-Version: 1.0
+X-OriginalArrivalTime: 02 Jan 2015 21:10:39.0453 (UTC) FILETIME=[8F6490D0:01D026D0]
+
+Formulario de respuesta por correo*
+#---------- Formulario de respuesta por correo ----------#
+#TEXTO:
+#ACCION: NOTA
+#---------- Formulario de respuesta por correo ----------#
+*cumplimentar al responder para a�dir una nota al ticket.
+
+Su petici� ha sido actualizada.
+
+Detalle de la petici�
+-----------------------------------
+ID: 288710 (281418d3a3be345a0fa12f4f97b2c124)
+Fecha: 26/11/2014 07:50
+Titulo: CONFIGURACI� DE EXTENSIONES
+Estado: PROCESO
+Prioridad: BAJA
+Categor�: Soporte T�nico
+SubCategor�: Software
+Acceder al ticket: http://ticketing/user/details.asp?id=288710
+
+Detalle del peticionario
+-----------------------------------
+Nombre: Edgar Ernesto Gonzalez Silva
+Correo-e: g661digi@fs.net / Tel�ono: 
+Departamento: COMERCIAL IT
+Centro: DXCO IBAGUE BODEGA 2 (COLOMBIA)
+
+Detalle del representante asignado
+-----------------------------------
+Nombre: JUAN CAMILO PRADA HERNANDEZ
+correo-e: camilo.prada@grupodigitex.com / Tel�ono: 3187077592 - 3213432328
+Departamento: SISTEMAS COLOMBIA
+Centro: DXCO IBAGUE BODEGA ADMINISTRACION (COLOMBIA)
+
+DESCRIPCION
+-----------------------------------
+Buenos d�s,
+Amablemente solicito su colaboraci� para realizar una configuraci� de las extensiones Bodega 2, las cuales adjunto, debido a pruebas que se est� realizando con la Grabadora IMPACT 360, la solicitud consiste en copiar la configuraci� de manera exacta de las extensiones que presentan las grabaciones de manera completa a las extensiones que dicen COPIAR CONFIGURACI�, podemos tomar como gu� la configuraci� de la extensi� 12464.
+Agradecemos su pronta gesti�
+
+NOTAS
+-----------------------------------
+
+[24/12/2014 11:32:32 - JUAN CAMILO PRADA HERNANDEZ]
+Buen d�,
+La revisi� se ha trasladado a los puestos espec�icamente, el t�nico Armando Vega fue encargado para recopilar la informaci� de las extensiones que registran la informaci� completa y las que no, para realizar un comparativo y poder segmentar el problema, se intentar�configurar los puestos que fallan con la configuraci� de los que si funcionan, en el caso donde no se pueda de esta forma se intentar�realizar la clonaci�, aunque en teor� estos puestos ya son clonados.
+Juan C Prada H.Soporte Nivel II Digitex 
+(Tiempo invertido: 15 minutos)
+
+[19/12/2014 22:21:31 - JUAN CAMILO PRADA HERNANDEZ]
+Realizaremos las revisiones en los puestos que funciona y realizaremos comparaci�, para verificar que puede estar ocurriendo.
+(Tiempo invertido: 1 minutos)
+
+[02/01/2015 22:11:03 - JUAN CAMILO PRADA HERNANDEZ]
+Buen d�,
+En las ultimas pruebas realizadas, se tom�una extension que muestra la informaci� correctamente 12464 y se tom�una que no trae la informaci� 12446, se clon�el equipo que falla con el que funciona, quedando en igualdad de condiciones. Se realizan las siguientes pruebas:
+Se conectan agentes en la extensi� 12446 y sigue sin mostrar la informaci�.Se intercambian las extensiones 12464 y la 12446 de equipo, y el resultado es que la ext 12446 sigue sin mostrar la informaci�, mientras la 12464 la muestra exitosamente en el equipo clonado.
+La prueba fue realizada el d� 02-01-2015 entre las 14:30 y 15:00Login Implicados:  
+1823718200
+Con esto se comprueba que no es un problema del equipo ni de la configuraci� ya que tienen excatamente la misma configuraci� ya que es una clonaci� y en este punto lo unico que cambia es el numero de la extensi�.
+Estan en la misma VLAN, pertenecen a la misma campa�, tiene Windows XP SP3, tiene Softphone Avaya R6 SP7, estan registrados en la misma VLAN.
+(Tiempo invertido: 60 minutos)
+
+[30/12/2014 3:28:58 - JUAN CAMILO PRADA HERNANDEZ]
+Buen diaSolicitamos como parte de proceso de validacion, el listado de extensiones asignadas a la campa� y los Login Activos.Adicional se solicita informar qui� realiza el registro de los Login ACD en el Verint.
+Gracias!
+Juan Camilo Prada 
+(Tiempo invertido: 5 minutos)
+
+[26/11/2014 16:15:16 - JUAN CAMILO PRADA HERNANDEZ]
+Buen d�,Le informamos que su caso ser�atendido por:El t�nico de Soporte Roger Mosquera.Un Saludo,Juan Camilo PradaSoporte Digitex Nivel II
+(Tiempo invertido: 1 minutos)
+
+[14/12/2014 20:22:55 - Roger Arturo Mosquera Martinez]
+ 
+Buen d�,
+Agradecemos hacer uso de nuestros servicios y en garant� del cumplimiento de nuestros compromisos, le informamos que se llevaron a cabo las siguientes actividades:
+Se validara con Juli� Hurtado, para la configuraci� de grabaci� en Verint, por tener los permisos y procesos necesarios para realizarlo.
+
+[18/12/2014 2:23:11 - JULIAN ANDRES HURTADO OTALVARO]
+Buen d�, de acuerdo a su requerimiento, informamos que su petici� ha sido atendida.
+FAQ APLICADA: N/A
+El inconveniente reportado no es debido a una mala configuraci� de las extensiones dentro de la Verint pues estas fueron verificadas y cada una de ellas esta correctamente creada y puesta a grabar. El inconveniente se debe a que los agentes no estan siguiendo el  debido procedimiento de logueo para gestionar las llamadas y por lo tanto estas quedan almacenadas pero sin los datos del agente en cuestion.
+La camapa� debe garantizar que todos los agentes sigan el debido procedimiento al momento de gestionar las llamadas.
+
+[19/12/2014 21:19:07 - Edgar Ernesto Gonzalez Silva]
+Buenas tardes,
+Se verifica la informaci�, todos los agentes realizan el respectivo logueo y conexi� de manera exacta, la solicitud de la configuraci� de las avallas, no es por que no est� grabando de manera correcta, es por que se evidencio al realizar un detallado seguimiento que algunas extensiones cargan la informaci� completa y otras no, la informaci� es:  Interruptor (LAN), ID PBX (Login de asesor), ANI (Marcado desde), debido a esto se solicita la colaboraci� para realizar la configuraci� y evidenciar si la falencia de no cargar la informaci� completa es directamente de las extensiones.
+Agradezco su colaboraci�.
+

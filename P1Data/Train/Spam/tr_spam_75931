@@ -1,0 +1,105 @@
+From @..  Mon Jan 12 13:25:10 2015
+Return-Path: <@..>
+X-Original-To: uome@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id ECF0ADE; Mon, 12 Jan 2015 13:25:10 +0000 (UTC)
+Received: from mxin12.netvision.net.il (mxin12.netvision.net.il [194.90.9.47])
+    by .. with SMTP id hkneihutx3gub4h228nfq2j3ei;
+    for uome@fs.net;
+    Mon, 12 Jan 2015 13:25:10 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=194.90.9.47; envelope-from=<>; helo=mxin12.netvision.net.il
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=194.90.9.47; client-port=50675;
+    syn-fingerprint=49640:50:1:52:M1380,N,W0,N,N,S Solaris 10 (beta);
+    network-hops=15; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 65.114.55.137 67.14.14.138 63.146.27.198 62.115.137.74
+    213.248.65.209 213.155.133.3 213.248.89.250 0.0.0.0 212.143.12.3
+    212.143.7.52 212.143.7.24 212.143.7.91; network-path-time=1421069110
+Received: from process-daemon.mxin12.netvision.net.il by
+ mxin12.netvision.net.il
+ (Oracle Communications Messaging Server 7.0.5.30.0 64bit (built Oct 22 2013))
+ id <0NI200B00FXF5000@mxin12.netvision.net.il> for uome@fs.net; Mon,
+ 12 Jan 2015 15:25:07 +0200 (IST)
+Received: from mxin12.netvision.net.il
+ (Oracle Communications Messaging Server 7.0.5.30.0 64bit (built Oct 22 2013))
+ id <0NI200B9SFXV4L00@mxin12.netvision.net.il>; Mon,
+ 12 Jan 2015 15:25:07 +0200 (IST)
+Date: Mon, 12 Jan 2015 15:25:07 +0200 (IST)
+From: Internet Mail Delivery <@..>
+Subject: Delivery Notification: Delivery has failed
+In-reply-to: <E3671C4F6515EA676F20F908511B0DE1@fs.net>
+To: @..
+Message-id: <0NI200B9VFXV4L00@mxin12.netvision.net.il>
+MIME-version: 1.0
+Content-type: multipart/report; report-type=delivery-status;
+ boundary="Boundary_(ID_EcSYipAzdklpw+Tajmfmog)"
+References: <E3671C4F6515EA676F20F908511B0DE1@fs.net>
+
+
+--Boundary_(ID_EcSYipAzdklpw+Tajmfmog)
+Content-type: text/plain; charset=us-ascii
+Content-language: en-US
+
+This report relates to a message you sent with the following header fields:
+
+  Message-id: <E3671C4F6515EA676F20F908511B0DE1@fs.net>
+  Date: Tue, 13 Jan 2015 21:28:17 +0800
+  From: =?utf-8?B?5YKF5Z6S?= <uome@fs.net>
+  To: ghilevi@netvision.net.il
+  Subject:
+   =?utf-8?B?5aaC5L2V6YG/5YWN5Lqn5ZOB57uP55CG5rKm6JC95oiQ4oCc6Zeu6aKY57uP55CG4oCd77yf6LWa6ZKx?=
+  	=?utf-8?B?5LqG5bCx5b+Y6K6w5oiR5LqG5piv5ZCX77yf?=
+
+Your message cannot be delivered to the following recipients:
+
+  Recipient address: @mss11s.netvision.net.il.lmtp:106765@lmtpcs-daemon
+  Original address: ghilevi@netvision.net.il
+  Reason: LMTP transmission failure has occurred
+  Diagnostic code: lmtp;550 4.2.2 Delivery failed: Over quota
+  Remote system: dns;mss11s.netvision.net.il (TCP|194.90.9.47|50670|194.90.6.104|225)
+
+
+--Boundary_(ID_EcSYipAzdklpw+Tajmfmog)
+Content-type: message/delivery-status
+
+Reporting-MTA: dns;mxin12.netvision.net.il (lmtpcs-daemon)
+Arrival-date: Mon, 12 Jan 2015 15:25:07 +0200 (IST)
+
+Original-recipient: rfc822;ghilevi@netvision.net.il
+Final-recipient: rfc822;@mss11s.netvision.net.il.lmtp:106765@lmtpcs-daemon
+Action: failed
+Status: 4.2.2 (LMTP transmission failure has occurred)
+Remote-MTA: dns;mss11s.netvision.net.il (TCP|194.90.9.47|50670|194.90.6.104|225)
+Diagnostic-code: lmtp;550 4.2.2 Delivery failed: Over quota
+
+--Boundary_(ID_EcSYipAzdklpw+Tajmfmog)
+Content-type: text/rfc822-headers
+
+Return-path: <uome@fs.net>
+Received: from lmtpcs-daemon.mxin12.netvision.net.il by mxin12.netvision.net.il
+ (Oracle Communications Messaging Server 7.0.5.30.0 64bit (built Oct 22 2013))
+ id <0NI200B9SFXV4L00@mxin12.netvision.net.il>; Mon,
+ 12 Jan 2015 15:25:07 +0200 (IST)
+Received: from fs.net ([27.20.163.92]) by mxin12.netvision.net.il
+ (Oracle Communications Messaging Server 7.0.5.30.0 64bit (built Oct 22 2013))
+ with ESMTP id <0NI200BA5FW8LTG0@mxin12.netvision.net.il> for
+ ghilevi@netvision.net.il; Mon, 12 Jan 2015 15:25:07 +0200 (IST)
+Date: Tue, 13 Jan 2015 21:28:17 +0800
+From: =?utf-8?B?5YKF5Z6S?= <uome@fs.net>
+Subject:
+ =?utf-8?B?5aaC5L2V6YG/5YWN5Lqn5ZOB57uP55CG5rKm6JC95oiQ4oCc6Zeu6aKY57uP55CG4oCd77yf6LWa6ZKx?=
+	=?utf-8?B?5LqG5bCx5b+Y6K6w5oiR5LqG5piv5ZCX77yf?=
+To: ghilevi@netvision.net.il
+Message-id: <E3671C4F6515EA676F20F908511B0DE1@fs.net>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-Priority: 3
+X-MSMail-priority: Normal
+
+
+--Boundary_(ID_EcSYipAzdklpw+Tajmfmog)--
+

@@ -1,0 +1,522 @@
+From @..  Tue Jan 13 12:45:18 2015
+Return-Path: <@..>
+X-Original-To: gavin.wollacott@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id DEB26DE; Tue, 13 Jan 2015 12:45:18 +0000 (UTC)
+Received: from mx-aol-b.sailthru.com (mx-aol-b.sailthru.com [64.34.57.250])
+    by .. with SMTP id 67hjzq4v2psincc7auhqq6gt8e;
+    for gavin.wollacott@fs.net;
+    Tue, 13 Jan 2015 12:45:18 +0000 (UTC)
+    (envelope-from delivery@newsletters.aol.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=64.34.57.250; envelope-from=<delivery@newsletters.aol.com>;
+    helo=mx-aol-b.sailthru.com; mechanism=include:aspmx.sailthru.com
+    (ip4:64.34.57.192/26 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=64.34.57.250; client-port=35611;
+    syn-fingerprint=14600:54:1:60:M1380,S,T,N,W7; network-hops=13;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 63.146.27.198 80.91.252.213 62.115.137.63 80.91.248.178
+    62.115.34.130 216.187.115.166 69.90.126.150 64.34.57.250;
+    network-path-time=1421153118
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=Etp7ZxdFyckKBlWaMstj6zhIKSs=;
+ b=cm3JFXDGdPSsgfnH8dZ555+7CBTEP2DCGTmEA/Z+D1So5r2FKAwV6wZj6VwmEOMXly1A1wWfSF20
+   SiR5AvfTZZaNiCpozhkOUX58k0wju4zOXKzfWlKpnaV+O86NpLriIhTGnNEZT7r9+Q9AiG3Dnny4
+   kCMM7psdyhilEmj7YkA=
+Received: from 162.208.119.175.static.nyinternet.net (162.208.119.175) by mx-aol-b.sailthru.com id hmk9ls1s6j0r for <gavin.wollacott@fs.net>; Tue, 13 Jan 2015 07:45:18 -0500 (envelope-from <delivery@newsletters.aol.com>)
+Received: from nj1-p-heyblush-prd-jma-23.flt (172.18.20.28) by 162.208.119.175.static.nyinternet.net id hmk9ls1qqbs5 for <gavin.wollacott@fs.net>; Tue, 13 Jan 2015 07:45:17 -0500 (envelope-from <delivery@newsletters.aol.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1421153117;
+	s=Sailthru; d=mydaily.co.uk;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=UjprvMVzgGKHYvEhnkJvaD6Dcv6Tvq/CvG+ADBq0hcc=;
+	b=uqn3hFio/lAxeOqiK6VIbWIIsE9Y+tFy94uSrClKLlr6E8MQxBdO1xeIuwD0i0BK
+	EEj7v0/X0htKqpvO5iz5kiEzrKz/8wRLtZXSd5GdX5YLiEjKzBmP0Eu6vMjC39aCGS1
+	u4Z35ixgwVbWI+R/lhq4xspO7N6sGp1MUrIy1a2U=
+Date: Tue, 13 Jan 2015 07:45:17 -0500 (EST)
+From: MyDaily <@..>
+To: @..
+Message-ID: <20150113124517.3643704.21377@sailthru.com>
+Subject: Is this the secret to sustainable weight loss?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_31407458_1552795385.1421153117910"
+Precedence: bulk
+X-TM-ID: 20150113124517.3643704.21377
+X-Info: Message sent by sailthru.com customer mydaily.co.uk
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: nj1-p-heyblush-prd-jma-23.flt
+X-Unsubscribe-Web: http://s.mydaily.co.uk/oc/4e2d8f7c15b30dde9b48009c263i0.ght/0dbdd104
+List-Unsubscribe: <http://s.mydaily.co.uk/oc/4e2d8f7c15b30dde9b48009c263i0.ght/0dbdd104>, <mailto:unsubscribe_20150113124517.3643704.21377@mx.sailthru.com>
+X-rpcampaign: stbxo3643704
+
+------=_Part_31407458_1552795385.1421153117910
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TV1FOQLpFi1-HICvC6b6c>
+Fashion <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeOmlcJSHa25Jt4VCbe32> Beauty <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeOmlcJSHa25Jt4WC271d> Lifestyle <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/U-idu8PoI7y-p2ZzC7269> Weddings <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeN-aMJSHa25JsYWCd728> Celebrity <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeN-aMJSHa25JsYVCf87b>
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLOm-0mO-5i4A1I6D4f3b>
+ The Paleo diet isn't going anywhere <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLOm-0mO-5i4A1I6Ef569>
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuTE9718>  Tiffany & Co. ad features gay couple for the first time <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuTFdb87>
+
+We love the latest "Will You" ad campaign from Tiffany &amp; Co. Why? The luxury jewellery brand is embracing same sex marriage for the first time....
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuTGca00>
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuUE7c10>  An avocado a day keeps the doctor away <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuUFc73c>
+
+Good news for avocado fans! A recent study shows eating one avocado a day can help to lower your cholesterol. 
+ 
+ 
+ 
+Time reports researchers at...
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuUGc444>
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuVEe8e1>  Victoria's Secret gains 100,000 new Instagram followers (every day) <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuVF5163>
+
+When it comes to the Instagram, it really is a popularity contest. Adweek reports that last week, the Victoria's Secret page gained an average of...
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuVGb050>
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuWEeb77>  Jennifer Aniston's stylist reveals her hair secrets <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuWF22c9>
+
+Ever since she sparked a frenzy with The Rachel, Jennifer Aniston has been a hair icon for millions of women across the world. 
+ 
+ 
+ 
+So, it came as...
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuWG9c1e>
+
+Editor's Picks
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuXD788b>
+ My Apartment: Camille Benett
+
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuXEd8dc> <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuYD30f2>  Vintage portfolio: Anita Ekberg
+
+Read now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuYE48e3>
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VKvNYEmO-5i4AyvpE5b10>  WIN this Vita Liberata tanning set with the #MyDailyBeautyWin!  WIN this Vita Liberata tanning set with the #MyDailyBeautyWin! <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VKvNYEmO-5i4AyvpF7dad>
+
+Don't miss this week's #MyDailyBeautyWin giveaway for the chance to get your hands on these self tanning and skincare heroes for a gorgeous glow this...
+Enter now <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VKvNYEmO-5i4AyvpGd49e>
+
+MyDaily <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TV2IjgLpFi0zLYCvCe2a6>
+
+We hope you like receiving emails from MyDaily. To make sure they don't end up in your junk folder, please add: newsletter@mydaily.co.uk <mailto:newsletter@mydaily.co.uk> to your address book. You have received this MyDaily email from AOL (UK) Limited, who provides mydailyco.uk <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/U2sPusPo9ZbcoWbtC6182>. You can choose to stop reveiving these emails at any time, by clicking on UNSUBSCRIBE <http://s.mydaily.co.uk/oc/4e2d8f7c15b30dde9b48009c263i0.ght/0dbdd104> in any Lifestyle email you receive. We respect your privacy and will never forward your data on to a third party without your consent. Full details of AOL's (UK) Limited's policy can be viewed click here <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TWPjQ_uxFi0LwLz2C5f2d>. AOL (UK) Limited, Shropshire House, 11-20 Capper Street, London, WC1E 6JA
+
+<http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TywaovEdAM4RThH9C31fb> <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UKS6qrdjfCiK_G8jC7f25> <http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/U_Xv4sPoM7GPAtSwC3525>
+------=_Part_31407458_1552795385.1421153117910
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+ /><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+<title>MyDaily Newsletter</title>
+</p>
+<table class=3D"newsletter-body" id=3D"newsletter-body" bgcolor=3D"#F5F5F5"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td style=3D"width: 630px; background: #F5F5F5 url('http://media.sailthru.c=
+om/zs/1jy/8/i/53f18deab9130.png') repeat; font-family: arial;" align=3D"cen=
+ter">
+<table style=3D"width: 630px; margin: 0 auto; font-family: arial;" id=3D"ne=
+wsletter-table-wrapper" class=3D"newsletter-table-wrapper" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"630" align=3D"center">
+<tbody>
+<tr>
+<td class=3D"newsletter-container" bgcolor=3D"#FFFFFF"><center><!-- HEADER =
+-->
+<table class=3D"newsletter-header" bgcolor=3D"#ffffff" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td style=3D"padding: 10px 0;" align=3D"center"><a href=3D"http://s.mydaily=
+.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TV1FOQLpFi1-HICvB04a5" style=3D"di=
+splay: block;"><img class=3D"logo" style=3D"border: 0px; width: 180px;" src=
+=3D"http://s.mydaily.co.uk/img/4e2d8f7c15b30dde9b48009c263i0.ght/5a014bfa.g=
+if" /></a></td>
+</tr>
+</tbody>
+</table>
+<!-- NAVIGATION -->
+<table style=3D"font: bold 16px arial; text-decoration: none; background-co=
+lor: #000000;" class=3D"newsletter-nav" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100<tbody>
+<tr>
+<td style=3D"padding-left: 5px; padding-right: 5px;" align=3D"center"><a hr=
+ef=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeOmlcJSHa25=
+Jt4VB9b2f" style=3D"display: inline-block; color: #ffffff; text-decoration:=
+ none; font-size: 1em; line-height: 50px;" height=3D"50">Fashion</a></td>
+<td style=3D"padding-left: 5px; padding-right: 5px;" align=3D"center"><a hr=
+ef=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeOmlcJSHa25=
+Jt4WB7ba2" style=3D"display: inline-block; color: #ffffff; text-decoration:=
+ none; font-size: 1em; line-height: 50px;" height=3D"50">Beauty</a></td>
+<td style=3D"padding-left: 5px; padding-right: 5px;" align=3D"center"><a hr=
+ef=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/U-idu8PoI7y-=
+p2ZzB55a6" style=3D"display: inline-block; color: #ffffff; text-decoration:=
+ none; font-size: 1em; line-height: 50px;" height=3D"50">Lifestyle</a></td>
+<td style=3D"padding-left: 5px; padding-right: 5px;" align=3D"center"><a hr=
+ef=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeN-aMJSHa25=
+JsYWBca34" style=3D"display: inline-block; color: #ffffff; text-decoration:=
+ none; font-size: 1em; line-height: 50px;" height=3D"50">Weddings</a></td>
+<td style=3D"padding-left: 5px; padding-right: 5px;" align=3D"center"><a hr=
+ef=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/UeN-aMJSHa25=
+JsYVB72a5" style=3D"display: inline-block; color: #ffffff; text-decoration:=
+ none; font-size: 1em; line-height: 50px;" height=3D"50">Celebrity</a></td>
+</tr>
+</tbody>
+</table>
+<!-- TOP LEAD Story -->
+<table style=3D"padding: 10px;" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100<tbody>
+<tr>
+<td class=3D"bannerImg" bgcolor=3D"#000000" align=3D"center"><a href=3D"htt=
+p://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLOm-0mO-5i4A1I6Bd2ff=
+" style=3D"display: block; margin-bottom: -5px;"> <img src=3D"http://o.aolc=
+dn.com/dims-global/dims/GLOB/5/600/300/90/http://o.aolcdn.com/hss/storage/m=
+idas/82800eeb86ef7277ddc4a649fa76c251/201361174/SoulmateFood2.jpg" style=3D=
+"display: block; border: 0px; max-width: 100</tr>
+<tr>
+<td style=3D"padding: 20px; color: #ffffff;" bgcolor=3D"#000000" align=3D"l=
+eft"><a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VL=
+Om-0mO-5i4A1I6Cd3bd" style=3D"font: bold 1.625em arial; text-decoration: no=
+ne; color: #ffffff; line-height: normal;"> Why the Paleo diet isn't going a=
+nywhere</a></td>
+</tr>
+</tbody>
+</table>
+<!-- LIST STORIES followed by Top Lead Story : STARTS  -->
+<table style=3D"padding: 20px 10px; border-bottom: 1px solid #C9C9C9;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"30.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuTBc288"> <img class=
+=3D"articleImg" style=3D"border: 0;" src=3D"http://o.aolcdn.com/dims-global=
+/dims/GLOB/5/285/200/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/330=
+4x2324+17+222/resize/640x450!/format/jpg/quality/85/http://hss-prod.hss.aol=
+.com/hss/storage/midas/f2e067ca9649ddc13fa0fe0f91d40aa3/200713338/85926347.=
+jpg" width=3D"100<td style=3D"padding-left: 20px;" valign=3D"top" align=3D"left">
+<h3 style=3D"margin: 0; padding-bottom: 5px;"><a style=3D"font: bold 1.125e=
+m arial; color: #000000; text-decoration: none;" href=3D"http://s.mydaily.c=
+o.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuTC274b"> Tiffany ad f=
+eatures gay couple for the first time</a></h3>
+<h4 style=3D"margin: 0; padding: 0; font: normal 1em arial; color: #000000;=
+ line-height: 24px;">The luxury jewellery brand just made history with this=
+ new advert.</h4>
+<p style=3D"margin: 0; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/t=
+iffany-and-co-ad-features-gay-couple-for-the-first-time/?ncid=3Dcomlnkukmyd=
+a00000167" style=3D"height:36px;v-text-anchor:middle;width:110px;" arcsize=
+=3D"9<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuTD79c2" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style=3D"padding: 20px 10px; border-bottom: 1px solid #C9C9C9;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"30.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuUB0008"> <img class=
+=3D"articleImg" style=3D"border: 0;" src=3D"http://o.aolcdn.com/dims-global=
+/dims/GLOB/5/285/200/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/301=
+9x2124+68+0/resize/640x450!/format/jpg/quality/85/http://hss-prod.hss.aol.c=
+om/hss/storage/adam/8fe1da9fec71711ec7c9414da51990c1/125026664.jpg" width=
+=3D"100<td style=3D"padding-left: 20px;" valign=3D"top" align=3D"left">
+<h3 style=3D"margin: 0; padding-bottom: 5px;"><a style=3D"font: bold 1.125e=
+m arial; color: #000000; text-decoration: none;" href=3D"http://s.mydaily.c=
+o.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuUCfa1b"> An avocado a=
+ day keeps the doctor away</a></h3>
+<h4 style=3D"margin: 0; padding: 0; font: normal 1em arial; color: #000000;=
+ line-height: 24px;">Good news for avocado fans! A recent study shows why e=
+ating this fruit is good for your health.</h4>
+<p style=3D"margin: 0; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/a=
+n-avocado-a-day-keeps-the-doctor-away/?ncid=3Dcomlnkukmyda00000167" style=
+=3D"height:36px;v-text-anchor:middle;width:110px;" arcsize=3D"9"f" fillcolor=3D"#2CBCB0">
+<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuUDf9d6" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style=3D"padding: 20px 10px; border-bottom: 1px solid #C9C9C9;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"30.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuVB085e"> <img class=
+=3D"articleImg" style=3D"border: 0;" src=3D"http://o.aolcdn.com/dims-global=
+/dims/GLOB/5/285/200/90/http://o.aolcdn.com/hss/storage/midas/6aebb5dd43119=
+61d12fe6995ebb502da/201381230/vs-bikini.jpg" width=3D"100<td style=3D"padding-left: 20px;" valign=3D"top" align=3D"left">
+<h3 style=3D"margin: 0; padding-bottom: 5px;"><a style=3D"font: bold 1.125e=
+m arial; color: #000000; text-decoration: none;" href=3D"http://s.mydaily.c=
+o.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuVC28c4"> The fastest =
+growing Instagram page is hardly surprising</a></h3>
+<h4 style=3D"margin: 0; padding: 0; font: normal 1em arial; color: #000000;=
+ line-height: 24px;">When it comes to the Instagram followers, it really is=
+ a popularity contest.</h4>
+<p style=3D"margin: 0; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/v=
+ictorias-secret-gains-100000-new-instagram-followers-every-day/?ncid=3Dcoml=
+nkukmyda00000167" style=3D"height:36px;v-text-anchor:middle;width:110px;" a=
+rcsize=3D"9<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuVDcc9a" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style=3D"padding: 20px 10px;" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"30.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuWB8edc"> <img class=
+=3D"articleImg" style=3D"border: 0;" src=3D"http://o.aolcdn.com/dims-global=
+/dims/GLOB/5/285/200/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/201=
+6x1418+0+172/resize/640x450!/format/jpg/quality/85/http://hss-prod.hss.aol.=
+com/hss/storage/midas/dfc6d2a3afd7b4d7dfd35730fd4bab92/201381539/null.jpeg"=
+ width=3D"100<td style=3D"padding-left: 20px;" valign=3D"top" align=3D"left">
+<h3 style=3D"margin: 0; padding-bottom: 5px;"><a style=3D"font: bold 1.125e=
+m arial; color: #000000; text-decoration: none;" href=3D"http://s.mydaily.c=
+o.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkmOSJi9tQuWCc50f"> Jennifer Ani=
+ston's stylist reveals her hair secrets</a></h3>
+<h4 style=3D"margin: 0; padding: 0; font: normal 1em arial; color: #000000;=
+ line-height: 24px;">Loved Jen's Golden Globes updo? Turns out she hadn't w=
+ashed her hair for two days.</h4>
+<p style=3D"margin: 0; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/j=
+ennifer-anistons-stylist-reveals-her-hair-secrets/?ncid=3Dcomlnkukmyda00000=
+167" style=3D"height:36px;v-text-anchor:middle;width:110px;" arcsize=3D"9 stroke=3D"f" fillcolor=3D"#2CBCB0">
+<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuWDfaf8" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- LIST STORIES followed by Top Lead Story : ENDS  --> <!-- EDITORS PICKS=
+ Stories -->
+<table style=3D"padding: 20px 0; background: #EDEDED;" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td colspan=3D"2">
+<h3 class=3D"editorMtitle" style=3D"margin: 0; padding-bottom: 15px; paddin=
+g-left: 10px; font: bold 30px arial; color: #000000; text-align: left;" ali=
+gn=3D"left">Editor's Picks</h3>
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 10px;" valign=3D"top" width=3D"50<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100n=3D"center">
+<tbody>
+<tr>
+<td align=3D"left"><a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b4800=
+9c263i0.ght/VLUOPkmOSJi9tQuXB12f2" style=3D"padding-bottom: 10px;"><img cla=
+ss=3D"editorImg" style=3D"border: 0px;" src=3D"http://o.aolcdn.com/dims-glo=
+bal/dims/GLOB/5/285/200/90/http://o.aolcdn.com/hss/storage/midas/835b9cfad9=
+b30087534034378f29f52e/201374424/camille-640.jpg" width=3D"100>
+</tr>
+<tr>
+<td align=3D"left">
+<h3 class=3D"editorTitle" style=3D"margin: 0; padding-top: 10px; font: norm=
+al 1.125em arial; color: #000000;">My Apartment: Camille Benett</h3>
+</td>
+</tr>
+<tr>
+<td style=3D"margin: 0px; padding-top: 10px;" align=3D"left"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/m=
+y-apartment-camille-benett/?ncid=3Dcomlnkukmyda00000167" style=3D"height:36=
+px;v-text-anchor:middle;width:auto;padding:0 7px;" arcsize=3D"9"f" fillcolor=3D"#2CBCB0">
+<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuXCcf78" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"padding: 0 10px;" valign=3D"top" width=3D"50<a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VLUOPkm=
+OSJi9tQuYBe720" style=3D"padding-bottom: 10px;"><img class=3D"editorImg" st=
+yle=3D"border: 0px;" src=3D"http://o.aolcdn.com/dims-global/dims/GLOB/5/285=
+/200/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3074x2160+0+482/res=
+ize/640x450!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/=
+midas/d6389f34e82573ebb9100e8d725c87cb/201368308/3065697.jpg" width=3D"100" /></a>
+<h3 class=3D"editorTitle" style=3D"margin: 0; padding-top: 10px; font: norm=
+al 1.125em arial; color: #000000;">Remembering Anita Ekberg's iconic looks<=
+/h3>
+<p style=3D"margin: 0px; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/13/v=
+intage-portfolio-anita-ekberg/?ncid=3Dcomlnkukmyda00000167" style=3D"height=
+:36px;v-text-anchor:middle;width:auto;padding:0 7px;" arcsize=3D"9=3D"f" fillcolor=3D"#2CBCB0">
+<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VLUOPkmOSJi9tQuYCc758" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Read now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- SPONSOR PROMO Botttom Story -->
+<table style=3D"padding: 20px 10px;" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"30.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VKvNYEmO-5i4AyvpB6db1"> <img class=
+=3D"articleImg" style=3D"border: 0;" src=3D"http://o.aolcdn.com/dims-global=
+/dims/GLOB/5/285/200/90/http://o.aolcdn.com/hss/storage/midas/4de239d2efcbd=
+f675ba7af13d333a4d/201333480/L_Travel.jpg" width=3D"100<td style=3D"padding-left: 20px;" valign=3D"top" align=3D"left">
+<h3 style=3D"margin: 0; padding-bottom: 5px;"><img src=3D"http://media.sail=
+thru.com/zs/1jy/8/k/53f4cb2a05ad3.png" alt=3D" WIN this Vita Liberata tanni=
+ng set with the #MyDailyBeautyWin!" style=3D"width: 16px;" /> <a style=3D"f=
+ont: bold 1.125em arial; color: #000000; text-decoration: none;" href=3D"ht=
+tp://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/VKvNYEmO-5i4AyvpC994=
+0"> WIN this Vita Liberata tanning set with the #MyDailyBeautyWin!</a></h3>
+<h4 style=3D"margin: 0; padding: 0; font: normal 1em arial; color: #000000;=
+ line-height: 24px;">Don't miss this week's #MyDailyBeautyWin giveaway for =
+the chance to get your hands on these self tanning and skincare heroes for =
+a gorgeous glow this winter.</h4>
+<p style=3D"margin: 0; padding-top: 10px;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"http://www.mydaily.co.uk/2015/01/06/w=
+in-this-vita-liberata-tanning-set-with-the-mydaily-beauty-win/?ncid=3Dcomln=
+kukmyda00000167" style=3D"height:36px;v-text-anchor:middle;width:110px;" ar=
+csize=3D"9<w:anchorlock/>
+<![endif]--> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i=
+0.ght/VKvNYEmO-5i4AyvpDee48" style=3D"width: auto; background-color: #2cbcb=
+0; padding: 0 7px; display: inline-block; text-align: center; font: bold 1e=
+m arial; line-height: 36px; text-decoration: none; border: 1px solid #2CBCB=
+0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;=
+ color: #ffffff; height: 36px;">Enter now</a> <!--[if mso]>
+</v:roundrect>
+<![endif]--></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FOOTER -->
+<table class=3D"newsletter-footer" bgcolor=3D"#EDEDED" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100<tbody>
+<tr>
+<td colspan=3D"3" align=3D"center">
+<p style=3D"padding: 0; margin: 0;" align=3D"center"><a href=3D"http://s.my=
+daily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TV2IjgLpFi0zLYCvBc268" style=
+=3D"display: block; padding-top: 20px;"> <img src=3D"http://media.sailthru.=
+com/zs/1jy/8/k/53f4972b8d9f1.png" alt=3D"MyDaily" style=3D"border: 0; width=
+: 114px;" /> </a></p>
+</td>
+</tr>
+<tr>
+<td width=3D"30"></td>
+<td align=3D"center">
+<p style=3D"padding: 0; text-align: center; font: normal 12px arial; color:=
+ #000000; line-height: 20px;">We hope you like receiving emails from MyDail=
+y. To make sure they don't end up in your junk folder, please add: <a style=
+=3D"color: #2ebdb1; text-decoration: underline;" href=3D"mailto:newsletter@=
+mydaily.co.uk">newsletter@mydaily.co.uk</a> to your address book. You have =
+received this MyDaily email from AOL (UK) Limited, who provides <a style=3D=
+"color: #2ebdb1; text-decoration: underline;" href=3D"http://s.mydaily.co.u=
+k/4e2d8f7c15b30dde9b48009c263i0.ght/U2sPusPo9ZbcoWbtBb604">mydailyco.uk</a>=
+. You can choose to stop reveiving these emails at any time, by clicking on=
+ <a style=3D"color: #2ebdb1; text-decoration: underline;" href=3D"http://s.=
+mydaily.co.uk/oc/4e2d8f7c15b30dde9b48009c263i0.ght/0dbdd104">UNSUBSCRIBE</a=
+> in any Lifestyle email you receive. We respect your privacy and will neve=
+r forward your data on to a third party without your consent. Full details =
+of AOL's (UK) Limited's policy can be viewed <a style=3D"color: #2ebdb1; te=
+xt-decoration: underline;" href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9=
+b48009c263i0.ght/TWPjQ_uxFi0LwLz2B0464">click here</a>. <span style=3D"colo=
+r: #000000;">AOL (UK) Limited, Shropshire House, 11-20 Capper Street, Londo=
+n, WC1E 6JA</span></p>
+</td>
+<td width=3D"30"></td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"10"></td>
+</tr>
+<tr>
+<td width=3D"30"></td>
+<td align=3D"center">
+<p style=3D"text-align: center; margin: 0; padding: 10px 0;"><a href=3D"htt=
+p://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/TywaovEdAM4RThH9Ba9ac=
+" style=3D"display: inline-block; width: 60px; text-align: left;"><img styl=
+e=3D"border: 0px; width: 16px;" src=3D"http://media.sailthru.com/zs/1jy/8/k=
+/53f497661d239.png" /></a> <a href=3D"http://s.mydaily.co.uk/4e2d8f7c15b30d=
+de9b48009c263i0.ght/UKS6qrdjfCiK_G8jB006d" style=3D"display: inline-block; =
+width: 60px; text-align: left;"><img style=3D"border: 0px; width: 16px;" sr=
+c=3D"http://media.sailthru.com/zs/1jy/8/k/53f4978f68c43.png" /></a> <a href=
+=3D"http://s.mydaily.co.uk/4e2d8f7c15b30dde9b48009c263i0.ght/U_Xv4sPoM7GPAt=
+SwB6c62" style=3D"display: inline-block; width: 20px; text-align: left;"><i=
+mg style=3D"border: 0px; width: 16px;" src=3D"http://media.sailthru.com/zs/=
+1jy/8/k/53f4968985b5d.png" /></a></p>
+</td>
+<td width=3D"30"></td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"10"></td>
+</tr>
+</tbody>
+</table>
+</center></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+------=_Part_31407458_1552795385.1421153117910--
+

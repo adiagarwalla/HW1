@@ -1,0 +1,113 @@
+From @..  Thu Jan  8 07:00:59 2015
+Return-Path: <@..>
+X-Original-To: henry.hemraj@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id CCC62DE; Thu,  8 Jan 2015 07:00:59 +0000 (UTC)
+Received: from 146-106.mail2.edmta.net (146-106.mail2.edmta.net [65.98.146.106])
+    by .. with SMTP id 38d9g3hcbxv534j868irq2g3fa;
+    for henry.hemraj@fs.net;
+    Thu, 08 Jan 2015 07:00:59 +0000 (UTC)
+    (envelope-from b-bgfc6ur3garw69exgavr68uxgjvx2a5n@email.yookos.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=65.98.146.106;
+    envelope-from=<b-bgfc6ur3garw69exgavr68uxgjvx2a5n@email.yookos.com>;
+    helo=146-106.mail2.edmta.net; mechanism=include:edspf.net
+    (ip4:65.98.146.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=65.98.146.106; client-port=12089;
+    syn-fingerprint=8192:115:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 206.223.119.36 66.192.251.182 64.128.205.194
+    208.57.18.205 208.57.218.189 64.21.192.158 64.21.192.158;
+    network-path-time=1420700458
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dked; d=email.yookos.com;
+ h=From:To:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-type:Content-Transfer-Encoding:Date; i=support@email.yookos.com;
+ bh=PhxEWut5QOO7NkYxRwR0q9SSV58=;
+ b=LKRwKysQjmJ/rmUTcsu02mL50DKgqpZV2lF1eQQPSdZ6UbWAbfWhsou3GoHcFIpnMG3TU4dwpSb2
+   UtILU3UblXxtIa1xxiroZlANUkIN+Y2TRQcmhwNXLW+7O+U4PnSYvZ20A1GpM0nJTKnHfC5mZ2Be
+   syuWylnPou8Tx43bc5U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dked; d=email.yookos.com;
+ b=NY2lxdXoNBNOZvWugXm5OYQOaYOB9EoAqV16duUIWi863bFFDaYSI4HBj7onREAtn9okD7KTqo/P
+   mJZ2oyNDtZRSdzIuYATX4Az1Vub6jJ4CC86mrvH9hOjBHHUhmpYtC47aY1RQ3wgMMasU7VMjj7a6
+   2NWdGWaQpYI707HMBaU=;
+Received: by 146-106.mail2.edmta.net id hlolim1vi203 for <henry.hemraj@fs.net>; Wed, 7 Jan 2015 23:00:35 -0800 (envelope-from <b-bgfc6ur3garw69exgavr68uxgjvx2a5n@email.yookos.com>)
+From: "Yookos Customer Services" <@..>
+To: "Yookos members" <@..>
+Reply-To: @..
+Subject: Trending Content on Yookos
+Message-ID: <MjY1MTsxMDI7MjE4Njc2MTszOzYzNTU2MjY4NDM1MzMzNDUwMw==@email.yookos.com>
+X-PPCI: bgfc6ur3garw69wxtgrn6uqxhjvq69qx8jrwkjz
+X-PPRI: bdrt28kxndrn2jtxygfn6ur3njfwkjz
+X-MID: MjY1MTsxMDI7MjE4Njc2MTszOzYzNTU2MjY4NDM1MzMzNDUwMw==
+X-SNDRINF: 35::AGENT-09::ED_D_flexmg9::Yookos::1/7/2015-11:00:35Z-8
+X-Mailer: EmailDirect 2011 v30319
+List-Unsubscribe: <http://go.yookos.com/l/a/0ni/sl/07hhi/_/opdhi/exclude.htm>,<mailto:removes@email.yookos.com?subject=u:=Part.2651.102.2186761>
+Feedback-ID: 2651:102:3:5131912
+MIME-Version: 1.0
+Content-type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 7 Jan 2015 23:00:59 -0800
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+    <TITLE>Trending Content on Yookos</TITLE>
+    <META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-885=
+9-1">
+</HEAD>
+<BODY style=3D"margin: 0px; border: 0px;">
+
+
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100    <tr>
+        <td align=3D"center">
+            <table>
+                <tr>
+                    <td align=3D"left">
+                        <img src=3D"http://images.yookos.com/clients/Yookos=
+2651/trendingjan2015.jpg" alt=3D"yookos" usemap=3D"#Map" border=3D"0"/>=0A<=
+map name=3D"Map" id=3D"Map">=0A  =0A  <area shape=3D"rect" coords=3D"34,32,=
+124,58" href=3D"www.yookos.com" />=0A  <area shape=3D"rect" coords=3D"277,1=
+546,405,1567" href=3D"mailto:unsubscribe@yookos.com" />=0A=0A  <area shape=
+=3D"rect" coords=3D"493,510,591,541" href=3D"https://www.yookos.com/people/=
+strivemasiyiwa/blog/2014/12/30/business-lessons-from-the-beautiful-game" />=
+=0A  <area shape=3D"rect" coords=3D"48,722,150,750" href=3D"https://www.yoo=
+kos.com/people/Tomisin_fashina/blog/2014/08/29/attitude-is-all-that-matters=
+" />=0A  <area shape=3D"rect" coords=3D"372,875,459,899" href=3D"https://ww=
+w.yookos.com/community/games" />=0A  <area shape=3D"rect" coords=3D"46,1180=
+,151,1212" href=3D"https://www.yookos.com/blogs/thought-leadership-africa/2=
+014/11/20/the-tokelo-rantie-road-show-knocks-out-the-not-so-super-eagles-ou=
+t-of-afcon2015" />=0A  <area shape=3D"rect" coords=3D"22,138,615,338" href=
+=3D"http://gtuc.gh/site/index.php" />=0A  <area shape=3D"rect" coords=
+=3D"20,1371,617,1454" href=3D"http://gtuc.gh/site/index.php" />=0A</map=
+>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"left">
+                        <div style=3D"FONT-SIZE: 10px; FONT-FAMILY: Verdana=
+">
+	<br />
+	, 19 Harley Street Randburg, Johannesburg=20
+	 <br />
+	This email was intended for: henry.hemraj@fs.net | <a href=3D"http://go.yo=
+okos.com/l/a/0ni/sl/07hhi/_/opdhi/exclude.htm">Remove</a>
+	<br />
+	<img border=3D"0" src=3D"http://go.yookos.com/t/l/a/0ni/sl/07hhi/_/opdhi/m=
+sg.gif" width=3D"5" height=3D"15" /><br />
+	<a href=3D"http://go.yookos.com/l/a/0ni/sl/07hhi/_/opdhi/abuse.htm">(Repor=
+t Abuse)</a> - Only if you feel this email was=20
+	repeatedly sent to you without your permission. <br />
+</div>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+</BODY>
+</HTML>
+

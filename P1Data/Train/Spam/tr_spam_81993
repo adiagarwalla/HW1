@@ -1,0 +1,560 @@
+From @..  Fri Jan 23 11:59:26 2015
+Return-Path: <@..>
+X-Original-To: rutang@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 1F564DE; Fri, 23 Jan 2015 11:59:26 +0000 (UTC)
+Received: from mail4135.sp.dstvcomms.com (mail4135.sp.dstvcomms.com [74.121.52.112])
+    by .. with SMTP id 6bru3kj6s99xhv5tkg6x7ka7xi;
+    for rutang@fs.net;
+    Fri, 23 Jan 2015 11:59:26 +0000 (UTC)
+    (envelope-from v-cnkheah_bnaalhejhl_cdpecnif_cdpecnif_a@bounce.sp.dstvcomms.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=74.121.52.112;
+    envelope-from=<v-cnkheah_bnaalhejhl_cdpecnif_cdpecnif_a@bounce.sp.dstvcomms.com>;
+    helo=mail4135.sp.dstvcomms.com; mechanism=ip4:74.121.52.112
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=74.121.52.112; client-port=42006;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W9; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 63.146.26.162
+    204.70.200.126 204.70.197.169 205.139.48.62 63.128.70.210;
+    network-path-time=1422014366
+Received: by mail4135.sp.dstvcomms.com id ho8rps19if4e for <rutang@fs.net>; Fri, 23 Jan 2015 11:59:10 +0000 (envelope-from <v-cnkheah_bnaalhejhl_cdpecnif_cdpecnif_a@bounce.sp.dstvcomms.com>)
+Date: Fri, 23 Jan 2015 11:59:10 +0000 (GMT)
+From: DStv <@..>
+Reply-To: @..
+To: @..
+Message-ID: <417280524.65060311422014350130.JavaMail.app@rbg43.atlis1>
+Subject: DStv Email Panel Recruitment Survey
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_18153_1093716678.1422014349555"
+x-mid: 47870983
+x-job: 47870983
+x-rpcampaign: sp47870983
+x-orgId: 42448
+List-Unsubscribe: <mailto:v-cnkheah_bnaalhejhl_cdpecnif_cdpecnif_a@bounce.sp.dstvcomms.com?subject=Unsubscribe>
+
+------=_Part_18153_1093716678.1422014349555
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head xmlns=3D"">         <title xmlns=3D"">DStv Survey - English [Ve=
+rsion 1]</title>         <meta http-equiv=3D"Content-Type" content=3D"text/=
+html; charset=3DUTF-8"> <meta name=3D"viewport" content=3D"width=3Ddevice-w=
+idth, initial-scale=3D1.0"> <style xmlns=3D"" type=3D"text/css">
+.centered {
+=09text-align: center;
+=09padding: 0px;
+=09display: block;
+}
+.ReadMsgBody {
+=09width: 100=09background-color: #ffffff;
+}
+.ExternalClass {
+=09width: 100=09background-color: #efefef;
+}
+body {
+=09width: 100=09background-color: #efefef;
+=09margin: 0;
+=09padding: 0;
+=09-webkit-font-smoothing: antialiased;
+=09font-family: Helvetica, Arial, Verdana, Times, serif;
+=09-webkit-text-size-adjust: 100=09font-size: 12px;
+=09color: #666666;
+=09text-align: left;
+}
+table {
+=09border-collapse: collapse;
+=09mso-table-lspace: 0pt;
+=09mso-table-rspace: 0pt;
+=09font-size: 12px;
+}
+td, a {
+=09font-size: 12px;
+}
+.hideColumn {
+=09display: none;
+}
+.hideRow {
+=09display: none;
+}
+ [touch-action=3D"none"] {
+-ms-touch-action: none;
+touch-action: none;
+}
+[touch-action=3D"pan-x"] {
+-ms-touch-action: pan-x;
+touch-action: pan-x;
+}
+[touch-action=3D"pan-y"] {
+-ms-touch-action: pan-y;
+touch-action: pan-y;
+}
+[touch-action=3D"scroll"], [touch-action=3D"pan-x pan-y"], [touch-action=3D=
+"pan-y pan-x"] {
+-ms-touch-action: pan-x pan-y;
+touch-action: pan-x pan-y;
+}
+.centered {
+=09text-align: center;
+=09padding: 0px;
+=09display: block;
+=09margin-left: auto;
+=09margin-right: auto
+}
+.hideRow1 {
+=09display: table-cell;
+=09height: 10px;
+=09display: none;
+}
+.centered1 {
+=09text-align: center;
+=09padding: 0px;
+=09display: block;
+=09margin-left: auto;
+=09margin-right: auto
+}
+/*----------- RESPONSIVE STYLE -----------*/
+@media only screen and (max-width: 480px) {
+body[yahoo] .deviceWidth {
+=09width: 440px!important;
+=09padding: 0!important;
+=09display: block;
+}
+body[yahoo] .deviceWidth-20 {
+=09width: 440px!important;
+=09padding: 0!important;
+=09display: block;
+}
+body[yahoo] .headerSpacer {
+=09height: 20px!important;
+}
+body[yahoo] IMG.logo {
+=09display: none;
+}
+body[yahoo] .DStvlogo {
+=09width: 160px;
+=09height: 30px;
+=09position: relative;
+=09display: block;
+=09z-index: 2000;
+=09background-image: url(http://cdn.dstv.com/newsletter_images/DStv/common/=
+DStv_Cyan.svg);
+=09background-position: 0px 0px;
+=09background-size: 160px;
+=09background-repeat: no-repeat;
+}
+body[yahoo] table.alignLeft {
+=09align: left;
+}
+body[yahoo] .hideColumn {
+=09display: table-cell;
+=09width: 7px;
+=09display: block !important;
+=09font-size: 1px !important;
+=09max-height: none !important;
+=09line-height: 1.5 !important;
+=09padding: 0;
+}
+body[yahoo] .hideRow {
+=09display: table-cell;
+=09height: 10px;
+}
+body[yahoo] .leftColumn {
+=09width: 100}
+body[yahoo] .leftColumnHeight {
+=09height: 268px;
+=09background-image: url(http://cdn.dstv.com/newsletter_images/Surveys/DStv=
+/common/DStv_Survey_Prize480x.jpg);
+=09background-position: 0px 45px;
+
+=09background-repeat: no-repeat;
+}
+body[yahoo] .notForMobile {
+=09display: none;
+}
+body[yahoo] .prizeHide {
+=09display: none;
+}
+body[yahoo] .spacer-7 {
+=09width: 7px!important;
+=09padding: 0!important;
+=09overflow: hidden;
+=09display: block;
+=09text-align: center;
+}
+body[yahoo] .spacer-20 {
+=09width: 15px!important;
+=09padding: 0!important;
+=09overflow: hidden;
+=09display: block;
+=09text-align: center;
+}
+body[yahoo] img.spacer-h10 {
+=09width: 10px!important;
+=09height: 10px!important;
+=09padding: 0!important;
+=09overflow: hidden;
+=09display: block;
+=09text-align: center;
+}
+body[yahoo] .deviceWidthFooter {
+=09width: 310px!important;
+=09padding: 0!important;
+=09overflow: hidden;
+=09display: block;
+=09text-align: center;
+=09margin-left: auto;
+=09margin-right: auto;
+}
+body[yahoo] .halfColumn {
+=09width: 65}
+body[yahoo] .mobiPrize {
+=09margin-top: 30px;
+=09width: 200px;
+=09height: 228px;
+=09position: relative;
+=09display: block;
+=09z-index: 2000;
+=09background-color: #FFFFFF;
+=09background-image: url(http://cdn.dstv.com/newsletter_images/Surveys/DStv=
+/common/DStv_Survey_Prize480v2.jpg);
+=09background-size: 200px;
+=09
+}
+body[yahoo] IMG.pprizeResize {
+=09display: none;
+}
+}
+/*----------- RESPONSIVE STYLE -----------*/
+@media screen and (max-width: 320px) {
+body[yahoo] .deviceWidth {
+=09width: 280px!important;
+=09padding: 0!important;
+=09display: block;
+}
+body[yahoo] .deviceWidth-20 {
+=09width: 300px!important;
+=09padding: 0!important;
+=09display: block;
+}
+body[yahoo] IMG.logo {
+=09display: none;
+}
+body[yahoo] .DStvlogo {
+=09width: 150px;
+=09height: 28px;
+=09position: relative;
+=09display: block;
+=09z-index: 2000;
+=09background-image: url(http://cdn.dstv.com/newsletter_images/DStv/common/=
+DStv_Cyan.svg);
+=09background-position: 0px 0px;
+=09background-size: 150px;
+=09background-repeat: no-repeat;
+}
+body[yahoo] table.alignLeft {
+=09align: left;
+=09float: left;
+}
+body[yahoo] .headerSpacer {
+=09height: 15px!important;
+}
+body[yahoo] .btn {
+=09width: 210px!important;
+=09padding: 0!important;
+=09display: block;
+}
+body[yahoo] .leftColumn {
+=09width: 280px;
+}
+body[yahoo] .halfColumn {
+=09width: 100}
+body[yahoo] .banner {
+=09position: relative;
+=09display: block;
+=09z-index: 2000;
+=09height: 176px;
+=09width: 280px;
+=09background-image: url(http://cdn.dstv.com/newsletter_images/Surveys/DStv=
+/common/DStv_Survey_Prize320_v2.jpg);
+=09background-position: 0px 0px;
+=09background-size: 280px;
+=09background-repeat: no-repeat;
+}
+body[yahoo] .deviceWidthFooter {
+=09width: 280px!important;
+=09padding: 0!important;
+=09overflow: hidden;
+=09display: block;
+=09text-align: center;
+=09margin-left: auto;
+=09margin-right: auto;
+}
+body[yahoo] IMG.win {
+=09display: none;
+}
+body[yahoo] .notForMobile {
+=09display: none;
+}
+}
+</style>     </head>     <body vlink=3D"#00ccff" marginwidth=3D"0" marginhe=
+ight=3D"0" link=3D"#00ccff" alink=3D"#00ccff" xmlns=3D"" yahoo=3D"fix" left=
+margin=3D"0" topmargin=3D"0" spname=3D"bg_tile.gif" name=3D"bg_tile.gif"><t=
+able width=3D"100r=3D"#efefef" xmlns=3D"" spname=3D"bg_tile.gif">                           =
+   <tr xmlns=3D"">                     <td height=3D"30" bgcolor=3D"#333333=
+" xmlns=3D"" name=3D"Cont_0" style=3D"padding-top:0px;"><p xmlns=3D"" style=
+=3D"font-family:Arial, Helvetica, sans-serif;color:#BBB;font-size:8pt;text-=
+align:center; margin-top:10px; margin-bottom:10px"><span xmlns=3D"" style=
+=3D"font-family:Helvetica, Arial, sans-serif;color:#BBB;font-size:8pt;text-=
+align:center; margin-top:10px; margin-bottom:10px">Email software not playi=
+ng nicely? </span><a xmlns=3D"" name=3D"view online_1" style=3D"color: #009=
+349;text-decoration: none; font-size:8pt;font-family:Arial, Helvetica, sans=
+-serif;" xt=3D"SPCLICKTOVIEW" href=3D"http://links.sp.dstvcomms.com/servlet=
+/MailView?ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&j=3DNjAzMjA0OTk3S0&mt=
+=3D1&rt=3D0" target=3D"_blank"><span xmlns=3D"" style=3D"color: #3ab5ed;tex=
+t-decoration: underline;">View online here</span></a><a xmlns=3D"" xt=3D"SP=
+CLICKTOVIEW" name=3D"_ViewOnline" style=3D"color: #BBB;text-decoration: non=
+e;" target=3D"_blank" href=3D"http://links.sp.dstvcomms.com/servlet/MailVie=
+w?ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&j=3DNjAzMjA0OTk3S0&mt=3D1&rt=3D=
+0">.</a></p></td>                 </tr>                 <tr xmlns=3D"">    =
+                 <td width=3D"600" background=3D"" xmlns=3D"" class=3D"devi=
+ceWidth"><table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" xmlns=3D"" class=3D"deviceWidth">                     =
+                                 <tr xmlns=3D"">                           =
+      <td xmlns=3D""><img width=3D"2" height=3D"50" border=3D"0" xmlns=3D""=
+ src=3D"http://cdn.dstv.com/newsletter_images/Surveys/DStv/common/spacer_h3=
+0.gif" alt=3D""  id=3D"spacer_h35.gif" style=3D"display:block; margin: 0pt;=
+ padding: 0pt;" class=3D"headerSpacer" /></td>                             =
+</tr>                             <tr xmlns=3D"">                          =
+       <td xmlns=3D""><table width=3D"30"0" border=3D"0" align=3D"left" xmlns=3D"">                                =
+                                              <tr xmlns=3D"">              =
+                               <td xmlns=3D"" style=3D"padding-bottom:0px;f=
+ont-family:Arial, Helvetica, sans-serif;color:666666;font-size:12pt;text-al=
+ign:left; line-height:22px;"><table width=3D"20ding=3D"0" border=3D"0" align=3D"left" xmlns=3D"">                         =
+                                                                           =
+  <tr xmlns=3D"">                                                         <=
+td xmlns=3D""><span xmlns=3D"" class=3D"DStvLogo" /><img width=3D"170" xmln=
+s=3D""  src=3D"http://cdn.dstv.com/newsletter_images/Surveys/DStv/common/DS=
+tv_Logo.gif" class=3D"logo" alt=3D"" /></td>                               =
+                      </tr>                                                =
+                                              </table></td>                =
+                         </tr>                                             =
+                         </table></td>                             </tr>   =
+                          <tr xmlns=3D"">                                 <=
+td xmlns=3D""><img width=3D"1" height=3D"25" border=3D"0" xmlns=3D"" style=
+=3D"display:block; margin: 0pt; padding: 0pt;" alt=3D"" src=3D"http://cdn.d=
+stv.com/newsletter_images/Surveys/DStv/common/spacer_h30.gif"  class=3D"hea=
+derSpacer" /></td>                             </tr>                       =
+      <tr xmlns=3D"">                                 <td align=3D"center" =
+xmlns=3D""><table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" bgcolor=3D"#FFFFFF" background=3D"http://cdn.dstv.com/newsletter_ima=
+ges/Surveys/DStv/common/bg_white.gif" xmlns=3D"" class=3D"deviceWidth" name=
+=3D"Cont_2" style=3D"border-top-left-radius: 6px; border-top-right-radius: =
+6px; moz-border-top-left-radius:6px; moz-border-top-right-radius:6px;">    =
+                                                                          <=
+tr xmlns=3D"">                                             <td xmlns=3D""><=
+img width=3D"1" height=3D"30" border=3D"0" xmlns=3D"" src=3D"http://cdn.dst=
+v.com/newsletter_images/Surveys/DStv/common/spacer_h30.gif" alt=3D""  id=3D=
+"spacer_h35.gif2" style=3D"display:block; margin: 0pt; padding: 0pt;" /></t=
+d>                                             <td xmlns=3D"">&nbsp;</td>  =
+                                           <td xmlns=3D"">&nbsp;</td>      =
+                                   </tr>                                   =
+      <tr xmlns=3D"">                                             <td width=
+=3D"35" xmlns=3D""><img width=3D"35" height=3D"1" border=3D"0" xmlns=3D"" s=
+rc=3D"http://cdn.dstv.com/newsletter_images/common/images/spacer_w35.gif" a=
+lt=3D""  id=3D"Cont_3" style=3D"display:block; margin: 0pt; padding: 0pt;" =
+/></td>                                             <td xmlns=3D"" style=3D=
+"font-family:Arial, Helvetica, sans-serif;color:black;font-size:12pt;color:=
+#666666; line-height:20px"><table width=3D"99ng=3D"0" border=3D"0" xmlns=3D"">                                          =
+                                                            <tr xmlns=3D"">=
+                                                         <td xmlns=3D"" sty=
+le=3D"padding-bottom:40px;font-family:Arial, Helvetica, sans-serif;color:66=
+6666;font-size:12pt;text-align:left"><table width=3D"100" cellpadding=3D"0" border=3D"0" xmlns=3D"">                               =
+                                                                           =
+                    <tr xmlns=3D"">                                        =
+                             <td xmlns=3D"" style=3D"padding-bottom:25px;fo=
+nt-family:Arial, Helvetica, sans-serif;color:666666;font-size:12pt;text-ali=
+gn:left; line-height:22px;">Dear DStv Subscriber,</td>                     =
+                                            </tr>                          =
+                                                                           =
+                 </table>                                                  =
+       <table width=3D"1000" xmlns=3D"">                                                             =
+                                                                 <tr xmlns=
+=3D"">                                                                     =
+<td xmlns=3D"" style=3D"padding-bottom:25px;font-family:Arial, Helvetica, s=
+ans-serif;color:666666;font-size:12pt;text-align:left; line-height:22px;">B=
+e the voice of DStv in Africa.  Become a member of the DStv Email Research =
+Panel and give us your opinion, via an online link, on various aspects of t=
+he service that DStv provides.  Some fantastic prizes are up for grabs to a=
+ll who take part, and just by completing this 5 minute registration questio=
+nnaire you stand the chance of winning an Explora decoder!</td>            =
+                                                     </tr>                 =
+                                                <tr xmlns=3D"">            =
+                                                         <td style=3D"paddi=
+ng-bottom:25px;font-family:Arial, Helvetica, sans-serif;color:666666;font-s=
+ize:12pt;text-align:left; line-height:22px;"><a   name=3D"www_dstvresearch_=
+com_SURVEYS_A" target=3D"_blank" href=3D"http://links.sp.dstvcomms.com/ctt?=
+kn=3D4&ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&b=3D0&j=3DNjAzMjA0OTk3S0&m=
+t=3D1&rt=3D0"><img width=3D"230" xmlns=3D""  src=3D"http://cdn.dstv.com/new=
+sletter_images/Surveys/DStv/common/BTN_Start2x.gif" alt=3D"Start the Survey=
+" class=3D"btn" style=3D"display:block; border:none; outline:none;  margin:=
+ 0pt; padding: 0pt;" /></a></td>                                           =
+                      </tr>                                                =
+                                                                      </tab=
+le>                                                         <table width=3D=
+"100                                                                           =
+                                           <tr xmlns=3D"">                 =
+                                                    <td xmlns=3D"" style=3D=
+"padding-bottom:0px;font-family:Arial, Helvetica, sans-serif;color:666666;f=
+ont-size:12pt;text-align:left; line-height:22px;">Participation is voluntar=
+y, and you will not receive more than one invitation a month.  Each time a =
+member completes a survey they are automatically entered into a lucky draw =
+where some fantastic prizes are up for grabs.  We understand that your time=
+ is important. The surveys will only take a few minutes to complete and are=
+ used to improve the quality of our services.</td>                         =
+                                        </tr>                              =
+                                                                           =
+             </table></td>                                                 =
+    </tr>                                                                  =
+                            </table></td>                                  =
+           <td width=3D"35" xmlns=3D""><img width=3D"35" height=3D"1" borde=
+r=3D"0" xmlns=3D"" src=3D"http://cdn.dstv.com/newsletter_images/common/imag=
+es/spacer_w35.gif" alt=3D""  id=3D"Cont_3" style=3D"display:block; margin: =
+0pt; padding: 0pt;" /></td>                                         </tr>  =
+                                                                    </table=
+>                                 <table width=3D"600" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0" align=3D"center" xmlns=3D"" class=3D"deviceWid=
+th">                                                                       =
+       <tr xmlns=3D"">                                             <td bgco=
+lor=3D"2b7dad"><span xmlns=3D"" class=3D"banner"><a   name=3D"www_dstvresea=
+rch_com_SURVEYS_A" target=3D"_blank" href=3D"http://links.sp.dstvcomms.com/=
+ctt?kn=3D4&ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&b=3D0&j=3DNjAzMjA0OTk3=
+S0&mt=3D1&rt=3D0"><img width=3D"100//cdn.dstv.com/newsletter_images/Surveys/DStv/common/DStv_explora_long.jpg"=
+ class=3D"win" alt=3D"" /></a></span></td>                                 =
+        </tr>                                                              =
+        </table>                                 <table width=3D"600" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF" background=
+=3D"http://cdn.dstv.com/newsletter_images/Surveys/DStv/common/bg_white.gif"=
+ xmlns=3D"" class=3D"deviceWidth" name=3D"Cont_2" style=3D"border-bottom-le=
+ft-radius: 6px; border-bottom-right-radius: 6px; moz-border-bottom-left-rad=
+ius:6px; moz-border-bottom-right-radius:6px;">                             =
+                                                 <tr xmlns=3D"">           =
+                                  <td xmlns=3D""><img width=3D"1" height=3D=
+"35" border=3D"0" xmlns=3D"" src=3D"http://cdn.dstv.com/newsletter_images/S=
+urveys/DStv/common/spacer_h30.gif" alt=3D""  id=3D"spacer_h35.gif2" style=
+=3D"display:block; margin: 0pt; padding: 0pt;" /></td>                     =
+                        <td xmlns=3D"">&nbsp;</td>                         =
+                    <td xmlns=3D"">&nbsp;</td>                             =
+            </tr>                                         <tr xmlns=3D"">  =
+                                           <td width=3D"35" xmlns=3D""><img=
+ width=3D"35" height=3D"1" border=3D"0" xmlns=3D"" src=3D"http://cdn.dstv.c=
+om/newsletter_images/common/images/spacer_w35.gif" alt=3D""  id=3D"Cont_3" =
+style=3D"display:block; margin: 0pt; padding: 0pt;" /></td>                =
+                             <td xmlns=3D"" style=3D"font-family:Arial, Hel=
+vetica, sans-serif;color:black;font-size:12pt;color:#666666; line-height:20=
+px"><table width=3D"99mlns=3D"">                                                                 =
+                                     <tr xmlns=3D"">                       =
+                                  <td xmlns=3D"" style=3D"padding-bottom:5p=
+x;font-family:Arial, Helvetica, sans-serif;color:666666;font-size:12pt;text=
+-align:left"><table width=3D"100er=3D"0" xmlns=3D"">                                                       =
+                                                                       <tr =
+xmlns=3D"">                                                                =
+     <td xmlns=3D"" style=3D"padding-bottom:1px;font-family:Arial, Helvetic=
+a, sans-serif;color:666666;font-size:12pt;text-align:left; line-height:22px=
+;">We always appreciate any feedback that you give us. I hope you enjoy thi=
+s survey.<br xmlns=3D"" />                                                 =
+                    <br xmlns=3D"" />                                      =
+                               Kind regards</td>                           =
+                                      </tr>                                =
+                                 <tr xmlns=3D"">                           =
+                                          <td xmlns=3D"" style=3D"padding-b=
+ottom:25px;font-family:Arial, Helvetica, sans-serif;color:666666;font-size:=
+12pt;text-align:left; line-height:22px;"><p xmlns=3D""><em xmlns=3D""><stro=
+ng xmlns=3D"">Clive Venketsamy<br xmlns=3D"" />                            =
+                                         Market Research Manager<br xmlns=
+=3D"" />                                                                   =
+  MultiChoice Africa </strong></em></p></td>                               =
+                                  </tr>                                    =
+                                                                           =
+       </table></td>                                                     </=
+tr>                                                                        =
+                      </table></td>                                        =
+     <td width=3D"35" xmlns=3D""><img width=3D"35" height=3D"1" border=3D"0=
+" xmlns=3D"" src=3D"http://cdn.dstv.com/newsletter_images/common/images/spa=
+cer_w35.gif" alt=3D""  id=3D"Cont_3" style=3D"display:block; margin: 0pt; p=
+adding: 0pt;" /></td>                                         </tr>        =
+                                                              </table></td>=
+                             </tr>                             <tr xmlns=3D=
+"">                                 <td height=3D"10" xmlns=3D""><table wid=
+th=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" xmlns=3D"" clas=
+s=3D"deviceWidthFooter">                                                   =
+                           <tr xmlns=3D"">                                 =
+            <td xmlns=3D""><img width=3D"1" height=3D"35" border=3D"0" xmln=
+s=3D"" style=3D"display:block; margin: 0pt; padding: 0pt;" alt=3D"" src=3D"=
+http://cdn.dstv.com/newsletter_images/Surveys/DStv/common/spacer_h30.gif"  =
+/></td>                                         </tr>                      =
+                   <tr>                                             <td ali=
+gn=3D"center" style=3D"padding-bottom:10px;"><a target=3D"_blank" href=3D"h=
+ttp://links.sp.dstvcomms.com/servlet/OneClickOptOutServlet?m=3D47870983&r=
+=3DMTI0NTY2MDYzNDgzS0&b=3D0&j=3DNjAzMjA0OTk3S0&mt=3D1&rt=3D0"  style=3D"fon=
+t-family:Helvetica, Arial, sans-serif;color:#666666;font-size:8pt; text-ali=
+gn:center; line-height:8px" name=3D"Unsubscribe_1"><span style=3D"font-fami=
+ly:Helvetica, Arial, sans-serif;color:#666666;font-size:8pt; text-align:cen=
+ter; line-height:8px">Unsubscribe</span></a></td>                          =
+               </tr>                                         <tr xmlns=3D""=
+>                                             <td align=3D"cente" xmlns=3D"=
+"><p xmlns=3D"" class=3D"centered1"><a xmlns=3D""  href=3D"http://links.sp.=
+dstvcomms.com/ctt?kn=3D6&ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&b=3D0&j=
+=3DNjAzMjA0OTk3S0&mt=3D1&rt=3D0" name=3D"MultiChoice" target=3D"_blank" id=
+=3D"MultiChoice" style=3D"display:block; margin: 0pt; padding: 0pt; text-al=
+ign:center"><img width=3D"135" height=3D"74" border=3D"0" xmlns=3D"" src=3D=
+"http://cdn.dstv.com/newsletter_images/common/MultiChoice_Africa.gif"  alt=
+=3D"" /></a></p></td>                                         </tr>        =
+                                 <tr xmlns=3D"">                           =
+                  <td xmlns=3D""><img height=3D"5" border=3D"0" xmlns=3D"" =
+alt=3D"" style=3D"display:block; margin: 0pt; padding: 0pt;" src=3D"http://=
+cdn.dstv.com/newsletter_images/common/spacer.gif"  /></td>                 =
+                        </tr>                                         <tr x=
+mlns=3D"">                                             <td align=3D"center"=
+ xmlns=3D"" style=3D"padding-bottom:10px;"><span xmlns=3D"" style=3D"font-f=
+amily:Helvetica, Arial, sans-serif;color:#666666;font-size:8pt; text-align:=
+center; line-height:8px">&copy; 2015 MultiChoice Africa LTD. All rights res=
+erved. <span xmlns=3D"" style=3D"color:#009349"><a xmlns=3D"" href=3D"http:=
+//links.sp.dstvcomms.com/servlet/OneClickOptOutServlet?m=3D47870983&r=3DMTI=
+0NTY2MDYzNDgzS0&b=3D0&j=3DNjAzMjA0OTk3S0&mt=3D1&rt=3D0" name=3D"Unsubscribe=
+_1" target=3D"_blank" id=3D"Unsubscribe_2" style=3D"color:#009349; text-dec=
+oration:underline; font-size:8pt" ></a></span></span></td>                 =
+                        </tr>                                         <tr x=
+mlns=3D"">                                             <td valign=3D"top" a=
+lign=3D"cente" xmlns=3D"" style=3D"font-family:Helvetica, Arial, sans-serif=
+;color:#009349; font-size:8pt; text-align:center; line-height:16px"><span x=
+mlns=3D"" style=3D"font-family:Helvetica, Arial, sans-serif;color:#3ab5ed;f=
+ont-size:8pt; text-align:center; line-height:18px"><a xmlns=3D"" href=3D"ht=
+tp://links.sp.dstvcomms.com/ctt?kn=3D3&ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzN=
+DgzS0&b=3D0&j=3DNjAzMjA0OTk3S0&mt=3D1&rt=3D0" name=3D"Terms_Conditions" tar=
+get=3D"_blank" id=3D"Terms_Conditions" style=3D"color:#3ab5ed; text-decorat=
+ion:underline; font-family:Helvetica, Arial, sans-serif; font-size:8pt" >Mu=
+ltiChoice Terms &amp; Conditions</a> <span xmlns=3D"" style=3D"color:#99999=
+9"> | </span> <a xmlns=3D"" href=3D"http://links.sp.dstvcomms.com/ctt?kn=3D=
+7&ms=3DNDc4NzA5ODMS1&r=3DMTI0NTY2MDYzNDgzS0&b=3D0&j=3DNjAzMjA0OTk3S0&mt=3D1=
+&rt=3D0" name=3D"Contact_us" target=3D"_blank" id=3D"Contact_us" style=3D"c=
+olor:#3ab5ed; text-decoration:underline; font-family:Helvetica, Arial, sans=
+-serif; font-size:8pt" > Contact us</a></span></td>                        =
+                 </tr>                                         <tr xmlns=3D=
+"">                                             <td valign=3D"top" xmlns=3D=
+"" style=3D"font-family:Helvetica, Arial, sans-serif;color:#009349; font-si=
+ze:8pt; text-align:center; line-height:25px"><img width=3D"1" height=3D"35"=
+ border=3D"0" xmlns=3D"" style=3D"display:block; margin: 0pt; padding: 0pt;=
+" alt=3D"" src=3D"http://cdn.dstv.com/newsletter_images/Surveys/DStv/common=
+/spacer_h30.gif"  /></td>                                         </tr>    =
+                                                                  </table><=
+/td>                             </tr>                                     =
+         </table></td>                 </tr>                      </table> =
+        <p></p><IMG src=3D"http://links.sp.dstvcomms.com/open/log/47870983/=
+MTI0NTY2MDYzNDgzS0/0/NjAzMjA0OTk3S0/1/0"></body></html>
+
+
+------=_Part_18153_1093716678.1422014349555--
+

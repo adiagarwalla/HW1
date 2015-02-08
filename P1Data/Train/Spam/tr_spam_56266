@@ -1,0 +1,94 @@
+From @..  Sun Jan 18 12:04:26 2015
+Return-Path: <@..>
+X-Original-To: bbrb@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 4B5CFDE; Sun, 18 Jan 2015 12:04:26 +0000 (UTC)
+Received: from mx1.firstserver.ne.jp (mx1.firstserver.ne.jp [164.46.1.4])
+    by .. with SMTP id azawt6ia4mfvsikr4cmieuxb4a;
+    for bbrb@fs.net;
+    Sun, 18 Jan 2015 12:04:25 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=164.46.1.4; envelope-from=<>; helo=mx1.firstserver.ne.jp
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=164.46.1.4; client-port=36551;
+    syn-fingerprint=5840:45:1:52:M1380,N,N,S,N,W7 Linux 2.4 w/o timestamps;
+    network-hops=18; network-path=143.215.250.65 130.207.254.29
+    130.207.254.186 143.215.194.105 143.215.193.74 198.32.132.75
+    184.105.213.113 184.105.222.77 184.105.222.86 221.111.203.1 0.0.0.0
+    61.206.157.74 124.83.228.198 158.205.134.30 158.205.192.202 154.34.239.234
+    158.205.205.2 164.46.1.4; network-path-time=1421582665
+Received: from localhost (localhost)
+	by mx1.firstserver.ne.jp (8.13.8/8.13.8) id t0IC4Ng3004405;
+	Sun, 18 Jan 2015 21:04:23 +0900
+	(envelope-from MAILER-DAEMON)
+Date: Sun, 18 Jan 2015 21:04:23 +0900
+From: Mail Delivery Subsystem <@..>
+Message-Id: <201501181204.t0IC4Ng3004405@mx1.firstserver.ne.jp>
+To: <@..>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="t0IC4Ng3004405.1421582663/mx1.firstserver.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--t0IC4Ng3004405.1421582663/mx1.firstserver.ne.jp
+
+The original message was received at Sun, 18 Jan 2015 21:04:11 +0900
+from [111.178.164.130]
+
+   ----- The following addresses had permanent fatal errors -----
+<terao-f2@terao-f.co.jp>
+    (reason: 550 5.1.1 <terao-f2@terao-f.co.jp>... User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to mail.terao-f.co.jp.:
+>>> DATA
+<<< 550 5.1.1 <terao-f2@terao-f.co.jp>... User unknown
+550 5.1.1 <terao-f2@terao-f.co.jp>... User unknown
+<<< 503 5.0.0 Need RCPT (recipient)
+
+--t0IC4Ng3004405.1421582663/mx1.firstserver.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx1.firstserver.ne.jp
+Received-From-MTA: DNS; [111.178.164.130]
+Arrival-Date: Sun, 18 Jan 2015 21:04:11 +0900
+
+Final-Recipient: RFC822; terao-f2@terao-f.co.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mail.terao-f.co.jp
+Diagnostic-Code: SMTP; 550 5.1.1 <terao-f2@terao-f.co.jp>... User unknown
+Last-Attempt-Date: Sun, 18 Jan 2015 21:04:22 +0900
+
+--t0IC4Ng3004405.1421582663/mx1.firstserver.ne.jp
+Content-Type: text/rfc822-headers
+
+Return-Path: <bbrb@fs.net>
+Received: from fs.net ([111.178.164.130])
+	by mx1.firstserver.ne.jp (8.13.8/8.13.8) with ESMTP id t0IC4Ag3004377
+	for <terao-f2@terao-f.co.jp>; Sun, 18 Jan 2015 21:04:11 +0900
+	(envelope-from bbrb@fs.net)
+Received: from okeoecrcg (unknown [218.45.184.163])
+	by fs.net with SMTP id bIHXozySC7Aq8oZ9.1
+	for <terao-f2@terao-f.co.jp>; Sun, 18 Jan 2015 20:04:17 +0800
+Message-ID: <C45DEC108526C9610587C455EFB9ECF5@okeoecrcg>
+From: =?utf-8?B?5pq06K+05rao?= <bbrb@fs.net>
+To: <terao-f2@terao-f.co.jp>
+Subject: =?utf-8?B?5paw5Lu757uP55CG5oqK5bel5L2c566h5aW955qE5pa55rOV5ZKM5oqA5ben?=
+Date: Sun, 18 Jan 2015 20:04:07 +0800
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+
+--t0IC4Ng3004405.1421582663/mx1.firstserver.ne.jp--
+

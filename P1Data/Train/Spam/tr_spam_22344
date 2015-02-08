@@ -1,0 +1,972 @@
+From @..  Fri Jan 23 06:53:52 2015
+Return-Path: <@..>
+X-Original-To: bazza_514@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 8D54ADE; Fri, 23 Jan 2015 06:53:52 +0000 (UTC)
+Received: from webgridc162.emsecure.net (webgridc162.emsecure.net [37.148.178.162])
+    by .. with SMTP id 5a4d26sycjj9rmm4febuwdz362;
+    for bazza_514@fs.net;
+    Fri, 23 Jan 2015 06:53:50 +0000 (UTC)
+    (envelope-from grid@grid.emsecure.net)
+Received-SPF: Pass; receiver=..;
+    client-ip=37.148.178.162; envelope-from=<grid@grid.emsecure.net>;
+    helo=webgridc162.emsecure.net; mechanism=include:spf.emsecure.net
+    (ip4:37.148.178.128/25 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=37.148.178.162; client-port=51489;
+    syn-fingerprint=8192:112:0:52:M1380,N,W8,N,N,S;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.218 206.126.236.147 138.187.159.14 193.5.122.67
+    80.84.18.148 94.102.160.142 94.102.162.200 80.84.18.140 94.102.162.50
+    0.0.0.0 217.21.188.85; network-path-time=1421996029
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=ecomm.bt.com; s=sim; x=1422600843; i=@ecomm.bt.com; h=message-id:
+	from:to:subject:date:reply-to:mime-version:content-type; bh=WqKr
+	a2PRr4IZqLkmuwfqX64wVkHXEhS9OCHTRdQZ+lI=; b=ksClezyZMnjKsrrfti9/
+	99Wt1GTrGdNVa6ls9w7idsz/OlGSLyx5YsN84jLzTqdpFhmDP0YqORpFiiPohAPX
+	Y8hXtugGjJd5g+n0njb0GLVO7p2sTWkmrZtKOOJGvWfIU1AQUmSbuQi9t7MAwqQe
+	3D7AzGO82mqQQnyHus6A9y0=
+Message-ID: <FSo1z4qBfQPJaPHAg4wEvUpTwNWjdaNaFrom: "BT Sport" <@..>
+To: <@..>
+Subject: =?utf-8?B?VGhlIEZyaWRheSBGaXgg4oCTIHlvdXIg?=
+ =?utf-8?B?d2Vla2x5IGd1aWRlIHRvIHRoZSB3bw==?=
+ =?utf-8?B?cmxkIG9mIEJUIFNwb3J0?=
+Date: Fri, 23 Jan 2015 06:54:03 +0000
+Reply-To: "BT Sport" <@..>
+X-GRID-REF: 8A66B7582E9A48E5AC85DC32E810B6FA.FSo1z4qBfQPJaPHAg4wEvUpTwNWjdaNaX-MA-Reference: SIM_F2CF8TM6KcX-MA-Instance: SIM_F2CF8TM6KcMIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_NexPart_001_"
+
+--_NexPart_001_
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Your weekly guide to the world of BT Sport =7C View online version > ht=
+tp://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F_Se0a8aHzbLqduuKGh=
+xzKJabCXbGC_qTo2KzifJNKj0S2QpU=0A=0A=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=0A=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=0A=0AThe Friday Fix=0ALiverpool, Arsenal and Stoke are =
+the top-flight Goliaths out to avoid lower-league slingshots in our liv=
+e FA Cup games this week. Here's more...=0A-------------------------=0A=
+=0ALive FA Cup=0A-----------=0ALiverpool v Bolton=0A5.15pm, Saturday=0A=
+BT Sport 1=0A=0ASteven Gerrard's double put out Wimbledon in round thre=
+e. The departing skipper's bid to leave Anfield with another Cup winner=
+'s medal continues against Bolton =E2=80=93 fronted by his old pal Emil=
+e Heskey.=0A=0AFA Cup preview > http://ecomm.bt.com/optiext/optiextensi=
+on.dll?ID=3DF98F6kGv6gHUyB93u7Sl_Zs6PaWDWk7IHky7XGighZYqtDOVwsHdVGUVsgK=
+P0cbgRllzbHD87wKfSunday=0ABT Sport 1=0A=0AChampionship strugglers Brighton =E2=80=93 man=
+aged by ex-Norwich boss Chris Hughton =E2=80=93 host giants Arsenal in =
+a repeat of the 2013 fourth-round tie, which the Gunners won 3-2 thanks=
+ to a late Theo Walcott strike.=0A=0AFootball news > http://ecomm.bt.co=
+m/optiext/optiextension.dll?ID=3DF98F5YH4aR9jOIMjb9xWkUuvZDZ2GXfrAZTX5Y=
+au0dKNdpLVxTAzH9JlulAAiRyXPjctVGcbLCDiD3nyplsfWCNezV8xf=0A=0ARochdale v=
+ Stoke=0A7.45pm, Monday=0ABT Sport 1=0A=0ARochdale aim to punch two div=
+isions above their weight when Premier League Stoke =E2=80=93 finalists=
+ in 2011 =E2=80=93 visit Spotland. In the last round, Keith Hill's men =
+edged past Championship outfit Nottingham Forest.=0A=0AMore live footba=
+ll > http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F9C5kUb2qP5T=
+mB0VrofJqSV6jPXa3gbasgUdmPq0juEMpwCpyZP2pSbcdAXm2h1 =0A------------------------------------=0A=0AClip of the week=
+=0A-----------------=0AMany a Sunday league footballer will be able to =
+identify with Lyon attacker Nabil Fekir's flamboyant =E2=80=93 but fail=
+ed =E2=80=93 attempt at an acrobatic finish...=0A=0AWatch the clip here=
+ > http://ecomm.bt.com/optiext/optiextension.dll?ID=3DGcdGbeptEQxKpMB0Q=
+WE9J1QuTssGXGNln5BdKvRQrvKOZZeqOA3oOOpRDfI9wwqLu5I8FKfMKq3J8l_vxTUFayHk=
+_HOqp=0A------------------------------------=0A=0AYour seven days of sp=
+ort=0AEnjoy football, rugby, basketball and more live on TV, on the app=
+ and online this week...=0A------------------------------------=0AFrida=
+y=0ASPFL Premiership=0ASt Johnstone v Aberdeen=0A7.30pm, BT Sport 1=0A=0A=
+Saturday=0AEuropean Rugby Champions Cup=0ANorthampton v Racing Metro=0A=
+3pm, BT Sport 1=0A=0ASunday=0ASerie A=0AFiorentina v Roma=0A7.45pm, BT =
+Sport 1=0A=0AMonday=0ARugby=0ARugby Tonight=0A8pm, BT Sport 2=0A=0ATues=
+day=0ANBA=0ABulls =40 Warriors=0A3.30am (Weds), BT Sport 1=0A=0AWednesd=
+ay=0ANBA=0ANets =40 Hawks=0A1am (Thurs), BT Sport 1=0A=0AThursday=0AEur=
+oleague Basketball=0AAnadolu Efes Istanbul v Olympiacos=0A7.45pm, ESPN=0A=
+=0AClick here for full BT Sport listings > http://ecomm.bt.com/optiext/=
+optiextension.dll?ID=3DF98FCjrVxx6BXHdqBhcd9lOOiyoXF2ES8AUD4NsLo6EfvNvwjjwFW=0A-------------------=
+-----------------=0A=0AInstant replay=0A--------------=0AHits don't com=
+e much bigger than this George Pisi smash on, err, Dan Biggar. Unfortun=
+ately for the Northampton back, the referee didn't approve...=0A=0AWatc=
+h the video > http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98FBZsi8fqJuuMIlzxRiimCYwTKxK=0A------------------------------------=0A=0AQuot=
+e of the week=0A------------------=0A=E2=80=9CWe can scrum, we can driv=
+e and we showed that we can play a bit of football.=E2=80=9D=0ABath coa=
+ch Mike Ford is chuffed with his team's efforts after a memorable 35-18=
+ win in Toulouse. Can he lead the West Country side to European glory?=0A=
+=0AVideo: stunning Bath try > http://ecomm.bt.com/optiext/optiextension=
+=2Edll?ID=3DF98F71RfgVJrLDzG5k4Fv29Mr5vxnaYny8z6PNFGBtwuU6Rpwg838bCuXRw=
+SQAYV------=0A=0AStat of the week=0A------------------=0A2 =E2=80=93 Alexand=
+er Gustafsson has been involved in 'Fight Of The Night' in his last two=
+ bouts. With another light-heavyweight title shot potentially on the li=
+ne, expect fireworks here.=0A=0AUFC Fight Night=0AGustafsson v Johnson=0A=
+1am, Sat (Sun morning), BT Sport 1=0A----------------------------------=
+--=0A=0AHealey's hunch=0A--------------=0A=22After their memorable win =
+over Toulouse last week, I can't see Bath letting qualification slip th=
+rough their grasp. I'm going for a home win here.=22=0A=0AEuropean Rugb=
+y Champions Cup=0ABath v Glasgow=0AMidday, Sunday, BT Sport 2=0A=0AEuro=
+pean rugby preview > http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98F443PQgj5vqvMyroyANcL4q88wDf4frNeed help with BT Sport? > http://ecomm.bt.com/optiext/optiextension.dl=
+l?ID=3DF98FQiARQrYLZhIUrdmhUYKSUkt.com/optiext/optiextension.dll?ID=3DF98F_GwehScwnbMlea_4FKA944b_loaR5f=
+JO7CUKj62ViaoVwMTBJBxu70PrGBMbqMNpa3DGIj8V2jZegnFcKgRygn13E=0AIs this e=
+mail genuine? > http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F=
+_XtU5DbG_L8Go7oL2kxvZdoE7Q7Fj1s8WUlI0le8OrypxHoPp3mS7wkAh5KUVRsWExbEwIk=
+7g5Lg4lmgmKYIujLVS=0A=0ATwitter > http://ecomm.bt.com/optiext/optiexten=
+sion.dll?ID=3DF98F9ZJ96ScnEE2xaiI9xS6iXZrQWarTUasG0wThzVf04whVxPCLu0wDl=
+u2VhqZwNOBtTivQ08MK6aGlKdvGKsdBHXWNL=0AFacebook > http://ecomm.bt.com/o=
+ptiext/optiextension.dll?ID=3DF98F8uYwBTnzPt0fmTYXpwmZg0ryvatmahU7TD18zqgc_U6EMizn5mHBhttp://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F6KnZWn5IeeN_e6Qs=
+aDh4JQye4YrC6lkBlp0=0AGoogle+ > http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98=
+F6vNjFRLT4uDnCucnumfGZO9xJ7QaKVg4jThyaEYhrtbVxqZnk0yw6rVYxQWeFqpeeWe6N7=
+XJZCdpQZEdtwPFdnThb=0A------------------------------------=0A=0AImporta=
+nt things you should know=0A=0AFixture and programme times are subject =
+to change.=0A=0APlease don't reply to this email =E2=80=93 it's been au=
+tomatically generated by our computer. If you need to get in touch, ple=
+ase use the contact links above. BT own all '=40ecomm.bt.com' addresses=
+=2E We sent this email to you at bazza_514=40fs.net because you subscri=
+be to BT Sport. To unsubscribe from BT Sport emails click here > http:/=
+/ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F63guedNy81ZWmHUMlvAdv2Zz1Z8cPLUQWM20Qy8xKlpw6YKchh=2E=0A=0A=C2=A9 British Telecommunications plc 2015. We're registered i=
+n England at 81 Newgate Street, London EC1A 7AJ (company number 1800000=
+). All this information was correct on the date we sent this email. Pri=
+ces may change during contract period. See our terms and conditions at =
+bt.com/legalstuff > http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98FQvavuWu9HqXp_MIgHj5dHE
+--_NexPart_001_
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22=
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22>=0A<html><he=
+ad><meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charse=
+t=3Dutf-8=22 />=0A    <meta http-equiv=3D=22Content-Type=22 name=3D=22v=
+iewport=22 content=3D=22charset=3DUTF-8; width=3Ddevice-width; initial-=
+scale=3D1.0; text/html=22 />=0A    <title>BT Sport - The Friday Fix</ti=
+tle>=0A    <style type=3D=22text/css=22>=0A      body =7Bwidth:100important;=7D=0A      .ReadMsgBody =7B width: 100lClass =7Bwidth: 100it-text-size-adjust: none; -ms-text-size-adjust: none; =7D=0A      tabl=
+e td =7B border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; =7D=0A      p =7B margin: 0; padding: 0; margin-bottom: 0; =7D=
+=0A      ul =7B margin: 0; =7D=0A      a, img =7Bborder:none;=7D=0A    =
+  .ExternalClass * =7B line-height: 100th: 600px) =7B=0A      table=5Bclass=3D=22fit-width=22=5D, tr=5Bclass=3D=
+=22fit-width=22=5D, td=5Bclass=3D=22fit-width=22=5D, img=5Bclass=3D=22f=
+it-width=22=5D =7B=0A      width: 100=0A      tr=5Bclass=3D=22float-left=22=5D, td=5Bclass=3D=22float-left=22=
+=5D, img=5Bclass=3D=22float-left=22=5D, table=5Bclass=3D=22float-left=22=
+=5D =7B=0A      width: 100=0A      =7D=0A      td=5Bclass=3D=22float-left-rowspan=22=5D =7B=0A   =
+   width: 100hide=22=5D, img=5Bclass=3D=22hide=22=5D, table=5Bclass=3D=22hide=22=5D =
+=7B=0A      display:none;=0A      =7D=0A      tr=5Bclass=3D=22display-b=
+lock=22=5D, td=5Bclass=3D=22display-block=22=5D, img=5Bclass=3D=22displ=
+ay-block=22=5D, table=5Bclass=3D=22display-block=22=5D =7B=0A      disp=
+lay:block;=0A      =7D=0A      table=5Bclass=3D=22fit-width-block=22=5D=
+, td=5Bclass=3D=22fit-width-block=22=5D =7B=0A      width: 100  height: auto;=0A      display: block;=0A      =7D=0A      td=5Bclass=3D=
+=22third-block=22=5D =7B=0A      width: 33    =7D=0A      td=5Bclass=3D=22half-block=22=5D =7B=0A      width: 49.=
+5k=22=5D =7B=0A      width: 100t-height=22=5D =7B=0A      height: 100=22height-20=22=5D =7B=0A      height: 20px;=0A      =7D=0A      br=5Bc=
+lass=3D=22responsive-br=22=5D =7B=0A      display:none;=0A      =7D=0A =
+     =7D=0A      =40media (max-width: 400px) =7B=0A      br=5Bclass=3D=22=
+responsive-br=22=5D =7B=0A      display:block;=0A      =7D=0A      =7D=0A=
+      =40media (max-width: 360px) =7B=0A      font=5Bclass=3D=22mobile-=
+headline-large=22=5D=7B=0A      font-size: 40px =21important;=0A      =7D=
+=0A      font=5Bclass=3D=22mobile-headline-small=22=5D=7B=0A      font-=
+size: 15px =21important;=0A      =7D=0A      span=5Bclass=3D=22responsi=
+ve-line=22=5D =7B=0A      display: block;=0A      =7D=0A      img=5Bcla=
+ss=3D=22fit-width-mobile=22=5D =7B=0A      width: 100 auto;=0A      =7D=0A      td=5Bclass=3D=22day-font=22=5D=7B=0A      fo=
+nt-size: 14px =21important;=0A      =7D=0A      table=5Bclass=3D=22day-=
+table=22=5D=7B=0A      width:264px =21important;=0A      =7D=0A      td=
+=5Bclass=3D=22day-text=22=5D, table=5Bclass=3D=22day-text=22=5D=7B=0A  =
+    width:210px =21important;=0A      =7D=0A      =7D=0A    </style>=0A=
+  </head><body style=3D=22background-color: =23262626;=22><span style=3D=
+=22display: none =21important; font-size:1px; mso-hide:all;=22></span><=
+img width=3D'1' height=3D'1' src=3D'http://in.grid.emsecure.net/gic/i.p=
+ng?h=3DQII9thWKixCPuviISx5a5Dfh3v7cpVlu0jgo8nvnED030f3NxPAfavt+4UehSq6x=
+' style=3D'display:none' alt=3D'' /><img width=3D'1' height=3D'1' src=3D=
+'http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F6fWuhmOWzNjw1Ns=
+CrdsopM0Tc5ACyqJMI_jVY' style=3D'display:none' alt=3D'' /><=21-- Page container --><ta=
+ble border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100or=3D=22=23262626=22 align=3D=22center=22><table class=3D=22fit-width=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22=
+600=22 align=3D=22center=22><tr><td width=3D=2210=22>&nbsp;</td><td cla=
+ss=3D=22fit-width-block=22 width=3D=22580=22><=21-- Main table --><tabl=
+e class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr bgcolor=3D=22=
+=23262626=22><td height=3D=2220=22>&nbsp;</td></tr></table><=21--Read o=
+nline --><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22 width=3D=22580=22 align=3D=22center=22><t=
+r><td style=3D=22LINE-HEIGHT: 12px; FONT-FAMILY: Arial, Helvetica, sans=
+-serif; COLOR: =23ffffff; FONT-SIZE: 10px=22 align=3D=22left=22><div> Y=
+our weekly guide to the world of BT Sport =7C <a href=3D=22http://ecomm=
+=2Ebt.com/optiext/optiextension.dll?ID=3DF98F_Se0a8aHzbLqduuKGhxzKJabCX=
+bGC_qTo2KzifJNKj>View online version</a></div></td></tr></table><=21-- // Read online -=
+-><=21-- Header --><table class=3D=22fit-width=22 border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22 width=3D=22580=22 align=3D=22ce=
+nter=22><tr><td class=3D=22float-left-rowspan=22 bgcolor=3D=22=23262626=
+=22 height=3D=2240=22 colspan=3D=222=22>&nbsp;</td><td class=3D=22float=
+-left=22 rowspan=3D=224=22><table class=3D=22float-left=22 border=3D=22=
+0=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22165=22><tr>=
+<td class=3D=22hide=22 height=3D=2240=22>&nbsp;</td></tr><tr><td style=3D=
+=22FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22><a st=
+yle=3D=22COLOR: =23ffffff; TEXT-DECORATION: none=22 href=3D=22http://ec=
+omm.bt.com/optiext/optiextension.dll?ID=3DF98F7xpj0GnXmavoFHwe97mWEPbwu=
+zllvH8597ch2KA9imipwFDwjg8vAyFwUiLk8w2op2UMZK6IkuCCYwz7aP3tlQU3j=22 tar=
+get=3D=22_blank=22><img style=3D=22DISPLAY: block=22 border=3D=220=22 a=
+lt=3D=22BT Sport=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERV=
+ICE_CAMP/FRIDAY_FIX/20150122/header-bt-logo.jpg=22 width=3D=22165=22 he=
+ight=3D=2236=22></a></td></tr></table></td><td class=3D=22float-left=22=
+ width=3D=2210=22>&nbsp;</td></tr><tr><td class=3D=22float-left=22 cols=
+pan=3D=222=22><table class=3D=22float-left=22 border=3D=220=22 cellspac=
+ing=3D=220=22 cellpadding=3D=220=22 width=3D=22415=22><tr><td class=3D=22=
+float-left=22 width=3D=22415=22 align=3D=22left=22><font style=3D=22FON=
+T-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 48=
+px=22 class=3D=22mobile-headline-large=22><b>The Friday Fix</b></font><=
+/td></tr></table></td></tr></table><=21-- // Header --><table class=3D=22=
+fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22580=22 align=3D=22center=22><tr><td height=3D=2220=22>&nbsp=
+;</td></tr></table><=21-- Header links --><table class=3D=22float-left=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22=
+580=22 align=3D=22center=22><tr><td class=3D=22float-left=22><table cla=
+ss=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 width=3D=22288=22 align=3D=22center=22><tr><td height=3D=22=
+4=22 width=3D=22288=22 colspan=3D=225=22 align=3D=22center=22></td></tr=
+><tr><=21-- Link block --><td class=3D=22third-block=22 bgcolor=3D=22=23=
+4b4b4b=22 width=3D=2293=22 align=3D=22center=22><table class=3D=22fit-w=
+idth=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 wi=
+dth=3D=2293=22><tr><td style=3D=22FONT-FAMILY: Helvetica, Arial, sans-s=
+erif; COLOR: =23ffffff; FONT-SIZE: 15px=22 height=3D=2242=22 width=3D=22=
+93=22 align=3D=22center=22><a style=3D=22COLOR: =23ffffff; TEXT-DECORAT=
+ION: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=
+=3DF98F56PvS9js_vZdq></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=
+=22=23045a9a=22 height=3D=222=22 width=3D=2293=22></td></tr></table></t=
+d><=21-- // Link block --><td class=3D=22display-block=22 width=3D=224=22=
+></td><=21-- Link block --><td class=3D=22third-block=22 bgcolor=3D=22=23=
+4b4b4b=22 height=3D=2242=22 width=3D=2293=22 align=3D=22center=22><tabl=
+e class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 width=3D=2293=22><tr><td style=3D=22FONT-FAMILY: Helvet=
+ica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 15px=22 height=3D=22=
+42=22 width=3D=2293=22 align=3D=22center=22><a style=3D=22COLOR: =23fff=
+fff; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/opt=
+iextension.dll?ID=3DF98F76HlE8JKECl7Lu1Dqqg84WdbBjeBCRa5DDM_2QkOXrGBY8aYxI00kZtOUaFlQLtJR6jE>Rugby Union</a></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZ=
+E: 0px=22 bgcolor=3D=22=2370c447=22 height=3D=222=22 width=3D=2293=22><=
+/td></tr></table></td><=21-- // Link block --><td class=3D=22display-bl=
+ock=22 width=3D=224=22></td><=21-- Link block --><td class=3D=22third-b=
+lock=22 bgcolor=3D=22=234b4b4b=22 width=3D=2293=22 align=3D=22center=22=
+><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 =
+cellpadding=3D=220=22 width=3D=2293=22><tr><td style=3D=22FONT-FAMILY: =
+Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 15px=22 heig=
+ht=3D=2242=22 width=3D=2293=22 align=3D=22center=22><a style=3D=22COLOR=
+: =23ffffff; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/opt=
+iext/optiextension.dll?ID=3DF98F6xqLvb1uAVwsT8SdiZ4A73HS8U8T8IRRbbcfQATNoT5qW_KRKELblank=22>MotoGP</a></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-=
+SIZE: 0px=22 bgcolor=3D=22=2305d0b5=22 height=3D=222=22 width=3D=2293=22=
+></td></tr></table></td><=21-- // Link block --></tr></table></td><td c=
+lass=3D=22hide=22 width=3D=224=22></td><td class=3D=22float-left=22><ta=
+ble class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 width=3D=22288=22 align=3D=22center=22><tr><td heigh=
+t=3D=224=22 width=3D=22288=22 colspan=3D=225=22 align=3D=22center=22></=
+td></tr><tr><=21-- Link block --><td class=3D=22third-block=22 bgcolor=3D=
+=22=234b4b4b=22 width=3D=2293=22 align=3D=22center=22><table class=3D=22=
+fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=2293=22><tr><td style=3D=22FONT-FAMILY: Helvetica, Arial, san=
+s-serif; COLOR: =23ffffff; FONT-SIZE: 15px=22 height=3D=2242=22 width=3D=
+=2293=22 align=3D=22center=22><a style=3D=22COLOR: =23ffffff; TEXT-DECO=
+RATION: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll=
+?ID=3DF98F_ly3i5ZFIcmBJEb9wyIPRM412AQfFvUPftt7XSDMLQ9pwYzZrnPtaf7VuDzh4=
+MSx/tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=
+=23f68830=22 height=3D=222=22 width=3D=2293=22></td></tr></table></td><=
+=21-- // Link block --><td class=3D=22display-block=22 width=3D=224=22>=
+</td><=21-- Link block --><td class=3D=22third-block=22 bgcolor=3D=22=23=
+4b4b4b=22 width=3D=2293=22 align=3D=22center=22><table class=3D=22fit-w=
+idth=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 wi=
+dth=3D=2293=22><tr><td style=3D=22FONT-FAMILY: Helvetica, Arial, sans-s=
+erif; COLOR: =23ffffff; FONT-SIZE: 15px=22 height=3D=2242=22 width=3D=22=
+93=22 align=3D=22center=22><a style=3D=22COLOR: =23ffffff; TEXT-DECORAT=
+ION: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=
+=3DF98F7rJDhqBP0D11Dv9hvX8WXCy9j8ELdnxZ3zVuZmNikDvVxbNIvyg6YRuKjLKkEZd9=
+4o2IIfVLwJB9vOSPz4Dx4TNhq=22 target=3D=22_blank=22>More sport</a></td><=
+/tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=
+=23ee2d2e=22 height=3D=222=22 width=3D=2293=22></td></tr></table></td><=
+=21-- Link block --><td class=3D=22display-block=22 width=3D=224=22></t=
+d><=21-- Link block --><td class=3D=22third-block=22 bgcolor=3D=22=23ed=
+c60d=22 width=3D=2293=22 align=3D=22center=22><table class=3D=22fit-wid=
+th=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 widt=
+h=3D=2293=22><tr><td height=3D=2244=22 width=3D=2293=22 align=3D=22cent=
+er=22><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22 width=3D=2293=22><tr><td width=3D=225=22></t=
+d><td style=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =230=
+00000; FONT-SIZE: 15px=22 align=3D=22center=22><a style=3D=22COLOR: =23=
+000000; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/=
+optiextension.dll?ID=3DF98F4cLdaoIkpRFHfpX0G6PBd5vqz0eJ8F2IN3mnrlH_I0Cp=
+w7=22>Watch<br class=3D=22responsive-br=22> BT Sport</a></td><td width=3D=
+=225=22></td></tr></table></td></tr></table></td><=21-- Link block --><=
+/tr></table></td></tr></table><=21-- // Header links --><table class=3D=
+=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22580=22 align=3D=22center=22><tr bgcolor=3D=22=23262626=22=
+><td height=3D=2230=22></td></tr></table><=21-- Intro text --><table cl=
+ass=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr><td width=3D=221=
+0=22>&nbsp;</td><td style=3D=22FONT-FAMILY: Arial, Helvetica, sans-seri=
+f; COLOR: =23ffffff; FONT-SIZE: 16px=22 align=3D=22left=22>Liverpool, A=
+rsenal and Stoke are the top-flight Goliaths out to avoid lower-league =
+slingshots in our live FA Cup games this week. Here's more...</td><td w=
+idth=3D=2210=22>&nbsp;</td></tr></table><=21-- // Intro text --><table =
+class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpadd=
+ing=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr bgcolor=3D=22=23=
+262626=22><td height=3D=2230=22></td></tr></table><=21-- This week's ma=
+in event: Rugby triple --><TABLE class=3Dfit-width border=3D0 cellSpaci=
+ng=3D0 cellPadding=3D0 width=3D580 align=3Dcenter><TR><TD width=3D10>&n=
+bsp;</TD><TD class=3Dfloat-left width=3D560><TABLE class=3Dfloat-left b=
+order=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D560><TR><TD colSpan=3D=
+5 align=3Dleft><FONT style=3D=22FONT-FAMILY: Helvetica, Arial, sans-ser=
+if; COLOR: =23ffffff; FONT-SIZE: 24px=22>Live FA Cup</FONT></TD></TR><T=
+R><TD height=3D10 colSpan=3D5></TD></TR><TR><TD style=3D=22LINE-HEIGHT:=
+ 0px; FONT-SIZE: 0px=22 bgColor=3D=23045a9a height=3D4 colSpan=3D5></TD=
+></TR><TR><TD height=3D10 colSpan=3D5></TD></TR><TR><TD class=3Dfloat-l=
+eft height=3D501 vAlign=3Dtop width=3D180><TABLE class=3Dfloat-left bor=
+der=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D180><TR><TD style=3D=22=
+FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22><IMG sty=
+le=3D=22DISPLAY: block=22 class=3Dfloat-left alt=3D=22Liverpool's Steve=
+n Gerrard=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAM=
+P/FRIDAY_FIX/20150122/FACup_Liverpool1.jpg=22 width=3D180 height=3D167>=
+</td></tr><tr><td height=3D=2215=22></td></tr><tr><td align=3D=22left=22=
+><strong><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Ar=
+ial, sans-serif; COLOR: =235692ce; FONT-SIZE: 16px=22>Liverpool v Bolto=
+n</font></strong></td></tr><tr><td align=3D=22left=22><font style=3D=22=
+LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23=
+ffffff; FONT-SIZE: 16px=22>5.15pm, Saturday</font></td></tr><tr><td ali=
+gn=3D=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvet=
+ica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22>BT Sport 1=
+</font></td></tr><tr><td height=3D=2213=22></td></tr><tr><td class=3D=22=
+fit-height=22 height=3D=22190=22 valign=3D=22top=22 align=3D=22left=22>=
+<font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans=
+-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22>Steven Gerrard's double pu=
+t out Wimbledon in round three. The departing skipper's bid to leave An=
+field with another Cup winner's medal continues against Bolton =E2=80=93=
+ fronted by his old pal Emile Heskey.</font></td></tr><tr><td class=3D=22=
+height-20=22 height=3D=2210=22></td></tr><tr><td bgcolor=3D=22=23ffffff=
+=22><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 width=3D=22180=22><tr><td bgcolor=3D=22=23ffffff=
+=22 width=3D=2210=22></td><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY=
+: Helvetica, Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 16px=22 bg=
+color=3D=22=23ffffff=22 height=3D=2242=22 width=3D=22160=22 align=3D=22=
+left=22><strong><a style=3D=22COLOR: =23000000; TEXT-DECORATION: none=22=
+ href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F6kGv6=
+gHUyB93u7Sl_Zs6PaWDWk7IHky7XGighZYqtDOVwsHdVGUVsgKP0cbgRllzbHD87wKfS3QpjJoi5jpMf3k=22 target=3D=22_blank=22>FA Cup preview &gt;</a></stron=
+g></td><td bgcolor=3D=22=23ffffff=22 width=3D=2210=22></td></tr><tr><td=
+ style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=23045a9a=22=
+ height=3D=224=22 colspan=3D=223=22></td></tr></table></td></tr></table=
+></td><td class=3D=22float-left=22 width=3D=2210=22>&nbsp;</td><td clas=
+s=3D=22float-left=22 height=3D=22501=22 valign=3D=22top=22 width=3D=221=
+80=22><table class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22 width=3D=22180=22><tr><td style=3D=22FONT-FA=
+MILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22><img style=3D=22=
+DISPLAY: block=22 class=3D=22float-left=22 alt=3D=22Theo Walcott=22 src=
+=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/201=
+50122/FACup_Arsenal1.jpg=22 width=3D=22180=22 height=3D=22167=22></td><=
+/tr><tr><td height=3D=2215=22></td></tr><tr><td align=3D=22left=22><str=
+ong><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, =
+sans-serif; COLOR: =235692ce; FONT-SIZE: 16px=22>Brighton v Arsenal</fo=
+nt></strong></td></tr><tr><td align=3D=22left=22><font style=3D=22LINE-=
+HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffff=
+ff; FONT-SIZE: 16px=22>3.30pm, Sunday</font></td></tr><tr><td align=3D=22=
+left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Ari=
+al, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22>BT Sport 1</font><=
+/td></tr><tr><td height=3D=2213=22></td></tr><tr><td class=3D=22fit-hei=
+ght=22 height=3D=22190=22 valign=3D=22top=22 align=3D=22left=22><font s=
+tyle=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif;=
+ COLOR: =23ffffff; FONT-SIZE: 16px=22>Championship strugglers Brighton =
+=E2=80=93 managed by ex-Norwich boss Chris Hughton =E2=80=93 host giant=
+s Arsenal in a repeat of the 2013 fourth-round tie, which the Gunners w=
+on 3-2 thanks to a late Theo Walcott strike. </font></td></tr><tr><td c=
+lass=3D=22height-20=22 height=3D=2210=22></td></tr><tr><td bgcolor=3D=22=
+=23ffffff=22><table class=3D=22fit-width=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22 width=3D=22180=22><tr><td bgcolor=3D=22=
+=23ffffff=22 width=3D=2210=22></td><td style=3D=22LINE-HEIGHT: 20px; FO=
+NT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 1=
+6px=22 bgcolor=3D=22=23ffffff=22 height=3D=2242=22 width=3D=22160=22 al=
+ign=3D=22left=22><strong><a style=3D=22COLOR: =23000000; TEXT-DECORATIO=
+N: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98F5YH4aR9jOIMjb9xWkUuvZDZ2GXfrAZTX5Yau0dKNdpLVxTAzH9JlulAAiRyXPjctVGc=
+bLCDiD3nyplsfWCNezV8xf=22 target=3D=22_blank=22>Football news &gt;</a><=
+/strong></td><td bgcolor=3D=22=23ffffff=22 width=3D=2210=22></td></tr><=
+tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=230=
+45a9a=22 height=3D=224=22 colspan=3D=223=22></td></tr></table></td></tr=
+></table></td><td class=3D=22float-left=22 width=3D=2210=22>&nbsp;</td>=
+<td class=3D=22float-left=22 height=3D=22501=22 valign=3D=22top=22 widt=
+h=3D=22180=22><table class=3D=22float-left=22 border=3D=220=22 cellspac=
+ing=3D=220=22 cellpadding=3D=220=22 width=3D=22180=22><tr><td style=3D=22=
+FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22><img sty=
+le=3D=22DISPLAY: block=22 class=3D=22float-left=22 alt=3D=22Rochdale's =
+Peter Vincenti=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVIC=
+E_CAMP/FRIDAY_FIX/20150122/FACup_Rochdale1.jpg=22 width=3D=22180=22 hei=
+ght=3D=22167=22></td></tr><tr><td height=3D=2215=22></td></tr><tr><td a=
+lign=3D=22left=22><strong><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMI=
+LY: Helvetica, Arial, sans-serif; COLOR: =235692ce; FONT-SIZE: 16px=22>=
+Rochdale v Stoke</font></strong></td></tr><tr><td align=3D=22left=22><f=
+ont style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-s=
+erif; COLOR: =23ffffff; FONT-SIZE: 16px=22>7.45pm, Monday</font></td></=
+tr><tr><td align=3D=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-=
+FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=
+=22>BT Sport 1</font></td></tr><tr><td height=3D=2213=22></td></tr><tr>=
+<td class=3D=22fit-height=22 height=3D=22190=22 valign=3D=22top=22 alig=
+n=3D=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helveti=
+ca, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22>Rochdale ai=
+m to punch two divisions above their weight when Premier League Stoke =E2=
+=80=93 finalists in 2011 =E2=80=93 visit Spotland. In the last round, K=
+eith Hill's men edged past Championship outfit Nottingham Forest. </fon=
+t></td></tr><tr><td class=3D=22height-20=22 height=3D=2210=22></td></tr=
+><tr><td bgcolor=3D=22=23ffffff=22><table class=3D=22fit-width=22 borde=
+r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22180=22=
+><tr><td bgcolor=3D=22=23ffffff=22 width=3D=2210=22></td><td style=3D=22=
+LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23=
+000000; FONT-SIZE: 16px=22 bgcolor=3D=22=23ffffff=22 height=3D=2242=22 =
+width=3D=22160=22 align=3D=22left=22><strong><a style=3D=22COLOR: =2300=
+0000; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/op=
+tiextension.dll?ID=3DF98F9C5kUb2qP5TmB0VrofJqSV6jPXa3gbasgUdmPq0juEMpwC=
+pyZP2pSMore live football &gt;</a></strong></td><td bgcolor=3D=22=23ffffff=22 =
+width=3D=2210=22></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SI=
+ZE: 0px=22 bgcolor=3D=22=23045a9a=22 height=3D=224=22 colspan=3D=223=22=
+></td></tr></table></td></tr></table></td></tr></table></td><td width=3D=
+=2210=22>&nbsp;</td></tr></table><=21-- // This week's main event: Rugb=
+y triple --><TABLE class=3Dfit-width border=3D0 cellSpacing=3D0 cellPad=
+ding=3D0 width=3D580 align=3Dcenter><TR bgColor=3D=23262626><TD height=3D=
+30>&nbsp;</TD></TR></TABLE><=21-- Clip of the week --><TABLE class=3Dfl=
+oat-left border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D580 align=3D=
+center><TR><TD width=3D10>&nbsp;</TD><TD class=3Dfloat-left width=3D560=
+><TABLE class=3Dfloat-left border=3D0 cellSpacing=3D0 cellPadding=3D0 w=
+idth=3D560><TR><TD class=3Dfloat-left height=3D27 colSpan=3D3 align=3Dl=
+eft><FONT style=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =
+=23ffffff; FONT-SIZE: 24px; FONT-WEIGHT: bold=22>Clip of the week</FONT=
+></TD></TR><TR><TD style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 heigh=
+t=3D5 colSpan=3D3 align=3Dleft></TD></TR><TR><TD style=3D=22LINE-HEIGHT=
+: 0px; FONT-SIZE: 0px=22 bgColor=3D=23045a9a height=3D4 colSpan=3D3></T=
+D></TR><TR><TD style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=
+10 colSpan=3D3></TD></TR><TR><TD style=3D=22FONT-FAMILY: Arial, Helveti=
+ca, sans-serif; COLOR: =23ffffff=22 class=3Dfloat-left vAlign=3Dtop wid=
+th=3D275><A style=3D=22COLOR: =23ffffff; TEXT-DECORATION: none=22 href=3D=
+=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98F9gDuwoqNYTGnL=
+UtO6_T6tPONl=22 target=3D_blank><IMG style=3D=22DISPLAY: block=22 class=3D=
+fit-width border=3D0 alt=3D=22How not to score with an acrobatic volley=
+=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_=
+FIX/20150122/Video_clip_of_the_week2.jpg=22 width=3D275 height=3D167></=
+A></TD><TD class=3Dfloat-left width=3D275>&nbsp;</TD><TD class=3Dfloat-=
+left vAlign=3Dtop width=3D275 align=3Dleft><TABLE class=3Dfloat-left bo=
+rder=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D275><TR><TD class=3Dfi=
+t-height height=3D103 vAlign=3Dtop><FONT style=3D=22LINE-HEIGHT: 20px; =
+FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE:=
+ 16px=22>Many a Sunday league footballer will be able to identify with =
+Lyon attacker Nabil Fekir's flamboyant =E2=80=93 but failed =E2=80=93 a=
+ttempt at an acrobatic finish... </FONT></td></tr><tr><td height=3D=222=
+0=22>&nbsp;</td></tr><tr><td bgcolor=3D=22=23ffffff=22><table class=3D=22=
+float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 width=3D=22275=22><tr><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22=
+>&nbsp;</td><td bgcolor=3D=22=23ffffff=22 height=3D=2240=22 width=3D=22=
+245=22><strong><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helveti=
+ca, Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 16px=22><a style=3D=
+=22COLOR: =23000000; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt=
+=2Ecom/optiext/optiextension.dll?ID=3DGcdGbeptEQxKpMB0QWE9J1QuTssGXGNln=
+5BdKvRQrvKOZZeqOA3oOOpRDfI9wwqLu5I8FKfMKq3J8l_vxTUFayHk_HOqp=22 target=3D=
+=22_blank=22>Watch the clip here &gt;</a></font></strong></td><td bgcol=
+or=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td></tr></table></td></tr=
+><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=23=
+045a9a=22 height=3D=224=22 width=3D=22275=22></td></tr></table></td></t=
+r></table></td><td width=3D=2210=22>&nbsp;</td></tr></table><=21-- // C=
+lip of the week --><table class=3D=22fit-width=22 border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22 width=3D=22580=22 align=3D=22ce=
+nter=22><tr bgcolor=3D=22=23262626=22><td height=3D=2230=22>&nbsp;</td>=
+</tr></table><=21-- seven days of sport --><table class=3D=22float-left=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22580=22 align=3D=22center=22><tr><td width=3D=2210=22>&nbsp;</td><td =
+class=3D=22float-left=22 width=3D=22560=22><table class=3D=22float-left=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22560=22><tr><td class=3D=22float-left=22 colspan=3D=223=22 align=3D=22=
+left=22><font style=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COL=
+OR: =23ffffff; FONT-SIZE: 24px=22><strong> Your seven days of sport </s=
+trong></font></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: =
+0px=22 height=3D=225=22 colspan=3D=223=22></td></tr><tr><td style=3D=22=
+LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=23ffffff=22 height=3D=
+=224=22 colspan=3D=223=22></td></tr><tr><td height=3D=2220=22 colspan=3D=
+=223=22>&nbsp;</td></tr><tr><td class=3D=22float-left=22 height=3D=2248=
+3=22 valign=3D=22top=22 width=3D=22275=22><table class=3D=22float-left=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22=
+275=22><tr><td height=3D=2260=22 align=3D=22left=22><strong><font style=
+=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COL=
+OR: =23ffffff; FONT-SIZE: 16px=22>Enjoy football, rugby, basketball and=
+ more live on TV, on the app and online this week...</font></strong></t=
+d></tr><tr><td height=3D=2220=22>&nbsp;</td></tr><tr><td><table class=3D=
+=22day-table=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22275=22><tr><td style=3D=22FONT-FAMILY: Arial, Helvetica=
+, sans-serif; COLOR: =23ffffff=22 width=3D=2245=22><img style=3D=22DISP=
+LAY: block=22 alt=3D=22Friday=22 src=3D=22http://btecomm.emsecure.net/i=
+mages/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/5_White_Fri.jpg=22 width=3D=22=
+45=22 height=3D=2245=22></td><td width=3D=2210=22>&nbsp;</td><td class=3D=
+=22day-text=22 width=3D=22220=22 align=3D=22left=22><table class=3D=22d=
+ay-text=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22220=22><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: H=
+elvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=
+=3D=22day-font=22>SPFL Premiership </td></tr><tr><td style=3D=22LINE-HE=
+IGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff=
+; FONT-SIZE: 16px=22 class=3D=22day-font=22><b>St Johnstone v Aberdeen<=
+/b></td></tr><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helveti=
+ca, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22=
+day-font=22>7.30pm, BT Sport 1</td></tr></table></td></tr></table></td>=
+</tr><tr><td height=3D=2220=22>&nbsp;</td></tr><tr><td bgcolor=3D=22=23=
+404040=22 valign=3D=22top=22><table class=3D=22day-table=22 border=3D=22=
+0=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22275=22><tr>=
+<td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=228=22 col=
+span=3D=223=22></td></tr><tr><td style=3D=22FONT-FAMILY: Arial, Helveti=
+ca, sans-serif; COLOR: =23ffffff=22 width=3D=2245=22><img style=3D=22DI=
+SPLAY: block=22 alt=3D=22Saturday=22 src=3D=22http://btecomm.emsecure.n=
+et/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/6_Green_Sat.jpg=22 width=3D=
+=2245=22 height=3D=2245=22></td><td width=3D=2210=22>&nbsp;</td><td cla=
+ss=3D=22day-text=22 width=3D=22220=22 align=3D=22left=22><table class=3D=
+=22day-text=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=22=
+0=22 width=3D=22220=22><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMIL=
+Y: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 c=
+lass=3D=22day-font=22>European Rugby Champions Cup </td></tr><tr><td st=
+yle=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; =
+COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=22><b>Northamp=
+ton v Racing Metro</b></td></tr><tr><td style=3D=22LINE-HEIGHT: 20px; F=
+ONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: =
+16px=22 class=3D=22day-font=22>3pm, BT Sport 1</td></tr></table></td></=
+tr><tr><td height=3D=228=22 colspan=3D=223=22></td></tr></table></td></=
+tr><tr><td style=3D=22FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR:=
+ =23ffffff=22 valign=3D=22top=22><img style=3D=22DISPLAY: block=22 clas=
+s=3D=22float-left=22 border=3D=220=22 alt=3D=22Northampton's Courtney L=
+awes=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRI=
+DAY_FIX/20150122/7_days_Northampton.jpg=22 width=3D=22275=22 height=3D=22=
+167=22></td></tr><tr><td height=3D=2220=22>&nbsp;</td></tr><tr><td><tab=
+le class=3D=22day-table=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22 width=3D=22275=22><tr><td style=3D=22FONT-FAMILY: Aria=
+l, Helvetica, sans-serif; COLOR: =23ffffff=22 width=3D=2245=22><img sty=
+le=3D=22DISPLAY: block=22 alt=3D=22Sunday=22 src=3D=22http://btecomm.em=
+secure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/7_White_Sun.jpg=22=
+ width=3D=2245=22 height=3D=2245=22></td><td width=3D=2210=22>&nbsp;</t=
+d><td class=3D=22day-text=22 width=3D=22220=22 align=3D=22left=22><tabl=
+e class=3D=22day-text=22 border=3D=220=22 cellspacing=3D=220=22 cellpad=
+ding=3D=220=22 width=3D=22220=22><tr><td style=3D=22LINE-HEIGHT: 20px; =
+FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE:=
+ 16px=22 class=3D=22day-font=22>Serie A </td></tr><tr><td style=3D=22LI=
+NE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23f=
+fffff; FONT-SIZE: 16px=22 class=3D=22day-font=22><b>Fiorentina v Roma</=
+b></td></tr><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetic=
+a, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22d=
+ay-font=22>7.45pm, BT Sport 1</td></tr></table></td></tr></table></td><=
+/tr></table></td><td class=3D=22float-left=22 width=3D=2210=22>&nbsp;</=
+td><td class=3D=22float-left=22 height=3D=22483=22 valign=3D=22top=22><=
+table class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 c=
+ellpadding=3D=220=22 width=3D=22275=22><tr><td><table class=3D=22day-ta=
+ble=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 wid=
+th=3D=22275=22><tr><td style=3D=22FONT-FAMILY: Arial, Helvetica, sans-s=
+erif; COLOR: =23ffffff=22 width=3D=2245=22><img style=3D=22DISPLAY: blo=
+ck=22 alt=3D=22Monday=22 src=3D=22http://btecomm.emsecure.net/images/BT=
+_SERVICE_CAMP/FRIDAY_FIX/20150122/1_White_Mon.jpg=22 width=3D=2245=22 h=
+eight=3D=2245=22></td><td width=3D=2210=22>&nbsp;</td><td class=3D=22da=
+y-text=22 width=3D=22220=22 align=3D=22left=22><table class=3D=22day-te=
+xt=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 widt=
+h=3D=22220=22><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvet=
+ica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22=
+day-font=22>Rugby </td></tr><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-=
+FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=
+=22 class=3D=22day-font=22><b>Rugby Tonight</b></td></tr><tr><td style=3D=
+=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR:=
+ =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=22>8pm, BT Sport 2</=
+td></tr></table></td></tr></table></td></tr><tr><td height=3D=2220=22>&=
+nbsp;</td></tr><tr><td bgcolor=3D=22=23404040=22 valign=3D=22top=22><ta=
+ble class=3D=22day-table=22 border=3D=220=22 cellspacing=3D=220=22 cell=
+padding=3D=220=22 width=3D=22275=22><tr><td style=3D=22LINE-HEIGHT: 0px=
+; FONT-SIZE: 0px=22 height=3D=228=22 colspan=3D=223=22></td></tr><tr><t=
+d style=3D=22FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23fffff=
+f=22 width=3D=2245=22><img style=3D=22DISPLAY: block=22 alt=3D=22Tuesda=
+y=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY=
+_FIX/20150122/2_Red_Tue.jpg=22 width=3D=2245=22 height=3D=2245=22></td>=
+<td width=3D=2210=22>&nbsp;</td><td class=3D=22day-text=22 width=3D=222=
+20=22 align=3D=22left=22><table class=3D=22day-text=22 border=3D=220=22=
+ cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22220=22><tr><td =
+style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif=
+; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=22>NBA </td>=
+</tr><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Aria=
+l, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=
+=22><b>Bulls =40 Warriors</b></td></tr><tr><td style=3D=22LINE-HEIGHT: =
+20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT=
+-SIZE: 16px=22 class=3D=22day-font=22>3.30am (Weds), BT Sport 1</td></t=
+r></table></td></tr><tr><td height=3D=228=22 colspan=3D=223=22></td></t=
+r></table></td></tr><tr><td style=3D=22FONT-FAMILY: Arial, Helvetica, s=
+ans-serif; COLOR: =23ffffff=22 valign=3D=22top=22><img style=3D=22DISPL=
+AY: block=22 class=3D=22float-left=22 border=3D=220=22 alt=3D=22Chicago=
+ Bulls' Joakim Noah=22 src=3D=22http://btecomm.emsecure.net/images/BT_S=
+ERVICE_CAMP/FRIDAY_FIX/20150122/7_days_NBA.jpg=22 width=3D=22275=22 hei=
+ght=3D=22167=22></td></tr><tr><td height=3D=2220=22>&nbsp;</td></tr><tr=
+><td><table class=3D=22day-table=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22 width=3D=22275=22><tr><td style=3D=22FONT-FAM=
+ILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22 width=3D=2245=22=
+><img style=3D=22DISPLAY: block=22 alt=3D=22Wednesday=22 src=3D=22http:=
+//btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/3_Whi=
+te_Wed.jpg=22 width=3D=2245=22 height=3D=2245=22></td><td width=3D=2210=
+=22>&nbsp;</td><td class=3D=22day-text=22 width=3D=22220=22 align=3D=22=
+left=22><table class=3D=22day-text=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22 width=3D=22220=22><tr><td style=3D=22LINE-HE=
+IGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff=
+; FONT-SIZE: 16px=22 class=3D=22day-font=22>NBA </td></tr><tr><td style=
+=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COL=
+OR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=22><b>Nets =40 Ha=
+wks</b></td></tr><tr><td style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Hel=
+vetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=
+=22day-font=22>1am (Thurs), BT Sport 1</td></tr></table></td></tr></tab=
+le></td></tr><tr><td height=3D=2220=22>&nbsp;</td></tr><tr><td><table c=
+lass=3D=22day-table=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 width=3D=22275=22><tr><td style=3D=22FONT-FAMILY: Arial, H=
+elvetica, sans-serif; COLOR: =23ffffff=22 width=3D=2245=22><img style=3D=
+=22DISPLAY: block=22 alt=3D=22Thursday=22 src=3D=22http://btecomm.emsec=
+ure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/4_White_Thur.jpg=22 =
+width=3D=2245=22 height=3D=2245=22></td><td width=3D=2210=22>&nbsp;</td=
+><td class=3D=22day-text=22 width=3D=22220=22 align=3D=22left=22><table=
+ class=3D=22day-text=22 border=3D=220=22 cellspacing=3D=220=22 cellpadd=
+ing=3D=220=22 width=3D=22220=22><tr><td style=3D=22LINE-HEIGHT: 20px; F=
+ONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: =
+16px=22 class=3D=22day-font=22>Euroleague Basketball </td></tr><tr><td =
+style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif=
+; COLOR: =23ffffff; FONT-SIZE: 16px=22 class=3D=22day-font=22><b>Anadol=
+u Efes Istanbul v Olympiacos</b></td></tr><tr><td style=3D=22LINE-HEIGH=
+T: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; F=
+ONT-SIZE: 16px=22 class=3D=22day-font=22>7.45pm, ESPN</td></tr></table>=
+</td></tr></table></td></tr></table></td></tr><tr><td height=3D=2220=22=
+ colspan=3D=223=22>&nbsp;</td></tr><tr><td class=3D=22float-left=22 bgc=
+olor=3D=22=23ffffff=22 colspan=3D=223=22><table class=3D=22float-left=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22=
+560=22><tr><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td><t=
+d bgcolor=3D=22=23ffffff=22 height=3D=2244=22 width=3D=22530=22 align=3D=
+=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, =
+Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 16px=22 class=3D=22mobi=
+le-headline-small=22><strong><a style=3D=22COLOR: =23000000; TEXT-DECOR=
+ATION: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?=
+ID=3DF98FOOiyoXF2ES8AUD4NsLo6EfvNvwjjwFW=22 target=3D=22_blank=22>Click here for=
+ full BT Sport listings &gt;</a></strong></font></td><td bgcolor=3D=22=23=
+ffffff=22 width=3D=2215=22>&nbsp;</td></tr></table></td></tr></table></=
+td><td width=3D=2210=22>&nbsp;</td></tr></table><=21--// seven days of =
+sport --><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=
+=220=22 cellpadding=3D=220=22 width=3D=22580=22 align=3D=22center=22><t=
+r bgcolor=3D=22=23262626=22><td height=3D=2230=22>&nbsp;</td></tr></tab=
+le><=21-- Instant reply & who said that --><table class=3D=22float-left=
+=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22580=22 align=3D=22center=22><tr><td width=3D=2210=22>&nbsp;</td><td =
+class=3D=22float-left=22 height=3D=22370=22 width=3D=22560=22><table cl=
+ass=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 width=3D=22560=22><tr><=21-- instant replay --><td class=3D=
+=22float-left=22 valign=3D=22top=22 width=3D=22275=22><table class=3D=22=
+float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 width=3D=22275=22><tr><td align=3D=22left=22><font style=3D=22FONT-=
+FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 24px=
+=22><strong> Instant replay </strong></font></td></tr><tr><td style=3D=22=
+LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=225=22></td></tr><tr><td =
+style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=2381d742=22=
+ height=3D=224=22></td></tr><tr><td height=3D=2210=22></td></tr><tr><td=
+ bgcolor=3D=22=23404040=22 height=3D=22318=22 valign=3D=22top=22><table=
+ class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 width=3D=22275=22><tr><td style=3D=22FONT-FAMILY: Arial=
+, Helvetica, sans-serif; COLOR: =23ffffff=22 colspan=3D=223=22><a style=
+=3D=22COLOR: =23ffffff; TEXT-DECORATION: none=22 href=3D=22http://ecomm=
+=2Ebt.com/optiext/optiextension.dll?ID=3DF98FL8bySRc8target=3D=22_blank=22><img style=3D=22DISPLAY: block=22 class=3D=22floa=
+t-left=22 border=3D=220=22 alt=3D=22Pisi pays for huge hit on Biggar=22=
+ src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX=
+/20150122/Video_instant_replay2.jpg=22 width=3D=22275=22 height=3D=2216=
+7=22></a></td></tr><tr><td bgcolor=3D=22=23404040=22 height=3D=2215=22 =
+colspan=3D=223=22></td></tr><tr><td bgcolor=3D=22=23404040=22 width=3D=22=
+10=22>&nbsp;</td><td bgcolor=3D=22=23404040=22 height=3D=2265=22 valign=
+=3D=22top=22 width=3D=22255=22 align=3D=22left=22><font style=3D=22LINE=
+-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23fff=
+fff; FONT-SIZE: 16px=22>Hits don't come much bigger than this George Pi=
+si smash on, err, Dan Biggar. Unfortunately for the Northampton back, t=
+he referee didn't approve...</font></td><td bgcolor=3D=22=23404040=22 w=
+idth=3D=2210=22>&nbsp;</td></tr><tr><td bgcolor=3D=22=23404040=22 heigh=
+t=3D=2220=22 colspan=3D=223=22></td></tr><tr><td bgcolor=3D=22=23404040=
+=22 height=3D=2246=22 width=3D=2210=22>&nbsp;</td><td bgcolor=3D=22=234=
+04040=22 width=3D=22255=22><table class=3D=22fit-width=22 border=3D=220=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22255=22 bgcol=
+or=3D=22=23ffffff=22><tr><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22=
+>&nbsp;</td><td bgcolor=3D=22=23ffffff=22 height=3D=2242=22 width=3D=22=
+223=22 align=3D=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMI=
+LY: Helvetica, Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 16px=22>=
+<strong><a style=3D=22COLOR: =23000000; TEXT-DECORATION: none=22 href=3D=
+=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF98FSSZVUMMHw6ntQr9NsZ_4TAkKRiimCYwTKxK=22 target=3D=22_blank=22>Watch the video &gt;</a></strong><=
+/font></td><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td></=
+tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=
+=2381d742=22 height=3D=224=22 width=3D=22255=22 colspan=3D=223=22></td>=
+</tr></table><=21--// who said that? table --></td><td bgcolor=3D=22=23=
+404040=22 height=3D=2246=22 width=3D=2210=22>&nbsp;</td></tr><tr><td bg=
+color=3D=22=23404040=22 height=3D=2210=22 colspan=3D=223=22></td></tr><=
+/table></td></tr></table></td><=21-- // instant replay --><td class=3D=22=
+float-left=22 width=3D=2210=22>&nbsp;</td><=21-- who said that? table -=
+-><td class=3D=22float-left=22 valign=3D=22top=22 width=3D=22275=22><ta=
+ble class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 width=3D=22275=22><tr><td align=3D=22left=22><font s=
+tyle=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; =
+FONT-SIZE: 24px=22><strong> Quote of the week </strong></font></td></tr=
+><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=225=22=
+ colspan=3D=223=22></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-=
+SIZE: 0px=22 bgcolor=3D=22=2381d742=22 height=3D=224=22></td></tr><tr><=
+td height=3D=2210=22></td></tr><tr><td bgcolor=3D=22=2381d742=22><table=
+ class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 width=3D=22275=22><tr><td bgcolor=3D=22=2381d742=22 col=
+span=3D=223=22><table class=3D=22float-left=22 border=3D=220=22 cellspa=
+cing=3D=220=22 cellpadding=3D=220=22 width=3D=22275=22><tr><td style=3D=
+=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=225=22 colspan=3D=223=22=
+></td></tr><tr><td width=3D=2210=22>&nbsp;</td><td class=3D=22fit-width=
+-block=22 height=3D=22162=22 width=3D=22255=22 align=3D=22left=22><font=
+ style=3D=22LINE-HEIGHT: 30px; FONT-FAMILY: Helvetica, Arial, sans-seri=
+f; COLOR: =23ffffff; FONT-SIZE: 24px=22><strong> =E2=80=9CWe can scrum,=
+ we can drive and we showed that we can play a bit of football.=E2=80=9D=
+ </strong></font></td><td width=3D=2210=22>&nbsp;</td></tr></table></td=
+></tr><tr><td bgcolor=3D=22=2381d742=22 height=3D=2215=22 colspan=3D=22=
+3=22></td></tr><tr><td bgcolor=3D=22=2381d742=22 width=3D=2210=22>&nbsp=
+;</td><td bgcolor=3D=22=2381d742=22 height=3D=2265=22 valign=3D=22top=22=
+ width=3D=22255=22 align=3D=22left=22><font style=3D=22LINE-HEIGHT: 20p=
+x; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SI=
+ZE: 16px=22>Bath coach Mike Ford is chuffed with his team's efforts aft=
+er a memorable 35-18 win in Toulouse. Can he lead the West Country side=
+ to European glory?</font></td><td bgcolor=3D=22=2381d742=22 width=3D=22=
+10=22>&nbsp;</td></tr><tr><td bgcolor=3D=22=2381d742=22 height=3D=2220=22=
+ colspan=3D=223=22></td></tr><tr><td bgcolor=3D=22=2381d742=22 height=3D=
+=2246=22 width=3D=2210=22>&nbsp;</td><td bgcolor=3D=22=2381d742=22 widt=
+h=3D=22255=22><table class=3D=22fit-width=22 border=3D=220=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22 width=3D=22253=22 bgcolor=3D=22=23ff=
+ffff=22><tr><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td><=
+td bgcolor=3D=22=23ffffff=22 height=3D=2242=22 width=3D=22223=22 align=3D=
+=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, =
+Arial, sans-serif; COLOR: =23000000; FONT-SIZE: 16px=22><strong><a styl=
+e=3D=22COLOR: =23000000; TEXT-DECORATION: none=22 href=3D=22http://ecom=
+m.bt.com/optiext/optiextension.dll?ID=3DF98F71RfgVJrLDzG5k4Fv29Mr5vxnaY=
+ny8z6PNFGBtwuU6Rpwg838bCuXRwSQAYVarget=3D=22_blank=22>Video: stunning Bath try &gt;</a></strong></font><=
+/td><td bgcolor=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td></tr><tr>=
+<td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=2381d7=
+42=22 height=3D=224=22 width=3D=22253=22 colspan=3D=223=22></td></tr></=
+table><=21--// who said that? table --></td><td bgcolor=3D=22=2381d742=22=
+ height=3D=2246=22 width=3D=2210=22>&nbsp;</td></tr><tr><td bgcolor=3D=22=
+=2381d742=22 height=3D=2210=22 colspan=3D=223=22></td></tr></table></td=
+></tr></table></td></tr></table></td><td width=3D=2210=22>&nbsp;</td></=
+tr></table><=21-- // Instant reply & who said that --><table class=3D=22=
+fit-width=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22580=22 align=3D=22center=22><tr bgcolor=3D=22=23262626=22><=
+td height=3D=2230=22>&nbsp;</td></tr></table><=21-- Stat of the week --=
+><table class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr><td w=
+idth=3D=2210=22>&nbsp;</td><td><table class=3D=22float-left=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22560=22 a=
+lign=3D=22center=22><tr><td align=3D=22left=22><font style=3D=22FONT-FA=
+MILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 24px=22=
+><strong> Stat of the week </strong></font></td></tr><tr><td style=3D=22=
+LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D=225=22></td></tr><tr><td =
+style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=23dd9933=22=
+ height=3D=224=22></td></tr><tr><td height=3D=2210=22 colspan=3D=222=22=
+></td></tr></table></td><td width=3D=2210=22>&nbsp;</td></tr></table><t=
+able class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=220=22 ce=
+llpadding=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr><td widt=
+h=3D=2210=22>&nbsp;</td><td class=3D=22float-left=22 bgcolor=3D=22=2340=
+4040=22 valign=3D=22top=22 width=3D=22560=22><table class=3D=22float-le=
+ft=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 widt=
+h=3D=22560=22><tr><td class=3D=22float-left=22 bgcolor=3D=22=23404040=22=
+ height=3D=2263=22 width=3D=22275=22><table class=3D=22float-left=22 bo=
+rder=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=222=
+75=22><tr><td width=3D=225=22>&nbsp;</td><td style=3D=22FONT-FAMILY: Ar=
+ial, Helvetica, sans-serif; COLOR: =23ffffff=22 bgcolor=3D=22=23404040=22=
+ height=3D=22145=22 valign=3D=22middle=22 width=3D=22265=22 align=3D=22=
+center=22><img style=3D=22DISPLAY: block=22 class=3D=22fit-width-mobile=
+=22 border=3D=220=22 alt=3D=222=22 src=3D=22http://btecomm.emsecure.net=
+/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/Vector_UFC_2.jpg=22 width=3D=
+=22265=22 height=3D=22145=22></td><td width=3D=225=22>&nbsp;</td></tr><=
+/table></td><td class=3D=22float-left=22 bgcolor=3D=22=23404040=22 heig=
+ht=3D=22155=22 width=3D=22285=22><table class=3D=22float-left=22 border=
+=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22285=22=
+><tr><td width=3D=2210=22>&nbsp;</td><td><table class=3D=22float-left=22=
+ border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22=
+265=22><tr><td height=3D=2210=22 width=3D=22265=22></td></tr><tr><td cl=
+ass=3D=22fit-width-block=22 align=3D=22left=22><font style=3D=22LINE-HE=
+IGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff=
+; FONT-SIZE: 16px=22><b>2</b>&nbsp;=E2=80=93 Alexander Gustafsson has b=
+een involved in 'Fight Of The Night' in his last two bouts. With anothe=
+r light-heavyweight title shot potentially on the line, expect firework=
+s here.</font></td></tr><tr><td height=3D=2210=22 width=3D=2210=22></td=
+></tr><tr><td class=3D=22fit-width-block=22 align=3D=22left=22><strong>=
+<font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans=
+-serif; COLOR: =23dd9933; FONT-SIZE: 16px=22>UFC Fight Night <br /> Gus=
+tafsson v Johnson</font></strong></td></tr><tr><td class=3D=22fit-width=
+-block=22 align=3D=22left=22><font style=3D=22LINE-HEIGHT: 20px; FONT-F=
+AMILY: Helvetica, Arial, sans-serif; COLOR: =23dd9933; FONT-SIZE: 16px=22=
+>1am, Sat (Sun morning), BT Sport 1</font></td></tr><tr><td height=3D=22=
+10=22></td></tr></table></td><td width=3D=2210=22>&nbsp;</td></tr></tab=
+le></td></tr></table></td><td width=3D=2210=22>&nbsp;</td></tr></table>=
+<=21-- // Stat of the week --><table class=3D=22fit-width=22 border=3D=22=
+0=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22580=22 alig=
+n=3D=22center=22><tr><td height=3D=2230=22>&nbsp;</td></tr></table><=21=
+-- Jake's tip --><TABLE class=3Dfloat-left border=3D0 cellSpacing=3D0 c=
+ellPadding=3D0 width=3D580 align=3Dcenter><TR><TD width=3D10>&nbsp;</TD=
+><TD class=3Dfloat-left width=3D560><TABLE class=3Dfloat-left border=3D=
+0 cellSpacing=3D0 cellPadding=3D0 width=3D560><TR><TD colSpan=3D3 align=
+=3Dleft><FONT style=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COL=
+OR: =23ffffff; FONT-SIZE: 24px=22><STRONG>Healey's hunch</STRONG></font=
+></td></tr><tr><td style=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 heigh=
+t=3D=225=22 colspan=3D=223=22></td></tr><tr><td style=3D=22LINE-HEIGHT:=
+ 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=2381d742=22 height=3D=224=22 cols=
+pan=3D=223=22></td></tr><tr><td height=3D=2210=22 colspan=3D=223=22></t=
+d></tr><tr><td class=3D=22float-left=22 valign=3D=22top=22 width=3D=222=
+74=22><table class=3D=22float-left=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22 width=3D=22274=22><tr><td style=3D=22FONT-FA=
+MILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22 height=3D=22167=
+=22 valign=3D=22bottom=22><img style=3D=22DISPLAY: block=22 class=3D=22=
+float-left=22 border=3D=220=22 alt=3D=22Healey's hunch: Bath v Glasgow=22=
+ src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX=
+/20150122/Tip_Austin_Healy.jpg=22 width=3D=22275=22 height=3D=22167=22>=
+</td></tr><tr><td height=3D=2220=22></td></tr></table></td><td class=3D=
+=22hide=22 width=3D=2210=22>&nbsp;</td><td class=3D=22float-left=22 hei=
+ght=3D=22178=22 valign=3D=22top=22 width=3D=22275=22><table class=3D=22=
+float-left=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22 width=3D=22275=22><tr><td width=3D=22275=22 align=3D=22left=22><fon=
+t style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-ser=
+if; COLOR: =23ffffff; FONT-SIZE: 16px=22>=22After their memorable win o=
+ver Toulouse last week, I can't see Bath letting qualification slip thr=
+ough their grasp. I'm going for a home win here.=22</font></td></tr><tr=
+><td height=3D=2220=22></td></tr><tr><td align=3D=22left=22><strong><fo=
+nt style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-se=
+rif; COLOR: =2381d742; FONT-SIZE: 16px=22>European Rugby Champions Cup =
+<br /> Bath v Glasgow</font></strong></td></tr><tr><td align=3D=22left=22=
+><font style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, san=
+s-serif; COLOR: =2381d742; FONT-SIZE: 16px=22>Midday, Sunday, BT Sport =
+2</font></td></tr><tr><td align=3D=22left=22><font style=3D=22LINE-HEIG=
+HT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =2381d742; =
+FONT-SIZE: 16px=22></font></td></tr><tr><td height=3D=2220=22></td></tr=
+></table></td></tr></table></td><td width=3D=2210=22>&nbsp;</td></tr><t=
+r><td height=3D=2230=22>&nbsp;</td><td class=3D=22float-left=22 bgcolor=
+=3D=22=23ffffff=22><table class=3D=22float-left=22 border=3D=220=22 cel=
+lspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22560=22><tr><td bgco=
+lor=3D=22=23ffffff=22 width=3D=2215=22>&nbsp;</td><td bgcolor=3D=22=23f=
+fffff=22 height=3D=2240=22 width=3D=22530=22 align=3D=22left=22><font s=
+tyle=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif;=
+ COLOR: =23000000; FONT-SIZE: 16px=22><a style=3D=22COLOR: =23000000; T=
+EXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/optiexten=
+sion.dll?ID=3DF98F443PQgj5vqvM_IatUadt69PJSLyroyANcL4q88wDf4frng> European rugby preview &gt; </strong></a></font></td><td bgcolor=3D=
+=22=23ffffff=22 width=3D=2215=22>&nbsp;</td></tr><tr><td style=3D=22LIN=
+E-HEIGHT: 0px; FONT-SIZE: 0px=22 bgcolor=3D=22=2370c447=22 height=3D=22=
+4=22 colspan=3D=223=22></td></tr></table></td><td>&nbsp;</td></tr></tab=
+le><=21-- // Jake's tip --><TABLE class=3Dfit-width border=3D0 cellSpac=
+ing=3D0 cellPadding=3D0 width=3D580 align=3Dcenter><TR><TD height=3D30>=
+&nbsp;</TD></TR></TABLE><=21-- Footer links --><TABLE class=3Dfit-width=
+ border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D580 align=3Dcenter>=
+<TR><TD class=3Dfit-width-block><TABLE class=3Dfit-width-block border=3D=
+0 cellSpacing=3D0 cellPadding=3D0 width=3D286 align=3Dcenter><TR><TD he=
+ight=3D6 width=3D286 colSpan=3D5 align=3Dcenter></TD></TR><TR><=21-- Li=
+nk block --><TD class=3Dhalf-block bgColor=3D=234b4b4b width=3D286 alig=
+n=3Dcenter><TABLE class=3Dfit-width border=3D0 cellSpacing=3D0 cellPadd=
+ing=3D0 width=3D286><TR><TD style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: =
+Helvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 heig=
+ht=3D44 width=3D286 align=3Dcenter><STRONG><A style=3D=22COLOR: =23ffff=
+ff; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/opti=
+extension.dll?ID=3DF98FxjXm_qzllhiGQiARQrYLZhIUrdmhUYKSUked help with BT Sport?</A></STRONG></TD></TR></TABLE></TD><=21-- Link b=
+lock --></TR></TABLE></TD><TD class=3Dhide width=3D6></TD><TD class=3Df=
+it-width-block><TABLE class=3Dfit-width-block border=3D0 cellSpacing=3D=
+0 cellPadding=3D0 width=3D286 align=3Dleft><TR><TD height=3D6 width=3D2=
+86 colSpan=3D5 align=3Dcenter></TD></TR><TR><=21-- Link block --><TD cl=
+ass=3Dhalf-block bgColor=3D=234b4b4b width=3D140 align=3Dcenter><TABLE =
+class=3Dfit-width border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D14=
+0><TR><TD style=3D=22LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, Arial, =
+sans-serif; COLOR: =23ffffff; FONT-SIZE: 16px=22 height=3D44 width=3D14=
+0 align=3Dcenter><STRONG><A style=3D=22COLOR: =23ffffff; TEXT-DECORATIO=
+N: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98F_GwehScwnbMlea_4FKA944b_loaR5fJO7CUKj62ViaoVwMTBJBxu70PrGBMbqMNpa3D=
+GIj8V2jZegnFcKgRygn13E=22 target=3D_blank>Privacy policy</A></STRONG></=
+TD></TR></TABLE></TD><=21-- Link block --><TD class=3Ddisplay-block wid=
+th=3D6></TD><=21-- Link block --><TD class=3Dhalf-block bgColor=3D=234b=
+4b4b width=3D140 align=3Dcenter><TABLE class=3Dfit-width border=3D0 cel=
+lSpacing=3D0 cellPadding=3D0 width=3D140><TR><TD style=3D=22LINE-HEIGHT=
+: 20px; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23ffffff; FO=
+NT-SIZE: 16px=22 height=3D44 width=3D140 align=3Dcenter><STRONG><A styl=
+e=3D=22COLOR: =23ffffff; TEXT-DECORATION: none=22 href=3D=22http://ecom=
+m.bt.com/optiext/optiextension.dll?ID=3DF98F_XtU5DbG_L8Go7oL2kxvZdoE7Q7=
+Fj1s8WUlI0le8OrypxHoPp3mS7wkAh5KUVRsWExbEwIk7g5Lg4lmgmKYIujLVS=22 targe=
+t=3D_blank>Is this email genuine?</A></STRONG></TD></TR></TABLE></TD><=21=
+-- Link block --></TR></TABLE></TD></TR></TABLE><=21-- // Footer links =
+--><=21-- Social links --><TABLE class=3Dfit-width border=3D0 cellSpaci=
+ng=3D0 cellPadding=3D0 width=3D580 align=3Dcenter><TR><TD class=3Dfit-w=
+idth-block><TABLE class=3Dfit-width-block border=3D0 cellSpacing=3D0 ce=
+llPadding=3D0 width=3D286 align=3Dcenter><TR><TD style=3D=22LINE-HEIGHT=
+: 0px; FONT-SIZE: 0px=22 height=3D6 width=3D286 colSpan=3D5 align=3Dcen=
+ter></TD></TR><TR><=21-- Link block --><TD class=3Dhalf-block bgColor=3D=
+=234b4b4b width=3D140 align=3Dcenter><TABLE class=3Dfit-width border=3D=
+0 cellSpacing=3D0 cellPadding=3D0 width=3D140><TR><TD style=3D=22FONT-F=
+AMILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=22 height=3D44 wi=
+dth=3D140 align=3Dcenter><A style=3D=22COLOR: =23ffffff; TEXT-DECORATIO=
+N: none=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98F9ZJ96ScnEE2xaiI9xS6iXZrQWarTUasG0wThzVf04whVxPCLu0wDlu2VhqZwNOBtTiv=
+Q08MK6aGlKdvGKsdBHXWNL=22 target=3D_blank><IMG style=3D=22DISPLAY: bloc=
+k=22 border=3D0 alt=3D=22Twitter=22 src=3D=22http://btecomm.emsecure.ne=
+t/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/footer_twitter.jpg=22 widt=
+h=3D38 height=3D31></A></TD></TR></TABLE></TD><=21-- Link block --><TD =
+class=3Ddisplay-block width=3D6></TD><=21-- Link block --><TD class=3Dh=
+alf-block bgColor=3D=234b4b4b width=3D140 align=3Dcenter><TABLE class=3D=
+fit-width border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D140><TR><T=
+D style=3D=22FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23fffff=
+f=22 height=3D44 width=3D140 align=3Dcenter><A style=3D=22COLOR: =23fff=
+fff; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/opt=
+iextension.dll?ID=3DF98F8uYwBTnzmZg0ryvatmahU7TD18zqgc_U6EMizn5mHBG style=3D=22DISPLAY: block=22 border=3D0 alt=3D=22Facebook=22 src=3D=22=
+http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/=
+footer_facebook.jpg=22 width=3D17 height=3D34></A></TD></TR></TABLE></T=
+D><=21-- Link block --></TR></TABLE></TD><TD class=3Dhide width=3D6></T=
+D><TD class=3Dfit-width-block><TABLE class=3Dfit-width-block border=3D0=
+ cellSpacing=3D0 cellPadding=3D0 width=3D286 align=3Dleft><TR><TD style=
+=3D=22LINE-HEIGHT: 0px; FONT-SIZE: 0px=22 height=3D6 width=3D286 colSpa=
+n=3D5 align=3Dcenter></TD></TR><TR><=21-- Link block --><TD class=3Dhal=
+f-block bgColor=3D=234b4b4b width=3D140 align=3Dcenter><TABLE class=3Df=
+it-width border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D140><TR><TD=
+ style=3D=22FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =23ffffff=
+=22 height=3D44 width=3D140 align=3Dcenter><A style=3D=22COLOR: =23ffff=
+ff; TEXT-DECORATION: none=22 href=3D=22http://ecomm.bt.com/optiext/opti=
+extension.dll?ID=3DF98F6KnZWn5IeeN_e6QsaDh4JQye4YrC6lkXmUmOvVJm57d06xpj_rHMWE8jNeuT9CMwZFPkeXBlp0=22 target=3D_blank><IMG sty=
+le=3D=22DISPLAY: block=22 border=3D0 alt=3D=22YouTube=22 src=3D=22http:=
+//btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY_FIX/20150122/foote=
+r_youtube.jpg=22 width=3D68 height=3D28></A></TD></TR></TABLE></TD><=21=
+-- Link block --><TD class=3Ddisplay-block width=3D6></TD><=21-- Link b=
+lock --><TD class=3Dhalf-block bgColor=3D=234b4b4b width=3D140 align=3D=
+center><TABLE class=3Dfit-width border=3D0 cellSpacing=3D0 cellPadding=3D=
+0 width=3D140><TR><TD style=3D=22FONT-FAMILY: Arial, Helvetica, sans-se=
+rif; COLOR: =23ffffff=22 height=3D44 width=3D140 align=3Dcenter><A styl=
+e=3D=22COLOR: =23ffffff; TEXT-DECORATION: none=22 href=3D=22http://ecom=
+m.bt.com/optiext/optiextension.dll?ID=3DF98F6vNjFRLT4uDnCucnumfGZO9xJ7Q=
+aKVg4jThyaEYhrtbVxqZnk0yw6rVYxQWeFqpeeWe6N7XJZCdpQZEdtwPFdnThb=22 targe=
+t=3D_blank><IMG style=3D=22DISPLAY: block=22 border=3D0 alt=3D=22Google=
++=22 src=3D=22http://btecomm.emsecure.net/images/BT_SERVICE_CAMP/FRIDAY=
+_FIX/20150122/footer_google.jpg=22 width=3D36 height=3D31></A></TD></TR=
+></TABLE></TD><=21-- Link block --></TR></TABLE></TD></TR></TABLE><=21-=
+- // Social links --><TABLE class=3Dfit-width border=3D0 cellSpacing=3D=
+0 cellPadding=3D0 width=3D580 align=3Dcenter><TR bgColor=3D=23262626><T=
+D height=3D30>&nbsp;</TD></TR></TABLE><=21-- T&Cs--><TABLE class=3Dfit-=
+width border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D580 align=3Dce=
+nter><TR><TD align=3Dleft><FONT style=3D=22FONT-FAMILY: Helvetica, Aria=
+l, sans-serif; COLOR: =23ffffff; FONT-SIZE: 10px=22><STRONG>Important t=
+hings you should know</STRONG></FONT></TD></TR><TR><TD height=3D10></TD=
+></TR><TR><TD vAlign=3Dtop align=3Dleft><FONT style=3D=22FONT-FAMILY: H=
+elvetica, Arial, sans-serif; COLOR: =23ffffff; FONT-SIZE: 10px=22>Fixtu=
+re and programme times are subject to change. <br /><br />Please don't =
+reply to this email =E2=80=93 it's been automatically generated by our =
+computer. If you need to get in touch, please use the contact links abo=
+ve. BT own all '=40ecomm.bt.com' addresses. We sent this email to you a=
+t bazza_514=40fs.net because you subscribe to BT Sport. To unsubscribe =
+from BT Sport emails <A style=3D=22COLOR: =23ffffff; TEXT-DECORATION: u=
+nderline=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3D=
+F98F63guedNy81ZWmHUMlvAZAdb0FqINo76MULi2gtpXxJZ3m=22 target=3D_blank>click here</A>.</FONT></T=
+D></TR><TR><TD height=3D10></TD></TR><TR><TD vAlign=3Dtop align=3Dleft>=
+<FONT style=3D=22FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: =23f=
+fffff; FONT-SIZE: 10px=22>&copy; British Telecommunications plc 2015. W=
+e're registered in England at 81 Newgate Street, London EC1A 7AJ (compa=
+ny number 1800000). All this information was correct on the date we sen=
+t this email. Prices may change during contract period. See our terms a=
+nd conditions at <A style=3D=22COLOR: =23ffffff; TEXT-DECORATION: under=
+line=22 href=3D=22http://ecomm.bt.com/optiext/optiextension.dll?ID=3DF9=
+8FavuWu9HqXp_MIgHj5dHEnt></td></tr></table><=21--// T&Cs--><table class=3D=22fit-width=22 bor=
+der=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=2258=
+0=22 align=3D=22center=22><tr><td height=3D=2230=22>&nbsp;</td></tr></t=
+able><table class=3D=22fit-width=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22 width=3D=22580=22 align=3D=22center=22><tr><t=
+d height=3D=2230=22>&nbsp;</td></tr></table></td><td width=3D=2210=22>&=
+nbsp;</td></tr></table></td></tr></table><=21-- // Page container--></b=
+ody></html>
+
+--_NexPart_001_--
+

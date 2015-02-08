@@ -1,0 +1,94 @@
+From @..  Tue Jan 13 08:01:38 2015
+Return-Path: <@..>
+X-Original-To: darqstar@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 9740ADE; Tue, 13 Jan 2015 08:01:38 +0000 (UTC)
+Received: from mail-pa0-f67.google.com (mail-pa0-f67.google.com [209.85.220.67])
+    by .. with SMTP id nemmg4se477m9xfwgfjsqx5ivs;
+    for darqstar@fs.net;
+    Tue, 13 Jan 2015 08:01:38 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=209.85.220.67; envelope-from=<>; helo=mail-pa0-f67.google.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=209.85.220.67; client-port=38211;
+    syn-fingerprint=42900:47:0:60:M1380,S,T,N,W7; network-hops=12;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.105
+    74.125.48.33 64.233.174.2 216.239.51.245 209.85.142.111 72.14.233.183
+    216.239.46.208 72.14.233.113 209.85.220.67; network-path-time=1421136098
+Received: by mail-pa0-f67.google.com with SMTP id eu11so1763872pac.2
+        for <darqstar@fs.net>; Tue, 13 Jan 2015 00:01:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:from:to:subject:message-id:date:content-type;
+        bh=qBZL46IS8s8PGrbiKNlqw7aTeXoYhaKHVPBWIc0u+1w=;
+        b=bUmDV7QI1py6hdAw6JmoKuF2QEIPn04g2NPWpS7y5qo3BKs8xnJvJ6rKCifuV6ToXJ
+         uwLbBVHAgZ37g1pT1rq8BlqJ4lLMle4iCQFRhxLiSXw8Yquz4+vU/Yd6uz975LMqjkpT
+         ISp3mCIHf6rk8R6pfGL3uMozhyKWGpM4XtZrDGbuVcuWdtvjv/4AeuFv6GiTuqlcZDpK
+         PfzIpkZ+MJseIU6AVZXdoy8r4Is6a6u6cDM8aQ8/6ZJo6phifP5Hu24kUoNmDPEaGHty
+         1PA+EurIYRtHWq+v5PuIPzPalCXfmGEiYKblv+Z6azZnmSeUgjLxEHypsfdCdpe1L+/P
+         RfKg==
+X-Received: by 10.70.102.193 with SMTP id fq1mr50278693pdb.19.1421136083319;
+        Tue, 13 Jan 2015 00:01:23 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.70.102.193 with SMTP id fq1mr33446462pdb.19; Tue, 13 Jan 2015
+ 00:01:23 -0800 (PST)
+From: Mail Delivery Subsystem <@..>
+To: @..
+X-Failed-Recipients: andrei@press.co.nz
+Subject: Delivery Status Notification (Failure)
+Message-ID: <001a11c3270a6c7824050c840741@google.com>
+Date: Tue, 13 Jan 2015 08:01:23 +0000
+Content-Type: text/plain; charset=UTF-8
+
+Delivery to the following recipient failed permanently:
+
+     andrei@press.co.nz
+
+----- Original message -----
+
+X-Received: by 10.70.102.193 with SMTP id fq1mr50278677pdb.19.1421136083180;
+        Tue, 13 Jan 2015 00:01:23 -0800 (PST)
+Return-Path: <darqstar@fs.net>
+Received: from psmtp.com (exprod5mx241.postini.com. [64.18.0.161])
+        by mx.google.com with SMTP id j2si26010105pdn.256.2015.01.13.00.01.21
+        for <andrei@press.co.nz>;
+        Tue, 13 Jan 2015 00:01:23 -0800 (PST)
+Received-SPF: none (google.com: darqstar@fs.net does not designate permitted sender hosts) client-ip=86.98.149.6;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: darqstar@fs.net does not designate permitted sender hosts) smtp.mail=darqstar@fs.net
+Received: from bba553980.alshamil.net.ae ([86.98.149.6]) by exprod5mx241.postini.com ([64.18.4.10]) with SMTP;
+	Tue, 13 Jan 2015 08:01:22 GMT
+Message-ID: <54B50947.8080004@fs.net>
+Date: Tue, 13 Jan 2015 15:02:15 +0300
+From: <darqstar@fs.net>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:16.0) Gecko/20121011 Thunderbird/16.0.1
+MIME-Version: 1.0
+To: <andrei@press.co.nz>
+Subject: Interesting Job
+Content-Type: text/plain; charset=CP-850; format=flowed
+Content-Transfer-Encoding: 8bit
+X-pstn-mail-from: <darqstar@fs.net>
+X-pstn-neptune: 1/1/1.00/100
+X-pstn-levels: (S: 0.00040/88.89079 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:94.5022 C:99.7951 )
+X-pstn-dkim: 0 skipped:not-enabled
+X-pstn-status: off
+X-pstn-nxpr: disp=neutral, envrcpt=andrei@press.co.nz
+X-pstn-nxp: bodyHash=ea92cbec91b9d92c3bd01e5f21b18bf01d02a412, headerHash=f192bf43dc53fbff649d61d339c4840e98a5473b, keyName=4, rcptHash=51b9d251ac7a416577b59f08d1e558bf0da0e597, sourceip=86.98.149.6, version=1
+
+Good day!
+
+We considered your resume to be very attractive and we thought the vacant position in our company could be interesting for you.
+
+We cooperate with different countries and currently we have many clients in the world.
+Part-time and full-time employment are both currently important.
+We offer a flat wage from $1500 up to $7000 per month.
+
+The job offers a good salary so, interested candidates please registration on the our site: www.webscareer.com.
+
+Attention! Accept applications only on this and next week.
+
+Respectively submitted
+Personnel department
+

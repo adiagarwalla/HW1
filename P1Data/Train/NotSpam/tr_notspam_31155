@@ -1,0 +1,56 @@
+Message-ID: <29354392.1075847391536.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 04:57:00 -0700 (PDT)
+From: chris.walker@.com
+To: jeff.blumenthal@.com, susan.musch@.com, bjorn.hagelmann@.com, 
+	mark.taylor@.com, tom.moran@.com, john.swinney@.com, 
+	larry.hunter@.com
+Subject: Product type approval needed (US Crude WTI Fin Spd)
+Cc: lisa.lees@.com, stephanie.sever@.com, tana.jones@.com, 
+	karen.lambert@.com, kelly.lombardi@.com, 
+	tara.sweitzer@.com, dawn.kenne@.com, 
+	torrey.moorer@.com, robert.cass@.com, 
+	melba.lozano@.com, kevin.meredith@.com, 
+	carlos.alatorre@.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@.com, stephanie.sever@.com, tana.jones@.com, 
+	karen.lambert@.com, kelly.lombardi@.com, 
+	tara.sweitzer@.com, dawn.kenne@.com, 
+	torrey.moorer@.com, robert.cass@.com, 
+	melba.lozano@.com, kevin.meredith@.com, 
+	carlos.alatorre@.com
+X-From: Chris Walker
+X-To: Jeff Blumenthal, Susan Musch, Bjorn Hagelmann, Mark Taylor, Tom Moran, John Swinney, Larry Joe Hunter
+X-cc: Lisa Lees, Stephanie Sever, Tana Jones, Karen Lambert, Kelly Lombardi, Tara Sweitzer, Dawn C Kenne, Torrey Moorer, Robert B Cass, Melba Lozano, Kevin Meredith, Carlos Alatorre
+X-bcc: 
+X-Folder: \Tanya_Jones_June2001\Notes Folders\All documents
+X-Origin: JONES-T
+X-FileName: tjones.nsf
+
+Please approve the following new product type in Data Manager after 11 A.M.
+
+US Crude WTI Fin Spd
+
+(Please note that this product type will replace the existing US Crude WTI 
+Cal Spd Fin Swap)
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"

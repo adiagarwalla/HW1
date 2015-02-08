@@ -1,0 +1,26 @@
+From @..  Fri Jan 23 11:58:21 2015
+Return-Path: <@..>
+X-Original-To: denhayes9@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 88F76DF; Fri, 23 Jan 2015 11:58:21 +0000 (UTC)
+Received: from modemcable190.45-37-24.static.videotron.ca (modemcable190.45-37-24.static.videotron.ca [24.37.45.190])
+    by .. with SMTP id 7tsjjjxea9rz8kpvhj2zjt9dds;
+    Fri, 23 Jan 2015 11:58:21 +0000 (UTC)
+    (envelope-from temfvozcuerkno@albergogrifone.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=24.37.45.190; envelope-from=<temfvozcuerkno@albergogrifone.com>;
+    helo=modemcable190.45-37-24.static.videotron.ca; mechanism=+all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=24.37.45.190; client-port=53997;
+    syn-fingerprint=5840:54:1:60:M1380,S,T,N,W1 Linux 2.4/2.6 <= 2.6.7;
+    colon-space; network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 198.71.47.165 206.126.236.76 216.113.123.189 0.0.0.0
+    70.83.113.228; network-path-time=1422014292; RBL=bl..net
+    (127.0.0.2), zen..org (127.0.0.3 127.0.0.4), cbl.abuseat.org
+    (127.0.0.2), dnsbl.sorbs.net (127.0.0.6)
+Received: from 13.57.53.62 by 24.37.45.190; Fri, 23 Jan 2015 23:49:29 +0400
+Message-ID: <B[20-25
+Date: Fri, 23 Jan 2015 11:58:21 +0000 (UTC)
+From: @.. (root)
+

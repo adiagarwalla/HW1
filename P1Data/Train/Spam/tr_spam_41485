@@ -1,0 +1,26 @@
+From @..  Wed Jan  7 10:46:53 2015
+Return-Path: <@..>
+X-Original-To: alan.george@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 64847DE; Wed,  7 Jan 2015 10:46:53 +0000 (UTC)
+Received: from 111.204.252.1 (111.204.252.1 [111.204.252.1])
+    by .. with SMTP id htw9kupmjr2k9p5y37jam677qn;
+    for alan.george@fs.net;
+    Wed, 07 Jan 2015 10:46:53 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=111.204.252.1; envelope-from=<>; helo=111.204.252.1
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=111.204.252.1; client-port=7728;
+    syn-fingerprint=8192:104:1:52:M1380,N,W2,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    65.114.55.137 67.14.102.30 219.158.32.9 219.158.101.197 219.158.96.213
+    219.158.11.157 219.158.104.237 124.65.194.10 61.148.146.30 124.65.58.178;
+    network-path-time=1420627612; RBL=dnsbl.sorbs.net (127.0.0.6),
+    zen..org (127.0.0.11 127.0.0.4), bl..net (127.0.0.2),
+    cbl.abuseat.org (127.0.0.2)
+Message-Id: <20150107104653.64847DE@..>
+Date: Wed,  7 Jan 2015 10:46:53 +0000 (UTC)
+From: @.. (root)
+

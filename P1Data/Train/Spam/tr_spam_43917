@@ -1,0 +1,117 @@
+From @..  Wed Jan  7 17:40:56 2015
+Return-Path: <@..>
+X-Original-To: craig7watson@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D2ED6DE; Wed,  7 Jan 2015 17:40:56 +0000 (UTC)
+Received: from mailb.ladbrokes.com (mailb.ladbrokes.com [195.244.204.241])
+    by .. with SMTP id 3p7a57bqakng932enp6rc8zza2;
+    for craig7watson@fs.net;
+    Wed, 07 Jan 2015 17:40:56 +0000 (UTC)
+    (envelope-from no-reply@ladbrokes.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=195.244.204.241; envelope-from=<no-reply@ladbrokes.com>;
+    helo=mailb.ladbrokes.com; mechanism=ip4:195.244.204.0/24
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=195.244.204.241; client-port=58360;
+    syn-fingerprint=5840:51:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.8.190 63.146.27.18 4.69.141.194 4.69.141.194 213.242.116.146
+    212.120.252.25 212.120.233.2 212.120.233.14; network-path-time=1420652456
+X-AuditID: 0ad01f0c-b7fa96d000000ca7-91-54ad6f98f951
+Received: from mail.ladbrokes.com ( [10.208.242.100])
+	by mailb.ladbrokes.com (Microsoft ESMTP MAIL Service) with SMTP id 00.E9.03239.89F6DA45; Wed,  7 Jan 2015 18:40:40 +0100 (CET)
+Received: from giladmlr01.ladbrokes.com (10.208.31.13) by mail.ladbrokes.com
+ (10.208.242.100) with Microsoft SMTP Server id 8.1.436.0; Wed, 7 Jan 2015
+ 18:40:38 +0100
+Received: from gicomapp01.openbet.app.lbr (gicomapp01 [10.208.7.10])	by
+ giladmlr01.ladbrokes.com (8.14.3/8.14.3) with ESMTP id t07HecJb001817	for
+ <craig7watson@fs.net>; Wed, 7 Jan 2015 18:40:38 +0100
+Received: from gicomapp01 (localhost.localdomain [127.0.0.1])	by
+ gicomapp01.openbet.app.lbr (8.13.8/8.13.8) with ESMTP id t07HebLe002910	for
+ <craig7watson@fs.net>; Wed, 7 Jan 2015 17:40:38 GMT
+Message-ID: <201501071740.t07HebLe002910@gicomapp01.openbet.app.lbr>
+Date: Wed, 7 Jan 2015 17:40:38 +0000
+From: <@..>
+Subject: =?utf-8?B?QWRtaW5pc3RyYXRpb24gRmVl?=
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+To: <@..>
+X-Mailer: OpenBet
+MIME-Version: 1.0
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFupkluLIzCtJLcpLzFFi42LhuvApRXdG/toQg745whatDfOZHRg9rn6c
+	wBjAGMVlk5Kak1mWWqRvl8CV8WDuV7aCW2oVR5f8ZmpgvKHaxcjJISFgInGzax8bhC0mceHe
+	eiCbi0NIYBujxK3Fz5lAEkICKxkldlxJhkicZpQ4f/QrI0TiCJDzj7uLkYODV8BFYuFDBRCT
+	RUBFovmOHkgFm4CcxPvWKewgtrCArsSmt69ZQWxmAQ2J1jlz2SFsRYkp3Q/BbBEBSYn+7v+s
+	EPcISiybfQzM5gWyT858wgKxVVniw4nt7BMYBWYhGTULyahZSFoWMDKvYhTOTczMSdLLSUxJ
+	KsrPTi3WS87P3cQIDj55nh2MfXMVDjEKcDAq8fCWpK4JEWJNLCuuzD3EKMHBrCTC65q8NkSI
+	NyWxsiq1KD++qDQntfgQIxMHp1QDY9yOM0JPH3KWW8fc8cuWfSW64mClWhJ3SdsDQ0nDbVFJ
+	U1VVLrqKRpw7eYRdZp7vvLLvV75Ip7F8lYn/oznRYo/hsoOMYlLaEbv4/j+8MHPPkmzWYMXz
+	xUKqFcE83/vEfkulPLN5vGK3x2ThtLSfnvGPuuLfTxVOkHW7X1j+xp4tPVm77ae7EktxRqKh
+	FnNRcSIA+fq+wBwCAAA=
+
+PHN0cm9uZz5UaGlzIG1lc3NhZ2UgaGFzIGJlZW4gc2VudCB0byB5b3UgYXMgaXQgY29udGFpbnMg
+aW1wb3J0YW50IGFjY291bnQgaW5mb3JtYXRpb24gYW5kIHJlcXVpcmVzIHlvdXIgYWN0aW9uLjwv
+c3Ryb25nPjxici8+PGJyLz48YnIvPg0KDQpEZWFyIGNyYWlnIHdhdHNvbiw8YnIvPjxici8+DQoN
+Cg0KV2UgbWlzcyB5b3UhIEl0J3MgYmVlbiAxMiBtb250aHMgc2luY2UgeW91IGxhc3QgdXNlZCB5
+b3VyIExhZGJyb2tlcyBhY2NvdW50IGFuZCB3ZSBhcmUgd3JpdGluZyB0byBpbmZvcm0geW91IG9m
+IHRoZSBjaG9pY2VzIHRoYXQgYXJlIGF2YWlsYWJsZSB0byB5b3UgdG8gcHJldmVudCBhIGZlZSBi
+ZWluZyBjaGFyZ2VkIHRvIHlvdXIgTGFkYnJva2VzIGFjY291bnQuPGJyLz48YnIvPiAgDQoNCjxz
+dHJvbmc+V2UndmUgZ290IHNvbWUgPGEgaHJlZj0iaHR0cDovL3Nwb3J0c2JldGEubGFkYnJva2Vz
+LmNvbS9wcm9tb3Rpb25zIj4gZmFudGFzdGljIG9mZmVyczwvYT4gYW5kIGEgdG9wIGNsYXNzIDxh
+IGhyZWY9Imh0dHA6Ly9tb2JpbGViZXR0aW5nLmxhZGJyb2tlcy5jb20vZW4iPm1vYmlsZSBhcHA8
+L2E+IHNvIHdoeSBub3QgdGFrZSBhbm90aGVyIGxvb2sgYXQgd2hhdCBMYWRicm9rZXMgaGFzIGdv
+dCB0byBvZmZlci48L3N0cm9uZz48YnIvPjxici8+IDxzdHJvbmc+SWYgeW91IGNob29zZSB0byBy
+ZXN1bWUgcGxheWluZyB3aXRoIHVzOjwvc3Ryb25nPiBwbGVhc2UgZGlzcmVnYXJkIHRoaXMgZW1h
+aWwsIGxvZyBpbiB0byB5b3VyIGFjY291bnQgYW5kIHBsYWNlIGEgYmV0IG9yIHBsYXkgYSBnYW1l
+IHVzaW5nIHRoZSBjcmVkaXQgYmFsYW5jZSBtYWtpbmcgeW91ciBhY2NvdW50IGFjdGl2ZSBhZ2Fp
+bi4gPGJyLz48YnIvPiANCg0KZiB5b3UndmUgZGVjaWRlZCB5b3Ugbm8gbG9uZ2VyIHdpc2ggdG8g
+YmV0IHdpdGggdXMgYW5kIHdpc2ggdG8gYXZvaWQgcGF5aW5nIGFueSBjaGFyZ2VzLCBwbGVhc2Ug
+cmV2aWV3IHRoZSBmb2xsb3dpbmcgb3B0aW9ucyBhbmQgY2hvb3NlIHRoZSBvbmUgdGhhdCB5b3Ug
+cHJlZmVyOjxici8+PGJyLz4NCg0KMSkgWW91IGNhbiBsb2cgaW4gdG8geW91ciBhY2NvdW50IGFu
+ZCA8c3Ryb25nPndpdGhkcmF3PC9zdHJvbmc+IHlvdXIgY3VycmVudCBiYWxhbmNlLiAgSXQgaXMg
+cG9zc2libGUgdGhhdCB5b3VyIGNhcmQgYW5kIGFjY291bnQgZGV0YWlscyBhcmUgb3V0IG9mIGRh
+dGUgc28geW91IG1heSB3aXNoIHRvIGNoZWNrIGFuZCB1cGRhdGUgdGhlbSBmaXJzdCB0byBlbmFi
+bGUgeW91IG1ha2UgYSB3aXRoZHJhd2FsLjxici8+PGJyLz4NCg0KMikgWW91IG1heSBjaG9vc2Ug
+dG8gZG9uYXRlIHlvdXIgYmFsYW5jZSB0byB0aGUgTGFkYnJva2VzIGluIHRoZSBDb21tdW5pdHkg
+Q2hhcml0YWJsZSBUcnVzdCB3aGljaCBkb25hdGVzIGZ1bmRzIHRvIGdvb2QgY2F1c2VzIHRocm91
+Z2hvdXQgR3JlYXQgQnJpdGFpbi4gVG8gZG8gdGhpcywgZW1haWwgdXMgYXQgQWNjb3VudFF1ZXJp
+ZXNATGFkYnJva2VzLmNvLnVrLCBleHByZXNzaW5nIHlvdXIgd2lzaCB0byBkbyBzbyBhbG9uZyB3
+aXRoIHlvdXIgdXNlcm5hbWUgYW5kIHdlIHdpbGwgZG9uYXRlIHRoZSBmdW5kcyBhbmQgY2xvc2Ug
+eW91ciBhY2NvdW50Ljxici8+PGJyLz4NCklmIHlvdSB0YWtlIGFueSBhY3Rpb24gZGVzY3JpYmVk
+IGFib3ZlIHlvdXIgYWNjb3VudCB3aWxsIGJlIHByb3RlY3RlZCBmcm9tIHRoZSBBZG1pbmlzdHJh
+dGlvbiBGZWUgaG93ZXZlciBpZiB5b3UgZG8gbm90IHRha2Ugc29tZSBhY3Rpb247IGFmdGVyIGEg
+bWluaW11bSBwZXJpb2Qgb2YgMjggZGF5cyBmcm9tIHRoZSBkYXRlIG9mIHRoaXMgZW1haWwgd2Ug
+d2lsbCBiZWdpbiB0byBjaGFyZ2UgYW4gQWRtaW5pc3RyYXRpb24gRmVlIChhcyBwZXIgc2VjdGlv
+biAxNSBvZiBvdXIgVGVybXMgYW5kIENvbmRpdGlvbnMpIHRvIGNsb3NlIGRvd24geW91ciBMYWRi
+cm9rZXMgYWNjb3VudC4gDQpEb24ndCB3b3JyeSwgd2UgaGF2ZSBub3RpZmllZCB5b3Ugd2l0aCB0
+aW1lIHRvIHNwYXJlIHNvIHlvdSBoYXZlIHBsZW50eSBvZiB0aW1ldG8gdGFrZSBhY3Rpb24gYmVm
+b3JlIGFueSBjaGFyZ2VzIChzZWUgYmVsb3cpIGFyZSBhcHBsaWVkIHRvIHlvdXIgYWNjb3VudC4g
+ICBJbiB0aGUgbWVhbnRpbWUgeW91IG1heSBmaW5kIHRoZXNlIDxhIGhyZWY9Imh0dHA6Ly9oZWxw
+LmxhZGJyb2tlcy5jb20vYXJ0aWNsZS5hc3B4P2FydGljbGU9MzQyNyZwPTMiPkZyZXF1ZW50bHkg
+QXNrZWQgUXVlc3Rpb25zPC9hPiB1c2VmdWwuPGJyLz48YnIvPg0KDQo8c3Ryb25nPkluYWN0aXZl
+IEFkbWluaXN0cmF0aW9uIEZlZSBkZXRhaWxzOjwvc3Ryb25nPjxici8+DQpUaGlzIGNoYXJnZSB3
+aWxsIG9ubHkgYmUgYXBwbGllZCB0byBmdW5kcyBpbiB5b3VyIExhZGJyb2tlcyB3YWxsZXRzIGFu
+ZCB3aWxsIGFwcGx5IGF0IMODwoPDgsKCw4PCgsOCwoLDg8KCw4LCozIgKG9yIGN1cnJlbmN5IGVx
+dWl2YWxlbnQpIG9yIDUlIG9mIHRoZSBiYWxhbmNlIG9mIHRoZSBhY2NvdW50IG9uIHRoZSBkYXRl
+IHRoZSBhY2NvdW50IGJlY29tZXMgaW5hY3RpdmUgKHdoaWNoZXZlciBhbW91bnQgaXMgdGhlIGdy
+ZWF0ZXIpIGFuZCBhZnRlciB0aGUgZmlyc3QgZGF5IG9mIGV2ZXJ5IGZvbGxvd2luZyBjYWxlbmRh
+ciBtb250aCB1bnRpbCB0aGUgd2FsbGV0IGJhbGFuY2UgaXMgcmVkdWNlZCB0byB6ZXJvLiAgVGhl
+IHRvdGFsIGZ1bmRzIGluIGVhY2ggd2FsbGV0IChlLmcuIHBva2VyLCBjYXNpbm8pIHdpbGwgYmUg
+dXNlZCBhcyB0aGUgYmFzaXMgZm9yIGNhbGN1bGF0aW5nIHRoZSBjaGFyZ2UuIElmIGF0IGFueSB0
+aW1lIHlvdSByZWFjdGl2YXRlIHlvdXIgYWNjb3VudCBieSBjYXJyeWluZyBvdXQgYmV0dGluZyBh
+Y3Rpdml0eSBvciB5b3Ugd2l0aGRyYXcgeW91ciBmdW5kcyB0aGUgY2hhcmdlcyB3aWxsIGNlYXNl
+LiBBdCBubyB0aW1lIHdpbGwgYW55IHJlcXVlc3QgZm9yIHBheW1lbnQgb2YgZnVuZHMgYWJvdmUg
+YW5kIGJleW9uZCB0aG9zZSBhbHJlYWR5IGluIHlvdXIgYWNjb3VudCBiZSBtYWRlLldlIHdpbGwg
+b25seSBkZWR1Y3QgZmVlcyBmcm9tIHlvdXIgTGFkYnJva2VzIFdhbGxldHMgYW5kIG5vdCBmcm9t
+IHlvdXIgQmFuayBhY2NvdW50IG9yIGRlYml0IGNhcmQuPGJyLz48YnIvPiAgPHN0cm9uZz5JZiB5
+b3UgY29udGFjdCB1cyB0byByZXN1bWUgdXNpbmcgeW91ciBhY2NvdW50LCB3ZSB3aWxsIGhhcHBp
+bHkgcmVmdW5kIGFueSBjaGFyZ2VzIGluY3VycmVkLjwvc3Ryb25nPjxici8+PGJyLz4gDQoNCklm
+IHlvdSB3aXNoIHRvIGRpc2N1c3MgdGhlIG9wdGlvbnMgZnVydGhlciBwbGVhc2UgbG9nIGluIHRv
+IHlvdXIgYWNjb3VudCBhbmQgY29udGFjdCB1cyB2aWEgY2hhdCBvciBjYWxsIHVzIG9uIDA4MDAg
+NzMxIDQxNzEvMDIwOCA1MTUgMjU2NS48YnIvPjxici8+DQoNCklmIHlvdSBoYXZlIGZvcmdvdHRl
+biB5b3VyIHVzZXJuYW1lIG9yIHBhc3N3b3JkLCBwbGVhc2UgY2xpY2sgaGVyZSB0byByZXRyaWV2
+ZSB5b3VyIGxvZ2luIGRldGFpbHM6IGh0dHA6Ly9hY2NvdW50LmxhZGJyb2tlcy5jb20vZW4vbG9n
+aW4tcmVjb3Zlcnk8YnIvPjxici8+DQoNCktpbmQgcmVnYXJkcyw8YnIvPjxici8+DQoNCkxhZGJy
+b2tlcyBDdXN0b21lciBTdXBwb3J0IFRlYW0=
+

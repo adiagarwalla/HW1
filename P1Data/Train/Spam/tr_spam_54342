@@ -1,0 +1,128 @@
+From @..  Thu Jan 22 05:29:03 2015
+Return-Path: <@..>
+X-Original-To: ynrnbhjrd@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 7AAF4DE; Thu, 22 Jan 2015 05:29:03 +0000 (UTC)
+Received: from mail.shinewing.com (mail.shinewing.com [211.99.15.186])
+    by .. with SMTP id 7x44ih2iy8h7bghbdcuh46w4fw;
+    for ynrnbhjrd@fs.net;
+    Thu, 22 Jan 2015 05:29:02 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=211.99.15.186; envelope-from=<>; helo=mail.shinewing.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=211.99.15.186; client-port=49874;
+    syn-fingerprint=8192:108:1:52:M1380,N,W8,N,N,S Windows XP/2000 (RFC1323 no
+    tstamp); network-path=143.215.250.65 130.207.254.29 130.207.254.186
+    143.215.194.113 64.57.21.81 64.57.20.168 64.57.20.222 64.57.20.90
+    202.97.90.49 202.97.51.65 202.97.53.229 202.97.53.81 0.0.0.0
+    106.120.254.22 106.39.104.194 211.160.1.165 211.160.4.90;
+    network-path-time=1421904542
+Received: from mail.shinewing.com
+        by mail.shinewing.com (IceWarp 11.0.2.0 (2014-08-07)) with SMTP id 201501221328424167
+        for <ynrnbhjrd@fs.net>; Thu, 22 Jan 2015 13:28:42 +0800
+Date: Thu, 22 Jan 2015 13:28:42 +0800
+From: Mail Delivery Subsystem <@..>
+To: <@..>
+Message-Id: <6e6ab94da8be3a2a40f837a89df8ae46-1177971605@mail.shinewing.com>
+Subject: Returned mail: permanent problems with the remote server
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="1177971605ip_given_201501201321595865-1177967505_8@mail.shinewing.com"
+
+--1177971605ip_given_201501201321595865-1177967505_8@mail.shinewing.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+The original message was received at Tue, 20 Jan 2015 13:22:00 +0800
+
+  ----- The following addresses had permanent fatal errors -----
+<swhr_xa@shinewing.com>
+
+  ----- Transcript of session follows -----
+554 permanent problems with the remote server xa
+
+--1177971605ip_given_201501201321595865-1177967505_8@mail.shinewing.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: DNS; mail.shinewing.com
+Arrival-Date: Tue, 20 Jan 2015 13:22:00 +0800
+
+Original-Recipient: RFC822; <swhr_xa@shinewing.com>
+Final-Recipient: RFC822; <swhr_xa@shinewing.com>
+Action: failed
+Remote-MTA: DNS; xa
+Last-Attempt-Date: Thu, 22 Jan 2015 13:28:42 +0800
+
+--1177971605ip_given_201501201321595865-1177967505_8@mail.shinewing.com
+Content-Type: message/rfc822
+
+Return-Path: <ynrnbhjrd@fs.net>
+Received: from fs.net ([111.178.237.52])
+        by mail.shinewing.com (IceWarp 11.0.2.0 (2014-08-07)) with ESMTP id 201501201321555862
+        for <swhr_xa@shinewing.com>; Tue, 20 Jan 2015 13:21:55 +0800
+Received: from vvtluh (unknown [172.116.34.71])
+	by fs with SMTP id x8CDsOl0SB6MJdVz.1
+	for <swhr_xa@shinewing.com>; Tue, 20 Jan 2015 13:22:00 +0800
+Message-ID: <8B1FAA0FE69936242250AB7ED438E7E4@vvtluh>
+From: =?utf-8?B?5p2+6Ze85oCT?= <ynrnbhjrd@fs.net>
+To: <swhr_xa@shinewing.com>
+Subject: =?utf-8?B?5Lqn5ZOB57uP55CG5aaC5L2V5Y+C5LiO5biC5Zy6566h55CG5rWB56iL77yf?=
+Date: Tue, 20 Jan 2015 13:21:48 +0800
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (1.1) on mail.shinewing.com
+X-Spam-Level: 
+X-Spam-Status: "No, score=-1.90 required=3.80 tests=BAYES_00=-1.90 autolearn=Yes version=3.3.2"
+
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PQ0KDQogICAgICAgICAgICAgICAgIOaIkOWKn+eahOS6p+WTgee7
+j+eQhuKAlOKAlOS6p+WTgee7j+eQhueahOmHjuibruaIkOmVvwkJCQkJCQkJDQoJCQkJCQkJCQ0K
+ICAgICAgMjAxNeW5tDAx5pyIMjYtMjfml6Xmt7HlnLMgMDHmnIgyOS0zMOaXpeS4iua1tyAwMuac
+iDAyLTAz5pel5YyX5LqsICAgICAJCQkJCQkNCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0JCQkJCQkJCQ0K
+5Li75Yqe5Y2V5L2N77ya5pm65oWn5qCR5a2m5Lmg5py65p6EDQrljJfkuqzku6Xlj4rljJfmlrnl
+nLDljLrvvJo0MDAtNzAwLTQyNDggDQrljY7kuJzlnLDljLrvvJowMjEtLTMxMjYzNDgzICAgICAg
+DQrljY7ljZflnLDljLrvvJowNzU1LTYxMjg3NTE3DQo9PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQoNCuOA
+kOWvuS3osaHjgJHkvIHkuJpDRU8v5oC757uP55CG44CB56CU5Y+R5oC757uP55CGL+WJr+aAuyzl
+hazlj7jmgLvlt6Uv5oqA5pyv5oC755uRLOWFrOWPuOS6uuWKm+i1hOa6kOaAu+ebkeOAgQ0KICAg
+ICAgICAg5Lqn5ZOB57q/5oC755uR44CB5Lqn5ZOB57uP55CGL+mhueebrue7j+eQhuOAgVBNT++8
+iOmhueebrueuoeeQhuWKnuWFrOWupO+8ieaIkOWRmOOAgeW4guWcuuaAu+ebkeOAgQ0KICAgICAg
+ICAg5oqA5pyv5pSv5oyB5oC755uR562J44CCDQoNCuOAkOi0uS3nlKjjgJE0OTgw5YWDLzLkurrv
+vIwzMjAw5YWDLzHkuroNCg0K44CQ6IOMLeaZr+OAkQkJCQkJCQkJDQoyMDA45bm05LiA5Zy66YeR
+6J6N6aOO5pq05bit5Y235YWo55CD77yM5aSn6YeP55qE5bel5Lia5LyB5Lia5YCS6Zet5YWz6Zeo
+77yM5aSn5om55ZGY5bel5aSx5Lia44CC5Zyo6L+Z5Zy66YeR6J6NDQrljbHmnLrkuK3miJHku6zl
+j5HnjrDov5jmmK/mnInlvojlpJrkvIHkuJrkuI3kvYbmsqHmnInlgJLkuIvvvIzlj43ogIzmm7Tl
+iqDpq5jpgJ/miJDplb/vvIzlhbbkuK3kuIDkuKrph43opoHnmoTljp8NCuWboOWwseaYr+i/meS6
+m+S8geS4muaehOW7uuS6huaIkOWKn+eahOS6p+WTgeeuoeeQhuS9k+ezu++8jOWfueWFu+S6huS8
+mOengOeahOS6p+WTgee7j+eQhu+8jOiDveWkn+e7hOe7h+WboumYn+W8gA0K5Y+R5Ye65YW35pyJ
+56ue5LqJ5Yqb44CB5ruh6Laz5a6i5oi36ZyA5rGC55qE5Lqn5ZOB44CC5YWs5Y+45Zyo5Yas5aSp
+5pu05bqU6K+l5Yqg5by66Ieq5bex5YaF5Yqf55qE5L+u54K85p2l5bqU5a+5DQrljbHmnLrvvIzl
+kIzml7bov47mjqXmmKXlpKnnmoTliLDmnaXjgIINCuW9k+S4gOS4quS8geS4muS7juWNleS4gOS6
+p+WTgee6v+WQkeWkmuS6p+WTgee6v+i3qOi2iueahOaXtuWAme+8jOW/hemhu+eqgeegtOeahOS4
+gOS4queTtumiiOWwseaYr+WFrOWPuOS6p+WTgee7jw0K55CG55qE5Z+55YW777yM5Zug5Li65Lqn
+5ZOB57uP55CG5piv5YWs5Y+45Lu35YC86ZO+5Lit5pyA6YeN6KaB55qE5LiA5Liq546v6IqC77yM
+5piv55u05o6l6Z2i5ZCR5a6i5oi344CB5bim6aKG5ZuiDQrpmJ/liJvpgKDku7flgLznmoTpoobl
+hpvkurrnianvvIzlm6DmraTkuqflk4Hnu4/nkIbkuKrkurrlj4rlhbbmiYDnjofpoobnmoTlm6Lp
+mJ/nmoTog73lipvlvoDlvoDlhrPlrprkuobor6Xkuqflk4ENCuWcqOW4guWcuuS4iueahOernuS6
+ieWKm+OAguS4mueVjOWkp+mHj+WFrOWPuOWcqOaehOW7uuS6p+WTgeeuoeeQhuS9k+ezu+WSjOWf
+ueWFu+S6p+WTgee7j+eQhueahOi/h+eoi+S4reW4uOingeWmgg0K5LiL5Zuw5oOR55qE6Zeu6aKY
+77yaDQoxLuS6p+WTgee7j+eQhuivpeWmguS9leWumuS9je+8n+eptuern+WumuS9jeS6jueglOWP
+kei/mOaYr+WumuS9jeS6juW4guWcuu+8nw0KMi7kuqflk4Hnu4/nkIblkozpobnnm67nu4/nkIbm
+nInku4DkuYjljLrliKvvvJ/lpoLkvZXkvZzlpb3liIblt6XvvJ8NCjMu5Lqn5ZOB57uP55CG56m2
+56uf5bqU6K+l5YW35pyJ5LuA5LmI5qC355qE57Sg6LSo5qih5Z6L77yf6LCB5p2l5om/5ouF5q+U
+6L6D5ZCI6YCC77yfDQo0LuS6p+WTgee7j+eQhuWmguS9leWPguS4juS6p+WTgeeahOW4guWcuueu
+oeeQhua1geeoi++8n+WmguS9leS7jua6kOWktOadpeinhOWIkuS6p+WTge+8nw0KNS7lpoLkvZXm
+jqjliqjkuqflk4HlvIDlj5HlhajmtYHnqIvnmoTlt6XkvZzvvJ8NCjYu5aaC5L2V5Y2P6LCD5Lqn
+5ZOB55qE5biC5Zy6566h55CG44CB5byA5Y+R566h55CG44CB6LSi57uP566h55CG5LmL6Ze055qE
+
+
+--1177971605ip_given_201501201321595865-1177967505_8@mail.shinewing.com--
+

@@ -1,0 +1,789 @@
+From @..  Sun Jan 25 10:03:30 2015
+Return-Path: <@..>
+X-Original-To: peelings@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 368DEDE; Sun, 25 Jan 2015 10:03:30 +0000 (UTC)
+Received: from 173-228-155-89-mx.sailthru.com (173-228-155-89-mx.sailthru.com [173.228.155.89])
+    by .. with SMTP id 9z87jm3y85dccrpbgqp7b95uke;
+    for peelings@fs.net;
+    Sun, 25 Jan 2015 10:03:30 +0000 (UTC)
+    (envelope-from delivery@mx.sailthru.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=173.228.155.89; envelope-from=<delivery@mx.sailthru.com>;
+    helo=173-228-155-89-mx.sailthru.com; mechanism=include:aspmx.sailthru.com
+    (ip4:173.228.155.0/24 -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=173.228.155.89; client-port=48648;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-hops=14;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.138 154.54.13.29 154.54.0.161 154.54.31.94 154.54.40.74
+    154.54.3.70 154.54.45.2 38.88.134.58 96.47.77.53 173.228.155.89;
+    network-path-time=1422180209; RBL-errors=cbl.abuseat.org (name server
+    failure), zen..org (name server failure), bl..net (name
+    server failure), dul.dnsbl.sorbs.net (name server failure)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=W22SxxcJ5OI/nEXEM41Q8mz1rik=;
+ b=iFqj6rZjA7jzo7oRqHEmBYlXhYs7gDNpTgq/IksGqmzKwWlS5m4jiZjkbz+jqrWEvLacOlzORncw
+   fCZT8ZFvA1kNznuu7pecuVDDilz2lrH2yIZp+kef386RayYXvAGQZMHmzJzBSdZ0BQWp0BIi1viW
+   TSwkXruX56eOQtsimaU=
+Received: from nj1-p-fattan-prd-jma-13.flt (172.18.20.18) by 173-228-155-87-mx.sailthru.com id hoivn41qqbs1 for <peelings@fs.net>; Sun, 25 Jan 2015 04:03:28 -0500 (envelope-from <delivery@mx.sailthru.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1422176608;
+	s=sailthru; d=e.worldstores.co.uk;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=hB3XlIB3Z98S6Sq4nYBg3e/laDKxVE2vRRqv0nNUxY0=;
+	b=fJ0Xl7ONgFAW0c6S1irUEHtrM4maD88KiSqeHD+LIhlVJ7soPMAu20ZxL4CarGAT
+	5lF/bA2GOifLu+LsshlMreh9f9bWjMlZyfmzwaLJ55ohJVGdhexv4buQxSx8yVa52rW
+	prbibq3N/M9tNFORKZzVOS4dpttsZg8I7eq/+2Qg=
+Date: Sun, 25 Jan 2015 04:03:28 -0500 (EST)
+From: WorldStores <@..>
+Reply-To: @..
+To: @..
+Message-ID: <20150125090328.3702632.508304@sailthru.com>
+Subject: Final Hours: Up to 89 Furniture, & More
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_40341585_1898852755.1422176608158"
+Precedence: bulk
+X-Virtual-Mta: sharedpool1
+x-job: 4736-3702632-20150125
+X-TM-ID: 20150125090328.3702632.508304
+X-Info: Message sent by sailthru.com customer WorldStores
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: nj1-p-fattan-prd-jma-13.flt
+X-Unsubscribe-Web: http://link.worldstores.co.uk/oc/538e03eba2de7efe2200061027cyw.aw7k/3901d6c8
+List-Unsubscribe: <http://link.worldstores.co.uk/oc/538e03eba2de7efe2200061027cyw.aw7k/3901d6c8>, <mailto:unsubscribe_20150125090328.3702632.508304@mx.sailthru.com>
+X-rpcampaign: sthae3702632
+
+------=_Part_40341585_1898852755.1422176608158
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hurry - these great offers end in 3 days time!
+
+Having problems viewing this email?  View the online version <http://link.w=
+orldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMIVikmOrGNiVuHkC2977>
+
+Unsubscribe <http://link.worldstores.co.uk/oc/538e03eba2de7efe2200061027cyw=
+.aw7k/3901d6c8>  =20
+
+Add messages@e.worldstores.co.uk <messages@e.worldstores.co.uk> to your saf=
+e list so you never miss out on exclusive email customer offers.
+
+**********************************************************
+<a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k=
+/U2PGn8Po0k4pzoEhA8294><img src=3D"http://link.worldstores.co.uk/img/538e03=
+eba2de7efe2200061027cyw.aw7k/fb4c5c05.gif" alt=3D"" border=3D"0" /></a>
+
+Feefo <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/U05=
+rNcPo44t-AyEMD4be1> Facebook <http://link.worldstores.co.uk/538e03eba2de7ef=
+e2200061027cyw.aw7k/U1pJVuYQVziNvnytD820f>=20
+Twitter <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/U=
+05rNcPo44t-AyEODad31>=20
+Pinterest <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k=
+/U05rNcPo44t-AyEPDec49>
+**********************************************************
+
+Flash Sale.=20
+
+Up To 89
+Limited Time and Stock.=20
+<http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-=
+5i4A6gnCdfa5>
+
+**********************************************************
+
+Deals Close In...
+
+The Heritage Collection. Up to 63538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6goD8149>
+
+Top Rated Offer. Torquay Metal Bunk Bed. 63. <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkm=
+O-5i4A6gpC6e3f>
+
+Get Ready for Summer. Up to 57e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gqC9f63>  =20
+
+Beautiful Touches. Up to 71eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6grCe254>
+
+Toasty Toppers. Up to 632de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gsC9bc6> =20
+
+The Vintage Kitchen. Up to 7503eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gtC5b7b>
+
+Cavendish Upholstery Made to Order. Up to 69ores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6guCe801> =20
+
+TemaHome Quality and Style. Up to 55uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gvC80aa>
+
+Double Trouble. Up to 762de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gwC63f0>
+
+Statement Dining Table. Up to 8538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gxC9159>
+
+Willis and Gambier Sale. Up to 51538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gyC4e91>
+
+Jean Patrique Sale. Up to 893eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gzCbb7d>
+
+Glass Gloss and Chrome. Up to 8538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g0Cbd30>
+
+Designer Elements. Up to 80eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g1Ce4a7>
+
+Sliding Doors Sale. Up to 543eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g2Cfd95>
+
+Country Kitchen. Up to 56a2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g3C7877>
+
+The Heritage Collection. Up to 63538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6goEa61c>
+
+MemoryPedic Sale. Up to 64ba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g4C47a4>
+
+**********************************************************
+Share this email on facebook <http://link.worldstores.co.uk/view/538e03eba2=
+de7efe2200061027cyw.aw7k/f96e8306?fblike_url=3D>
+**********************************************************
+
+WorldStores
+
+Contact Us <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7=
+k/VMJwMkmO-5i4A6g5C6783>
+
+About Us <http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/=
+VMJwMkmO-5i4A6g6C79bb>
+
+Returns Information <http://link.worldstores.co.uk/538e03eba2de7efe22000610=
+27cyw.aw7k/VMJwMkmO-5i4A6g7Ce0a4>=20
+
+Terms & Conditions <http://link.worldstores.co.uk/538e03eba2de7efe220006102=
+7cyw.aw7k/VMJwMkmO-5i4A6g8C4518>
+
+**********************************************************
+Copyright WorldStores Ltd. =C2=A9 2015 All Rights Reserved
+**********************************************************
+
+WorldStores want to ensure you=E2=80=99re the first to receive news about e=
+xclusive customer offers. If you no longer wish to receive these messages, =
+you can simply Unsubscribe <http://link.worldstores.co.uk/oc/538e03eba2de7e=
+fe2200061027cyw.aw7k/3901d6c8>
+
+View our privacy policy. <http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/U05rNcPo44t-AyEbCec19>
+------=_Part_40341585_1898852755.1422176608158
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"ent-Type" ent=3D"text/html; charset=3DUTF-8" />
+<style>
+/*these are fixes from htmlemailboilerplate.com */
+/* Outlook link fix */
+#outlook a {padding:0;}
+/* Hotmail background & line height fixes */
+.ExternalClass {width:100.ExternalClass, .ExternalClass p, .ExternalClass b, .ExternalClass span, .E=
+xternalClass font,
+.ExternalClass td, .ExternalClass div, .ExternalClass br {line-height: 100;}
+#ecxwrapper { width: auto !important; max-width: none !important; text-alig=
+n: center; }
+#ecxhotmailcenter { display: inline-block; text-align: left; width: 600px; =
+}
+.hidden { display: none; }
+/* Hotmail symbol fix for mobile devices */
+.ExternalClass img[class^=3DEmoji] { width: 10px !important; height: 10px !=
+important; display: inline !important; }
+/* Image borders & formatting */
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}=
+=20
+a img {border:none;}=20
+/* Re-style iPhone automatic links (eg. phone numbers) */
+.applelinks a {color:#222222; text-decoration: none;}
+.appleLinks a {color:#ffffff; text-decoration: none;}
+#wrapper { width: 600px; margin: 0 auto; max-width: 600px; }
+}
+}
+/*RESPONSIVE CODE*/
+@media screen and (min-width:650px){
+*[class=3Demailwrapto100pc] {width:650px !important}=09
+*[class=3Dthankyoubutton] {text-decoration:none !important; background-colo=
+r:#AC1A57 !important; font-family:Arial, Helvetica, sans-serif; font-size:1=
+7px; padding:10px 40px; margin: 10px; text-align:center; color:#ffffff; bor=
+der-radius:5px; font-weight:400;}
+}
+@media screen and (max-width:650px){
+/* General */
+div[class=3Demailheight], *[class].emailheight { height: auto !important; }
+table[class=3Demailwrapto100pc], td[class=3Demailwrapto100pc], img[class=3D=
+emailwrapto100pc] {width:100ne !important;}
+img[class=3Demailwrapto100pcshow] {width:100portant;height:auto !important;font-size: 1px !important; max-height: none =
+!important; line-height: 1px !important; float: none !important; mso-hide:a=
+ll;}
+img[class=3Demailwrapto98pcshow] {width:98rtant;height:auto !important;font-size: 1px !important; max-height: none !i=
+mportant; line-height: 1px !important; float: none !important;}
+*[class=3Dnomob] {display:none !important;}
+*[class=3Dmax600] {width: 100*[class=3Dresize] {width:100t; height:auto !important;}
+*[class=3Dcellto100pc] {width:100/* Top Text */
+*[class=3Dtoptext]{font-size:16px !important; text-align:center !important;=
+}
+*[class=3Dtoptext] div {width:100ext-align:center !important; padding-top:5px;}
+*[class=3Dtop-text-button] {color:#494E52 !important; display:block; backgr=
+ound:#ffffff; padding:0px; text-align:center; text-decoration:none;=20
+border-radius:5px; max-width:100height:44px !important; font-size:16px !important;}
+/* Logo & Social */
+*[class=3Dlogo] {width:100; padding-top:10px;}
+*[class=3Dsm-logo] {width:33px !important; height:auto !important; padding-=
+left:5px;}
+*[class=3Dfeefo] {width:auto !important; height:33px !important; padding-to=
+p:5px;}
+*[class=3Dsocial] {width:100nt; float:none !important; margin-right:none !important; padding-bottom:10p=
+x !important;}
+/* Nav */
+td[class=3D"nav10"] { display: none; }
+td[class=3D"nav9"] { display: none; }
+td[class=3D"main_nav"] td { font-size: 13px !important; padding-top:20px !i=
+mportant; padding-bottom:20px !important; }
+table[class=3Dwrapto100pc], img[class=3Dwrapto100pc], div[class=3Dwrapto100=
+pc]{width:100ffffff !important;}
+/* Main Banner */
+img[class=3Demailwrapto100pc-mainbanner] {width:100o !important; border:none !important; padding-bottom: 5px !important; paddi=
+ng-left:0px !important; padding:0px !important;}
+/* Blocks */
+table[class=3Demailcolsplit], td[class=3Demailcolsplit]{width: 100nt; height: auto!important; float:left!important; }
+table[class=3Demailcolsplittiles], td[class=3Demailcolsplittiles]{width: 10=
+07px;}
+/* Footer */
+*[class=3Dfooter-button] {color:#ffffff !important; display:block; backgrou=
+nd:#4A6175; padding:0px; text-align:center; text-decoration:none;=20
+border-radius:5px; max-width:95eight:44px !important; font-size:16px !important;}
+*[class=3Dtextnomob] {color:#ffffff !important}
+/* Bottom Text */
+*[class=3Dbottomtext]{font-size:16px !important; text-align:center !importa=
+nt; padding-top:20px !important; padding-bottom:20px !important;}
+*[class=3Dbottom-text-button] {color:#ffffff !important; display:block; bac=
+kground:#AC1A57; padding:0px; text-align:center; text-decoration:none;=20
+border-radius:5px; max-width:100height:44px !important; font-size:16px !important;}
+}
+/* ce Navigation Pattern CSS */
+@media only screen and (max-width: 550px) {
+td[class=3D"nav8"] { display: none; }
+@media only screen and (max-width: 500px) {
+td[class=3D"nav7"] { display: none; }
+@media only screen and (max-width: 450px) {
+td[class=3D"nav6"] { display: none; }
+@media only screen and (max-width: 400px) {
+td[class=3D"nav5"] { display: none; }
+}
+/* Break Word - Non standard for webkit */
+word-break: break-word;
+-ms-word-break: break-all;
+word-break: break-all;
+-webkit-hyphens: auto;
+-moz-hyphens: auto;
+-ms-hyphens: auto;
+hyphens: auto;
+</style>
+</head>
+<body style=3D"bod min-width:100ms-text-size-adjust:100<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--><!--[i=
+f t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><=
+![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endi=
+f]-->
+<table width=3D"100adding=3D"0" bgcolor=3D"#ECECEC" style=3D"table-layout:fixed">
+<tr>
+<td align=3D"center" style=3D"padding:10px 0px 10px 0px;"><table class=3D"e=
+mailwrapto100pc" align=3D"center" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"650" style=3D"table-layout:fixed; max-width:650px; backgro=
+und-color:#ffffff; border:1px solid #888888;">
+<tr>
+<td>
+<!-- TOP TEXT -->
+<table width=3D"100<tr>
+<td class=3D"toptext" width=3D"100le=3D"background-color:#494E52; font-family:Arial, Helvetica, sans-serif; f=
+ont-size:14px; color:#ffffff; text-align:center; line-height:1.3em; padding=
+:15px;"><b>Hurry - these great offers end in 3 days time! </b><br />
+<div class=3D"toptext" style=3D"width:100ans-serif; font-size:11px; color:#ffffff; text-align:center;"><span class=
+=3D"nomob">Having problems viewing this email?&nbsp;</span> <a class=3D"top=
+-text-button"  href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220006=
+1027cyw.aw7k/VMIVikmOrGNiVuHkBbdff" style=3D"text-decoration:none; color:#f=
+fffff">View the online version</a><span class=3D"nomob">&nbsp;|&nbsp;<a cla=
+ss=3D"top-text-button" href=3D"http://link.worldstores.co.uk/oc/538e03eba2d=
+e7efe2200061027cyw.aw7k/3901d6c8"  style=3D"text-decoration:none; color:#ff=
+ffff">Unsubscribe</a></span>
+<div style=3D"line-height:8px; font-size:8px;">&nbsp;</div>
+Add <a href=3D"messages@e.worldstores.co.uk" style=3D"text-decoration:none;=
+ color:#ffffff">messages@e.worldstores.co.uk</a> to your safe list so you n=
+ever miss out on exclusive email customer offers. </font> </div></td>
+</tr>
+</table>
+<!-- LOGO & SOCIAL BUTTONS -->
+<table width=3D"100<tr>
+<td style=3D"padding-top:5px; padding-bottom:5px;">
+<!--[if !mso]>
+<!-- -->
+<table align=3D"left" class=3D"nomob" width=3D"15" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+<!--<![endif]-->
+<table align=3D"left" class=3D"logo"  border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"auto">
+<tr>
+<td class=3D"resize" align=3D"center"><a href=3D"http://link.worldstores.co=
+.uk/538e03eba2de7efe2200061027cyw.aw7k/U2PGn8Po0k4pzoEgAc66e"><img src=3D"h=
+ttp://link.worldstores.co.uk/img/538e03eba2de7efe2200061027cyw.aw7k/fb4c5c0=
+5.gif" alt=3D"" border=3D"0" /></a>
+</td>
+</tr>
+</table>               <!--[if !mso]>
+<!-- -->
+<table align=3D"right" class=3D"nomob" width=3D"15" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+<!--<![endif]-->
+<!--[if !mso]>
+<!-- -->
+<table align=3D"right" class=3D"social" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"auto" style=3D"margin-right:0px">
+<tr>
+<td class=3D"resize" align=3D"center" style=3D"padding-top:10px;"><a href=
+=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/U05rNc=
+Po44t-AyEMB8437" title=3D"Review us on Feefo"><img class=3D"feefo" src=3D"h=
+ttp://images1.worldstores.co.uk/images/sites/WorldStores/email_images/Welco=
+me/fefo-logo.gif" alt=3D"Feefo" width=3D"89" height=3D"21" border=3D"0" sty=
+le=3D"padding-bottom:2px;"/></a> <br class=3D"nomob">
+<a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k=
+/U1pJVuYQVziNvnytBd37f"><img class=3D"sm-logo" src=3D"http://images1.worlds=
+tores.co.uk/images/sites/WorldStores/email_images/Welcome/facebook-logo.gif=
+" title=3D"Facebook" alt=3D"Facebook" width=3D"26" height=3D"26" border=3D"=
+0"/></a> <a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220006102=
+7cyw.aw7k/U05rNcPo44t-AyEOB69e8"><img class=3D"sm-logo" src=3D"http://image=
+s1.worldstores.co.uk/images/sites/WorldStores/email_images/Welcome/twitter-=
+logo.gif" title=3D"Twitter" alt=3D"Twitter" width=3D"27" height=3D"26" bord=
+er=3D"0"/></a> <a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/U05rNcPo44t-AyEPBc305"><img class=3D"sm-logo" src=3D"http:/=
+/images1.worldstores.co.uk/images/sites/WorldStores/email_images/Welcome/pi=
+nterest-logo.gif" title=3D"Pinterest" alt=3D"Pinterest" width=3D"26" height=
+=3D"26" border=3D"0"/></a></td>
+</tr>
+</table>
+<!--<![endif]-->
+<!--[if gte mso 9]>
+<table align=3D"right" width=3D"90" height=3D"78" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"right" style=3D"padding-right:12px; padding-top:13px; padding-=
+bottom:8px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe22000=
+61027cyw.aw7k/U05rNcPo44t-AyEMC4966" title=3D"Review us on Feefo"><img src=
+=3D"http://images1.worldstores.co.uk/images/sites/WorldStores/email_images/=
+WorldStores/fefo_logo_120925.jpg" alt=3D"Feefo" width=3D"89" height=3D"21" =
+border=3D"0"/></a></td>
+</tr>
+<tr>
+<td align=3D"right" style=3D"padding-bottom:5px; padding-right:15px;"><tabl=
+e width=3D"88" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"ri=
+ght">
+<tr>
+<td width=3D"26"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2=
+200061027cyw.aw7k/U1pJVuYQVziNvnytC0eff" title=3D"Facebook"><img src=3D"htt=
+p://images1.worldstores.co.uk/images/sites/WorldStores/email_images/WorldSt=
+ores/facebook_130925.jpg" alt=3D"Facebook" width=3D"26" height=3D"26" borde=
+r=3D"0"/></a></td>
+<td width=3D"5"></td>
+<td width=3D"26"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2=
+200061027cyw.aw7k/U05rNcPo44t-AyEOC7d3c" title=3D"Facebook"><img src=3D"htt=
+p://images1.worldstores.co.uk/images/sites/WorldStores/email_images/WorldSt=
+ores/twitter_130925.jpg" alt=3D"Twitter" width=3D"27" height=3D"26" border=
+=3D"0"/></a></td>
+<td width=3D"5"></td>
+<td width=3D"26"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2=
+200061027cyw.aw7k/U05rNcPo44t-AyEPC2399" title=3D"Pinterest"><img src=3D"ht=
+tp://images1.worldstores.co.uk/images/sites/WorldStores/email_images/WorldS=
+tores/pinterest_130925.jpg" alt=3D"Pinterest" width=3D"26" height=3D"26" bo=
+rder=3D"0"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>=20
+<![endif]-->
+</td>
+</tr>
+</table>
+<!-- NAVIGATION -->
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"main_nav" width=3D"650" style=3D"padding:0px 0px; background-c=
+olor:#4A6175"><table cellpadding=3D"0" cellspacing=3D"0" width=3D"100le=3D"background-color:#4A6175">
+<tr>
+<td align=3D"center" style=3D"padding: 12px 5px; font-family: arial,sans-se=
+rif; font-size: 12px; font-weight: bold;"><a href=3D"http://link.worldstore=
+s.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gdBa717" title=3D"=
+Bedroom" style=3D"text-decoration:none; color: #ffffff;">Bedroom</a></td>
+<td align=3D"center" style=3D"padding: 12px 5px; font-family: arial,sans-se=
+rif; font-size: 12px; font-weight: bold;"><a href=3D"http://link.worldstore=
+s.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6geB3123" title=3D"=
+Furniture" style=3D"text-decoration:none; color: #ffffff;">Furniture</a></t=
+d>
+<td class=3D"nav3" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gfB=
+7411" title=3D"Homewares" style=3D"text-decoration:none; color: #ffffff;">H=
+omewares</a></td>
+<td class=3D"nav4" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6ggB=
+1589" title=3D"Outdoors" style=3D"text-decoration:none; color: #ffffff;">Ou=
+tdoors</a></td>
+<td class=3D"nav5" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6ghB=
+0600" title=3D"DIY" style=3D"text-decoration:none; color: #ffffff;">DIY</a>=
+</td>
+<td class=3D"nav6" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6giB=
+2cc6" title=3D"Decor" style=3D"text-decoration:none; color: #ffffff;">Decor=
+</a></td>
+<td class=3D"nav7" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gjB=
+ccfa" title=3D"Kids" style=3D"text-decoration:none; color: #ffffff;">Kids</=
+a></td>
+<td class=3D"nav8" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gkB=
+d433" title=3D"Pets" style=3D"text-decoration:none; color: #ffffff;">Pets</=
+a></td>
+<td class=3D"nav9" align=3D"center" style=3D"padding: 12px 5px; font-family=
+: arial,sans-serif; font-size: 12px; font-weight: bold;"><a href=3D"http://=
+link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6glB=
+cd43" title=3D"Shop by Style" style=3D"text-decoration:none; color: #ffffff=
+;">Shop by Style</a></td>
+<td class=3D"nav10" align=3D"center" style=3D"padding: 12px 5px; font-famil=
+y: arial,sans-serif; font-size: 12px; font-weight: bold; background-color:#=
+A3007C"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027=
+cyw.aw7k/VMJwMkmO-5i4A6gmB7a0a" title=3D"Ideal Home" style=3D"text-decorati=
+on:none; color: #ffffff;">Ideal Home</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100e=3D"padding-top:8px;">
+<tr>
+<td><table class=3D"cellto100pc" align=3D"left" width=3D"415" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"cellto100pc" style=3D"padding-left:8px;"><a href=3D"http://lin=
+k.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gnB657=
+5"><img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStores/la=
+nding_pages/images/deals/flash-sale-89.jpg" alt=3D"Flash Sale. Up To 89f RRP. Limited Time and Stock." title=3D"View Deals" width=3D"415" height=
+=3D"95" border=3D"0" class=3D"emailwrapto100pc-mainbanner"></a></td>
+</tr>
+</table>
+<table class=3D"nomob" align=3D"right" width=3D"202" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0">
+<tr>
+<td style=3D"padding-right:8px;">
+<img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStores/email=
+_images/WorldStores/deals-timer-new.gif" alt=3D"Deals Close In..." width=3D=
+"202" height=3D"95" border=3D"0"/>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td style=3D"padding-top:3px;"><table class=3D"nomob" align=3D"left" width=
+=3D"415" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td style=3D"padding-left:8px;"><a href=3D"http://link.worldstores.co.uk/53=
+8e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6goB451d"><img src=3D"http://=
+images1.worldstores.co.uk/images/sites/WorldStores/email_images/WorldStores=
+/featured-sale-150120DEAL.jpg" alt=3D"The Heritage Collection. Up to 63f RRP." width=3D"417" border=3D"0"/></a></td>
+</tr>
+</table>
+<table class=3D"cellto100pc" align=3D"right" width=3D"202" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"cellto100pc" style=3D"padding-right:8px;">
+<a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k=
+/VMJwMkmO-5i4A6gpB17c8"><img src=3D"http://images1.worldstores.co.uk/images=
+/sites/WorldStores/email_images/WorldStores/top-rated-offer-150120DEAL.jpg"=
+ alt=3D"Top Rated Offer. Torquay Metal Bunk Bed. 63Shop Now." width=3D"202" border=3D"0" class=3D"emailwrapto100pc-mainbanner"=
+/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6gqB0b6a" style=3D"border:0px;"> <img src=3D"h=
+ttp://images1.worldstores.co.uk/images/sites/WorldStores/email_images/World=
+Stores/get-ready-for-summer_200115.jpg" border=3D"0" width=3D"310" alt=3D"G=
+et Ready for Summer. Up to 57y:block;" class=3D"wrapto100pc" /></a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6grB6abb" style=3D"border:0px; "> <img src=3D"=
+http://images1.worldstores.co.uk/images/sites/WorldStores/email_images/Worl=
+dStores/beautiful-touches_200115.jpg" border=3D"0" width=3D"310" alt=3D"Bea=
+utiful Touches. Up to 71ck;" class=3D"wrapto100pc"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6gsB8747" style=3D"border:0px;"> <img src=3D"h=
+ttp://images1.worldstores.co.uk/images/sites/WorldStores/email_images/World=
+Stores/toasty-toppers_200115.jpg" border=3D"0" width=3D"310" alt=3D"Toasty =
+Toppers. Up to 63ass=3D"wrapto100pc" /></a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6gtB0770" style=3D"border:0px; "> <img src=3D"=
+http://images1.worldstores.co.uk/images/sites/WorldStores/email_images/Worl=
+dStores/the-vintage-kitchen_200115.jpg" border=3D"0" width=3D"310" alt=3D"T=
+he Vintage Kitchen. Up to 75:block;" class=3D"wrapto100pc"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6guB5cef" style=3D"border:0px;"> <img src=3D"h=
+ttp://images1.worldstores.co.uk/images/sites/WorldStores/email_images/World=
+Stores/cavendish-upholstery_200115.jpg" border=3D"0" width=3D"310" alt=3D"C=
+avendish Upholstery Made to Order. Up to 69tyle=3D"display:block;" class=3D"wrapto100pc" /></a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td align=3D"center" bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolspl=
+ittiles" style=3D"border-bottom: 2px solid #ffffff; padding-bottom:3px; pad=
+ding-top:5px;"><a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe220=
+0061027cyw.aw7k/VMJwMkmO-5i4A6gvB6469" style=3D"border:0px; "> <img src=3D"=
+http://images1.worldstores.co.uk/images/sites/WorldStores/email_images/Worl=
+dStores/temahome-quality-and-style_200115.jpg" border=3D"0" width=3D"310" a=
+lt=3D"TemaHome Quality and Style. Up to 55yle=3D"display:block;" class=3D"wrapto100pc"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gwB4=
+4ce" style=3D"border:0px;"> <img src=3D"http://images1.worldstores.co.uk/im=
+ages/sites/WorldStores/email_images/WorldStores/double-trouble_200115.jpg" =
+border=3D"0" width=3D"310" alt=3D"Double Trouble. Up to 76=3D"Shop Now" style=3D"display:block;" class=3D"wrapto100pc"/></a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gxB9=
+c2d" style=3D"border:0px; "> <img src=3D"http://images1.worldstores.co.uk/i=
+mages/sites/WorldStores/email_images/WorldStores/statement-dining-table_200=
+115.jpg" border=3D"0" width=3D"310" alt=3D"Statement Dining Table. Up to 85=
+c"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gyB4=
+811" style=3D"border:0px;"> <img src=3D"http://images1.worldstores.co.uk/im=
+ages/sites/WorldStores/email_images/WorldStores/willis-and-gambier_200115.j=
+pg" border=3D"0" width=3D"310" alt=3D"Willis and Gambier Sale. Up to 51f RRP." title=3D"Shop Now" style=3D"display:block;" class=3D"wrapto100pc"/>=
+</a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6gzBc=
+120" style=3D"border:0px;"> <img src=3D"http://images1.worldstores.co.uk/im=
+ages/sites/WorldStores/email_images/WorldStores/jean-patrique_200115.jpg" b=
+order=3D"0" width=3D"310" alt=3D"Jean Patrique Sale. Up to 89tle=3D"Shop Now" style=3D"display:block;" class=3D"wrapto100pc"/></a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g0B6=
+146" style=3D"border:0px;"> <img src=3D"http://images1.worldstores.co.uk/im=
+ages/sites/WorldStores/email_images/WorldStores/glass-gloss-and-chrome_2001=
+15.jpg" border=3D"0" width=3D"310" alt=3D"Glass Gloss and Chrome. Up to 85 off RRP." title=3D"Shop Now" style=3D"display:block;" class=3D"wrapto100pc=
+"/></a></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><a href=3D"http://l=
+ink.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g1B8=
+26b" style=3D"border:0px; "> <img src=3D"http://images1.worldstores.co.uk/i=
+mages/sites/WorldStores/email_images/WorldStores/designer-elements_200115.j=
+pg" border=3D"0" width=3D"310" alt=3D"Designer Elements. Up to 80" title=3D"Shop Now" style=3D"display:block;" class=3D"wrapto100pc"/></a></=
+td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><div style=3D"heigh=
+t:228px;" class=3D"emailheight"> <a href=3D"http://link.worldstores.co.uk/5=
+38e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g2B3540" style=3D"border:0p=
+x;"> <img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStores/=
+email_images/WorldStores/sliding-doors_200115.jpg" border=3D"0" width=3D"31=
+0" alt=3D"Sliding Doors Sale. Up to 54=3D"display:block;" class=3D"wrapto100pc"/></a></div></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:3px;"><div style=3D"heigh=
+t:228px;" class=3D"emailheight"> <a href=3D"http://link.worldstores.co.uk/5=
+38e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g3Bdfc0" style=3D"border:0p=
+x; "> <img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStores=
+/email_images/WorldStores/country-kitchen_200115.jpg" border=3D"0" width=3D=
+"310" alt=3D"Country Kitchen. Up to 56=3D"display:block;" class=3D"wrapto100pc"/></a></div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td align=3D"center"><table class=3D"emailcolsplit" align=3D"center" width=
+=3D"630" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:10px;"><div style=3D"heig=
+ht:228px;" class=3D"emailheight"> <a href=3D"http://link.worldstores.co.uk/=
+538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6goC4f7e" style=3D"border:0=
+px;"> <img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStores=
+/email_images/WorldStores/the-heritage-collection_200115.jpg" border=3D"0" =
+width=3D"310" alt=3D"The Heritage Collection. Up to 63Shop Now" style=3D"display:block;" class=3D"wrapto100pc"/> </a></div></td>
+<td width=3D"5" style=3D"line-height:1px; font-size: 1px; width: 5px; paddi=
+ng-left:5px;" bgcolor=3D"#FFFFFF" class=3D"nomob">&nbsp;</td>
+<td bgcolor=3D"#ffffff" width=3D"310" class=3D"emailcolsplittiles" style=3D=
+"border-bottom: 2px solid #ffffff; padding-bottom:10px;"><div style=3D"heig=
+ht:228px;" class=3D"emailheight"> <a href=3D"http://link.worldstores.co.uk/=
+538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g4Be306" style=3D"border:0=
+px; "> <img src=3D"http://images1.worldstores.co.uk/images/sites/WorldStore=
+s/email_images/WorldStores/memorypedic-sale_200115.jpg" border=3D"0" width=
+=3D"310" alt=3D"MemoryPedic Sale. Up to 64yle=3D"display:block;" class=3D"wrapto100pc"/> </a></div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"nomob" width=3D"100dding=3D"0">
+<tr>
+<tr>
+<td height=3D"15" align=3D"center" bgcolor=3D"#38538A"><a href=3D"http://li=
+nk.worldstores.co.uk/view/538e03eba2de7efe2200061027cyw.aw7k/f96e8306?fblik=
+e_url=3D" target=3D"_blank" title=3D"Share this email on facebook">
+<a href=3D"http://link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k=
+/VMIV8cPoPwHuucR6Ab1b9"><img src=3D"http://images1.worldstores.co.uk/images=
+/sites/WorldStores/email_images/WorldStores/share-on-facebook-button.jpg" a=
+lt=3D"Share this email on facebook" width=3D"450" height=3D"35" border=3D"0=
+" /></a>
+</td>
+</tr>
+</table>
+<!--
+<table width=3D"100<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+--><!--<![endif]-->
+<!-- ADD TO ADDRESS BOOK --><!-- WHY SHOP BLOCKS 1 & 2 --><!-- WHY SHOP BLO=
+CKS 3 & 4 --><!-- VIDEO & TOP OFFERS--><!-- CONTACT, ABOUT US, RETURNS --> =
+=20
+<table width=3D"100<tr>
+<td class=3D"textnomob" align=3D"center" valign=3D"middle" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; font-size:12px; color:#333; padding:10px=
+ 0px 15px 0px; font-weight:bold"><img src=3D"http://images1.worldstores.co.=
+uk/images/sites/WorldStores/email_images/Welcome/small-logo-welcome.jpg" wi=
+dth=3D"230" height=3D"58" alt=3D"WorldStores" border=3D"0" align=3D"top"/> =
+<br />
+<br />
+<a class=3D"footer-button" href=3D"http://link.worldstores.co.uk/538e03eba2=
+de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g5B7cfa" title=3D"Contact Us" style=
+=3D"text-decoration:none; color:#333333">Contact Us</a> &nbsp;&nbsp;|&nbsp;=
+&nbsp; <a class=3D"footer-button" href=3D"http://link.worldstores.co.uk/538=
+e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g6B5613" title=3D"About Us" s=
+tyle=3D"text-decoration:none;  color:#333333">About Us</a> &nbsp;&nbsp;|&nb=
+sp;&nbsp; <a class=3D"footer-button" href=3D"http://link.worldstores.co.uk/=
+538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g7Be1b4" title=3D"Returns =
+Information" style=3D"text-decoration:none; color:#333333" >Returns Informa=
+tion</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a class=3D"footer-button" href=3D"http:=
+//link.worldstores.co.uk/538e03eba2de7efe2200061027cyw.aw7k/VMJwMkmO-5i4A6g=
+8B3096" title=3D"Terms &amp; Conditions" style=3D"text-decoration:none; col=
+or:#333333">Terms &amp; Conditions</a></td>
+</tr>
+</table>
+<!-- TERMS & CONDITIONS -->=20
+<table width=3D"100<tr>
+<td align=3D"center" bgcolor=3D"#FFFFFF" colspan=3D"2" height=3D"30" style=
+=3D"padding-bottom:8px;"><font color=3D"#333333" style=3D"font-size:14px;" =
+face=3D"Arial"> Copyright WorldStores Ltd. &copy; 2015 All Rights Reserved<=
+/font></td>
+</tr>
+</table>
+<table width=3D"100<tr>
+<td class=3D"bottomtext" align=3D"center" bgcolor=3D"#FFFFFF" style=3D"bord=
+er-bottom:#D6D6D6 1px solid; border-top:#D6D6D6 1px solid; padding:10px 10p=
+x 15px 10px; font-family:Arial, Helvetica, sans-serif; font-size:12px; colo=
+r:#575757">WorldStores want to ensure you&rsquo;re the first to receive new=
+s about exclusive customer offers. If you no longer wish to receive these m=
+essages, you can simply
+<div style=3D"height:8px;"></div>
+<a class=3D"bottom-text-button" href=3D"http://link.worldstores.co.uk/oc/53=
+8e03eba2de7efe2200061027cyw.aw7k/3901d6c8" style=3D"text-decoration:none; c=
+olor:#AC1A57"><b>Unsubscribe</b></a>
+<span class=3D"textnomob"> &nbsp;&nbsp;|&nbsp;&nbsp;</span>
+<a class=3D"bottom-text-button" href=3D"http://link.worldstores.co.uk/538e0=
+3eba2de7efe2200061027cyw.aw7k/U05rNcPo44t-AyEbBda5e" style=3D"text-decorati=
+on:none; color:#AC1A57"><b> View our privacy policy.</b></a></font></td>
+</tr>
+</table>
+</table>
+</td>
+</tr>
+<tr></tr>
+</table>
+</body>
+</html>
+
+------=_Part_40341585_1898852755.1422176608158--
+

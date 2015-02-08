@@ -1,0 +1,96 @@
+From @..  Sun Jan  4 21:42:09 2015
+Return-Path: <@..>
+X-Original-To: cyglj@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 328FDD6; Sun,  4 Jan 2015 21:42:09 +0000 (UTC)
+Received: from mail-s67.mailgun.info (mail-s67.mailgun.info [184.173.153.195])
+    by .. with SMTP id r94fsrvm4hg9axiyizgbe85ty6;
+    for cyglj@fs.net;
+    Sun, 04 Jan 2015 21:42:09 +0000 (UTC)
+    (envelope-from bounce+8456b4.819-cyglj=fs.net@muckrack.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=184.173.153.195;
+    envelope-from=<bounce+8456b4.819-cyglj=fs.net@muckrack.com>;
+    helo=mail-s67.mailgun.info; mechanism=include:mailgun.org
+    (include:spf1.mailgun.org (ip4:184.173.153.0/24 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=184.173.153.195; client-port=50670;
+    syn-fingerprint=14600:55:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 65.114.55.137 67.14.14.134 129.250.8.193
+    129.250.5.188 204.2.241.42 173.192.18.152 173.192.18.197 208.43.118.161;
+    network-path-time=1420407729
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=muckrack.com; q=dns/txt; s=mx;
+ t=1420407713; h=Content-Transfer-Encoding: Sender: Date: Message-Id:
+ Reply-To: To: From: Subject: Content-Type: Mime-Version;
+ bh=ldj7q6aT1+7xqlUzE4ttu+G6WjWqZtstT0uknkWzoZ4=; b=C1xgtN5f2lB/uxAceweJoS5+2lwt6axa/lnZ9ERQozKHeZ1eIohcg5hGNO8zH0leYg67cejW
+ nh4rIOUdADYih5MbfRSOb8oJ8XJJ06vMlRGpdFWJ0iELRGgza94RoQQy4HIfuXxClt1TIuBO
+ CEJtEr69fSqA6ypMNdIU3scn8Wk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=muckrack.com; s=mx; q=dns;
+ h=Mime-Version: Content-Type: Subject: From: To: Reply-To: Message-Id:
+ Date: Sender: Content-Transfer-Encoding;
+ b=qesnaqp8ElB87WBSa+eLxjZ0Kkpozg2HF2Cwu4T7COwW4RKEPzjAVkIfGPlc7A9xVAyoVl
+ q8st/Gp5mBOBGx+UP7fTBkJX4Gk7oK2SryBM59DuP9AKbu09AePGTeTacAvcFdFicIHCLa4K
+ hkin6FbCawh2YQA3Fc5k/+IlKGKPE=
+Received: by luna.mailgun.net with HTTP; Sun, 04 Jan 2015 21:41:49 +0000
+Mime-Version: 1.0
+Content-Type: text/html; charset="ascii"
+Subject: =?utf-8?b?UmU6ICAg5aaC5L2V6K6p6KGM5pS/6YOo5bel5L2c5Ye65b2pICBy?=
+ =?utf-8?q?ag?=
+From: Markham Nolan <@..>
+To: @..
+X-Mailgun-Tag: autoreply
+Reply-To: @..
+Message-Id: <20150104214149.72563.38397@muckrack.com>
+X-Mailgun-Sid: WyIwOTIyYiIsICJjeWdsakBmcy5uZXQiLCAiODE5Il0=
+Date: Sun, 04 Jan 2015 21:41:53 +0000
+Sender: @..
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+        <div id="content" style="padding:0px; color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif">
+            
+<div style="color:#333333; padding-top:20px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-top:1px solid #d9d9d9">
+    <div id="message-body" style="color:#333333; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif">
+        
+
+            
+
+            <p style="color:#333333; font-size:14px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; margin-top:0">
+            Thanks for contacting me. I'm using Muck Rack to expedite my incoming pitches.
+            </p>
+
+            <p style="color:#333333; font-size:14px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; margin-top:0">
+            Please click this link to complete your pitch (otherwise I won't see it):
+            <br><a href="http://email.muckrack.com/c/ZD04MTkmaT0yMDE1MDEwNDIxNDE0OS43MjU2My4zODM5NyU0MG11Y2tyYWNrLmNvbSZoPWQ0ZWZiM2FiYWExYzhjYmMxZGI4MTFkMTVlMDNiYzIyJmw9aHR0cCUzQSUyRiUyRm11Y2tyYWNrLmNvbSUyRm1hcmtoYW1ub2xhbiUyRnBpdGNoJnI9Y3lnbGolNDBmcy5uZXQmdD1hdXRvcmVwbHk" style="{color:#1893bf; text-decoration:underline} :hover{text-decoration:underline}">http://muckrack.com/markhamnolan/pitch</a>
+            </p>
+
+            <p style="color:#333333; font-size:14px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; margin-top:0">
+            Best, <br>
+            Markham Nolan
+            </p>
+
+        
+    </div>
+</div>
+
+
+            <div id="footer" style="color:#333333; padding-top:20px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-top:1px solid #d9d9d9">
+                <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<td style="font-size:13px; vertical-align:middle; color:#989694; min-height:30px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:30px" valign="middle" width="40">
+                                <img alt="Muck Rack" src="http://muckrack.com/static/images/favicon.png" height="32" width="32" style="display:block">
+</td>
+                            <td style="color:#989694; font-size:13px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; vertical-align:middle" valign="middle">
+                                This message was sent to you by <a href="http://email.muckrack.com/c/ZD04MTkmaT0yMDE1MDEwNDIxNDE0OS43MjU2My4zODM5NyU0MG11Y2tyYWNrLmNvbSZoPTAyNGU3YTdhYTNhMDlhZGNiNzc3MzI4M2ZjZDY1YjBmJmw9aHR0cCUzQSUyRiUyRm11Y2tyYWNrLmNvbSZyPWN5Z2xqJTQwZnMubmV0JnQ9YXV0b3JlcGx5" style="color:#989694; font-weight:bold; text-decoration:underline">Muck Rack</a> 560 Broadway Suite 201, New York, NY 10012<br><a href="mailto:hello@muckrack.com" style="color:#989694; font-weight:bold; text-decoration:underline">hello@muckrack.com</a> - (212) 500-1883 - (855) MUCK-RACK
+                            </td>
+                        </tr></tbody></table>
+</div>
+        </div>
+    <img width="1px" height="1px" alt="" src="http://email.muckrack.com/o/ZD04MTkmaT0yMDE1MDEwNDIxNDE0OS43MjU2My4zODM5NyU0MG11Y2tyYWNrLmNvbSZoPTgyOWM0YmE0NWUyMGQzM2Y0MTYwNGIwMzdlMDlmN2VmJnI9Y3lnbGolNDBmcy5uZXQmdD1hdXRvcmVwbHk"></body>
+</html>
+

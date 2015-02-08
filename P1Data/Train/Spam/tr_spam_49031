@@ -1,0 +1,90 @@
+From @..  Sun Jan  4 14:44:46 2015
+Return-Path: <@..>
+X-Original-To: tpzao@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id A661DDE; Sun,  4 Jan 2015 14:44:46 +0000 (UTC)
+Received: from ms.drawlin.com.tw (ms.drawlin.com.tw [60.249.92.59])
+    by .. with SMTP id p67kffe4dyiiav3rgsrm3xm3wa;
+    for tpzao@fs.net;
+    Sun, 04 Jan 2015 14:44:46 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=60.249.92.59; envelope-from=<>; helo=ms.drawlin.com.tw
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=60.249.92.59; client-port=43100;
+    syn-fingerprint=5840:49:1:44:M1380; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.168
+    64.57.20.222 198.32.176.195 211.72.108.22 220.128.12.2 220.128.6.201
+    220.128.19.193 220.128.18.189 168.95.209.173; network-path-time=1420382686
+Received: by ms.drawlin.com.tw (Postfix)
+	id B96C312C4570; Sun,  4 Jan 2015 22:44:42 +0800 (CST)
+Date: Sun,  4 Jan 2015 22:44:42 +0800 (CST)
+From: @.. (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: @..
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="B539D12C455D.1420382682/ms.drawlin.com.tw"
+Message-Id: <20150104144442.B96C312C4570@ms.drawlin.com.tw>
+
+This is a MIME-encapsulated message.
+
+--B539D12C455D.1420382682/ms.drawlin.com.tw
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ms.drawlin.com.tw.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<hr@drawlin.com.tw>: unknown user: "hr"
+
+--B539D12C455D.1420382682/ms.drawlin.com.tw
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ms.drawlin.com.tw
+X-Postfix-Queue-ID: B539D12C455D
+X-Postfix-Sender: rfc822; tpzao@fs.net
+Arrival-Date: Sun,  4 Jan 2015 22:44:42 +0800 (CST)
+
+Final-Recipient: rfc822; hr@drawlin.com.tw
+Original-Recipient: rfc822;hr@drawlin.com.tw
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "hr"
+
+--B539D12C455D.1420382682/ms.drawlin.com.tw
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by ms.drawlin.com.tw (Postfix) with SMTP id B539D12C455D
+	for <hr@drawlin.com.tw>; Sun,  4 Jan 2015 22:44:42 +0800 (CST)
+Received: from fs.net (unknown [49.70.236.81])
+	by ms.drawlin.com.tw (Postfix) with SMTP id CF49C12C421C
+	for <hr@drawlin.com.tw>; Sun,  4 Jan 2015 22:44:35 +0800 (CST)
+Message-ID: <20150104224437505714@fs.net>
+From: =?utf-8?B?5Luk54uQ5b2k5Yid?= <tpzao@fs.net>
+To: <hr@drawlin.com.tw>
+Subject: =?utf-8?B?5Z+55YW76aKE5rWL44CB5YiG5p6Q5Yqz5Yqo55So5bel5rOV5b6L6aOO6Zmp55qE5oCd57u0ICA=?=
+	=?utf-8?B?5Luk54uQ5b2k5Yid?=
+Date: Sun, 4 Jan 2015 22:44:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_025C_019B81FB.13DAE120"
+X-Priority: 1
+X-mailer: Aibe 3
+
+--B539D12C455D.1420382682/ms.drawlin.com.tw--
+

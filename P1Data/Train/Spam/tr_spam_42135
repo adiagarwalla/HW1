@@ -1,0 +1,195 @@
+From @..  Wed Jan 21 19:37:07 2015
+Return-Path: <@..>
+X-Original-To: kidthree@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 532C2DE; Wed, 21 Jan 2015 19:37:07 +0000 (UTC)
+Received: from so254-62.mailgun.net (so254-62.mailgun.net [198.61.254.62])
+    by .. with SMTP id s9hmadby7fgq7a5xnr624e39js;
+    for kidthree@fs.net;
+    Wed, 21 Jan 2015 19:37:07 +0000 (UTC)
+    (envelope-from bounce+f6e88c.ade52b-kidthree=fs.net@genuine-savings.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=198.61.254.62;
+    envelope-from=<bounce+f6e88c.ade52b-kidthree=fs.net@genuine-savings.com>;
+    helo=so254-62.mailgun.net; mechanism=include:mailgun.org
+    (include:spf2.mailgun.org (ip4:198.61.254.0/23 -> pass) -> pass)
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=198.61.254.62; client-port=59755;
+    syn-fingerprint=14600:53:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.36
+    198.71.45.193 0.0.0.0 173.203.0.131 50.56.6.131 162.209.19.165;
+    network-path-time=1421869027
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=genuine-savings.com;
+ q=dns/txt; s=pic; t=1421869011; h=Sender: Content-Type: Mime-Version:
+ Subject: Message-Id: To: From: Date;
+ bh=4r4wTCQBGQtLKxjCV5xXq6qil2v4BrTco4/KI5pZvMg=; b=iBlCfS40vHXC/V+JF48YQM62yjIh2+y6hw8u2eSByZMmKWwXARVJ/MD4Wh9YKvTbPbEmxyQA
+ OC6Rr500JFvs7EilU4d0SDbBEZSlKOuxnCjCSQr7DSV+L5R8Cw2X8up9HqAdXbtR5um1RkAB
+ fi8dsQXKpi2hCQ6vZvgap71tG64=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=genuine-savings.com; s=pic;
+ q=dns; h=Date: From: To: Message-Id: Subject: Mime-Version:
+ Content-Type: Sender;
+ b=MiBnI0KrDzBgVI92ZsmW44doDsy40NjIPioxqB98DfeFZuPsM/xQzaN5o0kDSbuWI5qU/T
+ wnXtCKL6khe6Kdwi4g3krAumplTkMq6rBGQG3szWUQPE8rMTrXdTyhQDUW7duGy+zt3Gy1jr
+ pGmkQ0gtfa0sma7MNsRioJaYLkZLY=
+Received: from mail.genuine-savings.com (genuine-savings.com [78.47.172.44])
+ by mxa.mailgun.org with ESMTP id 54bff396.6af1c70-in7; Wed, 21 Jan 2015
+ 18:44:38 -0000 (UTC)
+Received: from mail.genuine-savings.com (localhost [127.0.0.1])	by
+ mail.genuine-savings.com (Postfix) with ESMTP id C05711E6D82	for
+ <kidthree@fs.net>; Wed, 21 Jan 2015 20:44:36 +0200 (EET)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=genuine-savings.com;	s=dkim;
+ t=1421865876;	bh=4r4wTCQBGQtLKxjCV5xXq6qil2v4BrTco4/KI5pZvMg=;	h=Date:From:To:Subject:From;	b=a90+/HI0ULueES6eTLjomxMGjHAC7zfq7BNyE99Fg3fasZs1rLMTWbgFq6WaPwURD	
+ GU8ac9QD1fg1w6mu2pqcPPw1f790DnJ1UgK3gh9ghLuQy1KM1ESfNwjjQLSm3BY4Eh	
+ DdJUe/v9FWsCCog37o2iUfSThIkRzs+ZV/JyZdKY=
+Date: Wed, 21 Jan 2015 20:44:36 +0200 (EET)
+From: Eye Care <@..>
+To: "kidthree@fs.net" <@..>
+Message-Id: <1238708480.2245442.1421865876786.JavaMail.root@mail.genuine-savings.com>
+Subject: Don't Let Bad Vision Hinder Your Lifestyle
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2245440_926984534.1421865876784"
+X-Mailgun-Sid: WyJhMjg3NyIsICJraWR0aHJlZUBmcy5uZXQiLCAiYWRlNTJiIl0=
+Sender: @..
+
+------=_Part_2245440_926984534.1421865876784
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2245441_1982687600.1421865876784"
+
+------=_Part_2245441_1982687600.1421865876784
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+
+This message contains useful information. If your e-mail provider blocks th=
+e images, please enable them for a complete preview. Find affordable laser =
+eye treatment clinics - Click Here ? FROM JUST ?18 PER MONTH ? ? 1. Complet=
+e our ? ? short form 2. We match you with ? ? suitable clinics 3. They will=
+ get in ? ? touch with you ? Clinic Compare has the UK's leading specialist=
+ laser eye clinics waiting to provide you with the most competitive quotes =
+to transform your life. Compare prices now in order to book a free consulta=
+tion with an expert who can guide you through the best laser eye treatments=
+. Give yourself the gift of sight this New Year 2015! ? ? CLINIC COMPARE 20=
+14 | ALL Rights Reserved We hope you enjoyed receiving this email. Should y=
+ou no longer wish to receive emails from this company, visit this link to u=
+nsubscribe. The advertiser does not manage your subscription. If you prefer=
+ not to receive further communication, here is the way to stop receiving em=
+ails. P.O. Box 13629, 10310 Athens - Greece
+------=_Part_2245441_1982687600.1421865876784
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+
+<p style="font-weight:bold; font-family:Arial;" align="center">
+This message contains useful information. If your e-mail provider blocks the images, <br> please enable them for a complete preview.
+</p>  
+
+<div align="center">
+<table align="center" width="100<tr>
+<td>
+<table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto">
+<tr>
+<td  align="center" style="font-family: Arial, sans-serif; font-weight: normal; font-style: normal; color: #555555; text-align: center; font-size: 10px; line-height: 13px; background-color: rgb(217, 218, 213);" width="600" height="19">
+Find affordable laser eye treatment clinics - <a href="http://genuine-savings.com/?a=488&c=12512&s1=436052&s2=O000018825751_1977&s3=1501212044&S4=219434" target="_blank">Click Here</a></td>
+</tr>
+<tr>
+<td align="center" valign="top" style="background-color: #C4C5C0;" width="600" height="469">
+<a href="http://genuine-savings.com/?a=488&c=12512&s1=436052&s2=O000018825751_1977&s3=1501212044&S4=219434" target="_blank" title="Get rid of those horrible glasses - it's time for Laser Eye Surgery">
+<img style="display: block;margin:0px; padding:0px;" alt="Get rid of those horrible glasses - it's time for Laser Eye Surgery" src="http://genuine-savings.com/z002259_096353_003" width="600" height="469" border="0" />
+</a></td>
+</tr>
+<tr>
+<td style="background-color: #00A4B0; font-size: 1px; line-height: 1px;" width="600" height="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="font-family: Arial, sans-serif; font-weight: bold; font-style: normal; font-size: 36px; line-height: 41px; color: rgb(255, 255, 255); text-align: center; background-color: #49A0CD;" width="600" height="73">
+FROM JUST <font style="color:#d54e26;font-size: 50px; line-height: 50px;">&pound;18</font> PER MONTH</td>
+</tr>
+<tr>
+<td align="center" width="600" height="243">
+<table align="center" width="600" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+<tr>
+<td align="center" style="background-color: #49A0CD; font-size: 1px; line-height: 1px;" width="13" height="243">&nbsp;</td>
+<td align="center" valign="top" style="background-color: #49A0CD;" width="73" height="243">
+<a href="http://genuine-savings.com/?a=488&c=12512&s1=436052&s2=O000018825751_1977&s3=1501212044&S4=219434" target="_blank" title="|">
+<img style="display: block;margin:0px; padding:0px;" alt="|" src="http://genuine-savings.com/z002259_096353_002" width="73" height="243" border="0" /></a></td>
+<td style="background-color: #49A0CD; font-size: 1px; line-height: 1px;" width="8" height="243">&nbsp;</td>
+<td align="center" width="173" height="243">
+<table align="center" width="173" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+<tr>
+<td align="left" style="font-family: Arial, sans-serif; font-style: normal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; line-height: 21px; background-color: #49A0CD;" width="173" height="77">
+1. Complete our
+<br>
+&nbsp; &nbsp; short form </td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, sans-serif; font-style: normal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; line-height: 21px; background-color: #49A0CD;" width="173" height="82">
+2. We match you with
+<br>
+&nbsp; &nbsp; suitable clinics</td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, sans-serif; font-style: normal; text-align: left; color: #FFFFFF; font-weight: bold; font-size: 16px; line-height: 21px; background-color: #49A0CD;" width="173" height="84">
+3. They will get in
+<br>
+&nbsp; &nbsp; touch with you</td>
+</tr>
+</table></td>
+<td align="center" style="background-color: #49A0CD; font-size: 1px; line-height: 1px;" width="34" height="243">&nbsp;</td>
+<td align="center" width="288" height="243">
+<table align="center" width="288" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF">
+<tr>
+<td align="left" style="font-weight: normal; font-style: normal; text-align: left; color: rgb(220, 255, 255); font-family: Tahoma, Geneva, sans-serif; font-size: 14px; line-height: 17px; background-color: rgb(73, 160, 205);" width="288" height="163">
+Clinic Compare has the UK's leading specialist laser eye clinics waiting to provide you with the most competitive quotes to transform your life.
+ Compare prices now in order to book a free consultation with an expert who can guide you through the best laser eye treatments. Give yourself the gift of sight this New Year 2015!</td>
+</tr>
+<tr>
+<td align="center" valign="top" style="background-color: #49A0CD;" width="288" height="80">
+<a href="http://genuine-savings.com/?a=488&c=12512&s1=436052&s2=O000018825751_1977&s3=1501212044&S4=219434" target="_blank" title="Find clinics in your area">
+<img style="display: block;margin:0px; padding:0px;" alt="Find clinics in your area" src="http://genuine-savings.com/z002259_096353_001" width="288" height="80" border="0" /></a></td>
+</tr>
+</table></td>
+<td align="center" style="background-color: #49A0CD; font-size: 1px; line-height: 1px;" width="11" height="243">&nbsp;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td align="center" style="background-color: #00A4B0; font-size: 1px; line-height: 1px;" width="600" height="8">&nbsp;</td>
+</tr>
+<tr>
+<td align="center"  style="font-weight: normal; font-style: normal; color: rgb(83, 93, 95); text-align: center; font-size: 14px; line-height: 17px; font-family: Tahoma, Geneva, sans-serif; background-color: rgb(225, 240, 245);" width="600" height="36">
+CLINIC COMPARE 2014 | ALL Rights Reserved </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="font-family: arial, 'trebuchet ms', Helvetica, sans-serif; font-size: 10px; color: #333333; text-align: center;">
+We hope you enjoyed receiving this email. Should you no longer wish to receive emails from this company, 
+<a href="http://genuine-savings.com/unsub?s1=436052&newunsub=1" target="_blank">visit this link</a><br> to unsubscribe.<br>
+</div>
+
+<br/>
+<center>
+<font size="2" face="Arial">
+The advertiser does not manage your subscription. If you prefer not to receive further communication,<br>
+<a href="http://genuine-savings.com/unsub?s1=436052&newunsub=1"  target="_blank">here is the way</a> to stop receiving emails. P.O. Box 13629, 10310 Athens - Greece<br>
+</font>
+<img src="http://genuine-savings.com/adv" border="0" alt="" style="max-width:100</center>
+
+<div style="color:white; background-color:white; font-size:8px;">
+
+</div>
+
+<img alt="" src="http://genuine-savings.com/record.php?s1=436052&s2=O000018825751_1977&s3=1501212044&S4=219434" width="1" height="1" border="0" />
+
+</body>
+</html>
+------=_Part_2245441_1982687600.1421865876784--
+
+------=_Part_2245440_926984534.1421865876784--
+

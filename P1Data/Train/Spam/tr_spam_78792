@@ -1,0 +1,47 @@
+From @..  Sun Jan 25 16:40:17 2015
+Return-Path: <@..>
+X-Original-To: poopfscr@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6E7DBDE; Sun, 25 Jan 2015 16:40:17 +0000 (UTC)
+Received: from challenge.lmssql.com (challenge.lmssql.com [107.179.95.106])
+    by .. with SMTP id gmwwmvyraxmvnt2if2c9xfq6ri;
+    for poopfscr@fs.net;
+    Sun, 25 Jan 2015 16:40:17 +0000 (UTC)
+    (envelope-from esurface-poopfscr=fs.net@lmssql.com)
+Received-SPF: None; receiver=..;
+    client-ip=107.179.95.106;
+    envelope-from=<esurface-poopfscr=fs.net@lmssql.com>;
+    helo=challenge.lmssql.com
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=107.179.95.106; client-port=39790;
+    syn-fingerprint=64800:50:1:60:M1380,S,T,N,W11; network-hops=16;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 129.250.8.193 129.250.2.180 0.0.0.0 129.250.2.58 129.250.7.69
+    129.250.5.2 129.250.200.138 192.184.11.179 0.0.0.0 104.148.23.95
+    107.179.95.106; network-path-time=1422204017
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=lmssql.com;
+ h=MIME-Version:Content-Type:Date:Message-Id:Subject:From:To; i=esurface@lmssql.com;
+ bh=G/aiO2Q4Gmv72gBArmjlDDtY5d8=;
+ b=l94aq0Tpk7yv52Qy+JLdHKhRPmjS3bq3kc7ygx9TA9bWaCfiTkDGEKaAtlef9SkI78c6Tb/c6bVn
+   cSyOI7S0g9v1CDLqknKJ0Q+YC+DfGqcNU6rrqnn0lmOAawVNZt6qYtladljzrFvGUfB8NUWoobet
+   OYzkMpw6V5AQwAwPvnM=
+Received: by challenge.lmssql.com id hoke400001g6 for <poopfscr@fs.net>; Sun, 25 Jan 2015 11:37:11 -0500 (envelope-from <esurface-poopfscr=fs.net@lmssql.com>)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="56dd56938e9758e16eb374cb9a1061"
+Date: Sun, 25 Jan 2015 11:37:11 -0500
+Message-Id: <7klWtFEhAR4mBM33ngClPUJydGstRs@lmssql.com>
+Subject: =?UTF-8?B?cG9vcGZzY3IgUHJvdGVjdCBhbmQgQmVhdXRpZnkgWW91ciBHYXJhZ2UgRmxvb3Iu?=
+From: eSurface Protector <@..>
+To: @..
+
+--56dd56938e9758e16eb374cb9a1061
+Content-Type: text/plain;
+
+            eSurface Protector is a do it yourself floor coating industrial grade product. Seal and protect concrete, metal, and wood surfaces. 20
+--56dd56938e9758e16eb374cb9a1061
+Content-Type: text/html;
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <title></title> <style type="text/css"> <!-- .rr { font-size: 16px; } .dd { font-size: 16px; } .d { font-size: 16px; } .ss { font-size: 16px; } .ss font b { font-size: 16px; } .gg { font-family: Arial, Helvetica, sans-serif; } .gg { font-size: 12px; } .gg .gg { font-size: 11px; } --> </style> </head> <body> <table width="510" border="0" align="center" cellpadding="0" cellspacing="0"> <tr> <td align="center"><p class="gg"><span class="gg">eSurface Protector is a do it yourself floor coating industrial grade product. Seal and protect concrete, metal, and wood surfaces. 20
+--56dd56938e9758e16eb374cb9a1061--
+

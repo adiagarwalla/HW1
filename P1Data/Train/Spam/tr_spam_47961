@@ -1,0 +1,375 @@
+From @..  Sun Jan 25 15:20:20 2015
+Return-Path: <@..>
+X-Original-To: henry.hemraj@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 958B8DE; Sun, 25 Jan 2015 15:20:20 +0000 (UTC)
+Received: from mta77.air76mail.com (mta46.air76mail.com [92.222.146.142])
+    by .. with SMTP id 3bi76yfs9fgkrd62dherf69fwi;
+    for henry.hemraj@fs.net;
+    Sun, 25 Jan 2015 15:20:20 +0000 (UTC)
+    (envelope-from b1@air76mail.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=92.222.146.142; envelope-from=<b1@air76mail.com>;
+    helo=mta77.air76mail.com; mechanism=all
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=92.222.146.142; client-port=53842;
+    syn-fingerprint=14600:51:1:60:M1380,S,T,N,W7; network-hops=15;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 65.114.55.137
+    67.14.14.134 63.146.26.214 195.22.199.101 195.22.199.67 178.32.135.208
+    198.27.73.199 0.0.0.0 37.187.36.211 37.187.231.86 5.196.79.54
+    92.222.146.142; network-path-time=1422199220
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=server.air76mail.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=suzanne.taylor@server.air76mail.com;
+ bh=BVbY31H0b6TmizOgNwM56r63wFo=;
+ b=ltF/bukanShyCPz4XSxlvZlvj5rnwbwoZYOJ/kSr+DVugPbzj7xZneUYpW3KGHjRuhsXj/QzCKlc
+   qS4tb5HtVHtUJn9V2p4NiQXXepg9EHf7EGYEHtWR+aOPu8VZOMxQBNm3xGDoXCyX31YqlgMkanqZ
+   sbmMkRdkKbhrbpzsuDecfeDWVx6ZxT2np4Hl8C3/VRV5coW6o/jiK2lEpVbfmozwWVoL64FkZa0B
+   Isfhw8Gra7oZTUZkP5KY67IXtrQPxN2TR/gbCTdRKFldy3CT76GncR3EKmin2TpqpcC08tDe3Mzs
+   mUDahtz3Wm4NGoNmuNM15hS2iUhwwGsDP0uA0g==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=server.air76mail.com;
+ b=G1ygostqtZ7ee6hyEeN3cmtf8nvzm70C5KvYIMR7TaXBxURuqfmp0oMDvf8AANw30gBGkol2wXr9
+   FdLWgOW7nF5QVzF8dWhWTaFYCcC5oj6w7fKJwoocOD8tzxlcb2aGog0T3Fk9SashPdgnFs5v8Eur
+   w2yEf14zl/TjibQurLBVhIpn3i82AdaZfoc1jEo4Cv5DA5PIDknQCB8FEwxb9k0VGlK/PDK82rx0
+   D1OdS4famYVUKCXfe6wHcc+gvoyhdykn2bkWfjoa+vS7ea7b4JYQlGKnXp4Su2hAlbKtTyNerTER
+   woM+loYuoCqhklIG2Anq/e1BximeZy0XD+gxiQ==;
+To: @..
+Subject: FAO: Mr Henry Hemraj
+Message-ID: <d4407326b88f4f77e8db754203fba3fb@air76mail.com>
+Date: Sun, 25 Jan 2015 14:51:17 +0000
+From: "Suzanne Taylor" <@..>
+Reply-To: @..
+MIME-Version: 1.0
+X-Mailer-LID: 17,14,5
+List-Unsubscribe: <http://air76mail.com/inter/unsubscribe.php?M=146818&C=d442661236778e0152b863f737012a65&L=5&N=59>
+X-Mailer-RecptId: 146818
+X-Mailer-SID: 59
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Business 2</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #296695;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+ .border {
+	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #c7e1f5;
+	border-right-color: #c7e1f5;
+	border-bottom-color: #c7e1f5;
+	border-left-color: #c7e1f5;
+}
+body,td,th {
+	font-family: Impact;
+	color: #1586AE;
+	font-size: 22px;
+}
+h1 {
+	font-size: 24px;
+	color: #296695;
+}
+ .border table tr td table tr td div table tr td {
+	font-family: Impact;
+}
+-->
+</style></head>
+
+<body text="#6ACDEA">
+<img src="http://ads.perfectaudience.com/seg?add=1949260&amp;t=2" width="1"
+height="1" border="0" />
+<table border="0" align="center" cellpadding="0" cellspacing="0"
+style="width: 600px;">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td valign="top" bgcolor="#FFFFFF" class="border">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td width="66<div align="left">
+<table border="0" style="width: 336px;">
+<tbody>
+<tr>
+<td height="45"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"><img
+src="http://www.linkedinmedia.co.uk/mail-images/logo.gif" alt="v"
+width="254" height="53" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+<td width="34<table border="0" cellspacing="0" cellpadding="0" style="width: 172px;">
+<tbody>
+<tr>
+<td width="158" align="right" style="font-family: Arial, Helvetica,
+sans-serif; font-size: 12px; color: #0000; text-transform: uppercase;
+padding-right: 8px;"><strong>Join us:</strong></td>
+<td width="24" style="padding-right: 4px;"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=6&F=H"
+target="_blank"><img
+src="http://www.linkedinmedia.co.uk/mail-images/facebook.gif" width="24"
+height="24" border="0" /></a></td>
+<td width="24" style="padding-right: 4px;"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=7&F=H"
+target="_blank"><img
+src="http://www.linkedinmedia.co.uk/mail-images/twitter.gif" width="24"
+height="24" border="0" /></a></td>
+<td width="24" align="right" style="padding-right: 4px;"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=2&F=H"
+target="_blank"><img
+src="http://www.linkedinmedia.co.uk/mail-images/youtube.gif" width="24"
+height="24" border="0" /></a></td>
+<td width="24" align="right" style="padding-right: 4px;"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=1&F=H"
+target="_blank"><img
+src="http://www.linkedinmedia.co.uk/mail-images/google.gif" width="24"
+height="24" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"><img
+src="http://www.linkedinmedia.co.uk/mail-images/bannner.jpg" width="580"
+height="336" border="0" /></a></td>
+</tr>
+<tr>
+<td style="padding: 12px 12px 10px 12px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td valign="top" style="padding-right: 10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td style="padding-bottom: 10px; font-family: Arial, Helvetica, sans-serif;
+font-size: 18px; color: #cf381d;"><b>Why Video?</b><font
+color="#548118">&nbsp;</font></td>
+</tr>
+<tr>
+<td valign="top" style="padding-bottom: 10px; font-family: Arial,
+Helvetica, sans-serif; font-size: 14px; color: #444444;">
+<p>&bull; An engaging, professionally produced video increases the average
+time a viewer spends on any website by <b>400<p>&bull; A video presentation assists in getting onto Google's all
+important first page</p>
+<p>&bull; By 2016 it is estimated that <b>90<br /> &nbsp; video driven</p>
+<center>
+<p>To quote Dr. James McQuivey of Forrester, the prestigious Research and
+Business Strategists&hellip;<br /> <strong><em>"A minute of video is worth
+1.8 million words"</em></strong></p>
+</center>
+<p>If you're thinking about adding videos to your <b>social media marketing
+plans</b>, you're already on the right track.</p>
+<p><strong>Linked In Media's</strong> specialised production team have
+worked to the highest levels in the industry, and with a wealth of cutting
+edge facilities, our tailored packages ensure clients hit their marketing
+objectives without losing sight of budgetary constraints.</p>
+<p><strong>Linked In Media's</strong> services cover the entire process of
+online marketing, ensuring that a Client's particular needle isn't lost in
+the vast digital haystack of the internet. The high-end, phenomenal results
+we can produce make it possible for your Business to stand shoulder to
+shoulder with anyone in the Corporate world.</p>
+<p><a href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"
+style="color: #296695;">Read More &gt;&gt;&gt;</a></p>
+</td>
+</tr>
+<tr>
+<td height="1" valign="top" bgcolor="#CCCCCC" style="padding: 0px;
+font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:
+#444444;"><img src="http://www.linkedinmedia.co.uk/mail-images/blank.gif"
+width="1" height="1" /></td>
+</tr>
+<tr>
+<td valign="top" style="padding-top: 10px; padding-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:
+#444444;"><span style="padding-bottom: 10px; font-family: Arial, Helvetica,
+sans-serif; font-size: 15px; color: #237383;"><b>We don't just tweet, we
+feed your video to all social media sites</b></span></td>
+</tr>
+<tr>
+<td valign="top" style="padding-bottom: 10px; font-family: Arial,
+Helvetica, sans-serif; font-size: 12px; color: #444444;"><a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"><img
+src="http://www.linkedinmedia.co.uk/mail-images/im1.jpg" width="341"
+height="205" border="0" /></a></td>
+</tr>
+<tr>
+<td valign="top" style="padding-bottom: 0px; font-family: Arial, Helvetica,
+sans-serif; font-size: 14px; color: #444444;">
+<p><span style="padding-bottom: 10px; font-family: Arial, Helvetica,
+sans-serif; font-size: 18px; color: #cf381d;"><b>Videos in <font
+color="#548118">Social Media</font></b></span></p>
+<p>Once you have a video, the next step is to get it to its target online
+audience.<br /> <br /> Video connect the dots on all social media
+platforms. <br /> <br /> It has been predicted that videos will be one of
+the top trends of 2015 thanks to <b><font color="#275498">Facebook</font>,
+<font color="#3AA5D8">Twitter</font>, <font color="#ff0000">Google+</font>,
+<font color="#F47D21">Vine</font>, <font color="#ff0000">YouTube</font>,
+<font color="#5DB2DE">Vimeo</font>, <font
+color="#2584C5">Linkedin</font></b><br /> <br /> <a
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"
+style="color: #296695;">Read More &gt;&gt;&gt;</a></p>
+<p><strong>Conceive it - </strong><strong> Visualise it -
+</strong><strong>Believe it</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="1" bgcolor="#CCCCCC"><img
+src="http://www.linkedinmedia.co.uk/mail-images/blank.gif" width="1"
+height="1" /></td>
+<td valign="top" style="padding-left: 10px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100<tbody>
+<tr>
+<td bgcolor="#3F5F13" style="padding: 10px; font-family: Arial, Helvetica,
+sans-serif; color: #fff; font-size: 13px;"><strong>Client
+Videos</strong></td>
+</tr>
+<tr>
+<td align="center" style="padding-top: 7px; font-family: Arial, Helvetica,
+sans-serif; color: #6c6c6c; font-size: 12px;"><img
+src="http://www.linkedinmedia.co.uk/mail-images/video.jpg" width="196"
+height="500" border="0" usemap="#Map" /></td>
+</tr>
+<tr>
+<td align="center" style="padding-top: 7px; font-family: Arial, Helvetica,
+sans-serif; color: #6c6c6c; font-size: 12px;">
+<p><a href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H"><img
+src="http://www.linkedinmedia.co.uk/mail-images/callback.jpg" width="196"
+height="110" border="0" /></a></p>
+<p><img src="http://www.linkedinmedia.co.uk/mail-images/contact.gif"
+width="196" height="250" border="0" usemap="#Map2" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><!-- RESPONSIVE FOOTER -->
+<table class="tl-footer-table" border="0" align="center" cellpadding="10"
+cellspacing="0" style="width: 600px;">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF">
+<table border="0" align="center" cellpadding="0" cellspacing="0"
+style="width: 100<tbody>
+<tr>
+<td align="center">
+<table class="storm-thomson-pull-left" cellpadding="0" cellspacing="0"
+align="left" bgcolor="#ffffff" style="width: 60<tbody>
+<tr>
+<td width="" bgcolor="ffffff" align="left" style="padding: 0px;">
+<p style="font-family: arial, helvetica, clean, sans-serif; font-size:
+11px; font-weight: normal; color: #999999; margin: 0 0 8px 0; padding:
+0;"><strong>IVMEDIA</strong>, 34 Church Road, Tarleton, Lancashire, PR4
+6UR</p>
+<p style="font-family: arial, helvetica, clean, sans-serif; font-size:
+11px; font-weight: normal; color: #999999; margin: 0 0 8px 0; padding:
+0;">email was sent to&nbsp;henry.hemraj@fs.net</p>
+<p style="font-family: arial, helvetica, clean, sans-serif; font-size:
+11px; font-weight: normal; color: #999999; margin: 0 0 8px 0; padding:
+0;"><a
+href="http://air76mail.com/inter/unsubscribe.php?M=146818&C=d442661236778e0152b863f737012a65&L=5&N=59"
+style="font-family: arial, helvetica, clean, sans-serif; font-size: 11px;
+font-weight: normal; color: #999999;">Unsubscribe</a> from future
+emails</p>
+<p style="font-family: arial, helvetica, clean, sans-serif; font-size:
+11px; font-weight: normal; color: #999999; margin: 0 0 8px 0; padding:
+0;">Complaints Please Email: <a
+href="mailto:abuse@air76mail.com">abuse@air76mail.com</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="storm-thomson-pull-left" cellpadding="0" cellspacing="0"
+align="right" bgcolor="#ffffff" style="width: 38<tbody>
+<tr>
+<td width="" bgcolor="ffffff" align="left" style="padding: 0px;"><img
+src="http://www.ocean6vip.com/images/ivmedia.gif" alt="qtymailcom.gif"
+width="150" height="50" border="0" align="right" style="text-align: right;
+display: block; vertical-align: bottom;" title="qtymailcom.gif" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- RESPONSIVE FOOTER // END // --></td>
+</tr>
+</tbody>
+</table>
+<map name="Map" id="Map">
+<area shape="rect" coords="3,9,196,135"
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=3&F=H"
+target="_blank" />
+
+<area shape="rect" coords="4,140,197,256"
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=4&F=H"
+target="_blank" />
+
+<area shape="rect" coords="4,258,197,373"
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=3&F=H" />
+
+<area shape="rect" coords="3,378,203,492"
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=3&F=H"
+target="_blank" />
+ </map> <map name="Map2" id="Map2">
+<area shape="rect" coords="2,183,195,225"
+href="http://air76mail.com/inter/link.php?M=146818&N=59&L=5&F=H" />
+
+<area shape="rect" coords="2,228,262,267"
+href="mailto:enquiries@linkedinmedia.co.uk" />
+ </map>
+<img
+src="http://air76mail.com/inter/open.php?M=146818&L=5&N=59&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+

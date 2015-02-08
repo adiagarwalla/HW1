@@ -1,0 +1,455 @@
+From @..  Wed Jan 21 21:30:59 2015
+Return-Path: <@..>
+X-Original-To: daynerandall@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 79027DE; Wed, 21 Jan 2015 21:30:59 +0000 (UTC)
+Received: from m112.futureshop.ca (m112.futureshop.ca [199.60.112.112])
+    by .. with SMTP id xbtk83q4bjqzmzits3mnd6yuqi;
+    for daynerandall@fs.net;
+    Wed, 21 Jan 2015 21:30:59 +0000 (UTC)
+    (envelope-from noreply@futureshop.ca)
+Received-SPF: Pass; receiver=..;
+    client-ip=199.60.112.112; envelope-from=<noreply@futureshop.ca>;
+    helo=m112.futureshop.ca; mechanism=ip4:199.60.112.112
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=199.60.112.112; client-port=31748;
+    syn-fingerprint=14600:50:1:60:M1380,S,T,N,W7; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.113 64.57.21.81 64.57.20.168
+    206.81.80.227 96.1.218.41 207.194.252.27; network-path-time=1421875859
+Received: from alp02oms.ca.bestbuy.com (unknown [172.21.15.5])
+	by m112.futureshop.ca (Postfix) with ESMTP id D347060650;
+	Wed, 21 Jan 2015 13:30:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=futureshop.ca;
+	s=fsca; t=1421875842;
+	bh=JW4viJ57i8OygT4QOydmmI1ZYonvZgyl3J2uaTQa/s0=;
+	h=Date:From:To:Subject;
+	b=Kb8MZvbl5gtmfenC1uwdKJ7UPyOgj6vMWbdK6tw8htr6psN+gdmaQSvE1jtAwY3CN
+	 5WL2jpchYpi8ocaLNrFWN/W4d4CgyMc5rrN8RUaKTxTcmDQr6LMrWJK3w85jevlQZV
+	 NuHtLbfwKhCNUqsNWdPeMmji6mvrPaHiqcFG4cbUkJZkbsVD6fg2KNmt0NeuOR4DIJ
+	 T/rF3BEHj1cqvYYKmfFfR9tMzCFsLGgkgnp12mn42Z/M6oQqpcRTHDwLC9QbrnY8YI
+	 0iWX9Gv/g233dpqsWhiwlj8eKVe6b3v6ouVCJ5UUmMyDt6gdwcEcKvLbCL/T0oHl39
+	 VU98lj5+vSidQ==
+Date: Wed, 21 Jan 2015 13:30:42 -0800 (PST)
+From: Futureshop Web Support <@..>
+To: @..
+Message-ID: <1186893498.9.1421875842826.JavaMail.fsvr@alp02oms.ca.bestbuy.com>
+Subject: futureshop.ca shipping notice email - order #339165373
+MIME-Version: 1.0
+Content-Type: text/html;charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" >
+<head>
+<title>Futureshop.ca</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body style=3D"font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;c=
+olor: #333333;line-height: 14px;font-size: 10px;">
+<div align=3D"center">
+=09<table width=3D"575" border=3D"0" cellspacing=3D"0" cellpadding=3D"4" st=
+yle=3D"font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;c=
+olor: #be0029;text-decoration: none;">
+=09=09<tr>
+=09=09=09<td width=3D"575"><table width=3D"575" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" >
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"575"><table width=3D"575" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" style=3D"border:solid 7px #a7a39c;">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.futureshop.ca/images/=
+emails/mccp_email_header.gif" alt=3D"Future Shop" width=3D"561" height=3D"6=
+7" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><table id=3D"Table_01" width=3D"561" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.futureshop.c=
+a/images/emails/mccp_nav_1_en.gif" width=3D"299" height=3D"34" alt=3D"" /><=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><a href=3D"http://www.futureshop.ca=
+"><img src=3D"http://www.futureshop.ca/images/emails/mccp_nav_2_en.gif" alt=
+=3D"Home" width=3D"47" height=3D"34" border=3D"0" /></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><a href=3D"https://www-ssl.futuresh=
+op.ca/Profile/SignIn.aspx"><img src=3D"http://www.futureshop.ca/images/emai=
+ls/mccp_nav_3_en.gif" alt=3D"My Account" width=3D"81" height=3D"34" border=
+=3D"0" /></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><a href=3D"http://www.futureshop.ca=
+/helpcustomerservice/helpcustomerservicemain.aspx"><img src=3D"http://www.f=
+utureshop.ca/images/emails/mccp_nav_4_en.gif" alt=3D"Information Centre" wi=
+dth=3D"134" height=3D"34" border=3D"0" /></a></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left"><!-- Content Table starts -->
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09<table width=3D"100g=3D"25" cellspacing=3D"0" style=3D"font-family: Verdana, Geneva, Arial, He=
+lvetica, sans-serif;color: #333333;font-size: 11px;" >
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" style=3D"font-family=
+: Verdana, Geneva, Arial, Helvetica, sans-serif;color: #333333;font-size: 1=
+1px;"><!-- Main content begins-->
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100ellspacing=3D"0" cellpadding=3D"0" style=3D"font-family: Verdana, Geneva, A=
+rial, Helvetica, sans-serif;color: #333333;font-size: 11px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><table width=3D"100er=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td ><span style=3D"f=
+ont-family: Verdana, Geneva, Arial, Helvetica, sans-serif;color: #333333;fo=
+nt-size: 15px; font-weight:bold">Order Shipped</span> <br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"fon=
+t-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #333=
+333;">Hi Dayne, Your order has been shipped! How's that for excitement?<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Access <a href=3D"=
+https://www-ssl.futureshop.ca/order/StoreOrderStatus.aspx?lang=3Den-CA" sty=
+le=3D"{color: #333333;text-decoration: underline}" onMouseOver=3D"this.styl=
+e.color=3D'#BE0029';" onMouseOut=3D"this.style.color=3D'#333333';">tracking=
+ information</a> on the Order Details page.<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Please note: Track=
+ing may not be available for up to 24 hours after the item(s) are shipped.<=
+br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09If you're not comp=
+letely happy with your order, you may <a href=3D"http://www.futureshop.ca/e=
+n-CA/help/returns-and-exchanges/hc82.aspx" style=3D"{color: #333333;text-de=
+coration: underline}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMouse=
+Out=3D"this.style.color=3D'#333333';">return or exchange it.</a><br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- Lowest Price =
+Guarantee -->=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Price Beat=
+ Promise</strong><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09We'll beat any pri=
+ce you find online, in-store, or in print by 10strictions apply. Click <a href=3D"http://www.futureshop.ca/HelpCustomerSer=
+vice/HelpDetails.aspx?HelpTitleId=3Dhc80" style=3D"{color: #333333;text-dec=
+oration: underline}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMouseO=
+ut=3D"this.style.color=3D'#333333';">here</a> for terms and conditions.<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Please do not resp=
+ond to this email. If you need further assistance, our Customer Service Tea=
+m will be happy to help at <a href=3D"mailto:service@futureshop.com" style=
+=3D"{color: #333333;text-decoration: underline}" onMouseOver=3D"this.style.=
+color=3D'#BE0029';" onMouseOut=3D"this.style.color=3D'#333333';">service@fu=
+tureshop.com</a>.<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Please keep this e=
+mail for your future reference.</span><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Verdana, =
+Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#D9D9D=
+9" width=3D"5" align=3D"right" valign=3D"middle"><img src=3D"http://www.fut=
+ureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" height=3D"16" border=
+=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"80gn=3D"left" bgcolor=3D"#D9D9D9" style=3D"font-family: Verdana, Arial, Helve=
+tica, sans-serif;font-size: 11px;font-weight: bolder;color: #333333;">Item(=
+s)shipped</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#D9D9D=
+9" width=3D"5" align=3D"right" valign=3D"middle"><img src=3D"http://www.fut=
+ureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" height=3D"16" border=
+=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"20gn=3D"right" bgcolor=3D"#D9D9D9" style=3D"font-family: Verdana, Arial, Helv=
+etica, sans-serif;font-size: 11px;font-weight: bolder;color: #333333;">Quan=
+tity</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr valign=3D"top"=
+>
+=09=09<td colspan=3D5></td>
+=09=09</tr>
+=09=09<tr valign=3D"top">
+=09=09=09<td width=3D"5" align=3D"right" valign=3Dmiddle><img src=3D"http:/=
+/www.futureshop.ca/images/nav/widgets/space.gif" width=3D"5" height=3D"16" =
+border=3D"0"></td>
+=09=09=09<td align=3D"left" valign=3Dmiddle style=3D"font-family: Verdana, =
+Geneva, Arial, Helvetica, sans-serif;color: #333333;font-size: 11px;">Duck =
+Dynasty: Season 6</td>=09=09=09<td align=3D"right" valign=3Dmiddle><img src=
+=3D"http://www.futureshop.ca/images/nav/widgets/space.gif" width=3D"5" heig=
+ht=3D"16" border=3D"0"></td>
+=09=09=09<td align=3D"right" valign=3Dmiddle style=3D"font-family: Verdana,=
+ Geneva, Arial, Helvetica, sans-serif;color: #333333;font-size: 11px;">1</t=
+d>=09=09</tr>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=09=09=09=09=09=09=
+=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Verdana, =
+Geneva, Arial, Helvetica, sans-serif;color: #333333;font-size: 11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5" heigh=
+t=3D"19" bgcolor=3D"#D9D9D9"><img src=3D"http://www.futureshop.ca/images/em=
+ails/mccp_spacer.gif" width=3D"5"  border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#D9D9D=
+9" style=3D"font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 1=
+1px;font-weight: bolder;color: #333333;">Shipping Address: </td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5"><img =
+src=3D"http://www.futureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" =
+border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td >Dayne Randall</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5"><img =
+src=3D"http://www.futureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" =
+border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td >721 Assinniboine=
+ Ave.  </td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5"><img =
+src=3D"http://www.futureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" =
+border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td >Brandon, MB</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5"><img =
+src=3D"http://www.futureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" =
+border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td >Canada, r7a 0g5<=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"5"><img =
+src=3D"http://www.futureshop.ca/images/emails/mccp_spacer.gif" width=3D"5" =
+border=3D"0"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- End shipping confirmation=
+ -->=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><p><span style=3D"font-fam=
+ily: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;"=
+>Remember, you can check your order information anytime (24 hours a day) th=
+rough</span><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://www-s=
+sl.futureshop.ca/order/StoreOrderStatus.aspx?lang=3Den-CA"><img src=3D"http=
+://www.futureshop.ca/images/emails/mccp_order_en.gif" width=3D"148" height=
+=3D"23" border=3D"0"></a></p></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- Order information -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><TABLE WIDTH=3D"100ER=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family: Verdana,=
+ Geneva, Arial, Helvetica, sans-serif;color: #333333;font-size: 11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td background=3D"htt=
+p://www.futureshop.ca/images/emails/mccp_title_bg_image.gif" bgcolor=3D"#99=
+9999" style=3D"
+=09=09=09=09=09background-repeat: repeat-x;
+=09=09=09=09=09font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+=09=09=09=09=09color:#FFFFFF;
+=09=09=09=09    padding-left:10px;
+=09=09=09=09=09font-size: 11px;
+=09=09=09=09=09height: 18px;"><b>Order information</b></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td background=3D"htt=
+p://www.futureshop.ca/images/emails/mccp_title_bg_shadow.gif" style=3D"back=
+ground-repeat: repeat-x;height: 4px;"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<TABLE BORDER=3D"0" CELLSPA=
+CING=3D"1" CELLPADDING=3D"1" style=3D"font-family: Verdana, Geneva, Arial, =
+Helvetica, sans-serif;color: #333333;font-size: 11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>All Customers can=
+:</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr valign=3D"bottom" bg=
+color=3D"#FFFFFF">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td >&raquo; <A href=
+=3D"https://www-ssl.futureshop.ca/order/StoreOrderStatus.aspx?lang=3Den-CA"=
+ style=3D"{color: #333333;text-decoration: underline}" onMouseOver=3D"this.=
+style.color=3D'#BE0029';" onMouseOut=3D"this.style.color=3D'#333333';">View=
+ updates on your order(s)</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&raquo; <A href=
+=3D"https://www-ssl.futureshop.ca/order/StoreOrderStatus.aspx?lang=3Den-CA"=
+ style=3D"{color: #333333;text-decoration: underline}" onMouseOver=3D"this.=
+style.color=3D'#BE0029';" onMouseOut=3D"this.style.color=3D'#333333';">Prin=
+t copies of your invoice (Printable electronic invoice)</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</TABLE></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- End order information -->=
+=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!---Items not shipped text//-=
+-->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><p ><span style=3D"font-fa=
+mily: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bo=
+lder;color: #333333;"><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09For item(s) not yet ship=
+ped:</span>We want you to get your item(s) right away and so we make sure t=
+o ship each one to you as soon as it becomes available. There are no extra =
+costs for this. You will only be charged for each item separately at the ti=
+me that we ship them. Also, we'll send you a Ship Notice email as each prod=
+uct ships from our facilities. <br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Check out the status of =
+your non-shipped item(s) anytime by going to <a href=3D"https://www-ssl.fut=
+ureshop.ca/order/StoreOrderStatus.aspx?lang=3Den-CA" style=3D"{color: #3333=
+33;text-decoration: underline}" onMouseOver=3D"this.style.color=3D'#BE0029'=
+;" onMouseOut=3D"this.style.color=3D'#333333';">My Order(s)</a>.<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p><b>Returns:</b><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09If for any reason you ne=
+ed to return this product, please see our <a href=3D"http://www.futureshop.=
+ca/en-CA/help/returns-and-exchanges/hc82.aspx" style=3D"{color: #333333;tex=
+t-decoration: underline}">Returns and Exchanges help topic</a>.</p></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!--- End items not shipped te=
+xt//--->=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- Terms and Conditions -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><hr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"font-family: Ve=
+rdana, Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bolder;col=
+or: #333333;"><b><a href=3D"http://www.futureshop.ca/en-CA/help/purchase-te=
+rms-and-conditions/hc8156.aspx">Terms and conditions</a></b></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p >Date: 21 Jan, 2015 </p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p >You may contact us at:<=
+/p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<blockquote > Future Shop C=
+anadian Headquarters <br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Customer Support Dept. <=
+br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=098800 Glenlyon Parkway<br=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Burnaby, BC V5J 5K3<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=091-800-663-2275<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09e-mail: <a href=3D"mailt=
+o:service@futureshop.com" style=3D"{color: #333333;text-decoration: underli=
+ne}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMouseOut=3D"this.style=
+.color=3D'#333333';">service@futureshop.com</a></blockquote>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"font-family:=
+ Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</span>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>We reserve the right to =
+limit quantities available for sale or sold.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>THE FOLLOWING CLAUSE IS =
+INAPPLICABLE IN QUEBEC. We reserve the right at any time to reject, correct=
+ cancel or terminate any order for any reason whatsoever. If the price of a=
+ny product you order was incorrectly displayed on our Web Site, we will pro=
+vide you with an opportunity to place an order at the correct price.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>Advertisements on our We=
+b Site are invitations to you to make offers to purchase products and servi=
+ces on the Web Site and are not offers to sell. Your properly completed and=
+ delivered order form constitutes your offer to purchase the products or se=
+rvices referenced in your order. Your order will be deemed to be accepted o=
+nly if and when we send a shipping notice email to your email address. That=
+ shipping notice email constitutes our acceptance of your order and forms a=
+ legally binding contract with ?Best Buy Canada Ltd., which operates Future=
+ Shop and FutureShop.ca.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>The total price of your =
+order will be charged to your credit card when our shipping notice email ha=
+s been sent to your email address. If you wish to cancel an order, you may =
+request a cancellation by logging into your account and cancelling your ord=
+er or by calling 1-800-663-2275. However, we may not receive and process yo=
+ur cancellation request before we accept and ship your order, in which case=
+ your cancellation request may not be effective. If for any reason you are =
+not completely satisfied with a product you have purchased, we will gladly =
+give you a full refund (except for certain items described below) or exchan=
+ge if you return it to any Future Shop store within 30 days after you recei=
+ve it (14 days for computers, monitors, printers, notebook computers, camco=
+rders, digital cameras, radar detectors, cellular and wireless devices, por=
+table DVD players and air conditioners) in its original condition (includin=
+g all packaging, accessories and manuals). For your convenience, we also ac=
+cept returns by mail: please call 1-800-663-2275 to find out how to make a =
+return by mail. Your electronic invoice is required for both in-store and m=
+ail returns. In the event that a returned order has any packaging, manuals,=
+ accessories, blank warranty cards or other items missing, the return may b=
+e refused, or we may ct the value of any of the missing items. Shipping=
+ charges are non-refundable; however, we will refund your original shipping=
+ cost if you are returning an item because of an error on our part, or we h=
+ave determined that the product is defective. Due to copyright laws, comput=
+er and game console software, music CDs, DVDs and videos in opened packages=
+ may only be exchanged for the same item.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>We rely on the informati=
+on you provide through the Web Site, including registration information (na=
+me and email address), payment information (credit card numbers and expirat=
+ion dates), and transaction-related information, which must be true, accura=
+te, current and complete. You will be solely responsible and liable for any=
+ and all loss, damage, and additional costs that you, we or any other perso=
+n may incur as a result of your submission of any false, incorrect or incom=
+plete information or your failure to update your registration information a=
+nd payment information within 30 days of any change.</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-fami=
+ly: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bold=
+er;color: #333333;">Thanks for shopping with us at</span> <a href=3D"http:/=
+/www.futureshop.ca/" style=3D"font-family: Verdana, Arial, Helvetica, sans-=
+serif;font-size: 11px;color: #be0029;text-decoration: none;"><b>futureshop.=
+ca</b></a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-fami=
+ly: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #919191;">=
+This email was sent from an outgoing-only address that cannot accept incomi=
+ng emails. If you haven't found the information you are looking for and sti=
+ll have questions please visit our <a href=3D"http://www.futureshop.ca/help=
+customerservice/helpcustomerservicemain.aspx" style=3D"{color: #919191;text=
+-decoration: underline}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMo=
+useOut=3D"this.style.color=3D'#919191';">information centre</a> to access g=
+eneral information, frequently asked questions, contact us information, and=
+ more.</span></p></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- End Terms and Conditions -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- Main content ends --></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09<!-- Content Table ends --></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"570" height=3D"32" align=3D"right"  style=3D=
+"font-family: Verdana, Helvetica, sans-serif;font-size: 10px;color: #919191=
+; line-height:16px; ">&copy; 2013 Future Shop. All rights reserved<br />
+=09=09=09=09=09=09=09<a href=3D"http://www.futureshop.ca/HelpCustomerServic=
+e/HelpDetails.aspx?HelpTitleId=3Dhc87" style=3D"{color: #919191;text-decora=
+tion: underline}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMouseOut=
+=3D"this.style.color=3D'#919191';">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;<a href=3D"http://www.futureshop.ca/HelpCustomerService/HelpD=
+etails.aspx?HelpTitleId=3Dhc8156" style=3D"{color: #919191;text-decoration:=
+ underline}" onMouseOver=3D"this.style.color=3D'#BE0029';" onMouseOut=3D"th=
+is.style.color=3D'#919191';">Terms & Conditions</a></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table></td>
+=09=09</tr>
+=09</table>
+</div>
+<p>
+<div style=3D"display:none">
+=09
+OrderDetails1=3DPO#=3D175957076++SKU=3DM2213774++Desc=3DDuck Dynasty: Seaso=
+n 6
+
+</div>=09=09
+</p>
+</body>
+</html>
+

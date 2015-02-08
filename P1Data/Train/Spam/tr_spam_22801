@@ -1,0 +1,472 @@
+From @..  Fri Jan  2 15:30:12 2015
+Return-Path: <@..>
+X-Original-To: garylynchhouse@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 91B9CDF; Fri,  2 Jan 2015 15:30:12 +0000 (UTC)
+Received: from 595020-web2.boilerjuice.com (595020-web2.boilerjuice.com [212.100.242.13])
+    by .. with SMTP id dtqypbds4t4udn57ith84t2f72;
+    for garylynchhouse@fs.net;
+    Fri, 02 Jan 2015 15:30:12 +0000 (UTC)
+    (envelope-from apache@595020-web2.boilerjuice.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=212.100.242.13;
+    envelope-from=<apache@595020-web2.boilerjuice.com>;
+    helo=595020-web2.boilerjuice.com; mechanism=a
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=212.100.242.13; client-port=45538;
+    syn-fingerprint=5840:52:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.110 64.125.31.69 64.125.24.29 64.125.29.37
+    64.125.21.206 64.125.20.97 94.31.42.254 164.177.137.34 164.177.137.19
+    92.52.76.81; network-path-time=1420212612
+Received: by 595020-web2.boilerjuice.com (Postfix, from userid 48)
+	id 48F372CC06AE; Fri,  2 Jan 2015 15:29:56 +0000 (GMT)
+To: @..
+Subject: BoilerJuice.com Online Payment Confirmation
+From: "BoilerJuice.com" <@..>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=_21a4c2400a1a14cc59b35796324d5124"
+Message-Id: <20150102152956.48F372CC06AE@595020-web2.boilerjuice.com>
+Date: Fri,  2 Jan 2015 15:29:56 +0000 (GMT)
+
+This is a MIME encoded message.
+
+--=_21a4c2400a1a14cc59b35796324d5124
+Content-Type: multipart/alternative;
+	boundary="=_2fbda004fcbacb670d39afcb3be35b95"
+
+--=_2fbda004fcbacb670d39afcb3be35b95
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Your BoilerJuice Payment Confirmation
+============================================================
+
+
+Thank you for your payment and for ordering with BoilerJuice.com.
+
+Your payment transaction details are confirmed for your information below.
+
+We will send you an email confirming acceptance of your order which will also confirm the name and contact details of the Supplier you will be contracting with to fulfil your order.
+
+If you have any queries regarding this payment, please contact us here, quoting your payment and order reference numbers:
+http://www.boilerjuice.com/contact/
+
+Many thanks,
+
+The BoilerJuice team.
+
+
+
+Transaction details
+------------------------------
+Order number: Q876728
+Payment reference: PAYMENT-2868764
+Amount: �206.85
+Payment date: Friday 2 January 2015 at 3:28pm
+
+
+
+Following receipt of the confirmation order, you will have the right to cancel your order by phoning BoilerJuice on 0800 321 3275 or emailing BoilerJuice at customer.services@boilerjuice.com at any ti
+me prior to the Supplier's carrier leaving the Supplier's premises to fulfil your order.  Please see our Terms of Use and Condition 12 of the Supplier Conditions for further information.
+
+
+
+
+
+
+============================================================
+
+BoilerJuice Limited: Registered in England & Wales No. 5345637. VAT Registration No. 115 1571 46.
+Registered Office: Bankside 300, Peachman Way, Broadland Business Park, Norwich NR7 0LB.
+A wholly owned subsidiary of Welsummer Ltd
+
+
+============================================================
+
+
+
+
+
+
+
+--=_2fbda004fcbacb670d39afcb3be35b95
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en" xml:lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<style type=3D"text/css">
+<!--
+
+hr {
+    background:                     #e4e4e4;
+    border:                         2px solid #e4e4e4;
+    border-width:                   2px 0 0 0;
+    height:                         2px;
+    margin:                         0 0 10px 0;
+}
+
+td {
+	color:#000000;
+	font: 12px Tahoma, Arial, Sans-serif;
+}
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0;
+	color:#000000;
+	font: 12px Tahoma, Arial, Sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #fa8a11;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 14px;
+	color: #3c3c3c;
+	margin-bottom: 0;
+}
+
+td a {
+	color: #666;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+td a:hover {
+	color: #fa8a11;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.borderedTable {
+	border-spacing: 1px;
+	border-collapse: separate;
+	background: #fff;
+	border: 1px solid #9dbfe1;
+	margin-bottom: 15px;
+}
+
+.borderedTable th {
+	background: #fff;
+	padding: 3px;
+	font-size: 12px;
+	color: #c00;
+}
+
+.borderedTable td {
+	background: #e8e8e8;
+	padding: 3px;
+	font-size: 12px;
+	color: #333;
+}
+
+.borderedTable a {
+	color: #333;
+	text-decoration: underline;
+}
+
+.borderedTable a:hover {
+	color: #c00;
+	text-decoration: underline;
+}
+
+.menublurbbg {
+	background-color: #E8F0F9;
+}
+
+.boxborder {
+	background-color: #3942B0;
+}
+
+.boxbg {
+	background-color: #FFFFFF;
+}
+
+-->
+</style>
+</head>
+<body style=3D"margin: 0; padding: 0;">	
+	<table width=3D"100		<tr>
+			<td>
+				<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" a=
+lign=3D"center">
+					<tr>
+						<td>
+							<a href=3D"http://www.boilerjuice.com/">
+								<img src=3D"http://www.boilerjuice.com/email/v4-header-logo.gif" al=
+t=3D"BoilerJuice.com" title=3D"BoilerJuice.com" width=3D"600" height=3D"65"=
+ style=3D"border: 0; display: block;" />
+							</a>
+						</td>
+					</tr>
+					<tr>						
+						<td>
+							<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+								<tr>
+									<td>
+										<img src=3D"http://www.boilerjuice.com/email/v4-navigation-left.g=
+if" alt=3D"" style=3D"display: block;" width=3D"28" height=3D"39" />
+									</td>
+									<td style=3D"height: 39px; width: 396px; background-color: #2b2b2b=
+;">
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+											<tr>
+
+
+
+
+
+
+<!-- Main menu start -->
+			
+
+<td>
+	<a href=3D"http://www.boilerjuice.com/" style=3D"text-decoration: none; fo=
+nt: 12px Trebuchet MS, Arial, Sans-serif; color: #AAAAAA; text-transform: u=
+ppercase;">Home</a>
+</td>
+<td>
+	<img src=3D"http://www.boilerjuice.com/email/v4-navigation-separator.gif" =
+alt=3D"" width=3D"16" height=3D"39" style=3D"display: block;" />
+</td>
+<td>
+	<a href=3D"https://www.boilerjuice.com/heating-oil-quote/" style=3D"text-d=
+ecoration: none; font: 12px Trebuchet MS, Arial, Sans-serif; color: #AAAAAA=
+; text-transform: uppercase;">Instant Quote</a>
+</td>
+<td>
+	<img src=3D"http://www.boilerjuice.com/email/v4-navigation-separator.gif" =
+alt=3D"" width=3D"16" height=3D"39" style=3D"display: block;" />
+</td>
+<td>
+	<a href=3D"https://www.boilerjuice.com/members.php" style=3D"text-decorati=
+on: none; font: 12px Trebuchet MS, Arial, Sans-serif; color: #AAAAAA; text-=
+transform: uppercase;">My Account</a>
+</td>
+<td>
+	<img src=3D"http://www.boilerjuice.com/email/v4-navigation-separator.gif" =
+alt=3D"" width=3D"16" height=3D"39" style=3D"display: block;" />
+</td>
+<td>
+	<a href=3D"http://www.boilerjuice.com/priceHistory.php" style=3D"text-deco=
+ration: none; font: 12px Trebuchet MS, Arial, Sans-serif; color: #AAAAAA; t=
+ext-transform: uppercase;">Oil Prices</a>
+</td>
+<td>
+	<img src=3D"http://www.boilerjuice.com/email/v4-navigation-separator.gif" =
+alt=3D"" width=3D"16" height=3D"39" style=3D"display: block;" />
+</td>
+<td>
+	<a href=3D"http://www.boilerjuice.com/news.php" style=3D"text-decoration: =
+none; font: 12px Trebuchet MS, Arial, Sans-serif; color: #AAAAAA; text-tran=
+sform: uppercase;">News</a>
+</td>
+
+	
+<!-- Main menu end -->
+
+
+
+
+
+
+											</tr>
+										</table>
+									</td>
+									<td>
+										<img src=3D"http://www.boilerjuice.com/email/v4-navigation-right.=
+gif" alt=3D"" style=3D"display: block;" width=3D"176" height=3D"39" />
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+								<tr>
+									<td>
+										<img src=3D"http://www.boilerjuice.com/email/v4-header-left.gif" =
+alt=3D"" style=3D"display: block;" width=3D"28" height=3D"100" />
+									</td>
+									<td style=3D"height: 100px; width: 391px; background-color: #e6660=
+b;">
+										<span style=3D"font: 20px Trebuchet MS, Arial, Sans-serif; color:=
+ #FFF;">
+
+
+
+
+
+
+<!-- Main title start -->
+			
+Payment <span style=3D"color: #000000;">Confirmation</span>
+	
+<!-- Main title end -->
+
+
+
+
+
+
+										</span>
+									</td>
+									<td>
+										<img src=3D"http://www.boilerjuice.com/email/v4-header-right.gif"=
+ alt=3D"" style=3D"display: block;" width=3D"181" height=3D"100" />
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>						
+						<td>
+							<img src=3D"http://www.boilerjuice.com/email/v4-header-bottom.gif" a=
+lt=3D"" width=3D"600" height=3D"13" style=3D"display: block;" />
+						</td>
+					</tr>
+
+
+
+
+
+
+<!-- Second title start -->
+			
+
+	
+<!-- Second title end -->
+
+
+
+
+
+
+					<tr>
+						<td style=3D"padding-left: 18px; padding-right: 18px;">
+
+
+
+
+
+
+<!-- Main content start -->
+			
+
+<p>Thank you for your payment and for ordering with BoilerJuice.com.</p> =
+=20
+
+<p>Your payment transaction details are confirmed for your information belo=
+w.</p> =20
+
+<p>We will send you an email confirming acceptance of your order which will=
+ also confirm the name and contact details of the Supplier you will be cont=
+racting with to fulfil your order.</p>
+
+<p>If you have any queries regarding this payment, please <a href=3D"http:/=
+/www.boilerjuice.com/contact/" target=3D"_blank">contact us here</a>, quoti=
+ng your payment and order reference numbers.</p>
+
+<p>Many thanks,</p>
+
+<p>The BoilerJuice team.</p>
+
+<p>&nbsp;</p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100<tr>
+	<td colspan=3D"2"><b>Transaction details</b><hr noshade=3D"noshade" /></td=
+>
+</tr>
+<tr>
+	<td align=3D"right">Order number:&nbsp;</td>
+	<td>Q876728</td>
+</tr>
+<tr>
+	<td align=3D"right" nowrap>Payment reference:&nbsp;</td>
+	<td>PAYMENT-2868764</td>
+</tr>
+<tr>
+	<td align=3D"right" nowrap>Amount:&nbsp;</td>
+	<td>=A3206.85</td>
+</tr>
+<tr>
+	<td align=3D"right" nowrap>Payment date:&nbsp;</td>
+	<td width=3D"99</tr>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Following receipt of the confirmation order, you will have the right to =
+cancel your order by phoning BoilerJuice on 0800 321 3275 or emailing Boile=
+rJuice at customer.services@boilerjuice.com at any time prior to the Suppli=
+er's carrier leaving the Supplier's premises to fulfil your order.  Please =
+see our Terms of Use and Condition S12 of the Supplier Conditions for furth=
+er information.</p>
+
+
+	
+<!-- Main content end -->
+
+
+
+
+
+
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<img src=3D"http://www.boilerjuice.com/email/v4-footer.gif" alt=3D"B=
+oilerjuice.com" style=3D"display: block;" width=3D"600" height=3D"110" />
+						</td>
+					</tr>
+					<tr>
+						<td style=3D"padding-left: 25px; padding-right: 25px;">
+							<p style=3D"margin-top: 0px; margin-bottom: 5px; padding: 0; color: =
+#000000; font: 11px Tahoma, Arial, Sans-serif;">
+
+
+
+
+<!-- Optional footer start -->
+			
+
+	
+<!-- Optional footer end -->
+
+BoilerJuice Limited: Registered in England & Wales No. 5345637. VAT Registr=
+ation No. 115 1571 46.<br/>
+Registered Office: Bankside 300, Peachman Way, Broadland Business Park, Nor=
+wich NR7 0LB.<br/>
+A wholly owned subsidiary of Welsummer Ltd
+							</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
+
+
+--=_2fbda004fcbacb670d39afcb3be35b95--
+
+--=_21a4c2400a1a14cc59b35796324d5124--
+

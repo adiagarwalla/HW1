@@ -1,0 +1,88 @@
+From @..  Fri Jan 23 09:16:20 2015
+Return-Path: <@..>
+X-Original-To: wpfs@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id D5C2FDF; Fri, 23 Jan 2015 09:16:20 +0000 (UTC)
+Received: from sieve08.cnci.jp (mail6.cnci.jp [210.158.149.199])
+    by .. with SMTP id jmukqpvhd2t3m6vrrcypv452ie;
+    for wpfs@fs.net;
+    Fri, 23 Jan 2015 09:16:20 +0000 (UTC)
+    (envelope-from <>)
+Received-SPF: Pass; receiver=..;
+    client-ip=210.158.149.199; envelope-from=<>; helo=sieve08.cnci.jp
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=210.158.149.199; client-port=25962;
+    syn-fingerprint=8190:235:1:44:M1380; network-path=143.215.250.65
+    130.207.254.29 130.207.254.186 143.215.194.105 143.215.193.74
+    198.32.132.75 184.105.213.113 184.105.222.77 184.105.222.86 72.52.92.121
+    216.218.223.206 61.14.157.150 203.192.149.34 163.139.128.170
+    163.139.228.122 210.158.151.12; network-path-time=1422004580
+Received: from sieve.cnci.jp (localhost.localdomain [127.0.0.1])
+	by sieve08.cnci.jp (Switch-3.3.3/Switch-3.3.3) with ESMTP id t0N9G3Du023176
+	for <wpfs@fs.net>; Fri, 23 Jan 2015 18:16:03 +0900
+Received: from mta04.cnci.jp with LMTP by sieve.cnci.jp (3.1.1/devel)
+	for <wpfs@fs.net>; Fri, 23 Jan 2015 18:16:03 +0900
+Received: from sieve.cnci.jp (sieve08.cnci.jp [10.129.17.8])
+	by mta04.cnci.jp (Switch-3.3.3/Switch-3.3.3) with ESMTP id t0N9G3ge007208
+	for <wpfs@fs.net>; Fri, 23 Jan 2015 18:16:03 +0900
+From: @..
+Subject: =?iso-2022-jp?B?GyRCJWEhPCVrPHU/LjVxSF1ETENOGyhC?=
+To: @..
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=disposition-notification;
+ boundary="=k?(C1XSqD'1YkaEB=hUjCC82, fEFAnzdSEQdTXvQg8He=OL7zWd"
+Date: Fri, 23 Jan 2015 18:16:03 +0900
+Message-ID: <jol5.rqhmin.kzwn.7en@sieve.cnci.jp>
+References: <6A3BA5DB57138C15709F845D566BD491@fs.net>
+
+--=k?(C1XSqD'1YkaEB=hUjCC82, fEFAnzdSEQdTXvQg8He=OL7zWd
+Content-Type: text/plain; charset="iso-2022-jp"
+
+$B$3$NThis message was refused by recipient, with the following reason:
+
+$BLBOGMessage was considered junk.
+
+
+--=k?(C1XSqD'1YkaEB=hUjCC82, fEFAnzdSEQdTXvQg8He=OL7zWd
+Content-type: message/disposition-notification
+
+Reporting-UA: sieve.cnci.jp; Sendmail Message Organizer 3.1.1.devel
+Original-Recipient: rfc822;take-san@ccn2.aitai.ne.jp
+Final-Recipient: rfc822;take-san@ccn2.aitai.ne.jp
+Original-Message-ID: <6A3BA5DB57138C15709F845D566BD491@fs.net>
+Disposition: automatic-action/MDN-sent-automatically; deleted
+
+--=k?(C1XSqD'1YkaEB=hUjCC82, fEFAnzdSEQdTXvQg8He=OL7zWd
+Content-type: text/rfc822-headers
+Content-Transfer-Encoding: quoted-printable
+
+Received: from mta05.cnci.jp with LMTP by sieve.cnci.jp (3.1.1/devel)
+	for <take-san@ccn2.aitai.ne.jp>; Fri, 23 Jan 2015 18:16:03 +0900
+Received: from fs.net (li672-214.members.linode.com [106.186.121.214])
+	by mta05.cnci.jp (Switch-3.3.3/Switch-3.3.3) with ESMTP id t0N9G1WQ=
+012696
+	for <take-san@ccn2.aitai.ne.jp>; Fri, 23 Jan 2015 18:16:02 +0900
+Message-ID: <6A3BA5DB57138C15709F845D566BD491@fs.net>
+From: "autoinfo_jp@account.square-enix.com" <autoinfo_jp@account.square-eni=
+x.com>
+To: <take-san@ccn2.aitai.ne.jp>
+Subject: [meiwaku]=3D?utf-8?B?5bi456K66KqN44Gu44GK6aGY44GE4oCP?=3D
+Date: Fri, 23 Jan 2015 17:15:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary=3D"----=3D_NextPart_000_0FC5_01B8320A.1F6E1D20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-SPF-Authentication-Results: NONE
+X-Spam: Suspect
+X-Spam-Score: 100.00X-Spam-Analysis: v=3D2.1 cv=3DdaiU3Bne c=3D0 sm=3D1 tr=3D0 p=3Dens66JYy6Ku8=
+qg9_88IA:9 a=3DL7oSpQix3SfVIMATeHC+AA=3D=3D:117 a=3DL7oSpQix3SfVIMATeHC+AA=
+=3D=3D:17 a=3DjPJDawAOAc8A:10 a=3D5G4ZcoZEAAAA:8 a=3D4HzhQUzmAAAA:8 a=3DUaU=
+x2w6D-70A:10 a=3Dr77TgQKjGQsHNAKrUKIA:9 a=3D9iDbn-4jx3cA:10 a=3DcKsnjEOsciE=
+A:10 a=3DgZbpxnkM3yUA:10X-MM-Anti-Virus-Filter: TRUE ccn2.aitai.ne.jp
+
+--=k?(C1XSqD'1YkaEB=hUjCC82, fEFAnzdSEQdTXvQg8He=OL7zWd--
+

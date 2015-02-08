@@ -1,0 +1,40 @@
+From @..  Fri Jan 23 02:29:52 2015
+Return-Path: <@..>
+X-Original-To: bangortho@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id 6F7D0DF; Fri, 23 Jan 2015 02:29:52 +0000 (UTC)
+Received: from px118.internet.enterprise.vocalink.co.uk (mailout1.bacsservices.co.uk [194.61.123.10])
+    by .. with SMTP id gccqx98y6ivhnj8kz7vnguw9u6;
+    for bangortho@fs.net;
+    Fri, 23 Jan 2015 02:29:52 +0000 (UTC)
+    (envelope-from paymentservices@bacsservices.co.uk)
+Received-SPF: PermError; receiver=..;
+    client-ip=194.61.123.10;
+    envelope-from=<paymentservices@bacsservices.co.uk>;
+    helo=px118.internet.enterprise.vocalink.co.uk
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=194.61.123.10; client-port=57245;
+    syn-fingerprint=49640:42:1:52:M1380,N,W0,N,N,S Solaris 10 (beta);
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    198.71.47.165 206.126.236.140 166.49.208.76 213.137.183.37 62.6.201.168
+    213.121.193.18 109.159.252.21 62.172.160.71 213.121.150.11;
+    network-path-time=1421980192
+Received: from baap101 (baap101-mip.newbacs.bacs.co.uk [172.31.68.60])
+	by px118.internet.enterprise.vocalink.co.uk (8.14.5+Sun/8.14.5) with ESMTP id t0N2TZEj017198
+	for <bangortho@fs.net>; Fri, 23 Jan 2015 02:29:35 GMT
+Date: Fri, 23 Jan 2015 02:29:30 +0000 (GMT)
+From: @..
+To: @..
+Message-ID: <474199172.82496.1421980170191.JavaMail.bea@baap101>
+Subject: BACS Live Input Report for Service User 252891 for 26/01/15 is now
+ available from BACS Payment Services
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Live Input Report for Service User 252891 MCCROARY & TURNER
+
+Live Input Report for 26/01/15 is now available for collection from BACS Payment Services.  
+To access your report, log on to https://paymentservices.bacs.co.uk/.
+

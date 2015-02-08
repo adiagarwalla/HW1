@@ -1,0 +1,933 @@
+From @..  Tue Jan 13 14:39:28 2015
+Return-Path: <@..>
+X-Original-To: di-philmanion@fs.net
+Delivered-To: @..
+Received: by .. (Postfix, from userid 0)
+	id C1DC6DE; Tue, 13 Jan 2015 14:39:28 +0000 (UTC)
+Received: from firstchoice.email-domain.com (81.91.104.211 [81.91.104.211])
+    by .. with SMTP id attijfsva2hktg4cvyyazrnj46;
+    for di-philmanion@fs.net;
+    Tue, 13 Jan 2015 14:39:28 +0000 (UTC)
+    (envelope-from bounce-1883939-51087571@firstchoice.email-domain.com)
+Received-SPF: Pass; receiver=..;
+    client-ip=81.91.104.211;
+    envelope-from=<bounce-1883939-51087571@firstchoice.email-domain.com>;
+    helo=firstchoice.email-domain.com; mechanism=ip4:81.91.104.0/24
+X-Avenger: version=0.8.3; receiver=..;
+    client-ip=81.91.104.211; client-port=58535;
+    syn-fingerprint=5840:50:1:60:M1380,S,T,N,W7 Linux 2.4/2.6 <= 2.6.7;
+    network-path=143.215.250.65 130.207.254.29 130.207.254.186 143.215.194.113
+    64.57.21.81 64.57.20.110 64.125.31.69 64.125.24.29 64.125.29.37
+    64.125.21.206 64.125.21.22 213.152.234.66 81.91.96.14;
+    network-path-time=1421159968
+DKIM-Signature: v=1; a=rsa-sha256; d=info.firstchoice.co.uk; s=tui2013; c=relaxed/relaxed;
+	q=dns/txt; i=@info.firstchoice.co.uk; t=1421160375;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=uA7FkZD1QorslqJKQij01y+W1Qlw0Wm26/8LiIvSkAQ=;
+	b=SpHl3INCMh6DSPQDNkHTc3QjFYud2pz0Y3oMSDDa8PsJqKqfGuwK21HWveG/YIqB
+	YMKoZVoMeTj3V7G1y9otDKmeh02MgzAWY5G9NKo/venNQVxDOBXudz4IRZcf6Vht
+	QyfL0tl+eal2Cg2Niznj8EQX423ZOBlSsK5WL1FwwXs=;
+Received: from [192.168.123.215] ([192.168.123.215:10819] helo=firstchoice.email-domain.com)
+	by cm-apps.co.uk (envelope-from <bounce-1883939-51087571@firstchoice.email-domain.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id B7/0B-05317-7BF25B45; Tue, 13 Jan 2015 14:46:15 +0000
+From: "First Choice Holidays" <@..>
+To: @..
+Subject: =?iso-8859-1?Q?All_you_can_enjoy_from_=A3276_with_our_All_Inclusive_sale?=
+Date: Tue, 13 Jan 2015 13:53:29 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-LYRIS-Audit-Types: DELIVERABILITY
+X-Association-Token: 2cb8cfbce9ac39e2790666983ea6bafe-1883939
+X-LYRIS-Piper-Seed-IDs: 42MWCwB!jMb5 
+X-CompanyName: Lyris:CreatorMail Ltd
+X-Actual-Recipient-Address: di-philmanion@fs.net
+X-Send-Reports-To: toby@creatormail.co.uk
+List-Unsubscribe: <mailto:leave-1883939-51087571.9678f9e146b1b87b317f6e896a472f53@firstchoice.email-domain.com>
+Message-ID: <LYRIS-51087571-1883939-2015.01.13-13.53.35--di-philmanion#fs.net@firstchoice.email-domain.com>
+CM-Message-ID: <LYRIS-51087571-1883939-2015.01.13-14.21.08--di-philmanion#fs.net@firstchoice.email-domain.com> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml">
+
+
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;"/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"/>
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<title>First Choice - The home of All Inclusive</title>
+<style type=3D"text/css">
+/* General styles and reset */
+
+body {
+	width: 100}
+.ReadMsgBody {
+	width: 100}
+.ExternalClass {
+	width: 100} /* Force Hotmail to display emails at full width and center content */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100}
+body {
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+} /* Prevent Webkit and Windows Mobile platforms from changing default font sizes. */
+body, p {
+	margin: 0;
+	padding: 0;
+}
+img {
+	line-height: 100	outline: none;
+	text-decoration: none;
+	display: block;
+}
+td, table td {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+.footer a, .footer a:active, .footer a:visited {
+	font-family: 'proxima', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: underline;
+}
+.appleLinks a {
+	color: #000000 !important;
+	text-decoration: none;
+}
+.appleLinksWhite a {
+	color: #ffffff !important;
+	text-decoration: none;
+}
+
+/* Media queries begin here */
+@media screen {
+/* FONT IMPORTS */
+
+  
+  /* proxima type */
+@font-face {
+	font-family: proxima;
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/proxima-reg.eot');
+	src: url('http://cslb.creatormail.co.uk/sites/tui/fonts/proxima-reg.eot=3F#iefix') format('embedded-opentype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/proxima-reg.woff') format('woff'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/proxima-reg.svg#webfont') format('svg'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/ProximaNovaSoft-Regular.ttf') format('truetype'), url('http://cslb.creatormail.co.uk/sites/tui/fonts/ProximaNovaSoft-Regular.otf') format('otf');
+	font-weight: normal;
+	font-style: normal;
+}
+/* FONT IMPORTS */
+}
+
+@media only screen and (max-width: 480px) {
+table[class=3D"full-width"] {
+	width: 100}
+td[class=3D"full-width"] {
+	width: 100	display: block !important;
+}
+table[class=3D"hide"], img[class=3D"hide"], td[class=3D"hide"], tr[class=3D"hide"] {
+	display: none !important;
+	width: 0px !important;
+	height: 0px !important;
+	overflow: hidden !important;
+	visibility: hidden !important;
+}
+*[class*=3D"mobile-show"], *[class*=3D"mobile-show"] * {
+	display: inline-block!important;
+	visibility: visible!important;
+	height: auto!important;
+	width: auto!important;
+	max-height: none!important;
+	min-height: none!important;
+	max-width: none!important;
+	min-width: none!important;
+}
+/* Global text adjustments */
+
+.fontsizeXXL[class=3D"fontsizeXXL"] {
+	font-size: 32px !important;
+	line-height: 120}
+.fontsizeXL[class=3D"fontsizeXL"] {
+	font-size: 28px !important;
+	line-height: 120}
+.fontsizeL[class=3D"fontsizeL"] {
+	font-size: 24px !important;
+	line-height: 120}
+.fontsizeM[class=3D"fontsizeM"] {
+	font-size: 20px !important;
+	line-height: 120}
+.fontsizeA[class=3D"fontsizeA"] {
+	font-size: 18px !important;
+}
+.fontsizeB[class=3D"fontsizeB"] {
+	font-size: 16px !important;
+}
+.fontsizeC[class=3D"fontsizeC"] {
+	font-size: 13px !important;
+}
+.fontsizeD[class=3D"fontsizeD"] {
+	font-size: 12px !important;
+}
+.text-left[class=3D"text-left"] {
+	text-align: left !important;
+}
+.text-right[class=3D"text-right"] {
+	text-align: right !important;
+}
+/* Generic box model */
+
+.nobgcolor[class=3D"nobgcolor"] {
+	background: none !important;
+	padding: 0px !important;
+}
+.nopadbtm[class=3D"nopadbtm"] {
+	padding: 0px !important;
+}
+.padtop[class=3D"padtop"] {
+	padding-top: 15px !important;
+}
+.padbtm[class=3D"padbtm"] {
+	padding-bottom: 15px !important;
+}
+[class=3D"padleft"] {
+	padding-left: 5px !important;
+}
+[class=3D"padright"] {
+	padding-right: 5px !important;
+}
+.heightshrink[class=3D"heightshrink"] {
+	height: 30px !important;
+}
+.img-shift[class=3D"img-shift"] {
+	background-position: -320px 0px !important;
+}
+.width90[class=3D"width90"] {
+	width: 90}
+.width93[class=3D"width93"] {
+	width: 93	display: block !important;
+ height:: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+*[class*=3D"width95"] {
+	width: 95	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+/* Generic floating of sections */
+[class=3Dwidth45] {
+	width: 45	display: block !important;
+}
+[class=3Doffers-width] {
+	display: block !important;
+	width: 280px !important;
+ height:: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+[class=3Dmobile-float] {
+	display: block !important;
+	width: 100}
+[class=3Dmobile-float-nopad] {
+	display: block !important;
+	width: 100	height: auto !important;
+	padding: 0px !important;
+}
+[class=3Dmobile-float-pad] {
+	display: block !important;
+	width: 100	height: auto !important;
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+[class=3Dmobile-float-top] {
+	display: block !important;
+	width: 100	padding-top: 10px !important;
+}
+[class=3Dmobile-float-ht] {
+	display: block !important;
+	padding-bottom: 10px !important;
+	width: 100}
+[class=3Dmobile-float-noborder] {
+	display: block !important;
+	padding-top: 10px !important;
+	width: 100	border-right: none !important;
+}
+[class=3Dmobile-float-topgap] {
+	display: block !important;
+	width: 100	padding-top: 90px;
+}
+[class=3Dmobile-3col-article] {
+	display: block !important;
+	width: 100	border-right: none !important;
+	padding-top: 10px !important;
+	padding-bottom: 0px !important;
+}
+/* Specific template adjustments */
+
+.mobcontainer[class=3D"mobcontainer"] {
+	width: 100	position: relative;
+}
+.mobheader[class=3D"mobheader"] {
+	background-image: url(http://cslb.creatormail.co.uk/sites/tui/fc/FCWeekly_new2012/mobheader.gif) !important;
+	background-repeat: no-repeat !important;
+	background-size: 185px 43px !important;
+	background-position: 10px 15px !important;
+	width: 720px;
+ !important;
+	height: 63px !important;
+	padding-bottom: 10px !important;
+}
+.subheader-mobile[class=3D"subheader-mobile"] {
+	font-size: 15px !important;
+	text-align: center !important;
+}
+.mobTeaseradjH[class=3D"mobTeaseradjH"] {
+	height: auto !important;
+	padding-top: 10px !important;
+}
+.mobTeaseradjW[class=3D"mobTeaseradjW"] {
+	width: 95}
+.mobTeaserimg[class=3D"mobTeaserimg"] {
+	width: 100	height: auto !important;
+}
+.dotdTop[class=3D"dotdTop"] {
+	padding-top: 15px !important;
+}
+.dotdWidthA[class=3D"dotdWidthA"] {
+	width: 50}
+.dotdWidthB[class=3D"dotdWidthB"] {
+	width: 100}
+.dotdTitle[class=3D"dotdTitle"] {
+	height: 40px !important;
+	font-size: 18px !important;
+}
+.dotdCopy[class=3D"dotdCopy"] {
+	height: 60px !important;
+	font-size: 14px !important;
+}
+.dotdPriceH[class=3D"dotdPriceH"] {
+	height: 50px !important;
+}
+.dotdPriceW[class=3D"dotdPriceW"] {
+	width: 100}
+.dotdPriceSize[class=3D"dotdPriceSize"] {
+	font-size: 24px !important;
+}
+.widthOfferrow[class=3D"widthOfferrow"] {
+	width: 95}
+[class=3Dofferrow-ht] {
+	height: 70px !important;
+}
+[class=3Doffercell-ht] {
+	height: 45px !important;
+}
+[class=3Dresizebnr] {
+	height: auto !important;
+	width: 100}
+[class=3Dresizebnr2] {
+	height: 200px !important;
+	width: 100}
+/* Media queries end here */
+/* emp mobile */
+.full-width[class=3D"full-width"] {
+	width: 100}
+table[class=3D"full-width"] {
+	width: 100}
+td[class=3D"full-width"] {
+	width: 100	display: block !important;
+}
+tr[class=3D"navhidden"] {
+	width: 100	display: block !important;
+}
+div[class=3D"nav"] {
+	margin: 0 0 1px 0;
+	background: #119CA6;
+	width: 100	display: block !important;
+}
+div[class=3D"navfooter"] {
+	margin: 0 0 10px 0;
+	background: #119ca6;
+	border-top: solid 5px #66CCCC;
+	width: 100}
+div[class=3D"navLeft"] {
+	margin: 0 0 0 10px !important;
+	float: left !important;
+	width: 220px !important;
+	font-size: 16px !important;
+	line-height: 18px !important;
+	font-family: 'proxima', Arial, Helvetica, sans-serif !important;
+	height: 50px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navTitle"] {
+	margin: 0 0 0 10px !important;
+	float: left !important;
+	width: 310px !important;
+	font-size: 16px !important;
+	line-height: 18px !important;
+	font-family: 'proxima', Arial, Helvetica, sans-serif !important;
+	height: 40px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navRight"] {
+	margin: 0 10px 0 0 !important;
+	float: right !important;
+	width: 75px !important;
+	height: 50px !important;
+	display: table !important;
+ #position: relative !important;
+	overflow: hidden !important;
+	color: #FFFFFF !important;
+}
+div[class=3D"navAlign"] {
+ #position: absolute !important;
+ #top: 50	display: table-cell !important;
+	vertical-align: middle !important;
+}
+div[class=3D"navcontent"] {
+ #position: relative !important;
+ #top: -50	font-size: 16px !important;
+}
+div a[class=3D"navcontent"] {
+	font-size: 16px !important;
+	color: #FFD400 !important;
+}
+.mobBtn[class=3D"mobBtn"] {
+	background: #d22481 !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e5007f), to(#9a0067)) !important;
+	border-radius: 15px !important;
+	-webkit-border-radius: 15px !important;
+	width: 75px !important;
+	height: 30px !important;
+	display: inline-block !important;
+	color: #ffffff !important;
+	font-family: arial !important;
+	font-size: 15px !important;
+	text-align: center !important;
+	line-height: 30px !important;
+	text-decoration: none !important;
+	text-shadow: 1px 1px 0px rgba(0,0,0,.5) !important;
+}
+[class=3Dpadderleft] {
+	padding-left: 10px;
+}
+/* main banner image switch */
+.mobMainbnr[class=3D"mobMainbnr"] {
+	background: url(http://cslb.creatormail.co.uk/sites/tui/fc/FC150112/main3.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+.promomob[class=3D"promomob"] {
+	background: url(http://cslb.creatormail.co.uk/sites/tui/fc/FC140815/mob2.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: auto !important;
+	width: 100	height: auto !important;
+}
+*[class*=3D"mobile-background-swap"] {
+	background-position: 0 0 !important;
+	background: url(http://cslb.creatormail.co.uk/sites/tui/fc/FC140722_adhoc/mobbg.jpg) top left !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	width: 100	height: auto !important;
+}
+[class=3Dbox-width] {
+	display: block !important;
+	width: 135px !important;
+ height:: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+}
+/* Media queries end here */
+</style>
+<!--[if mso]>
+<style> body,table tr,table td,a, span,table.MsoNormalTable {  font-family:Arial, Helvetica, sans-serif !important;  }</style>
+<!--<![endif]-->
+</head>
+
+<body>
+
+<!--[if gte mso 9]>
+<v:background fill=3D"t">
+   <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/images/NewWeekly2012/bg_grad.jpg" />
+</v:background>
+<![endif]--> 
+
+<!-- Start wrapper table -->
+<table width=3D"100  <tr>
+    <td background=3D"http://cslb.creatormail.co.uk/sites/tui/fc/images/NewWeekly2012/bg_grad.jpg" style=3D"background-repeat:repeat-x; padding:10px 0;" class=3D"nobgcolor"><!--**************************************** START MAIN CONTENT ****************************************-->
+      
+      <table class=3D"mobcontainer" width=3D"620" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+        <tr>
+          <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:13px; color:#6c6c6c; padding-bottom:10px" align=3D"center"> Email not looking right=3F&nbsp; <a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/4071/1/" style=3D"color:#6c6c6c; text-decoration:underline;">Click here</a> to view it in your browser</td>
+        </tr>
+        
+        <!--HEADER+NAV-->
+        <tr>
+          <td><table width=3D"100              <tr>
+                <td class=3D"mobheader" align=3D"left" bgcolor=3D"#119ca6"><table class=3D"hide" width=3D"95                    
+                    <!-- FC HEADER START --> 
+                    
+                    
+<tr><td bgcolor=3D"#119ca6" class=3D"mobheader" align=3D"left"><table width=3D"95<td width=3D"439" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#ffffff;" valign=3D"middle" align=3D"right"></td></tr></table></td></tr> 
+                    
+                    <!-- FC HEADER END -->
+                    
+                  </table></td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#2a8b96" background=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/nav-fc-bg.jpg" width=3D"620" style=3D"background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/nav-fc-bg.jpg); background-repeat:no-repeat;" valign=3D"top" height=3D"40" align=3D"center"><!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:620px;height:40px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/nav-fc-bg.jpg" color=3D"#119ca6" />
+    <v:textbox inset=3D"0,0,0,0">
+<![endif]-->
+                  
+                  <table width=3D"98                    <tr>
+                      <td style=3D"height:8px;" height=3D"8"></td>
+                    </tr>
+                    <tr>
+                      <td><table width=3D"100                          <tr>
+                            <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign=3D"middle" align=3D"center"><a style=3D"color:#fffffe; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/125163963/2/=3Fa8aed3dd=3DNTEwODc1NzE                            
+                            <!-- ********** dot divide ********** -->
+                            <td valign=3D"middle"><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/fc-dot_divide.png" height=3D"24"></td>
+                            <!-- ********** dot divide ********** -->
+                            <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign=3D"middle" align=3D"center"><a style=3D"color:#fffffe; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/124171672/3/=3Fa8aed3dd=3DNTEwODc1NzE                            
+                            <!-- ********** dot divide ********** -->
+                            <td valign=3D"middle"><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/fc-dot_divide.png" height=3D"24"></td>
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign=3D"middle" align=3D"center"><a style=3D"color:#fffffe; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/124156481/4/=3Fa8aed3dd=3DNTEwODc1NzE                            
+                            <!-- ********** dot divide ********** -->
+                            <td class=3D"hide" valign=3D"middle"><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/fc-dot_divide.png" height=3D"24"></td>
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td class=3D"hide" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign=3D"middle" align=3D"center"><a style=3D"color:#fffffe; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/111655322/5/=3Fa8aed3dd=3DNTEwODc1NzE                            <!-- ********** dot divide ********** -->
+                            <td class=3D"hide" valign=3D"middle"><img width=3D"3" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/master-items/nav2013/fc-dot_divide.png" height=3D"24"></td>
+                            <!-- ********** dot divide ********** -->
+                            
+                            <td class=3D"hide" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#fffffe; text-transform:uppercase; padding-left:10px; padding-right:10px;" valign=3D"middle" align=3D"center"><a style=3D"color:#fffffe; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/113092596/6/=3Fa8aed3dd=3DNTEwODc1NzE                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                  
+                  <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+<![endif]--></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!--END HEADER+NAV-->
+        <tr>
+          <td><img width=3D"10" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"10" border=3D"0" /></td>
+        </tr>
+        <!--MAIN BANNER-->
+        <tr>
+          <td><img width=3D"10" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"10" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td class=3D"mobMainbnr" bgcolor=3D"#4db5bc" background=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC150112/main3.jpg" style=3D"background-image: url(http://cslb.creatormail.co.uk/sites/tui/fc/FC150112/main3.jpg); background-repeat:no-repeat;"><!--[if gte mso 9]>
+
+
+
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:620px;height:540px;">
+
+
+
+<v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC150112/main3.jpg" color=3D"#119ca6" />
+
+
+
+<v:textbox inset=3D"0,0,0,0">
+
+
+
+<![endif]-->
+            
+            <table class=3D"full-width" width=3D"620" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td align=3D"center"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                    <tbody>
+                      <tr>
+                        <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" alt=3D"" border=3D"0" style=3D"display:block" width=3D"20" height=3D"20"></td>
+                      </tr>
+                      <tr>
+                        <td width=3D"218"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044047/7/=3Fa8aed3dd=3DNTEwODc1NzE                      </tr>
+                      <tr>
+                        <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" alt=3D"" border=3D"0" style=3D"display:block" width=3D"20" height=3D"20"></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+              </tr>
+              <tr>
+                <td style=3D"font-family:'proxima', 'Lucida Sans', 'Lucida Grande', sans-serif; font-size:20px; color:#333; padding-top:10px; padding-left:15px; padding-right:15px; padding-bottom:0px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044047/8/=3Fa8aed3dd=3DNTEwODc1NzE              </tr>
+              <tr>
+                <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" alt=3D"" border=3D"0" style=3D"display:block" width=3D"10" height=3D"10"></td>
+              </tr>
+              <tr>
+                <td><table width=3D"100                    <tr>
+                      <td align=3D"center" class=3D"mobile-float"><table width=3D"100                          <tr>
+                            <td><table class=3D"full-width" width=3D"155" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td style=3D"font-family:'proxima', 'Lucida Sans', 'Lucida Grande', sans-serif; font-size:18px; color:#333; padding-bottom:5px; padding-top:8px; padding-left:15px; padding-right:15px; line-height:28px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044047/9/=3Fa8aed3dd=3DNTEwODc1NzE                                    <span style=3D"font-size:14px;">from </span><span style=3D"color:#333;"><strong>&pound;322</strong>*</span></a></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:12px; padding-left:15px; padding-right:15px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044048/10/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                                <tr>
+                                  <td align=3D"center" style=3D"padding-left:15px; padding-right:15px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044048/11/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                              </table></td>
+                            <td><table class=3D"full-width" width=3D"155" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td style=3D"font-family:'proxima', 'Lucida Sans', 'Lucida Grande', sans-serif; font-size:18px; color:#333; padding-bottom:5px; padding-top:8px; padding-left:15px; padding-right:15px; line-height:28px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044049/12/=3Fa8aed3dd=3DNTEwODc1NzE                                    <span style=3D"font-size:14px;">from </span><strong>&pound;276</strong>*</a></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:12px; padding-left:15px; padding-right:15px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347170/13/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                                <tr>
+                                  <td align=3D"center" style=3D"padding-left:15px; padding-right:15px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044050/14/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr class=3D"hide">
+                            <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" alt=3D"" border=3D"0" style=3D"display:block" width=3D"10" height=3D"25"></td>
+                          </tr>
+                        </table></td>
+                      <td align=3D"center" class=3D"mobile-float"><table width=3D"100                          <tr>
+                            <td><table class=3D"full-width" width=3D"155" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td style=3D"font-family:'proxima', 'Lucida Sans', 'Lucida Grande', sans-serif; font-size:18px; color:#333; padding-bottom:5px; padding-top:8px; padding-left:15px; padding-right:15px; line-height:28px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044049/15/=3Fa8aed3dd=3DNTEwODc1NzE                                    <span style=3D"font-size:14px;">from </span><strong>&pound;584</strong>*</a></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:12px; padding-left:15px; padding-right:15px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347237/16/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                                <tr>
+                                  <td align=3D"center" style=3D"padding-left:15px; padding-right:15px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044051/17/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                              </table></td>
+                            <td><table class=3D"full-width" width=3D"155" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td style=3D"font-family:'proxima', 'Lucida Sans', 'Lucida Grande', sans-serif; font-size:18px; color:#333; padding-bottom:5px; padding-top:8px; padding-left:15px; padding-right:15px; line-height:28px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044052/18/=3Fa8aed3dd=3DNTEwODc1NzE                                    <span style=3D"font-size:14px;">from </span><strong>&pound;720</strong>*</a></td>
+                                </tr>
+                                <tr>
+                                  <td style=3D"padding-bottom:12px; padding-left:15px; padding-right:15px;" align=3D"center"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347172/19/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                                <tr>
+                                  <td align=3D"center" style=3D"padding-left:15px; padding-right:15px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044053/20/=3Fa8aed3dd=3DNTEwODc1NzE                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" alt=3D"" border=3D"0" style=3D"display:block" width=3D"10" height=3D"25"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if gte mso 9]>
+
+    </v:textbox>
+
+  </v:rect>
+
+<![endif]--></td>
+        </tr>
+        <tr>
+          <td valign=3D"top" style=3D"padding-bottom:10px; font-size:0px; line-height:0px;" align=3D"center"><img width=3D"620" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140829/div-shad.png" style=3D"display:block" alt=3D"" height=3D"15" border=3D"0" class=3D"resizebnr" /></td>
+        </tr>
+        <!--END MAIN BANNER--> 
+        <!-- Section title -->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px; padding-top:0px"><table width=3D"100              <tr>
+                <td style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:22px; font-weight: normal; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #45b2ba; padding-bottom:7px;" class=3D"subheader-mobile">IT'S GETTING COLD&hellip; MAKE IT A LAST MINUTE DEAL </td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Section title --> 
+        <!--SUB BANNER-->
+        <tr>
+          <td width=3D"100  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:620px;height:222px;">
+    <v:fill type=3D"tile" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC150112/subbanner3.jpg" color=3D"#119ca6" />
+    <v:textbox inset=3D"0,0,0,0">
+<![endif]-->
+            
+            <table width=3D"100              <tr>
+                <td style=3D"padding-top:20px;" valign=3D"top" align=3D"center"><table width=3D"93                    <tr>
+                      <td width=3D"280" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; padding-bottom:20px;" valign=3D"top" class=3D"mobile-float"><table width=3D"100                          <tr>
+                            <td><table class=3D"offers-width" width=3D"100                                <tr>
+                                  <td align=3D"center"><table width=3D"100                                      <tr>
+                                        <td align=3D"left" valign=3D"middle" class=3D"fontsizeM" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; color:#333333; padding-bottom:15px;"></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td><table class=3D"offers-width" cellpadding=3D"0" cellspacing=3D"0" width=3D"100                                      <tr>
+                                        <td class=3D"mobile-float" align=3D"left" valign=3D"top" width=3D"52                                            <tr>
+                                              <td><table cellpadding=3D"0" cellspacing=3D"0" width=3D"277">
+                                                  <tr>
+                                                    <td style=3D"padding-bottom:15px" align=3D"left" width=3D"136"><table class=3D"rounded-corners" width=3D"130" style=3D"-webkit-border-top-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-topright: 10px; -moz-border-radius-bottomleft: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; color:#333333; padding-left:14px; padding-bottom:5px; padding-top:10px;"><a style=3D"color:#333333; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060288/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                        </tr>
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"padding-bottom:10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                              <tr>
+                                                                <td><img width=3D"14" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"1" border=3D"0" /></td>
+                                                                <td align=3D"left" valign=3D"bottom" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:28px; line-height:23px; font-weight:normal; color:#333333;"><span style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#333333;" valign=3D"bottom">FROM</span><br />
+                                                                  <a style=3D"color:#d22481; text-decoration:none;"href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060288/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                                <td width=3D"14" align=3D"left" valign=3D"bottom" style=3D"padding-bottom:5px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060288/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                    <td style=3D"padding-bottom:15px" align=3D"right" width=3D"137"><table class=3D"rounded-corners" width=3D"130" style=3D"-webkit-border-top-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-topright: 10px; -moz-border-radius-bottomleft: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; color:#333333; padding-left:14px; padding-bottom:5px; padding-top:10px;"><a style=3D"color:#333333; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060289/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                        </tr>
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"padding-bottom:10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                              <tr>
+                                                                <td><img width=3D"14" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"1" border=3D"0" /></td>
+                                                                <td align=3D"left" valign=3D"bottom" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:28px; line-height:23px; font-weight:normal; color:#333333;"><span style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#333333;" valign=3D"bottom">FROM</span><br />
+                                                                  <a style=3D"color:#d22481; text-decoration:none;"href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060289/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                                <td width=3D"14" align=3D"left" valign=3D"bottom" style=3D"padding-bottom:5px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060289/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                        <td class=3D"mobile-float" align=3D"left" width=3D"48                                            <tr>
+                                              <td><table cellpadding=3D"0" cellspacing=3D"0" width=3D"277">
+                                                  <tr>
+                                                    <td style=3D"padding-bottom:15px" align=3D"left" width=3D"136"><table class=3D"rounded-corners" width=3D"130" style=3D"-webkit-border-top-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-topright: 10px; -moz-border-radius-bottomleft: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; color:#333333; padding-left:14px; padding-bottom:5px; padding-top:10px;"><a style=3D"color:#333333; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060290/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                        </tr>
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"padding-bottom:10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                              <tr>
+                                                                <td><img width=3D"14" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"1" border=3D"0" /></td>
+                                                                <td align=3D"left" valign=3D"bottom" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:28px; line-height:23px; font-weight:normal; color:#333333;"><span style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#333333;" valign=3D"bottom">FROM</span><br />
+                                                                  <a style=3D"color:#d22481; text-decoration:none;"href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060290/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                                <td width=3D"14" align=3D"left" valign=3D"bottom" style=3D"padding-bottom:5px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044056/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                    <td style=3D"padding-bottom:15px" align=3D"right" width=3D"137"><table class=3D"rounded-corners" width=3D"130" style=3D"-webkit-border-top-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-topright: 10px; -moz-border-radius-bottomleft: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:18px; color:#333333; padding-left:14px; padding-bottom:5px; padding-top:10px;"><a style=3D"color:#333333; text-decoration:none" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060291/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                        </tr>
+                                                        <tr>
+                                                          <td align=3D"left" valign=3D"middle" style=3D"padding-bottom:10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                              <tr>
+                                                                <td><img width=3D"14" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"1" border=3D"0" /></td>
+                                                                <td align=3D"left" valign=3D"bottom" style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:28px; line-height:23px; font-weight:normal; color:#333333;"><span style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#333333;" valign=3D"bottom">FROM</span><br />
+                                                                  <a style=3D"color:#d22481; text-decoration:none;"href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129060291/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                                <td width=3D"14" align=3D"left" valign=3D"bottom" style=3D"padding-bottom:5px;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044057/524/=3Fa8aed3dd=3DNTEwODc1NzE                                                              </tr>
+                                                            </table></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td align=3D"right"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044058/21/=3Fa8aed3dd=3DNTEwODc1NzE                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+<![endif]--></td>
+        </tr>
+        <tr>
+          <td><img class=3D"resizebnr" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC131226-boxingday/div-shad.gif" width=3D"620" height=3D"15" alt=3D"" border=3D"0" style=3D"display:block"/></td>
+        </tr>
+        <tr>
+          <td><img width=3D"10" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style=3D"display:block" height=3D"10" border=3D"0" /></td>
+        </tr>
+        <!--END SUB BANNER--> 
+        
+        <!-- Section title -->
+        <tr class=3D"hide">
+          <td style=3D"padding-bottom:10px; padding-top:0px"><table width=3D"100              <tr>
+                <td class=3D"subheader-mob" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20px; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #119ca6; padding-bottom:7px;">Check out these great offers</td>
+              </tr>
+            </table></td>
+        </tr>
+        <!-- Section title -->
+        
+        <tr>
+          <td bgcolor=3D"#f6eee3" align=3D"center" valign=3D"top"><table width=3D"95              <tr>
+                <td class=3D"mobile-float-noborder" style=3D"border-right:1px solid #fff;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347173/22/=3Fa8aed3dd=3DNTEwODc1NzE                <td class=3D"mobile-float-noborder"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347174/23/=3Fa8aed3dd=3DNTEwODc1NzE                <td class=3D"mobile-float-noborder" style=3D"border-left:1px solid #fff;"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128347175/24/=3Fa8aed3dd=3DNTEwODc1NzE              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td style=3D"padding-bottom:10px;"><img class=3D"resizebnr" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC131226-boxingday/div-shad.gif" width=3D"620" height=3D"15" alt=3D"" border=3D"0" style=3D"display:block"/></td>
+        </tr>
+        <!--     BANNER END  --> 
+        
+        <!-- Section title -->
+        
+        <tr>
+          <td style=3D"padding-bottom:10px;"><table width=3D"100              <tr>
+                <td style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:22px; font-weight: normal; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #45b2ba; padding-bottom:7px;" class=3D"subheader-mobile">OUR TOP HOLIDAY COLLECTIONS</td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- Section title --> 
+        
+        <!-- ********** START 4 COLUMN TEASERS ********** -->
+        <tr>
+          <td bgcolor=3D"#454f55" align=3D"center" valign=3D"top"><table width=3D"100              <tr>
+                <td class=3D"mobile-float-noborder"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/126060294/25/=3Fa8aed3dd=3DNTEwODc1NzE                <td bgcolor=3D"#FFFFFF" width=3D"1" class=3D"hide"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/prp-phase2/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block" /></td>
+                <td class=3D"mobile-float"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/125163976/26/=3Fa8aed3dd=3DNTEwODc1NzE                <td bgcolor=3D"#FFFFFF" width=3D"1"><img src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/prp-phase2/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block" /></td>
+                <td class=3D"hide"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/87159268/27/=3Fa8aed3dd=3DNTEwODc1NzE              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td><img class=3D"resizebnr" src=3D"http://cslb.creatormail.co.uk/sites/tui/fc/FC131226-boxingday/div-shad.gif" width=3D"620" height=3D"15" alt=3D"" border=3D"0" style=3D"display:block"/></td>
+        </tr>
+        <!-- ********** END 4 COLUMN TEASERS ********** --> 
+        
+        <!--EMP-->
+        
+        <tr>
+          <td><table width=3D"100              <!-- Section title -->
+              
+              <tr class=3D"hide">
+                <td style=3D"padding-bottom:10px; padding-top:10px"><table width=3D"100                    <tr>
+                      <td style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:22px; font-weight: normal; line-height:20px; color:#333333; text-transform:uppercase; border-bottom:2px solid #45b2ba; padding-bottom:7px;" class=3D"subheader-mobile"> NOT FOUND WHAT YOU'RE LOOKING FOR=3F </td>
+                    </tr>
+                  </table></td>
+              </tr>
+              
+              <!-- Section title -->
+              <tr>
+                <td style=3D"padding-top:0px; padding-bottom:15px;" valign=3D"top" align=3D"center"><table width=3D"100                    <tr>
+                      <td valign=3D"top" class=3D"mobile-float-nopad" align=3D"center"><table width=3D"100                          <tr>
+                            <td valign=3D"top" align=3D"left"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044482/28/=3Fa8aed3dd=3DNTEwODc1NzE                            <td valign=3D"top" align=3D"left"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044483/29/=3Fa8aed3dd=3DNTEwODc1NzE                          </tr>
+                        </table></td>
+                      <td valign=3D"top" class=3D"mobile-float-nopad" align=3D"center"><table width=3D"100                          <tr>
+                            <td valign=3D"top" align=3D"left"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/16277293/30/=3Fa8aed3dd=3DNTEwODc1NzE                            <td valign=3D"top" align=3D"left"><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/129044484/31/=3Fa8aed3dd=3DNTEwODc1NzE                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!--END EMP--> 
+        
+        <!--SOCIAL-->
+        
+        <tr class=3D"hide">
+          <td style=3D"padding-bottom:15px"><table width=3D"100              <tr>
+                <td><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/12201/32/=3Fa8aed3dd=3DNTEwODc1NzE                <td><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/12202/33/=3Fa8aed3dd=3DNTEwODc1NzE                <td><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/12203/34/=3Fa8aed3dd=3DNTEwODc1NzE                <td><a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/12204/35/=3Fa8aed3dd=3DNTEwODc1NzE              </tr>
+            </table></td>
+        </tr>
+        
+        <!--END SOCIAL--> 
+        
+        <!-- GENERIC FOOTER --> 
+        
+        <!-- END GENERIC FOOTER --> 
+        
+        <!-- ********** FC FOOTER ********** --> 
+        
+        
+<tr><td class=3D"hide"><table width=3D"100<td style=3D"font-family: 'proxima', Arial, Helvetica, sans-serif; font-size:13px; color:#ffffff;" align=3D"left"> Please use our <a href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/121798744/34/=3F0baf585e=3DNTEwODc1NzE<tr><td width=3D"15<tr><td width=3D"15 
+        
+        <!-- ********** END FOOTER ********** --> 
+        
+        <!-- Start terms and conditions -->
+        
+        <tr>
+          <td><table width=3D"95              <tr>
+                <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height: 14px; color:#666666; text-decoration:none; padding-top:5px" valign=3D"top" align=3D"left"><strong>Terms &amp; conditions</strong><br>
+                  <br/>
+                  *All prices quoted are correct as of 12th January 2015 at 6am. Advertised offers are subject to very limited availability. 
+                  
+                  Prices quoted are based on 2 people sharing, unless otherwise stated. Prices quoted are per person for the dates, accommodation, board basis, departure points and number of persons sharing specified only and cannot be combined with any other offer. Price includes accommodation, flights, taxes, estimated fuel charges and are per person, based on maximum occupancy and the lowest priced room available on the date of departure unless stated otherwise. 
+                  
+                  
+                  
+                  Offers apply to new web bookings only unless stated otherwise. Additional supplements and charges may apply to all bookings. 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  First Choice reserves the right to withdraw these offers without notice. Full booking terms and conditions apply, please click <a style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-decoration:underline" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/6859/36/=3Fa8aed3dd=3DNTEwODc1NzE                  <br>
+                  Additional supplements may apply. Not combinable with any other offer. We reserve the right to withdraw all offers without notice at any time. See <a style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-decoration:underline" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/6860/37/=3Fa8aed3dd=3DNTEwODc1NzE                  <br>
+                  All offers within this email exclude flight only, accommodation only, ski, tailor made flight+hotel bookings or Falcon holidays booked on <a style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-decoration:underline" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/6860/38/=3Fa8aed3dd=3DNTEwODc1NzE                  <br>
+                  <strong>*All Inclusive</strong> - all activities are subject to availability and may not be available at all hotels. All Inclusive hotel drinks may vary and will only apply to locally produced alcoholic drinks which excludes exports. Please check at the time of booking.<br/>
+                  <br/>
+                  <strong>Sale now on: </strong> Sale refers to the holidays featured in the First Choice blue cross sale brochure, which is available to <a style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-decoration:underline" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128861977/39/=3Fa8aed3dd=3DNTEwODc1NzE                  <strong>Free child places: </strong> subject to limited availability. Offer applies to new bookings only. Valid on selected First Choice holidays departing between 1st May 2015 =96 31st October 2015. Free kids places are available in selected hotels and apartments only. Only one free child's place is available in each hotel room or selected apartment type or villa where one child is sharing with two full fare paying adults, other children must pay the full brochure price. <br>
+                  <strong>Low deposits: </strong>Offer applies to new First Choice brochure package summer 2015 (1st May-31st October 2015) holiday bookings only and excludes accommodation-only and flight-only bookings. Low deposit amount on short, mid or long-haul destinations and cruises is &pound;150 per person or &pound;350 per family. The rest of the deposit will be due within eight weeks of booking your holiday. If you cancel your holiday you still have to pay the full deposit. Low deposit applies unless a booking is made within 12 weeks of departure, where full payment is required at the time of booking. <br>
+                  <strong>Save up to &pound;400 per couple </strong>-  applies to selected new package holiday bookings featured in the First Choice <a style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-decoration:underline" href=3D"http://email2.firstchoice.co.uk/t/1883939/51087571/128104075/40/=3Fa8aed3dd=3DNTEwODc1NzE                  <br>                  
+                  Summer Deals:<br/>
+                  <strong>Balearics from &pound;322</strong> - departs 6th May 2015 from London Luton to Menorca based on 2 sharing at the 
+                  Mestral and Llebeig Apartments for 7 nights.<br />
+                  <strong>Tunisia from &pound;276</strong> - departs 13th May 2015 from East Midlands to Tunisia based on 2 sharing at the Hotel El Mouradi Club Kantaoui for 7 nights.<br>
+                  <strong>Cape Verde from &pound;584</strong> - departs 14th May 2015 from London Gatwick to Cape Verde, Sal based on 2 sharing at the ClubHotel Riu Funana for 7 nights.<br>
+                  <strong>Caribbean from &pound;720</strong> - departs 14th May 2015 from Manchester to Dominican Republic, Punta Cana based on 2 sharing at 
+                  ClubHotel Riu Bambu for 7 nights.<br>
+                  <br/>
+                  Last minute deals:<br/>
+                  <strong>Canaries from &pound;300</strong> - departs 28th January 2015 from Birmingham to Fuerteventura based on 2 sharing at the 
+                  Hotel Costa Caleta for 7 nights.<br>
+                  <strong>Egypt from &pound;304</strong> - departs 23rd January 2015 from Birmingham to Egypt, Red Sea and Sinai based on 2 sharing at the   
+                  Jungle Aqua Park Hotel for 7 nights.<br>
+                  <strong>Malta from &pound;268</strong> - departs 20th January 2015 from Manchester to Malta based on 2 sharing at the Sea Bank Resort Spa for 7 nights.<br>
+                  <strong>Mexico from &pound;708</strong> - departs 29th January 2015 from Manchester to Mexico - Pacific Coast based on 2 sharing at 
+                  Royal Decameron Complex for 7 nights.<br></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <!-- End terms and conditions -->
+      </table></td>
+  </tr>
+</table>
+
+<!--**************************************** END MAIN CONTENT ****************************************--> 
+<!-- end wrapper table -->
+
+<IMG ALT=3D"" SRC=3D"http://email2.firstchoice.co.uk/db/1883939/51087571/1.gif" WIDTH=3D1 HEIGHT=3D1><img src=3D'http://t3e.firstchoice.co.uk/zag2.gif=3FLog=3D1&cmid=3D51087571&ecamp=3Dw1883939' border=3D'0' width=3D'1' height=3D'1' /><img src=3D'http://access2.creatormail.co.uk/TUI_DeviceDetector/DeviceDetector.ashx=3F&l=3Dfirstchoice_marketing&m=3D51087571&o=3D1883939&ewid=3D&c=3D2' width=3D'1' height=3D'1' />
+<table cellpadding=3D"5" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"100</font></td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"5" width=3D"100<tbody>
+<tr>
+<td valign=3D"top" width=3D"80<br>
+<br>
+In order to tailor our communications to suit you, we look at your previous interactions with our brand including your activities on our websites, to personalise your emails. If you would prefer to receive un-personalised communications from us instead that&acute;s fine, but please <a href=3D"http://access2.creatormail.co.uk/tuiLyris11/TUI.ClientUI/FirstChoice/UpdateDetails/webopt.aspx=3F&p=3Ddi-philmanion@fs.net&v=3De0b372dd5609649540333169bd3aec1f&o=3D1883939&l=3Dfirstchoice_marketing&b=3Dfirstchoice">click here</a> to let us know.
+<br>
+<br />
+To unsubscribe from receiving emails from First Choice please <a href=3D"http://access2.creatormail.co.uk/tuiLyris11/tui.clientui/common/unsub.aspx=3F&p=3Ddi-philmanion@fs.net&v=3De0b372dd5609649540333169bd3aec1f&o=3D1883939&l=3Dfirstchoice_marketing&b=3Dfirstchoice">click here</a>.<br />
+<br />
+Please also refer to the TUI UK Ltd Privacy Policy by <a href=3D"http://www.firstchoice.co.uk/our-policies/privacy-policy/">clicking here</a>.<br />
+<br />
+We will hold your details in accordance with our <a href=3D"http://www.firstchoice.co.uk/info/siteinfo/legal.html">Privacy Policy</a> and may contact you by telephone or mail with information on the products/services offered by First Choice.  If you do not want your information to be used by First Choice in this way or if you would prefer not to be contacted by First Choice please either call 0845 757 3404 leaving your name and address details or write to First Choice, FREEPOST RSGJ-YCHS-LRKG, TUI UK, ASHFORD, TN24 0GA. <br />
+<br />
+First Choice is a trading name of TUI UK Ltd, a member of the TUI Travel PLC Group of Companies, registered in England and Wales under number 2830117 and whose registered office is at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex, RH10 9QL. 
+</font></td>
+<td valign=3D"top" width=3D"20<img width=3D"55" src=3D"http://cslb.creatormail.co.uk/sites/tui/thomson/2008general/icons/logo_atol.gif" height=3D"55"  border=3D"0" /></a> </td>
+</tr>
+</tbody>
+</table>
+</BODY>
+</html>
+
