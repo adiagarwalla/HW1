@@ -12,8 +12,8 @@ import time
 from sklearn import naive_bayes
 from sklearn.naive_bayes import GaussianNB
 
-numofemails = 10000
 
+numofemails = 10000
 # reading a bag of words file back into python. The number and order
 # of emails should be the same as in the *samples_class* file.
 def read_bagofwords_dat(myfile):
@@ -22,23 +22,28 @@ def read_bagofwords_dat(myfile):
     return bagofwords
 
 def main():
-    file_dat = sys.argv[1]
-    bagofwords = read_bagofwords_dat(file_dat)
-    
-    target = []
-    # 0 = not_spam, 1 = spam 
+    file_train = "../train_emails_bag_of_words_200.dat"
+    file_test = "../test_emails_bag_of_words_0.dat"
+    train = read_bagofwords_dat(file_train)
+    test = read_bagofwords_dat(file_test)
+
+    train_target = []
+    test_target = []
     for i in range(0, numofemails):
         if i < numofemails/2:
-            target.append(0)
+            train_target.append("spam")
+            test_target.append("spam")
         else:
-            target.append(1)
+            train_target.append("notspam")
+            test_target.append("notspam")
     
     gnb = GaussianNB()
-    model = gnb.fit(bagofwords, target)
+    model = gnb.fit(train, train_target)
     print "Finished training\n"
-    y_pred = model.predict(bagofwords)
-    
+    y_pred = model.predict(test)
+
+        
     print("Number of mislabeled points out of a total %d points : %d" 
-          % (bagofwords.shape[0],(target != y_pred).sum()))
+          % (numofemails,(test_target != y_pred).sum()))
 
 main()
