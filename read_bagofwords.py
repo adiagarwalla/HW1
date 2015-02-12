@@ -50,6 +50,6 @@ def main():
 
         
     print("Number of mislabeled test points out of a total %d points : %d" 
-          % (num_test,(test_target != y_pred).sum()))
+          % (len(y_pred),(test_target != y_pred).sum()))
 
 main()
