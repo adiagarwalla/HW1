@@ -11,6 +11,8 @@ import codecs
 import time
 from sklearn import naive_bayes
 from sklearn.naive_bayes import GaussianNB
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import BernoulliNB
 
 
 num_train = 45000
@@ -45,14 +47,20 @@ def main():
         else:
             test_target.append("spam")
 
-    
-    gnb = GaussianNB()
-    model = gnb.fit(train, train_target)
-    print "Finished training\n"
+    class_prior = [.2, .8]
+    #nb = GaussianNB()
+    nb = MultinomialNB(1.0, False, class_prior)
+    #nb = BernoulliNB(1.0, 2.5, False, class_prior)
+    model = nb.fit(train, train_target)
+
     y_pred = model.predict(test)
 
-        
     print("Number of mislabeled test points out of a total %d points : %d" 
           % (len(y_pred),(test_target != y_pred).sum()))
+
+    for i in range(0, num_test):
+        if y_pred[i] != test_target[i]:
+            print i
+
 
 main()
