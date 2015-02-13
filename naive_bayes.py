@@ -47,10 +47,11 @@ def main():
         else:
             test_target.append("spam")
 
+    cutoff = 2.5
     class_prior = [.2, .8]
     #nb = GaussianNB()
-    nb = MultinomialNB(1.0, False, class_prior)
-    #nb = BernoulliNB(1.0, 2.5, False, class_prior)
+    #nb = MultinomialNB(1.0, False, class_prior)
+    nb = BernoulliNB(1.0, cutoff, False, class_prior)
     model = nb.fit(train, train_target)
 
     y_pred = model.predict(test)
@@ -58,9 +59,18 @@ def main():
     print("Number of mislabeled test points out of a total %d points : %d" 
           % (len(y_pred),(test_target != y_pred).sum()))
 
+    vocab = []
+    with open("trec07p_data/Test/train_emails_vocab_200.txt") as f:
+        vocab = f.readlines()
+
+    vocab = [x.strip('\n') for x in vocab]
+
     for i in range(0, num_test):
         if y_pred[i] != test_target[i]:
-            print i
+            print y_pred[i], 
+            for j in range(0, len(test[i])):
+                if test[i][j] > cutoff: print vocab[j],
+            print "\n -----------------------"
 
 
 main()
