@@ -36,7 +36,7 @@ def print_features(mask):
     vocab = [x.strip('\n') for x in vocab]
 
     print "Retained vocabulary:"
-    for i in range(0, num_test):
+    for i in range(0, len(mask)):
         if mask[i]:
             print vocab[i], 
     print "\n-----------------------"
@@ -72,7 +72,7 @@ def main():
         test = selector.transform(test)
         
         mask = selector.get_support()
-        #print_features(mask)
+        print_features(mask)
         print ("Finished doing %d percentile feature selection" % (percentile))
 
     classifiers = [
