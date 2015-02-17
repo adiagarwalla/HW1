@@ -13,7 +13,9 @@ from sklearn import naive_bayes
 from sklearn.naive_bayes import GaussianNB
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.naive_bayes import BernoulliNB
-
+from sklearn import tree
+from sklearn import svm
+from sklearn.ensemble import AdaBoostClassifier
 
 num_train = 45000
 num_test = 5000
@@ -49,13 +51,30 @@ def main():
 
     cutoff = 2.5
     class_prior = [.2, .8]
-    classifiers = [(GaussianNB(), "Gaussian"), (MultinomialNB(1.0, False, class_prior), "Multinomial"), 
-                   (BernoulliNB(1.0, cutoff, False, class_prior), "Bernoulli")]
+    classifiers = [
+        (AdaBoostClassifier(base_estimator = tree.DecisionTreeClassifier(max_depth=3), n_estimators = 10), 
+        "Adaboost with max-depth 3 decision tree")
+        #(svm.LinearSVC(), "SVML"),
+        #(tree.DecisionTreeClassifier(), "Decision Tree") 
+        #(GaussianNB(), "Gaussian"), 
+        #(MultinomialNB(1.0, False, class_prior), "Multinomial"), 
+        #(BernoulliNB(1.0, cutoff, False, class_prior), "Bernoulli")
+        ]
     for (classifier, name) in classifiers: 
         model = classifier.fit(train, train_target)
         y_pred = model.predict(test)
-        print("%s: Number of mislabeled test points out of a total %d points : %d" 
-          % (name, len(y_pred),(test_target != y_pred).sum()))
+        FP = 0
+        FN = 0
+        TP = 0
+        for i in range(0, num_test):
+            if y_pred[i] == "spam" and test_target[i] == "notspam":
+                FP+=1
+            if y_pred[i] == "notspam" and test_target[i] == "spam":
+                FN+=1
+            if y_pred[i] == "spam" and test_target[i] == "spam":
+                TP+=1
+
+        print("%s: FP %d, FN %d, TP %d " % (name, FP, FN, TP))
 '''
     vocab = []
     with open("trec07p_data/Test/train_emails_vocab_200.txt") as f:
