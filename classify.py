@@ -15,11 +15,21 @@ from sklearn.ensemble import AdaBoostClassifier
 
 num_train = 45000
 num_test = 5000
-select_features = True
+bigrams = True
+select_features = False
 percentile = 10
 freq_cutoff = 2.5
 class_prior = [.2, .8]
 rounds = 50
+
+if bigrams:
+    vocab = "trec07p_data/Test/train_emails_bigrams_vocab_200.txt";
+    file_train = "../train_emails_bigrams_bag_of_words_200.dat"
+    file_test = "../test_emails_bigrams_bag_of_words_0.dat"
+else:
+    vocab = "trec07p_data/Test/train_emails_vocab_200.txt";
+    file_train = "../train_emails_bag_of_words_200.dat"
+    file_test = "../test_emails_bag_of_words_0.dat"
 
 # reading a bag of words file back into python. The number and order
 # of emails should be the same as in the *samples_class* file.
@@ -30,7 +40,7 @@ def read_bagofwords_dat(myfile, numofemails):
 
 def print_features(mask):
     vocab = []
-    with open("trec07p_data/Test/train_emails_vocab_200.txt") as f:
+    with open(vocab) as f:
         vocab = f.readlines()
 
     vocab = [x.strip('\n') for x in vocab]
@@ -43,11 +53,6 @@ def print_features(mask):
 
 
 def main():
-    # Bag of words for training data
-    file_train = "../train_emails_bag_of_words_200.dat"
-
-    # Bag of words for test data
-    file_test = "../test_emails_bag_of_words_0.dat"
     train = read_bagofwords_dat(file_train, num_train)
     test = read_bagofwords_dat(file_test, num_test)
 
@@ -72,17 +77,17 @@ def main():
         test = selector.transform(test)
         
         mask = selector.get_support()
-        print_features(mask)
+#        print_features(mask)
         print ("Finished doing %d percentile feature selection" % (percentile))
 
     classifiers = [
-#        (svm.LinearSVC(), "SVML"),
-#        (tree.DecisionTreeClassifier(), "Decision Tree"), 
-#        (GaussianNB(), "Gaussian"), 
-#        (MultinomialNB(1.0, False, class_prior), "Multinomial"), 
-#        (BernoulliNB(1.0, freq_cutoff, False, class_prior), "Bernoulli"), 
-#        (AdaBoostClassifier(base_estimator = tree.DecisionTreeClassifier(max_depth=3), n_estimators = rounds), 
-#        "Adaboost with %d rounds and max-depth 3 decision tree" % (rounds))
+        (svm.LinearSVC(), "SVML"),
+        (tree.DecisionTreeClassifier(), "Decision Tree"), 
+        (GaussianNB(), "Gaussian"), 
+        (MultinomialNB(1.0, False, class_prior), "Multinomial"), 
+        (BernoulliNB(1.0, freq_cutoff, False, class_prior), "Bernoulli"), 
+        (AdaBoostClassifier(base_estimator = tree.DecisionTreeClassifier(max_depth=3), n_estimators = rounds), 
+        "Adaboost with %d rounds and max-depth 3 decision tree" % (rounds))
         ]
     for (classifier, name) in classifiers: 
         model = classifier.fit(train, train_target)

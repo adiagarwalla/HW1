@@ -146,7 +146,7 @@ def main(argv):
    print 'vocabulary file is "', vocabf
    if (not vocabf):
       (docs, classes, samples, words) = tokenize_corpus(path, train=True)
-      word_count_threshold = 100
+      word_count_threshold = 200
       vocab = wordcount_filter(words, num=word_count_threshold)
    else:
       vocabfile = open(path+vocabf, 'r')
