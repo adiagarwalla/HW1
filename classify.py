@@ -12,22 +12,24 @@ import time
 from sklearn import naive_bayes, tree, svm, feature_selection
 from sklearn.naive_bayes import GaussianNB, MultinomialNB, BernoulliNB
 from sklearn.ensemble import AdaBoostClassifier
+from sklearn.metrics import roc_auc_score, roc_curve, auc
 
 num_train = 45000
 num_test = 5000
-bigrams = True
-select_features = False
+bigrams = False
+select_features = True
 percentile = 10
 freq_cutoff = 2.5
 class_prior = [.2, .8]
 rounds = 50
 
 if bigrams:
-    vocab = "trec07p_data/Test/train_emails_bigrams_vocab_200.txt";
+    print "Bigrams"
+    file_vocab = "trec07p_data/Test/train_emails_bigrams_vocab_200.txt";
     file_train = "../train_emails_bigrams_bag_of_words_200.dat"
     file_test = "../test_emails_bigrams_bag_of_words_0.dat"
 else:
-    vocab = "trec07p_data/Test/train_emails_vocab_200.txt";
+    file_vocab = "trec07p_data/Test/train_emails_vocab_200.txt";
     file_train = "../train_emails_bag_of_words_200.dat"
     file_test = "../test_emails_bag_of_words_0.dat"
 
@@ -40,7 +42,7 @@ def read_bagofwords_dat(myfile, numofemails):
 
 def print_features(mask):
     vocab = []
-    with open(vocab) as f:
+    with open(file_vocab) as f:
         vocab = f.readlines()
 
     vocab = [x.strip('\n') for x in vocab]
@@ -48,7 +50,7 @@ def print_features(mask):
     print "Retained vocabulary:"
     for i in range(0, len(mask)):
         if mask[i]:
-            print vocab[i], 
+            print vocab[i] + ", " , 
     print "\n-----------------------"
 
 
@@ -59,52 +61,58 @@ def main():
     train_target = []
     for i in range(0, num_train):
         if i < num_train/2:
-            train_target.append("notspam")
-        else:
-            train_target.append("spam")
+            train_target.append(0) #notspam 
+        else: 
+            train_target.append(1) #spam
 
     test_target = []
     for i in range(0, num_test):
         if i < num_test/2:
-            test_target.append("notspam")
+            test_target.append(0) #notspam
         else:
-            test_target.append("spam")
+            test_target.append(1) #spam
 
 
     if select_features:
         selector = feature_selection.SelectPercentile(feature_selection.f_classif, percentile=percentile)
+        #selector = feature_selection.SelectKBest(feature_selection.f_classif, k = 10)
         train = selector.fit_transform(train, train_target)
         test = selector.transform(test)
         
-        mask = selector.get_support()
-#        print_features(mask)
+        #mask = selector.get_support()
+        #print_features(mask)
         print ("Finished doing %d percentile feature selection" % (percentile))
 
     classifiers = [
-        (svm.LinearSVC(), "SVML"),
-        (tree.DecisionTreeClassifier(), "Decision Tree"), 
-        (GaussianNB(), "Gaussian"), 
-        (MultinomialNB(1.0, False, class_prior), "Multinomial"), 
-        (BernoulliNB(1.0, freq_cutoff, False, class_prior), "Bernoulli"), 
+        #(svm.LinearSVC(), "SVML"),
+        #(GaussianNB(), "Gaussian"), 
+        #(MultinomialNB(1.0, False, class_prior), "Multinomial"), 
+        #(BernoulliNB(1.0, freq_cutoff, False, class_prior), "Bernoulli"),
+        #(tree.DecisionTreeClassifier(), "Decision Tree"),  
         (AdaBoostClassifier(base_estimator = tree.DecisionTreeClassifier(max_depth=3), n_estimators = rounds), 
         "Adaboost with %d rounds and max-depth 3 decision tree" % (rounds))
         ]
     for (classifier, name) in classifiers: 
         model = classifier.fit(train, train_target)
-        y_pred = model.predict(test)
-        FP = 0
-        FN = 0
-        TP = 0
-        for i in range(0, num_test):
-            if y_pred[i] == "spam" and test_target[i] == "notspam":
-                FP+=1
-            if y_pred[i] == "notspam" and test_target[i] == "spam":
-                FN+=1
-            if y_pred[i] == "spam" and test_target[i] == "spam":
-                TP+=1
+        #y_pred = model.predict(test)
+        if name == "SVML":
+            y_scores = model.decision_function(test)
+        else:
+            y_scores = model.predict_proba(test)[:,1]
 
-        print("%s: FP %d, FN %d, TP %d " % (name, FP, FN, TP))
-'''
-'''
+        #FP = 0
+        #FN = 0
+        #TP = 0
+        #for i in range(0, num_test):
+        #    if y_pred[i] == "spam" and test_target[i] == "notspam":
+        #        FP+=1
+        #    if y_pred[i] == "notspam" and test_target[i] == "spam":
+        #        FN+=1
+        #    if y_pred[i] == "spam" and test_target[i] == "spam":
+        #        TP+=1
+
+        #print("%s: FP %d, FN %d, TP %d " % (name, FP, FN, TP))
+        print("%s: AUC %f" % (name, roc_auc_score(test_target, y_scores)))
+              
 
 main()
